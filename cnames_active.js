@@ -36,4 +36,5 @@ var cnames_active = {
     "selectric": "lcdsantos.github.io/jQuery-Selectric",
     "tagster": "goschevski.github.io/tagster",
     "zodiac": "indus.github.io/Zodiac",
+    "finder": "applait.github.io/finderjs"
 }
