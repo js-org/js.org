@@ -22,10 +22,11 @@
  */
 
 var cnames_active = {
+    "anenth": "anenth.github.io",
     "dns": "js-org.github.io/dns",
     "labelauty": "fntneves.github.io/jquery-labelauty",
     "logo": "js-org.github.io/logo",
     "radial": "ckgrafico.github.io/radial.js",
     "tagster": "goschevski.github.io/tagster",
-    "zodiac": "indus.github.io/Zodiac"
+    "zodiac": "indus.github.io/Zodiac",
 }
