@@ -24,6 +24,7 @@
 var cnames_active = {
     "anenth": "anenth.github.io",
     "bogdanteodoru": "bogdanteodoru.github.io",
+    "cordova-multiplatform-template": "ckgrafico.github.io/Cordova-Multiplatform-Template",
     "dns": "js-org.github.io/dns",
     "labelauty": "fntneves.github.io/jquery-labelauty",
     "logo": "js-org.github.io/logo",
