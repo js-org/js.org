@@ -26,6 +26,7 @@ var cnames_active = {
     "bogdanteodoru": "bogdanteodoru.github.io",
     "cordova-multiplatform-template": "ckgrafico.github.io/Cordova-Multiplatform-Template",
     "dns": "js-org.github.io/dns",
+    "finder": "applait.github.io/finderjs",
     "labelauty": "fntneves.github.io/jquery-labelauty",
     "logo": "js-org.github.io/logo",
     "lujaw": "lujaw.github.io",
@@ -35,6 +36,5 @@ var cnames_active = {
     "saturation":"saturation.github.io/www",
     "selectric": "lcdsantos.github.io/jQuery-Selectric",
     "tagster": "goschevski.github.io/tagster",
-    "zodiac": "indus.github.io/Zodiac",
-    "finder": "applait.github.io/finderjs"
+    "zodiac": "indus.github.io/Zodiac"
 }
