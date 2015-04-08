@@ -1,0 +1,301 @@
+﻿
+@import "ghbtn";
+@import "logo";
+
+@cKey: #ffb400;
+@cText: #333;
+@cContrast: #fff;
+
+html {
+    background-color: @cKey;
+
+    &.no-js, &.ie8 {
+        background: url('../../background.png') @cKey repeat-y fixed;
+    }
+}
+
+body {
+    color: @cText;
+    font-family: 'Source Sans Pro', Arial, Helvetica, sans-serif;
+    line-height: 1.5;
+    -webkit-text-size-adjust: 100%;
+    -moz-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+    text-size-adjust: 100%;
+}
+
+::selection {
+    color: @cKey;
+    background-color: @cText;
+}
+
+a {
+    color: @cText;
+    outline: none;
+    border: none;
+    text-decoration: none;
+}
+
+
+header, main, footer {
+    display: block;
+    max-width: 800px;
+    padding: 0 5%;
+    margin: 50px auto;
+}
+
+
+
+header {
+    @dLogo: 4em;
+    @dSocial: 2em;
+
+    #logo {
+        font-size: @dLogo;
+        color: @cContrast;
+    }
+
+    #social {
+        float: right;
+        margin: @dLogo - @dSocial 0 0 0;
+        list-style: none;
+        padding: 0;
+
+        li {
+            display: inline;
+
+            a {
+                display: inline-block;
+                margin-left: @dSocial/10;
+                width: @dSocial;
+                line-height: @dSocial;
+                text-align: center;
+                color: @cContrast;
+
+                @cFacebook: #3c5a98;
+                @cTwitter: #54a3db;
+                @cGoogleplus: #de4b3b;
+
+                &.facebook {
+                    background: @cFacebook;
+
+                    &:hover {
+                        color: @cFacebook;
+                    }
+                }
+
+                &.twitter {
+                    background: @cTwitter;
+
+                    &:hover {
+                        color: @cTwitter;
+                    }
+                }
+
+                &.googleplus {
+                    background: @cGoogleplus;
+
+                    &:hover {
+                        color: @cGoogleplus;
+                    }
+                }
+
+                -moz-transition: all .3s;
+                -o-transition: all .3s;
+                -webkit-transition: all .3s;
+                transition: all .3s;
+
+                &:hover {
+                    background: @cContrast;
+                    background: fade(@cContrast, 50%);
+                }
+            }
+        }
+    }
+
+    h1 {
+        clear: both;
+        font-family: 'Source Serif Pro', Georgia, Times, serif;
+        font-size: 1em;
+        font-weight: 400;
+        border-top: 2px solid @cContrast;
+        color: @cContrast;
+        margin: 0;
+    }
+}
+
+main {
+    #typewriter {
+        font-size: 3em;
+        margin: 0;
+
+        #hermes {
+            -moz-transition: all .2s .1s;
+            -o-transition: all .2s .1s;
+            -webkit-transition: all .2s .1s;
+            transition: all .2s .1s;
+
+            &.active {
+                padding-right: .1em;
+                border-right: .06em solid @cText;
+            }
+        }
+    }
+
+    a {
+        font-weight: 700;
+        -moz-transition: all .2s .1s;
+        -o-transition: all .2s .1s;
+        -webkit-transition: all .2s .1s;
+        transition: all .2s .1s;
+
+        &:hover {
+            color: darken(@cKey,30%);
+        }
+    }
+
+    p.bigger {
+        font-size: 1.5em;
+    }
+
+    section {
+        position: relative;
+        padding: 1em 0;
+
+        input {
+            position: absolute;
+            opacity: 0;
+            top: 0;
+            left: -999px;
+
+            &:checked + article {
+                display: inline-block;
+            }
+
+            &#s1I:checked ~ nav #s1L,
+            &#s2I:checked ~ nav #s2L,
+            &#s3I:checked ~ nav #s3L,
+            &#s4I:checked ~ nav #s4L {
+                background-color: @cContrast;
+            }
+        }
+
+        nav {
+            display: inline-table;
+            border-collapse: collapse;
+            margin: 0;
+
+            label {
+                cursor: pointer;
+                display: table-cell;
+                border: 2px solid @cContrast;
+                border-top: none;
+                left: 0;
+                font-weight: 700;
+                font-size: 1em;
+                height: 2em;
+                width: 2em;
+                line-height: 2em;
+                text-align: center;
+                margin: 0;
+                padding: 0;
+                -moz-transition: all .3s;
+                -o-transition: all .3s;
+                -webkit-transition: all .3s;
+                transition: all .3s;
+
+                &:hover {
+                    background-color: fade(@cContrast, 50%);
+                }
+            }
+        }
+
+        article {
+            display: none;
+            background-color: @cContrast;
+            margin: 0;
+            padding: 1.2em;
+
+
+            h3 {
+                float: left;
+                color: @cKey;
+                border-right: 2px solid @cKey;
+                font-size: 6em;
+                width: 1em;
+                padding-top: .2em;
+                text-align: center;
+                line-height: .75em;
+                font-weight: 700;
+                margin: -.2em .3em .1em -.2em;
+            }
+        }
+    }
+
+    h4 {
+        margin-bottom: .5em;
+    }
+
+    code {
+        font-family: 'Source Code Pro', "Courier New", Courier, monospace;
+        font-size: .8em;
+    }
+}
+
+
+footer {
+    font-size: .8em;
+    color: @cContrast;
+
+    #star {
+        position: relative;
+        border-bottom: 2px solid @cContrast;
+        margin-bottom: .2em;
+    }
+
+    #contribution {
+        float: right;
+    }
+
+    a {
+        color: inherit;
+        text-decoration: underline;
+        padding: 0 .2em;
+
+        &:hover {
+            color: @cText;
+        }
+    }
+}
+
+#zodiac {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+}
+
+
+@media screen and (max-width: 55em) {
+    main section article h3 {
+        font-size: 2em;
+        padding-top: .4em;
+        margin: -.6em .6em 0 0;
+    }
+
+    main #typewriter {
+        font-size: 2em;
+    }
+}
+
+@media screen and (max-width: 30em) {
+    main #typewriter {
+        font-size: 1.5em;
+        font-weight: 700;
+    }
+
+    main code, p b {
+        display: none;
+    }
+}

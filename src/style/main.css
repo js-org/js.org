@@ -61,8 +61,8 @@
 }
 @font-face {
   font-family: 'jsorg';
-  src: url(../font/jsorg.eot?3za8g4);
-  src: url(../font/jsorg.eot?#iefix3za8g4) format('embedded-opentype'), url(../font/jsorg.woff?3za8g4) format('woff'), url(../font/jsorg.ttf?3za8g4) format('truetype'), url(../font/jsorg.svg?3za8g4#jsorg) format('svg');
+  src: url('../../font/jsorg.eot?3za8g4');
+  src: url('../../font/jsorg.eot?#iefix3za8g4') format('embedded-opentype'), url('../../font/jsorg.woff?3za8g4') format('woff'), url('../../font/jsorg.ttf?3za8g4') format('truetype'), url('../../font/jsorg.svg?3za8g4#jsorg') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -83,7 +83,7 @@ html {
 }
 html.no-js,
 html.ie8 {
-  background: url(../background.png) #ffb400 repeat-y fixed;
+  background: url('../../background.png') #ffb400 repeat-y fixed;
 }
 body {
   color: #333333;
