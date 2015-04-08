@@ -31,7 +31,7 @@ var cnames_active = {
     "nsisodiya": "nsisodiya.github.io",
     "radial": "ckgrafico.github.io/radial.js",
     "saturation":"saturation.github.io/www",
-    "selectric": "lcdsantos.github.io/jQuery-Selectric/",
+    "selectric": "lcdsantos.github.io/jQuery-Selectric",
     "tagster": "goschevski.github.io/tagster",
     "zodiac": "indus.github.io/Zodiac",
 }
