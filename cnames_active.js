@@ -1,4 +1,4 @@
-﻿/*
+/*
  ***** ACTIVE SUBDOMAINS
  * ***********************
  *
@@ -27,10 +27,11 @@ var cnames_active = {
     "dns": "js-org.github.io/dns",
     "labelauty": "fntneves.github.io/jquery-labelauty",
     "logo": "js-org.github.io/logo",
-    "lujaw": "lujaw.github.io",    
+    "lujaw": "lujaw.github.io",
     "nsisodiya": "nsisodiya.github.io",
     "radial": "ckgrafico.github.io/radial.js",
     "saturation":"saturation.github.io/www",
+    "selectric": "lcdsantos.github.io/jQuery-Selectric/",
     "tagster": "goschevski.github.io/tagster",
     "zodiac": "indus.github.io/Zodiac",
 }
