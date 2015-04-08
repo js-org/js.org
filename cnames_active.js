@@ -22,6 +22,7 @@
  */
 
 var cnames_active = {
+    "cordova-multiplatform-template" :"ckgrafico.github.io/Cordova-Multiplatform-Template",
     "dns": "js-org.github.io/dns",
     "radial": "ckgrafico.github.io/radial.js",
     "tagster": "goschevski.github.io/tagster",
