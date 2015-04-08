@@ -309,7 +309,7 @@ footer a:hover {
     font-weight: 700;
   }
   main code,
-  p b {
+  main h4 {
     display: none;
   }
 }
