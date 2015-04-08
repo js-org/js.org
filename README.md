@@ -3,7 +3,7 @@ free and short JS.ORG domains for GitHub Pages
 
 Have a look at [JS.ORG](http://dns.js.org) [(branch: gh-pages)](https://github.com/js-org/dns/tree/gh-pages)
 
-...or follow the 4 steps:
+To get a short and sleek subdomain for you own GitHub Page or follow these 4 Steps:
 
 ### Step 1
 If you haven't already, now it's time to log in to your GitHub account and set up your GitHub Page following the instructions [here](https://pages.github.com/). To get a head start you can simply use the generator and one of the provided themes.
