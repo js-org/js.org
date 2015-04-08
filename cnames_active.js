@@ -23,6 +23,7 @@
 
 var cnames_active = {
     "dns": "js-org.github.io/dns",
+    "labelauty": "fntneves.github.io/jquery-labelauty",
     "tagster": "goschevski.github.io/tagster",
     "zodiac":"indus.github.io/Zodiac"
 }
