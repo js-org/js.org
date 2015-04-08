@@ -32,4 +32,5 @@ var cnames_active = {
     "saturation":"saturation.github.io/www",
     "tagster": "goschevski.github.io/tagster",
     "zodiac": "indus.github.io/Zodiac",
+    "saturation": "http://saturation.github.io/www/"
 }
