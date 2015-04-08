@@ -23,6 +23,6 @@
 
 var cnames_active = {
     "dns": "js-org.github.io/dns",
-    "zodiac":"indus.github.io/Zodiac",
-    "tagster": "goschevski.github.io/tagster"
+    "tagster": "goschevski.github.io/tagster",
+    "zodiac":"indus.github.io/Zodiac"
 }
