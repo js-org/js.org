@@ -32,6 +32,7 @@ var cnames_active = {
     "labelauty": "fntneves.github.io/jquery-labelauty",
     "logo": "js-org.github.io/logo",
     "lujaw": "lujaw.github.io",
+    "nikolay": "nikolay.github.io",
     "nsisodiya": "nsisodiya.github.io",
     "radial": "ckgrafico.github.io/radial.js",
     "rafaelbiten": "rafaelbiten.github.io",
