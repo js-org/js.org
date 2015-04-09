@@ -25,6 +25,7 @@ var cnames_active = {
     "anenth": "anenth.github.io",
     "bogdanteodoru": "bogdanteodoru.github.io",
     "cordova-multiplatform-template": "ckgrafico.github.io/Cordova-Multiplatform-Template",
+    "den": "deniss-muhla.github.io/den",
     "dns": "js-org.github.io/dns",
     "finder": "applait.github.io/finderjs",
     "happy": "e24.github.io/happy",
