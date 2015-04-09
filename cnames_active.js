@@ -40,5 +40,6 @@ var cnames_active = {
     "spirare": "waldenn.github.io/spirare",
     "tagster": "goschevski.github.io/tagster",
     "zodiac": "indus.github.io/Zodiac",
-    "xto6": "mohebifar.github.io/xto6"
+    "xto6": "mohebifar.github.io/xto6",
+    "ivml": "influencetech.github.io/ivml"
 }
