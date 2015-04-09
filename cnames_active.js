@@ -28,6 +28,7 @@ var cnames_active = {
     "dns": "js-org.github.io/dns",
     "finder": "applait.github.io/finderjs",
     "happy": "e24.github.io/happy",
+    "ivml": "influencetech.github.io/ivml",
     "labelauty": "fntneves.github.io/jquery-labelauty",
     "logo": "js-org.github.io/logo",
     "lujaw": "lujaw.github.io",
@@ -40,6 +41,5 @@ var cnames_active = {
     "spirare": "waldenn.github.io/spirare",
     "tagster": "goschevski.github.io/tagster",
     "zodiac": "indus.github.io/Zodiac",
-    "xto6": "mohebifar.github.io/xto6",
-    "ivml": "influencetech.github.io/ivml"
+    "xto6": "mohebifar.github.io/xto6"
 }
