@@ -27,6 +27,7 @@ var cnames_active = {
     "cordova-multiplatform-template": "ckgrafico.github.io/Cordova-Multiplatform-Template",
     "dns": "js-org.github.io/dns",
     "finder": "applait.github.io/finderjs",
+    "happy": "e24.github.io/happy",
     "labelauty": "fntneves.github.io/jquery-labelauty",
     "logo": "js-org.github.io/logo",
     "lujaw": "lujaw.github.io",
