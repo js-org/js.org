@@ -34,6 +34,7 @@ var cnames_active = {
     "radial": "ckgrafico.github.io/radial.js",
     "rafaelbiten": "rafaelbiten.github.io",
     "saturation": "saturation.github.io/www",
+    "sean": "seancallinan.github.io",
     "selectric": "lcdsantos.github.io/jQuery-Selectric",
     "tagster": "goschevski.github.io/tagster",
     "zodiac": "indus.github.io/Zodiac"
