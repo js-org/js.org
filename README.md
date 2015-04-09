@@ -2,6 +2,8 @@
 
 Have a look at [JS.ORG](http://dns.js.org) [(branch: gh-pages)](https://github.com/js-org/dns/tree/gh-pages)
 
+***Because of the risk of abuse I´m no longer merging requests for pages without content!***
+
 To get a short and sleek subdomain for you own GitHub Page follow these 4 Steps:
 
 ### Step 1
