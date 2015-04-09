@@ -39,6 +39,7 @@ var cnames_active = {
     "sean": "seancallinan.github.io",
     "selectric": "lcdsantos.github.io/jQuery-Selectric",
     "spirare": "waldenn.github.io/spirare",
+    "sugarshin": "sugarshin.github.io",
     "tagster": "goschevski.github.io/tagster",
     "zodiac": "indus.github.io/Zodiac",
     "xto6": "mohebifar.github.io/xto6"
