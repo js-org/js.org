@@ -47,6 +47,6 @@ var cnames_active = {
     , "tagster": "goschevski.github.io/tagster"
     , "timerizer": "callumacrae.github.io/timerizerJS"
     , "weaver": "maxkfranz.github.io/weaver"
-    , "zodiac": "indus.github.io/Zodiac"
     , "xto6": "mohebifar.github.io/xto6"
+    , "zodiac": "indus.github.io/Zodiac"
 }
