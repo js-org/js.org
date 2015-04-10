@@ -45,5 +45,6 @@ var cnames_active = {
     "sugarshin": "sugarshin.github.io",
     "tagster": "goschevski.github.io/tagster",
     "zodiac": "indus.github.io/Zodiac",
-    "xto6": "mohebifar.github.io/xto6"
+    "xto6": "mohebifar.github.io/xto6",
+    "gruft": "nikola.github.io/gruft"
 }
