@@ -29,6 +29,7 @@ var cnames_active = {
     "cordova-multiplatform-template": "ckgrafico.github.io/Cordova-Multiplatform-Template",
     "dns": "js-org.github.io/dns",
     "finder": "applait.github.io/finderjs",
+    "gruft": "nikola.github.io/gruft",
     "happy": "e24.github.io/happy",
     "ivml": "influencetech.github.io/ivml",
     "labelauty": "fntneves.github.io/jquery-labelauty",
@@ -44,8 +45,7 @@ var cnames_active = {
     "spirare": "waldenn.github.io/spirare",
     "sugarshin": "sugarshin.github.io",
     "tagster": "goschevski.github.io/tagster",
-    "timerizer": "callumacrae.github.io/timerizerJS"
+    "timerizer": "callumacrae.github.io/timerizerJS",
     "zodiac": "indus.github.io/Zodiac",
-    "xto6": "mohebifar.github.io/xto6",
-    "gruft": "nikola.github.io/gruft"
+    "xto6": "mohebifar.github.io/xto6"
 }
