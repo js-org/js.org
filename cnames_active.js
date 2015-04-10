@@ -19,12 +19,13 @@
  *
  * NOTICE:      It would be nice if you could keep the alphabetical order.
  *
- *              Because of the risk of abuse I´m no longer merging requests for pages without content!
+ *              Because of the risk of abuse IÂ´m no longer merging requests for pages without content!
  * 
  */
 
 var cnames_active = {
       "anenth": "anenth.github.io"
+    , "alt": "goatslacker.github.io/alt/"
     , "bogdanteodoru": "bogdanteodoru.github.io"
     , "cordova-multiplatform-template": "ckgrafico.github.io/Cordova-Multiplatform-Template"
     , "dns": "js-org.github.io/dns"
