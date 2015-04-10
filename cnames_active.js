@@ -46,6 +46,7 @@ var cnames_active = {
     , "sugarshin": "sugarshin.github.io"
     , "tagster": "goschevski.github.io/tagster"
     , "timerizer": "callumacrae.github.io/timerizerJS"
+    , "weaver": "maxkfranz.github.io/weaver"
     , "zodiac": "indus.github.io/Zodiac"
     , "xto6": "mohebifar.github.io/xto6"
 }
