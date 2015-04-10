@@ -24,28 +24,28 @@
  */
 
 var cnames_active = {
-    "anenth": "anenth.github.io",
-    "bogdanteodoru": "bogdanteodoru.github.io",
-    "cordova-multiplatform-template": "ckgrafico.github.io/Cordova-Multiplatform-Template",
-    "dns": "js-org.github.io/dns",
-    "finder": "applait.github.io/finderjs",
-    "gruft": "nikola.github.io/gruft",
-    "happy": "e24.github.io/happy",
-    "ivml": "influencetech.github.io/ivml",
-    "labelauty": "fntneves.github.io/jquery-labelauty",
-    "logo": "js-org.github.io/logo",
-    "lujaw": "lujaw.github.io",
-    "nikolay": "nikolay.github.io",
-    "nsisodiya": "nsisodiya.github.io",
-    "radial": "ckgrafico.github.io/radial.js",
-    "rafaelbiten": "rafaelbiten.github.io",
-    "saturation": "saturation.github.io/www",
-    "sean": "seancallinan.github.io",
-    "selectric": "lcdsantos.github.io/jQuery-Selectric",
-    "spirare": "waldenn.github.io/spirare",
-    "sugarshin": "sugarshin.github.io",
-    "tagster": "goschevski.github.io/tagster",
-    "timerizer": "callumacrae.github.io/timerizerJS",
-    "zodiac": "indus.github.io/Zodiac",
-    "xto6": "mohebifar.github.io/xto6"
+      "anenth": "anenth.github.io"
+    , "bogdanteodoru": "bogdanteodoru.github.io"
+    , "cordova-multiplatform-template": "ckgrafico.github.io/Cordova-Multiplatform-Template"
+    , "dns": "js-org.github.io/dns"
+    , "finder": "applait.github.io/finderjs"
+    , "gruft": "nikola.github.io/gruft"
+    , "happy": "e24.github.io/happy"
+    , "ivml": "influencetech.github.io/ivml"
+    , "labelauty": "fntneves.github.io/jquery-labelauty"
+    , "logo": "js-org.github.io/logo"
+    , "lujaw": "lujaw.github.io"
+    , "nikolay": "nikolay.github.io"
+    , "nsisodiya": "nsisodiya.github.io"
+    , "radial": "ckgrafico.github.io/radial.js"
+    , "rafaelbiten": "rafaelbiten.github.io"
+    , "saturation": "saturation.github.io/www"
+    , "sean": "seancallinan.github.io"
+    , "selectric": "lcdsantos.github.io/jQuery-Selectric"
+    , "spirare": "waldenn.github.io/spirare"
+    , "sugarshin": "sugarshin.github.io"
+    , "tagster": "goschevski.github.io/tagster"
+    , "timerizer": "callumacrae.github.io/timerizerJS"
+    , "zodiac": "indus.github.io/Zodiac"
+    , "xto6": "mohebifar.github.io/xto6"
 }
