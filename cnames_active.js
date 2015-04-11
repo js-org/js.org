@@ -39,7 +39,7 @@ var cnames_active = {
     , "mmcq": "nikola.github.io/MMCQ"
     , "nikolay": "nikolay.github.io"
     , "nsisodiya": "nsisodiya.github.io"
-    , "objectmodel": "sylvainpolletvillard.github.io/ObjectModel/"
+    , "objectmodel": "sylvainpolletvillard.github.io/ObjectModel"
     , "radial": "ckgrafico.github.io/radial.js"
     , "rafaelbiten": "rafaelbiten.github.io"
     , "saturation": "saturation.github.io/www"
