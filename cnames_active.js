@@ -20,7 +20,7 @@
  * NOTICE:      It would be nice if you could keep the alphabetical order.
  *
  *              Because of the risk of abuse I´m no longer merging requests for pages without content!
- * 
+ *
  */
 
 var cnames_active = {
@@ -46,7 +46,7 @@ var cnames_active = {
     , "sean": "seancallinan.github.io"
     , "selectric": "lcdsantos.github.io/jQuery-Selectric"
     , "spirare": "waldenn.github.io/spirare"
-    , "sugarshin": "sugarshin.github.io"
+    , "sugarshin": "sugarshin.github.io/sugarshin.js.org"
     , "tagster": "goschevski.github.io/tagster"
     , "timerizer": "callumacrae.github.io/timerizerJS"
     , "weaver": "maxkfranz.github.io/weaver"
