@@ -1,4 +1,4 @@
-[![JS.ORG](https://img.shields.io/badge/js.org-dns-yellow.svg?style=flat-square)](http://js.org)
+[![JS.ORG](https://img.shields.io/badge/js.org-dns-ffb400.svg?style=flat-square)](http://js.org)
 
 ![JS.ORG Logo](http://logo.js.org/png/github_header.png)
 
