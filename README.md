@@ -1,5 +1,5 @@
-![JS.ORG Logo](http://logo.js.org/png/github_header.png)
 [![JS.ORG](https://img.shields.io/badge/js.org-dns-yellow.svg?style=flat-square)](http://js.org)
+![JS.ORG Logo](http://logo.js.org/png/github_header.png)
 
 Have a look at [JS.ORG](http://dns.js.org) [(branch: gh-pages)](https://github.com/js-org/dns/tree/gh-pages)
 
