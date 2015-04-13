@@ -1,8 +1,9 @@
 ![JS.ORG Logo](http://logo.js.org/png/github_header.png)
+[![JS.ORG](https://img.shields.io/badge/js.org-dns-yellow.svg?style=flat-square)](http://js.org)
 
 Have a look at [JS.ORG](http://dns.js.org) [(branch: gh-pages)](https://github.com/js-org/dns/tree/gh-pages)
 
-***Because of the risk of abuse I´m no longer merging requests for pages without content!***
+***Because of the risk of abuse IÂ´m no longer merging requests for pages without content!***
 
 To get a short and sleek subdomain for your own GitHub Page follow these 4 Steps:
 
