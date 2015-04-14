@@ -29,6 +29,7 @@ var cnames_active = {
     , "bogdanteodoru": "bogdanteodoru.github.io"
     , "cordova-multiplatform-template": "ckgrafico.github.io/Cordova-Multiplatform-Template"
     , "dns": "js-org.github.io/dns"
+    , "emulisp": "grahack.github.io/EmuLisp"
     , "finder": "applait.github.io/finderjs"
     , "gruft": "nikola.github.io/gruft"
     , "happy": "e24.github.io/happy"
