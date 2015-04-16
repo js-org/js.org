@@ -36,6 +36,7 @@ var cnames_active = {
     , "dns": "js-org.github.io/dns"
     , "emulisp": "grahack.github.io/EmuLisp"
     , "finder": "applait.github.io/finderjs"
+    , "frzr": "pakastin.github.io/frzr"
     , "gruft": "nikola.github.io/gruft"
     , "happy": "e24.github.io/happy"
     , "ivml": "influencetech.github.io/ivml"
