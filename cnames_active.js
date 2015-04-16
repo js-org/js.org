@@ -38,6 +38,7 @@ var cnames_active = {
     , "finder": "applait.github.io/finderjs"
     , "gruft": "nikola.github.io/gruft"
     , "happy": "e24.github.io/happy"
+    , "helloworld": "temeez.github.io/helloworld"
     , "ivml": "influencetech.github.io/ivml"
     , "jodytate": "jodytate.github.io"
     , "labelauty": "fntneves.github.io/jquery-labelauty"
