@@ -29,7 +29,8 @@
  */
 
 var cnames_active = {
-    "alt": "goatslacker.github.io/alt/"
+    "akashacms": "akashacms.github.io"
+    , "alt": "goatslacker.github.io/alt/"
     , "anenth": "anenth.github.io"
     , "bogdanteodoru": "bogdanteodoru.github.io"
     , "cordova-multiplatform-template": "ckgrafico.github.io/Cordova-Multiplatform-Template"
