@@ -41,6 +41,7 @@ var cnames_active = {
     , "happy": "e24.github.io/happy"
     , "ivml": "influencetech.github.io/ivml"
     , "jodytate": "jodytate.github.io"
+    , "json-schema-faker": "pateketrueke.github.io/json-schema-faker"
     , "labelauty": "fntneves.github.io/jquery-labelauty"
     , "logo": "js-org.github.io/logo"
     , "lujaw": "lujaw.github.io"
@@ -61,5 +62,4 @@ var cnames_active = {
     , "weaver": "maxkfranz.github.io/weaver"
     , "xto6": "mohebifar.github.io/xto6"
     , "zodiac": "indus.github.io/Zodiac"
-    , "json-schema-faker": "pateketrueke.github.io/json-schema-faker"
 }
