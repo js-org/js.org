@@ -58,6 +58,7 @@ var cnames_active = {
     , "saturation": "saturation.github.io/www"
     , "sean": "seancallinan.github.io"
     , "selectric": "lcdsantos.github.io/jQuery-Selectric"
+    , "spin": "fgnass.github.io/spin.js"
     , "spirare": "waldenn.github.io/spirare"
     , "sugarshin": "sugarshin.github.io/sugarshin.js.org"
     , "tagster": "goschevski.github.io/tagster"
