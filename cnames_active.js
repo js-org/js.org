@@ -44,6 +44,7 @@ var cnames_active = {
     , "jodytate": "jodytate.github.io"
     , "json-schema-faker": "pateketrueke.github.io/json-schema-faker"
     , "labelauty": "fntneves.github.io/jquery-labelauty"
+    , "linuxaddict": "linuxaddict.github.io/mario"
     , "logo": "js-org.github.io/logo"
     , "lujaw": "lujaw.github.io"
     , "matthias-schuetz": "matthias-schuetz.github.io"
