@@ -32,6 +32,7 @@ var cnames_active = {
     "alt": "goatslacker.github.io/alt/"
     , "anenth": "anenth.github.io"
     , "bogdanteodoru": "bogdanteodoru.github.io"
+    , "collegequest": "schoolhouserock.github.io/SchoolHouseRock"
     , "cordova-multiplatform-template": "ckgrafico.github.io/Cordova-Multiplatform-Template"
     , "dns": "js-org.github.io/dns"
     , "emulisp": "grahack.github.io/EmuLisp"
