@@ -89,6 +89,7 @@ var cnames_active = {
     , "thundercats": "r3dm.github.io/thundercats"
     , "vncz": "xvincentx.github.io/vncz"
     , "weaver": "maxkfranz.github.io/weaver"
+    , "woodchuck": "ttaylor.github.io/woodchuck"
     , "xto6": "mohebifar.github.io/xto6"
     , "zodiac": "indus.github.io/Zodiac"
     , "zombie": "assaf.github.io/zombie"
