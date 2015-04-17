@@ -84,6 +84,7 @@ var cnames_active = {
     , "radial": "ckgrafico.github.io/radial.js"
     , "rafaelbiten": "rafaelbiten.github.io"
     , "rafaelmangolin": "rafaelMangolin.github.io"
+    , "ruslan": "ruslanx32.gitHub.io"
     , "rwu": "rwu823.github.io"
     , "saturation": "saturation.github.io/www"
     , "sean": "seancallinan.github.io"
