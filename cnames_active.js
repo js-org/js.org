@@ -65,6 +65,7 @@ var cnames_active = {
     , "sugarshin": "sugarshin.github.io/sugarshin.js.org"
     , "tagster": "goschevski.github.io/tagster"
     , "timerizer": "callumacrae.github.io/timerizerJS"
+    , "thundercats": "r3dm.github.io/thundercats"
     , "vncz": "xvincentx.github.io/vncz"
     , "weaver": "maxkfranz.github.io/weaver"
     , "xto6": "mohebifar.github.io/xto6"
