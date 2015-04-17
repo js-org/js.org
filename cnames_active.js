@@ -33,6 +33,7 @@ var cnames_active = {
     , "akashacms": "akashacms.github.io"
     , "alt": "goatslacker.github.io/alt"
     , "anenth": "anenth.github.io"
+    , "ashabatin": "ashabatin.github.io"
     , "bogdanteodoru": "bogdanteodoru.github.io"
     , "collegequest": "schoolhouserock.github.io/CollegeQuest"
     , "cordova-multiplatform-template": "ckgrafico.github.io/Cordova-Multiplatform-Template"
