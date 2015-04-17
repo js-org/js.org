@@ -38,6 +38,7 @@ var cnames_active = {
     , "cordova-multiplatform-template": "ckgrafico.github.io/Cordova-Multiplatform-Template"
     , "cqrs": "adrai.github.io/cqrs"
     , "crunch": "vukicevic.github.io/crunch"
+    , "date": "matthewmueller.github.io/date"
     , "dns": "js-org.github.io/dns"
     , "emulisp": "grahack.github.io/EmuLisp"
     , "eventstore": "adrai.github.io/node-eventstore"
