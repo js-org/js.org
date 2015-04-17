@@ -33,6 +33,7 @@ var cnames_active = {
     , "anenth": "anenth.github.io"
     , "bogdanteodoru": "bogdanteodoru.github.io"
     , "cordova-multiplatform-template": "ckgrafico.github.io/Cordova-Multiplatform-Template"
+    , "cqrs": "adrai.github.io/cqrs"
     , "crunch": "vukicevic.github.io/crunch"
     , "dns": "js-org.github.io/dns"
     , "emulisp": "grahack.github.io/EmuLisp"
