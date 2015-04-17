@@ -34,7 +34,7 @@ var cnames_active = {
     , "alt": "goatslacker.github.io/alt"
     , "anenth": "anenth.github.io"
     , "bogdanteodoru": "bogdanteodoru.github.io"
-    , "chy": "chy59.github.io/chy"
+    , "chy": "chy59.github.io"
     , "collegequest": "schoolhouserock.github.io/CollegeQuest"
     , "cordova-multiplatform-template": "ckgrafico.github.io/Cordova-Multiplatform-Template"
     , "cqrs": "adrai.github.io/cqrs"
