@@ -1,5 +1,3 @@
-*10 new subdomains in less then 4 hours - thanks to [dailyjs.com](http:dailyjs.com). I have to sleep now, but will merge requests tomorrow morning before my day job.*
-
 [![JS.ORG](https://img.shields.io/badge/js.org-dns-ffb400.svg?style=flat-square)](http://js.org)
 
 [![JS.ORG Logo](http://logo.js.org/png/github_header.png)](http://js.org)
