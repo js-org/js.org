@@ -48,7 +48,7 @@ var cnames_active = {
     , "frzr": "pakastin.github.io/frzr"
     , "greg": "gregorydgarcia.github.io"
     , "gruft": "nikola.github.io/gruft"
-    , "igorsantana": "igorsantana.github.io"
+    , "igorsantana": "opsigor.github.io"
     , "happy": "e24.github.io/happy"
     , "ivml": "influencetech.github.io/ivml"
     , "jbone": "kupriyanenko.github.io/jbone"
