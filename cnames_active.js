@@ -57,6 +57,7 @@ var cnames_active = {
     , "logo": "js-org.github.io/logo"
     , "lujaw": "lujaw.github.io"
     , "matthias-schuetz": "matthias-schuetz.github.io"
+    , "maxnachlinger": "maxnachlinger.github.io"
     , "mithril": "lhorie.github.io/mithril"
     , "mmcq": "nikola.github.io/MMCQ"
     , "nemo": "paypal.github.io/nemo"
@@ -79,5 +80,4 @@ var cnames_active = {
     , "xto6": "mohebifar.github.io/xto6"
     , "zodiac": "indus.github.io/Zodiac"
     , "zombie": "assaf.github.io/zombie"
-    , "maxnachlinger": "maxnachlinger.github.io"
 }
