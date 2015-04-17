@@ -52,6 +52,7 @@ var cnames_active = {
     , "lujaw": "lujaw.github.io"
     , "matthias-schuetz": "matthias-schuetz.github.io"
     , "mmcq": "nikola.github.io/MMCQ"
+    , "jbone": "kupriyanenko.github.io/jbone"
     , "nemo": "paypal.github.io/nemo"
     , "nikolay": "nikolay.github.io"
     , "nsisodiya": "nsisodiya.github.io"
