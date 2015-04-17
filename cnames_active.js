@@ -67,6 +67,7 @@ var cnames_active = {
     , "nikolay": "nikolay.github.io"
     , "nsisodiya": "nsisodiya.github.io"
     , "objectmodel": "sylvainpolletvillard.github.io/ObjectModel"
+    , "rad": "rapid-application-development-js.github.io/RAD.JS"
     , "radial": "ckgrafico.github.io/radial.js"
     , "rafaelbiten": "rafaelbiten.github.io"
     , "rwu": "rwu823.github.io"
