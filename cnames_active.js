@@ -40,6 +40,7 @@ var cnames_active = {
     , "chy": "chy59.github.io"
     , "collegequest": "schoolhouserock.github.io/CollegeQuest"
     , "cordova-multiplatform-template": "ckgrafico.github.io/Cordova-Multiplatform-Template"
+    , "country": "growmies.github.io/countryjs"
     , "cqrs": "adrai.github.io/cqrs"
     , "crunch": "vukicevic.github.io/crunch"
     , "dns": "js-org.github.io/dns"
