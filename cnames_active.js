@@ -90,4 +90,5 @@ var cnames_active = {
     , "xto6": "mohebifar.github.io/xto6"
     , "zodiac": "indus.github.io/Zodiac"
     , "zombie": "assaf.github.io/zombie"
+    , "brandonmerritt": "brandonmerritt.github.io"
 }
