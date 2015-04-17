@@ -92,6 +92,7 @@ var cnames_active = {
     , "spin": "fgnass.github.io/spin.js"
     , "spirare": "waldenn.github.io/spirare"
     , "sugarshin": "sugarshin.github.io/sugarshin.js.org"
+    , "stephenmccall": "stephenmccall.github.io"
     , "supernova": "janbiasi.github.io/supernova"
     , "tagster": "goschevski.github.io/tagster"
     , "terminal": "gottox.github.io/terminal.js"
