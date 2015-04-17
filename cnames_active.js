@@ -27,9 +27,8 @@
  *              Because of the risk of abuse I´m no longer merging requests for pages without content!
  *
  */
-
 var cnames_active = {
-    "3bola": "3bola.github.io"
+    "3bola": "3bola.github.io" 
     , "akashacms": "akashacms.github.io"
     , "alt": "goatslacker.github.io/alt"
     , "anenth": "anenth.github.io"
