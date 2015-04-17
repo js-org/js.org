@@ -71,6 +71,7 @@ var cnames_active = {
     , "maxnachlinger": "maxnachlinger.github.io"
     , "mfitzpatrick79": "mfitzpatrick79.github.io"
     , "mithril": "lhorie.github.io/mithril"
+    , "motapc": "motapc97.github.io"
     , "mmcq": "nikola.github.io/MMCQ"
     , "nemo": "paypal.github.io/nemo"
     , "nikolay": "nikolay.github.io"
