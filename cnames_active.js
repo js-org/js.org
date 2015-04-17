@@ -47,7 +47,7 @@ var cnames_active = {
     , "logo": "js-org.github.io/logo"
     , "lujaw": "lujaw.github.io"
     , "matthias-schuetz": "matthias-schuetz.github.io"
-    , "mifi": "mfitzpatrick79.github.io"
+    , "mfitzpatrick79": "mfitzpatrick79.github.io"
     , "mmcq": "nikola.github.io/MMCQ"
     , "nikolay": "nikolay.github.io"
     , "nsisodiya": "nsisodiya.github.io"
