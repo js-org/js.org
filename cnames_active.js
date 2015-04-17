@@ -34,6 +34,7 @@ var cnames_active = {
     , "alt": "goatslacker.github.io/alt"
     , "anenth": "anenth.github.io"
     , "bogdanteodoru": "bogdanteodoru.github.io"
+    , "chy": "chy59.github.io/chy"
     , "collegequest": "schoolhouserock.github.io/CollegeQuest"
     , "cordova-multiplatform-template": "ckgrafico.github.io/Cordova-Multiplatform-Template"
     , "cqrs": "adrai.github.io/cqrs"
@@ -80,5 +81,4 @@ var cnames_active = {
     , "xto6": "mohebifar.github.io/xto6"
     , "zodiac": "indus.github.io/Zodiac"
     , "zombie": "assaf.github.io/zombie"
-    , "chy": "chy59.github.io/chy"
 }
