@@ -71,6 +71,7 @@ var cnames_active = {
     , "opsigor": "opsigor.github.io"
     , "pitermarx": "pitermarx.github.io"
     , "radial": "ckgrafico.github.io/radial.js"
+    , "rafaelMangolin": "rafaelMangolin.github.io"
     , "rafaelbiten": "rafaelbiten.github.io"
     , "rwu": "rwu823.github.io"
     , "saturation": "saturation.github.io/www"
