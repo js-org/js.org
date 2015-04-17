@@ -44,7 +44,7 @@ var cnames_active = {
     , "cqrs": "adrai.github.io/cqrs"
     , "crunch": "vukicevic.github.io/crunch"
     , "dns": "js-org.github.io/dns"
-    , "elliot" : "elliotboney.github.io"
+    , "elliot": "elliotboney.github.io"
     , "emulisp": "grahack.github.io/EmuLisp"
     , "euclid": "anandthakker.github.io/euclid"
     , "eventstore": "adrai.github.io/node-eventstore"
@@ -52,6 +52,7 @@ var cnames_active = {
     , "flowchart": "adrai.github.io/flowchart.js"
     , "frzr": "pakastin.github.io/frzr"
     , "ghoullier": "ghoullier.github.io"
+    , "goodseller": "goodseller.github.io"
     , "greg": "gregorydgarcia.github.io"
     , "gruft": "nikola.github.io/gruft"
     , "happy": "e24.github.io/happy"
@@ -102,5 +103,4 @@ var cnames_active = {
     , "xto6": "mohebifar.github.io/xto6"
     , "zodiac": "indus.github.io/Zodiac"
     , "zombie": "assaf.github.io/zombie"
-    ,"goodseller": "goodseller.github.io"
 }
