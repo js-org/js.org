@@ -75,6 +75,7 @@ var cnames_active = {
     , "nikolay": "nikolay.github.io"
     , "nsisodiya": "nsisodiya.github.io"
     , "objectmodel": "sylvainpolletvillard.github.io/ObjectModel"
+    , "omega": "jczimm.github.io/omega"
     , "opsigor": "opsigor.github.io"
     , "pitermarx": "pitermarx.github.io"
     , "rad": "rapid-application-development-js.github.io/RAD.JS"
@@ -100,5 +101,4 @@ var cnames_active = {
     , "xto6": "mohebifar.github.io/xto6"
     , "zodiac": "indus.github.io/Zodiac"
     , "zombie": "assaf.github.io/zombie"
-    , "omega": "jczimm.github.io/omega"
 }
