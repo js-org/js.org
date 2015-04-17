@@ -49,6 +49,7 @@ var cnames_active = {
     , "emulisp": "grahack.github.io/EmuLisp"
     , "euclid": "anandthakker.github.io/euclid"
     , "eventstore": "adrai.github.io/node-eventstore"
+    , "es": "jamiedixon.github.io/es"
     , "finder": "applait.github.io/finderjs"
     , "flowchart": "adrai.github.io/flowchart.js"
     , "frzr": "pakastin.github.io/frzr"
