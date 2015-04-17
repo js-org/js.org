@@ -43,6 +43,7 @@ var cnames_active = {
     , "dns": "js-org.github.io/dns"
     , "emulisp": "grahack.github.io/EmuLisp"
     , "eventstore": "adrai.github.io/node-eventstore"
+    , "es": "jamiedixon.github.io/es"
     , "finder": "applait.github.io/finderjs"
     , "flowchart": "adrai.github.io/flowchart.js"
     , "frzr": "pakastin.github.io/frzr"
