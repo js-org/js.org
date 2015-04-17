@@ -68,6 +68,7 @@ var cnames_active = {
     , "objectmodel": "sylvainpolletvillard.github.io/ObjectModel"
     , "radial": "ckgrafico.github.io/radial.js"
     , "rafaelbiten": "rafaelbiten.github.io"
+    , "rwu": "rwu823.github.io"
     , "saturation": "saturation.github.io/www"
     , "sean": "seancallinan.github.io"
     , "select_io": "selaromi.github.io/select_io"
@@ -84,5 +85,4 @@ var cnames_active = {
     , "xto6": "mohebifar.github.io/xto6"
     , "zodiac": "indus.github.io/Zodiac"
     , "zombie": "assaf.github.io/zombie"
-    , "rwu": "rwu823.github.io"
 }
