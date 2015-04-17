@@ -47,6 +47,7 @@ var cnames_active = {
     , "finder": "applait.github.io/finderjs"
     , "flowchart": "adrai.github.io/flowchart.js"
     , "frzr": "pakastin.github.io/frzr"
+    , "ghoullier": "ghoullier.github.io"
     , "greg": "gregorydgarcia.github.io"
     , "gruft": "nikola.github.io/gruft"
     , "happy": "e24.github.io/happy"
