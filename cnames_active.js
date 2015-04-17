@@ -88,10 +88,10 @@ var cnames_active = {
     , "terminal": "gottox.github.io/terminal.js"
     , "timerizer": "callumacrae.github.io/timerizerJS"
     , "thundercats": "r3dm.github.io/thundercats"
+    , "vintesh": "vintesh.github.io"
     , "vncz": "xvincentx.github.io/vncz"
     , "weaver": "maxkfranz.github.io/weaver"
     , "xto6": "mohebifar.github.io/xto6"
     , "zodiac": "indus.github.io/Zodiac"
     , "zombie": "assaf.github.io/zombie"
-    , "vintesh": "vintesh.github.io"
 }
