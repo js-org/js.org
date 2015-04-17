@@ -73,6 +73,7 @@ var cnames_active = {
     , "spirare": "waldenn.github.io/spirare"
     , "sugarshin": "sugarshin.github.io/sugarshin.js.org"
     , "tagster": "goschevski.github.io/tagster"
+    , "terminal": "gottox.github.io/terminal.js"
     , "timerizer": "callumacrae.github.io/timerizerJS"
     , "thundercats": "r3dm.github.io/thundercats"
     , "vncz": "xvincentx.github.io/vncz"
