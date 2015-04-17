@@ -68,6 +68,7 @@ var cnames_active = {
     , "nsisodiya": "nsisodiya.github.io"
     , "objectmodel": "sylvainpolletvillard.github.io/ObjectModel"
     , "radial": "ckgrafico.github.io/radial.js"
+    , "rafaelMangolin": "rafaelMangolin.github.io"
     , "rafaelbiten": "rafaelbiten.github.io"
     , "rwu": "rwu823.github.io"
     , "saturation": "saturation.github.io/www"
