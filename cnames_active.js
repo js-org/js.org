@@ -50,7 +50,7 @@ var cnames_active = {
     , "happy": "e24.github.io/happy"
     , "ivml": "influencetech.github.io/ivml"
     , "jbone": "kupriyanenko.github.io/jbone"
-    , "jjlc": "k-yak.github.io/JJLC/"
+    , "jjlc": "k-yak.github.io/JJLC"
     , "jodytate": "jodytate.github.io"
     , "json-schema-faker": "pateketrueke.github.io/json-schema-faker"
     , "labelauty": "fntneves.github.io/jquery-labelauty"
