@@ -69,6 +69,7 @@ var cnames_active = {
     , "mmcq": "nikola.github.io/MMCQ"
     , "nemo": "paypal.github.io/nemo"
     , "nikolay": "nikolay.github.io"
+    , "norfolk": "norfolkjs.github.io"
     , "nsisodiya": "nsisodiya.github.io"
     , "objectmodel": "sylvainpolletvillard.github.io/ObjectModel"
     , "opsigor": "opsigor.github.io"
