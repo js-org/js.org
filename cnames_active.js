@@ -73,6 +73,7 @@ var cnames_active = {
     , "objectmodel": "sylvainpolletvillard.github.io/ObjectModel"
     , "opsigor": "opsigor.github.io"
     , "pitermarx": "pitermarx.github.io"
+    , "rad": "rapid-application-development-js.github.io/RAD.JS"
     , "radial": "ckgrafico.github.io/radial.js"
     , "rafaelmangolin": "rafaelMangolin.github.io"
     , "rafaelbiten": "rafaelbiten.github.io"
