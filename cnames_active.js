@@ -42,6 +42,7 @@ var cnames_active = {
     , "crunch": "vukicevic.github.io/crunch"
     , "dns": "js-org.github.io/dns"
     , "emulisp": "grahack.github.io/EmuLisp"
+    , "euclid": "anandthakker.github.io/euclid"
     , "eventstore": "adrai.github.io/node-eventstore"
     , "finder": "applait.github.io/finderjs"
     , "flowchart": "adrai.github.io/flowchart.js"
