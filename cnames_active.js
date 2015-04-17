@@ -70,6 +70,7 @@ var cnames_active = {
     , "rafaelbiten": "rafaelbiten.github.io"
     , "saturation": "saturation.github.io/www"
     , "sean": "seancallinan.github.io"
+    , "select_io": "selaromi.github.io/select_io"
     , "selectric": "lcdsantos.github.io/jQuery-Selectric"
     , "spin": "fgnass.github.io/spin.js"
     , "spirare": "waldenn.github.io/spirare"
@@ -83,5 +84,4 @@ var cnames_active = {
     , "xto6": "mohebifar.github.io/xto6"
     , "zodiac": "indus.github.io/Zodiac"
     , "zombie": "assaf.github.io/zombie"
-    , "select_io": "http://selaromi.github.io/select_io"
 }
