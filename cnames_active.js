@@ -39,6 +39,7 @@ var cnames_active = {
     , "cqrs": "adrai.github.io/cqrs"
     , "crunch": "vukicevic.github.io/crunch"
     , "dns": "js-org.github.io/dns"
+    , "duo": "duojs.github.io/duojs.org",
     , "emulisp": "grahack.github.io/EmuLisp"
     , "eventstore": "adrai.github.io/node-eventstore"
     , "finder": "applait.github.io/finderjs"
