@@ -98,6 +98,7 @@ var cnames_active = {
     , "vintesh": "vintesh.github.io"
     , "vncz": "xvincentx.github.io/vncz"
     , "weaver": "maxkfranz.github.io/weaver"
+    , "woodchuck": "ttaylor.github.io/woodchuck"
     , "xto6": "mohebifar.github.io/xto6"
     , "zodiac": "indus.github.io/Zodiac"
     , "zombie": "assaf.github.io/zombie"
