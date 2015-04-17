@@ -30,7 +30,7 @@
 
 var cnames_active = {
     "akashacms": "akashacms.github.io"
-    , "alt": "goatslacker.github.io/alt/"
+    , "alt": "goatslacker.github.io/alt"
     , "anenth": "anenth.github.io"
     , "bogdanteodoru": "bogdanteodoru.github.io"
     , "cordova-multiplatform-template": "ckgrafico.github.io/Cordova-Multiplatform-Template"
@@ -43,6 +43,7 @@ var cnames_active = {
     , "gruft": "nikola.github.io/gruft"
     , "happy": "e24.github.io/happy"
     , "ivml": "influencetech.github.io/ivml"
+    , "jbone": "kupriyanenko.github.io/jbone"
     , "jodytate": "jodytate.github.io"
     , "json-schema-faker": "pateketrueke.github.io/json-schema-faker"
     , "labelauty": "fntneves.github.io/jquery-labelauty"
@@ -52,7 +53,6 @@ var cnames_active = {
     , "lujaw": "lujaw.github.io"
     , "matthias-schuetz": "matthias-schuetz.github.io"
     , "mmcq": "nikola.github.io/MMCQ"
-    , "jbone": "kupriyanenko.github.io/jbone"
     , "nemo": "paypal.github.io/nemo"
     , "nikolay": "nikolay.github.io"
     , "nsisodiya": "nsisodiya.github.io"
