@@ -40,6 +40,7 @@ var cnames_active = {
     , "crunch": "vukicevic.github.io/crunch"
     , "dns": "js-org.github.io/dns"
     , "emulisp": "grahack.github.io/EmuLisp"
+    , "eventstore": "adrai.github.io/node-eventstore"
     , "finder": "applait.github.io/finderjs"
     , "flowchart": "adrai.github.io/flowchart.js"
     , "frzr": "pakastin.github.io/frzr"
