@@ -36,6 +36,7 @@ var cnames_active = {
     , "ashabatin": "ashabatin.github.io"
     , "astrobench": "kupriyanenko.github.io/astrobench"
     , "bogdanteodoru": "bogdanteodoru.github.io"
+    , "chy": "chy59.github.io"
     , "collegequest": "schoolhouserock.github.io/CollegeQuest"
     , "cordova-multiplatform-template": "ckgrafico.github.io/Cordova-Multiplatform-Template"
     , "cqrs": "adrai.github.io/cqrs"
