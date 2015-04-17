@@ -82,6 +82,7 @@ var cnames_active = {
     , "spin": "fgnass.github.io/spin.js"
     , "spirare": "waldenn.github.io/spirare"
     , "sugarshin": "sugarshin.github.io/sugarshin.js.org"
+    , "supernova": "janbiasi.github.io/supernova"
     , "tagster": "goschevski.github.io/tagster"
     , "terminal": "gottox.github.io/terminal.js"
     , "timerizer": "callumacrae.github.io/timerizerJS"
@@ -91,5 +92,4 @@ var cnames_active = {
     , "xto6": "mohebifar.github.io/xto6"
     , "zodiac": "indus.github.io/Zodiac"
     , "zombie": "assaf.github.io/zombie"
-    , "supernova": "janbiasi.github.io/supernova"
 }
