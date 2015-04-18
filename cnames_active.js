@@ -42,6 +42,7 @@ var cnames_active = {
     , "cartodb-demo": "opensas.github.io/cartodb-demo"
     , "chy": "chy59.github.io"
     , "collegequest": "schoolhouserock.github.io/CollegeQuest"
+    , "concursos": "mteyss.github.io/concursos"
     , "cordova-multiplatform-template": "ckgrafico.github.io/Cordova-Multiplatform-Template"
     , "country": "growmies.github.io/countryjs"
     , "cqrs": "adrai.github.io/cqrs"
