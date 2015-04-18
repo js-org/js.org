@@ -35,6 +35,7 @@ var cnames_active = {
     , "argo": "albertosantini.github.io/argo"
     , "ashabatin": "ashabatin.github.io"
     , "astrobench": "kupriyanenko.github.io/astrobench"
+    , "badrudeen" : "badrudeen.github.io"
     , "bogdanteodoru": "bogdanteodoru.github.io"
     , "brandonmerritt": "brandonmerritt.github.io"
     , "chy": "chy59.github.io"
