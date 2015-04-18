@@ -82,6 +82,7 @@ var cnames_active = {
     , "omega": "jczimm.github.io/omega"
     , "opsigor": "opsigor.github.io"
     , "pitermarx": "pitermarx.github.io"
+    , "pixelart": "meriadec.github.io/PixelartJS"
     , "rad": "rapid-application-development-js.github.io/RAD.JS"
     , "radial": "ckgrafico.github.io/radial.js"
     , "rafaelbiten": "rafaelbiten.github.io"
