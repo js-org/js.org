@@ -101,6 +101,7 @@ var cnames_active = {
     , "selectric": "lcdsantos.github.io/jQuery-Selectric"
     , "spin": "fgnass.github.io/spin.js"
     , "spirare": "waldenn.github.io/spirare"
+    , "squadtalk": "squadtalk.github.io"
     , "stephenmccall": "stephenmccall.github.io"
     , "sugarshin": "sugarshin.github.io/sugarshin.js.org"
     , "supernova": "janbiasi.github.io/supernova"
