@@ -112,6 +112,7 @@ var cnames_active = {
     , "terminal": "gottox.github.io/terminal.js"
     , "thundercats": "r3dm.github.io/thundercats"
     , "timerizer": "callumacrae.github.io/timerizerJS"
+    , "uninspird": "uninspird.github.io"
     , "vintesh": "vintesh.github.io"
     , "vncz": "xvincentx.github.io/vncz"
     , "weaver": "maxkfranz.github.io/weaver"
