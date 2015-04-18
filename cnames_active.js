@@ -65,6 +65,7 @@ var cnames_active = {
     , "labelauty": "fntneves.github.io/jquery-labelauty"
     , "laubstein": "laubstein.github.io"
     , "leandro": "leandrowd.github.io/leandro"
+    , "lightyrs": "lightyrs.github.io"
     , "liguori": "liguori.github.io"
     , "linuxaddict": "linuxaddict.github.io/mario"
     , "logo": "js-org.github.io/logo"
