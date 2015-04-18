@@ -44,6 +44,7 @@ var cnames_active = {
     , "country": "growmies.github.io/countryjs"
     , "cqrs": "adrai.github.io/cqrs"
     , "crunch": "vukicevic.github.io/crunch"
+    , "darkpark": "darkpark.github.io"
     , "dns": "js-org.github.io/dns"
     , "elliot": "elliotboney.github.io"
     , "emulisp": "grahack.github.io/EmuLisp"
