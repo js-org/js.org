@@ -39,6 +39,7 @@ var cnames_active = {
     , "badrudeen": "badrudeen.github.io"
     , "bogdanteodoru": "bogdanteodoru.github.io"
     , "brandonmerritt": "brandonmerritt.github.io"
+    , "burst": "hugeen.github.io/burst"
     , "cartodb-demo": "opensas.github.io/cartodb-demo"
     , "chy": "chy59.github.io"
     , "collegequest": "schoolhouserock.github.io/CollegeQuest"
@@ -118,5 +119,4 @@ var cnames_active = {
     , "xto6": "mohebifar.github.io/xto6"
     , "zodiac": "indus.github.io/Zodiac"
     , "zombie": "assaf.github.io/zombie"
-    , "burst": "hugeen.github.io/burst"
 }
