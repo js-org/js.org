@@ -83,6 +83,7 @@ var cnames_active = {
     , "nikolay": "nikolay.github.io"
     , "nsisodiya": "nsisodiya.github.io"
     , "objectmodel": "sylvainpolletvillard.github.io/ObjectModel"
+    , "olimsaidov": "olimsaidov.github.io"
     , "omega": "jczimm.github.io/omega"
     , "opsigor": "opsigor.github.io"
     , "pdfutils": "gottox.github.io/node-pdfutils"
