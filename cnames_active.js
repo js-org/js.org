@@ -49,6 +49,7 @@ var cnames_active = {
     , "crunch": "vukicevic.github.io/crunch"
     , "date": "matthewmueller.github.io/date"
     , "dns": "js-org.github.io/dns"
+    , "daa": "mithun-daa.github.io"
     , "elliot": "elliotboney.github.io"
     , "emulisp": "grahack.github.io/EmuLisp"
     , "euclid": "anandthakker.github.io/euclid"
