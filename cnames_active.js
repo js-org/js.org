@@ -32,6 +32,7 @@ var cnames_active = {
     , "akashacms": "akashacms.github.io"
     , "alt": "goatslacker.github.io/alt"
     , "anenth": "anenth.github.io"
+    , "annoyingmouse": "annoyingmouse.github.io"
     , "argo": "albertosantini.github.io/argo"
     , "ashabatin": "ashabatin.github.io"
     , "astrobench": "kupriyanenko.github.io/astrobench"
