@@ -85,6 +85,7 @@ var cnames_active = {
     , "objectmodel": "sylvainpolletvillard.github.io/ObjectModel"
     , "omega": "jczimm.github.io/omega"
     , "opsigor": "opsigor.github.io"
+    , "pdfutils": "gottox.github.io/node-pdfutils"
     , "pitermarx": "pitermarx.github.io"
     , "pixelart": "meriadec.github.io/PixelartJS"
     , "rad": "rapid-application-development-js.github.io/RAD.JS"
