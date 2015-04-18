@@ -64,6 +64,7 @@ var cnames_active = {
     , "json-schema-faker": "pateketrueke.github.io/json-schema-faker"
     , "labelauty": "fntneves.github.io/jquery-labelauty"
     , "laubstein": "laubstein.github.io"
+    , "lightyrs": "lightyrs.github.io"
     , "liguori": "liguori.github.io"
     , "linuxaddict": "linuxaddict.github.io/mario"
     , "logo": "js-org.github.io/logo"
