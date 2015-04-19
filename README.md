@@ -1,4 +1,4 @@
- :no_entry: ***Because of the risk of abuse I´m no longer merging requests for pages without content!***
+:anger: **Because of the risk of abuse I´m no longer merging requests for pages without content** :exclamation: 
 
 [![JS.ORG](https://img.shields.io/badge/js.org-dns-ffb400.svg?style=flat-square)](http://js.org)
 
