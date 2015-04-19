@@ -115,6 +115,7 @@ var cnames_active = {
     , "thundercats": "r3dm.github.io/thundercats"
     , "themoviedb": "chrisenytc.github.io/themoviedb"
     , "timerizer": "callumacrae.github.io/timerizerJS"
+    , "uninspird": "uninspird.github.io"
     , "vintesh": "vintesh.github.io"
     , "vncz": "xvincentx.github.io/vncz"
     , "weaver": "maxkfranz.github.io/weaver"
