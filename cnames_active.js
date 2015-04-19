@@ -80,6 +80,7 @@ var cnames_active = {
     , "lujaw": "lujaw.github.io"
     , "matthias-schuetz": "matthias-schuetz.github.io"
     , "maxnachlinger": "maxnachlinger.github.io"
+    , "medium-header": "danielfeelfine.github.io/medium-header"
     , "mfitzpatrick79": "mfitzpatrick79.github.io"
     , "mikeya": "mikeya.github.io"
     , "mithril": "lhorie.github.io/mithril"
