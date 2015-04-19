@@ -111,6 +111,7 @@ var cnames_active = {
     , "tagster": "goschevski.github.io/tagster"
     , "terminal": "gottox.github.io/terminal.js"
     , "thundercats": "r3dm.github.io/thundercats"
+    , "themoviedb": "chrisenytc.github.io/themoviedb"
     , "timerizer": "callumacrae.github.io/timerizerJS"
     , "vintesh": "vintesh.github.io"
     , "vncz": "xvincentx.github.io/vncz"
