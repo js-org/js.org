@@ -1,4 +1,4 @@
-***<span style="background-color:#ffb400;padding:0 10px">Because of the risk of abuse I´m no longer merging requests for pages without reasonable content!</span>***
+ :no_entry: ***Because of the risk of abuse I´m no longer merging requests for pages without content!***
 
 [![JS.ORG](https://img.shields.io/badge/js.org-dns-ffb400.svg?style=flat-square)](http://js.org)
 
