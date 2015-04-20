@@ -37,6 +37,7 @@ var cnames_active = {
     , "ashabatin": "ashabatin.github.io"
     , "astrobench": "kupriyanenko.github.io/astrobench"
     , "badrudeen": "badrudeen.github.io"
+    , "bob": "blueken.github.io"
     , "bogdanteodoru": "bogdanteodoru.github.io"
     , "brandonmerritt": "brandonmerritt.github.io"
     , "burst": "hugeen.github.io/burst"
