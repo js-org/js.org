@@ -63,6 +63,7 @@ var cnames_active = {
     , "goodseller": "goodseller.github.io"
     , "greg": "gregorydgarcia.github.io"
     , "gruft": "nikola.github.io/gruft"
+    , "gully": "nmabhinandan.github.io/gully"
     , "happy": "e24.github.io/happy"
     , "hello": "hello-js-org.github.io"
     , "ivml": "influencetech.github.io/ivml"
