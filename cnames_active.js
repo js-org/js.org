@@ -82,6 +82,7 @@ var cnames_active = {
     , "logo": "js-org.github.io/logo"
     , "lujaw": "lujaw.github.io"
     , "martin": "martinbutler.github.io"
+    , "martingollogly": "martingollogly.github.io"
     , "matthias-schuetz": "matthias-schuetz.github.io"
     , "maxnachlinger": "maxnachlinger.github.io"
     , "medium-header": "danielfeelfine.github.io/medium-header"
