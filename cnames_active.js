@@ -122,10 +122,10 @@ var cnames_active = {
     , "timerizer": "callumacrae.github.io/timerizerJS"
     , "vintesh": "vintesh.github.io"
     , "vncz": "xvincentx.github.io/vncz"
+    , "vuongdothanhhuy": "vuongdothanhhuy.github.io"
     , "weaver": "maxkfranz.github.io/weaver"
     , "woodchuck": "ttaylor.github.io/woodchuck"
     , "xto6": "mohebifar.github.io/xto6"
     , "zodiac": "indus.github.io/Zodiac"
     , "zombie": "assaf.github.io/zombie"
-    , "vuongdothanhhuy": "vuongdothanhhuy.github.io"
 }
