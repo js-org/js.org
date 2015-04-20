@@ -58,6 +58,7 @@ var cnames_active = {
     , "festercluck": "festercluck.github.io"
     , "finder": "applait.github.io/finderjs"
     , "flowchart": "adrai.github.io/flowchart.js"
+    , "freemarker": "ijse.github.io/freemarker.js"
     , "frzr": "pakastin.github.io/frzr"
     , "ghoullier": "ghoullier.github.io"
     , "goodseller": "goodseller.github.io"
