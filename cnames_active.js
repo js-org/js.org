@@ -113,6 +113,7 @@ var cnames_active = {
     , "spirare": "waldenn.github.io/spirare"
     , "squadtalk": "squadtalk.github.io"
     , "stephenmccall": "stephenmccall.github.io"
+    , "stevermeister": "stepansuvorov.com"
     , "sugarshin": "sugarshin.github.io/sugarshin.js.org"
     , "supernova": "janbiasi.github.io/supernova"
     , "tagster": "goschevski.github.io/tagster"
