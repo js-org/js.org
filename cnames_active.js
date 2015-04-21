@@ -122,6 +122,7 @@ var cnames_active = {
     , "supernova": "janbiasi.github.io/supernova"
     , "tagster": "goschevski.github.io/tagster"
     , "terminal": "gottox.github.io/terminal.js"
+    , "textillate": "jschr.github.io/textillate"
     , "thundercats": "r3dm.github.io/thundercats"
     , "themoviedb": "chrisenytc.github.io/themoviedb"
     , "timerizer": "callumacrae.github.io/timerizerJS"
