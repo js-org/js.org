@@ -114,6 +114,7 @@ var cnames_active = {
     , "squadtalk": "squadtalk.github.io"
     , "stephenmccall": "stephenmccall.github.io"
     , "sugarshin": "sugarshin.github.io/sugarshin.js.org"
+    , "sulky":"shingle.github.io/sulky"
     , "supernova": "janbiasi.github.io/supernova"
     , "tagster": "goschevski.github.io/tagster"
     , "terminal": "gottox.github.io/terminal.js"
