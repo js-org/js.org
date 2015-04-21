@@ -129,8 +129,8 @@ var cnames_active = {
     , "vuongdothanhhuy": "vuongdothanhhuy.github.io"
     , "weaver": "maxkfranz.github.io/weaver"
     , "woodchuck": "ttaylor.github.io/woodchuck"
+    , "wwb": "eqielb.github.io/wwb"
     , "xto6": "mohebifar.github.io/xto6"
     , "zodiac": "indus.github.io/Zodiac"
     , "zombie": "assaf.github.io/zombie"
-    , "wwb": "eqielb.github.io/wwb"
 }
