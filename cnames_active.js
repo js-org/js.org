@@ -90,6 +90,7 @@ var cnames_active = {
     , "mithril": "lhorie.github.io/mithril"
     , "mmcq": "nikola.github.io/MMCQ"
     , "motapc": "motapc97.github.io"
+    , "ncub8": "ncub8.github.io"
     , "nemo": "paypal.github.io/nemo"
     , "nikolay": "nikolay.github.io"
     , "nsisodiya": "nsisodiya.github.io"
