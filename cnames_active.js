@@ -107,6 +107,7 @@ var cnames_active = {
     , "rafaelmangolin": "rafaelMangolin.github.io"
     , "rwu": "rwu823.github.io"
     , "saturation": "saturation.github.io/www"
+    , "savingthrow": "pdistefano.github.io/SavingThrow.js"
     , "sean": "seancallinan.github.io"
     , "select_io": "selaromi.github.io/select_io"
     , "selectric": "lcdsantos.github.io/jQuery-Selectric"
