@@ -94,6 +94,7 @@ var cnames_active = {
     , "nemo": "paypal.github.io/nemo"
     , "nikolay": "nikolay.github.io"
     , "nsisodiya": "nsisodiya.github.io"
+    , "notmeirl": "notmeirl.github.io/notmeirl.github.io/"
     , "objectmodel": "sylvainpolletvillard.github.io/ObjectModel"
     , "olimsaidov": "olimsaidov.github.io"
     , "omega": "jczimm.github.io/omega"
