@@ -69,6 +69,7 @@ var cnames_active = {
     , "happy": "e24.github.io/happy"
     , "hello": "hello-js-org.github.io"
     , "ivml": "influencetech.github.io/ivml"
+    , "jakarta": "jakartajs.github.io/jakartajs"
     , "jbone": "kupriyanenko.github.io/jbone"
     , "jjlc": "k-yak.github.io/JJLC"
     , "jodytate": "jodytate.github.io"
