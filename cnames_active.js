@@ -40,6 +40,7 @@ var cnames_active = {
     , "bogdanteodoru": "bogdanteodoru.github.io"
     , "brandonmerritt": "brandonmerritt.github.io"
     , "burst": "hugeen.github.io/burst"
+    , "camdesigns": "chrisamoore.github.io"
     , "cartodb-demo": "opensas.github.io/cartodb-demo"
     , "chy": "chy59.github.io"
     , "collegequest": "schoolhouserock.github.io/CollegeQuest"
