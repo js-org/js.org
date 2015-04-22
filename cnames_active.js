@@ -64,6 +64,7 @@ var cnames_active = {
     , "ghoullier": "ghoullier.github.io"
     , "goodseller": "goodseller.github.io"
     , "graphics2d": "keyten.github.io/Graphics2D"
+    , "grapnel": "engineeringmode.github.io/Grapnel.js"
     , "greg": "gregorydgarcia.github.io"
     , "gruft": "nikola.github.io/gruft"
     , "gully": "nmabhinandan.github.io/gully"
