@@ -76,6 +76,7 @@ var cnames_active = {
     , "jjlc": "k-yak.github.io/JJLC"
     , "jodytate": "jodytate.github.io"
     , "json-schema-faker": "pateketrueke.github.io/json-schema-faker"
+    , "jrsmith": "jrsmith.github.io"
     , "labelauty": "fntneves.github.io/jquery-labelauty"
     , "laubstein": "laubstein.github.io"
     , "leandro": "leandrowd.github.io"
