@@ -128,7 +128,8 @@ var cnames_active = {
     , "textillate": "jschr.github.io/textillate"
     , "thundercats": "r3dm.github.io/thundercats"
     , "themoviedb": "chrisenytc.github.io/themoviedb"
-    , "timerizer": "callumacrae.github.io/timerizerJS"
+    , "timerizer": "callumacrae.github.io/timerizerJS
+    , "trodriguez": "trodriguez.github.io"
     , "vintesh": "vintesh.github.io"
     , "vncz": "xvincentx.github.io/vncz"
     , "vuongdothanhhuy": "vuongdothanhhuy.github.io"
