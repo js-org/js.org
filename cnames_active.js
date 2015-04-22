@@ -118,6 +118,7 @@ var cnames_active = {
     , "sean": "seancallinan.github.io"
     , "select_io": "selaromi.github.io/select_io"
     , "selectric": "lcdsantos.github.io/jQuery-Selectric"
+    , "shorttompkins": "shorttompkins.github.io"
     , "spin": "fgnass.github.io/spin.js"
     , "spirare": "waldenn.github.io/spirare"
     , "squadtalk": "squadtalk.github.io"
