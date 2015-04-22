@@ -105,6 +105,7 @@ var cnames_active = {
     , "pdfutils": "gottox.github.io/node-pdfutils"
     , "pitermarx": "pitermarx.github.io"
     , "pixelart": "meriadec.github.io/PixelartJS"
+    , "pthire": "pthire.github.io"
     , "polythene": "arthurclemens.github.io/Polythene"
     , "rad": "rapid-application-development-js.github.io/RAD.JS"
     , "radial": "ckgrafico.github.io/radial.js"
