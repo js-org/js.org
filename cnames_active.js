@@ -63,6 +63,7 @@ var cnames_active = {
     , "frzr": "pakastin.github.io/frzr"
     , "geekr": "ruanyl.github.io/geekr"
     , "ghoullier": "ghoullier.github.io"
+    , "gibatronic": "gibatronic.github.io"
     , "goodseller": "goodseller.github.io"
     , "graphics2d": "keyten.github.io/Graphics2D"
     , "grapnel": "engineeringmode.github.io/Grapnel.js"
