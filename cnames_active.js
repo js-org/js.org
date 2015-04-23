@@ -133,6 +133,7 @@ var cnames_active = {
     , "thundercats": "r3dm.github.io/thundercats"
     , "themoviedb": "chrisenytc.github.io/themoviedb"
     , "timerizer": "callumacrae.github.io/timerizerJS"
+    , "vigilia": "gibatronic.github.io/vigilia"
     , "vintesh": "vintesh.github.io"
     , "vncz": "xvincentx.github.io/vncz"
     , "vuongdothanhhuy": "vuongdothanhhuy.github.io"
