@@ -89,6 +89,7 @@ var cnames_active = {
     , "martin": "martinbutler.github.io"
     , "matthias-schuetz": "matthias-schuetz.github.io"
     , "maxnachlinger": "maxnachlinger.github.io"
+    , "media-tag": "jonriv.github.io/media-tag"
     , "medium-header": "danielfeelfine.github.io/medium-header"
     , "mfitzpatrick79": "mfitzpatrick79.github.io"
     , "mikeya": "mikeya.github.io"
