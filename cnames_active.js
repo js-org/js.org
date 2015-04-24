@@ -41,6 +41,7 @@ var cnames_active = {
     , "brandonmerritt": "brandonmerritt.github.io"
     , "burst": "hugeen.github.io/burst"
     , "cartodb-demo": "opensas.github.io/cartodb-demo"
+    , "cena": "cena.github.io"
     , "chy": "chy59.github.io"
     , "chrislaughlin": "chrislaughlin.github.io"
     , "collegequest": "schoolhouserock.github.io/CollegeQuest"
