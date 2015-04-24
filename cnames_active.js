@@ -104,6 +104,7 @@ var cnames_active = {
     , "olimsaidov": "olimsaidov.github.io"
     , "omega": "jczimm.github.io/omega"
     , "opsigor": "opsigor.github.io"
+    , "paul": "paul-brown.github.io"
     , "pdfutils": "gottox.github.io/node-pdfutils"
     , "pitermarx": "pitermarx.github.io"
     , "pixelart": "meriadec.github.io/PixelartJS"
