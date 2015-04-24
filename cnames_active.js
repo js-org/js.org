@@ -97,6 +97,7 @@ var cnames_active = {
     , "motapc": "motapc97.github.io"
     , "ncub8": "ncub8.github.io"
     , "nemo": "paypal.github.io/nemo"
+    , "newcol": "newcol.github.io"
     , "nikolay": "nikolay.github.io"
     , "nsisodiya": "nsisodiya.github.io"
     , "objectmodel": "sylvainpolletvillard.github.io/ObjectModel"
