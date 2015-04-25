@@ -101,6 +101,7 @@ var cnames_active = {
     , "newcol": "newcol.github.io"
     , "nikolay": "nikolay.github.io"
     , "nsisodiya": "nsisodiya.github.io"
+    , "notmeirl": "notmeirl.github.io"
     , "objectmodel": "sylvainpolletvillard.github.io/ObjectModel"
     , "olimsaidov": "olimsaidov.github.io"
     , "omega": "jczimm.github.io/omega"
