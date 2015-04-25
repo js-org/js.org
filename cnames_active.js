@@ -95,6 +95,7 @@ var cnames_active = {
     , "mithril": "lhorie.github.io/mithril"
     , "mmcq": "nikola.github.io/MMCQ"
     , "motapc": "motapc97.github.io"
+    , "murder": "rolandpoulter.github.io/murder"
     , "ncub8": "ncub8.github.io"
     , "nemo": "paypal.github.io/nemo"
     , "newcol": "newcol.github.io"
