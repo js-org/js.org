@@ -15,7 +15,7 @@
  *              or "foo.github.io/bar" for a Project Page).
  *
  * IMPORTANT:   To authorise yourself as the owner of the GitHub Page you must have a valid CNAME file
- *              (with the requestd domain, e.g: "foo.js.org") to your repository before the pull request.
+ *              (with the requested domain, e.g: "foo.js.org") to your repository before the pull request.
  *              The requested subdomain must match either your GitHub username or the name of your project
  *              repository. Execeptions are possible for the sake of clarity (e.g. if your project has the
  *              name "foojs" you can request "foo").
@@ -115,6 +115,7 @@ var cnames_active = {
     , "radial": "ckgrafico.github.io/radial.js"
     , "rafaelbiten": "rafaelbiten.github.io"
     , "rafaelmangolin": "rafaelMangolin.github.io"
+    , "react-autosuggest": "moroshko.github.io/react-autosuggest"
     , "roh": "roh7.github.io"
     , "rp": "rpocklin.github.io"
     , "rwu": "rwu823.github.io"
