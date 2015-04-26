@@ -129,7 +129,6 @@ var cnames_active = {
     , "shedali":"shedali.github.io"
     , "spin": "fgnass.github.io/spin.js"
     , "spirare": "waldenn.github.io/spirare"
-    , "squadtalk": "squadtalk.github.io"
     , "stephenmccall": "stephenmccall.github.io"
     , "sugarshin": "sugarshin.github.io/sugarshin.js.org"
     , "sulky":"shingle.github.io/sulky"
