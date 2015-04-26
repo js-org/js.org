@@ -128,6 +128,7 @@ var cnames_active = {
     , "selectric": "lcdsantos.github.io/jQuery-Selectric"
     , "shorttompkins": "shorttompkins.github.io"
     , "shedali":"shedali.github.io"
+    , "soundstage": "shzh.github.io/soundstage"
     , "spin": "fgnass.github.io/spin.js"
     , "spirare": "waldenn.github.io/spirare"
     , "stephenmccall": "stephenmccall.github.io"
