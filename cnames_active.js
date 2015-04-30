@@ -155,4 +155,5 @@ var cnames_active = {
     , "zodiac": "indus.github.io/Zodiac"
     , "zombie": "assaf.github.io/zombie"
     , "rahul": "rahulsukla.github.io/rahul"
+    , "while": "shrew-io.github.io/while.js"
 }
