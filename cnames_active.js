@@ -124,6 +124,7 @@ var cnames_active = {
     , "rp": "rpocklin.github.io"
     , "rwu": "rwu823.github.io"
     , "saturation": "saturation.github.io/www"
+    , "sava": "sava1192.github.io"
     , "savingthrow": "pdistefano.github.io/SavingThrow.js"
     , "sdk-design": "huei90.github.io/javascript-sdk-design"
     , "sean": "seancallinan.github.io"
