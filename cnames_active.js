@@ -110,6 +110,7 @@ var cnames_active = {
     , "omega": "jczimm.github.io/omega"
     , "opsigor": "opsigor.github.io"
     , "paul": "paul-brown.github.io"
+    , "pathtrace": "kovacsv.github.io/WebGLPathTrace"
     , "pdfutils": "gottox.github.io/node-pdfutils"
     , "pitermarx": "pitermarx.github.io"
     , "pixelart": "meriadec.github.io/PixelartJS"
