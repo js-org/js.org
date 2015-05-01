@@ -126,7 +126,7 @@ var cnames_active = {
     , "rwu": "rwu823.github.io"
     , "saturation": "saturation.github.io/www"
     , "savingthrow": "pdistefano.github.io/SavingThrow.js"
-    , "scrolledin": "manuelromeroramos.github.io/scrolledIn.js/"
+    , "scrolledin": "manuelromeroramos.github.io/scrolledIn.js"
     , "sdk-design": "huei90.github.io/javascript-sdk-design"
     , "sean": "seancallinan.github.io"
     , "select_io": "selaromi.github.io/select_io"
