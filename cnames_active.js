@@ -129,6 +129,7 @@ var cnames_active = {
     , "scrolledin": "manuelromeroramos.github.io/scrolledIn.js"
     , "sdk-design": "huei90.github.io/javascript-sdk-design"
     , "sean": "seancallinan.github.io"
+    , "stormnetwork" : "stormnetwork.github.io"
     , "select_io": "selaromi.github.io/select_io"
     , "selectric": "lcdsantos.github.io/jQuery-Selectric"
     , "serginator": "serginator.github.io"
