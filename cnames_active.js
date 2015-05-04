@@ -123,6 +123,7 @@ var cnames_active = {
     , "rafaelbiten": "rafaelbiten.github.io"
     , "rafaelmangolin": "rafaelMangolin.github.io"
     , "react-autosuggest": "moroshko.github.io/react-autosuggest"
+    , "relate": "jakelazaroff.github.io/relate"
     , "roh": "roh7.github.io"
     , "rp": "rpocklin.github.io"
     , "rwu": "rwu823.github.io"
