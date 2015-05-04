@@ -149,6 +149,7 @@ var cnames_active = {
     , "themoviedb": "chrisenytc.github.io/themoviedb"
     , "timerizer": "callumacrae.github.io/timerizerJS"
     , "vintesh": "vintesh.github.io"
+    , "visualnovel": "selcher.github.io/visualnovel"
     , "vncz": "xvincentx.github.io/vncz"
     , "vuongdothanhhuy": "vuongdothanhhuy.github.io"
     , "weaver": "maxkfranz.github.io/weaver"
