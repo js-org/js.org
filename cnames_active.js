@@ -27,8 +27,10 @@
  *              Because of the risk of abuse I´m no longer merging requests for pages without content!
  *
  */
+
 var cnames_active = {
     "3bola": "3bola.github.io"
+    , "7anshuai": "7anshuai.github.io"
     , "akashacms": "akashacms.github.io"
     , "alt": "goatslacker.github.io/alt"
     , "anenth": "anenth.github.io"
@@ -84,6 +86,7 @@ var cnames_active = {
     , "labelauty": "fntneves.github.io/jquery-labelauty"
     , "laubstein": "laubstein.github.io"
     , "leandro": "leandrowd.github.io"
+    , "leipzig": "leipzigjs.github.io"
     , "lightyrs": "lightyrs.github.io"
     , "liguori": "liguori.github.io"
     , "linuxaddict": "linuxaddict.github.io/mario"
@@ -108,6 +111,7 @@ var cnames_active = {
     , "objectmodel": "sylvainpolletvillard.github.io/ObjectModel"
     , "olimsaidov": "olimsaidov.github.io"
     , "omega": "jczimm.github.io/omega"
+    , "on": "clayendisk.github.io/on.js"
     , "opsigor": "opsigor.github.io"
     , "paul": "paul-brown.github.io"
     , "pathtrace": "kovacsv.github.io/WebGLPathTrace"
@@ -121,6 +125,7 @@ var cnames_active = {
     , "rafaelbiten": "rafaelbiten.github.io"
     , "rafaelmangolin": "rafaelMangolin.github.io"
     , "react-autosuggest": "moroshko.github.io/react-autosuggest"
+    , "relate": "jakelazaroff.github.io/relate"
     , "roh": "roh7.github.io"
     , "rp": "rpocklin.github.io"
     , "rwu": "rwu823.github.io"
@@ -134,6 +139,7 @@ var cnames_active = {
     , "serginator": "serginator.github.io"
     , "shorttompkins": "shorttompkins.github.io"
     , "shedali": "shedali.github.io"
+    , "spectragram,": "adrianengine.github.io/jquery-spectragram"
     , "spin": "fgnass.github.io/spin.js"
     , "spirare": "waldenn.github.io/spirare"
     , "stephenmccall": "stephenmccall.github.io"
