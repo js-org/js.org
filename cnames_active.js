@@ -77,6 +77,7 @@ var cnames_active = {
     , "gully": "nmabhinandan.github.io/gully"
     , "happy": "e24.github.io/happy"
     , "hello": "hello-js-org.github.io"
+    , "hooloo": "hooloo.github.io"
     , "hyde": "gheek.github.io/hyde"
     , "ivml": "influencetech.github.io/ivml"
     , "jakarta": "jakartajs.github.io/jakartajs"
