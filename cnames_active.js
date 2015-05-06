@@ -153,6 +153,7 @@ var cnames_active = {
     , "spectragram,": "adrianengine.github.io/jquery-spectragram"
     , "spin": "fgnass.github.io/spin.js"
     , "spirare": "waldenn.github.io/spirare"
+    , "stepan": "stevermeister.github.io"
     , "stephenmccall": "stephenmccall.github.io"
     , "sugarshin": "sugarshin.github.io/sugarshin.js.org"
     , "sulky": "shingle.github.io/sulky"
