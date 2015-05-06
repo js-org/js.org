@@ -80,6 +80,7 @@ var cnames_active = {
     , "hooloo": "hooloo.github.io"
     , "hyde": "gheek.github.io/hyde"
     , "ivml": "influencetech.github.io/ivml"
+    , "j2p": "j2p.github.io"
     , "jakarta": "jakartajs.github.io/jakartajs"
     , "jakejarrett": "jakejarrett.github.io"
     , "jbone": "kupriyanenko.github.io/jbone"
