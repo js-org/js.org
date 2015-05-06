@@ -157,6 +157,7 @@ var cnames_active = {
     , "themoviedb": "chrisenytc.github.io/themoviedb"
     , "thundercats": "r3dm.github.io/thundercats"
     , "timerizer": "callumacrae.github.io/timerizerJS"
+    , "tutorial": "advanced-webapps-class.github.io/front-end-start"
     , "vintesh": "vintesh.github.io"
     , "visualnovel": "selcher.github.io/visualnoveljs"
     , "vncz": "xvincentx.github.io/vncz"
