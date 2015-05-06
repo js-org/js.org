@@ -114,6 +114,7 @@ var cnames_active = {
     , "ncub8": "ncub8.github.io"
     , "nemo": "paypal.github.io/nemo"
     , "newcol": "newcol.github.io"
+    , "ng-wig": "stevermeister.github.io/ngWig"
     , "nikolay": "nikolay.github.io"
     , "notmeirl": "notmeirl.github.io"
     , "nsisodiya": "nsisodiya.github.io"
