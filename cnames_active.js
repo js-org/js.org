@@ -162,6 +162,7 @@ var cnames_active = {
     , "vncz": "xvincentx.github.io/vncz"
     , "vuongdothanhhuy": "vuongdothanhhuy.github.io"
     , "weaver": "maxkfranz.github.io/weaver"
+    , "webdev": "advanced-webapps-class.github.io/front-end-start"
     , "woodchuck": "ttaylor.github.io/woodchuck"
     , "wwb": "eqielb.github.io/wwb"
     , "xto6": "mohebifar.github.io/xto6"
