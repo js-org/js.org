@@ -108,6 +108,7 @@ var cnames_active = {
     , "mikeya": "mikeya.github.io"
     , "mithril": "lhorie.github.io/mithril"
     , "mmcq": "nikola.github.io/MMCQ"
+    , "modalizer": "dungo.github.io/modalizer"
     , "motapc": "motapc97.github.io"
     , "murder": "rolandpoulter.github.io/murder"
     , "ncub8": "ncub8.github.io"
