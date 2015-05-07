@@ -173,6 +173,7 @@ var cnames_active = {
     , "weaver": "maxkfranz.github.io/weaver"
     , "woodchuck": "ttaylor.github.io/woodchuck"
     , "wwb": "eqielb.github.io/wwb"
+    , "xprmntl": "xprmntl.github.io"
     , "xto6": "mohebifar.github.io/xto6"
     , "youtim": "mortonfox.github.io/YouTim"
     , "zodiac": "indus.github.io/Zodiac"
