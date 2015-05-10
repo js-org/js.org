@@ -92,6 +92,7 @@ var cnames_active = {
     , "jodytate": "jodytate.github.io"
     , "json-schema-faker": "pateketrueke.github.io/json-schema-faker"
     , "jvandyke": "jvandyke.github.io"
+    , "kingdom": "clayendisk.github.io/kingdom.js"
     , "labelauty": "fntneves.github.io/jquery-labelauty"
     , "laubstein": "laubstein.github.io"
     , "leandro": "leandrowd.github.io"
