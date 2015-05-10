@@ -59,6 +59,7 @@ var cnames_active = {
     , "date": "matthewmueller.github.io/date"
     , "delegacias-fortaleza": "juliosampaio.github.io/delegacias-fortaleza"
     , "dns": "js-org.github.io/dns"
+    , "drag-drop": "clayendisk.github.io/drag-drop.js"
     , "elf": "elfjs.github.io"
     , "elliot": "elliotboney.github.io"
     , "emulisp": "grahack.github.io/EmuLisp"
