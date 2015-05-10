@@ -168,6 +168,7 @@ var cnames_active = {
     , "themoviedb": "chrisenytc.github.io/themoviedb"
     , "thundercats": "r3dm.github.io/thundercats"
     , "timerizer": "callumacrae.github.io/timerizerJS"
+    , "tint": "tintjs.github.io"
     , "ultcombo": "ultcombo.github.io"
     , "vintesh": "vintesh.github.io"
     , "visualnovel": "selcher.github.io/visualnoveljs"
