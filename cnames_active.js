@@ -61,6 +61,7 @@ var cnames_active = {
     , "dns": "js-org.github.io/dns"
     , "drag-drop": "clayendisk.github.io/drag-drop.js"
     , "elf": "elfjs.github.io"
+    , "emeraldcraftmc": "emeraldcraftmc.github.io"
     , "elliot": "elliotboney.github.io"
     , "emulisp": "grahack.github.io/EmuLisp"
     , "euclid": "anandthakker.github.io/euclid"
