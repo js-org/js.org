@@ -156,6 +156,7 @@ var cnames_active = {
     , "spin": "fgnass.github.io/spin.js"
     , "spirare": "waldenn.github.io/spirare"
     , "stepan": "stevermeister.github.io"
+    , "stats": "js-org.github.io"
     , "stephenmccall": "stephenmccall.github.io"
     , "sugarshin": "sugarshin.github.io/sugarshin.js.org"
     , "sulky": "shingle.github.io/sulky"
