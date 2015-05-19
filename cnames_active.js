@@ -1,4 +1,4 @@
-/*
+﻿/*
  ***** ACTIVE SUBDOMAINS
  * ***********************
  *
@@ -87,6 +87,7 @@ var cnames_active = {
     , "is": "arasatasaygin.github.io/is.js"
     , "ivml": "influencetech.github.io/ivml"
     , "j2p": "j2p.github.io"
+    , "jalbertbowden": "jalbertbowden.github.io"
     , "jakarta": "jakartajs.github.io/jakartajs"
     , "jakejarrett": "jakejarrett.github.io"
     , "jbone": "kupriyanenko.github.io/jbone"
