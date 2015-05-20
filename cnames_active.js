@@ -143,7 +143,6 @@ var cnames_active = {
     , "rahul": "rahulsukla.github.io/rahul"
     , "react-autosuggest": "moroshko.github.io/react-autosuggest"
     , "relate": "jakelazaroff.github.io/relate"
-    , "roh": "roh7.github.io"
     , "rp": "rpocklin.github.io"
     , "rwu": "rwu823.github.io"
     , "saturation": "saturation.github.io/www"
