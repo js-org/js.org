@@ -34,6 +34,7 @@ var cnames_active = {
     , "akashacms": "akashacms.github.io"
     , "alt": "goatslacker.github.io/alt"
     , "anenth": "anenth.github.io"
+    , "annotate": "taitems.github.io/web-pdf-annotation"
     , "annoyingmouse": "annoyingmouse.github.io"
     , "anggao" : "anggao.github.io"
     , "argo": "albertosantini.github.io/argo"
