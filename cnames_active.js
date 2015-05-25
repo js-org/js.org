@@ -62,6 +62,7 @@ var cnames_active = {
     , "delegacias-fortaleza": "juliosampaio.github.io/delegacias-fortaleza"
     , "dns": "js-org.github.io/dns"
     , "drag-drop": "clayendisk.github.io/drag-drop.js"
+    , "dragonslayer":"kingscott.github.io/dragon-slayer"
     , "elf": "elfjs.github.io"
     , "elliot": "elliotboney.github.io"
     , "emeraldcraftmc": "emeraldcraftmc.github.io"
