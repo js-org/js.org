@@ -70,6 +70,7 @@ var cnames_active = {
     , "finder": "applait.github.io/finderjs"
     , "flowchart": "adrai.github.io/flowchart.js"
     , "freemarker": "ijse.github.io/freemarker.js"
+    , "fromdenisvieira": "fromdenisvieira.github.io"
     , "frzr": "pakastin.github.io/frzr"
     , "geekr": "ruanyl.github.io/geekr"
     , "ghoullier": "ghoullier.github.io"
@@ -187,6 +188,5 @@ var cnames_active = {
     , "youtim": "mortonfox.github.io/YouTim"
     , "zodiac": "indus.github.io/Zodiac"
     , "zombie": "assaf.github.io/zombie"
-    , "paraiba": "paraibajs.github.io"  
-    , "fromdenisvieira": "fromdenisvieira.github.io"
+    , "paraiba": "paraibajs.github.io"
 }
