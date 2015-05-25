@@ -122,6 +122,7 @@ var cnames_active = {
     , "motapc": "motapc97.github.io"
     , "murder": "rolandpoulter.github.io/murder"
     , "ncub8": "ncub8.github.io"
+    , "nearley": "hardmath123.github.io/nearley"
     , "nemo": "paypal.github.io/nemo"
     , "newcol": "newcol.github.io"
     , "ng-wig": "stevermeister.github.io/ngWig"
