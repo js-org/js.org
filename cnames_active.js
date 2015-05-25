@@ -187,5 +187,6 @@ var cnames_active = {
     , "youtim": "mortonfox.github.io/YouTim"
     , "zodiac": "indus.github.io/Zodiac"
     , "zombie": "assaf.github.io/zombie"
-    , "paraiba": "paraibajs.github.io"    
+    , "paraiba": "paraibajs.github.io"  
+    , "fromdenisvieira": "fromdenisvieira.github.io"
 }
