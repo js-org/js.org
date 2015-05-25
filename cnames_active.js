@@ -51,6 +51,7 @@ var cnames_active = {
     , "crunch": "vukicevic.github.io/crunch"
     , "date": "matthewmueller.github.io/date"
     , "dns": "js-org.github.io/dns"
+    , "dragon-slayer:" "kingscott.github.io/dragon-slayer"
     , "elliot": "elliotboney.github.io"
     , "emulisp": "grahack.github.io/EmuLisp"
     , "euclid": "anandthakker.github.io/euclid"
