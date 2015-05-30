@@ -105,6 +105,7 @@ var cnames_active = {
     , "labelauty": "fntneves.github.io/jquery-labelauty"
     , "laubstein": "laubstein.github.io"
     , "leandro": "leandrowd.github.io"
+    , "learnGitBranching": "pcottle.github.io/learnGitBranching"
     , "leipzig": "leipzigjs.github.io"
     , "lightyrs": "lightyrs.github.io"
     , "liguori": "liguori.github.io"
