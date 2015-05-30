@@ -140,6 +140,7 @@ var cnames_active = {
     , "olimsaidov": "olimsaidov.github.io"
     , "omega": "jczimm.github.io/omega"
     , "on": "clayendisk.github.io/on.js"
+    , "os": "andersevenrud.github.io/OS.js-v2"
     , "opsigor": "opsigor.github.io"
     , "paraiba": "paraibajs.github.io"
     , "pathtrace": "kovacsv.github.io/WebGLPathTrace"
