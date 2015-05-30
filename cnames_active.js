@@ -106,6 +106,7 @@ var cnames_active = {
     , "laubstein": "laubstein.github.io"
     , "leandro": "leandrowd.github.io"
     , "leipzig": "leipzigjs.github.io"
+    , "leon": "leonnardella.github.io/leon"
     , "lightyrs": "lightyrs.github.io"
     , "liguori": "liguori.github.io"
     , "linuxaddict": "linuxaddict.github.io/mario"
