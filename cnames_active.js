@@ -46,6 +46,7 @@ var cnames_active = {
     , "bogdanteodoru": "bogdanteodoru.github.io"
     , "brandonmerritt": "brandonmerritt.github.io"
     , "burst": "hugeen.github.io/burst"
+    , "cable": "whatgoodisaroad.github.io/cablejs"
     , "cartodb-demo": "opensas.github.io/cartodb-demo"
     , "chrislaughlin": "chrislaughlin.github.io"
     , "chrismendis": "chrismendis.github.io"
