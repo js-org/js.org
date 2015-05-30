@@ -183,6 +183,7 @@ var cnames_active = {
     , "timerizer": "callumacrae.github.io/timerizerJS"
     , "tint": "tintjs.github.io"
     , "ts2jsdoc": "spatools.github.io/ts2jsdoc"
+    , "twine": "shopify.github.io/twine"
     , "ultcombo": "ultcombo.github.io"
     , "vintesh": "vintesh.github.io"
     , "visualnovel": "selcher.github.io/visualnoveljs"
