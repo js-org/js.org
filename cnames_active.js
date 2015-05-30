@@ -84,6 +84,7 @@ var cnames_active = {
     , "gridsplit": "assetinfo.github.io"
     , "gruft": "nikola.github.io/gruft"
     , "gully": "nmabhinandan.github.io/gully"
+    , "gun": "amark.github.io/gun"
     , "happy": "e24.github.io/happy"
     , "hello": "hello-js-org.github.io"
     , "hooloo": "hooloo.github.io"
