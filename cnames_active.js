@@ -195,5 +195,6 @@ var cnames_active = {
     , "xto6": "mohebifar.github.io/xto6"
     , "youtim": "mortonfox.github.io/YouTim"
     , "zodiac": "indus.github.io/Zodiac"
-    , "zombie": "assaf.github.io/zombie"
+    , "zombie": "assaf.github.io/zombie",
+    , "daysfromnow": "pedrokost.github.io/daysfromnow"
 }
