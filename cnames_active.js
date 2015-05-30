@@ -124,6 +124,7 @@ var cnames_active = {
     , "modalizer": "dungo.github.io/modalizer"
     , "motapc": "motapc97.github.io"
     , "murder": "rolandpoulter.github.io/murder"
+    , "mvidalgarcia": "mvidalgarcia.github.io"
     , "ncub8": "ncub8.github.io"
     , "nearley": "hardmath123.github.io/nearley"
     , "nemo": "paypal.github.io/nemo"
