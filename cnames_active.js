@@ -103,6 +103,7 @@ var cnames_active = {
     , "json-schema-faker": "pateketrueke.github.io/json-schema-faker"
     , "juno-106": "stevengoldberg.github.io/juno-106"
     , "jvandyke": "jvandyke.github.io"
+    , "kai": "kaicarver.github.io"
     , "kingdom": "clayendisk.github.io/kingdom.js"
     , "karl": "karlcoelho.github.io/portfolio"
     , "labelauty": "fntneves.github.io/jquery-labelauty"
