@@ -176,6 +176,7 @@ var cnames_active = {
     , "sulky": "shingle.github.io/sulky"
     , "supernova": "janbiasi.github.io/supernova"
     , "tagster": "goschevski.github.io/tagster"
+    , "talker": "secondstreet.github.io/talker.js"
     , "terminal": "gottox.github.io/terminal.js"
     , "textillate": "jschr.github.io/textillate"
     , "themoviedb": "chrisenytc.github.io/themoviedb"
