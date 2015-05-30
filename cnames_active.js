@@ -41,6 +41,7 @@ var cnames_active = {
     , "ashabatin": "ashabatin.github.io"
     , "astrobench": "kupriyanenko.github.io/astrobench"
     , "autodocs": "bguiz.github.io/autodocs"
+    , "avi": "avinassh.github.io/avi"
     , "badrudeen": "badrudeen.github.io"
     , "begin": "advanced-webapps-class.github.io/begin"
     , "bogdanteodoru": "bogdanteodoru.github.io"
