@@ -59,6 +59,7 @@ var cnames_active = {
     , "cqrs": "adrai.github.io/cqrs"
     , "crunch": "vukicevic.github.io/crunch"
     , "date": "matthewmueller.github.io/date"
+    , "dca": "dca.github.io"
     , "delegacias-fortaleza": "juliosampaio.github.io/delegacias-fortaleza"
     , "dns": "js-org.github.io/dns"
     , "drag-drop": "clayendisk.github.io/drag-drop.js"
