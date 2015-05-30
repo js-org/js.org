@@ -96,6 +96,7 @@ var cnames_active = {
     , "jakejarrett": "jakejarrett.github.io"
     , "jalbertbowden": "jalbertbowden.github.io"
     , "jbone": "kupriyanenko.github.io/jbone"
+    , "jellyfish": "dylancarlone.github.io/jellyfish"
     , "jjlc": "k-yak.github.io/JJLC"
     , "jodytate": "jodytate.github.io"
     , "json-schema-faker": "pateketrueke.github.io/json-schema-faker"
