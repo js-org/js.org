@@ -149,6 +149,7 @@ var cnames_active = {
     , "rafaelbiten": "rafaelbiten.github.io"
     , "rafaelmangolin": "rafaelMangolin.github.io"
     , "rahul": "rahulsukla.github.io/rahul"
+    , "reactnative": "reactnative.js.org"
     , "react-autosuggest": "moroshko.github.io/react-autosuggest"
     , "relate": "jakelazaroff.github.io/relate"
     , "rp": "rpocklin.github.io"
