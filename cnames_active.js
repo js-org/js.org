@@ -124,6 +124,7 @@ var cnames_active = {
     , "maxnachlinger": "maxnachlinger.github.io"
     , "medium-header": "danielfeelfine.github.io/medium-header"
     , "mfitzpatrick79": "mfitzpatrick79.github.io"
+    , "miguelsr": "miguelsr.github.io"
     , "mikeya": "mikeya.github.io"
     , "mithril": "lhorie.github.io/mithril"
     , "mmcq": "nikola.github.io/MMCQ"
