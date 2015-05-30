@@ -144,6 +144,7 @@ var cnames_active = {
     , "pixelart": "meriadec.github.io/PixelartJS"
     , "pliers": "pliersjs.github.io"
     , "polythene": "arthurclemens.github.io/Polythene"
+    , "prem": "paramk.github.io/prem"
     , "rad": "rapid-application-development-js.github.io/RAD.JS"
     , "radial": "ckgrafico.github.io/radial.js"
     , "rafaelbiten": "rafaelbiten.github.io"
