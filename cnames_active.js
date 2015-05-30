@@ -148,6 +148,7 @@ var cnames_active = {
     , "pathtrace": "kovacsv.github.io/WebGLPathTrace"
     , "paul": "paul-brown.github.io"
     , "pdfutils": "gottox.github.io/node-pdfutils"
+    , "pdp-elements": "go4cas.github.io/pdp_elements"
     , "pentris": "justinjc.github.io/pentris2"
     , "pitermarx": "pitermarx.github.io"
     , "pixelart": "meriadec.github.io/PixelartJS"
