@@ -196,6 +196,7 @@ var cnames_active = {
     , "tint": "tintjs.github.io"
     , "ts2jsdoc": "spatools.github.io/ts2jsdoc"
     , "ultcombo": "ultcombo.github.io"
+    , "vinimdocarmo": "vinimdocarmo.github.com"
     , "vintesh": "vintesh.github.io"
     , "visualnovel": "selcher.github.io/visualnoveljs"
     , "vncz": "xvincentx.github.io/vncz"
