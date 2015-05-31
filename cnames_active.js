@@ -183,7 +183,7 @@ var cnames_active = {
     , "spectragram,": "adrianengine.github.io/jquery-spectragram"
     , "spin": "fgnass.github.io/spin.js"
     , "spirare": "waldenn.github.io/spirare"
-    , "spiritual": "wunderbyte.github.io",
+    , "spiritual": "wunderbyte.github.io"
     , "spritesheet": "arcadiogarcia.github.io/Spritesheet.js"
     , "stats": "js-org.github.io"
     , "stepan": "stevermeister.github.io"
