@@ -182,7 +182,7 @@ var cnames_active = {
     , "thundercats": "r3dm.github.io/thundercats"
     , "timerizer": "callumacrae.github.io/timerizerJS"
     , "tint": "tintjs.github.io"
-    , "tiny": "e8johan.github.io/tiny"
+    , "tinylinux": "e8johan.github.io/tiny"
     , "ts2jsdoc": "spatools.github.io/ts2jsdoc"
     , "ultcombo": "ultcombo.github.io"
     , "vintesh": "vintesh.github.io"
