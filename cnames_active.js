@@ -182,6 +182,7 @@ var cnames_active = {
     , "selectric": "lcdsantos.github.io/jQuery-Selectric"
     , "serginator": "serginator.github.io"
     , "shedali": "shedali.github.io"
+    , "sherwani": "sherwani.github.io/sherwani.js.org"
     , "shorttompkins": "shorttompkins.github.io"
     , "sn0w": "greensn0w.github.io"
     , "spectragram,": "adrianengine.github.io/jquery-spectragram"
