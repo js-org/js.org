@@ -173,6 +173,7 @@ var cnames_active = {
     , "saturation": "saturation.github.io/www"
     , "saulosantiago": "saulosilva.github.io"
     , "savingthrow": "pdistefano.github.io/SavingThrow.js"
+    , "schisma": "schisma.github.io/opensource"
     , "scrolledin": "manuelromeroramos.github.io/scrolledIn.js"
     , "sdk-design": "huei90.github.io/javascript-sdk-design"
     , "sean": "seancallinan.github.io"
