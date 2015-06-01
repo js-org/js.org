@@ -52,6 +52,7 @@ var cnames_active = {
     , "cartodb-demo": "opensas.github.io/cartodb-demo"
     , "chrislaughlin": "chrislaughlin.github.io"
     , "chrismendis": "chrismendis.github.io"
+    , "chronos": "espinielli.github.io/chronos"
     , "chy": "chy59.github.io"
     , "clockwork": "arcadiogarcia.github.io/Clockwork.js"
     , "collegequest": "schoolhouserock.github.io/CollegeQuest"
