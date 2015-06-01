@@ -200,6 +200,7 @@ var cnames_active = {
     , "supernova": "janbiasi.github.io/supernova"
     , "tagster": "goschevski.github.io/tagster"
     , "talker": "secondstreet.github.io/talker.js"
+    , "temple": "beneaththeink.github.io/Temple"
     , "terminal": "gottox.github.io/terminal.js"
     , "textillate": "jschr.github.io/textillate"
     , "themoviedb": "chrisenytc.github.io/themoviedb"
