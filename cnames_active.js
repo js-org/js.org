@@ -32,6 +32,7 @@ var cnames_active = {
     "3bola": "3bola.github.io"
     , "7anshuai": "7anshuai.github.io"
     , "akashacms": "akashacms.github.io"
+    , "angularstompdk"; "davinkevin.github.io/AngularStompDK"
     , "algebra": "nicolewhite.github.io/algebra.js"
     , "alt": "goatslacker.github.io/alt"
     , "anenth": "anenth.github.io"
