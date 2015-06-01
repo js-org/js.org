@@ -218,6 +218,7 @@ var cnames_active = {
     , "wwb": "eqielb.github.io/wwb"
     , "xprmntl": "xprmntl.github.io"
     , "xto6": "mohebifar.github.io/xto6"
+    , "xtype": "lucono.github.io/xtypejs"
     , "youtim": "mortonfox.github.io/YouTim"
     , "zodiac": "indus.github.io/Zodiac"
     , "zombie": "assaf.github.io/zombie"
