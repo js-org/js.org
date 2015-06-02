@@ -230,4 +230,5 @@ var cnames_active = {
     , "youtube-box": "lucasmonteverde.github.io/youtube-box"
     , "zodiac": "indus.github.io/Zodiac"
     , "zombie": "assaf.github.io/zombie"
+    , "minhhuy150894": "minhhuy150894.github.io"
 }
