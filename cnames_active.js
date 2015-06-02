@@ -170,6 +170,7 @@ var cnames_active = {
     , "radial": "ckgrafico.github.io/radial.js"
     , "rafaelbiten": "rafaelbiten.github.io"
     , "rafaelmangolin": "rafaelMangolin.github.io"
+    , "ravi" : "ravi.github.io"
     , "rahul": "rahulsukla.github.io/rahul"
     , "react-autosuggest": "moroshko.github.io/react-autosuggest"
     , "react-shared": "rvikmanis.github.io/react-shared"
