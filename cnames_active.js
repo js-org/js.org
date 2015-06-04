@@ -203,6 +203,7 @@ var cnames_active = {
     , "sulky": "shingle.github.io/sulky"
     , "supernova": "janbiasi.github.io/supernova"
     , "tagster": "goschevski.github.io/tagster"
+    , "tap-flux": "technologyadvice.github.io/tap-flux"
     , "talker": "secondstreet.github.io/talker.js"
     , "temple": "beneaththeink.github.io/Temple"
     , "terminal": "gottox.github.io/terminal.js"
