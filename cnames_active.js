@@ -41,6 +41,7 @@ var cnames_active = {
     , "annoyingmouse": "annoyingmouse.github.io"
     , "argo": "albertosantini.github.io/argo"
     , "ashabatin": "ashabatin.github.io"
+    , "astral": "espinielli.github.io/astraljs"
     , "astrobench": "kupriyanenko.github.io/astrobench"
     , "autodocs": "bguiz.github.io/autodocs"
     , "avi": "avinassh.github.io/avi"
