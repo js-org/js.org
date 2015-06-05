@@ -217,7 +217,7 @@ var cnames_active = {
     , "ts2jsdoc": "spatools.github.io/ts2jsdoc"
     , "ultcombo": "ultcombo.github.io"
     , "unexpected": "unexpectedjs.github.io"
-    , "upresent": "bobbybee.github.io/upresent"
+    , "upresent": "bobbybee.github.io/uPresent"
     , "vaguilar": "vaguilar.github.io"
     , "vinimdocarmo": "vinimdocarmo.github.com"
     , "vintesh": "vintesh.github.io"
