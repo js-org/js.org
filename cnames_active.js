@@ -45,6 +45,7 @@ var cnames_active = {
     , "astrobench": "kupriyanenko.github.io/astrobench"
     , "autodocs": "bguiz.github.io/autodocs"
     , "avi": "avinassh.github.io/avi"
+    , "awal": "awalGarg.github.io"
     , "badrudeen": "badrudeen.github.io"
     , "begin": "advanced-webapps-class.github.io/begin"
     , "bogdanteodoru": "bogdanteodoru.github.io"
@@ -233,5 +234,4 @@ var cnames_active = {
     , "youtube-box": "lucasmonteverde.github.io/youtube-box"
     , "zodiac": "indus.github.io/Zodiac"
     , "zombie": "assaf.github.io/zombie"
-    , "awal": "awalGarg.github.io"
 }
