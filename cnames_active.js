@@ -176,6 +176,7 @@ var cnames_active = {
     , "react-autosuggest": "moroshko.github.io/react-autosuggest"
     , "react-shared": "rvikmanis.github.io/react-shared"
     , "relate": "jakelazaroff.github.io/relate"
+    , "riot": "riot.github.io"
     , "rp": "rpocklin.github.io"
     , "rwu": "rwu823.github.io"
     , "saturation": "saturation.github.io/www"
