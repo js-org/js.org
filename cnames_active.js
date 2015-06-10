@@ -158,6 +158,7 @@ var cnames_active = {
     , "olimsaidov": "olimsaidov.github.io"
     , "omega": "jczimm.github.io/omega"
     , "on": "clayendisk.github.io/on.js"
+    , "opentype": "nodebox.github.io/opentype.js"
     , "opsigor": "opsigor.github.io"
     , "os": "andersevenrud.github.io/OS.js-v2"
     , "paraiba": "paraibajs.github.io"
