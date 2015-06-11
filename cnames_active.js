@@ -71,6 +71,7 @@ var cnames_active = {
     , "dbo": "z3ta.github.io/dbo"
     , "delegacias-fortaleza": "juliosampaio.github.io/delegacias-fortaleza"
     , "dns": "js-org.github.io/dns"
+    , "documentation": "documentationjs.github.io",
     , "drag-drop": "clayendisk.github.io/drag-drop.js"
     , "dragonslayer": "kingscott.github.io/dragon-slayer"
     , "elf": "elfjs.github.io"
