@@ -193,6 +193,7 @@ var cnames_active = {
     , "serginator": "serginator.github.io"
     , "shedali": "shedali.github.io"
     , "shorttompkins": "shorttompkins.github.io"
+    , "skate": "skatejs.github.io"
     , "skx": "skx.github.io"
     , "sn0w": "greensn0w.github.io"
     , "spectragram,": "adrianengine.github.io/jquery-spectragram"
