@@ -223,6 +223,7 @@ var cnames_active = {
     , "ultcombo": "ultcombo.github.io"
     , "unexpected": "unexpectedjs.github.io"
     , "upresent": "bobbybee.github.io/uPresent"
+	, "uvcharts": "imaginea.github.io/uvCharts"
     , "vaguilar": "vaguilar.github.io"
     , "vinimdocarmo": "vinimdocarmo.github.com"
     , "vintesh": "vintesh.github.io"
