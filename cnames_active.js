@@ -51,6 +51,7 @@ var cnames_active = {
     , "begin": "advanced-webapps-class.github.io/begin"
     , "bogdanteodoru": "bogdanteodoru.github.io"
     , "brandonmerritt": "brandonmerritt.github.io"
+    , "brum": "brumjs.github.io"
     , "burst": "hugeen.github.io/burst"
     , "cable": "whatgoodisaroad.github.io/cablejs"
     , "cartodb-demo": "opensas.github.io/cartodb-demo"
