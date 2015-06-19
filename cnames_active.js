@@ -153,6 +153,7 @@ var cnames_active = {
     , "ng-wig": "stevermeister.github.io/ngWig"
     , "ngn": "nodengn.github.io/NGN"
     , "nikolay": "nikolay.github.io"
+    , "nktx": "nktx.github.io"
     , "notmeirl": "notmeirl.github.io"
     , "nsisodiya": "nsisodiya.github.io"
     , "objectmodel": "sylvainpolletvillard.github.io/ObjectModel"
