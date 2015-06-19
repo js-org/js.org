@@ -121,6 +121,7 @@ var cnames_active = {
     , "kingdom": "clayendisk.github.io/kingdom.js"
     , "labelauty": "fntneves.github.io/jquery-labelauty"
     , "laubstein": "laubstein.github.io"
+    , "lean-stack": "lean-stack.github.io"
     , "leandro": "leandrowd.github.io"
     , "learnGitBranching": "pcottle.github.io/learnGitBranching"
     , "leipzig": "leipzigjs.github.io"
