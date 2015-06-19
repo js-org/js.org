@@ -99,6 +99,7 @@ var cnames_active = {
     , "gun": "amark.github.io/gun"
     , "happy": "e24.github.io/happy"
     , "hello": "hello-js-org.github.io"
+    , "hipui": "rocketvalley.github.io/hipui"
     , "hooloo": "hooloo.github.io"
     , "humanreadable": "matt-sanders.github.io/humanreadable"
     , "hyde": "gheek.github.io/hyde"
