@@ -179,6 +179,7 @@ var cnames_active = {
     , "rahul": "rahulsukla.github.io/rahul"
     , "react-autosuggest": "moroshko.github.io/react-autosuggest"
     , "react-shared": "rvikmanis.github.io/react-shared"
+    , "realtime": "datamcfly.github.io/realtimejs"
     , "relate": "jakelazaroff.github.io/relate"
     , "rp": "rpocklin.github.io"
     , "rwu": "rwu823.github.io"
