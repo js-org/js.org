@@ -60,6 +60,7 @@ var cnames_active = {
     , "chronos": "espinielli.github.io/chronos"
     , "chy": "chy59.github.io"
     , "clockwork": "arcadiogarcia.github.io/Clockwork.js"
+    , "codemade": "codemade.github.io"
     , "collegequest": "schoolhouserock.github.io/CollegeQuest"
     , "concursos": "mteyss.github.io/concursos"
     , "construyendotrabajo": "mteyss.github.io/construyendotrabajo"
