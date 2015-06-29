@@ -62,6 +62,7 @@ var cnames_active = {
     , "clockwork": "arcadiogarcia.github.io/Clockwork.js"
     , "codemade": "codemade.github.io"
     , "collegequest": "schoolhouserock.github.io/CollegeQuest"
+    , "comixngn": "http://seun40.github.io/comix-ngn"
     , "concursos": "mteyss.github.io/concursos"
     , "construyendotrabajo": "mteyss.github.io/construyendotrabajo"
     , "cordova-multiplatform-template": "ckgrafico.github.io/Cordova-Multiplatform-Template"
