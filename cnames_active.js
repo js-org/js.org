@@ -219,6 +219,7 @@ var cnames_active = {
     , "supernova": "janbiasi.github.io/supernova"
     , "tagster": "goschevski.github.io/tagster"
     , "tap-flux": "technologyadvice.github.io/tap-flux"
+    , "tart": "tart.github.io/tartJS"
     , "talker": "secondstreet.github.io/talker.js"
     , "temple": "beneaththeink.github.io/Temple"
     , "terminal": "gottox.github.io/terminal.js"
