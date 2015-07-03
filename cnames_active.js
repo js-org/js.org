@@ -66,6 +66,7 @@ var cnames_active = {
     , "concursos": "mteyss.github.io/concursos"
     , "construyendotrabajo": "mteyss.github.io/construyendotrabajo"
     , "cordova-multiplatform-template": "ckgrafico.github.io/Cordova-Multiplatform-Template"
+    , "cote": "dashersw.github.io/cote"
     , "country": "growmies.github.io/countryjs"
     , "cqrs": "adrai.github.io/cqrs"
     , "crunch": "vukicevic.github.io/crunch"
