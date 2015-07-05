@@ -75,6 +75,7 @@ var cnames_active = {
     , "daysfromnow": "pedrokost.github.io/daysfromnow"
     , "dbo": "z3ta.github.io/dbo"
     , "delegacias-fortaleza": "juliosampaio.github.io/delegacias-fortaleza"
+    , "dinesh": "dineshondev.github.io/dinesh"
     , "dns": "js-org.github.io/dns"
     , "documentation": "documentationjs.github.io",
     , "drag-drop": "clayendisk.github.io/drag-drop.js"
