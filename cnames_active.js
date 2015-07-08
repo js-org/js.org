@@ -249,6 +249,7 @@ var cnames_active = {
     , "xprmntl": "xprmntl.github.io"
     , "xto6": "mohebifar.github.io/xto6"
     , "xtype": "lucono.github.io/xtypejs"
+    , "yah": "thassiov.github.io/yah"
     , "youtim": "mortonfox.github.io/YouTim"
     , "youtube-box": "lucasmonteverde.github.io/youtube-box"
     , "zodiac": "indus.github.io/Zodiac"
