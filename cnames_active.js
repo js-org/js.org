@@ -256,4 +256,5 @@ var cnames_active = {
     , "zodiac": "indus.github.io/Zodiac"
     , "zombie": "assaf.github.io/zombie"
     , "voloshins": "voloshins.github.io"
+    , "gamedevcontestal": "fromdenisvieira.github.io/gamedevcontestal"
 }
