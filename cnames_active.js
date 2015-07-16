@@ -71,6 +71,7 @@ var cnames_active = {
     , "country": "growmies.github.io/countryjs"
     , "cqrs": "adrai.github.io/cqrs"
     , "crunch": "vukicevic.github.io/crunch"
+    , "cucumber-mink": "adezandee.github.io/cucumber-mink"
     , "cycle": "cyclejs.github.io"
     , "date": "matthewmueller.github.io/date"
     , "daysfromnow": "pedrokost.github.io/daysfromnow"
