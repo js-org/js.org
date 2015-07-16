@@ -212,6 +212,7 @@ var cnames_active = {
     , "skx": "skx.github.io"
     , "sn0w": "greensn0w.github.io"
     , "spectragram,": "adrianengine.github.io/jquery-spectragram"
+    , "sox": "sox-team.github.io/sox"
     , "spin": "fgnass.github.io/spin.js"
     , "spirare": "waldenn.github.io/spirare"
     , "spiritual": "spiritual-js.github.io"
