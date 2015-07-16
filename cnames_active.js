@@ -164,6 +164,7 @@ var cnames_active = {
     , "ng-wig": "stevermeister.github.io/ngWig"
     , "ngn": "nodengn.github.io/NGN"
     , "nikolay": "nikolay.github.io"
+    , "n-j-m": "n-j-m.github.io"
     , "notmeirl": "notmeirl.github.io"
     , "nsisodiya": "nsisodiya.github.io"
     , "nvanthao": "nvanthao.github.io"
