@@ -124,6 +124,7 @@ var cnames_active = {
     , "jjlc": "k-yak.github.io/JJLC"
     , "jodytate": "jodytate.github.io"
     , "json-schema-faker": "pateketrueke.github.io/json-schema-faker"
+    , "juancarlosqr": "juancarlosqr.github.io"
     , "julien": "julien.github.io"
     , "juno-106": "stevengoldberg.github.io/juno-106"
     , "jvandyke": "jvandyke.github.io"
