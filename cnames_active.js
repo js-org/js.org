@@ -130,6 +130,7 @@ var cnames_active = {
     , "jvandyke": "jvandyke.github.io"
     , "karl": "karlcoelho.github.io/portfolio"
     , "kingdom": "clayendisk.github.io/kingdom.js"
+    , "lambda": "lambdajs.github.io"
     , "labelauty": "fntneves.github.io/jquery-labelauty"
     , "laubstein": "laubstein.github.io"
     , "lean-stack": "lean-stack.github.io"
