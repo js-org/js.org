@@ -31,8 +31,9 @@
 var cnames_active = {
     "3bola": "3bola.github.io"
     , "7anshuai": "7anshuai.github.io"
+    , "akase": "cedmax.github.io/akase"
     , "akashacms": "akashacms.github.io"
-    , "angularstompdk"; "davinkevin.github.io/AngularStompDK"
+    , "angularstompdk": "davinkevin.github.io/AngularStompDK"
     , "algebra": "nicolewhite.github.io/algebra.js"
     , "alt": "goatslacker.github.io/alt"
     , "anenth": "anenth.github.io"
@@ -79,7 +80,7 @@ var cnames_active = {
     , "delegacias-fortaleza": "juliosampaio.github.io/delegacias-fortaleza"
     , "dinesh": "dineshondev.github.io/dinesh"
     , "dns": "js-org.github.io/dns"
-    , "documentation": "documentationjs.github.io",
+    , "documentation": "documentationjs.github.io"
     , "drag-drop": "clayendisk.github.io/drag-drop.js"
     , "dragonslayer": "kingscott.github.io/dragon-slayer"
     , "elf": "elfjs.github.io"
@@ -243,7 +244,7 @@ var cnames_active = {
     , "ultcombo": "ultcombo.github.io"
     , "unexpected": "unexpectedjs.github.io"
     , "upresent": "bobbybee.github.io/uPresent"
-	, "uvcharts": "imaginea.github.io/uvCharts"
+    , "uvcharts": "imaginea.github.io/uvCharts"
     , "vaguilar": "vaguilar.github.io"
     , "vinimdocarmo": "vinimdocarmo.github.com"
     , "vintesh": "vintesh.github.io"
