@@ -237,7 +237,7 @@ var cnames_active = {
     , "terminal": "gottox.github.io/terminal.js"
     , "textillate": "jschr.github.io/textillate"
     , "themoviedb": "chrisenytc.github.io/themoviedb"
-    , "thundercats": "r3dm.github.io/thundercats"
+    , "thundercats": "thundercatsjs.github.io/thundercats"
     , "timerizer": "callumacrae.github.io/timerizerJS"
     , "tint": "tintjs.github.io"
     , "tinylinux": "e8johan.github.io/tiny-js"
