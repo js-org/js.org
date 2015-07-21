@@ -31,6 +31,7 @@
 var cnames_active = {
     "3bola": "3bola.github.io"
     , "7anshuai": "7anshuai.github.io"
+    , "8art": "erayarslan.github.io/8art"
     , "akase": "cedmax.github.io/akase"
     , "akashacms": "akashacms.github.io"
     , "angularstompdk": "davinkevin.github.io/AngularStompDK"
@@ -88,6 +89,7 @@ var cnames_active = {
     , "elliot": "elliotboney.github.io"
     , "emeraldcraftmc": "emeraldcraftmc.github.io"
     , "emulisp": "grahack.github.io/EmuLisp"
+    , "eray": "erayarslan.github.io"
     , "euclid": "anandthakker.github.io/euclid"
     , "eventstore": "adrai.github.io/node-eventstore"
     , "fcbosque": "cronopio.github.io/fcbosque"
