@@ -49,6 +49,7 @@ var cnames_active = {
     , "avi": "avinassh.github.io/avi"
     , "avner": "avnerus.github.io"
     , "awal": "awalGarg.github.io"
+    , "barcelona": "barcelona-js.github.io/website"
     , "badrudeen": "badrudeen.github.io"
     , "begin": "advanced-webapps-class.github.io/begin"
     , "biu": "aprilorange.github.io/biu"
