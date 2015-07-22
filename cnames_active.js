@@ -116,6 +116,7 @@ var cnames_active = {
     , "humanreadable": "matt-sanders.github.io/humanreadable"
     , "hyde": "gheek.github.io/hyde"
     , "iio": "iioinc.github.io/iio.js"
+    , "intro": "bpesquet.github.io/OC-intro-JavaScript"
     , "itsashis4u": "itsashis4u.github.io"
     , "is": "arasatasaygin.github.io/is.js"
     , "ivml": "influencetech.github.io/ivml"
