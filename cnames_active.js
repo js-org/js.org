@@ -165,7 +165,7 @@ var cnames_active = {
     , "motapc": "motapc97.github.io"
     , "murder": "rolandpoulter.github.io/murder"
     , "mvidalgarcia": "mvidalgarcia.github.io"
-    , "nanimate": "imthenachoman.github.io/nAnimation"
+    , "nanimation": "imthenachoman.github.io/nAnimation"
     , "ncub8": "ncub8.github.io"
     , "nearley": "hardmath123.github.io/nearley"
     , "nemo": "paypal.github.io/nemo"
