@@ -268,5 +268,4 @@ var cnames_active = {
     , "voloshins": "voloshins.github.io"
     , "gamedevcontestal": "fromdenisvieira.github.io/gamedevcontestal"
     , "dutchakdev": "dutchakdev.github.io"
-    , "meteor": "dutchakdev.github.io/meteor"
 }
