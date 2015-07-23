@@ -55,6 +55,7 @@ var cnames_active = {
     , "bogdanteodoru": "bogdanteodoru.github.io"
     , "brandonmerritt": "brandonmerritt.github.io"
     , "brum": "brumjs.github.io"
+    , "bub": "dar5hak.github.io/bub"
     , "burst": "hugeen.github.io/burst"
     , "cable": "whatgoodisaroad.github.io/cablejs"
     , "calcy": "odevlord.github.io/Calcy"
