@@ -179,7 +179,7 @@ var cnames_active = {
     , "n-j-m": "n-j-m.github.io"
     , "notmeirl": "notmeirl.github.io"
     , "nsisodiya": "nsisodiya.github.io"
-    , "nsptiles": "nsptiles.js.org"
+    , "nsptiles": "imthenachoman.github.io/nSPTiles"
     , "nvanthao": "nvanthao.github.io"
     , "objectmodel": "sylvainpolletvillard.github.io/ObjectModel"
     , "olimsaidov": "olimsaidov.github.io"
