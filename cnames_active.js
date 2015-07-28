@@ -199,6 +199,7 @@ var cnames_active = {
     , "pixelart": "meriadec.github.io/PixelartJS"
     , "pliers": "pliersjs.github.io"
     , "polythene": "arthurclemens.github.io/Polythene"
+    , "prettyjson": "rafeca.github.io/prettyjson"
     , "rad": "rapid-application-development-js.github.io/RAD.JS"
     , "radial": "ckgrafico.github.io/radial.js"
     , "rafaelbiten": "rafaelbiten.github.io"
