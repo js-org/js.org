@@ -114,6 +114,7 @@ var cnames_active = {
     , "gun": "amark.github.io/gun"
     , "halil" : "hibrahimsafak.github.io"
     , "happy": "e24.github.io/happy"
+    , "hask": "janbiasi.github.io/hask"
     , "hello": "hello-js-org.github.io"
     , "hooloo": "hooloo.github.io"
     , "humanreadable": "matt-sanders.github.io/humanreadable"
