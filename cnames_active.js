@@ -118,6 +118,7 @@ var cnames_active = {
     , "hooloo": "hooloo.github.io"
     , "humanreadable": "matt-sanders.github.io/humanreadable"
     , "hyde": "gheek.github.io/hyde"
+    , "ignacio": "selaromi.github.io"
     , "iio": "iioinc.github.io/iio.js"
     , "ip-address": "beaugunderson.github.io/ip-address"
     , "itsashis4u": "itsashis4u.github.io"
