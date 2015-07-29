@@ -256,6 +256,7 @@ var cnames_active = {
     , "upresent": "bobbybee.github.io/uPresent"
     , "uvcharts": "imaginea.github.io/uvCharts"
     , "vaguilar": "vaguilar.github.io"
+    , "validator": "ppoffice.github.io/validator.js"
     , "vinimdocarmo": "vinimdocarmo.github.com"
     , "vintesh": "vintesh.github.io"
     , "visualnovel": "selcher.github.io/visualnoveljs"
