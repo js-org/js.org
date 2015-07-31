@@ -164,6 +164,7 @@ var cnames_active = {
     , "miguelsr": "miguelsr.github.io"
     , "mikeya": "mikeya.github.io"
     , "mithril": "lhorie.github.io/mithril"
+    , "mithril-ja": "shibukawa.github.io/mithril-ja"
     , "mmcq": "nikola.github.io/MMCQ"
     , "modalizer": "dungo.github.io/modalizer"
     , "mom": "momjs.github.io/mom"
