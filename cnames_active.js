@@ -251,6 +251,7 @@ var cnames_active = {
     , "timerizer": "callumacrae.github.io/timerizerJS"
     , "tint": "tintjs.github.io"
     , "tinylinux": "e8johan.github.io/tiny-js"
+    , "trevorgk": "trevorgk.github.io"
     , "ts2jsdoc": "spatools.github.io/ts2jsdoc"
     , "ultcombo": "ultcombo.github.io"
     , "unexpected": "unexpectedjs.github.io"
