@@ -97,6 +97,7 @@ var cnames_active = {
     , "fcbosque": "cronopio.github.io/fcbosque"
     , "festercluck": "festercluck.github.io"
     , "finder": "applait.github.io/finderjs"
+    , "fis": "fex-team.github.io/fis-site"
     , "flowchart": "adrai.github.io/flowchart.js"
     , "freemarker": "ijse.github.io/freemarker.js"
     , "fromdenisvieira": "fromdenisvieira.github.io"
