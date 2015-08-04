@@ -163,6 +163,7 @@ var cnames_active = {
     , "mfitzpatrick79": "mfitzpatrick79.github.io"
     , "miguelsr": "miguelsr.github.io"
     , "mikeya": "mikeya.github.io"
+    , "miller": "miller.github.io"
     , "mithril": "lhorie.github.io/mithril"
     , "mithril-ja": "shibukawa.github.io/mithril-ja"
     , "mmcq": "nikola.github.io/MMCQ"
