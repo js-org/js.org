@@ -53,7 +53,6 @@ var cnames_active = {
     ,"barcelona": "barcelona-js.github.io/website"
     ,"begin": "advanced-webapps-class.github.io/begin"
     ,"biu": "aprilorange.github.io/biu"
-    ,"bogdanteodoru": "bogdanteodoru.github.io"
     ,"brandonmerritt": "brandonmerritt.github.io"
     ,"brum": "brumjs.github.io"
     ,"bub": "dar5hak.github.io/bub"
