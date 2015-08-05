@@ -83,6 +83,7 @@ var cnames_active = {
     ,"dinesh": "dineshondev.github.io/dinesh"
     ,"dns": "js-org.github.io/dns.js.org"
     ,"documentation": "documentationjs.github.io"
+    ,"domtastic": "webpro.github.io/DOMtastic"
     ,"dragonslayer": "kingscott.github.io/dragon-slayer"
     ,"dutchakdev": "dutchakdev.github.io"
     ,"elf": "elfjs.github.io"
