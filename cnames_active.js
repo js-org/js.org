@@ -14,6 +14,12 @@
  * VALUE:       The regular domain provided by GitHub (e.g.: "foo.github.io" for a User-/Organisation Page
  *              or "foo.github.io/bar" for a Project Page).
  *
+ * CLOUDFLARE:  JS.ORG uses CloudFlare as its DNS. By default CloudFlare redirects all requests directly to
+ *              GitHub. But as an opt-in you can make CloudFlare proxy requests to your subdomain
+ *              to get SSL support (https://foo.js.org). Just add '//CF' in the line of your requested
+ *              subdomain to give me a hint. (CloudFlares caching as a CDN is bypassed by default)
+ *              This isn´t widely tested and may have some unforeseen drawbacks!
+ *
  * IMPORTANT:   To authorise yourself as the owner of the GitHub Page you must have a valid CNAME file
  *              (with the requested domain, e.g: "foo.js.org") to your repository before the pull request.
  *              The requested subdomain must match either your GitHub username or the name of your project
@@ -29,7 +35,8 @@
  */
 
 var cnames_active = {
-    "3bola": "3bola.github.io"
+    "":"js-org.github.io" //CF
+    ,"3bola": "3bola.github.io"
     ,"7anshuai": "7anshuai.github.io"
     ,"8art": "erayarslan.github.io/8art"
     ,"akase": "cedmax.github.io/akase"
@@ -81,7 +88,7 @@ var cnames_active = {
     ,"dbo": "z3ta.github.io/dbo"
     ,"delegacias-fortaleza": "juliosampaio.github.io/delegacias-fortaleza"
     ,"dinesh": "dineshondev.github.io/dinesh"
-    ,"dns": "js-org.github.io/dns.js.org"
+    ,"dns": "js-org.github.io/dns.js.org" //CF
     ,"documentation": "documentationjs.github.io"
     ,"domtastic": "webpro.github.io/DOMtastic"
     ,"dragonslayer": "kingscott.github.io/dragon-slayer"
@@ -227,7 +234,7 @@ var cnames_active = {
     ,"spirare": "waldenn.github.io/spirare"
     ,"spiritual": "spiritual-js.github.io"
     ,"spritesheet": "arcadiogarcia.github.io/Spritesheet.js"
-    ,"stats": "js-org.github.io/stats.js.org"
+    ,"stats": "js-org.github.io/stats.js.org" //CF
     ,"stepan": "stevermeister.github.io"
     ,"stephenmccall": "stephenmccall.github.io"
     ,"sugarshin": "sugarshin.github.io/sugarshin.js.org"
