@@ -212,6 +212,7 @@ var cnames_active = {
     ,"react-shared": "rvikmanis.github.io/react-shared"
     ,"realtime": "datamcfly.github.io/realtimejs"
     ,"relate": "jakelazaroff.github.io/relate"
+    ,"riotgear": "riotgear.github.io"
     ,"rp": "rpocklin.github.io"
     ,"rwu": "rwu823.github.io"
     ,"saulosantiago": "saulosilva.github.io"
