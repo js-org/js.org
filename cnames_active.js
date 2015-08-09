@@ -73,6 +73,7 @@ var cnames_active = {
     ,"clockwork": "arcadiogarcia.github.io/Clockwork.js"
     ,"codemade": "codemade.github.io"
     ,"collegequest": "schoolhouserock.github.io/CollegeQuest"
+    ,"color-contrast": "moroshko.github.io/color-contrast"
     ,"comixngn": "seun40.github.io/comix-ngn"
     ,"concursos": "mteyss.github.io/concursos"
     ,"construyendotrabajo": "mteyss.github.io/construyendotrabajo"
