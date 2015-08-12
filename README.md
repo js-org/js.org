@@ -1,4 +1,4 @@
-:anger: **Because of the risk of abuse I´m no longer merging requests for pages without content** :exclamation: 
+### [SUMMER BREAK 8/10/2015 - 8/23/2015](https://github.com/js-org/dns.js.org/issues/390)
 
 [![JS.ORG Logo](http://logo.js.org/png/github_header.png)](http://js.org)
 [![JS.ORG](https://img.shields.io/badge/js.org-dns-ffb400.svg?style=flat-square)](http://js.org)

@@ -146,7 +146,6 @@ var cnames_restricted = [
     "now",
     "ns1",
     "ns2",
-    "now",
     "object(s)",
     "online",
     "open",
