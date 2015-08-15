@@ -213,6 +213,7 @@ var cnames_active = {
     ,"react-autosuggest": "moroshko.github.io/react-autosuggest"
     ,"react-shared": "rvikmanis.github.io/react-shared"
     ,"realtime": "datamcfly.github.io/realtimejs"
+    ,"redis": "noderedis.github.io/node_redis"
     ,"relate": "jakelazaroff.github.io/relate"
     ,"riotgear": "riotgear.github.io" //CF
     ,"rp": "rpocklin.github.io"
