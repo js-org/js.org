@@ -249,6 +249,7 @@ var cnames_active = {
     ,"talker": "secondstreet.github.io/talker.js"
     ,"tap-flux": "technologyadvice.github.io/tap-flux"
     ,"tart": "tart.github.io/tartJS"
+    ,"techtonic": "jhwohlgemuth.github.io/techtonic"
     ,"temple": "beneaththeink.github.io/Temple"
     ,"terminal": "gottox.github.io/terminal.js"
     ,"textillate": "jschr.github.io/textillate"
