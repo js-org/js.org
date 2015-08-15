@@ -35,7 +35,7 @@
  */
 
 var cnames_active = {
-    "":"js-org.github.io" //CF
+    "": "js-org.github.io" //CF
     ,"3bola": "3bola.github.io"
     ,"7anshuai": "7anshuai.github.io"
     ,"8art": "erayarslan.github.io/8art"
@@ -92,7 +92,6 @@ var cnames_active = {
     ,"dns": "js-org.github.io/dns.js.org" //CF
     ,"documentation": "documentationjs.github.io"
     ,"domtastic": "webpro.github.io/DOMtastic" //CF
-    ,"dragonslayer": "kingscott.github.io/dragon-slayer"
     ,"dutchakdev": "dutchakdev.github.io"
     ,"elf": "elfjs.github.io"
     ,"elliot": "elliotboney.github.io"
@@ -106,6 +105,7 @@ var cnames_active = {
     ,"finder": "applait.github.io/finderjs"
     ,"fis": "fex-team.github.io/fis-site"
     ,"flowchart": "adrai.github.io/flowchart.js"
+    ,"fluxoff": "kingscott.github.io/flux-off"
     ,"freemarker": "ijse.github.io/freemarker.js"
     ,"fromdenisvieira": "fromdenisvieira.github.io"
     ,"frzr": "frzrjs.github.io/frzr"
