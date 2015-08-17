@@ -152,6 +152,7 @@ var cnames_active = {
     ,"laubstein": "laubstein.github.io"
     ,"lean-stack": "lean-stack.github.io"
     ,"leandro": "leandrowd.github.io"
+    ,"learn": "daniellmb.github.io/learn"
     ,"learnGitBranching": "pcottle.github.io/learnGitBranching"
     ,"leipzig": "leipzigjs.github.io"
     ,"leoj": "leoaj.github.io"
