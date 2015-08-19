@@ -159,6 +159,7 @@ var cnames_active = {
     ,"liguori": "liguori.github.io"
     ,"linuxaddict": "linuxaddict.github.io/mario"
     ,"logo": "js-org.github.io/logo"
+    ,"low": "lowjs.github.io"
     ,"lujaw": "lujaw.github.io"
     ,"martin": "martinbutler.github.io"
     ,"martingollogly": "martingollogly.github.io"
