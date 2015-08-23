@@ -90,6 +90,7 @@ var cnames_active = {
     ,"dbo": "z3ta.github.io/dbo"
     ,"delegacias-fortaleza": "juliosampaio.github.io/delegacias-fortaleza"
     ,"dinesh": "dineshondev.github.io/dinesh"
+    ,"distillery": "achannarasappa.github.io/distillery"
     ,"dns": "js-org.github.io/dns.js.org" //CF
     ,"documentation": "documentationjs.github.io"
     ,"domtastic": "webpro.github.io/DOMtastic" //CF
