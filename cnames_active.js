@@ -177,6 +177,7 @@ var cnames_active = {
     ,"mmcq": "nikola.github.io/MMCQ"
     ,"modalizer": "dungo.github.io/modalizer"
     ,"mom": "momjs.github.io/mom"
+    ,"momentum": "wemakeweb.github.io/momentum"
     ,"motapc": "motapc97.github.io"
     ,"murder": "rolandpoulter.github.io/murder"
     ,"mvidalgarcia": "mvidalgarcia.github.io"
