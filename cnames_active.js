@@ -89,6 +89,7 @@ var cnames_active = {
     ,"daysfromnow": "pedrokost.github.io/daysfromnow"
     ,"dbo": "z3ta.github.io/dbo"
     ,"delegacias-fortaleza": "juliosampaio.github.io/delegacias-fortaleza"
+    ,"dgelong": "alexeyraspopov.github.io/dgelong"
     ,"dinesh": "dineshondev.github.io/dinesh"
     ,"distillery": "achannarasappa.github.io/distillery"
     ,"dns": "js-org.github.io/dns.js.org" //CF
