@@ -135,6 +135,7 @@ var cnames_active = {
     ,"is": "arasatasaygin.github.io/is.js"
     ,"itsashis4u": "itsashis4u.github.io"
     ,"ivml": "influencetech.github.io/ivml"
+    ,"immybox": "immense.github.io/immybox/demo"
     ,"j2p": "j2p.github.io"
     ,"jakarta": "jakartajs.github.io/jakartajs"
     ,"jakejarrett": "jakejarrett.github.io"
