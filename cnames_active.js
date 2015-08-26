@@ -95,6 +95,7 @@ var cnames_active = {
     ,"dns": "js-org.github.io/dns.js.org" //CF
     ,"documentation": "documentationjs.github.io"
     ,"domtastic": "webpro.github.io/DOMtastic" //CF
+    ,"du": "ruanyl.github.io/du"
     ,"dutchakdev": "dutchakdev.github.io"
     ,"elf": "elfjs.github.io"
     ,"elliot": "elliotboney.github.io"
