@@ -98,6 +98,7 @@ var cnames_active = {
     ,"du": "ruanyl.github.io/du"
     ,"dutchakdev": "dutchakdev.github.io"
     ,"elf": "elfjs.github.io"
+    ,"elicec": "elicec.github.io"
     ,"elliot": "elliotboney.github.io"
     ,"emeraldcraftmc": "emeraldcraftmc.github.io"
     ,"emulisp": "grahack.github.io/EmuLisp"
