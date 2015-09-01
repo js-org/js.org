@@ -39,7 +39,6 @@ var cnames_active = {
     ,"3bola": "3bola.github.io"
     ,"7anshuai": "7anshuai.github.io"
     ,"8art": "erayarslan.github.io/8art"
-    ,"accessible-colors": "moroshko.github.io/accessible-colors"
     ,"akase": "cedmax.github.io/akase"
     ,"akashacms": "akashacms.github.io"
     ,"algebra": "nicolewhite.github.io/algebra.js"
