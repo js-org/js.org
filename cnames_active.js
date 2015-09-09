@@ -200,6 +200,7 @@ var cnames_active = {
     ,"pixelart": "meriadec.github.io/PixelartJS"
     ,"pliers": "pliersjs.github.io"
     ,"polythene": "arthurclemens.github.io/Polythene"
+    ,"querybuilder": "mistic100.github.io/jQuery-QueryBuilder"
     ,"quiz-revamped": "abhisekp.github.io/Quiz-Revamped"
     ,"rad": "rapid-application-development-js.github.io/RAD.JS"
     ,"radial": "ckgrafico.github.io/radial.js"
