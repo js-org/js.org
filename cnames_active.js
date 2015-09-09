@@ -264,6 +264,7 @@ var cnames_active = {
     ,"validator": "ppoffice.github.io/validator.js"
     ,"vinimdocarmo": "vinimdocarmo.github.com"
     ,"visualnovel": "selcher.github.io/visualnoveljs"
+    ,"vk-x": "vk-x.github.io" //CF
     ,"vncz": "xvincentx.github.io/vncz"
     ,"voloshins": "voloshins.github.io"
     ,"vuongdothanhhuy": "vuongdothanhhuy.github.io"
