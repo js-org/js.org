@@ -191,6 +191,7 @@ var cnames_active = {
     ,"opsigor": "opsigor.github.io"
     ,"os": "andersevenrud.github.io/OS.js-v2"
     ,"paraiba": "paraibajs.github.io"
+    ,"parametric-svg": "parametric-svg.github.io"
     ,"pathtrace": "kovacsv.github.io/WebGLPathTrace"
     ,"paul": "paul-brown.github.io"
     ,"pdfutils": "gottox.github.io/node-pdfutils"
