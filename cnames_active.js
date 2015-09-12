@@ -281,4 +281,5 @@ var cnames_active = {
     ,"zodiac": "indus.github.io/Zodiac"
     ,"zombie": "assaf.github.io/zombie"
     ,"danmol": "dan12mol.github.io"
+    ,"mis101bird": "mis101bird.github.io"
 }
