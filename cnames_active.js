@@ -210,6 +210,7 @@ var cnames_active = {
     ,"react-autosuggest": "moroshko.github.io/react-autosuggest"
     ,"react-autowhatever": "moroshko.github.io/react-autowhatever"
     ,"react-shared": "rvikmanis.github.io/react-shared"
+    ,"reader": "ruanyl.github.io/js-reader"
     ,"realtime": "datamcfly.github.io/realtimejs"
     ,"redis": "noderedis.github.io/node_redis"
     ,"relate": "jakelazaroff.github.io/relate"
