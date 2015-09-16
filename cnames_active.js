@@ -97,6 +97,7 @@ var cnames_active = {
     ,"dutchakdev": "dutchakdev.github.io"
     ,"elf": "elfjs.github.io"
     ,"elliot": "elliotboney.github.io"
+    ,"ember-cli-page-object": "san650.github.io/ember-cli-page-object"
     ,"emeraldcraftmc": "emeraldcraftmc.github.io"
     ,"emulisp": "grahack.github.io/EmuLisp"
     ,"eray": "erayarslan.github.io"
