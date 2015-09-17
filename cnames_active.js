@@ -30,7 +30,7 @@
  *
  * NOTICE:      It would be nice if you could keep the alphabetical order.
  *
- *              Because of the risk of abuse I´m no longer merging requests for pages without content!
+ *              Because of the risk of abuse I´m not accepting requests for pages without reasonable content!
  *
  */
 
