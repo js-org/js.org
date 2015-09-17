@@ -6,8 +6,8 @@
  * file a pull request to add your own GitHub Page
  *
  *
- **** EXPLANATION
- * ****************
+ **** README
+ * ***********
  *
  * KEY:         The subdomain you request (e.g.: "foo" would give the custom domain "foo.js.org" ).
  *
