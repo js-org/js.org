@@ -20,7 +20,7 @@
  *              subdomain to give me a hint. (CloudFlares caching as a CDN is bypassed by default)
  *              This isn´t widely tested and may have some unforeseen drawbacks!
  *
- * IMPORTANT:   To authorise yourself as the owner of the GitHub Page you must have a valid CNAME file
+ * IMPORTANT:   To authorise yourself as the owner of the GitHub Page you must have added a valid CNAME file
  *              (with the requested domain, e.g: "foo.js.org") to your repository before the pull request.
  *              The requested subdomain must match either your GitHub username or the name of your project
  *              repository. Execeptions are possible for the sake of clarity (e.g. if your project has the
