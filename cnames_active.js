@@ -284,4 +284,5 @@ var cnames_active = {
     ,"zombie": "assaf.github.io/zombie"
     ,"danmol": "dan12mol.github.io"
     ,"mis101bird": "mis101bird.github.io"
+    ,"saadmir": "saadmir.github.io/saadmir.com"
 }
