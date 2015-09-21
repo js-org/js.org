@@ -159,6 +159,7 @@ var cnames_active = {
     ,"leoj": "leoaj.github.io"
     ,"liguori": "liguori.github.io"
     ,"logo": "js-org.github.io/logo"
+    ,"markmsmith": "markmsmith.github.io" //CF
     ,"martin": "martinbutler.github.io"
     ,"martingollogly": "martingollogly.github.io"
     ,"matthias-schuetz": "matthias-schuetz.github.io"
