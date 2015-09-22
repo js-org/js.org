@@ -133,6 +133,7 @@ var cnames_active = {
     ,"iio": "iioinc.github.io/iio.js"
     ,"ip-address": "beaugunderson.github.io/ip-address"
     ,"is": "arasatasaygin.github.io/is.js"
+    ,"italia": "milano-js.github.io/italia-js"
     ,"itsashis4u": "itsashis4u.github.io"
     ,"ivml": "influencetech.github.io/ivml"
     ,"immense": "immense.github.io"
