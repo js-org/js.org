@@ -273,6 +273,7 @@ var cnames_active = {
     ,"vncz": "xvincentx.github.io/vncz"
     ,"voloshins": "voloshins.github.io"
     ,"vuongdothanhhuy": "vuongdothanhhuy.github.io"
+    ,"waterline": "waterlinejs.github.io"
     ,"weaver": "maxkfranz.github.io/weaver"
     ,"wwb": "eqielb.github.io/wwb"
     ,"xprmntl": "xprmntl.github.io"
