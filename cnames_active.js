@@ -57,6 +57,7 @@ var cnames_active = {
     ,"badrudeen": "badrudeen.github.io"
     ,"barcelona": "barcelona-js.github.io/website"
     ,"begin": "advanced-webapps-class.github.io/begin"
+    ,"bestof": "michaelrambeau.github.io/bestofjs"
     ,"biu": "aprilorange.github.io/biu"
     ,"brandonmerritt": "brandonmerritt.github.io"
     ,"brum": "brumjs.github.io"
