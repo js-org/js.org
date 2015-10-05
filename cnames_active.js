@@ -47,6 +47,7 @@ var cnames_active = {
     ,"angularstompdk": "davinkevin.github.io/AngularStompDK"
     ,"annotate": "taitems.github.io/web-pdf-annotation"
     ,"annoyingmouse": "annoyingmouse.github.io"
+    ,"api-spec": "api-spec.github.io"
     ,"argo": "albertosantini.github.io/argo"
     ,"astral": "espinielli.github.io/astraljs"
     ,"astrobench": "kupriyanenko.github.io/astrobench"
