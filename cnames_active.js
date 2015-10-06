@@ -115,7 +115,7 @@ var cnames_active = {
     ,"fluxoff": "kingscott.github.io/flux-off"
     ,"freemarker": "ijse.github.io/freemarker.js"
     ,"fromdenisvieira": "fromdenisvieira.github.io"
-    ,"frzr": "frzrjs.github.io/frzr"
+    ,"frzr": "pakastin.github.io/frzr" //CF
     ,"gamedevcontestal": "fromdenisvieira.github.io/gamedevcontestal"
     ,"geekr": "ruanyl.github.io/geekr"
     ,"giant-piano": "moroshko.github.io/giant-piano"
