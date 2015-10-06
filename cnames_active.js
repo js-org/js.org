@@ -106,6 +106,7 @@ var cnames_active = {
     ,"eray": "erayarslan.github.io"
     ,"euclid": "anandthakker.github.io/euclid"
     ,"eventstore": "adrai.github.io/node-eventstore"
+    ,"exbars": "youssefkababe.github.io/exbars"
     ,"fcbosque": "cronopio.github.io/fcbosque"
     ,"festercluck": "festercluck.github.io"
     ,"finder": "applait.github.io/finderjs"
