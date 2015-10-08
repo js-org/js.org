@@ -68,6 +68,7 @@ var cnames_active = {
     ,"calcy": "odevlord.github.io/Calcy"
     ,"campinas": "jscampinas.github.io/campinas"
     ,"cartodb-demo": "opensas.github.io/cartodb-demo"
+    ,"chimon2000": "chimon2000.github.io"
     ,"chrislaughlin": "chrislaughlin.github.io"
     ,"chrismendis": "chrismendis.github.io"
     ,"chronos": "espinielli.github.io/chronos"
