@@ -96,7 +96,6 @@ var cnames_active = {
     ,"dns": "js-org.github.io/dns.js.org" //CF
     ,"documentation": "documentationjs.github.io"
     ,"domtastic": "webpro.github.io/DOMtastic" //CF
-    ,"ds": "quietshu.github.io"
     ,"du": "ruanyl.github.io/du"
     ,"dutchakdev": "dutchakdev.github.io"
     ,"elf": "elfjs.github.io"
@@ -293,6 +292,7 @@ var cnames_active = {
     ,"yargs": "bcoe.github.io/yargs"
     ,"youtim": "mortonfox.github.io/YouTim"
     ,"youtube-box": "lucasmonteverde.github.io/youtube-box"
+    ,"y86": "quietshu.github.io/y86"
     ,"zodiac": "indus.github.io/Zodiac"
     ,"zombie": "assaf.github.io/zombie"
 }
