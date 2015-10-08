@@ -292,6 +292,7 @@ var cnames_active = {
     ,"yargs": "bcoe.github.io/yargs"
     ,"youtim": "mortonfox.github.io/YouTim"
     ,"youtube-box": "lucasmonteverde.github.io/youtube-box"
+    ,"y86": "quietshu.github.io/y86"
     ,"zodiac": "indus.github.io/Zodiac"
     ,"zombie": "assaf.github.io/zombie"
 }
