@@ -172,6 +172,7 @@ var cnames_active = {
     ,"matthias-schuetz": "matthias-schuetz.github.io"
     ,"maxnachlinger": "maxnachlinger.github.io"
     ,"maxtracking": "maxtracking.github.io"
+    ,"mbing": "mbing.github.io"
     ,"mdast": "wooorm.github.io/mdast"
     ,"medium-header": "danielfeelfine.github.io/medium-header"
     ,"miguelsr": "miguelsr.github.io"
