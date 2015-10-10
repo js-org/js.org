@@ -234,6 +234,7 @@ var cnames_active = {
     ,"scrolledin": "manuelromeroramos.github.io/scrolledIn.js"
     ,"sdk-design": "huei90.github.io/javascript-sdk-design"
     ,"sean": "seancallinan.github.io"
+    ,"seesaw": "cajogos.github.io/seesaw"
     ,"segoe-mdl2-css": "ckgrafico.github.io/Segoe-mdl2-assets-css"
     ,"select_io": "selaromi.github.io/select_io"
     ,"selectric": "lcdsantos.github.io/jQuery-Selectric"
