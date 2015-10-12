@@ -121,6 +121,7 @@ var cnames_active = {
     ,"geekr": "ruanyl.github.io/geekr"
     ,"giant-piano": "moroshko.github.io/giant-piano"
     ,"goodseller": "goodseller.github.io"
+    ,"gotanda": "gotandajs.github.io"
     ,"graphics2d": "keyten.github.io/Graphics2D"
     ,"grapnel": "engineeringmode.github.io/Grapnel.js"
     ,"greg": "gregorydgarcia.github.io"
