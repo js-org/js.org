@@ -224,6 +224,7 @@ var cnames_active = {
     ,"reader": "ruanyl.github.io/js-reader"
     ,"realtime": "datamcfly.github.io/realtimejs"
     ,"redis": "noderedis.github.io/node_redis"
+    ,"redux": "rackt.github.io/redux"
     ,"relate": "jakelazaroff.github.io/relate"
     ,"riotgear": "riotgear.github.io" //CF
     ,"rp": "rpocklin.github.io"
