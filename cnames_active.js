@@ -198,6 +198,7 @@ var cnames_active = {
     ,"nvanthao": "nvanthao.github.io"
     ,"objectmodel": "sylvainpolletvillard.github.io/ObjectModel"
     ,"omega": "jczimm.github.io/omega"
+    ,"omer": "omeroot.github.io"
     ,"opentype": "nodebox.github.io/opentype.js"
     ,"opsigor": "opsigor.github.io"
     ,"os": "andersevenrud.github.io/OS.js-v2"
