@@ -193,6 +193,7 @@ var cnames_active = {
     ,"nemo": "paypal.github.io/nemo"
     ,"ng-wig": "stevermeister.github.io/ngWig"
     ,"ngn": "nodengn.github.io/NGN"
+    ,"nick": "nmai.github.io"
     ,"nikolay": "nikolay.github.io"
     ,"nsptiles": "imthenachoman.github.io/nSPTiles"
     ,"nvanthao": "nvanthao.github.io"
