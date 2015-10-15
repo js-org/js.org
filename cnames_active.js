@@ -129,7 +129,7 @@ var cnames_active = {
     ,"gruft": "nikola.github.io/gruft"
     ,"guillotine": "matiasgagliano.github.io/guillotine"
     ,"gully": "nmabhinandan.github.io/gully"
-    ,"gun": "amark.github.io/gun"
+    ,"gun": "gundb.github.io"
     ,"halil" : "hibrahimsafak.github.io"
     ,"happy": "e24.github.io/happy"
     ,"hask": "janbiasi.github.io/hask"
