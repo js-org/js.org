@@ -261,6 +261,7 @@ var cnames_active = {
     ,"sulky": "shingle.github.io/sulky"
     ,"sunsistemo": "sunsistemo.github.io" //CF
     ,"supernova": "janbiasi.github.io/supernova"
+    ,"tafkey": "tafkey.github.io"
     ,"tagster": "goschevski.github.io/tagster"
     ,"talker": "secondstreet.github.io/talker.js"
     ,"tap-flux": "technologyadvice.github.io/tap-flux"
