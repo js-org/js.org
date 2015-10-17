@@ -294,11 +294,11 @@ var cnames_active = {
     ,"xprmntl": "xprmntl.github.io"
     ,"xto6": "mohebifar.github.io/xto6"
     ,"xtype": "lucono.github.io/xtypejs"
+    ,"y86": "quietshu.github.io/y86"
     ,"yah": "thassiov.github.io/yah"
     ,"yargs": "bcoe.github.io/yargs"
     ,"youtim": "mortonfox.github.io/YouTim"
     ,"youtube-box": "lucasmonteverde.github.io/youtube-box"
-    ,"y86": "quietshu.github.io/y86"
     ,"zodiac": "indus.github.io/Zodiac"
     ,"zombie": "assaf.github.io/zombie"
 }
