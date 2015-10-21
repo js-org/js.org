@@ -300,5 +300,5 @@ var cnames_active = {
     ,"youtim": "mortonfox.github.io/YouTim"
     ,"youtube-box": "lucasmonteverde.github.io/youtube-box"
     ,"zodiac": "indus.github.io/Zodiac"
-    ,"zombie": "assaf.github.io/zombie"
+    ,"guiseek": "guiseek.github.io"
 }
