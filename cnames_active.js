@@ -49,7 +49,7 @@ var cnames_active = {
     ,"annoyingmouse": "annoyingmouse.github.io"
     ,"api-spec": "api-spec.github.io"
     ,"argo": "albertosantini.github.io/argo"
-    ,"ass": "weizhenye.github.io/ASS"
+    ,"ass": "weizhenye.github.io/ASS" //CF
     ,"astral": "espinielli.github.io/astraljs"
     ,"astrobench": "kupriyanenko.github.io/astrobench"
     ,"autodocs": "bguiz.github.io/autodocs"
@@ -85,7 +85,7 @@ var cnames_active = {
     ,"crunch": "vukicevic.github.io/crunch"
     ,"cucumber-mink": "adezandee.github.io/cucumber-mink"
     ,"cycle": "cyclejs.github.io"
-    ,"danmaku": "weizhenye.github.io/Danmaku"
+    ,"danmaku": "weizhenye.github.io/Danmaku" //CF
     ,"danmol": "dan12mol.github.io"
     ,"date": "matthewmueller.github.io/date"
     ,"daysfromnow": "pedrokost.github.io/daysfromnow"
