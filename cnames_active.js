@@ -169,7 +169,8 @@ var cnames_active = {
     ,"leipzig": "leipzigjs.github.io"
     ,"leoj": "leoaj.github.io"
     ,"liguori": "liguori.github.io"
-    ,"logo": "js-org.github.io/logo"
+    ,"logo": "js-org.github.io/logo",
+    "linkjs" : "linkjs.github.io",
     ,"markmsmith": "markmsmith.github.io" //CF
     ,"martin": "martinbutler.github.io"
     ,"martingollogly": "martingollogly.github.io"
