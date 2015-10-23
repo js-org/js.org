@@ -119,6 +119,7 @@ var cnames_restricted = [
     "lesson(s)",
     "license(s)",
     "like(s)",
+    "link(s)",
     "live",
     "log(s)",
     "login",
