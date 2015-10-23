@@ -176,6 +176,7 @@ var cnames_active = {
     ,"maxtracking": "maxtracking.github.io"
     ,"mdast": "wooorm.github.io/mdast"
     ,"medium-header": "danielfeelfine.github.io/medium-header"
+    ,"mesh": "crcn.github.io/mesh.js.org"
     ,"miguelsr": "miguelsr.github.io"
     ,"mis101bird": "mis101bird.github.io"
     ,"mithril": "lhorie.github.io/mithril"
