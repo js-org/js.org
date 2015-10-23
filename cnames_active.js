@@ -280,6 +280,7 @@ var cnames_active = {
     ,"torino": "torinojs.github.io"
     ,"trevorgk": "trevorgk.github.io"
     ,"ts2jsdoc": "spatools.github.io/ts2jsdoc"
+    ,"typeahead": "corejavascript.github.io/typeahead.js" //CF
     ,"ultcombo": "ultcombo.github.io"
     ,"unexpected": "unexpectedjs.github.io"
     ,"upresent": "bobbybee.github.io/uPresent"
