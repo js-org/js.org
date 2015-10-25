@@ -185,7 +185,8 @@ var cnames_active = {
     ,"mithril": "lhorie.github.io/mithril"
     ,"mithril-ja": "shibukawa.github.io/mithril-ja"
     ,"mmcq": "nikola.github.io/MMCQ"
-    ,"modalizer": "dungo.github.io/modalizer"
+    ,"modalizer": "dungo.github.io/modalizer",
+    "getmodaljs":"http://ilovecode1.github.io/modal.js",
     ,"mom": "momjs.github.io/mom"
     ,"momentum": "wemakeweb.github.io/momentum"
     ,"motapc": "motapc97.github.io"
