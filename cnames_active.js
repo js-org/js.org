@@ -120,6 +120,7 @@ var cnames_active = {
     ,"frzr": "pakastin.github.io/frzr" //CF
     ,"gamedevcontestal": "fromdenisvieira.github.io/gamedevcontestal"
     ,"geekr": "ruanyl.github.io/geekr"
+    ,"getlinkjs": "getlinkjs.github.io"
     ,"ghsamm": "ghsamm.github.io"
     ,"giant-piano": "moroshko.github.io/giant-piano"
     ,"goodseller": "goodseller.github.io"
