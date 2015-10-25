@@ -119,7 +119,8 @@ var cnames_active = {
     ,"fromdenisvieira": "fromdenisvieira.github.io"
     ,"frzr": "pakastin.github.io/frzr" //CF
     ,"gamedevcontestal": "fromdenisvieira.github.io/gamedevcontestal"
-    ,"geekr": "ruanyl.github.io/geekr"
+    ,"geekr": "ruanyl.github.io/geekr",
+    "getlinkjs":"ilovecode1.github.io/linkjs",
     ,"ghsamm": "ghsamm.github.io"
     ,"giant-piano": "moroshko.github.io/giant-piano"
     ,"goodseller": "goodseller.github.io"
