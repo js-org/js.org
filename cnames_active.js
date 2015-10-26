@@ -58,6 +58,7 @@ var cnames_active = {
     ,"awal": "awalGarg.github.io"
     ,"badrudeen": "badrudeen.github.io"
     ,"barcelona": "barcelona-js.github.io/website"
+    ,"basicgame" : "basicgame.github.io/basicGame.js"
     ,"begin": "advanced-webapps-class.github.io/begin"
     ,"bestof": "michaelrambeau.github.io/bestofjs"
     ,"biu": "aprilorange.github.io/biu"
