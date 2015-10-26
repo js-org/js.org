@@ -61,6 +61,7 @@ var cnames_active = {
     ,"basicgame" : "basicgame.github.io/basicGame.js"
     ,"begin": "advanced-webapps-class.github.io/begin"
     ,"bestof": "michaelrambeau.github.io/bestofjs"
+    ,"basicgame" : "http://basicgame.github.io/basicGame.js"
     ,"biu": "aprilorange.github.io/biu"
     ,"brandonmerritt": "brandonmerritt.github.io"
     ,"brum": "brumjs.github.io"
@@ -310,4 +311,5 @@ var cnames_active = {
     ,"zodiac": "indus.github.io/Zodiac"
     ,"zombie": "assaf.github.io/zombie"
     ,"guiseek": "guiseek.github.io"
+    
 }
