@@ -67,7 +67,7 @@ var cnames_active = {
     ,"burst": "hugeen.github.io/burst"
     ,"cable": "whatgoodisaroad.github.io/cablejs"
     ,"calcy": "odevlord.github.io/Calcy"
-    ,"capital": "capitaljs.github.io/capitaljs"
+    ,"capital": "capitaljs.github.io/capitaljs" //CF
     ,"cartodb-demo": "opensas.github.io/cartodb-demo"
     ,"chimon2000": "chimon2000.github.io"
     ,"chrislaughlin": "chrislaughlin.github.io"
