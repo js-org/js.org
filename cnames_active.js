@@ -231,6 +231,7 @@ var cnames_active = {
     ,"rahul": "rahulsukla.github.io/rahul"
     ,"react-autosuggest": "moroshko.github.io/react-autosuggest"
     ,"react-autowhatever": "moroshko.github.io/react-autowhatever"
+    ,"react-desktop": "gabrielbull.github.io/react-desktop"
     ,"react-shared": "rvikmanis.github.io/react-shared"
     ,"reader": "ruanyl.github.io/js-reader"
     ,"realtime": "datamcfly.github.io/realtimejs"
