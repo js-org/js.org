@@ -202,6 +202,7 @@ var cnames_active = {
     ,"ngn": "nodengn.github.io/NGN"
     ,"nick": "nmai.github.io"
     ,"nodegarden": "pakastin.github.io/nodegarden" //CF
+    ,"noteit": "saha96.github.io/NoteIt"
     ,"nsptiles": "imthenachoman.github.io/nSPTiles"
     ,"nvanthao": "nvanthao.github.io"
     ,"objectmodel": "sylvainpolletvillard.github.io/ObjectModel"
