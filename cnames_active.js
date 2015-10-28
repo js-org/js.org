@@ -211,6 +211,7 @@ var cnames_active = {
     ,"opentype": "nodebox.github.io/opentype.js"
     ,"opsigor": "opsigor.github.io"
     ,"os": "andersevenrud.github.io/OS.js-v2"
+    ,"pamatcher": "pmros.github.io/pamatcher"
     ,"paperclip": "crcn.github.com/paperclip.js.org"
     ,"paraiba": "paraibajs.github.io"
     ,"parametric-svg": "parametric-svg.github.io"
