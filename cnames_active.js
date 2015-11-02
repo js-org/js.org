@@ -234,6 +234,7 @@ var cnames_active = {
     ,"react-autosuggest": "moroshko.github.io/react-autosuggest"
     ,"react-autowhatever": "moroshko.github.io/react-autowhatever"
     ,"react-shared": "rvikmanis.github.io/react-shared"
+    ,"reactdesktop": "gabrielbull.github.io/react-desktop"
     ,"reader": "ruanyl.github.io/js-reader"
     ,"realtime": "datamcfly.github.io/realtimejs"
     ,"redis": "noderedis.github.io/node_redis"
