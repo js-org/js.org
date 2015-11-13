@@ -225,6 +225,7 @@ var cnames_active = {
     ,"pixelart": "meriadec.github.io/PixelartJS"
     ,"pliers": "pliersjs.github.io"
     ,"polythene": "arthurclemens.github.io/Polythene"
+    ,"qs": "kirjs.github.io/qs.js"
     ,"querybuilder": "mistic100.github.io/jQuery-QueryBuilder"
     ,"quiz-app": "odevlord.github.io/Quiz-App"
     ,"quiz-revamped": "abhisekp.github.io/Quiz-Revamped"
