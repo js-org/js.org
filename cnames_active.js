@@ -217,6 +217,7 @@ var cnames_active = {
     ,"polythene": "arthurclemens.github.io/Polythene"
     ,"querybuilder": "mistic100.github.io/jQuery-QueryBuilder"
     ,"quiz-app": "odevlord.github.io/Quiz-App"
+    ,"qs": "kirjs.github.io/qs.js"
     ,"quiz-revamped": "abhisekp.github.io/Quiz-Revamped"
     ,"rad": "rapid-application-development-js.github.io/RAD.JS"
     ,"radial": "ckgrafico.github.io/radial.js"
