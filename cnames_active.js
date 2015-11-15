@@ -112,6 +112,7 @@ var cnames_active = {
     ,"euclid": "anandthakker.github.io/euclid"
     ,"eventstore": "adrai.github.io/node-eventstore"
     ,"exbars": "youssefkababe.github.io/exbars"
+    ,"serender": "youssefkababe.github.io/serender"
     ,"fcbosque": "cronopio.github.io/fcbosque"
     ,"festercluck": "festercluck.github.io"
     ,"finder": "applait.github.io/finderjs"
