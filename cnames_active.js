@@ -160,6 +160,7 @@ var cnames_active = {
     ,"jalbertbowden": "jalbertbowden.github.io"
     ,"james": "jamesrowen.github.io/james"
     ,"jbone": "kupriyanenko.github.io/jbone"
+    ,"jets": "nexts.github.io/Jets.js"
     ,"jjlc": "k-yak.github.io/JJLC"
     ,"json-schema-faker": "pateketrueke.github.io/json-schema-faker"
     ,"juancarlosqr": "juancarlosqr.github.io"
