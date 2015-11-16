@@ -75,7 +75,7 @@ var cnames_active = {
     ,"chrismendis": "chrismendis.github.io"
     ,"chronos": "espinielli.github.io/chronos"
     ,"clockwork": "arcadiogarcia.github.io/Clockwork.js"
-    ,"clusterize": "nexts.github.io/Clusterize.js"
+    ,"clusterize": "nexts.github.io/Clusterize.js" //CF
     ,"codemade": "codemade.github.io"
     ,"collegequest": "schoolhouserock.github.io/CollegeQuest"
     ,"comixngn": "seun40.github.io/comix-ngn"
@@ -160,7 +160,7 @@ var cnames_active = {
     ,"jalbertbowden": "jalbertbowden.github.io"
     ,"james": "jamesrowen.github.io/james"
     ,"jbone": "kupriyanenko.github.io/jbone"
-    ,"jets": "nexts.github.io/Jets.js"
+    ,"jets": "nexts.github.io/Jets.js" //CF
     ,"jjlc": "k-yak.github.io/JJLC"
     ,"json-schema-faker": "pateketrueke.github.io/json-schema-faker"
     ,"juancarlosqr": "juancarlosqr.github.io"
