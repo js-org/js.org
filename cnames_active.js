@@ -246,6 +246,7 @@ var cnames_active = {
     ,"redux": "rackt.github.io/redux"
     ,"relate": "jakelazaroff.github.io/relate"
     ,"riotgear": "riotgear.github.io" //CF
+    ,"rishav": "xrisk.github.io/rishav"
     ,"rp": "rpocklin.github.io"
     ,"saadmir": "saadmir.github.io"
     ,"saulosantiago": "saulosilva.github.io"
