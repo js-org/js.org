@@ -294,6 +294,7 @@ var cnames_active = {
     ,"trevorgk": "trevorgk.github.io"
     ,"ts2jsdoc": "spatools.github.io/ts2jsdoc"
     ,"typeahead": "corejavascript.github.io/typeahead.js" //CF
+    ,"udnisap": "udnisap.github.io" //CF
     ,"ultcombo": "ultcombo.github.io"
     ,"unexpected": "unexpectedjs.github.io"
     ,"upresent": "bobbybee.github.io/uPresent"
