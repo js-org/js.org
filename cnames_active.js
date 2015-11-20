@@ -126,6 +126,7 @@ var cnames_active = {
     ,"gamedevcontestal": "fromdenisvieira.github.io/gamedevcontestal"
     ,"geekr": "ruanyl.github.io/geekr"
     ,"getlink":"ilovecode1.github.io/linkjs"
+    ,"glance": "tylerreckart.github.io/glance"
     ,"ghsamm": "ghsamm.github.io"
     ,"giant-piano": "moroshko.github.io/giant-piano"
     ,"goodseller": "goodseller.github.io"
