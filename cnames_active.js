@@ -195,6 +195,7 @@ var cnames_active = {
     ,"mom": "momjs.github.io/mom"
     ,"momentum": "wemakeweb.github.io/momentum"
     ,"motapc": "motapc97.github.io"
+    ,"mrn": "binggg.github.io/mrn"
     ,"murder": "rolandpoulter.github.io/murder"
     ,"mvidalgarcia": "mvidalgarcia.github.io"
     ,"n-j-m": "n-j-m.github.io"
