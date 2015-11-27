@@ -138,6 +138,7 @@ var cnames_active = {
     ,"guillotine": "matiasgagliano.github.io/guillotine"
     ,"gully": "nmabhinandan.github.io/gully"
     ,"gun": "gundb.github.io"
+    ,"gyre": "wridder.github.io/GyreJS"
     ,"h": "makenowjust.github.io/h.js"
     ,"halil" : "hibrahimsafak.github.io"
     ,"happy": "e24.github.io/happy"
