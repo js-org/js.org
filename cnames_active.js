@@ -304,6 +304,7 @@ var cnames_active = {
     ,"uvcharts": "imaginea.github.io/uvCharts"
     ,"vaguilar": "vaguilar.github.io"
     ,"validator": "ppoffice.github.io/validator.js"
+    ,"valentin": "valentinvieriu.github.io"
     ,"vinimdocarmo": "vinimdocarmo.github.com"
     ,"visualnovel": "selcher.github.io/visualnoveljs"
     ,"vk-x": "vk-x.github.io" //CF
