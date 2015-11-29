@@ -325,4 +325,5 @@ var cnames_active = {
     ,"zodiac": "indus.github.io/Zodiac"
     ,"zombie": "assaf.github.io/zombie"
     ,"guiseek": "guiseek.github.io"
+    ,"refujs": "refujs.github.io"
 }
