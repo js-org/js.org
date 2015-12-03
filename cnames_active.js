@@ -249,6 +249,7 @@ var cnames_active = {
     ,"redis": "noderedis.github.io/node_redis"
     ,"redux": "rackt.github.io/redux"
     ,"relate": "jakelazaroff.github.io/relate"
+    ,"rene": "revrng.github.io"
     ,"riotgear": "riotgear.github.io" //CF
     ,"rishav": "xrisk.github.io/rishav"
     ,"rp": "rpocklin.github.io"
