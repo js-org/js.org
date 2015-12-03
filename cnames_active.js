@@ -104,6 +104,7 @@ var cnames_active = {
     ,"documentation": "documentationjs.github.io"
     ,"domtastic": "webpro.github.io/DOMtastic" //CF
     ,"du": "ruanyl.github.io/du"
+    ,"duffn": "duffn.github.io"
     ,"dutchakdev": "dutchakdev.github.io"
     ,"elf": "elfjs.github.io"
     ,"elliot": "elliotboney.github.io"
