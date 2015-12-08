@@ -209,6 +209,7 @@ var cnames_active = {
     ,"ng-wig": "stevermeister.github.io/ngWig"
     ,"ngn": "nodengn.github.io/NGN"
     ,"nick": "nmai.github.io"
+    ,"node-browser_process": "caspervonb.github.io/node-browser_process"
     ,"nodegarden": "pakastin.github.io/nodegarden" //CF
     ,"noteit": "saha96.github.io/NoteIt"
     ,"nsptiles": "imthenachoman.github.io/nSPTiles"
