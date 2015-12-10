@@ -203,6 +203,7 @@ var cnames_active = {
     ,"mvidalgarcia": "mvidalgarcia.github.io"
     ,"n-j-m": "n-j-m.github.io"
     ,"nanimation": "imthenachoman.github.io/nAnimation"
+    ,"ncms": "janbiasi.github.io/ncms"
     ,"ncub8": "ncub8.github.io"
     ,"nearley": "hardmath123.github.io/nearley"
     ,"nemo": "paypal.github.io/nemo"
