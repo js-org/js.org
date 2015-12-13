@@ -283,6 +283,7 @@ var cnames_active = {
     ,"stats": "js-org.github.io/stats.js.org" //CF
     ,"stepan": "stevermeister.github.io"
     ,"stephenmccall": "stephenmccall.github.io"
+    ,"style": "dhilipsiva.github.io/style.js"
     ,"sugarshin": "sugarshin.github.io/sugarshin.js.org"
     ,"sulky": "shingle.github.io/sulky"
     ,"sunsistemo": "sunsistemo.github.io" //CF
