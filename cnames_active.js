@@ -255,8 +255,8 @@ var cnames_active = {
     ,"rene": "revrng.github.io"
     ,"riotgear": "riotgear.github.io" //CF
     ,"rishav": "xrisk.github.io/rishav"
-    ,"rp": "rpocklin.github.io",
-    "ruhuman": "ruhuman.github.io"
+    ,"rp": "rpocklin.github.io"
+    ,"ruhuman": "ruhuman.github.io"
     ,"saadmir": "saadmir.github.io"
     ,"saulosantiago": "saulosilva.github.io"
     ,"savingthrow": "pdistefano.github.io/SavingThrow.js"
