@@ -243,6 +243,7 @@ var cnames_active = {
     ,"radial": "ckgrafico.github.io/radial.js"
     ,"rafaelmangolin": "rafaelMangolin.github.io"
     ,"rahul": "rahulsukla.github.io/rahul"
+    ,"rapee": "rapee.github.io"
     ,"react-autosuggest": "moroshko.github.io/react-autosuggest"
     ,"react-autowhatever": "moroshko.github.io/react-autowhatever"
     ,"react-shared": "rvikmanis.github.io/react-shared"
