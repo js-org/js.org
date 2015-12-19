@@ -116,7 +116,7 @@ var cnames_active = {
     ,"euclid": "anandthakker.github.io/euclid"
     ,"eventstore": "adrai.github.io/node-eventstore"
     ,"exbars": "youssefkababe.github.io/exbars"
-    ,"facepalm": "santiagogil.github.io/facepalm"
+    ,"facepalm": "santiagogil.github.io/facepalm" //CF
     ,"fcbosque": "cronopio.github.io/fcbosque"
     ,"festercluck": "festercluck.github.io"
     ,"finder": "applait.github.io/finderjs"
