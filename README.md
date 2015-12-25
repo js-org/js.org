@@ -1,12 +1,10 @@
-:anger: **Because of the risk of abuse I´m no longer merging requests for pages without content** :exclamation: 
-
 [![JS.ORG Logo](http://logo.js.org/png/github_header.png)](http://js.org)
 [![JS.ORG](https://img.shields.io/badge/js.org-dns-ffb400.svg?style=flat-square)](http://js.org)
 
 **To get a short and sleek subdomain for your own GitHub Page follow these 4 Steps:**
 
 ### Step 1
-If you haven't already, now it's time to log in to your GitHub account and set up your GitHub Page following the instructions [here](https://pages.github.com/). To get a head start you can simply use the generator and one of the provided themes.
+If you haven't already, now it's time to log in to your GitHub account and set up your GitHub Page following the instructions [here](https://pages.github.com/). To get a head start you can simply use the generator with one of the provided themes and **add some reasonable content to your new page**.
 
 ### Step 2
 Now determine your js.org subdomain: either choose your username or the name of your repo according to the existing GitHub Pages URL (for ```http://foo.github.io/bar```, either ```foo.js.org``` or ```bar.js.org``` would be possible). More details in the [wiki](https://github.com/js-org/dns/wiki).
