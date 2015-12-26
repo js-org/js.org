@@ -311,6 +311,7 @@ var cnames_active = {
     ,"udnisap": "udnisap.github.io" //CF
     ,"ultcombo": "ultcombo.github.io"
     ,"unexpected": "unexpectedjs.github.io"
+    ,"uni": "arcadiogarcia.github.io/UNIJS"
     ,"upresent": "bobbybee.github.io/uPresent"
     ,"uvcharts": "imaginea.github.io/uvCharts"
     ,"vaguilar": "vaguilar.github.io"
