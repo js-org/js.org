@@ -188,7 +188,6 @@ var cnames_active = {
     ,"matthias-schuetz": "matthias-schuetz.github.io"
     ,"maxnachlinger": "maxnachlinger.github.io"
     ,"maxtracking": "maxtracking.github.io"
-    ,"mdast": "wooorm.github.io/mdast"
     ,"medium-header": "danielfeelfine.github.io/medium-header"
     ,"mesh": "crcn.github.io/mesh.js.org"
     ,"miguelsr": "miguelsr.github.io"
@@ -254,6 +253,7 @@ var cnames_active = {
     ,"redis": "noderedis.github.io/node_redis"
     ,"redux": "rackt.github.io/redux"
     ,"relate": "jakelazaroff.github.io/relate"
+    ,"remark": "wooorm.github.io/remark"
     ,"rene": "revrng.github.io"
     ,"riotgear": "riotgear.github.io" //CF
     ,"rishav": "xrisk.github.io/rishav"
