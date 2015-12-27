@@ -260,6 +260,7 @@ var cnames_active = {
     ,"rp": "rpocklin.github.io"
     ,"ruhuman": "ruhuman.github.io"
     ,"saadmir": "saadmir.github.io"
+    ,"sass": "medialize.github.io/playground.sass.js"
     ,"saulosantiago": "saulosilva.github.io"
     ,"savingthrow": "pdistefano.github.io/SavingThrow.js"
     ,"schisma": "schisma.github.io/opensource"
