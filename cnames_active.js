@@ -114,6 +114,7 @@ var cnames_active = {
     ,"emulisp": "grahack.github.io/EmuLisp"
     ,"eray": "erayarslan.github.io"
     ,"euclid": "anandthakker.github.io/euclid"
+    ,"eval": "jshawl.github.io/eval"
     ,"eventstore": "adrai.github.io/node-eventstore"
     ,"exbars": "youssefkababe.github.io/exbars"
     ,"facepalm": "santiagogil.github.io/facepalm" //CF
