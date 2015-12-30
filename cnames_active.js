@@ -232,7 +232,7 @@ var cnames_active = {
     ,"paul": "paul-brown.github.io"
     ,"pdfutils": "gottox.github.io/node-pdfutils"
     ,"pdp-elements": "go4cas.github.io/pdp_elements"
-    ,"penn-sdk": "http://pennlabs.github.io/penn-sdk-node"
+    ,"penn-sdk": "pennlabs.github.io/penn-sdk-node"
     ,"pentris": "justinjc.github.io/pentris2"
     ,"pitermarx": "pitermarx.github.io"
     ,"pixelart": "meriadec.github.io/PixelartJS"
