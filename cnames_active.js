@@ -122,6 +122,7 @@ var cnames_active = {
     ,"fcbosque": "cronopio.github.io/fcbosque"
     ,"festercluck": "festercluck.github.io"
     ,"finder": "applait.github.io/finderjs"
+    ,"firenze": "fahad19.github.io/firenze"
     ,"fis": "fex-team.github.io/fis-site"
     ,"flowchart": "adrai.github.io/flowchart.js"
     ,"fluxoff": "kingscott.github.io/flux-off"
