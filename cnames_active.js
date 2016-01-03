@@ -281,6 +281,7 @@ var cnames_active = {
     ,"shedali": "shedali.github.io"
     ,"shorttompkins": "shorttompkins.github.io"
     ,"simulacra": "0x8890.github.io/simulacra"
+    ,"siluna": "pahund.github.io/siluna"
     ,"skate": "skatejs.github.io"
     ,"skx": "skx.github.io"
     ,"sn0w": "greensn0w.github.io"
