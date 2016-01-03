@@ -262,7 +262,7 @@ var cnames_active = {
     ,"relate": "jakelazaroff.github.io/relate"
     ,"remark": "wooorm.github.io/remark"
     ,"rene": "revrng.github.io"
-    ,"request": "request.github.io"
+    ,"request": "request.gitbooks.io"
     ,"riotgear": "riotgear.github.io" //CF
     ,"rishav": "xrisk.github.io/rishav"
     ,"rp": "rpocklin.github.io"
