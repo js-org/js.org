@@ -129,6 +129,7 @@ var cnames_active = {
     ,"freemarker": "ijse.github.io/freemarker.js"
     ,"fromdenisvieira": "fromdenisvieira.github.io"
     ,"frzr": "pakastin.github.io/frzr" //CF
+    ,"freezer": "pakastin.github.io/freezer" //CF
     ,"gamedevcontestal": "fromdenisvieira.github.io/gamedevcontestal"
     ,"geekr": "ruanyl.github.io/geekr"
     ,"getlink":"ilovecode1.github.io/linkjs"
