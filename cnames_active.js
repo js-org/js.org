@@ -258,6 +258,7 @@ var cnames_active = {
     ,"realtime": "datamcfly.github.io/realtimejs"
     ,"redis": "noderedis.github.io/node_redis"
     ,"redux": "rackt.github.io/redux"
+    ,"refujs": "refujs.github.io"
     ,"relate": "jakelazaroff.github.io/relate"
     ,"remark": "wooorm.github.io/remark"
     ,"rene": "revrng.github.io"
