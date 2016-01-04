@@ -168,6 +168,7 @@ var cnames_active = {
     ,"jakejarrett": "jakejarrett.github.io"
     ,"jalbertbowden": "jalbertbowden.github.io"
     ,"james": "jamesrowen.github.io/james"
+    ,"jacques": "jacquesmarais.github.io/jacques"
     ,"jbone": "kupriyanenko.github.io/jbone"
     ,"jets": "nexts.github.io/Jets.js" //CF
     ,"jjlc": "k-yak.github.io/JJLC"
