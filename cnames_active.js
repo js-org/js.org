@@ -239,6 +239,7 @@ var cnames_active = {
     ,"pdp-elements": "go4cas.github.io/pdp_elements"
     ,"penn-sdk": "pennlabs.github.io/penn-sdk-node"
     ,"pentris": "justinjc.github.io/pentris2"
+    ,"phobos": "phobosjs.github.io" //CF
     ,"pitermarx": "pitermarx.github.io"
     ,"pixelart": "meriadec.github.io/PixelartJS"
     ,"pliers": "pliersjs.github.io"
