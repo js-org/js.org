@@ -254,6 +254,8 @@ var cnames_active = {
     ,"rahul": "rahulsukla.github.io/rahul"
     ,"react-autosuggest": "moroshko.github.io/react-autosuggest"
     ,"react-autowhatever": "moroshko.github.io/react-autowhatever"
+    ,"react-easy-swipe": "leandrowd.github.io/react-easy-swipe"
+    ,"react-responsive-carousel": "leandrowd.github.io/react-responsive-carousel"
     ,"react-shared": "rvikmanis.github.io/react-shared"
     ,"reactdesktop": "gabrielbull.github.io/react-desktop"
     ,"reader": "ruanyl.github.io/js-reader"
