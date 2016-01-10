@@ -207,6 +207,7 @@ var cnames_active = {
     ,"momentum": "wemakeweb.github.io/momentum"
     ,"motapc": "motapc97.github.io"
     ,"mrn": "binggg.github.io/mrn"
+    ,"mscgen": "sverweij.github.io/mscgen_js" // CF
     ,"murder": "rolandpoulter.github.io/murder"
     ,"mvidalgarcia": "mvidalgarcia.github.io"
     ,"n-j-m": "n-j-m.github.io"
