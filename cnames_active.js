@@ -348,7 +348,7 @@ var cnames_active = {
     ,"xtype": "lucono.github.io/xtypejs"
     ,"y86": "quietshu.github.io/y86"
     ,"yah": "thassiov.github.io/yah"
-    ,"yargs": "bcoe.github.io/yargs"
+    ,"yargs": "yargs.github.io"
     ,"youtim": "mortonfox.github.io/YouTim"
     ,"youtube-box": "lucasmonteverde.github.io/youtube-box"
     ,"zodiac": "indus.github.io/Zodiac"
