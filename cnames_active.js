@@ -127,9 +127,9 @@ var cnames_active = {
     ,"flowchart": "adrai.github.io/flowchart.js"
     ,"fluxoff": "kingscott.github.io/flux-off"
     ,"freemarker": "ijse.github.io/freemarker.js"
+    ,"freezer": "pakastin.github.io/freezer" //CF
     ,"fromdenisvieira": "fromdenisvieira.github.io"
     ,"frzr": "pakastin.github.io/frzr" //CF
-    ,"freezer": "pakastin.github.io/freezer" //CF
     ,"gamedevcontestal": "fromdenisvieira.github.io/gamedevcontestal"
     ,"geekr": "ruanyl.github.io/geekr"
     ,"getlink":"ilovecode1.github.io/linkjs"
@@ -164,11 +164,11 @@ var cnames_active = {
     ,"itsashis4u": "itsashis4u.github.io"
     ,"ivml": "influencetech.github.io/ivml"
     ,"j2p": "j2p.github.io"
+    ,"jacques": "jacquesmarais.github.io/jacques"
     ,"jakarta": "jakartajs.github.io/jakartajs"
     ,"jakejarrett": "jakejarrett.github.io"
     ,"jalbertbowden": "jalbertbowden.github.io"
     ,"james": "jamesrowen.github.io/james"
-    ,"jacques": "jacquesmarais.github.io/jacques"
     ,"jbone": "kupriyanenko.github.io/jbone"
     ,"jets": "nexts.github.io/Jets.js" //CF
     ,"jjlc": "k-yak.github.io/JJLC"
@@ -231,11 +231,11 @@ var cnames_active = {
     ,"opentype": "nodebox.github.io/opentype.js"
     ,"opsigor": "opsigor.github.io"
     ,"os": "andersevenrud.github.io/OS.js-v2"
-    ,"pastebin-alert": "ramadhanamizudin.github.io/pastebin-alert.js"
     ,"pamatcher": "pmros.github.io/pamatcher"
     ,"paperclip": "crcn.github.com/paperclip.js.org"
     ,"paraiba": "paraibajs.github.io"
     ,"parametric-svg": "parametric-svg.github.io"
+    ,"pastebin-alert": "ramadhanamizudin.github.io/pastebin-alert.js"
     ,"pathtrace": "kovacsv.github.io/WebGLPathTrace"
     ,"paul": "paul-brown.github.io"
     ,"pdfutils": "gottox.github.io/node-pdfutils"
@@ -291,8 +291,8 @@ var cnames_active = {
     ,"serginator": "serginator.github.io"
     ,"shedali": "shedali.github.io"
     ,"shorttompkins": "shorttompkins.github.io"
-    ,"simulacra": "0x8890.github.io/simulacra"
     ,"siluna": "pahund.github.io/siluna"
+    ,"simulacra": "0x8890.github.io/simulacra"
     ,"skate": "skatejs.github.io"
     ,"skx": "skx.github.io"
     ,"sn0w": "greensn0w.github.io"
@@ -324,6 +324,7 @@ var cnames_active = {
     ,"tint": "tintjs.github.io"
     ,"tinylinux": "e8johan.github.io/tiny-js"
     ,"torino": "torinojs.github.io"
+    ,"treviso": "trevisojs.github.io"
     ,"trevorgk": "trevorgk.github.io"
     ,"ts2jsdoc": "spatools.github.io/ts2jsdoc"
     ,"typeahead": "corejavascript.github.io/typeahead.js" //CF
@@ -354,5 +355,4 @@ var cnames_active = {
     ,"youtube-box": "lucasmonteverde.github.io/youtube-box"
     ,"zodiac": "indus.github.io/Zodiac"
     ,"zombie": "assaf.github.io/zombie"
-    ,"treviso": "trevisojs.github.io/"
 }
