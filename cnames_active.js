@@ -324,7 +324,7 @@ var cnames_active = {
     ,"tint": "tintjs.github.io"
     ,"tinylinux": "e8johan.github.io/tiny-js"
     ,"torino": "torinojs.github.io"
-    ,"treviso": "trevisojs.github.io"
+    ,"treviso": "63FAA3D4A98AE15FD9BA453580CEC8E8.treviso.js.org"
     ,"trevorgk": "trevorgk.github.io"
     ,"ts2jsdoc": "spatools.github.io/ts2jsdoc"
     ,"typeahead": "corejavascript.github.io/typeahead.js" //CF
