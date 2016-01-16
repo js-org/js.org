@@ -230,7 +230,7 @@ var cnames_active = {
     ,"onlineth": "onlineth.github.io"
     ,"opentype": "nodebox.github.io/opentype.js"
     ,"opsigor": "opsigor.github.io"
-    ,"os": "andersevenrud.github.io/OS.js-v2"
+    ,"os": "os-js.github.io/OS.js"
     ,"pamatcher": "pmros.github.io/pamatcher"
     ,"paperclip": "crcn.github.com/paperclip.js.org"
     ,"paraiba": "paraibajs.github.io"
