@@ -308,6 +308,7 @@ var cnames_active = {
     ,"stepan": "stevermeister.github.io"
     ,"stephenmccall": "stephenmccall.github.io"
     ,"style": "dhilipsiva.github.io/style.js"
+    ,"sudoku": "andreynering.github.io/sudoku"
     ,"sugarshin": "sugarshin.github.io/sugarshin.js.org"
     ,"sulky": "shingle.github.io/sulky"
     ,"sunsistemo": "sunsistemo.github.io" //CF
