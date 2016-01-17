@@ -93,6 +93,7 @@ var cnames_active = {
     ,"danmol": "dan12mol.github.io"
     ,"date": "matthewmueller.github.io/date"
     ,"daysfromnow": "pedrokost.github.io/daysfromnow"
+    ,"daisy": "kuruka.github.io/daisy.js.org"
     ,"dbo": "z3ta.github.io/dbo"
     ,"deck-of-cards": "pakastin.github.io/deck-of-cards" //CF
     ,"delegacias-fortaleza": "juliosampaio.github.io/delegacias-fortaleza"
