@@ -206,6 +206,7 @@ var cnames_active = {
     ,"modalizer": "dungo.github.io/modalizer"
     ,"mom": "momjs.github.io/mom"
     ,"momentum": "wemakeweb.github.io/momentum"
+    ,"monkberry": "monkberry.github.io"
     ,"motapc": "motapc97.github.io"
     ,"mrn": "binggg.github.io/mrn"
     ,"mscgen": "sverweij.github.io/mscgen_js" // CF
