@@ -248,6 +248,7 @@ var cnames_active = {
     ,"phobos": "phobosjs.github.io/phobos.js" //CF
     ,"pitermarx": "pitermarx.github.io"
     ,"pixelart": "meriadec.github.io/PixelartJS"
+    ,"planisphere": "dai-shi.github.io/planisphere-site"
     ,"pliers": "pliersjs.github.io"
     ,"polythene": "arthurclemens.github.io/Polythene"
     ,"qs": "kirjs.github.io/qs.js"
