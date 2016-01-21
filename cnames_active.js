@@ -350,6 +350,7 @@ var cnames_active = {
     ,"vncz": "xvincentx.github.io/vncz"
     ,"voloshins": "voloshins.github.io"
     ,"vuongdothanhhuy": "vuongdothanhhuy.github.io"
+    ,"watch": "ducin.github.io/watchjs.org"
     ,"weaver": "maxkfranz.github.io/weaver"
     ,"within": "eric-brechemier.github.io/within"
     ,"wwb": "eqielb.github.io/wwb"
