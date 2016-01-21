@@ -77,6 +77,7 @@ var cnames_active = {
     ,"chrismendis": "chrismendis.github.io"
     ,"christo": "christoga.github.io"    
     ,"chronos": "espinielli.github.io/chronos"
+    ,"cli": "clijs.org"
     ,"clockwork": "arcadiogarcia.github.io/Clockwork.js"
     ,"clusterize": "nexts.github.io/Clusterize.js" //CF
     ,"codemade": "codemade.github.io"
