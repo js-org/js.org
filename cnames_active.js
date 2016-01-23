@@ -294,6 +294,7 @@ var cnames_active = {
     ,"segoe-mdl2-css": "ckgrafico.github.io/Segoe-mdl2-assets-css"
     ,"select_io": "selaromi.github.io/select_io"
     ,"selectric": "lcdsantos.github.io/jQuery-Selectric"
+    ,"sendilkumarn": "sendilkumarn/sendilkumarn.github.io"
     ,"serender": "youssefkababe.github.io/serender"
     ,"serginator": "serginator.github.io"
     ,"shedali": "shedali.github.io"
