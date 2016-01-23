@@ -97,6 +97,7 @@ var cnames_active = {
     ,"daysfromnow": "pedrokost.github.io/daysfromnow"
     ,"dbo": "z3ta.github.io/dbo"
     ,"deck-of-cards": "pakastin.github.io/deck-of-cards" //CF
+    ,"deepu": "deepu105.github.io"
     ,"delegacias-fortaleza": "juliosampaio.github.io/delegacias-fortaleza"
     ,"deputy": "ry4nolson.github.io/Deputy"
     ,"dgelong": "alexeyraspopov.github.io/dgelong"
