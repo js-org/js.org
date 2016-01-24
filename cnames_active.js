@@ -135,6 +135,7 @@ var cnames_active = {
     ,"frzr": "pakastin.github.io/frzr" //CF
     ,"gamedevcontestal": "fromdenisvieira.github.io/gamedevcontestal"
     ,"geekr": "ruanyl.github.io/geekr"
+    ,"genpasswd": "exos.github.io/genpasswd"
     ,"getlink":"ilovecode1.github.io/linkjs"
     ,"ghsamm": "ghsamm.github.io"
     ,"giant-piano": "moroshko.github.io/giant-piano"
