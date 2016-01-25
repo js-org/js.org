@@ -298,6 +298,7 @@ var cnames_active = {
     ,"serender": "youssefkababe.github.io/serender"
     ,"serginator": "serginator.github.io"
     ,"shedali": "shedali.github.io"
+    ,"shirt": "ry4nolson.github.io/shirt"
     ,"shorttompkins": "shorttompkins.github.io"
     ,"siluna": "pahund.github.io/siluna"
     ,"simulacra": "0x8890.github.io/simulacra"
