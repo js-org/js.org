@@ -9,19 +9,19 @@
  **** README
  * ***********
  *
- * KEY:         The subdomain you request (e.g.: "foo" would give the custom domain "foo.js.org" ).
+ * KEY:         The subdomain you request (e.g.: "foo" would give the custom domain "foo.js.org").
  *
- * VALUE:       The regular domain provided by GitHub (e.g.: "foo.github.io" for a User-/Organisation Page
+ * VALUE:       The regular domain provided by GitHub (e.g.: "foo.github.io" for a User-/Organization Page
  *              or "foo.github.io/bar" for a Project Page).
  *
- * CLOUDFLARE:  JS.ORG uses CloudFlare as its DNS. By default CloudFlare redirects all requests directly to
+ * CLOUDFLARE:  JS.ORG uses CloudFlare as its DNS. By default, CloudFlare redirects all requests directly to
  *              GitHub. But as an opt-in you can make CloudFlare proxy requests to your subdomain
  *              to get SSL support (https://foo.js.org). Just add '//CF' in the line of your requested
  *              subdomain to give me a hint. (CloudFlares caching as a CDN is bypassed by default)
  *              This isn´t widely tested and may have some unforeseen drawbacks!
  *
- * IMPORTANT:   To authorise yourself as the owner of the GitHub Page you must have added a valid CNAME file
- *              (with the requested domain, e.g: "foo.js.org") to your repository before the pull request.
+ * IMPORTANT:   To authorize yourself as the owner of the GitHub Page you must have added a valid CNAME file
+ *              (with the requested domain, e.g.: "foo.js.org") to your repository before the pull request.
  *              The requested subdomain must match either your GitHub username or the name of your project
  *              repository. Execeptions are possible for the sake of clarity (e.g. if your project has the
  *              name "foojs" you can request "foo").
@@ -30,7 +30,7 @@
  *
  * NOTICE:      It would be nice if you could keep the alphabetical order.
  *
- *              Because of the risk of abuse I´m not accepting requests for pages without reasonable content!
+ *              Because of the risk of abuse, I´m not accepting requests for pages without reasonable content!
  *
  */
 
