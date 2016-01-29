@@ -79,6 +79,7 @@ var cnames_active = {
     ,"chronos": "espinielli.github.io/chronos"
     ,"clockwork": "arcadiogarcia.github.io/Clockwork.js"
     ,"clusterize": "nexts.github.io/Clusterize.js" //CF
+    ,"cn.redux": "camsong.github.io/redux-in-chinese"
     ,"codemade": "codemade.github.io"
     ,"collegequest": "schoolhouserock.github.io/CollegeQuest"
     ,"comixngn": "seun40.github.io/comix-ngn"
