@@ -352,6 +352,7 @@ var cnames_active = {
     ,"vk-x": "vk-x.github.io" //CF
     ,"vncz": "xvincentx.github.io/vncz"
     ,"voloshins": "voloshins.github.io"
+    ,"vorpal": "dthree.github.io/vorpal"
     ,"vuongdothanhhuy": "vuongdothanhhuy.github.io"
     ,"watch": "ducin.github.io/watchjs.org"
     ,"weaver": "maxkfranz.github.io/weaver"
