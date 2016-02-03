@@ -267,6 +267,7 @@ var cnames_active = {
     ,"radial": "ckgrafico.github.io/radial.js"
     ,"rafaelmangolin": "rafaelMangolin.github.io"
     ,"rahul": "rahulsukla.github.io/rahul"
+    ,"rangeslider": "andreruffert.github.io/rangeslider.js"
     ,"react-autosuggest": "moroshko.github.io/react-autosuggest"
     ,"react-autowhatever": "moroshko.github.io/react-autowhatever"
     ,"react-easy-swipe": "leandrowd.github.io/react-easy-swipe"
