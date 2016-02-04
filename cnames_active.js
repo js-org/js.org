@@ -285,6 +285,7 @@ var cnames_active = {
     ,"request": "request.gitbooks.io"
     ,"riotgear": "riotgear.github.io" //CF
     ,"rishav": "xrisk.github.io/rishav"
+    ,"rmodal": "zewish.github.io/rmodal.js"
     ,"rp": "rpocklin.github.io"
     ,"ruhuman": "ruhuman.github.io"
     ,"saadmir": "saadmir.github.io"
