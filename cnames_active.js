@@ -103,6 +103,7 @@ var cnames_active = {
     ,"deepu": "deepu105.github.io"
     ,"delegacias-fortaleza": "juliosampaio.github.io/delegacias-fortaleza"
     ,"deputy": "ry4nolson.github.io/Deputy"
+    ,"deterministic": "nodeguy.github.io/Deterministic.js"
     ,"dgelong": "alexeyraspopov.github.io/dgelong"
     ,"dinesh": "dineshondev.github.io/dinesh"
     ,"distillery": "achannarasappa.github.io/distillery"
