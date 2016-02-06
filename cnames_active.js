@@ -361,6 +361,7 @@ var cnames_active = {
     ,"vncz": "xvincentx.github.io/vncz"
     ,"voloshins": "voloshins.github.io"
     ,"vorpal": "dthree.github.io/vorpal"
+    ,"vuix": "vuix.github.io/vuix"
     ,"vuongdothanhhuy": "vuongdothanhhuy.github.io"
     ,"watch": "ducin.github.io/watchjs.org"
     ,"weaver": "maxkfranz.github.io/weaver"
