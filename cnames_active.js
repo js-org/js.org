@@ -63,6 +63,7 @@ var cnames_active = {
     ,"badrudeen": "badrudeen.github.io"
     ,"bali": "balijs.github.io"
     ,"barcelona": "barcelona-js.github.io/website"
+    ,"bash": "bashjs.github.io"
     ,"basicgame" : "basicgame.github.io/basicGame.js"
     ,"begin": "advanced-webapps-class.github.io/begin"
     ,"bestof": "michaelrambeau.github.io/bestofjs"
@@ -377,5 +378,4 @@ var cnames_active = {
     ,"youtube-box": "lucasmonteverde.github.io/youtube-box"
     ,"zodiac": "indus.github.io/Zodiac"
     ,"zombie": "assaf.github.io/zombie"
-    ,"bash": "bashjs.github.io"
 }
