@@ -63,6 +63,7 @@ var cnames_active = {
     ,"badrudeen": "badrudeen.github.io"
     ,"bali": "balijs.github.io"
     ,"barcelona": "barcelona-js.github.io/website"
+    ,"bash": "bashjs.github.io"
     ,"basicgame" : "basicgame.github.io/basicGame.js"
     ,"begin": "advanced-webapps-class.github.io/begin"
     ,"bestof": "michaelrambeau.github.io/bestofjs"
@@ -78,7 +79,7 @@ var cnames_active = {
     ,"chimon2000": "chimon2000.github.io"
     ,"chrislaughlin": "chrislaughlin.github.io"
     ,"chrismendis": "chrismendis.github.io"
-    ,"christo": "christoga.github.io"    
+    ,"christo": "christoga.github.io"
     ,"chronos": "espinielli.github.io/chronos"
     ,"clockwork": "arcadiogarcia.github.io/Clockwork.js"
     ,"clusterize": "nexts.github.io/Clusterize.js" //CF
