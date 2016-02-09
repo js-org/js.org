@@ -345,6 +345,7 @@ var cnames_active = {
     ,"torino": "torinojs.github.io"
     ,"treviso": "trevisojs.github.io"
     ,"trevorgk": "trevorgk.github.io"
+    ,"troxel": "troxeljs.github.io" //CF
     ,"ts2jsdoc": "spatools.github.io/ts2jsdoc"
     ,"typeahead": "corejavascript.github.io/typeahead.js" //CF
     ,"udnisap": "udnisap.github.io" //CF
