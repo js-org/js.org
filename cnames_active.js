@@ -158,6 +158,7 @@ var cnames_active = {
     ,"gyre": "wridder.github.io/GyreJS"
     ,"h": "makenowjust.github.io/h.js"
     ,"halil" : "hibrahimsafak.github.io"
+    ,"haloapi": "derflatulator.github.io/haloapi.js"
     ,"happy": "e24.github.io/happy"
     ,"hask": "janbiasi.github.io/hask"
     ,"hello": "hello-js-org.github.io"
