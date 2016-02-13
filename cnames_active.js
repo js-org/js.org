@@ -36,6 +36,7 @@
 
 var cnames_active = {
     "": "js-org.github.io" //CF
+    ,"101": "7anshuai.github.io/js101"
     ,"7anshuai": "7anshuai.github.io"
     ,"8art": "erayarslan.github.io/8art"
     ,"akase": "cedmax.github.io/akase"
