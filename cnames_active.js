@@ -61,6 +61,7 @@ var cnames_active = {
     ,"avi": "avinassh.github.io/avi"
     ,"avner": "avnerus.github.io"
     ,"awal": "awalGarg.github.io"
+    ,"badger": "just-glue-it.github.io/badger"
     ,"badrudeen": "badrudeen.github.io"
     ,"bali": "balijs.github.io"
     ,"barcelona": "barcelona-js.github.io/website"
