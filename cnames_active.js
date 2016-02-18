@@ -115,6 +115,7 @@ var cnames_active = {
     ,"documentation": "documentationjs.github.io"
     ,"domtastic": "webpro.github.io/DOMtastic" //CF
     ,"dope": "fouad.github.io/dope"
+    ,"draft": "D1SC0tech.github.io/draft.js"
     ,"du": "ruanyl.github.io/du"
     ,"duffn": "duffn.github.io"
     ,"dutchakdev": "dutchakdev.github.io"
