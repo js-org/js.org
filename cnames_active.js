@@ -73,6 +73,7 @@ var cnames_active = {
     ,"brum": "brumjs.github.io"
     ,"bub": "dar5hak.github.io/bub"
     ,"burst": "hugeen.github.io/burst"
+    ,"c-concat-p": "c-concat-p.github.io"
     ,"cable": "whatgoodisaroad.github.io/cablejs"
     ,"calcy": "odevlord.github.io/Calcy"
     ,"capital": "capitaljs.github.io/capitaljs" //CF
@@ -327,6 +328,7 @@ var cnames_active = {
     ,"spirare": "waldenn.github.io/spirare"
     ,"spiritual": "spiritual-js.github.io"
     ,"spritesheet": "arcadiogarcia.github.io/Spritesheet.js"
+    ,"spritewerk": "c-concat-p.github.io/spritewerk"
     ,"stats": "js-org.github.io/stats.js.org" //CF
     ,"stepan": "stevermeister.github.io"
     ,"stephenmccall": "stephenmccall.github.io"
