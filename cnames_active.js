@@ -35,8 +35,8 @@
  */
 
 var cnames_active = {
-    "": "js-org.github.io" //CF    
-    , "apicluster": "ramsunvtech.github.io/apicluster"
+    "":"js-org.github.io" //CF    
+    ,"apicluster": "ramsunvtech.github.io/apicluster"
     ,"101": "7anshuai.github.io/js101"
     ,"7anshuai": "7anshuai.github.io"
     ,"8art": "erayarslan.github.io/8art"
