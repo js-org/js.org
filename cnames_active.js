@@ -208,6 +208,7 @@ var cnames_active = {
     ,"medium-header": "danielfeelfine.github.io/medium-header"
     ,"mesh": "crcn.github.io/mesh.js.org"
     ,"miguelsr": "miguelsr.github.io"
+    ,"minesweeper": "derflatulator.github.io/minesweeper"
     ,"mingyi": "liangmingyi.github.io"
     ,"mis101bird": "mis101bird.github.io"
     ,"mithril": "lhorie.github.io/mithril"
