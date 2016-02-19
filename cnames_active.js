@@ -168,6 +168,7 @@ var cnames_active = {
     ,"happy": "e24.github.io/happy"
     ,"hask": "janbiasi.github.io/hask"
     ,"hello": "hello-js-org.github.io"
+    ,"hilo": "erikroyall.github.io/hilo"
     ,"hooloo": "hooloo.github.io"
     ,"humanreadable": "matt-sanders.github.io/humanreadable"
     ,"hyde": "gheek.github.io/hyde"
