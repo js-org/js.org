@@ -35,7 +35,8 @@
  */
 
 var cnames_active = {
-    "": "js-org.github.io" //CF
+    "": "js-org.github.io" //CF    
+    , "apicluster": "ramsunvtech.github.io/apicluster"
     ,"101": "7anshuai.github.io/js101"
     ,"7anshuai": "7anshuai.github.io"
     ,"8art": "erayarslan.github.io/8art"
@@ -78,7 +79,6 @@ var cnames_active = {
     ,"calcy": "odevlord.github.io/Calcy"
     ,"capital": "capitaljs.github.io/capitaljs" //CF
     ,"cartodb-demo": "opensas.github.io/cartodb-demo"
-    ,"cssjanus": "cssjanus.github.io" //CF
     ,"chimon2000": "chimon2000.github.io"
     ,"chrislaughlin": "chrislaughlin.github.io"
     ,"chrismendis": "chrismendis.github.io"
@@ -97,6 +97,7 @@ var cnames_active = {
     ,"country": "growmies.github.io/countryjs"
     ,"cqrs": "adrai.github.io/cqrs"
     ,"crunch": "vukicevic.github.io/crunch"
+    ,"cssjanus": "cssjanus.github.io" //CF
     ,"cucumber-mink": "adezandee.github.io/cucumber-mink"
     ,"cycle": "cyclejs.github.io"
     ,"danmaku": "weizhenye.github.io/Danmaku" //CF
@@ -390,5 +391,4 @@ var cnames_active = {
     ,"zazu": "zazujs.github.io",
     ,"zodiac": "indus.github.io/Zodiac"
     ,"zombie": "assaf.github.io/zombie"
-    , "apicluster": "ramsunvtech.github.io/apicluster"
 }
