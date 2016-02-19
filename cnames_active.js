@@ -126,6 +126,7 @@ var cnames_active = {
     ,"emeraldcraftmc": "emeraldcraftmc.github.io"
     ,"emulisp": "grahack.github.io/EmuLisp"
     ,"eray": "erayarslan.github.io"
+    ,"erik": "erikroyall.github.com"
     ,"euclid": "anandthakker.github.io/euclid"
     ,"eval": "jshawl.github.io/eval"
     ,"eventstore": "adrai.github.io/node-eventstore"
