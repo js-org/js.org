@@ -360,6 +360,7 @@ var cnames_active = {
     ,"trevorgk": "trevorgk.github.io"
     ,"troxel": "troxeljs.github.io" //CF
     ,"ts2jsdoc": "spatools.github.io/ts2jsdoc"
+    ,"tweetnacl": "dchest.github.io/tweetnacl-js" //CF
     ,"typeahead": "corejavascript.github.io/typeahead.js" //CF
     ,"udnisap": "udnisap.github.io" //CF
     ,"ultcombo": "ultcombo.github.io"
