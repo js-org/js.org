@@ -214,6 +214,7 @@ var cnames_active = {
     ,"matthias-schuetz": "matthias-schuetz.github.io"
     ,"maxnachlinger": "maxnachlinger.github.io"
     ,"maxtracking": "maxtracking.github.io"
+    ,"mediainfo": "buzz.github.io/mediainfo.js" //CF
     ,"medium-header": "danielfeelfine.github.io/medium-header"
     ,"mesh": "crcn.github.io/mesh.js.org"
     ,"miguelsr": "miguelsr.github.io"
