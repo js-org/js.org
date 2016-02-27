@@ -304,6 +304,7 @@ var cnames_active = {
     ,"rmodal": "zewish.github.io/rmodal.js"
     ,"rp": "rpocklin.github.io"
     ,"ruhuman": "ruhuman.github.io"
+    ,"sam":"jdubray.github.io/sam/"
     ,"saadmir": "saadmir.github.io"
     ,"sagui": "pirelenito.github.io/sagui"
     ,"sass": "medialize.github.io/playground.sass.js"
