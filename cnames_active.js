@@ -320,6 +320,7 @@ var cnames_active = {
     ,"selectric": "lcdsantos.github.io/jQuery-Selectric"
     ,"serender": "youssefkababe.github.io/serender"
     ,"serginator": "serginator.github.io"
+    ,"serializer": "haircvt.github.io/serializerjs"
     ,"shedali": "shedali.github.io"
     ,"shortquery": "s--minecraft.gitbooks.io/shortquery-js"
     ,"shorttompkins": "shorttompkins.github.io"
