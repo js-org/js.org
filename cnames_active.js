@@ -332,6 +332,7 @@ var cnames_active = {
     ,"sonny": "sonnylazuardi.github.io"
     ,"sox": "sox-team.github.io/sox"
     ,"spectragram,": "adrianengine.github.io/jquery-spectragram"
+    ,"spicdev": "spicdev.github.io"
     ,"spin": "fgnass.github.io/spin.js"
     ,"spirare": "waldenn.github.io/spirare"
     ,"spiritual": "spiritual-js.github.io"
