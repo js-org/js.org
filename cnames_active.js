@@ -222,7 +222,7 @@ var cnames_active = {
     ,"mingyi": "liangmingyi.github.io"
     ,"mis101bird": "mis101bird.github.io"
     ,"mithril": "lhorie.github.io/mithril"
-    ,"mithril-ja": "shibukawa.github.io/mithril-ja"
+    ,"minimal": "xhoz.github.io/minimal"
     ,"mmcq": "nikola.github.io/MMCQ"
     ,"modalizer": "dungo.github.io/modalizer"
     ,"mom": "momjs.github.io/mom"
