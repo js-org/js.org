@@ -271,7 +271,7 @@ var cnames_active = {
     ,"photo-sphere-viewer": "mistic100.github.io/Photo-Sphere-Viewer"
     ,"pitermarx": "pitermarx.github.io"
     ,"pixelart": "meriadec.github.io/PixelartJS"
-    ,"plait": "wildlyinaccurate.github.io/plait"
+    ,"plait": "wildlyinaccurate.github.io/plait" //CF
     ,"planisphere": "dai-shi.github.io/planisphere-site"
     ,"pliers": "pliersjs.github.io"
     ,"polythene": "arthurclemens.github.io/Polythene"
