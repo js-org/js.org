@@ -330,6 +330,7 @@ var cnames_active = {
     ,"skate": "skatejs.github.io"
     ,"skx": "skx.github.io"
     ,"sn0w": "greensn0w.github.io"
+    ,"social-likes": "sapegin.github.io/social-likes"
     ,"sonny": "sonnylazuardi.github.io"
     ,"sox": "sox-team.github.io/sox"
     ,"spectragram,": "adrianengine.github.io/jquery-spectragram"
