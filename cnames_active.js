@@ -208,6 +208,7 @@ var cnames_active = {
     ,"leste": "atwood-cai.github.io/leste.js"
     ,"liguori": "liguori.github.io"
     ,"logo": "js-org.github.io/logo"
+    ,"ls": "links-js.github.io"
     ,"markmsmith": "markmsmith.github.io" //CF
     ,"martin": "martinbutler.github.io"
     ,"martingollogly": "martingollogly.github.io"
