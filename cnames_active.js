@@ -35,7 +35,7 @@
  */
 
 var cnames_active = {
-    "":"js-org.github.io" //CF    
+    "":"js-org.github.io" //CF
     ,"apicluster": "ramsunvtech.github.io/apicluster"
     ,"101": "7anshuai.github.io/js101"
     ,"7anshuai": "7anshuai.github.io"
@@ -82,7 +82,7 @@ var cnames_active = {
     ,"chimon2000": "chimon2000.github.io"
     ,"chrislaughlin": "chrislaughlin.github.io"
     ,"chrismendis": "chrismendis.github.io"
-    ,"christo": "christoga.github.io"    
+    ,"christo": "christoga.github.io"
     ,"chronos": "espinielli.github.io/chronos"
     ,"clockwork": "arcadiogarcia.github.io/Clockwork.js"
     ,"clusterize": "nexts.github.io/Clusterize.js" //CF
@@ -253,7 +253,7 @@ var cnames_active = {
     ,"omer": "omeroot.github.io"
     ,"onlineth": "onlineth.github.io"
     ,"opentype": "nodebox.github.io/opentype.js"
-    ,"opsigor": "opsigor.github.io"
+    ,"igorsantana": "igorsantana.github.io"
     ,"os": "os-js.github.io/OS.js"
     ,"pad": "ebraminio.github.io/pad.js"
     ,"pamatcher": "pmros.github.io/pamatcher"
