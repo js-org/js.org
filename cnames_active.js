@@ -140,6 +140,7 @@ var cnames_active = {
     ,"firenze": "fahad19.github.io/firenze"
     ,"fis": "fex-team.github.io/fis-site"
     ,"flowchart": "adrai.github.io/flowchart.js"
+    ,"fluid": "fluid-ui.github.io"
     ,"fluxoff": "kingscott.github.io/flux-off"
     ,"freemarker": "ijse.github.io/freemarker.js"
     ,"freezer": "pakastin.github.io/freezer" //CF
