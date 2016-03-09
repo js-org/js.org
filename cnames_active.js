@@ -226,7 +226,7 @@ var cnames_active = {
     ,"mithril-ja": "shibukawa.github.io/mithril-ja"
     ,"mmcq": "nikola.github.io/MMCQ"
     ,"modalizer": "dungo.github.io/modalizer"
-    ,"mom": "momjs.github.io/mom"
+    ,"mom": "momjs.github.io/mom" // CF
     ,"momentum": "wemakeweb.github.io/momentum"
     ,"monkberry": "monkberry.github.io"
     ,"motapc": "motapc97.github.io"
