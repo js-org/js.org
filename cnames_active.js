@@ -36,7 +36,6 @@
 
 var cnames_active = {
     "":"js-org.github.io" //CF
-    ,"apicluster": "ramsunvtech.github.io/apicluster"
     ,"101": "7anshuai.github.io/js101"
     ,"7anshuai": "7anshuai.github.io"
     ,"8art": "erayarslan.github.io/8art"
@@ -52,6 +51,7 @@ var cnames_active = {
     ,"annotate": "taitems.github.io/web-pdf-annotation"
     ,"annoyingmouse": "annoyingmouse.github.io"
     ,"api-spec": "api-spec.github.io"
+    ,"apicluster": "ramsunvtech.github.io/apicluster"
     ,"argo": "albertosantini.github.io/argo"
     ,"arime": "ninbryan.github.io/arime"
     ,"artery": "arteryjs.github.io/gh-pages"
@@ -90,6 +90,7 @@ var cnames_active = {
     ,"codemade": "codemade.github.io"
     ,"collegequest": "schoolhouserock.github.io/CollegeQuest"
     ,"comixngn": "seun40.github.io/comix-ngn"
+    ,"community.os": "js.bydiscourse.com"
     ,"concursos": "mteyss.github.io/concursos"
     ,"construyendotrabajo": "mteyss.github.io/construyendotrabajo"
     ,"cordova-multiplatform-template": "ckgrafico.github.io/Cordova-Multiplatform-Template"
@@ -173,6 +174,7 @@ var cnames_active = {
     ,"hooloo": "hooloo.github.io"
     ,"humanreadable": "matt-sanders.github.io/humanreadable"
     ,"hyde": "gheek.github.io/hyde"
+    ,"igorsantana": "igorsantana.github.io"
     ,"iio": "iioinc.github.io/iio.js"
     ,"immense": "immense.github.io"
     ,"immybox": "immense.github.io/immybox"
@@ -253,9 +255,7 @@ var cnames_active = {
     ,"omer": "omeroot.github.io"
     ,"onlineth": "onlineth.github.io"
     ,"opentype": "nodebox.github.io/opentype.js"
-    ,"igorsantana": "igorsantana.github.io"
     ,"os": "os-js.github.io/OS.js" //CF
-    ,"community.os": "js.bydiscourse.com"
     ,"pad": "ebraminio.github.io/pad.js"
     ,"pamatcher": "pmros.github.io/pamatcher"
     ,"paperclip": "crcn.github.com/paperclip.js.org"
@@ -308,9 +308,9 @@ var cnames_active = {
     ,"rmodal": "zewish.github.io/rmodal.js"
     ,"rp": "rpocklin.github.io"
     ,"ruhuman": "ruhuman.github.io"
-    ,"sam":"jdubray.github.io/sam/"
     ,"saadmir": "saadmir.github.io"
     ,"sagui": "pirelenito.github.io/sagui"
+    ,"sam":"jdubray.github.io/sam"
     ,"sass": "medialize.github.io/playground.sass.js"
     ,"saulosantiago": "saulosilva.github.io"
     ,"savingthrow": "pdistefano.github.io/SavingThrow.js"
@@ -328,6 +328,7 @@ var cnames_active = {
     ,"shedali": "shedali.github.io"
     ,"shortquery": "s--minecraft.gitbooks.io/shortquery-js"
     ,"shorttompkins": "shorttompkins.github.io"
+    ,"silky": "wvv8oo.github.com/silky"
     ,"siluna": "pahund.github.io/siluna"
     ,"simulacra": "0x8890.github.io/simulacra"
     ,"skate": "skatejs.github.io"
@@ -402,5 +403,4 @@ var cnames_active = {
     ,"zazu": "zazujs.github.io",
     ,"zodiac": "indus.github.io/Zodiac"
     ,"zombie": "assaf.github.io/zombie"
-    ,"silky": "wvv8oo.github.com/silky"
 }
