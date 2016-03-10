@@ -255,6 +255,7 @@ var cnames_active = {
     ,"opentype": "nodebox.github.io/opentype.js"
     ,"igorsantana": "igorsantana.github.io"
     ,"os": "os-js.github.io/OS.js" //CF
+    ,"community.os": "js.bydiscourse.com"
     ,"pad": "ebraminio.github.io/pad.js"
     ,"pamatcher": "pmros.github.io/pamatcher"
     ,"paperclip": "crcn.github.com/paperclip.js.org"
