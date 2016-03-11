@@ -295,6 +295,7 @@ var cnames_active = {
     ,"reactdesktop": "gabrielbull.github.io/react-desktop"
     ,"reader": "ruanyl.github.io/js-reader"
     ,"realtime": "datamcfly.github.io/realtimejs"
+    ,"rebem": "rebem.github.io"
     ,"redis": "noderedis.github.io/node_redis"
     ,"redux": "rackt.github.io/redux"
     ,"reduxible": "pitzcarraldo.github.io/reduxible"
