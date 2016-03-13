@@ -127,6 +127,7 @@ var cnames_active = {
     ,"ember-cli-page-object": "san650.github.io/ember-cli-page-object"
     ,"emeraldcraftmc": "emeraldcraftmc.github.io"
     ,"emulisp": "grahack.github.io/EmuLisp"
+    ,"enclave": "eanplatter.github.io/enclave"
     ,"eray": "erayarslan.github.io"
     ,"erik": "erikroyall.github.com"
     ,"euclid": "anandthakker.github.io/euclid"
