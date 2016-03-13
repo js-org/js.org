@@ -271,6 +271,7 @@ var cnames_active = {
     ,"pharaoh": "pharaoh-js.github.io"
     ,"phobos": "phobosjs.github.io/phobos.js" //CF
     ,"photo-sphere-viewer": "mistic100.github.io/Photo-Sphere-Viewer"
+    ,"pinf": "pinf.github.io",
     ,"pitermarx": "pitermarx.github.io"
     ,"pixelart": "meriadec.github.io/PixelartJS"
     ,"plait": "wildlyinaccurate.github.io/plait" //CF
