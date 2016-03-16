@@ -354,7 +354,7 @@ var cnames_active = {
     ,"stepan": "stevermeister.github.io"
     ,"stephenmccall": "stephenmccall.github.io"
     ,"style": "dhilipsiva.github.io/style.js"
-    ,"sudoku": "andreynering.github.io/sudoku"
+    ,"sudoku": "andreynering.github.io/sudoku" //CF
     ,"sulky": "shingle.github.io/sulky"
     ,"sunsistemo": "sunsistemo.github.io" //CF
     ,"supernova": "janbiasi.github.io/supernova"
