@@ -276,6 +276,7 @@ var cnames_active = {
     ,"pinf": "pinf.github.io"
     ,"pipes": "pipesjs.github.io"
     ,"pitermarx": "pitermarx.github.io"
+    ,"pivot": "wnda.github.io/pivot"
     ,"pixelart": "meriadec.github.io/PixelartJS"
     ,"plait": "wildlyinaccurate.github.io/plait" //CF
     ,"planisphere": "dai-shi.github.io/planisphere-site"
