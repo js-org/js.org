@@ -87,6 +87,7 @@ var cnames_active = {
     ,"christo": "christoga.github.io"
     ,"chronos": "espinielli.github.io/chronos"
     ,"clockwork": "arcadiogarcia.github.io/Clockwork.js"
+    ,"cluj": "cluj-javascripters.github.io"
     ,"clusterize": "nexts.github.io/Clusterize.js" //CF
     ,"cn.redux": "camsong.github.io/redux-in-chinese"
     ,"codemade": "codemade.github.io"
