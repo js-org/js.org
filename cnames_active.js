@@ -413,5 +413,5 @@ var cnames_active = {
     ,"zazu": "zazujs.github.io",
     ,"zodiac": "indus.github.io/Zodiac"
     ,"zombie": "assaf.github.io/zombie"
-    ,"cmbhackjs2013": "cmbjs.github.io/cmbHackjs2013"
+    ,"cmbhackjs2013": "cmbjs.github.io/cmbHackjs2013" //CF
 }
