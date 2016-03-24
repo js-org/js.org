@@ -149,7 +149,7 @@ var cnames_active = {
     ,"fluxoff": "kingscott.github.io/flux-off"
     ,"freemarker": "ijse.github.io/freemarker.js"
     ,"freezer": "pakastin.github.io/freezer" //CF
-    ,"fromdenisvieira": "fromdenisvieira.github.io"
+    ,"denisvieira": "fromdenisvieira.github.io"
     ,"frzr": "pakastin.github.io/frzr" //CF
     ,"gamedevcontestal": "fromdenisvieira.github.io/gamedevcontestal"
     ,"geekr": "ruanyl.github.io/geekr"
