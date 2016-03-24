@@ -6,7 +6,7 @@
 <head>
 
    <meta charset="utf-8">
-   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+   <meta http-equiv="X-UA-Compatible" content="IE=edge">
    <title>JS.ORG | DNS</title>
    <meta name="description" content="Providing nice and free domains for GitHub Pages since 2015">
    <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -21,7 +21,7 @@
    {% include header.html %}
    {{ content }}
    {% include footer.html %}
-   <link href="css/dns.css" rel="stylesheet" />{% if page.zodiac %}
+   <link href="css/dns.css" rel="stylesheet" property="stylesheet">{% if page.zodiac %}
    <canvas id="zodiac" class="btf"></canvas>
    <script src="js/zodiac.min.js"></script>{% endif %}{% if page.hermes %}
    <script src="js/hermes.min.js"></script>
