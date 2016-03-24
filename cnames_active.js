@@ -88,6 +88,7 @@ var cnames_active = {
     ,"chronos": "espinielli.github.io/chronos"
     ,"clockwork": "arcadiogarcia.github.io/Clockwork.js"
     ,"clusterize": "nexts.github.io/Clusterize.js" //CF
+    ,"cmbhackjs2013": "cmbjs.github.io/cmbHackjs2013" //CF
     ,"cn.redux": "camsong.github.io/redux-in-chinese"
     ,"codemade": "codemade.github.io"
     ,"collegequest": "schoolhouserock.github.io/CollegeQuest"
@@ -413,5 +414,4 @@ var cnames_active = {
     ,"zazu": "zazujs.github.io",
     ,"zodiac": "indus.github.io/Zodiac"
     ,"zombie": "assaf.github.io/zombie"
-    ,"cmbhackjs2013": "cmbjs.github.io/cmbHackjs2013" //CF
 }
