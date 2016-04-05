@@ -346,6 +346,7 @@ var cnames_active = {
     ,"skx": "skx.github.io"
     ,"sn0w": "greensn0w.github.io"
     ,"social-likes": "sapegin.github.io/social-likes"
+    ,"social-likes-next": "sapegin.github.io/social-likes-next"
     ,"sonny": "sonnylazuardi.github.io"
     ,"sox": "sox-team.github.io/sox"
     ,"spectragram,": "adrianengine.github.io/jquery-spectragram"
