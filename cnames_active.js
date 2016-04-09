@@ -75,6 +75,7 @@ var cnames_active = {
     ,"brum": "brumjs.github.io"
     ,"bub": "dar5hak.github.io/bub"
     ,"burst": "hugeen.github.io/burst"
+    ,"bustime": "agarzola.github.io/bustime"
     ,"c-concat-p": "c-concat-p.github.io"
     ,"cable": "whatgoodisaroad.github.io/cablejs"
     ,"calcy": "odevlord.github.io/Calcy"
