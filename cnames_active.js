@@ -41,6 +41,7 @@ var cnames_active = {
     ,"8art": "erayarslan.github.io/8art"
     ,"akase": "cedmax.github.io/akase"
     ,"akashacms": "akashacms.github.io"
+    ,"alasql": "alasql.github.io"
     ,"algebra": "nicolewhite.github.io/algebra.js"
     ,"aligos.js.org": "aligos.github.io"
     ,"all": "learnsomuch.github.io/all.js"
