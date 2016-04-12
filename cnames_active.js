@@ -244,6 +244,7 @@ var cnames_active = {
     ,"motapc": "motapc97.github.io"
     ,"mrn": "binggg.github.io/mrn"
     ,"mscgen": "sverweij.github.io/mscgen_js" // CF
+    ,"multiple": "nexts.github.io/Multiple.js" // CF
     ,"murder": "rolandpoulter.github.io/murder"
     ,"mvidalgarcia": "mvidalgarcia.github.io"
     ,"n-j-m": "n-j-m.github.io"
