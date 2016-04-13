@@ -136,6 +136,7 @@ var cnames_active = {
     ,"eray": "erayarslan.github.io"
     ,"erik": "erikroyall.github.com"
     ,"euclid": "anandthakker.github.io/euclid"
+    ,"es.redux": "sergiodxa.github.io/redux-in-spanish"
     ,"escape": "licshee.github.io/Escape.js"
     ,"eval": "jshawl.github.io/eval"
     ,"eventstore": "adrai.github.io/node-eventstore"
