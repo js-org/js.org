@@ -9,19 +9,19 @@
  **** README
  * ***********
  *
- * KEY:         The subdomain you request (e.g.: "foo" would give the custom domain "foo.js.org" ).
+ * KEY:         The subdomain you request (e.g.: "foo" would give the custom domain "foo.js.org").
  *
- * VALUE:       The regular domain provided by GitHub (e.g.: "foo.github.io" for a User-/Organisation Page
+ * VALUE:       The regular domain provided by GitHub (e.g.: "foo.github.io" for a User-/Organization Page
  *              or "foo.github.io/bar" for a Project Page).
  *
- * CLOUDFLARE:  JS.ORG uses CloudFlare as its DNS. By default CloudFlare redirects all requests directly to
+ * CLOUDFLARE:  JS.ORG uses CloudFlare as its DNS. By default, CloudFlare redirects all requests directly to
  *              GitHub. But as an opt-in you can make CloudFlare proxy requests to your subdomain
  *              to get SSL support (https://foo.js.org). Just add '//CF' in the line of your requested
  *              subdomain to give me a hint. (CloudFlares caching as a CDN is bypassed by default)
  *              This isn´t widely tested and may have some unforeseen drawbacks!
  *
- * IMPORTANT:   To authorise yourself as the owner of the GitHub Page you must have added a valid CNAME file
- *              (with the requested domain, e.g: "foo.js.org") to your repository before the pull request.
+ * IMPORTANT:   To authorize yourself as the owner of the GitHub Page you must have added a valid CNAME file
+ *              (with the requested domain, e.g.: "foo.js.org") to your repository before the pull request.
  *              The requested subdomain must match either your GitHub username or the name of your project
  *              repository. Execeptions are possible for the sake of clarity (e.g. if your project has the
  *              name "foojs" you can request "foo").
@@ -30,17 +30,20 @@
  *
  * NOTICE:      It would be nice if you could keep the alphabetical order.
  *
- *              Because of the risk of abuse I´m not accepting requests for pages without reasonable content!
+ *              Because of the risk of abuse, I´m not accepting requests for pages without reasonable content!
  *
  */
 
 var cnames_active = {
-    "": "js-org.github.io" //CF
+    "":"js-org.github.io" //CF
+    ,"101": "7anshuai.github.io/js101"
     ,"7anshuai": "7anshuai.github.io"
     ,"8art": "erayarslan.github.io/8art"
     ,"akase": "cedmax.github.io/akase"
     ,"akashacms": "akashacms.github.io"
+    ,"alasql": "alasql.github.io"
     ,"algebra": "nicolewhite.github.io/algebra.js"
+    ,"aligos.js.org": "aligos.github.io"
     ,"all": "learnsomuch.github.io/all.js"
     ,"alt": "goatslacker.github.io/alt"
     ,"anenth": "anenth.github.io"
@@ -49,7 +52,10 @@ var cnames_active = {
     ,"annotate": "taitems.github.io/web-pdf-annotation"
     ,"annoyingmouse": "annoyingmouse.github.io"
     ,"api-spec": "api-spec.github.io"
+    ,"apicluster": "ramsunvtech.github.io/apicluster"
     ,"argo": "albertosantini.github.io/argo"
+    ,"arime": "ninbryan.github.io/arime"
+    ,"artery": "arteryjs.github.io/gh-pages"
     ,"ass": "weizhenye.github.io/ASS" //CF
     ,"astral": "espinielli.github.io/astraljs"
     ,"astrobench": "kupriyanenko.github.io/astrobench"
@@ -57,9 +63,11 @@ var cnames_active = {
     ,"avi": "avinassh.github.io/avi"
     ,"avner": "avnerus.github.io"
     ,"awal": "awalGarg.github.io"
+    ,"badger": "just-glue-it.github.io/badger"
     ,"badrudeen": "badrudeen.github.io"
     ,"bali": "balijs.github.io"
     ,"barcelona": "barcelona-js.github.io/website"
+    ,"bash": "bashjs.github.io"
     ,"basicgame" : "basicgame.github.io/basicGame.js"
     ,"begin": "advanced-webapps-class.github.io/begin"
     ,"bestof": "michaelrambeau.github.io/bestofjs"
@@ -68,20 +76,26 @@ var cnames_active = {
     ,"brum": "brumjs.github.io"
     ,"bub": "dar5hak.github.io/bub"
     ,"burst": "hugeen.github.io/burst"
+    ,"bustime": "agarzola.github.io/bustime"
+    ,"c-concat-p": "c-concat-p.github.io"
     ,"cable": "whatgoodisaroad.github.io/cablejs"
     ,"calcy": "odevlord.github.io/Calcy"
     ,"capital": "capitaljs.github.io/capitaljs" //CF
     ,"cartodb-demo": "opensas.github.io/cartodb-demo"
+    ,"central-node": "central-node.github.io"
     ,"chimon2000": "chimon2000.github.io"
     ,"chrislaughlin": "chrislaughlin.github.io"
     ,"chrismendis": "chrismendis.github.io"
-    ,"christo": "christoga.github.io"    
+    ,"christo": "christoga.github.io"
     ,"chronos": "espinielli.github.io/chronos"
     ,"clockwork": "arcadiogarcia.github.io/Clockwork.js"
     ,"clusterize": "nexts.github.io/Clusterize.js" //CF
+    ,"cmbhackjs2013": "cmbjs.github.io/cmbHackjs2013" //CF
+    ,"cn.redux": "camsong.github.io/redux-in-chinese"
     ,"codemade": "codemade.github.io"
     ,"collegequest": "schoolhouserock.github.io/CollegeQuest"
     ,"comixngn": "seun40.github.io/comix-ngn"
+    ,"community.os": "js.bydiscourse.com"
     ,"concursos": "mteyss.github.io/concursos"
     ,"construyendotrabajo": "mteyss.github.io/construyendotrabajo"
     ,"cordova-multiplatform-template": "ckgrafico.github.io/Cordova-Multiplatform-Template"
@@ -89,6 +103,7 @@ var cnames_active = {
     ,"country": "growmies.github.io/countryjs"
     ,"cqrs": "adrai.github.io/cqrs"
     ,"crunch": "vukicevic.github.io/crunch"
+    ,"cssjanus": "cssjanus.github.io" //CF
     ,"cucumber-mink": "adezandee.github.io/cucumber-mink"
     ,"cycle": "cyclejs.github.io"
     ,"danmaku": "weizhenye.github.io/Danmaku" //CF
@@ -97,8 +112,10 @@ var cnames_active = {
     ,"daysfromnow": "pedrokost.github.io/daysfromnow"
     ,"dbo": "z3ta.github.io/dbo"
     ,"deck-of-cards": "pakastin.github.io/deck-of-cards" //CF
+    ,"deepu": "deepu105.github.io"
     ,"delegacias-fortaleza": "juliosampaio.github.io/delegacias-fortaleza"
     ,"deputy": "ry4nolson.github.io/Deputy"
+    ,"deterministic": "nodeguy.github.io/Deterministic.js"
     ,"dgelong": "alexeyraspopov.github.io/dgelong"
     ,"dinesh": "dineshondev.github.io/dinesh"
     ,"distillery": "achannarasappa.github.io/distillery"
@@ -106,6 +123,7 @@ var cnames_active = {
     ,"documentation": "documentationjs.github.io"
     ,"domtastic": "webpro.github.io/DOMtastic" //CF
     ,"dope": "fouad.github.io/dope"
+    ,"draft": "D1SC0tech.github.io/draft.js"
     ,"du": "ruanyl.github.io/du"
     ,"duffn": "duffn.github.io"
     ,"dutchakdev": "dutchakdev.github.io"
@@ -114,8 +132,11 @@ var cnames_active = {
     ,"ember-cli-page-object": "san650.github.io/ember-cli-page-object"
     ,"emeraldcraftmc": "emeraldcraftmc.github.io"
     ,"emulisp": "grahack.github.io/EmuLisp"
+    ,"enclave": "eanplatter.github.io/enclave"
     ,"eray": "erayarslan.github.io"
+    ,"erik": "erikroyall.github.com"
     ,"euclid": "anandthakker.github.io/euclid"
+    ,"escape": "licshee.github.io/Escape.js"
     ,"eval": "jshawl.github.io/eval"
     ,"eventstore": "adrai.github.io/node-eventstore"
     ,"exbars": "youssefkababe.github.io/exbars"
@@ -130,10 +151,12 @@ var cnames_active = {
     ,"fluxoff": "kingscott.github.io/flux-off"
     ,"freemarker": "ijse.github.io/freemarker.js"
     ,"freezer": "pakastin.github.io/freezer" //CF
-    ,"fromdenisvieira": "fromdenisvieira.github.io"
+    ,"denisvieira": "fromdenisvieira.github.io"
     ,"frzr": "pakastin.github.io/frzr" //CF
+    ,"gal": "galmail.github.io"
     ,"gamedevcontestal": "fromdenisvieira.github.io/gamedevcontestal"
     ,"geekr": "ruanyl.github.io/geekr"
+    ,"genpasswd": "exos.github.io/genpasswd"
     ,"getlink":"ilovecode1.github.io/linkjs"
     ,"ghsamm": "ghsamm.github.io"
     ,"giant-piano": "moroshko.github.io/giant-piano"
@@ -151,12 +174,16 @@ var cnames_active = {
     ,"gyre": "wridder.github.io/GyreJS"
     ,"h": "makenowjust.github.io/h.js"
     ,"halil" : "hibrahimsafak.github.io"
+    ,"haloapi": "derflatulator.github.io/haloapi.js"
     ,"happy": "e24.github.io/happy"
     ,"hask": "janbiasi.github.io/hask"
     ,"hello": "hello-js-org.github.io"
+    ,"hilo": "erikroyall.github.io/hilo"
+    ,"hk": "akura-co.github.io/hk"
     ,"hooloo": "hooloo.github.io"
     ,"humanreadable": "matt-sanders.github.io/humanreadable"
     ,"hyde": "gheek.github.io/hyde"
+    ,"igorsantana": "igorsantana.github.io"
     ,"iio": "iioinc.github.io/iio.js"
     ,"immense": "immense.github.io"
     ,"immybox": "immense.github.io/immybox"
@@ -189,28 +216,35 @@ var cnames_active = {
     ,"learnGitBranching": "pcottle.github.io/learnGitBranching"
     ,"leipzig": "leipzigjs.github.io"
     ,"leoj": "leoaj.github.io"
+    ,"leste": "atwood-cai.github.io/leste.js"
     ,"liguori": "liguori.github.io"
     ,"logo": "js-org.github.io/logo"
+    ,"ls": "links-js.github.io"
     ,"markmsmith": "markmsmith.github.io" //CF
     ,"martin": "martinbutler.github.io"
     ,"martingollogly": "martingollogly.github.io"
     ,"matthias-schuetz": "matthias-schuetz.github.io"
     ,"maxnachlinger": "maxnachlinger.github.io"
     ,"maxtracking": "maxtracking.github.io"
+    ,"mde": "lukehorvat.github.io/mde-soundboard"
+    ,"mediainfo": "buzz.github.io/mediainfo.js" //CF
     ,"medium-header": "danielfeelfine.github.io/medium-header"
     ,"mesh": "crcn.github.io/mesh.js.org"
     ,"miguelsr": "miguelsr.github.io"
+    ,"minesweeper": "derflatulator.github.io/minesweeper"
+    ,"mingyi": "liangmingyi.github.io"
     ,"mis101bird": "mis101bird.github.io"
     ,"mithril": "lhorie.github.io/mithril"
     ,"mithril-ja": "shibukawa.github.io/mithril-ja"
     ,"mmcq": "nikola.github.io/MMCQ"
     ,"modalizer": "dungo.github.io/modalizer"
-    ,"mom": "momjs.github.io/mom"
+    ,"mom": "momjs.github.io/mom" // CF
     ,"momentum": "wemakeweb.github.io/momentum"
     ,"monkberry": "monkberry.github.io"
     ,"motapc": "motapc97.github.io"
     ,"mrn": "binggg.github.io/mrn"
     ,"mscgen": "sverweij.github.io/mscgen_js" // CF
+    ,"multiple": "nexts.github.io/Multiple.js" // CF
     ,"murder": "rolandpoulter.github.io/murder"
     ,"mvidalgarcia": "mvidalgarcia.github.io"
     ,"n-j-m": "n-j-m.github.io"
@@ -222,6 +256,7 @@ var cnames_active = {
     ,"ng-wig": "stevermeister.github.io/ngWig"
     ,"ngn": "nodengn.github.io/NGN"
     ,"nick": "nmai.github.io"
+    ,"nktx": "nktx.github.io"
     ,"node-browser_process": "caspervonb.github.io/node-browser_process"
     ,"nodegarden": "pakastin.github.io/nodegarden" //CF
     ,"noteit": "saha96.github.io/NoteIt"
@@ -232,8 +267,8 @@ var cnames_active = {
     ,"omer": "omeroot.github.io"
     ,"onlineth": "onlineth.github.io"
     ,"opentype": "nodebox.github.io/opentype.js"
-    ,"opsigor": "opsigor.github.io"
-    ,"os": "os-js.github.io/OS.js"
+    ,"os": "os-js.github.io/OS.js" //CF
+    ,"pad": "ebraminio.github.io/pad.js"
     ,"pamatcher": "pmros.github.io/pamatcher"
     ,"paperclip": "crcn.github.com/paperclip.js.org"
     ,"paraiba": "paraibajs.github.io"
@@ -247,11 +282,17 @@ var cnames_active = {
     ,"pentris": "justinjc.github.io/pentris2"
     ,"pharaoh": "pharaoh-js.github.io"
     ,"phobos": "phobosjs.github.io/phobos.js" //CF
+    ,"photo-sphere-viewer": "mistic100.github.io/Photo-Sphere-Viewer"
+    ,"pinf": "pinf.github.io"
+    ,"pipes": "pipesjs.github.io"
     ,"pitermarx": "pitermarx.github.io"
+    ,"pivot": "wnda.github.io/pivot"
     ,"pixelart": "meriadec.github.io/PixelartJS"
+    ,"plait": "wildlyinaccurate.github.io/plait" //CF
     ,"planisphere": "dai-shi.github.io/planisphere-site"
     ,"pliers": "pliersjs.github.io"
     ,"polythene": "arthurclemens.github.io/Polythene"
+    ,"popper": "fezvrasta.github.io/popper.js"  //CF
     ,"qs": "kirjs.github.io/qs.js"
     ,"querybuilder": "mistic100.github.io/jQuery-QueryBuilder"
     ,"quiz-app": "odevlord.github.io/Quiz-App"
@@ -260,16 +301,20 @@ var cnames_active = {
     ,"radial": "ckgrafico.github.io/radial.js"
     ,"rafaelmangolin": "rafaelMangolin.github.io"
     ,"rahul": "rahulsukla.github.io/rahul"
+    ,"rangeslider": "andreruffert.github.io/rangeslider.js"
     ,"react-autosuggest": "moroshko.github.io/react-autosuggest"
     ,"react-autowhatever": "moroshko.github.io/react-autowhatever"
     ,"react-easy-swipe": "leandrowd.github.io/react-easy-swipe"
     ,"react-responsive-carousel": "leandrowd.github.io/react-responsive-carousel"
     ,"react-shared": "rvikmanis.github.io/react-shared"
+    ,"react-styleguidist": "sapegin.github.io/react-styleguidist"
     ,"reactdesktop": "gabrielbull.github.io/react-desktop"
     ,"reader": "ruanyl.github.io/js-reader"
     ,"realtime": "datamcfly.github.io/realtimejs"
+    ,"rebem": "rebem.github.io"
     ,"redis": "noderedis.github.io/node_redis"
     ,"redux": "rackt.github.io/redux"
+    ,"reduxible": "pitzcarraldo.github.io/reduxible"
     ,"refujs": "refujs.github.io"
     ,"relate": "jakelazaroff.github.io/relate"
     ,"remark": "wooorm.github.io/remark"
@@ -277,9 +322,13 @@ var cnames_active = {
     ,"request": "request.gitbooks.io"
     ,"riotgear": "riotgear.github.io" //CF
     ,"rishav": "xrisk.github.io/rishav"
+    ,"rmodal": "zewish.github.io/rmodal.js"
     ,"rp": "rpocklin.github.io"
     ,"ruhuman": "ruhuman.github.io"
     ,"saadmir": "saadmir.github.io"
+    ,"sagui": "pirelenito.github.io/sagui"
+    ,"sam":"jdubray.github.io/sam"
+    ,"sanctuary": "plaid.github.io/sanctuary-site"
     ,"sass": "medialize.github.io/playground.sass.js"
     ,"saulosantiago": "saulosilva.github.io"
     ,"savingthrow": "pdistefano.github.io/SavingThrow.js"
@@ -293,26 +342,33 @@ var cnames_active = {
     ,"selectric": "lcdsantos.github.io/jQuery-Selectric"
     ,"serender": "youssefkababe.github.io/serender"
     ,"serginator": "serginator.github.io"
+    ,"serializer": "haircvt.github.io/serializerjs"
     ,"shedali": "shedali.github.io"
+    ,"shortquery": "s--minecraft.gitbooks.io/shortquery-js"
     ,"shorttompkins": "shorttompkins.github.io"
+    ,"silky": "wvv8oo.github.com/silky"
     ,"siluna": "pahund.github.io/siluna"
     ,"simulacra": "0x8890.github.io/simulacra"
     ,"skate": "skatejs.github.io"
     ,"skx": "skx.github.io"
     ,"sn0w": "greensn0w.github.io"
+    ,"social-likes": "sapegin.github.io/social-likes"
+    ,"social-likes-next": "sapegin.github.io/social-likes-next"
     ,"sonny": "sonnylazuardi.github.io"
     ,"sox": "sox-team.github.io/sox"
     ,"spectragram,": "adrianengine.github.io/jquery-spectragram"
+    ,"spicdev": "spicdev.github.io"
     ,"spin": "fgnass.github.io/spin.js"
     ,"spirare": "waldenn.github.io/spirare"
     ,"spiritual": "spiritual-js.github.io"
     ,"spritesheet": "arcadiogarcia.github.io/Spritesheet.js"
+    ,"spritewerk": "c-concat-p.github.io/spritewerk"
+    ,"staticinstance": "staticinstance.github.io"
     ,"stats": "js-org.github.io/stats.js.org" //CF
     ,"stepan": "stevermeister.github.io"
     ,"stephenmccall": "stephenmccall.github.io"
     ,"style": "dhilipsiva.github.io/style.js"
-    ,"sudoku": "andreynering.github.io/sudoku"
-    ,"sugarshin": "sugarshin.github.io/sugarshin.js.org"
+    ,"sudoku": "andreynering.github.io/sudoku" //CF
     ,"sulky": "shingle.github.io/sulky"
     ,"sunsistemo": "sunsistemo.github.io" //CF
     ,"supernova": "janbiasi.github.io/supernova"
@@ -331,7 +387,10 @@ var cnames_active = {
     ,"torino": "torinojs.github.io"
     ,"treviso": "trevisojs.github.io"
     ,"trevorgk": "trevorgk.github.io"
+    ,"troxel": "troxeljs.github.io" //CF
     ,"ts2jsdoc": "spatools.github.io/ts2jsdoc"
+    ,"tsfp": "zhenwenc.github.io/tsfp"
+    ,"tweetnacl": "dchest.github.io/tweetnacl-js" //CF
     ,"typeahead": "corejavascript.github.io/typeahead.js" //CF
     ,"udnisap": "udnisap.github.io" //CF
     ,"ultcombo": "ultcombo.github.io"
@@ -347,7 +406,9 @@ var cnames_active = {
     ,"vk-x": "vk-x.github.io" //CF
     ,"vncz": "xvincentx.github.io/vncz"
     ,"voloshins": "voloshins.github.io"
+    ,"vorpal": "dthree.github.io/vorpal"
     ,"vuongdothanhhuy": "vuongdothanhhuy.github.io"
+    ,"watch": "ducin.github.io/watchjs.org"
     ,"weaver": "maxkfranz.github.io/weaver"
     ,"within": "eric-brechemier.github.io/within"
     ,"wwb": "eqielb.github.io/wwb"
@@ -359,6 +420,7 @@ var cnames_active = {
     ,"yargs": "yargs.github.io"
     ,"youtim": "mortonfox.github.io/YouTim"
     ,"youtube-box": "lucasmonteverde.github.io/youtube-box"
+    ,"zazu": "zazujs.github.io",
     ,"zodiac": "indus.github.io/Zodiac"
     ,"zombie": "assaf.github.io/zombie"
 }
