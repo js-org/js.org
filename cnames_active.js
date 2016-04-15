@@ -41,6 +41,7 @@ var cnames_active = {
     ,"8art": "erayarslan.github.io/8art"
     ,"akase": "cedmax.github.io/akase"
     ,"akashacms": "akashacms.github.io"
+    ,"alasql": "alasql.github.io"
     ,"algebra": "nicolewhite.github.io/algebra.js"
     ,"aligos.js.org": "aligos.github.io"
     ,"all": "learnsomuch.github.io/all.js"
@@ -135,6 +136,7 @@ var cnames_active = {
     ,"eray": "erayarslan.github.io"
     ,"erik": "erikroyall.github.com"
     ,"euclid": "anandthakker.github.io/euclid"
+    ,"es.redux": "sergiodxa.github.io/redux-in-spanish"
     ,"escape": "licshee.github.io/Escape.js"
     ,"eval": "jshawl.github.io/eval"
     ,"eventstore": "adrai.github.io/node-eventstore"
@@ -152,6 +154,7 @@ var cnames_active = {
     ,"freezer": "pakastin.github.io/freezer" //CF
     ,"denisvieira": "fromdenisvieira.github.io"
     ,"frzr": "pakastin.github.io/frzr" //CF
+    ,"gal": "galmail.github.io"
     ,"gamedevcontestal": "fromdenisvieira.github.io/gamedevcontestal"
     ,"geekr": "ruanyl.github.io/geekr"
     ,"genpasswd": "exos.github.io/genpasswd"
@@ -177,6 +180,7 @@ var cnames_active = {
     ,"hask": "janbiasi.github.io/hask"
     ,"hello": "hello-js-org.github.io"
     ,"hilo": "erikroyall.github.io/hilo"
+    ,"hk": "akura-co.github.io/hk"
     ,"hooloo": "hooloo.github.io"
     ,"humanreadable": "matt-sanders.github.io/humanreadable"
     ,"hyde": "gheek.github.io/hyde"
@@ -241,6 +245,7 @@ var cnames_active = {
     ,"motapc": "motapc97.github.io"
     ,"mrn": "binggg.github.io/mrn"
     ,"mscgen": "sverweij.github.io/mscgen_js" // CF
+    ,"multiple": "nexts.github.io/Multiple.js" // CF
     ,"murder": "rolandpoulter.github.io/murder"
     ,"mvidalgarcia": "mvidalgarcia.github.io"
     ,"n-j-m": "n-j-m.github.io"
@@ -320,6 +325,7 @@ var cnames_active = {
     ,"redux-blueprint": "cchamberlain.github.io/redux-blueprint"
     ,"refujs": "refujs.github.io"
     ,"relate": "jakelazaroff.github.io/relate"
+    ,"relax": "relaxjs.github.io" //CF
     ,"remark": "wooorm.github.io/remark"
     ,"rene": "revrng.github.io"
     ,"request": "request.gitbooks.io"
@@ -352,6 +358,7 @@ var cnames_active = {
     ,"silky": "wvv8oo.github.com/silky"
     ,"siluna": "pahund.github.io/siluna"
     ,"simulacra": "0x8890.github.io/simulacra"
+    ,"sizle": "christoga.github.io/sizle"
     ,"skate": "skatejs.github.io"
     ,"skx": "skx.github.io"
     ,"sn0w": "greensn0w.github.io"
