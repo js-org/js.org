@@ -318,6 +318,7 @@ var cnames_active = {
     ,"reduxible": "pitzcarraldo.github.io/reduxible"
     ,"refujs": "refujs.github.io"
     ,"relate": "jakelazaroff.github.io/relate"
+    ,"relax": "relaxjs.github.io" //CF
     ,"remark": "wooorm.github.io/remark"
     ,"rene": "revrng.github.io"
     ,"request": "request.gitbooks.io"
