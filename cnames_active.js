@@ -293,6 +293,7 @@ var cnames_active = {
     ,"planisphere": "dai-shi.github.io/planisphere-site"
     ,"pliers": "pliersjs.github.io"
     ,"polythene": "arthurclemens.github.io/Polythene"
+    ,"pop": "pop-js.github.io"
     ,"popper": "fezvrasta.github.io/popper.js"  //CF
     ,"qs": "kirjs.github.io/qs.js"
     ,"querybuilder": "mistic100.github.io/jQuery-QueryBuilder"
