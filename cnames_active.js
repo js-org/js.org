@@ -287,7 +287,7 @@ var cnames_active = {
     ,"pinf": "pinf.github.io"
     ,"pipes": "pipesjs.github.io"
     ,"pitermarx": "pitermarx.github.io"
-    ,"pivot": "wnda.github.io/pivot"
+    ,"pivot": "wnda.github.io/pivot" //CF
     ,"pixelart": "meriadec.github.io/PixelartJS"
     ,"plait": "wildlyinaccurate.github.io/plait" //CF
     ,"planisphere": "dai-shi.github.io/planisphere-site"
@@ -367,7 +367,7 @@ var cnames_active = {
     ,"spritesheet": "arcadiogarcia.github.io/Spritesheet.js"
     ,"spritewerk": "c-concat-p.github.io/spritewerk"
     ,"staticinstance": "staticinstance.github.io"
-    ,"stabs": "wnda.github.io/stabs"
+    ,"stabs": "wnda.github.io/stabs" //CF
     ,"stats": "js-org.github.io/stats.js.org" //CF
     ,"stepan": "stevermeister.github.io"
     ,"stephenmccall": "stephenmccall.github.io"
