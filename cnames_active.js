@@ -367,6 +367,7 @@ var cnames_active = {
     ,"spritesheet": "arcadiogarcia.github.io/Spritesheet.js"
     ,"spritewerk": "c-concat-p.github.io/spritewerk"
     ,"staticinstance": "staticinstance.github.io"
+    ,"stabs": "wnda.github.io/stabs"
     ,"stats": "js-org.github.io/stats.js.org" //CF
     ,"stepan": "stevermeister.github.io"
     ,"stephenmccall": "stephenmccall.github.io"
