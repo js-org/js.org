@@ -261,6 +261,7 @@ var cnames_active = {
     ,"node-browser_process": "caspervonb.github.io/node-browser_process"
     ,"nodegarden": "pakastin.github.io/nodegarden" //CF
     ,"noteit": "saha96.github.io/NoteIt"
+    ,"nsp": "hanul.github.io/NSP"
     ,"nsptiles": "imthenachoman.github.io/nSPTiles"
     ,"nvanthao": "nvanthao.github.io"
     ,"objectmodel": "sylvainpolletvillard.github.io/ObjectModel"
