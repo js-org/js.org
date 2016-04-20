@@ -186,6 +186,7 @@ var cnames_active = {
     ,"hooloo": "hooloo.github.io"
     ,"humanreadable": "matt-sanders.github.io/humanreadable"
     ,"hyde": "gheek.github.io/hyde"
+    ,"human": "willchen90.gitbooks.io/human-js/content"
     ,"igorsantana": "igorsantana.github.io"
     ,"iio": "iioinc.github.io/iio.js"
     ,"immense": "immense.github.io"
