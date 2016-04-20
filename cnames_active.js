@@ -80,6 +80,7 @@ var cnames_active = {
     ,"c-concat-p": "c-concat-p.github.io"
     ,"cable": "whatgoodisaroad.github.io/cablejs"
     ,"calcy": "odevlord.github.io/Calcy"
+    ,"calendarios": "helpdev.github.io/Calendarios"
     ,"capital": "capitaljs.github.io/capitaljs" //CF
     ,"cartodb-demo": "opensas.github.io/cartodb-demo"
     ,"central-node": "central-node.github.io"
