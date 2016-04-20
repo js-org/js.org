@@ -120,6 +120,7 @@ var cnames_active = {
     ,"dgelong": "alexeyraspopov.github.io/dgelong"
     ,"dinesh": "dineshondev.github.io/dinesh"
     ,"distillery": "achannarasappa.github.io/distillery"
+    ,"dmitry": "dmitry-zaets.github.io"
     ,"dns": "js-org.github.io/dns.js.org" //CF
     ,"documentation": "documentationjs.github.io"
     ,"domtastic": "webpro.github.io/DOMtastic" //CF
