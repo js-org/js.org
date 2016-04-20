@@ -266,6 +266,7 @@ var cnames_active = {
     ,"nsptiles": "imthenachoman.github.io/nSPTiles"
     ,"nvanthao": "nvanthao.github.io"
     ,"objectmodel": "sylvainpolletvillard.github.io/ObjectModel"
+    ,"oleg": "oleg-rudckivsky.github.io"
     ,"omega": "jczimm.github.io/omega"
     ,"omer": "omeroot.github.io"
     ,"onlineth": "onlineth.github.io"
