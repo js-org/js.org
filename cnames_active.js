@@ -411,7 +411,7 @@ var cnames_active = {
     ,"vinimdocarmo": "vinimdocarmo.github.com"
     ,"visualnovel": "selcher.github.io/visualnoveljs"
     ,"vk-x": "vk-x.github.io" //CF
-    ,"vncz": "xvincentx.github.io/vncz"
+    ,"vncz": "xvincentx.github.io/vncz" //CF
     ,"voloshins": "voloshins.github.io"
     ,"vorpal": "dthree.github.io/vorpal"
     ,"vuongdothanhhuy": "vuongdothanhhuy.github.io"
