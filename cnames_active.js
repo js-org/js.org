@@ -269,6 +269,7 @@ var cnames_active = {
     ,"objectmodel": "sylvainpolletvillard.github.io/ObjectModel"
     ,"omega": "jczimm.github.io/omega"
     ,"omer": "omeroot.github.io"
+    ,"onedesert": "onedesert.github.io"
     ,"onlineth": "onlineth.github.io"
     ,"opentype": "nodebox.github.io/opentype.js"
     ,"os": "os-js.github.io/OS.js" //CF
