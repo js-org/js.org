@@ -424,6 +424,7 @@ var cnames_active = {
     ,"y86": "quietshu.github.io/y86"
     ,"yah": "thassiov.github.io/yah"
     ,"yargs": "yargs.github.io"
+    ,"yann": "onedesert.github.io/"
     ,"youtim": "mortonfox.github.io/YouTim"
     ,"youtube-box": "lucasmonteverde.github.io/youtube-box"
     ,"zazu": "zazujs.github.io",
