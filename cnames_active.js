@@ -73,7 +73,7 @@ var cnames_active = {
     ,"bestof": "michaelrambeau.github.io/bestofjs"
     ,"biu": "aprilorange.github.io/biu"
     ,"brandonmerritt": "brandonmerritt.github.io"
-    ,"bricklayer": "bricklayer.github.io"
+    ,"bricklayer": "ademilter.github.io/bricklayer"
     ,"brum": "brumjs.github.io"
     ,"bub": "dar5hak.github.io/bub"
     ,"burst": "hugeen.github.io/burst"
