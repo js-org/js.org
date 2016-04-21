@@ -111,6 +111,7 @@ var cnames_active = {
     ,"danmaku": "weizhenye.github.io/Danmaku" //CF
     ,"danmol": "dan12mol.github.io"
     ,"date": "matthewmueller.github.io/date"
+    ,"davidpelayo": "davidpelayo.github.io"
     ,"daysfromnow": "pedrokost.github.io/daysfromnow"
     ,"dbo": "z3ta.github.io/dbo"
     ,"deck-of-cards": "pakastin.github.io/deck-of-cards" //CF
