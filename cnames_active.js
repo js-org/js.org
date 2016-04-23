@@ -51,6 +51,7 @@ var cnames_active = {
     ,"angularstompdk": "davinkevin.github.io/AngularStompDK"
     ,"annotate": "taitems.github.io/web-pdf-annotation"
     ,"annoyingmouse": "annoyingmouse.github.io"
+    ,"aping": "johnnythetank.github.io/apiNG"
     ,"api-spec": "api-spec.github.io"
     ,"apicluster": "ramsunvtech.github.io/apicluster"
     ,"argo": "albertosantini.github.io/argo"
