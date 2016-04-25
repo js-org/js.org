@@ -238,6 +238,7 @@ var cnames_active = {
     ,"miguelsr": "miguelsr.github.io"
     ,"minesweeper": "derflatulator.github.io/minesweeper"
     ,"mingyi": "liangmingyi.github.io"
+    ,"minigrid": "henriquea.github.io/minigrid"
     ,"mis101bird": "mis101bird.github.io"
     ,"mithril": "lhorie.github.io/mithril"
     ,"mithril-ja": "shibukawa.github.io/mithril-ja"
