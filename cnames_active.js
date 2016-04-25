@@ -48,6 +48,7 @@ var cnames_active = {
     ,"alt": "goatslacker.github.io/alt"
     ,"anenth": "anenth.github.io"
     ,"anggao": "anggao.github.io"
+    ,"angular-jsf": "json-schema-faker.github.io/angular-jsf"
     ,"angularstompdk": "davinkevin.github.io/AngularStompDK"
     ,"annotate": "taitems.github.io/web-pdf-annotation"
     ,"annoyingmouse": "annoyingmouse.github.io"
