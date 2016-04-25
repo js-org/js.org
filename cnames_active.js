@@ -208,7 +208,7 @@ var cnames_active = {
     ,"jets": "nexts.github.io/Jets.js" //CF
     ,"jjlc": "k-yak.github.io/JJLC"
     ,"josuedanielbust": "josuedanielbust.github.io"
-    ,"json-schema-faker": "pateketrueke.github.io/json-schema-faker"
+    ,"json-schema-faker": "json-schema-faker.github.io/website-jsf"
     ,"juancarlosqr": "juancarlosqr.github.io"
     ,"julien": "julien.github.io"
     ,"juno-106": "stevengoldberg.github.io/juno-106"
