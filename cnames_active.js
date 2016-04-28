@@ -237,6 +237,7 @@ var cnames_active = {
     ,"mde": "lukehorvat.github.io/mde-soundboard"
     ,"mediainfo": "buzz.github.io/mediainfo.js" //CF
     ,"medium-header": "danielfeelfine.github.io/medium-header"
+    ,"meiosis": "foxdonut.github.io/meiosis"
     ,"mesh": "crcn.github.io/mesh.js.org"
     ,"miguelsr": "miguelsr.github.io"
     ,"minesweeper": "derflatulator.github.io/minesweeper"
