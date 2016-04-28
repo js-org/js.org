@@ -184,6 +184,7 @@ var cnames_active = {
     ,"haloapi": "derflatulator.github.io/haloapi.js"
     ,"happy": "e24.github.io/happy"
     ,"hask": "janbiasi.github.io/hask"
+    ,"heartseekers": "rajington.github.io/heartseekers"
     ,"hello": "hello-js-org.github.io"
     ,"hilo": "erikroyall.github.io/hilo"
     ,"hk": "akura-co.github.io/hk"
