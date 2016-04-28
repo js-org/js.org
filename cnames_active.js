@@ -407,6 +407,7 @@ var cnames_active = {
     ,"tsfp": "zhenwenc.github.io/tsfp"
     ,"tweetnacl": "dchest.github.io/tweetnacl-js" //CF
     ,"typeahead": "corejavascript.github.io/typeahead.js" //CF
+    ,"u": "hanul.github.io/UJS"
     ,"udnisap": "udnisap.github.io" //CF
     ,"ultcombo": "ultcombo.github.io"
     ,"unexpected": "unexpectedjs.github.io"
