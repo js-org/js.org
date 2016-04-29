@@ -230,6 +230,7 @@ var cnames_active = {
     ,"liguori": "liguori.github.io"
     ,"logo": "js-org.github.io/logo"
     ,"ls": "links-js.github.io"
+    ,"lychee": "Artificial-Engineering.github.io/lycheeJS-website"
     ,"markmsmith": "markmsmith.github.io" //CF
     ,"martin": "martinbutler.github.io"
     ,"martingollogly": "martingollogly.github.io"
