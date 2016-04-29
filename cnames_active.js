@@ -121,6 +121,7 @@ var cnames_active = {
     ,"deputy": "ry4nolson.github.io/Deputy"
     ,"deterministic": "nodeguy.github.io/Deterministic.js"
     ,"dgelong": "alexeyraspopov.github.io/dgelong"
+    ,"diffract": "ameyms.github.io/diffract"
     ,"dinesh": "dineshondev.github.io/dinesh"
     ,"distillery": "achannarasappa.github.io/distillery"
     ,"dmitry": "dmitry-zaets.github.io"
