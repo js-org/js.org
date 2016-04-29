@@ -14,11 +14,10 @@
  * VALUE:       The regular domain provided by GitHub (e.g.: "foo.github.io" for a User-/Organization Page
  *              or "foo.github.io/bar" for a Project Page).
  *
- * CLOUDFLARE:  JS.ORG uses CloudFlare as its DNS. By default, CloudFlare forwards all requests directly to
- *              GitHub. But as an opt-in you can make CloudFlare proxy requests to your subdomain
- *              to get SSL support (https://foo.js.org). Just add '//CF' in the line of your requested
- *              subdomain to give me a hint. (CloudFlares caching as a CDN is bypassed by default)
- *              This isn´t widely tested and may have some unforeseen drawbacks!
+ * CLOUDFLARE:  JS.ORG uses CloudFlare as its DNS. By default, CloudFlare forwards all requests directly
+ *              to GitHub. But as an opt-in you can make CloudFlare proxy requests to your subdomain to get
+ *              SSL support (https://foo.js.org) and make use of browser caching with a TTL of 30 min.
+ *              Just add '//CF' in the line of your requested subdomain to give me a hint.
  *
  * IMPORTANT:   To authorize yourself as the owner of the GitHub Page you must have added a valid CNAME file
  *              (with the requested domain, e.g.: "foo.js.org") to your repository before the pull request.
