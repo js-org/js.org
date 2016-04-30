@@ -367,6 +367,7 @@ var cnames_active = {
     ,"sizle": "christoga.github.io/sizle"
     ,"skate": "skatejs.github.io"
     ,"skx": "skx.github.io"
+    ,"smoove": "abemedia.github.io/jquery-smoove" //CF
     ,"sn0w": "greensn0w.github.io"
     ,"social-likes": "sapegin.github.io/social-likes"
     ,"social-likes-next": "sapegin.github.io/social-likes-next"
