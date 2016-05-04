@@ -138,6 +138,7 @@ var cnames_active = {
     ,"emeraldcraftmc": "emeraldcraftmc.github.io"
     ,"emulisp": "grahack.github.io/EmuLisp"
     ,"enclave": "eanplatter.github.io/enclave"
+    ,"eq8": "eq8.github.io", //CF
     ,"eray": "erayarslan.github.io"
     ,"erik": "erikroyall.github.com"
     ,"euclid": "anandthakker.github.io/euclid"
