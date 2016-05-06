@@ -442,8 +442,9 @@ var cnames_active = {
     ,"yargs": "yargs.github.io"
     ,"youtim": "mortonfox.github.io/YouTim"
     ,"youtube-box": "lucasmonteverde.github.io/youtube-box"
-    ,"zazu": "zazujs.github.io",
+    ,"zazu": "zazujs.github.io"
     ,"zodiac": "indus.github.io/Zodiac"
     ,"zombie": "assaf.github.io/zombie"
     ,"redux-undo": "omnidan.github.io/redux-undo"
+    ,"winter": "cloud-intelligence.github.io/WinterJS"
 }
