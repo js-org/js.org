@@ -155,6 +155,7 @@ var cnames_active = {
     ,"finder": "applait.github.io/finderjs"
     ,"firenze": "fahad19.github.io/firenze"
     ,"fis": "fex-team.github.io/fis-site"
+    ,"fld-grd": "mrksbnch.github.io/fld-grd" //CF
     ,"flowchart": "adrai.github.io/flowchart.js"
     ,"fluxoff": "kingscott.github.io/flux-off"
     ,"freemarker": "ijse.github.io/freemarker.js"
