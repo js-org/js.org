@@ -347,7 +347,7 @@ var cnames_active = {
     ,"rp": "rpocklin.github.io"
     ,"ruhuman": "ruhuman.github.io"
     ,"saadmir": "saadmir.github.io"
-    ,"sagui": "pirelenito.github.io/sagui"
+    ,"sagui": "saguijs.github.io"
     ,"sam":"jdubray.github.io/sam"
     ,"sanctuary": "sanctuary-js.github.io/sanctuary-site"
     ,"sass": "medialize.github.io/playground.sass.js"
