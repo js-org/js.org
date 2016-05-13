@@ -451,4 +451,5 @@ var cnames_active = {
     ,"zodiac": "indus.github.io/Zodiac"
     ,"zombie": "assaf.github.io/zombie"
     ,"redux-undo": "omnidan.github.io/redux-undo"
+    ,"wayou": "wayou.github.io"
 }
