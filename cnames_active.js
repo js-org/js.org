@@ -54,6 +54,7 @@ var cnames_active = {
     ,"aping": "johnnythetank.github.io/apiNG"
     ,"api-spec": "api-spec.github.io"
     ,"apicluster": "ramsunvtech.github.io/apicluster"
+    ,"aplayer": "diygod.github.io/APlayer"
     ,"apod": "marcosflorencio.github.io/angular-apod"
     ,"argo": "albertosantini.github.io/argo"
     ,"arime": "ninbryan.github.io/arime"
