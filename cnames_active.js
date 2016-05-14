@@ -337,6 +337,7 @@ var cnames_active = {
     ,"reduce": "reducejs.github.io"
     ,"redux": "rackt.github.io/redux"
     ,"reduxible": "pitzcarraldo.github.io/reduxible"
+    ,"redux-webpack-boilerplate": "cchamberlain.github.io/redux-webpack-boilerplate"
     ,"refujs": "refujs.github.io"
     ,"relate": "jakelazaroff.github.io/relate"
     ,"relax": "relaxjs.github.io" //CF
