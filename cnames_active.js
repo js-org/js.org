@@ -343,6 +343,7 @@ var cnames_active = {
     ,"relax": "relaxjs.github.io" //CF
     ,"remark": "wooorm.github.io/remark"
     ,"rene": "revrng.github.io"
+    ,"repackage": "cchamberlain.github.io/repackage"
     ,"request": "request.gitbooks.io"
     ,"riotgear": "riotgear.github.io" //CF
     ,"rishav": "xrisk.github.io/rishav"
