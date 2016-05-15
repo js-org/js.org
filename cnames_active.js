@@ -393,6 +393,7 @@ var cnames_active = {
     ,"staticinstance": "staticinstance.github.io"
     ,"stabs": "wnda.github.io/stabs" //CF
     ,"stats": "js-org.github.io/stats.js.org" //CF
+    ,"stego": "zeruniverse.github.io/CryptoStego"
     ,"stepan": "stevermeister.github.io"
     ,"stephenmccall": "stephenmccall.github.io"
     ,"style": "dhilipsiva.github.io/style.js"
