@@ -156,6 +156,7 @@ var cnames_active = {
     ,"festercluck": "festercluck.github.io"
     ,"finder": "applait.github.io/finderjs"
     ,"firenze": "fahad19.github.io/firenze"
+    ,"fire-hydrant": "cchamberlain.github.io/fire-hydrant"
     ,"fis": "fex-team.github.io/fis-site"
     ,"fld-grd": "mrksbnch.github.io/fld-grd" //CF
     ,"flowchart": "adrai.github.io/flowchart.js"
