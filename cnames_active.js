@@ -101,6 +101,7 @@ var cnames_active = {
     ,"collegequest": "schoolhouserock.github.io/CollegeQuest"
     ,"comixngn": "seun40.github.io/comix-ngn"
     ,"community.os": "js.bydiscourse.com"
+    ,"commandfox": "commandfox.github.io/mc-tools"
     ,"concursos": "mteyss.github.io/concursos"
     ,"construyendotrabajo": "mteyss.github.io/construyendotrabajo"
     ,"cordova-multiplatform-template": "ckgrafico.github.io/Cordova-Multiplatform-Template"
