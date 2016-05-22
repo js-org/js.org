@@ -445,6 +445,7 @@ var cnames_active = {
     ,"watch": "ducin.github.io/watchjs.org"
     ,"weaver": "maxkfranz.github.io/weaver"
     ,"within": "eric-brechemier.github.io/within"
+    ,"wordywordy": "sverweij.github.io/wordywordy" // CF
     ,"wow": "graingert.github.io/WOW" //CF
     ,"wwb": "eqielb.github.io/wwb"
     ,"xprmntl": "xprmntl.github.io"
