@@ -322,6 +322,7 @@ var cnames_active = {
     ,"quiz-app": "odevlord.github.io/Quiz-App"
     ,"quiz-revamped": "abhisekp.github.io/Quiz-Revamped"
     ,"rad": "rapid-application-development-js.github.io/RAD.JS"
+    ,"rag" : "michaellyons.github.io/react-amazon-gallery"
     ,"radial": "ckgrafico.github.io/radial.js"
     ,"rafaelmangolin": "rafaelMangolin.github.io"
     ,"rahul": "rahulsukla.github.io/rahul"
