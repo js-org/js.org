@@ -79,6 +79,7 @@ var cnames_active = {
     ,"bricklayer": "ademilter.github.io/bricklayer"
     ,"brum": "brumjs.github.io"
     ,"bub": "dar5hak.github.io/bub"
+    ,"bunyan-pmx": "cchamberlain.github.io/bunyan-pmx"
     ,"burst": "hugeen.github.io/burst"
     ,"bustime": "agarzola.github.io/bustime"
     ,"c-concat-p": "c-concat-p.github.io"
