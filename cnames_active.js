@@ -80,6 +80,7 @@ var cnames_active = {
     ,"bricklayer": "ademilter.github.io/bricklayer"
     ,"brum": "brumjs.github.io"
     ,"bub": "dar5hak.github.io/bub"
+    ,"bunyan-fork": "cchamberlain.github.io/bunyan-fork"
     ,"bunyan-pmx": "cchamberlain.github.io/bunyan-pmx"
     ,"bunyan-serializer": "cchamberlain.github.io/bunyan-serializer"
     ,"burst": "hugeen.github.io/burst"
