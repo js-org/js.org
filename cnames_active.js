@@ -68,6 +68,7 @@ var cnames_active = {
     ,"awal": "awalGarg.github.io"
     ,"badger": "just-glue-it.github.io/badger"
     ,"badrudeen": "badrudeen.github.io"
+    ,"backlog": "backlog-js.github.io/backlog.js.org"
     ,"bali": "balijs.github.io"
     ,"barcelona": "barcelona-js.github.io/website"
     ,"bash": "bashjs.github.io"
