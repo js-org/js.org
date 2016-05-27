@@ -230,6 +230,7 @@ var cnames_active = {
     ,"julien": "julien.github.io"
     ,"juno-106": "stevengoldberg.github.io/juno-106"
     ,"jus": "zeke.github.io/jus.js.org"
+    ,"jwt-autorefresh": "cchamberlain.github.io/jwt-autorefresh"
     ,"karl": "karlcoelho.github.io/portfolio"
     ,"kelvinho": "kelvin2go.github.io/"
     ,"labelauty": "fntneves.github.io/jquery-labelauty"
