@@ -75,6 +75,7 @@ var cnames_active = {
     ,"basicgame": "basicgame.github.io/basicGame.js"
     ,"begin": "advanced-webapps-class.github.io/begin"
     ,"bestof": "michaelrambeau.github.io/bestofjs"
+    ,"bind-action-dispatchers": "cchamberlain.github.io/bind-action-dispatchers"
     ,"biu": "aprilorange.github.io/biu"
     ,"brandonmerritt": "brandonmerritt.github.io"
     ,"bricklayer": "ademilter.github.io/bricklayer"
