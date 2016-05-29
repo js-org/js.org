@@ -159,6 +159,7 @@ var cnames_active = {
     ,"exbars": "youssefkababe.github.io/exbars"
     ,"extraction": "rse.github.io/extraction"
     ,"facepalm": "santiagogil.github.io/facepalm" //CF
+    ,"fat": "jt3k.github.io/fat"
     ,"fcbosque": "cronopio.github.io/fcbosque"
     ,"festercluck": "festercluck.github.io"
     ,"finder": "applait.github.io/finderjs"
