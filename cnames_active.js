@@ -212,6 +212,7 @@ var cnames_active = {
     ,"immybox": "immense.github.io/immybox"
     ,"ip-address": "beaugunderson.github.io/ip-address"
     ,"is": "arasatasaygin.github.io/is.js"
+    ,"ishan": "ishanthukral.github.io/ishan.js/"
     ,"italia": "milano-js.github.io/italia-js"
     ,"itsashis4u": "itsashis4u.github.io"
     ,"ivml": "influencetech.github.io/ivml"
