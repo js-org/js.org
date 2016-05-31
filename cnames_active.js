@@ -457,6 +457,7 @@ var cnames_active = {
     ,"wordywordy": "sverweij.github.io/wordywordy" // CF
     ,"wow": "graingert.github.io/WOW" //CF
     ,"wwb": "eqielb.github.io/wwb"
+    ,"wyfe": "wangyuanstudio.github.io/WYFE"
     ,"xprmntl": "xprmntl.github.io"
     ,"xto6": "mohebifar.github.io/xto6"
     ,"xtype": "lucono.github.io/xtypejs"
