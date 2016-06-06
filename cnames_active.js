@@ -154,6 +154,7 @@ var cnames_active = {
     ,"euclid": "anandthakker.github.io/euclid"
     ,"es.redux": "sergiodxa.github.io/redux-in-spanish"
     ,"escape": "licshee.github.io/Escape.js"
+    ,"euc": "wnda.github.io/euc" //CF
     ,"eval": "jshawl.github.io/eval"
     ,"eventstore": "adrai.github.io/node-eventstore"
     ,"exbars": "youssefkababe.github.io/exbars"
