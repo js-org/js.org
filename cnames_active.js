@@ -127,6 +127,7 @@ var cnames_active = {
     ,"deepu": "deepu105.github.io"
     ,"delegacias-fortaleza": "juliosampaio.github.io/delegacias-fortaleza"
     ,"deputy": "ry4nolson.github.io/Deputy"
+    ,"detect-resize": "noderaider.github.io/detect-resize"
     ,"deterministic": "nodeguy.github.io/Deterministic.js"
     ,"dgelong": "alexeyraspopov.github.io/dgelong"
     ,"diffract": "ameyms.github.io/diffract"
@@ -246,6 +247,7 @@ var cnames_active = {
     ,"leoj": "leoaj.github.io"
     ,"leste": "atwood-cai.github.io/leste.js"
     ,"liguori": "liguori.github.io"
+    ,"localsync": "noderaider.github.io/localsync"
     ,"logo": "js-org.github.io/logo"
     ,"ls": "links-js.github.io"
     ,"lychee": "Artificial-Engineering.github.io/lycheeJS-website" //CF
