@@ -428,6 +428,7 @@ var cnames_active = {
     ,"timerizer": "callumacrae.github.io/timerizerJS"
     ,"tint": "tintjs.github.io"
     ,"tinylinux": "e8johan.github.io/tiny-js"
+    ,"toad": "wnda.github.io/toad" //CF
     ,"torino": "torinojs.github.io"
     ,"treviso": "trevisojs.github.io"
     ,"trevorgk": "trevorgk.github.io"
