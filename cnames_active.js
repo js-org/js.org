@@ -162,6 +162,7 @@ var cnames_active = {
     ,"extraction": "rse.github.io/extraction"
     ,"facepalm": "santiagogil.github.io/facepalm" //CF
     ,"fcbosque": "cronopio.github.io/fcbosque"
+    ,"fela": "rofrischmann.github.io/fela"
     ,"festercluck": "festercluck.github.io"
     ,"finder": "applait.github.io/finderjs"
     ,"firenze": "fahad19.github.io/firenze"
