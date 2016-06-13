@@ -477,4 +477,5 @@ var cnames_active = {
     ,"zombie": "assaf.github.io/zombie"
     ,"redux-undo": "omnidan.github.io/redux-undo"
     ,"wayou": "wayou.github.io"
+    ,"es2015-node": "martinheidegger.github.io/es6modules-nodejs"
 }
