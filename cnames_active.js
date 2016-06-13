@@ -171,6 +171,7 @@ var cnames_active = {
     ,"fld-grd": "mrksbnch.github.io/fld-grd" //CF
     ,"flowchart": "adrai.github.io/flowchart.js"
     ,"fluxoff": "kingscott.github.io/flux-off"
+    ,"fortune": "fortunejs.github.io/fortune"
     ,"freemarker": "ijse.github.io/freemarker.js"
     ,"freezer": "pakastin.github.io/freezer" //CF
     ,"denisvieira": "fromdenisvieira.github.io"
