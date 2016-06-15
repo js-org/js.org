@@ -227,6 +227,7 @@ var cnames_active = {
     ,"jalbertbowden": "jalbertbowden.github.io"
     ,"james": "jamesrowen.github.io/james"
     ,"jargon": "hugogiraudel.github.io/SJSJ"
+    ,"jazzcript": "jazzcript.github.io"
     ,"jbone": "kupriyanenko.github.io/jbone"
     ,"jets": "nexts.github.io/Jets.js" //CF
     ,"jjlc": "k-yak.github.io/JJLC"
