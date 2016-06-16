@@ -77,6 +77,7 @@ var cnames_active = {
     ,"bestof": "michaelrambeau.github.io/bestofjs"
     ,"bind-action-dispatchers": "cchamberlain.github.io/bind-action-dispatchers"
     ,"biu": "aprilorange.github.io/biu"
+    ,"bodybuilder": "danpaz.github.io/bodybuilder"
     ,"brandonmerritt": "brandonmerritt.github.io"
     ,"bricklayer": "ademilter.github.io/bricklayer"
     ,"brum": "brumjs.github.io"
