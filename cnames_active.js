@@ -284,6 +284,7 @@ var cnames_active = {
     ,"multiple": "nexts.github.io/Multiple.js" // CF
     ,"murder": "rolandpoulter.github.io/murder"
     ,"mvidalgarcia": "mvidalgarcia.github.io"
+    ,"mpe": "weareroli.github.io/mpejs/"
     ,"n-j-m": "n-j-m.github.io"
     ,"nanimation": "imthenachoman.github.io/nAnimation"
     ,"ncms": "janbiasi.github.io/ncms"
