@@ -427,6 +427,7 @@ var cnames_active = {
     ,"talker": "secondstreet.github.io/talker.js"
     ,"tap-flux": "technologyadvice.github.io/tap-flux"
     ,"tart": "tart.github.io/tartJS"
+    ,"techfest": "anukul.github.io/techfest"
     ,"telegraf": "telegraf.github.io/telegraf"
     ,"temple": "beneaththeink.github.io/Temple"
     ,"terminal": "gottox.github.io/terminal.js"
