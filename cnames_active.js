@@ -367,6 +367,7 @@ var cnames_active = {
     ,"rene": "revrng.github.io"
     ,"repackage": "cchamberlain.github.io/repackage"
     ,"request": "request.gitbooks.io"
+    ,"restjs": "daviesgeek.github.io/restjs" //CF
     ,"riotgear": "riotgear.github.io" //CF
     ,"rishav": "xrisk.github.io/rishav"
     ,"rmodal": "zewish.github.io/rmodal.js"
