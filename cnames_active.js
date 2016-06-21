@@ -267,6 +267,7 @@ var cnames_active = {
     ,"medium-header": "danielfeelfine.github.io/medium-header"
     ,"meiosis": "foxdonut.github.io/meiosis"
     ,"mesh": "crcn.github.io/mesh.js.org"
+    ,"mf": "awto.github.io/mfjs-compiler"
     ,"miguelsr": "miguelsr.github.io"
     ,"minesweeper": "derflatulator.github.io/minesweeper" //CF
     ,"mingyi": "liangmingyi.github.io"
