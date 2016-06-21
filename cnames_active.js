@@ -268,7 +268,7 @@ var cnames_active = {
     ,"meiosis": "foxdonut.github.io/meiosis"
     ,"mesh": "crcn.github.io/mesh.js.org"
     ,"miguelsr": "miguelsr.github.io"
-    ,"minesweeper": "derflatulator.github.io/minesweeper"
+    ,"minesweeper": "derflatulator.github.io/minesweeper" //CF
     ,"mingyi": "liangmingyi.github.io"
     ,"minigrid": "henriquea.github.io/minigrid"
     ,"mis101bird": "mis101bird.github.io"
