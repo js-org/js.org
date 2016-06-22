@@ -217,6 +217,7 @@ var cnames_active = {
     ,"iio": "iioinc.github.io/iio.js"
     ,"immense": "immense.github.io"
     ,"immybox": "immense.github.io/immybox"
+    ,"index": "xcatliu.github.io/js-index"
     ,"ip-address": "beaugunderson.github.io/ip-address"
     ,"is": "arasatasaygin.github.io/is.js"
     ,"ishan": "ishanthukral.github.io/ishan.js"
