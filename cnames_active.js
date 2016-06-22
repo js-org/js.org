@@ -164,6 +164,7 @@ var cnames_active = {
     ,"exbars": "youssefkababe.github.io/exbars"
     ,"extraction": "rse.github.io/extraction"
     ,"facepalm": "santiagogil.github.io/facepalm" //CF
+    ,"farfetchd": "achannarasappa.github.io/farfetchd"
     ,"fcbosque": "cronopio.github.io/fcbosque"
     ,"fela": "rofrischmann.github.io/fela"
     ,"festercluck": "festercluck.github.io"
