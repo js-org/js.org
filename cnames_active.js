@@ -431,6 +431,7 @@ var cnames_active = {
     ,"tap-flux": "technologyadvice.github.io/tap-flux"
     ,"tart": "tart.github.io/tartJS"
     ,"techfest": "anukul.github.io/techfest"
+    ,"telaviv": "dustin-h.github.io/telaviv"
     ,"telegraf": "telegraf.github.io/telegraf"
     ,"temple": "beneaththeink.github.io/Temple"
     ,"terminal": "gottox.github.io/terminal.js"
