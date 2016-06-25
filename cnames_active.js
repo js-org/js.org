@@ -78,6 +78,7 @@ var cnames_active = {
     ,"bind-action-dispatchers": "cchamberlain.github.io/bind-action-dispatchers"
     ,"biu": "aprilorange.github.io/biu"
     ,"bodybuilder": "danpaz.github.io/bodybuilder"
+    ,"bplayer": "classicoldsong.github.io/bPlayer"
     ,"brandonmerritt": "brandonmerritt.github.io"
     ,"bricklayer": "ademilter.github.io/bricklayer"
     ,"brum": "brumjs.github.io"
@@ -141,6 +142,7 @@ var cnames_active = {
     ,"domtastic": "webpro.github.io/DOMtastic" //CF
     ,"dope": "fouad.github.io/dope"
     ,"draft": "D1SC0tech.github.io/draft.js"
+    ,"drag": "classicoldsong.github.io/Drag.js"
     ,"dragon": "sabertazimi.github.io/dragonjs"
     ,"du": "ruanyl.github.io/du"
     ,"duffn": "duffn.github.io"
