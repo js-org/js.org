@@ -78,6 +78,7 @@ var cnames_active = {
     ,"bind-action-dispatchers": "cchamberlain.github.io/bind-action-dispatchers"
     ,"biu": "aprilorange.github.io/biu"
     ,"bodybuilder": "danpaz.github.io/bodybuilder"
+    ,"bootstrap-confirmation": "mistic100.github.io/Bootstrap-Confirmation"
     ,"bplayer": "classicoldsong.github.io/bPlayer"
     ,"brandonmerritt": "brandonmerritt.github.io"
     ,"braxit": "braxit.github.io"
