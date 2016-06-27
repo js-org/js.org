@@ -143,6 +143,7 @@ var cnames_active = {
     ,"documentation": "documentationjs.github.io"
     ,"domtastic": "webpro.github.io/DOMtastic" //CF
     ,"dope": "fouad.github.io/dope"
+    ,"donavon": "donavon.github.io"
     ,"draft": "D1SC0tech.github.io/draft.js"
     ,"drag": "classicoldsong.github.io/Drag.js"
     ,"dragon": "sabertazimi.github.io/dragonjs"
