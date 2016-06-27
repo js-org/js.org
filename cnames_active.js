@@ -320,7 +320,7 @@ var cnames_active = {
     ,"paperclip": "crcn.github.com/paperclip.js.org"
     ,"paraiba": "paraibajs.github.io"
     ,"parametric-svg": "parametric-svg.github.io"
-    ,"pas-ce-soir": "oldergod.github.io/pas-ce-soir"
+    ,"pas-ce-soir": "oldergod.github.io/pas-ce-soir" //CF
     ,"pastebin-alert": "ramadhanamizudin.github.io/pastebin-alert.js"
     ,"pathtrace": "kovacsv.github.io/WebGLPathTrace"
     ,"paul": "paul-brown.github.io"
