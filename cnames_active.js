@@ -82,6 +82,7 @@ var cnames_active = {
     ,"bplayer": "classicoldsong.github.io/bPlayer"
     ,"brandonmerritt": "brandonmerritt.github.io"
     ,"braxit": "braxit.github.io"
+    ,"brexit-regrets": "adebounam.github.io/brexit-regrets"
     ,"bricklayer": "ademilter.github.io/bricklayer"
     ,"brum": "brumjs.github.io"
     ,"bub": "dar5hak.github.io/bub"
