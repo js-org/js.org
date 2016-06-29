@@ -469,6 +469,7 @@ var cnames_active = {
     ,"vaguilar": "vaguilar.github.io"
     ,"valentin": "valentinvieriu.github.io"
     ,"validator": "ppoffice.github.io/validator.js"
+    ,"vico": "bohdantkachenko.github.io/vico"
     ,"vinimdocarmo": "vinimdocarmo.github.com"
     ,"visualnovel": "selcher.github.io/visualnoveljs"
     ,"vk-x": "vk-x.github.io" //CF
