@@ -433,7 +433,7 @@ var cnames_active = {
     ,"style": "dhilipsiva.github.io/style.js"
     ,"sudoku": "andreynering.github.io/sudoku" //CF
     ,"sulky": "shingle.github.io/sulky"
-    ,"sunsistemo": "sunsistemo.github.io" //CF
+    ,"sunsistemo": "sunsistemo.github.io/sunsistemo" //CF
     ,"supernova": "janbiasi.github.io/supernova"
     ,"tagster": "goschevski.github.io/tagster"
     ,"talker": "secondstreet.github.io/talker.js"
