@@ -295,6 +295,7 @@ var cnames_active = {
     ,"mscgen": "sverweij.github.io/mscgen_js" // CF
     ,"multiple": "nexts.github.io/Multiple.js" // CF
     ,"murder": "rolandpoulter.github.io/murder"
+    ,"musawir": "musawirali.github.io"
     ,"mvidalgarcia": "mvidalgarcia.github.io"
     ,"n-j-m": "n-j-m.github.io"
     ,"nanimation": "imthenachoman.github.io/nAnimation"
