@@ -193,7 +193,7 @@ var cnames_active = {
     ,"ghsamm": "ghsamm.github.io"
     ,"giant-piano": "moroshko.github.io/giant-piano"
     ,"goodseller": "goodseller.github.io"
-    ,"gol": "goljs.github.io/GoL"
+    ,"gol": "goljs.github.io/GoL" //CF
     ,"gotanda": "gotandajs.github.io"
     ,"graphics2d": "keyten.github.io/Graphics2D"
     ,"grapnel": "engineeringmode.github.io/Grapnel.js"
