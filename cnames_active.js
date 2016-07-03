@@ -123,6 +123,7 @@ var cnames_active = {
     ,"cssjanus": "cssjanus.github.io" //CF
     ,"cucumber-mink": "adezandee.github.io/cucumber-mink"
     ,"cycle": "cyclejs.github.io"
+    ,"d4": "joelburget.github.io/d4" //CF
     ,"danmaku": "weizhenye.github.io/Danmaku" //CF
     ,"danmol": "dan12mol.github.io"
     ,"date": "matthewmueller.github.io/date"
