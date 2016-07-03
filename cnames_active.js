@@ -362,6 +362,7 @@ var cnames_active = {
     ,"react-responsive-carousel": "leandrowd.github.io/react-responsive-carousel"
     ,"react-shared": "rvikmanis.github.io/react-shared"
     ,"react-styleguidist": "sapegin.github.io/react-styleguidist"
+    ,"reactabular": "bebraw.github.io/reactabular"
     ,"reactdesktop": "gabrielbull.github.io/react-desktop"
     ,"reader": "ruanyl.github.io/js-reader"
     ,"realtime": "datamcfly.github.io/realtimejs"
