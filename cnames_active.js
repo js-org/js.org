@@ -263,7 +263,7 @@ var cnames_active = {
     ,"liguori": "liguori.github.io"
     ,"localsync": "noderaider.github.io/localsync"
     ,"logo": "js-org.github.io/logo"
-    ,"ls": "links-js.github.io"
+    ,"ls": "links-js.github.io" //CF
     ,"lychee": "Artificial-Engineering.github.io/lycheeJS-website" //CF
     ,"magnet": "magnetjs.github.io/Magnet",
     ,"markmsmith": "markmsmith.github.io" //CF
