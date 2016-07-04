@@ -310,6 +310,7 @@ var cnames_active = {
     ,"nktx": "nktx.github.io"
     ,"node-browser_process": "caspervonb.github.io/node-browser_process"
     ,"nodegarden": "pakastin.github.io/nodegarden" //CF
+    ,"noted": "carter-slade.github.io/Noted-/"
     ,"noteit": "saha96.github.io/NoteIt"
     ,"nsp": "hanul.github.io/NSP"
     ,"nsptiles": "imthenachoman.github.io/nSPTiles"
