@@ -269,6 +269,7 @@ var cnames_active = {
     ,"markmsmith": "markmsmith.github.io" //CF
     ,"martin": "martinbutler.github.io"
     ,"martingollogly": "martingollogly.github.io"
+    ,"marxist": "ohmfox.github.io/marxistjs"
     ,"matthias-schuetz": "matthias-schuetz.github.io"
     ,"maxnachlinger": "maxnachlinger.github.io"
     ,"maxtracking": "maxtracking.github.io"
