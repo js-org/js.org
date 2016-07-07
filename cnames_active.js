@@ -291,6 +291,7 @@ var cnames_active = {
     ,"mom": "momjs.github.io/mom" // CF
     ,"momentum": "wemakeweb.github.io/momentum"
     ,"monkberry": "monkberry.github.io"
+    ,"moose": "mustpax.github.io/moose" // CF
     ,"morocco": "moroccojs.github.io" // CF
     ,"motapc": "motapc97.github.io"
     ,"mpe": "weareroli.github.io/mpejs"
