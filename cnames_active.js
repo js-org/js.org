@@ -469,6 +469,7 @@ var cnames_active = {
     ,"typeahead": "corejavascript.github.io/typeahead.js" //CF
     ,"u": "hanul.github.io/UJS"
     ,"udnisap": "udnisap.github.io" //CF
+    ,"ukazap": "ukazap.github.io"
     ,"ultcombo": "ultcombo.github.io"
     ,"unexpected": "unexpectedjs.github.io"
     ,"uni": "arcadiogarcia.github.io/UNIJS"
