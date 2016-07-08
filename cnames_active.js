@@ -378,6 +378,7 @@ var cnames_active = {
     ,"redux-undo": "omnidan.github.io/redux-undo"
     ,"redux-webpack-boilerplate": "cchamberlain.github.io/redux-webpack-boilerplate"
     ,"reduxible": "pitzcarraldo.github.io/reduxible"
+    ,"refraction": "mbasso.github.io/refraction"
     ,"refujs": "refujs.github.io"
     ,"relate": "jakelazaroff.github.io/relate"
     ,"relax": "relaxjs.github.io" //CF
