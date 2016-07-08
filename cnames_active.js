@@ -118,6 +118,7 @@ var cnames_active = {
     ,"cordova-multiplatform-template": "ckgrafico.github.io/Cordova-Multiplatform-Template"
     ,"cote": "dashersw.github.io/cote"
     ,"country": "growmies.github.io/countryjs"
+    ,"cplayer": "copay.github.io/cPlayer"
     ,"cqrs": "adrai.github.io/cqrs"
     ,"crunch": "vukicevic.github.io/crunch"
     ,"cssjanus": "cssjanus.github.io" //CF
