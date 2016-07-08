@@ -349,6 +349,7 @@ var cnames_active = {
     ,"pliers": "pliersjs.github.io"
     ,"polythene": "arthurclemens.github.io/Polythene"
     ,"popper": "fezvrasta.github.io/popper.js" //CF
+    ,"poegems": "max-arias.github.io/poeGems"
     ,"qs": "kirjs.github.io/qs.js"
     ,"querybuilder": "mistic100.github.io/jQuery-QueryBuilder"
     ,"quiz-app": "odevlord.github.io/Quiz-App"
