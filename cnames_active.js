@@ -276,6 +276,7 @@ var cnames_active = {
     ,"matthias-schuetz": "matthias-schuetz.github.io"
     ,"maxnachlinger": "maxnachlinger.github.io"
     ,"maxtracking": "maxtracking.github.io"
+    ,"mc": "magicarbon.github.io/mc"
     ,"mde": "lukehorvat.github.io/mde-soundboard"
     ,"mediainfo": "buzz.github.io/mediainfo.js" //CF
     ,"medium-header": "danielfeelfine.github.io/medium-header"
