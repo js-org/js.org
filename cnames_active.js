@@ -109,6 +109,7 @@ var cnames_active = {
     ,"cmbhackjs2013": "cmbjs.github.io/cmbHackjs2013" //CF
     ,"cn.redux": "camsong.github.io/redux-in-chinese"
     ,"codemade": "codemade.github.io"
+    ,"cole": "crellison.github.io/cole"
     ,"collegequest": "schoolhouserock.github.io/CollegeQuest"
     ,"comixngn": "seun40.github.io/comix-ngn"
     ,"commandfox": "commandfox.github.io/mc-tools"
