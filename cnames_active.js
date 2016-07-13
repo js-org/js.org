@@ -379,6 +379,7 @@ var cnames_active = {
     ,"redis": "noderedis.github.io/node_redis"
     ,"reduce": "reducejs.github.io"
     ,"redux": "rackt.github.io/redux"
+    ,"redux-observable": "redux-observable.github.io/redux-observable" //CF
     ,"redux-undo": "omnidan.github.io/redux-undo"
     ,"redux-webpack-boilerplate": "cchamberlain.github.io/redux-webpack-boilerplate"
     ,"reduxible": "pitzcarraldo.github.io/reduxible"
