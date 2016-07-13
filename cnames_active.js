@@ -254,6 +254,7 @@ var cnames_active = {
     ,"kalm": "fed135.github.io/kalm.github.io"
     ,"karl": "karlcoelho.github.io/portfolio"
     ,"kelvinho": "kelvin2go.github.io"
+    ,"konsumer": "konsumer.github.io"
     ,"labelauty": "fntneves.github.io/jquery-labelauty"
     ,"lambda": "lambdajs.github.io"
     ,"laubstein": "laubstein.github.io"
