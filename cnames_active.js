@@ -270,6 +270,7 @@ var cnames_active = {
     ,"lychee": "Artificial-Engineering.github.io/lycheeJS-website" //CF
     ,"magnet": "magnetjs.github.io/Magnet",
     ,"markmsmith": "markmsmith.github.io" //CF
+    ,"marshall": "lunartwilight.github.io/marshall"
     ,"martin": "martinbutler.github.io"
     ,"martingollogly": "martingollogly.github.io"
     ,"marxist": "ohmfox.github.io/marxistjs"
