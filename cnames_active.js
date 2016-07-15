@@ -438,7 +438,7 @@ var cnames_active = {
     ,"spirare": "waldenn.github.io/spirare"
     ,"spiritual": "spiritual-js.github.io"
     ,"spritesheet": "arcadiogarcia.github.io/Spritesheet.js"
-    ,"spritewerk": "c-concat-p.github.io/spritewerk"
+    ,"spritewerk": "bildepunkt.github.io/spritewerk"
     ,"stabs": "wnda.github.io/stabs" //CF
     ,"staticinstance": "staticinstance.github.io"
     ,"stats": "js-org.github.io/stats.js.org" //CF
