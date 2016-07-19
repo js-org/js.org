@@ -311,6 +311,7 @@ var cnames_active = {
     ,"ncub8": "ncub8.github.io"
     ,"nearley": "hardmath123.github.io/nearley"
     ,"nemo": "paypal.github.io/nemo"
+    ,"nflow": "nflow-js.github.io"
     ,"ng-wig": "stevermeister.github.io/ngWig"
     ,"ngn": "nodengn.github.io/NGN"
     ,"nick": "nmai.github.io"
