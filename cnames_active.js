@@ -426,6 +426,7 @@ var cnames_active = {
     ,"silky": "wvv8oo.github.com/silky"
     ,"siluna": "pahund.github.io/siluna"
     ,"simulacra": "0x8890.github.io/simulacra"
+    ,"sirkit": "seckwei.github.io/SirKit_CircuitSim"
     ,"sizle": "christoga.github.io/sizle"
     ,"skate": "skatejs.github.io"
     ,"skx": "skx.github.io"
