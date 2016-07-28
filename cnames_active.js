@@ -478,6 +478,7 @@ var cnames_active = {
     ,"ts2jsdoc": "spatools.github.io/ts2jsdoc"
     ,"tsfp": "zhenwenc.github.io/tsfp"
     ,"tweetnacl": "dchest.github.io/tweetnacl-js" //CF
+    ,"tydel": "fahad19.github.io/tydel"
     ,"typeahead": "corejavascript.github.io/typeahead.js" //CF
     ,"u": "hanul.github.io/UJS"
     ,"udnisap": "udnisap.github.io" //CF
