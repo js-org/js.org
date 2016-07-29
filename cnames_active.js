@@ -115,6 +115,7 @@ var cnames_active = {
     ,"community.os": "js.bydiscourse.com"
     ,"concursos": "mteyss.github.io/concursos"
     ,"construyendotrabajo": "mteyss.github.io/construyendotrabajo"
+    ,"contextify": "abemedia.github.io/jquery-contextify"
     ,"cordova-multiplatform-template": "ckgrafico.github.io/Cordova-Multiplatform-Template"
     ,"cote": "dashersw.github.io/cote"
     ,"country": "growmies.github.io/countryjs"
