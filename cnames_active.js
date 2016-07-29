@@ -518,4 +518,5 @@ var cnames_active = {
     ,"zazu": "zazujs.github.io",
     ,"zodiac": "indus.github.io/Zodiac"
     ,"zombie": "assaf.github.io/zombie"
+    ,"slang": "ramadis.github.io/slang"
 }
