@@ -99,7 +99,7 @@ var cnames_active = {
     ,"capital": "capitaljs.github.io/capitaljs" //CF
     ,"cartodb-demo": "opensas.github.io/cartodb-demo"
     ,"central-node": "central-node.github.io"
-    ,"cheerio": "cheeriojs.github.io/cheerio"
+    ,"cheerio": "cheeriojs.github.io/cheerio" //CF
     ,"chernivtsi": "chernivtsijs.github.io"
     ,"chimon2000": "chimon2000.github.io"
     ,"chrislaughlin": "chrislaughlin.github.io"
