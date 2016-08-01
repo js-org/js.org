@@ -408,7 +408,7 @@ var cnames_active = {
     ,"saadmir": "saadmir.github.io"
     ,"sagui": "saguijs.github.io"
     ,"sam":"jdubray.github.io/sam"
-    ,"sanctuary": "sanctuary-js.github.io/sanctuary-site"
+    ,"sanctuary": "sanctuary-js.github.io/sanctuary-site" //CF
     ,"sass": "medialize.github.io/playground.sass.js"
     ,"saulosantiago": "saulosilva.github.io"
     ,"savingthrow": "pdistefano.github.io/SavingThrow.js"
