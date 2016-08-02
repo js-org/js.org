@@ -136,6 +136,7 @@ var cnames_active = {
     ,"deck-of-cards": "pakastin.github.io/deck-of-cards" //CF
     ,"deepu": "deepu105.github.io"
     ,"delegacias-fortaleza": "juliosampaio.github.io/delegacias-fortaleza"
+    ,"denali": "denali-js.github.io/denali"
     ,"denisvieira": "fromdenisvieira.github.io"
     ,"deputy": "ry4nolson.github.io/Deputy"
     ,"detect-resize": "noderaider.github.io/detect-resize"
