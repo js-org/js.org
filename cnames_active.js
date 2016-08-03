@@ -31,8 +31,7 @@
  *
  * NOTICE:      It would be nice if you could keep the alphabetical order.
  *
- *              Because of the risk of abuse, I´m not accepting requests for pages without reasonable content!
- *
+ *              BECAUSE OF THE RISK OF ABUSE, I´M NOT ACCEPTING REQUESTS FOR PAGES WITHOUT REASONABLE CONTENT!
  */
 
 var cnames_active = {
