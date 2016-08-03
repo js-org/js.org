@@ -329,6 +329,7 @@ var cnames_active = {
     ,"nsp": "hanul.github.io/NSP"
     ,"nsptiles": "imthenachoman.github.io/nSPTiles"
     ,"nvanthao": "nvanthao.github.io"
+    ,"nyc": "istanbuljs.github.io" //CF
     ,"objectmodel": "sylvainpolletvillard.github.io/ObjectModel"
     ,"omega": "jczimm.github.io/omega"
     ,"omer": "omeroot.github.io"
