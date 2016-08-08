@@ -194,6 +194,7 @@ var cnames_active = {
     ,"freezer": "pakastin.github.io/freezer"
     ,"frzr": "pakastin.github.io/frzr"
     ,"gal": "galmail.github.io" //noCF?
+    ,"ga":"honzahommer.github.io/ga.js"
     ,"gamedevcontestal": "fromdenisvieira.github.io/gamedevcontestal" //noCF?
     ,"geekr": "ruanyl.github.io/geekr" //noCF?
     ,"genpasswd": "exos.github.io/genpasswd" //noCF?
