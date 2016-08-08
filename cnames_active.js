@@ -45,6 +45,7 @@ var cnames_active = {
     ,"algebra": "nicolewhite.github.io/algebra.js" //noCF?
     ,"aligos.js.org": "aligos.github.io" //noCF?
     ,"all": "learnsomuch.github.io/all.js" //noCF?
+    ,"almin": "almin.github.io"
     ,"alt": "goatslacker.github.io/alt" //noCF?
     ,"anenth": "anenth.github.io" //noCF?
     ,"anggao": "anggao.github.io" //noCF?
