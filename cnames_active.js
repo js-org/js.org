@@ -349,6 +349,7 @@ var cnames_active = {
     ,"paul": "paul-brown.github.io" //noCF?
     ,"pdfutils": "gottox.github.io/node-pdfutils" //noCF?
     ,"pdp-elements": "go4cas.github.io/pdp_elements" //noCF?
+    ,"peekaboo": "nadavspi.github.io/peekaboo.js/",
     ,"penn-sdk": "pennlabs.github.io/penn-sdk-node" //noCF?
     ,"pentris": "justinjc.github.io/pentris2" //noCF?
     ,"pharaoh": "pharaoh-js.github.io" //noCF?
