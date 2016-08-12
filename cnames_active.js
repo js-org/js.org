@@ -83,7 +83,7 @@ var cnames_active = {
     ,"biu": "aprilorange.github.io/biu" //noCF?
     ,"bodybuilder": "danpaz.github.io/bodybuilder" //noCF?
     ,"bootstrap-confirmation": "mistic100.github.io/Bootstrap-Confirmation" //noCF?
-    ,"bornaeon": "bornaeon.github.io" //noCF?
+    ,"bornaeon": "bornaeon.github.io" //noCF
     ,"bplayer": "classicoldsong.github.io/bPlayer" //noCF?
     ,"brandonmerritt": "brandonmerritt.github.io" //noCF?
     ,"braxit": "braxit.github.io" //noCF?
