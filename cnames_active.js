@@ -486,6 +486,7 @@ var cnames_active = {
     ,"treviso": "trevisojs.github.io" //noCF?
     ,"trevorgk": "trevorgk.github.io" //noCF?
     ,"troxel": "troxeljs.github.io"
+    ,"try-catch-finally": "c24w.github.io/try-catch-finally.js"
     ,"ts2jsdoc": "spatools.github.io/ts2jsdoc" //noCF?
     ,"tsfp": "zhenwenc.github.io/tsfp" //noCF?
     ,"tweetnacl": "dchest.github.io/tweetnacl-js"
