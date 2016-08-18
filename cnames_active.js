@@ -99,6 +99,7 @@ var cnames_active = {
     ,"cable": "whatgoodisaroad.github.io/cablejs" //noCF?
     ,"calcy": "odevlord.github.io/Calcy" //noCF?
     ,"calendarios": "helpdev.github.io/Calendarios" //noCF?
+    ,"candyland": "candyland-js.github.io/candyland"
     ,"capital": "capitaljs.github.io/capitaljs"
     ,"cartodb-demo": "opensas.github.io/cartodb-demo" //noCF?
     ,"central-node": "central-node.github.io" //noCF?
