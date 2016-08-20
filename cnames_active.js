@@ -379,6 +379,7 @@ var cnames_active = {
     ,"rag" : "michaellyons.github.io/react-amazon-gallery" //noCF?
     ,"rahul": "rahulsukla.github.io/rahul" //noCF?
     ,"rangeslider": "andreruffert.github.io/rangeslider.js" //noCF?
+    ,"rate-limiter-api": "abhisekp.github.io/rate-limiter-api"
     ,"react-autosuggest": "moroshko.github.io/react-autosuggest" //noCF?
     ,"react-autowhatever": "moroshko.github.io/react-autowhatever" //noCF?
     ,"react-easy-swipe": "leandrowd.github.io/react-easy-swipe" //noCF?
