@@ -82,6 +82,7 @@ var cnames_active = {
     ,"bind-action-dispatchers": "cchamberlain.github.io/bind-action-dispatchers" //noCF?
     ,"biu": "aprilorange.github.io/biu" //noCF?
     ,"bodybuilder": "danpaz.github.io/bodybuilder" //noCF?
+    ,"bombsweeper": "pakastin.github.io/bombsweeper"
     ,"bootstrap-confirmation": "mistic100.github.io/Bootstrap-Confirmation" //noCF?
     ,"bornaeon": "bornaeon.github.io" //noCF
     ,"bplayer": "classicoldsong.github.io/bPlayer" //noCF?
