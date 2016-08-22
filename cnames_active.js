@@ -532,4 +532,5 @@ var cnames_active = {
     ,"zazu": "zazujs.github.io" //noCF?
     ,"zodiac": "indus.github.io/Zodiac" //noCF?
     ,"zombie": "assaf.github.io/zombie" //noCF?
+    ,"jsnippet": "JesseEisen.github.io/snippets" //noCF?
 }
