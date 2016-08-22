@@ -255,6 +255,7 @@ var cnames_active = {
     ,"jets": "nexts.github.io/Jets.js"
     ,"jjlc": "k-yak.github.io/JJLC" //noCF?
     ,"josuedanielbust": "josuedanielbust.github.io" //noCF?
+    ,"jsnippet": "JesseEisen.github.io/snippets" //noCF
     ,"json-schema-faker": "json-schema-faker.github.io/website-jsf" //noCF?
     ,"juancarlosqr": "juancarlosqr.github.io" //noCF?
     ,"julien": "julien.github.io" //noCF?
@@ -532,5 +533,4 @@ var cnames_active = {
     ,"zazu": "zazujs.github.io" //noCF?
     ,"zodiac": "indus.github.io/Zodiac" //noCF?
     ,"zombie": "assaf.github.io/zombie" //noCF?
-    ,"jsnippet": "JesseEisen.github.io/snippets" //noCF?
 }
