@@ -39,6 +39,7 @@ var cnames_active = {
     ,"101": "7anshuai.github.io/js101" //noCF?
     ,"7anshuai": "7anshuai.github.io" //noCF?
     ,"8art": "erayarslan.github.io/8art" //noCF?
+    ,"abhishek":"rpidanny.github.io/personal-collage"
     ,"akase": "cedmax.github.io/akase" //noCF?
     ,"akashacms": "akashacms.github.io" //noCF?
     ,"alasql": "alasql.github.io" //noCF?
