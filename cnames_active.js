@@ -393,6 +393,7 @@ var cnames_active = {
     ,"reactdesktop": "gabrielbull.github.io/react-desktop" //noCF?
     ,"reader": "ruanyl.github.io/js-reader" //noCF?
     ,"realtime": "datamcfly.github.io/realtimejs" //noCF?
+    ,"rebatov": "rebatov.github.io" 
     ,"rebem": "rebem.github.io" //noCF?
     ,"redis": "noderedis.github.io/node_redis" //noCF?
     ,"reduce": "reducejs.github.io" //noCF?
