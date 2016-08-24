@@ -235,6 +235,7 @@ var cnames_active = {
     ,"humanreadable": "matt-sanders.github.io/humanreadable" //noCF?
     ,"hyde": "gheek.github.io/hyde" //noCF?
     ,"hyperform": "hyperform.github.io"
+    ,"ienumerable": "mbasso.github.io/ienumerable"
     ,"igorsantana": "igorsantana.github.io" //noCF?
     ,"iio": "iioinc.github.io/iio.js" //noCF?
     ,"immense": "immense.github.io" //noCF?
