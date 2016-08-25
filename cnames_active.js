@@ -292,6 +292,7 @@ var cnames_active = {
     ,"maxtracking": "maxtracking.github.io" //noCF?
     ,"mc": "magicarbon.github.io/mc" //noCF?
     ,"mde": "lukehorvat.github.io/mde-soundboard" //noCF?
+    ,"medan": "medan-js.github.io" //noCF?
     ,"mediainfo": "buzz.github.io/mediainfo.js"
     ,"medium-header": "danielfeelfine.github.io/medium-header" //noCF?
     ,"meiosis": "foxdonut.github.io/meiosis" //noCF?
