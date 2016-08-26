@@ -395,6 +395,7 @@ var cnames_active = {
     ,"reactabular": "bebraw.github.io/reactabular" //noCF?
     ,"reactdesktop": "gabrielbull.github.io/react-desktop" //noCF?
     ,"reader": "ruanyl.github.io/js-reader" //noCF?
+    ,"readme": "richardlitt.github.io/standard-readme"
     ,"realtime": "datamcfly.github.io/realtimejs" //noCF?
     ,"rebatov": "rebatov.github.io" 
     ,"rebem": "rebem.github.io" //noCF?
