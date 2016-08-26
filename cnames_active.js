@@ -170,6 +170,7 @@ var cnames_active = {
     ,"emeraldcraftmc": "emeraldcraftmc.github.io" //noCF?
     ,"emulisp": "grahack.github.io/EmuLisp" //noCF?
     ,"enclave": "eanplatter.github.io/enclave" //noCF?
+    ,"engui": "engui.github.io"
     ,"eq8": "eq8.github.io"
     ,"eray": "erayarslan.github.io" //noCF?
     ,"erik": "erikroyall.github.com" //noCF?
