@@ -399,6 +399,7 @@ var cnames_active = {
     ,"rebatov": "rebatov.github.io" 
     ,"rebem": "rebem.github.io" //noCF?
     ,"redis": "noderedis.github.io/node_redis" //noCF?
+    ,"redom": "pakastin.github.io/redom"
     ,"reduce": "reducejs.github.io" //noCF?
     ,"redux": "rackt.github.io/redux" //noCF?
     ,"redux-observable": "redux-observable.github.io/redux-observable"
