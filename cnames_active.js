@@ -524,6 +524,7 @@ var cnames_active = {
     ,"vncz": "xvincentx.github.io/vncz"
     ,"voloshins": "voloshins.github.io" //noCF?
     ,"vorpal": "dthree.github.io/vorpal" //noCF?
+    ,"vscode-apielements":"xvincentx.github.io/vscode-apielements"
     ,"vuongdothanhhuy": "vuongdothanhhuy.github.io" //noCF?
     ,"watch": "ducin.github.io/watchjs.org" //noCF?
     ,"wayou": "wayou.github.io" //noCF?
