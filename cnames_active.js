@@ -164,6 +164,7 @@ var cnames_active = {
     ,"du": "ruanyl.github.io/du" //noCF?
     ,"duffn": "duffn.github.io" //noCF?
     ,"dutchakdev": "dutchakdev.github.io" //noCF?
+    ,"ed2k": "sunnyli.github.io/ed2k.js"
     ,"elf": "mytharcher.github.io/elf.js.org" //noCF?
     ,"elliot": "elliotboney.github.io" //noCF?
     ,"ember-cli-page-object": "san650.github.io/ember-cli-page-object" //noCF?
