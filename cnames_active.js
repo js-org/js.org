@@ -467,6 +467,7 @@ var cnames_active = {
     ,"spiritual": "spiritual-js.github.io" //noCF?
     ,"spritesheet": "arcadiogarcia.github.io/Spritesheet.js" //noCF?
     ,"spritewerk": "bildepunkt.github.io/spritewerk" //noCF?
+    ,"squeak": "bertfreudenberg.github.io/SqueakJS"
     ,"stabs": "wnda.github.io/stabs"
     ,"staticinstance": "staticinstance.github.io" //noCF?
     ,"stats": "js-org.github.io/stats.js.org"
