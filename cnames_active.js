@@ -161,6 +161,7 @@ var cnames_active = {
     ,"draft": "D1SC0tech.github.io/draft.js" //noCF?
     ,"drag": "classicoldsong.github.io/Drag.js" //noCF?
     ,"dragon": "sabertazimi.github.io/dragonjs" //noCF?
+    ,"draw": "skillzzjesse.github.io/draw"
     ,"du": "ruanyl.github.io/du" //noCF?
     ,"duffn": "duffn.github.io" //noCF?
     ,"dutchakdev": "dutchakdev.github.io" //noCF?
