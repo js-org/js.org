@@ -322,6 +322,7 @@ var cnames_active = {
     ,"mscgen": "sverweij.github.io/mscgen_js"
     ,"multiple": "nexts.github.io/Multiple.js"
     ,"murder": "rolandpoulter.github.io/murder" //noCF?
+    ,"mvc": "morozovsk.github.io/mvc" //noCF
     ,"mvidalgarcia": "mvidalgarcia.github.io" //noCF?
     ,"mythbusters": "kikobeats.github.io/js-mythbusters"
     ,"n-j-m": "n-j-m.github.io" //noCF?
