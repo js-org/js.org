@@ -344,6 +344,7 @@ var cnames_active = {
     ,"nsptiles": "imthenachoman.github.io/nSPTiles" //noCF?
     ,"nvanthao": "nvanthao.github.io" //noCF?
     ,"objectmodel": "sylvainpolletvillard.github.io/ObjectModel" //noCF?
+    ,"omaha": "omahajs.github.io" //noCF?
     ,"omega": "jczimm.github.io/omega" //noCF?
     ,"omer": "omeroot.github.io" //noCF?
     ,"onedesert": "onedesert.github.io" //noCF?
