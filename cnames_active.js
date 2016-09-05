@@ -208,6 +208,7 @@ var cnames_active = {
     ,"getlink":"ilovecode1.github.io/linkjs" //noCF?
     ,"ghsamm": "ghsamm.github.io" //noCF?
     ,"giant-piano": "moroshko.github.io/giant-piano" //noCF?
+    ,"girls": "girls-js.github.io"
     ,"gol": "goljs.github.io/GoL"
     ,"goodseller": "goodseller.github.io" //noCF?
     ,"gotanda": "gotandajs.github.io" //noCF?
