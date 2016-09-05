@@ -471,6 +471,7 @@ var cnames_active = {
     ,"spritewerk": "bildepunkt.github.io/spritewerk" //noCF?
     ,"squeak": "bertfreudenberg.github.io/SqueakJS"
     ,"stabs": "wnda.github.io/stabs"
+    ,"starratio": "starratio.github.io/star-ratio"
     ,"staticinstance": "staticinstance.github.io" //noCF?
     ,"stats": "js-org.github.io/stats.js.org"
     ,"stego": "zeruniverse.github.io/CryptoStego" //noCF?
