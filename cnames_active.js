@@ -302,6 +302,7 @@ var cnames_active = {
     ,"medium-header": "danielfeelfine.github.io/medium-header" //noCF?
     ,"meiosis": "foxdonut.github.io/meiosis" //noCF?
     ,"mesh": "crcn.github.io/mesh.js.org" //noCF?
+    ,"metadata": "oknosoft.github.io/metadata.js"
     ,"mf": "awto.github.io/mfjs-compiler" //noCF?
     ,"miguelsr": "miguelsr.github.io" //noCF?
     ,"minesweeper": "derflatulator.github.io/minesweeper"
