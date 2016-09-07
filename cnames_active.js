@@ -535,6 +535,7 @@ var cnames_active = {
     ,"watch": "ducin.github.io/watchjs.org" //noCF?
     ,"wayou": "wayou.github.io" //noCF?
     ,"weaver": "maxkfranz.github.io/weaver" //noCF?
+    ,"webpack": "webpack.github.io/webpack.js.org"
     ,"within": "eric-brechemier.github.io/within" //noCF?
     ,"wordywordy": "sverweij.github.io/wordywordy"
     ,"wow": "graingert.github.io/WOW"
