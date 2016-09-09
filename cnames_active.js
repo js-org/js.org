@@ -188,6 +188,7 @@ var cnames_active = {
     ,"facepalm": "santiagogil.github.io/facepalm"
     ,"farfetchd": "achannarasappa.github.io/farfetchd" //noCF?
     ,"fcbosque": "cronopio.github.io/fcbosque" //noCF?
+    ,"feeble": "feeblejs.github.io/feeble" //noCF?
     ,"fela": "rofrischmann.github.io/fela" //noCF?
     ,"festercluck": "festercluck.github.io" //noCF?
     ,"finder": "applait.github.io/finderjs" //noCF?
