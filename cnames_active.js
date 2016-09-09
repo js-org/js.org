@@ -549,6 +549,7 @@ var cnames_active = {
     ,"yargs": "yargs.github.io" //noCF?
     ,"youtim": "mortonfox.github.io/YouTim" //noCF?
     ,"youtube-box": "lucasmonteverde.github.io/youtube-box" //noCF?
+    ,"zanyuyu": "zanseven007.github.io/resume" //noCF?
     ,"zazu": "zazujs.github.io" //noCF?
     ,"zodiac": "indus.github.io/Zodiac" //noCF?
     ,"zombie": "assaf.github.io/zombie" //noCF?
