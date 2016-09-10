@@ -311,8 +311,8 @@ var cnames_active = {
     ,"mingyi": "liangmingyi.github.io" //noCF?
     ,"minigrid": "henriquea.github.io/minigrid" //noCF?
     ,"mis101bird": "mis101bird.github.io" //noCF?
-    ,"mithril": "lhorie.github.io/mithril" //noCF?
     ,"mithril-ja": "shibukawa.github.io/mithril-ja" //noCF?
+    ,"mithril": "lhorie.github.io/mithril" //noCF?
     ,"mmcq": "nikola.github.io/MMCQ" //noCF?
     ,"modalizer": "dungo.github.io/modalizer" //noCF?
     ,"mom": "momjs.github.io/mom"
@@ -411,10 +411,10 @@ var cnames_active = {
     ,"redis": "noderedis.github.io/node_redis" //noCF?
     ,"redom": "pakastin.github.io/redom"
     ,"reduce": "reducejs.github.io" //noCF?
-    ,"redux": "rackt.github.io/redux" //noCF?
     ,"redux-observable": "redux-observable.github.io/redux-observable"
     ,"redux-undo": "omnidan.github.io/redux-undo" //noCF?
     ,"redux-webpack-boilerplate": "cchamberlain.github.io/redux-webpack-boilerplate" //noCF?
+    ,"redux": "rackt.github.io/redux" //noCF?
     ,"reduxible": "pitzcarraldo.github.io/reduxible" //noCF?
     ,"refraction": "mbasso.github.io/refraction" //noCF?
     ,"refujs": "refujs.github.io" //noCF?
@@ -463,8 +463,8 @@ var cnames_active = {
     ,"slang": "ramadis.github.io/slang" //noCF?
     ,"smoove": "abemedia.github.io/jquery-smoove"
     ,"sn0w": "greensn0w.github.io" //noCF?
-    ,"social-likes": "sapegin.github.io/social-likes" //noCF?
     ,"social-likes-next": "sapegin.github.io/social-likes-next" //noCF?
+    ,"social-likes": "sapegin.github.io/social-likes" //noCF?
     ,"sonny": "sonnylazuardi.github.io" //noCF?
     ,"sox": "sox-team.github.io/sox" //noCF?
     ,"spectragram,": "adrianengine.github.io/jquery-spectragram" //noCF?
