@@ -426,7 +426,7 @@ var cnames_active = {
     ,"request": "request.gitbooks.io" //noCF?
     ,"restjs": "daviesgeek.github.io/restjs"
     ,"riotgear": "riotgear.github.io"
-    ,"rishav": "xrisk.github.io/rishav" //noCF?
+    ,"rishav": "xrisk.github.io/rishav"
     ,"rmodal": "zewish.github.io/rmodal.js" //noCF?
     ,"router-advanced": "oldergod.github.io/router-advanced"
     ,"rp": "rpocklin.github.io" //noCF?
