@@ -541,7 +541,6 @@ var cnames_active = {
     ,"webpack": "webpack.github.io/webpack.js.org"
     ,"within": "eric-brechemier.github.io/within" //noCF?
     ,"wordywordy": "sverweij.github.io/wordywordy"
-    ,"wow": "graingert.github.io/WOW"
     ,"wwb": "eqielb.github.io/wwb" //noCF?
     ,"wyfe": "wangyuanstudio.github.io/WYFE" //noCF?
     ,"xprmntl": "xprmntl.github.io" //noCF?
