@@ -421,6 +421,7 @@ var cnames_active = {
     ,"refujs": "refujs.github.io" //noCF?
     ,"relate": "jakelazaroff.github.io/relate" //noCF?
     ,"relax": "relaxjs.github.io"
+    ,"rekit": "supnate.github.io/rekit" //noCF?
     ,"remark": "wooorm.github.io/remark" //noCF?
     ,"rene": "revrng.github.io" //noCF?
     ,"repackage": "cchamberlain.github.io/repackage" //noCF?
