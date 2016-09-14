@@ -192,6 +192,7 @@ var cnames_active = {
     ,"feeble": "feeblejs.github.io/feeble"
     ,"fela": "rofrischmann.github.io/fela" //noCF?
     ,"festercluck": "festercluck.github.io" //noCF?
+    ,"filter":"filterjs.github.io/docs"
     ,"finder": "applait.github.io/finderjs" //noCF?
     ,"fire-hydrant": "cchamberlain.github.io/fire-hydrant" //noCF?
     ,"firenze": "fahad19.github.io/firenze" //noCF?
