@@ -358,7 +358,7 @@ var cnames_active = {
     ,"os": "os-js.github.io/OS.js"
     ,"pad": "ebraminio.github.io/pad.js" //noCF?
     ,"pamatcher": "pmros.github.io/pamatcher" //noCF?
-    ,"panza": "panza-org.github.io/panza-docs" //noCF?
+    ,"panza": "panza-org.github.io/panza-docs" //noCF
     ,"paperclip": "crcn.github.com/paperclip.js.org" //noCF?
     ,"paraiba": "paraibajs.github.io" //noCF?
     ,"parametric-svg": "parametric-svg.github.io" //noCF?
