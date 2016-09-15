@@ -412,6 +412,7 @@ var cnames_active = {
     ,"redis": "noderedis.github.io/node_redis" //noCF?
     ,"redom": "pakastin.github.io/redom"
     ,"reduce": "reducejs.github.io" //noCF?
+    ,"redux-minimal": "https://catalin-luntraru.github.io/redux-minimal"
     ,"redux-observable": "redux-observable.github.io/redux-observable"
     ,"redux-undo": "omnidan.github.io/redux-undo" //noCF?
     ,"redux-webpack-boilerplate": "cchamberlain.github.io/redux-webpack-boilerplate" //noCF?
