@@ -486,6 +486,7 @@ var cnames_active = {
     ,"stego": "zeruniverse.github.io/CryptoStego" //noCF?
     ,"stepan": "stevermeister.github.io" //noCF?
     ,"stephenmccall": "stephenmccall.github.io" //noCF?
+    ,"stuck": "linuxenko.github.io/unstuck-webpack" //noCF
     ,"style": "dhilipsiva.github.io/style.js" //noCF?
     ,"styletron": "rtsao.github.io/styletron" //noCF?
     ,"sudoku": "andreynering.github.io/sudoku"
