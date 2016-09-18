@@ -340,6 +340,7 @@ var cnames_active = {
     ,"ng-wig": "stevermeister.github.io/ngWig" //noCF?
     ,"ngn": "nodengn.github.io/NGN" //noCF?
     ,"nick": "nmai.github.io" //noCF?
+    ,"nite": "manvalls.github.io/nite"
     ,"nktx": "nktx.github.io" //noCF?
     ,"node-browser_process": "caspervonb.github.io/node-browser_process" //noCF?
     ,"nodegarden": "pakastin.github.io/nodegarden"
