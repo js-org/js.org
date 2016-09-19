@@ -350,7 +350,7 @@ var cnames_active = {
     ,"nsptiles": "imthenachoman.github.io/nSPTiles" //noCF?
     ,"nvanthao": "nvanthao.github.io" //noCF?
     ,"objectmodel": "sylvainpolletvillard.github.io/ObjectModel" //noCF?
-    ,"oib": "andreicek.github.io/oib.js" //noCF
+    ,"oib": "andreicek.github.io/oib.js"
     ,"omaha": "omahajs.github.io"
     ,"omega": "jczimm.github.io/omega" //noCF?
     ,"omer": "omeroot.github.io" //noCF?
