@@ -439,6 +439,7 @@ var cnames_active = {
     ,"ruhuman": "ruhuman.github.io" //noCF?
     ,"saadmir": "saadmir.github.io" //noCF?
     ,"sagui": "saguijs.github.io" //noCF?
+    ,"saigon": "saigonjs.github.io"
     ,"sam":"jdubray.github.io/sam" //noCF?
     ,"sanctuary": "sanctuary-js.github.io/sanctuary-site"
     ,"sass": "medialize.github.io/playground.sass.js" //noCF?
