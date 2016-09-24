@@ -409,7 +409,7 @@ var cnames_active = {
     ,"reactdesktop": "gabrielbull.github.io/react-desktop" //noCF?
     ,"reader": "ruanyl.github.io/js-reader" //noCF?
     ,"realtime": "datamcfly.github.io/realtimejs" //noCF?
-    ,"rebatov": "rebatov.github.io" 
+    ,"rebatov": "rebatov.github.io"
     ,"rebem": "rebem.github.io" //noCF?
     ,"redis": "noderedis.github.io/node_redis" //noCF?
     ,"redom": "pakastin.github.io/redom"
@@ -520,6 +520,7 @@ var cnames_active = {
     ,"ts2jsdoc": "spatools.github.io/ts2jsdoc" //noCF?
     ,"tsfp": "zhenwenc.github.io/tsfp" //noCF?
     ,"tweetnacl": "dchest.github.io/tweetnacl-js"
+    ,"two": "jonobr1.github.io/two.js"
     ,"tydel": "fahad19.github.io/tydel" //noCF?
     ,"typeahead": "corejavascript.github.io/typeahead.js"
     ,"u": "hanul.github.io/UJS" //noCF?
