@@ -401,6 +401,7 @@ var cnames_active = {
     ,"rate-limiter-api": "abhisekp.github.io/rate-limiter-api"
     ,"react-autosuggest": "moroshko.github.io/react-autosuggest" //noCF?
     ,"react-autowhatever": "moroshko.github.io/react-autowhatever" //noCF?
+    ,"react-day-picker": "gpbl.github.io/react-day-picker" //noCF?
     ,"react-easy-swipe": "leandrowd.github.io/react-easy-swipe" //noCF?
     ,"react-responsive-carousel": "leandrowd.github.io/react-responsive-carousel" //noCF?
     ,"react-shared": "rvikmanis.github.io/react-shared" //noCF?
