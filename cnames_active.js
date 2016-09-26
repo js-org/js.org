@@ -133,7 +133,7 @@ var cnames_active = {
     ,"crunch": "vukicevic.github.io/crunch" //noCF? (don´t add this in a new PR)
     ,"cssjanus": "cssjanus.github.io"
     ,"cucumber-mink": "adezandee.github.io/cucumber-mink" //noCF? (don´t add this in a new PR)
-    ,"cycle": "cyclejs.github.io" //noCF? (don´t add this in a new PR)
+    ,"cycle": "cyclejs.github.io"
     ,"d4": "joelburget.github.io/d4"
     ,"danmaku": "weizhenye.github.io/Danmaku"
     ,"danmol": "dan12mol.github.io" //noCF? (don´t add this in a new PR)
