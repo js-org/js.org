@@ -363,7 +363,7 @@ var cnames_active = {
     ,"panza": "panza-org.github.io/panza-docs" //noCF
     ,"paperclip": "crcn.github.com/paperclip.js.org" //noCF? (don´t add this in a new PR)
     ,"paraiba": "paraibajs.github.io" //noCF? (don´t add this in a new PR)
-    ,"parallel": "https://parallel-js.github.io/parallel.js/"
+    ,"parallel": "parallel-js.github.io/parallel.js"
     ,"parametric-svg": "parametric-svg.github.io" //noCF? (don´t add this in a new PR)
     ,"pas-ce-soir": "oldergod.github.io/pas-ce-soir"
     ,"pastebin-alert": "ramadhanamizudin.github.io/pastebin-alert.js" //noCF? (don´t add this in a new PR)
