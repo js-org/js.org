@@ -77,6 +77,7 @@ var cnames_active = {
     ,"barcelona": "barcelona-js.github.io/website" //noCF? (don´t add this in a new PR)
     ,"bash": "bashjs.github.io" //noCF? (don´t add this in a new PR)
     ,"basicgame": "basicgame.github.io/basicGame.js" //noCF? (don´t add this in a new PR)
+    ,"bc": "mazko.github.io/bc.js"
     ,"begin": "advanced-webapps-class.github.io/begin" //noCF? (don´t add this in a new PR)
     ,"bestof": "michaelrambeau.github.io/bestofjs" //noCF? (don´t add this in a new PR)
     ,"bildepunkt": "bildepunkt.github.io" //noCF? (don´t add this in a new PR)
