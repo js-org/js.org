@@ -340,6 +340,7 @@ var cnames_active = {
     ,"nflow": "nflow-js.github.io" //noCF? (don´t add this in a new PR)
     ,"ng-wig": "stevermeister.github.io/ngWig" //noCF? (don´t add this in a new PR)
     ,"ngn": "nodengn.github.io/NGN" //noCF? (don´t add this in a new PR)
+    ,"nhan": "nhantdn.github.com/nhan.js.org"
     ,"nick": "nmai.github.io" //noCF? (don´t add this in a new PR)
     ,"nite": "manvalls.github.io/nite"
     ,"nktx": "nktx.github.io" //noCF? (don´t add this in a new PR)
