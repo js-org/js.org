@@ -243,6 +243,7 @@ var cnames_active = {
     ,"humanreadable": "matt-sanders.github.io/humanreadable" //noCF? (don´t add this in a new PR)
     ,"hyde": "gheek.github.io/hyde" //noCF? (don´t add this in a new PR)
     ,"hyperform": "hyperform.github.io"
+    ,"ice": "ggice.github.io" //noCF? (don´t add this in a new PR)
     ,"ienumerable": "mbasso.github.io/ienumerable"
     ,"igorsantana": "igorsantana.github.io" //noCF? (don´t add this in a new PR)
     ,"iio": "iioinc.github.io/iio.js" //noCF? (don´t add this in a new PR)
