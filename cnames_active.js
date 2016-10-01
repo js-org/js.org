@@ -391,6 +391,7 @@ var cnames_active = {
     ,"poegems": "max-arias.github.io/poeGems" //noCF? (don´t add this in a new PR)
     ,"polythene": "arthurclemens.github.io/Polythene" //noCF? (don´t add this in a new PR)
     ,"popper": "fezvrasta.github.io/popper.js"
+    ,"profanity-finder":"gautamkrishnar.github.io/profanity-finder.js"
     ,"qs": "kirjs.github.io/qs.js" //noCF? (don´t add this in a new PR)
     ,"querybuilder": "mistic100.github.io/jQuery-QueryBuilder" //noCF? (don´t add this in a new PR)
     ,"quiz-app": "odevlord.github.io/Quiz-App" //noCF? (don´t add this in a new PR)
