@@ -548,6 +548,7 @@ var cnames_active = {
     ,"voloshins": "voloshins.github.io" //noCF? (don´t add this in a new PR)
     ,"vorpal": "dthree.github.io/vorpal" //noCF? (don´t add this in a new PR)
     ,"vscode-apielements":"xvincentx.github.io/vscode-apielements"
+    ,"vbuild":"egoistian.github.io/vbuild.js.org"
     ,"vuongdothanhhuy": "vuongdothanhhuy.github.io" //noCF? (don´t add this in a new PR)
     ,"watch": "ducin.github.io/watchjs.org" //noCF? (don´t add this in a new PR)
     ,"wayou": "wayou.github.io" //noCF? (don´t add this in a new PR)
