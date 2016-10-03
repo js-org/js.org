@@ -540,6 +540,7 @@ var cnames_active = {
     ,"vaguilar": "vaguilar.github.io" //noCF? (don´t add this in a new PR)
     ,"valentin": "valentinvieriu.github.io" //noCF? (don´t add this in a new PR)
     ,"validator": "ppoffice.github.io/validator.js" //noCF? (don´t add this in a new PR)
+    ,"vbuild":"egoist.github.io/vbuild.js.org"
     ,"vico": "bohdantkachenko.github.io/vico" //noCF? (don´t add this in a new PR)
     ,"vinimdocarmo": "vinimdocarmo.github.com" //noCF? (don´t add this in a new PR)
     ,"visualnovel": "selcher.github.io/visualnoveljs" //noCF? (don´t add this in a new PR)
