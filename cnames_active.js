@@ -132,7 +132,6 @@ var cnames_active = {
     ,"cplayer": "copay.github.io/cPlayer" //noCF? (don´t add this in a new PR)
     ,"cqrs": "adrai.github.io/cqrs" //noCF? (don´t add this in a new PR)
     ,"crunch": "vukicevic.github.io/crunch" //noCF? (don´t add this in a new PR)
-    ,"cssjanus": "cssjanus.github.io"
     ,"cucumber-mink": "adezandee.github.io/cucumber-mink" //noCF? (don´t add this in a new PR)
     ,"cycle": "cyclejs.github.io"
     ,"d4": "joelburget.github.io/d4"
