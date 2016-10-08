@@ -166,7 +166,7 @@ var cnames_active = {
     ,"du": "ruanyl.github.io/du" //noCF? (don´t add this in a new PR)
     ,"duffn": "duffn.github.io" //noCF? (don´t add this in a new PR)
     ,"dutchakdev": "dutchakdev.github.io" //noCF? (don´t add this in a new PR)
-    ,"dynamicsnode": "crisfervil.github.io/DynamicsNode" //noCF? (don´t add this in a new PR)
+    ,"dynamicsnode": "crisfervil.github.io/DynamicsNode"
     ,"ed2k": "sunnyli.github.io/ed2k.js"
     ,"elf": "mytharcher.github.io/elf.js.org" //noCF? (don´t add this in a new PR)
     ,"elliot": "elliotboney.github.io" //noCF? (don´t add this in a new PR)
