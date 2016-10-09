@@ -489,7 +489,7 @@ var cnames_active = {
     ,"spritewerk": "bildepunkt.github.io/spritewerk" //noCF? (don´t add this in a new PR)
     ,"squeak": "bertfreudenberg.github.io/SqueakJS"
     ,"stabs": "wnda.github.io/stabs"
-    ,"starratio": "starratio.github.io/star-ratio"
+    ,"starratio": "starratio.github.io/star-ratio" //noCF
     ,"staticinstance": "staticinstance.github.io" //noCF? (don´t add this in a new PR)
     ,"stats": "js-org.github.io/stats.js.org"
     ,"stego": "zeruniverse.github.io/CryptoStego" //noCF? (don´t add this in a new PR)
