@@ -374,7 +374,7 @@ var cnames_active = {
     ,"paul": "paul-brown.github.io" //noCF? (don´t add this in a new PR)
     ,"pdfutils": "gottox.github.io/node-pdfutils" //noCF? (don´t add this in a new PR)
     ,"pdp-elements": "go4cas.github.io/pdp_elements" //noCF? (don´t add this in a new PR)
-    ,"peekaboo": "nadavspi.github.io/peekaboo.js/",
+    ,"peekaboo": "nadavspi.github.io/peekaboo.js/"
     ,"penn-sdk": "pennlabs.github.io/penn-sdk-node" //noCF? (don´t add this in a new PR)
     ,"pentris": "justinjc.github.io/pentris2" //noCF? (don´t add this in a new PR)
     ,"pharaoh": "pharaoh-js.github.io" //noCF? (don´t add this in a new PR)
@@ -502,6 +502,7 @@ var cnames_active = {
     ,"sulky": "shingle.github.io/sulky" //noCF? (don´t add this in a new PR)
     ,"sunsistemo": "sunsistemo.github.io/sunsistemo"
     ,"supernova": "janbiasi.github.io/supernova" //noCF? (don´t add this in a new PR)
+    ,"swallow": "docs-swallowjs.github.io"
     ,"tagster": "goschevski.github.io/tagster" //noCF? (don´t add this in a new PR)
     ,"talker": "secondstreet.github.io/talker.js" //noCF? (don´t add this in a new PR)
     ,"tap-flux": "technologyadvice.github.io/tap-flux" //noCF? (don´t add this in a new PR)
