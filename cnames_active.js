@@ -147,7 +147,7 @@ var cnames_active = {
     ,"denisvieira": "fromdenisvieira.github.io" //noCF? (don´t add this in a new PR)
     ,"deputy": "ry4nolson.github.io/Deputy" //noCF? (don´t add this in a new PR)
     ,"detect-resize": "noderaider.github.io/detect-resize" //noCF? (don´t add this in a new PR)
-    ,"deterministic": "nodeguy.github.io/Deterministic.js" //noCF? (don´t add this in a new PR)
+    ,"deterministic": "nodeguy.github.io/Deterministic.js"
     ,"dgelong": "alexeyraspopov.github.io/dgelong" //noCF? (don´t add this in a new PR)
     ,"diffract": "ameyms.github.io/diffract" //noCF? (don´t add this in a new PR)
     ,"dinesh": "dineshondev.github.io/dinesh" //noCF? (don´t add this in a new PR)
