@@ -312,7 +312,7 @@ var cnames_active = {
     ,"mf": "awto.github.io/mfjs-compiler" //noCF? (don´t add this in a new PR)
     ,"miguelsr": "miguelsr.github.io" //noCF? (don´t add this in a new PR)
     ,"minesweeper": "derflatulator.github.io/minesweeper"
-    ,"jinya": "chenjinya.github.io" //noCF? (don´t add this in a new PR)
+    ,"jinya": "chenjinya.github.io"
     ,"mingyi": "liangmingyi.github.io" //noCF? (don´t add this in a new PR)
     ,"minigrid": "henriquea.github.io/minigrid" //noCF? (don´t add this in a new PR)
     ,"mis101bird": "mis101bird.github.io" //noCF? (don´t add this in a new PR)
