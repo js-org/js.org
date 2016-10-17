@@ -463,6 +463,7 @@ var cnames_active = {
     ,"segoe-mdl2-css": "ckgrafico.github.io/Segoe-mdl2-assets-css" //noCF? (don´t add this in a new PR)
     ,"select_io": "selaromi.github.io/select_io" //noCF? (don´t add this in a new PR)
     ,"selectric": "lcdsantos.github.io/jQuery-Selectric" //noCF? (don´t add this in a new PR)
+    ,"sendilkumarn": "sendilkumarn/sendilkumarn.github.io"
     ,"serender": "youssefkababe.github.io/serender" //noCF? (don´t add this in a new PR)
     ,"serginator": "serginator.github.io" //noCF? (don´t add this in a new PR)
     ,"serializer": "haircvt.github.io/serializerjs" //noCF? (don´t add this in a new PR)
