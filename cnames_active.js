@@ -247,7 +247,7 @@ var cnames_active = {
     ,"ienumerable": "mbasso.github.io/ienumerable"
     ,"igorsantana": "igorsantana.github.io" //noCF? (don´t add this in a new PR)
     ,"iio": "iioinc.github.io/iio.js" //noCF? (don´t add this in a new PR)
-    ,"imagecapture": "dandv.github.io/imagecapture"
+    ,"imagecapture": "googlechrome.github.io/imagecapture-polyfill/"
     ,"immense": "immense.github.io" //noCF? (don´t add this in a new PR)
     ,"immybox": "immense.github.io/immybox" //noCF? (don´t add this in a new PR)
     ,"ip-address": "beaugunderson.github.io/ip-address" //noCF? (don´t add this in a new PR)
