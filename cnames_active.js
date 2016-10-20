@@ -202,7 +202,7 @@ var cnames_active = {
     ,"firenze": "fahad19.github.io/firenze" //noCF? (don´t add this in a new PR)
     ,"fis": "fex-team.github.io/fis-site" //noCF? (don´t add this in a new PR)
     ,"fld-grd": "mrksbnch.github.io/fld-grd"
-    ,"flexmasonry": "kavanmevada.github.io/flex_masonry" //noCF? (don´t add this in a new PR)
+    ,"flexmasonry": "kavanmevada.github.io/flex_masonry" //noCF
     ,"flowchart": "adrai.github.io/flowchart.js" //noCF? (don´t add this in a new PR)
     ,"fluxoff": "kingscott.github.io/flux-off" //noCF? (don´t add this in a new PR)
     ,"fortune": "fortunejs.github.io/fortune" //noCF? (don´t add this in a new PR)
