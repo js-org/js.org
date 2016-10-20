@@ -512,6 +512,7 @@ var cnames_active = {
     ,"sulky": "shingle.github.io/sulky" //noCF? (don´t add this in a new PR)
     ,"sunsistemo": "sunsistemo.github.io/sunsistemo"
     ,"supernova": "janbiasi.github.io/supernova" //noCF? (don´t add this in a new PR)
+    ,"swichit": "dongryphon.github.io/switchit"
     ,"thingamajig": "hasharray.github.io/thingamajig"
     ,"tagster": "goschevski.github.io/tagster" //noCF? (don´t add this in a new PR)
     ,"talker": "secondstreet.github.io/talker.js" //noCF? (don´t add this in a new PR)
