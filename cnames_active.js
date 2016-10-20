@@ -59,6 +59,7 @@ var cnames_active = {
     ,"aping": "johnnythetank.github.io/apiNG" //noCF? (don´t add this in a new PR)
     ,"aplayer": "diygod.github.io/APlayer" //noCF? (don´t add this in a new PR)
     ,"apod": "marcosflorencio.github.io/angular-apod" //noCF? (don´t add this in a new PR)
+    ,"arc": "diegohaz.github.io/arc"
     ,"argo": "albertosantini.github.io/argo" //noCF? (don´t add this in a new PR)
     ,"arime": "ninbryan.github.io/arime" //noCF? (don´t add this in a new PR)
     ,"artery": "arteryjs.github.io/gh-pages" //noCF? (don´t add this in a new PR)
