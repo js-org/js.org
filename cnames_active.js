@@ -292,6 +292,7 @@ var cnames_active = {
     ,"liguori": "liguori.github.io" //noCF? (don´t add this in a new PR)
     ,"localsync": "noderaider.github.io/localsync" //noCF? (don´t add this in a new PR)
     ,"logo": "js-org.github.io/logo" //noCF? (don´t add this in a new PR)
+    ,"lostyle": "rtsao.github.io/lostyle"
     ,"ls": "links-js.github.io"
     ,"lychee": "Artificial-Engineering.github.io/lycheeJS-website"
     ,"magnet": "magnetjs.github.io/Magnet" //noCF? (don´t add this in a new PR)
