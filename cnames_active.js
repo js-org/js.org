@@ -270,6 +270,7 @@ var cnames_active = {
     ,"jbone": "kupriyanenko.github.io/jbone" //noCF? (don´t add this in a new PR)
     ,"jets": "nexts.github.io/Jets.js"
     ,"jjlc": "k-yak.github.io/JJLC" //noCF? (don´t add this in a new PR)
+    ,"jogja": "jogjajs.github.io" //noCF
     ,"josuedanielbust": "josuedanielbust.github.io" //noCF? (don´t add this in a new PR)
     ,"jsnippet": "JesseEisen.github.io/snippets" //noCF
     ,"json-schema-faker": "json-schema-faker.github.io/website-jsf" //noCF? (don´t add this in a new PR)
