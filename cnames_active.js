@@ -292,6 +292,7 @@ var cnames_active = {
     ,"learnGitBranching": "pcottle.github.io/learnGitBranching" //noCF? (don´t add this in a new PR)
     ,"leipzig": "leipzigjs.github.io" //noCF? (don´t add this in a new PR)
     ,"leoj": "leoaj.github.io" //noCF? (don´t add this in a new PR)
+    ,"lessmd": "linuxenko.github.io/lessmd"
     ,"leste": "atwood-cai.github.io/leste.js" //noCF? (don´t add this in a new PR)
     ,"liguori": "liguori.github.io" //noCF? (don´t add this in a new PR)
     ,"localsync": "noderaider.github.io/localsync" //noCF? (don´t add this in a new PR)
