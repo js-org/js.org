@@ -511,7 +511,7 @@ var cnames_active = {
     ,"stego": "zeruniverse.github.io/CryptoStego" //noCF? (don´t add this in a new PR)
     ,"stepan": "stevermeister.github.io" //noCF? (don´t add this in a new PR)
     ,"stephenmccall": "stephenmccall.github.io" //noCF? (don´t add this in a new PR)
-    ,"stuck": "linuxenko.github.io/unstuck-webpack" //noCF
+    ,"stuck": "linuxenko.github.io/unstuck-webpack"
     ,"style": "dhilipsiva.github.io/style.js" //noCF? (don´t add this in a new PR)
     ,"styletron": "rtsao.github.io/styletron" //noCF? (don´t add this in a new PR)
     ,"sudoku": "andreynering.github.io/sudoku"
