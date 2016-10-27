@@ -583,6 +583,7 @@ var cnames_active = {
     ,"xtype": "lucono.github.io/xtypejs" //noCF? (don´t add this in a new PR)
     ,"y86": "quietshu.github.io/y86" //noCF? (don´t add this in a new PR)
     ,"yah": "thassiov.github.io/yah" //noCF? (don´t add this in a new PR)
+    ,"yamdbf": "zajrik.github.io/yamdbf"
     ,"yargs": "yargs.github.io" //noCF? (don´t add this in a new PR)
     ,"youtim": "mortonfox.github.io/YouTim" //noCF? (don´t add this in a new PR)
     ,"youtube-box": "lucasmonteverde.github.io/youtube-box" //noCF? (don´t add this in a new PR)
