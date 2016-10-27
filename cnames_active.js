@@ -315,6 +315,7 @@ var cnames_active = {
     ,"mediainfo": "buzz.github.io/mediainfo.js"
     ,"medium-header": "danielfeelfine.github.io/medium-header" //noCF? (don´t add this in a new PR)
     ,"meiosis": "foxdonut.github.io/meiosis" //noCF? (don´t add this in a new PR)
+    ,"mern": "IamMohaiminul.github.io/MERN"
     ,"mesh": "crcn.github.io/mesh.js.org" //noCF? (don´t add this in a new PR)
     ,"metadata": "oknosoft.github.io/metadata.js"
     ,"mf": "awto.github.io/mfjs-compiler" //noCF? (don´t add this in a new PR)
