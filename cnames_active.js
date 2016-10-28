@@ -194,6 +194,7 @@ var cnames_active = {
     ,"farfetchd": "achannarasappa.github.io/farfetchd" //noCF? (don´t add this in a new PR)
     ,"fariz": "farizdev.github.io/fariz"
     ,"fcbosque": "cronopio.github.io/fcbosque" //noCF? (don´t add this in a new PR)
+    ,"fe": "leecade.github.io/fe.js.org"
     ,"feeble": "feeblejs.github.io/feeble"
     ,"fela": "rofrischmann.github.io/fela" //noCF? (don´t add this in a new PR)
     ,"festercluck": "festercluck.github.io" //noCF? (don´t add this in a new PR)
