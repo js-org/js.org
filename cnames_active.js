@@ -433,6 +433,7 @@ var cnames_active = {
     ,"reactdesktop": "gabrielbull.github.io/react-desktop" //noCF? (don´t add this in a new PR)
     ,"reader": "ruanyl.github.io/js-reader" //noCF? (don´t add this in a new PR)
     ,"realtime": "datamcfly.github.io/realtimejs" //noCF? (don´t add this in a new PR)
+    ,"reassign": "hasharray.github.io/reassign.js"
     ,"rebatov": "rebatov.github.io"
     ,"rebem": "rebem.github.io" //noCF? (don´t add this in a new PR)
     ,"redis": "noderedis.github.io/node_redis" //noCF? (don´t add this in a new PR)
@@ -450,6 +451,7 @@ var cnames_active = {
     ,"relate": "jakelazaroff.github.io/relate" //noCF? (don´t add this in a new PR)
     ,"remark": "wooorm.github.io/remark" //noCF? (don´t add this in a new PR)
     ,"rene": "revrng.github.io" //noCF? (don´t add this in a new PR)
+    ,"revaluate" "hasharray.github.io/revaluate.js"
     ,"repackage": "cchamberlain.github.io/repackage" //noCF? (don´t add this in a new PR)
     ,"request": "request.gitbooks.io" //noCF? (don´t add this in a new PR)
     ,"restjs": "daviesgeek.github.io/restjs"
