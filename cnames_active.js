@@ -453,6 +453,7 @@ var cnames_active = {
     ,"repackage": "cchamberlain.github.io/repackage" //noCF? (don´t add this in a new PR)
     ,"request": "request.gitbooks.io" //noCF? (don´t add this in a new PR)
     ,"restjs": "daviesgeek.github.io/restjs"
+    ,"reshift": "hasharray.github.io/reshift.js"
     ,"riotgear": "riotgear.github.io"
     ,"rishav": "xrisk.github.io/rishav"
     ,"rivki": "mikqi.github.io"
