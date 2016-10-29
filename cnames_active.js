@@ -379,7 +379,7 @@ var cnames_active = {
     ,"os": "os-js.github.io/OS.js"
     ,"pad": "ebraminio.github.io/pad.js" //noCF? (don´t add this in a new PR)
     ,"pamatcher": "pmros.github.io/pamatcher" //noCF? (don´t add this in a new PR)
-    ,"pantarei": "pantareijs.github.io/pantarei"
+    ,"pantarei": "pantareijs.github.io/pantarei.js.org"
     ,"panza": "panza-org.github.io/panza-docs" //noCF
     ,"paperclip": "crcn.github.com/paperclip.js.org" //noCF? (don´t add this in a new PR)
     ,"paraiba": "paraibajs.github.io" //noCF? (don´t add this in a new PR)
