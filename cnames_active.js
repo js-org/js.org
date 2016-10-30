@@ -430,7 +430,7 @@ var cnames_active = {
     ,"react-responsive-carousel": "leandrowd.github.io/react-responsive-carousel" //noCF? (don´t add this in a new PR)
     ,"react-shared": "rvikmanis.github.io/react-shared" //noCF? (don´t add this in a new PR)
     ,"react-styleguidist": "sapegin.github.io/react-styleguidist" //noCF? (don´t add this in a new PR)
-    ,"reactabular": "bebraw.github.io/reactabular" //noCF? (don´t add this in a new PR)
+    ,"reactabular": "bebraw.github.io/reactabular"
     ,"reactdesktop": "gabrielbull.github.io/react-desktop" //noCF? (don´t add this in a new PR)
     ,"reader": "ruanyl.github.io/js-reader" //noCF? (don´t add this in a new PR)
     ,"realtime": "datamcfly.github.io/realtimejs" //noCF? (don´t add this in a new PR)
