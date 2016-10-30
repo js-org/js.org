@@ -121,6 +121,7 @@ var cnames_active = {
     ,"cmbhackjs2013": "cmbjs.github.io/cmbHackjs2013"
     ,"cn.redux": "camsong.github.io/redux-in-chinese" //noCF? (don´t add this in a new PR)
     ,"codemade": "codemade.github.io" //noCF? (don´t add this in a new PR)
+    ,"coffea": "caffeinery.github.io/coffea"
     ,"collegequest": "schoolhouserock.github.io/CollegeQuest" //noCF? (don´t add this in a new PR)
     ,"comixngn": "seun40.github.io/comix-ngn" //noCF? (don´t add this in a new PR)
     ,"commandfox": "commandfox.github.io/mc-tools" //noCF? (don´t add this in a new PR)
