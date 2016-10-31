@@ -109,6 +109,7 @@ var cnames_active = {
     ,"capital": "capitaljs.github.io/capitaljs"
     ,"cartodb-demo": "opensas.github.io/cartodb-demo" //noCF? (don´t add this in a new PR)
     ,"central-node": "central-node.github.io" //noCF? (don´t add this in a new PR)
+    ,"checklist": "hellogreg.github.io/checklist"
     ,"cheerio": "cheeriojs.github.io/cheerio"
     ,"chernivtsi": "chernivtsijs.github.io" //noCF? (don´t add this in a new PR)
     ,"chimon2000": "chimon2000.github.io" //noCF? (don´t add this in a new PR)
