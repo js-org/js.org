@@ -423,6 +423,7 @@ var cnames_active = {
     ,"rahul": "rahulsukla.github.io/rahul" //noCF? (don´t add this in a new PR)
     ,"rangeslider": "andreruffert.github.io/rangeslider.js" //noCF? (don´t add this in a new PR)
     ,"rate-limiter-api": "abhisekp.github.io/rate-limiter-api"
+    ,"react-atomic-ui": "react-atomic.github.io/react-atomic-ui"
     ,"react-autosuggest": "moroshko.github.io/react-autosuggest" //noCF? (don´t add this in a new PR)
     ,"react-autowhatever": "moroshko.github.io/react-autowhatever" //noCF? (don´t add this in a new PR)
     ,"react-day-picker": "gpbl.github.io/react-day-picker" //noCF
