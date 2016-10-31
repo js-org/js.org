@@ -586,7 +586,7 @@ var cnames_active = {
     ,"wwb": "eqielb.github.io/wwb" //noCF? (don´t add this in a new PR)
     ,"wyfe": "wangyuanstudio.github.io/WYFE" //noCF? (don´t add this in a new PR)
     ,"xprmntl": "xprmntl.github.io" //noCF? (don´t add this in a new PR)
-    ,"xn--z7h": "daniloprates.github.io/xn--z7h" //noCF? (don´t add this in a new PR)
+    ,"xn--z7h": "daniloprates.github.io/xn--z7h"
     ,"xto6": "mohebifar.github.io/xto6" //noCF? (don´t add this in a new PR)
     ,"xtype": "lucono.github.io/xtypejs" //noCF? (don´t add this in a new PR)
     ,"y86": "quietshu.github.io/y86" //noCF? (don´t add this in a new PR)
