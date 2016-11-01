@@ -238,6 +238,7 @@ var cnames_active = {
     ,"gully": "nmabhinandan.github.io/gully" //noCF? (don´t add this in a new PR)
     ,"gun": "gundb.github.io" //noCF? (don´t add this in a new PR)
     ,"guuibayer": "guuibayer.github.io" //noCF? (don´t add this in a new PR)
+    ,"gyps": "huijari.github.io/Gyps"
     ,"gyre": "wridder.github.io/GyreJS" //noCF? (don´t add this in a new PR)
     ,"h": "makenowjust.github.io/h.js" //noCF? (don´t add this in a new PR)
     ,"halil" : "hibrahimsafak.github.io" //noCF? (don´t add this in a new PR)
