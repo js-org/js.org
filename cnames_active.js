@@ -568,6 +568,7 @@ var cnames_active = {
     ,"unexpected": "unexpectedjs.github.io" //noCF? (don´t add this in a new PR)
     ,"uni": "arcadiogarcia.github.io/UNIJS" //noCF? (don´t add this in a new PR)
     ,"upresent": "bobbybee.github.io/uPresent" //noCF? (don´t add this in a new PR)
+    ,"utscrooms": "sunakujira1.github.io/UTSCRooms"
     ,"uvcharts": "imaginea.github.io/uvCharts" //noCF? (don´t add this in a new PR)
     ,"vaguilar": "vaguilar.github.io" //noCF? (don´t add this in a new PR)
     ,"valentin": "valentinvieriu.github.io" //noCF? (don´t add this in a new PR)
