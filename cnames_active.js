@@ -137,6 +137,7 @@ var cnames_active = {
     ,"country": "growmies.github.io/countryjs" //noCF? (don´t add this in a new PR)
     ,"cplayer": "copay.github.io/cPlayer" //noCF? (don´t add this in a new PR)
     ,"cqrs": "adrai.github.io/cqrs" //noCF? (don´t add this in a new PR)
+    ,"cracked": "http://billorcutt.github.io/Cracked" //noCF? (don´t add this in a new PR)
     ,"crunch": "vukicevic.github.io/crunch" //noCF? (don´t add this in a new PR)
     ,"cucumber-mink": "adezandee.github.io/cucumber-mink" //noCF? (don´t add this in a new PR)
     ,"cycle": "cyclejs.github.io"
