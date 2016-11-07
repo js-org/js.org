@@ -481,6 +481,7 @@ var cnames_active = {
     ,"sass": "medialize.github.io/playground.sass.js" //noCF? (don´t add this in a new PR)
     ,"saulosantiago": "saulosilva.github.io" //noCF? (don´t add this in a new PR)
     ,"savingthrow": "pdistefano.github.io/SavingThrow.js" //noCF? (don´t add this in a new PR)
+    ,"schaechinger": "schaechinger.github.io"
     ,"schisma": "schisma.github.io/opensource" //noCF? (don´t add this in a new PR)
     ,"scrolledin": "manuelromeroramos.github.io/scrolledIn.js" //noCF? (don´t add this in a new PR)
     ,"sdk-design": "huei90.github.io/javascript-sdk-design" //noCF? (don´t add this in a new PR)
