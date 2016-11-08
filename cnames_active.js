@@ -319,6 +319,7 @@ var cnames_active = {
     ,"matthias-schuetz": "matthias-schuetz.github.io" //noCF? (don´t add this in a new PR)
     ,"maxnachlinger": "maxnachlinger.github.io" //noCF? (don´t add this in a new PR)
     ,"maxtracking": "maxtracking.github.io" //noCF? (don´t add this in a new PR)
+    ,"marcosflorencio": "marcosflorencio.github.io"
     ,"mc": "magicarbon.github.io/mc" //noCF? (don´t add this in a new PR)
     ,"mde": "lukehorvat.github.io/mde-soundboard" //noCF? (don´t add this in a new PR)
     ,"medan": "medan-js.github.io" //noCF
