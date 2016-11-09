@@ -557,6 +557,7 @@ var cnames_active = {
     ,"tinylinux": "e8johan.github.io/tiny-js" //noCF? (don´t add this in a new PR)
     ,"toad": "wnda.github.io/toad"
     ,"torino": "torinojs.github.io" //noCF? (don´t add this in a new PR)
+	,"torlondev": "torlondev.github.io"
     ,"treviso": "trevisojs.github.io" //noCF? (don´t add this in a new PR)
     ,"trevorgk": "trevorgk.github.io" //noCF? (don´t add this in a new PR)
     ,"troxel": "troxeljs.github.io"
