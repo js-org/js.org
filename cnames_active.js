@@ -415,6 +415,7 @@ var cnames_active = {
     ,"planisphere": "dai-shi.github.io/planisphere-site" //noCF? (don´t add this in a new PR)
     ,"pliers": "pliersjs.github.io" //noCF? (don´t add this in a new PR)
     ,"poegems": "max-arias.github.io/poeGems" //noCF? (don´t add this in a new PR)
+    ,"pogo": "aaronduino.github.io/pogo"
     ,"polythene": "arthurclemens.github.io/Polythene" //noCF? (don´t add this in a new PR)
     ,"popper": "fezvrasta.github.io/popper.js"
     ,"profanity-finder":"gautamkrishnar.github.io/profanity-finder.js"
