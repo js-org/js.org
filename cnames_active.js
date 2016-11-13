@@ -256,6 +256,7 @@ var cnames_active = {
     ,"hooloo": "hooloo.github.io" //noCF? (don´t add this in a new PR)
     ,"human": "human-js.gitbooks.io" //noCF? (don´t add this in a new PR)
     ,"humanreadable": "matt-sanders.github.io/humanreadable" //noCF? (don´t add this in a new PR)
+    ,"hxxbit": "hxxbit.github.io" 
     ,"hyde": "gheek.github.io/hyde" //noCF? (don´t add this in a new PR)
     ,"hyperform": "hyperform.github.io"
     ,"ienumerable": "mbasso.github.io/ienumerable"
