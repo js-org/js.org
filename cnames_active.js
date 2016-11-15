@@ -74,6 +74,7 @@ var cnames_active = {
     ,"avi": "avinassh.github.io/avi" //noCF? (don´t add this in a new PR)
     ,"avner": "avnerus.github.io" //noCF? (don´t add this in a new PR)
     ,"awal": "awalGarg.github.io" //noCF? (don´t add this in a new PR)
+    ,"awesomehub": "awesomehub.netlify.com"
     ,"awk": "42ua.github.io/awk" //noCF? (don´t add this in a new PR)
     ,"backlog": "backlog-js.github.io/backlog.js.org" //noCF? (don´t add this in a new PR)
     ,"badger": "just-glue-it.github.io/badger" //noCF? (don´t add this in a new PR)
