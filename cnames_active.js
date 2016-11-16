@@ -219,6 +219,7 @@ var cnames_active = {
     ,"freemarker": "ijse.github.io/freemarker.js" //noCF? (don´t add this in a new PR)
     ,"freezer": "pakastin.github.io/freezer"
     ,"frzr": "pakastin.github.io/frzr"
+    ,"g": "nodebox.github.io/g.js"
     ,"gal": "galmail.github.io" //noCF? (don´t add this in a new PR)
     ,"gamedevcontestal": "fromdenisvieira.github.io/gamedevcontestal" //noCF? (don´t add this in a new PR)
     ,"geekr": "ruanyl.github.io/geekr" //noCF? (don´t add this in a new PR)
