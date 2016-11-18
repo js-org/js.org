@@ -36,7 +36,7 @@
 
 var cnames_active = {
     "": "js-org.github.io"
-    ,"100dayz": "deadcoder0904.github.io/100dayz" 
+    ,"100dayz": "deadcoder0904.github.io/100dayz"
     ,"101": "7anshuai.github.io/js101" //noCF? (don´t add this in a new PR)
     ,"7anshuai": "7anshuai.github.io" //noCF? (don´t add this in a new PR)
     ,"8art": "erayarslan.github.io/8art" //noCF? (don´t add this in a new PR)
@@ -259,7 +259,7 @@ var cnames_active = {
     ,"hooloo": "hooloo.github.io" //noCF? (don´t add this in a new PR)
     ,"human": "human-js.gitbooks.io" //noCF? (don´t add this in a new PR)
     ,"humanreadable": "matt-sanders.github.io/humanreadable" //noCF? (don´t add this in a new PR)
-    ,"hxxbit": "hxxbit.github.io" 
+    ,"hxxbit": "hxxbit.github.io"
     ,"hyde": "gheek.github.io/hyde" //noCF? (don´t add this in a new PR)
     ,"hyperform": "hyperform.github.io"
     ,"ienumerable": "mbasso.github.io/ienumerable"
@@ -411,6 +411,7 @@ var cnames_active = {
     ,"peekaboo": "nadavspi.github.io/peekaboo.js/",
     ,"penn-sdk": "pennlabs.github.io/penn-sdk-node" //noCF? (don´t add this in a new PR)
     ,"pentris": "justinjc.github.io/pentris2" //noCF? (don´t add this in a new PR)
+    ,"pguth": "pguth.github.io/perguth.de"
     ,"pharaoh": "pharaoh-js.github.io" //noCF? (don´t add this in a new PR)
     ,"phobos": "phobosjs.github.io/phobos.js"
     ,"photo-sphere-viewer": "mistic100.github.io/Photo-Sphere-Viewer" //noCF? (don´t add this in a new PR)
