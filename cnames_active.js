@@ -411,7 +411,7 @@ var cnames_active = {
     ,"peekaboo": "nadavspi.github.io/peekaboo.js/",
     ,"penn-sdk": "pennlabs.github.io/penn-sdk-node" //noCF? (don´t add this in a new PR)
     ,"pentris": "justinjc.github.io/pentris2" //noCF? (don´t add this in a new PR)
-    ,"pguth": "pguth.github.io/perguth.de"
+    ,"pguth": "pguth.github.io"
     ,"pharaoh": "pharaoh-js.github.io" //noCF? (don´t add this in a new PR)
     ,"phobos": "phobosjs.github.io/phobos.js"
     ,"photo-sphere-viewer": "mistic100.github.io/Photo-Sphere-Viewer" //noCF? (don´t add this in a new PR)
