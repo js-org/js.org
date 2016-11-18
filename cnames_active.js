@@ -446,6 +446,7 @@ var cnames_active = {
     ,"react-day-picker": "gpbl.github.io/react-day-picker" //noCF
     ,"react-easy-swipe": "leandrowd.github.io/react-easy-swipe" //noCF? (don´t add this in a new PR)
     ,"react-entanglement": "react-entanglement.github.io"
+    ,"react-hint": "slmgc.github.io/react-hint"
     ,"react-responsive-carousel": "leandrowd.github.io/react-responsive-carousel" //noCF? (don´t add this in a new PR)
     ,"react-shared": "rvikmanis.github.io/react-shared" //noCF? (don´t add this in a new PR)
     ,"react-styleguidist": "sapegin.github.io/react-styleguidist" //noCF? (don´t add this in a new PR)
