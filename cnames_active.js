@@ -242,6 +242,7 @@ var cnames_active = {
     ,"guillotine": "matiasgagliano.github.io/guillotine" //noCF? (don´t add this in a new PR)
     ,"guiseek": "guiseek.github.io" //noCF? (don´t add this in a new PR)
     ,"gully": "nmabhinandan.github.io/gully" //noCF? (don´t add this in a new PR)
+    ,"gulpkit": "gulpkit.github.io/GulpKit"
     ,"gun": "gundb.github.io" //noCF? (don´t add this in a new PR)
     ,"guuibayer": "guuibayer.github.io" //noCF? (don´t add this in a new PR)
     ,"gyps": "huijari.github.io/Gyps"
