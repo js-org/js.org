@@ -264,6 +264,7 @@ var cnames_active = {
     ,"hyde": "gheek.github.io/hyde" //noCF? (don´t add this in a new PR)
     ,"hyperform": "hyperform.github.io"
     ,"ienumerable": "mbasso.github.io/ienumerable"
+    ,"iffe": "iffe-team.github.io"
     ,"igorsantana": "igorsantana.github.io" //noCF? (don´t add this in a new PR)
     ,"iio": "iioinc.github.io/iio.js" //noCF? (don´t add this in a new PR)
     ,"imagecapture": "googlechrome.github.io/imagecapture-polyfill/"
