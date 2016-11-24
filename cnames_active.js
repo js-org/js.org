@@ -299,6 +299,7 @@ var cnames_active = {
     ,"juno-106": "stevengoldberg.github.io/juno-106" //noCF? (don´t add this in a new PR)
     ,"jus": "zeke.github.io/jus.js.org" //noCF? (don´t add this in a new PR)
     ,"jwt-autorefresh": "cchamberlain.github.io/jwt-autorefresh" //noCF? (don´t add this in a new PR)
+    ,"kainy": "kainy.github.io/js.org"
     ,"kalm": "fed135.github.io/kalm.github.io" //noCF? (don´t add this in a new PR)
     ,"karl": "karlcoelho.github.io/portfolio" //noCF? (don´t add this in a new PR)
     ,"kelvinho": "kelvin2go.github.io" //noCF? (don´t add this in a new PR)
