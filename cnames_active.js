@@ -264,6 +264,7 @@ var cnames_active = {
     ,"hyde": "gheek.github.io/hyde" //noCF? (don´t add this in a new PR)
     ,"hyperform": "hyperform.github.io"
     ,"ienumerable": "mbasso.github.io/ienumerable"
+    ,"iffe": "iffe-team.github.io"
     ,"igorsantana": "igorsantana.github.io" //noCF? (don´t add this in a new PR)
     ,"iio": "iioinc.github.io/iio.js" //noCF? (don´t add this in a new PR)
     ,"imagecapture": "googlechrome.github.io/imagecapture-polyfill/"
@@ -298,6 +299,7 @@ var cnames_active = {
     ,"juno-106": "stevengoldberg.github.io/juno-106" //noCF? (don´t add this in a new PR)
     ,"jus": "zeke.github.io/jus.js.org" //noCF? (don´t add this in a new PR)
     ,"jwt-autorefresh": "cchamberlain.github.io/jwt-autorefresh" //noCF? (don´t add this in a new PR)
+    ,"kainy": "kainy.github.io/js.org"
     ,"kalm": "fed135.github.io/kalm.github.io" //noCF? (don´t add this in a new PR)
     ,"karl": "karlcoelho.github.io/portfolio" //noCF? (don´t add this in a new PR)
     ,"kelvinho": "kelvin2go.github.io" //noCF? (don´t add this in a new PR)
