@@ -389,6 +389,7 @@ var cnames_active = {
     ,"nsptiles": "imthenachoman.github.io/nSPTiles" //noCF? (don´t add this in a new PR)
     ,"nvanthao": "nvanthao.github.io" //noCF? (don´t add this in a new PR)
     ,"objectmodel": "sylvainpolletvillard.github.io/ObjectModel" //noCF? (don´t add this in a new PR)
+    ,"oec": "crellison.github.io/oec"
     ,"oib": "andreicek.github.io/oib.js"
     ,"omaha": "omahajs.github.io"
     ,"omega": "jczimm.github.io/omega" //noCF? (don´t add this in a new PR)
