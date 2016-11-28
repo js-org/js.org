@@ -384,6 +384,7 @@ var cnames_active = {
     ,"nick": "nmai.github.io" //noCF? (don´t add this in a new PR)
     ,"nite": "manvalls.github.io/nite"
     ,"nktx": "nktx.github.io" //noCF? (don´t add this in a new PR)
+    ,"node-atlas": "haeresis.github.io/NodeAtlas" //noCF? (don´t add this in a new PR)
     ,"node-browser_process": "caspervonb.github.io/node-browser_process" //noCF? (don´t add this in a new PR)
     ,"nodegarden": "pakastin.github.io/nodegarden"
     ,"noted": "carter-slade.github.io/Noted-/" //noCF? (don´t add this in a new PR)
