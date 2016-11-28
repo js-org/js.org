@@ -321,7 +321,6 @@ var cnames_active = {
     ,"lostyle": "rtsao.github.io/lostyle"
     ,"ls": "links-js.github.io"
     ,"lychee": "Artificial-Engineering.github.io/lycheeJS-website"
-    ,"lydia": "austinhuang0131.github.io/lydia-1"
     ,"magnet": "magnetjs.github.io/Magnet" //noCF? (don´t add this in a new PR)
     ,"markmsmith": "markmsmith.github.io"
     ,"martin": "martinbutler.github.io" //noCF? (don´t add this in a new PR)
@@ -341,6 +340,7 @@ var cnames_active = {
     ,"mern": "IamMohaiminul.github.io/MERN"
     ,"mesh": "crcn.github.io/mesh.js.org" //noCF? (don´t add this in a new PR)
     ,"metadata": "oknosoft.github.io/metadata.js"
+    ,"metagon": "austinhuang0131.github.io/metagon"
     ,"mf": "awto.github.io/mfjs-compiler" //noCF? (don´t add this in a new PR)
     ,"miguelsr": "miguelsr.github.io" //noCF? (don´t add this in a new PR)
     ,"minesweeper": "derflatulator.github.io/minesweeper"
