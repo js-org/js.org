@@ -164,6 +164,7 @@ var cnames_active = {
     ,"distillery": "achannarasappa.github.io/distillery" //noCF? (don´t add this in a new PR)
     ,"dmitry": "dmitry-zaets.github.io" //noCF? (don´t add this in a new PR)
     ,"dns": "js-org.github.io/dns.js.org"
+    ,"docsify": "QingWei-Li.github.io/docsify"
     ,"documentation": "documentationjs.github.io" //noCF? (don´t add this in a new PR)
     ,"domtastic": "webpro.github.io/DOMtastic"
     ,"donavon": "donavon.github.io" //noCF? (don´t add this in a new PR)
