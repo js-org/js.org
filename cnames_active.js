@@ -354,6 +354,7 @@ var cnames_active = {
     ,"mmcq": "nikola.github.io/MMCQ" //noCF? (don´t add this in a new PR)
     ,"modalizer": "dungo.github.io/modalizer" //noCF? (don´t add this in a new PR)
     ,"mog-script": "mog-script.github.io"
+    ,"mol": "eigenmethod.github.io/mol"
     ,"mom": "momjs.github.io/mom"
     ,"momentum": "wemakeweb.github.io/momentum" //noCF? (don´t add this in a new PR)
     ,"monkberry": "monkberry.github.io" //noCF? (don´t add this in a new PR)
