@@ -94,6 +94,7 @@ var cnames_active = {
     ,"bombsweeper": "pakastin.github.io/bombsweeper"
     ,"bootstrap-confirmation": "mistic100.github.io/Bootstrap-Confirmation" //noCF? (don´t add this in a new PR)
     ,"bornaeon": "bornaeon.github.io" //noCF
+    ,"box": "capacitorset.github.io/box-js" //noCF
     ,"bplayer": "classicoldsong.github.io/bPlayer" //noCF? (don´t add this in a new PR)
     ,"brandonmerritt": "brandonmerritt.github.io" //noCF? (don´t add this in a new PR)
     ,"braxit": "braxit.github.io" //noCF? (don´t add this in a new PR)
