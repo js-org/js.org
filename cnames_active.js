@@ -163,6 +163,7 @@ var cnames_active = {
     ,"dinesh": "dineshondev.github.io/dinesh" //noCF? (don´t add this in a new PR)
     ,"discord": "hydrabolt.github.io/discord.js"
     ,"distillery": "achannarasappa.github.io/distillery" //noCF? (don´t add this in a new PR)
+    ,"distri": "flarp.github.io/Distri-JS"
     ,"dmitry": "dmitry-zaets.github.io" //noCF? (don´t add this in a new PR)
     ,"dns": "js-org.github.io/dns.js.org"
     ,"docsify": "QingWei-Li.github.io/docsify"
