@@ -439,6 +439,7 @@ var cnames_active = {
     ,"pogo": "aaronduino.github.io/pogo"
     ,"polythene": "arthurclemens.github.io/Polythene" //noCF? (don´t add this in a new PR)
     ,"popper": "fezvrasta.github.io/popper.js"
+    ,"porter": "ahopkins.github.io/porterjs" //CF
     ,"profanity-finder":"gautamkrishnar.github.io/profanity-finder.js"
     ,"proteic.js.org":"proteus-h2020.github.io/proteic"
     ,"qs": "kirjs.github.io/qs.js" //noCF? (don´t add this in a new PR)
