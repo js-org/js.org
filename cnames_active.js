@@ -526,6 +526,7 @@ var cnames_active = {
     ,"shedali": "shedali.github.io" //noCF? (don´t add this in a new PR)
     ,"shortquery": "s--minecraft.gitbooks.io/shortquery-js" //noCF? (don´t add this in a new PR)
     ,"shorttompkins": "shorttompkins.github.io" //noCF? (don´t add this in a new PR)
+    ,"silfr": "silfr.github.io/iterativecolor"
     ,"silky": "wvv8oo.github.com/silky" //noCF? (don´t add this in a new PR)
     ,"siluna": "pahund.github.io/siluna" //noCF? (don´t add this in a new PR)
     ,"simulacra": "0x8890.github.io/simulacra" //noCF? (don´t add this in a new PR)
