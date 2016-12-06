@@ -420,6 +420,7 @@ var cnames_active = {
     ,"pdfutils": "gottox.github.io/node-pdfutils" //noCF? (don´t add this in a new PR)
     ,"pdp-elements": "go4cas.github.io/pdp_elements" //noCF? (don´t add this in a new PR)
     ,"peekaboo": "nadavspi.github.io/peekaboo.js/",
+    ,"pegboard": "mplewis.github.io/pegboard",
     ,"penn-sdk": "pennlabs.github.io/penn-sdk-node" //noCF? (don´t add this in a new PR)
     ,"pentris": "justinjc.github.io/pentris2" //noCF? (don´t add this in a new PR)
     ,"pguth": "pguth.github.io"
