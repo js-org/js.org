@@ -471,6 +471,7 @@ var cnames_active = {
     ,"reassign": "hasharray.github.io/reassign.js"
     ,"rebatov": "rebatov.github.io"
     ,"rebem": "rebem.github.io" //noCF? (don´t add this in a new PR)
+    ,"recycle": "recyclejs.github.io/recycle"
     ,"redis": "noderedis.github.io/node_redis" //noCF? (don´t add this in a new PR)
     ,"redom": "pakastin.github.io/redom"
     ,"reduce": "reducejs.github.io" //noCF? (don´t add this in a new PR)
