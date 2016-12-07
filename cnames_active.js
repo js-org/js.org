@@ -535,6 +535,7 @@ var cnames_active = {
     ,"skate": "skatejs.github.io" //noCF? (don´t add this in a new PR)
     ,"skx": "skx.github.io" //noCF? (don´t add this in a new PR)
     ,"slang": "ramadis.github.io/slang" //noCF? (don´t add this in a new PR)
+	,"slideout": "mango.github.io/slideout"
     ,"smoove": "abemedia.github.io/jquery-smoove"
     ,"sn0w": "greensn0w.github.io" //noCF? (don´t add this in a new PR)
     ,"social-likes-next": "sapegin.github.io/social-likes-next" //noCF? (don´t add this in a new PR)
