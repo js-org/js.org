@@ -500,6 +500,7 @@ var cnames_active = {
     ,"router-advanced": "oldergod.github.io/router-advanced"
     ,"rp": "rpocklin.github.io" //noCF? (don´t add this in a new PR)
     ,"ruhuman": "ruhuman.github.io" //noCF? (don´t add this in a new PR)
+    ,"ruwan": "rpgee.github.io"
     ,"saadmir": "saadmir.github.io" //noCF? (don´t add this in a new PR)
     ,"sagui": "saguijs.github.io" //noCF? (don´t add this in a new PR)
     ,"saigon": "saigonjs.github.io"
