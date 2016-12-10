@@ -318,6 +318,7 @@ var cnames_active = {
     ,"leandro": "leandrowd.github.io" //noCF? (don´t add this in a new PR)
     ,"learnGitBranching": "pcottle.github.io/learnGitBranching" //noCF? (don´t add this in a new PR)
     ,"leipzig": "leipzigjs.github.io" //noCF? (don´t add this in a new PR)
+    ,"liveflow": "hasharray.github.io/liveflow.js",
     ,"leoj": "leoaj.github.io" //noCF? (don´t add this in a new PR)
     ,"lessmd": "linuxenko.github.io/lessmd"
     ,"leste": "atwood-cai.github.io/leste.js" //noCF? (don´t add this in a new PR)
@@ -568,7 +569,6 @@ var cnames_active = {
     ,"sunsistemo": "sunsistemo.github.io/sunsistemo"
     ,"supernova": "janbiasi.github.io/supernova" //noCF? (don´t add this in a new PR)
     ,"swichit": "dongryphon.github.io/switchit"
-    ,"thingamajig": "hasharray.github.io/thingamajig"
     ,"tagster": "goschevski.github.io/tagster" //noCF? (don´t add this in a new PR)
     ,"talker": "secondstreet.github.io/talker.js" //noCF? (don´t add this in a new PR)
     ,"tap-flux": "technologyadvice.github.io/tap-flux" //noCF? (don´t add this in a new PR)
