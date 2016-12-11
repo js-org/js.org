@@ -101,7 +101,6 @@ var cnames_active = {
     ,"brexit-regrets": "adebounam.github.io/brexit-regrets" //noCF? (don´t add this in a new PR)
     ,"bricklayer": "ademilter.github.io/bricklayer" //noCF? (don´t add this in a new PR)
     ,"brum": "brumjs.github.io" //noCF? (don´t add this in a new PR)
-    ,"bub": "dar5hak.github.io/bub" //noCF? (don´t add this in a new PR)
     ,"bunyan-fork": "cchamberlain.github.io/bunyan-fork" //noCF? (don´t add this in a new PR)
     ,"bunyan-pmx": "cchamberlain.github.io/bunyan-pmx" //noCF? (don´t add this in a new PR)
     ,"bunyan-serializer": "cchamberlain.github.io/bunyan-serializer" //noCF? (don´t add this in a new PR)
