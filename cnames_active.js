@@ -536,7 +536,7 @@ var cnames_active = {
     ,"skate": "skatejs.github.io" //noCF? (don´t add this in a new PR)
     ,"skx": "skx.github.io" //noCF? (don´t add this in a new PR)
     ,"slang": "ramadis.github.io/slang" //noCF? (don´t add this in a new PR)
-	,"slideout": "mango.github.io/slideout"
+    ,"slideout": "mango.github.io/slideout"
     ,"smoove": "abemedia.github.io/jquery-smoove"
     ,"sn0w": "greensn0w.github.io" //noCF? (don´t add this in a new PR)
     ,"social-likes-next": "sapegin.github.io/social-likes-next" //noCF? (don´t add this in a new PR)
@@ -586,8 +586,8 @@ var cnames_active = {
     ,"tinylinux": "e8johan.github.io/tiny-js" //noCF? (don´t add this in a new PR)
     ,"toad": "wnda.github.io/toad"
     ,"torino": "torinojs.github.io" //noCF? (don´t add this in a new PR)
-    ,"torlondev": "torlondev.github.io",
-    ,"trace": "andreasmadsen.github.io/trace",
+    ,"torlondev": "torlondev.github.io"
+    ,"trace": "andreasmadsen.github.io/trace"
     ,"treviso": "trevisojs.github.io" //noCF? (don´t add this in a new PR)
     ,"trevorgk": "trevorgk.github.io" //noCF? (don´t add this in a new PR)
     ,"troxel": "troxeljs.github.io"
