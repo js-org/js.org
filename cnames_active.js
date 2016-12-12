@@ -543,6 +543,7 @@ var cnames_active = {
     ,"social-likes": "sapegin.github.io/social-likes" //noCF? (don´t add this in a new PR)
     ,"sonny": "sonnylazuardi.github.io" //noCF? (don´t add this in a new PR)
     ,"sox": "sox-team.github.io/sox" //noCF? (don´t add this in a new PR)
+    ,"specky": "speckyjs.github.io/specky"
     ,"spectragram,": "adrianengine.github.io/jquery-spectragram" //noCF? (don´t add this in a new PR)
     ,"spicdev": "spicdev.github.io" //noCF? (don´t add this in a new PR)
     ,"spin": "fgnass.github.io/spin.js" //noCF? (don´t add this in a new PR)
