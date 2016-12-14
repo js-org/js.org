@@ -541,6 +541,7 @@ var cnames_active = {
     ,"sn0w": "greensn0w.github.io" //noCF? (don´t add this in a new PR)
     ,"social-likes-next": "sapegin.github.io/social-likes-next" //noCF? (don´t add this in a new PR)
     ,"social-likes": "sapegin.github.io/social-likes" //noCF? (don´t add this in a new PR)
+    ,"solome": "solome.github.io"
     ,"sonny": "sonnylazuardi.github.io" //noCF? (don´t add this in a new PR)
     ,"sox": "sox-team.github.io/sox" //noCF? (don´t add this in a new PR)
     ,"specky": "speckyjs.github.io/specky"
