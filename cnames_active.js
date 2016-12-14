@@ -439,6 +439,7 @@ var cnames_active = {
     ,"pliers": "pliersjs.github.io" //noCF? (don´t add this in a new PR)
     ,"poegems": "max-arias.github.io/poeGems" //noCF? (don´t add this in a new PR)
     ,"pogo": "aaronduino.github.io/pogo"
+    ,"polished": "styled-components.github.io/polished",
     ,"polythene": "arthurclemens.github.io/Polythene" //noCF? (don´t add this in a new PR)
     ,"popper": "fezvrasta.github.io/popper.js"
     ,"porter": "ahopkins.github.io/porterjs" //CF
