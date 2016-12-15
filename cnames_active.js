@@ -180,6 +180,7 @@ var cnames_active = {
     ,"dio": "thysultan.github.io/dio.js"
     ,"du": "ruanyl.github.io/du" //noCF? (don´t add this in a new PR)
     ,"duffn": "duffn.github.io" //noCF? (don´t add this in a new PR)
+    ,"dunedin": "dunedinjs.github.io",
     ,"dutchakdev": "dutchakdev.github.io" //noCF? (don´t add this in a new PR)
     ,"dynamicsnode": "crisfervil.github.io/DynamicsNode"
     ,"ed2k": "sunnyli.github.io/ed2k.js"
