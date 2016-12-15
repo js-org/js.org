@@ -177,6 +177,7 @@ var cnames_active = {
     ,"drag": "classicoldsong.github.io/Drag.js" //noCF? (don´t add this in a new PR)
     ,"dragon": "sabertazimi.github.io/dragonjs" //noCF? (don´t add this in a new PR)
     ,"draw": "skillzzjesse.github.io/draw"
+    ,"dio": "thysultan.github.io/dio.js"
     ,"du": "ruanyl.github.io/du" //noCF? (don´t add this in a new PR)
     ,"duffn": "duffn.github.io" //noCF? (don´t add this in a new PR)
     ,"dutchakdev": "dutchakdev.github.io" //noCF? (don´t add this in a new PR)
