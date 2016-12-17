@@ -276,6 +276,7 @@ var cnames_active = {
     ,"immense": "immense.github.io" //noCF? (don´t add this in a new PR)
     ,"immybox": "immense.github.io/immybox" //noCF? (don´t add this in a new PR)
     ,"i18n4v": "shibukawa.github.io/i18n4v"
+    ,"initial-wu": "initial-wu.github.io"
     ,"invoicing": "vahe.github.io/InvoicingJs"
     ,"ip-address": "beaugunderson.github.io/ip-address" //noCF? (don´t add this in a new PR)
     ,"is": "arasatasaygin.github.io/is.js" //noCF? (don´t add this in a new PR)
