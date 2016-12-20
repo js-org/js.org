@@ -343,6 +343,7 @@ var cnames_active = {
     ,"mde": "lukehorvat.github.io/mde-soundboard" //noCF? (don´t add this in a new PR)
     ,"medan": "medan-js.github.io" //noCF
     ,"mediainfo": "buzz.github.io/mediainfo.js"
+	,"medit": "echosoar.github.io/medit"
     ,"medium-header": "danielfeelfine.github.io/medium-header" //noCF? (don´t add this in a new PR)
     ,"meiosis": "foxdonut.github.io/meiosis" //noCF? (don´t add this in a new PR)
     ,"mern": "IamMohaiminul.github.io/MERN"
