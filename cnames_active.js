@@ -185,6 +185,7 @@ var cnames_active = {
     ,"ed2k": "sunnyli.github.io/ed2k.js"
     ,"elf": "mytharcher.github.io/elf.js.org" //noCF? (don´t add this in a new PR)
     ,"elliot": "elliotboney.github.io" //noCF? (don´t add this in a new PR)
+    ,"embedlam": "wnda.github.io/embedlam"
     ,"ember-cli-page-object": "san650.github.io/ember-cli-page-object" //noCF? (don´t add this in a new PR)
     ,"emeraldcraftmc": "emeraldcraftmc.github.io" //noCF? (don´t add this in a new PR)
     ,"emulisp": "grahack.github.io/EmuLisp" //noCF? (don´t add this in a new PR)
