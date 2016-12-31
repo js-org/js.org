@@ -160,7 +160,7 @@ var cnames_active = {
     ,"dgelong": "alexeyraspopov.github.io/dgelong" //noCF? (don´t add this in a new PR)
     ,"diffract": "ameyms.github.io/diffract" //noCF? (don´t add this in a new PR)
     ,"dinesh": "dineshondev.github.io/dinesh" //noCF? (don´t add this in a new PR)
-    ,"discord": "hydrabolt.github.io/discord.js"
+    ,"discord": "hydrabolt.github.io/discord.js-site"
     ,"distillery": "achannarasappa.github.io/distillery" //noCF? (don´t add this in a new PR)
     ,"distri": "flarp.github.io/Distri-JS"
     ,"dmitry": "dmitry-zaets.github.io" //noCF? (don´t add this in a new PR)
