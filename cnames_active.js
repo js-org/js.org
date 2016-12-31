@@ -121,6 +121,7 @@ var cnames_active = {
     ,"chrismendis": "chrismendis.github.io" //noCF? (don´t add this in a new PR)
     ,"christo": "christoga.github.io" //noCF? (don´t add this in a new PR)
     ,"chronos": "espinielli.github.io/chronos" //noCF? (don´t add this in a new PR)
+    ,"clause": "clausejs.github.io/clausejs"
     ,"clockwork": "arcadiogarcia.github.io/Clockwork.js" //noCF? (don´t add this in a new PR)
     ,"clusterize": "nexts.github.io/Clusterize.js"
     ,"cmbhackjs2013": "cmbjs.github.io/cmbHackjs2013"
@@ -555,7 +556,6 @@ var cnames_active = {
     ,"solome": "solome.github.io"
     ,"sonny": "sonnylazuardi.github.io" //noCF? (don´t add this in a new PR)
     ,"sox": "sox-team.github.io/sox" //noCF? (don´t add this in a new PR)
-    ,"specky": "speckyjs.github.io/specky"
     ,"spectragram,": "adrianengine.github.io/jquery-spectragram" //noCF? (don´t add this in a new PR)
     ,"spicdev": "spicdev.github.io" //noCF? (don´t add this in a new PR)
     ,"spin": "fgnass.github.io/spin.js" //noCF? (don´t add this in a new PR)
