@@ -223,6 +223,7 @@ var cnames_active = {
     ,"flexmasonry": "kavanmevada.github.io/flex_masonry" //noCF
     ,"flowchart": "adrai.github.io/flowchart.js" //noCF? (don´t add this in a new PR)
     ,"fluxoff": "kingscott.github.io/flux-off" //noCF? (don´t add this in a new PR)
+    ,"frint": "travix-international.github.io/frint",
     ,"fortune": "fortunejs.github.io/fortune" //noCF? (don´t add this in a new PR)
     ,"freemarker": "ijse.github.io/freemarker.js" //noCF? (don´t add this in a new PR)
     ,"freezer": "pakastin.github.io/freezer"
