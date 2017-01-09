@@ -419,6 +419,7 @@ var cnames_active = {
     ,"onlineth": "onlineth.github.io"
     ,"opentype": "nodebox.github.io/opentype.js" //noCF? (don´t add this in a new PR)
     ,"os": "os-js.github.io/OS.js"
+    ,"osom": "kikobeats.github.io/osom"
     ,"pad": "ebraminio.github.io/pad.js" //noCF? (don´t add this in a new PR)
     ,"pamatcher": "pmros.github.io/pamatcher" //noCF? (don´t add this in a new PR)
     ,"pantarei": "pantareijs.github.io/pantarei.js.org"
