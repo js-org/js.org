@@ -668,4 +668,5 @@ var cnames_active = {
     ,"zodiac": "indus.github.io/Zodiac" //noCF? (don´t add this in a new PR)
     ,"zombie": "assaf.github.io/zombie" //noCF? (don´t add this in a new PR)
     ,"mrpluto": "mrpluto.github.io"
+    ,"stack": "stackgamedevelopment.github.io"
 }
