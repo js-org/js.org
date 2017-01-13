@@ -60,7 +60,7 @@ var cnames_active = {
     ,"api-spec": "api-spec.github.io" //noCF? (don´t add this in a new PR)
     ,"apicluster": "ramsunvtech.github.io/apicluster" //noCF? (don´t add this in a new PR)
     ,"aping": "johnnythetank.github.io/apiNG" //noCF? (don´t add this in a new PR)
-    ,"aplayer": "diygod.github.io/APlayer" //noCF? (don´t add this in a new PR)
+    ,"aplayer": "diygod.github.io/APlayer"
     ,"apod": "marcosflorencio.github.io/angular-apod" //noCF? (don´t add this in a new PR)
     ,"arc": "diegohaz.github.io/arc"
     ,"argo": "albertosantini.github.io/argo" //noCF? (don´t add this in a new PR)
@@ -173,7 +173,7 @@ var cnames_active = {
     ,"domtastic": "webpro.github.io/DOMtastic"
     ,"donavon": "donavon.github.io" //noCF? (don´t add this in a new PR)
     ,"dope": "fouad.github.io/dope" //noCF? (don´t add this in a new PR)
-    ,"dplayer": "diygod.github.io/DPlayer" //noCF? (don´t add this in a new PR)
+    ,"dplayer": "diygod.github.io/DPlayer"
     ,"dprof": "andreasmadsen.github.io/dprof"
     ,"draft": "D1SC0tech.github.io/draft.js" //noCF? (don´t add this in a new PR)
     ,"drag": "classicoldsong.github.io/Drag.js" //noCF? (don´t add this in a new PR)
