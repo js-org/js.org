@@ -182,7 +182,7 @@ var cnames_active = {
     ,"dio": "thysultan.github.io/dio.js"
     ,"du": "ruanyl.github.io/du" //noCF? (don´t add this in a new PR)
     ,"duffn": "duffn.github.io" //noCF? (don´t add this in a new PR)
-    ,"dunedin": "dunedinjs.github.io",
+    ,"dunedin": "dunedinjs.github.io"
     ,"dutchakdev": "dutchakdev.github.io" //noCF? (don´t add this in a new PR)
     ,"dynamicsnode": "crisfervil.github.io/DynamicsNode"
     ,"ed2k": "sunnyli.github.io/ed2k.js"
@@ -224,7 +224,7 @@ var cnames_active = {
     ,"flexmasonry": "kavanmevada.github.io/flex_masonry" //noCF
     ,"flowchart": "adrai.github.io/flowchart.js" //noCF? (don´t add this in a new PR)
     ,"fluxoff": "kingscott.github.io/flux-off" //noCF? (don´t add this in a new PR)
-    ,"frint": "travix-international.github.io/frint",
+    ,"frint": "travix-international.github.io/frint"
     ,"fortune": "fortunejs.github.io/fortune" //noCF? (don´t add this in a new PR)
     ,"freemarker": "ijse.github.io/freemarker.js" //noCF? (don´t add this in a new PR)
     ,"freezer": "pakastin.github.io/freezer"
@@ -327,7 +327,7 @@ var cnames_active = {
     ,"learnGitBranching": "pcottle.github.io/learnGitBranching" //noCF? (don´t add this in a new PR)
     ,"leipzig": "leipzigjs.github.io" //noCF? (don´t add this in a new PR)
     ,"lifx": "fncxpro.github.io/lifx.js"
-    ,"liveflow": "hasharray.github.io/liveflow.js",
+    ,"liveflow": "hasharray.github.io/liveflow.js"
     ,"leoj": "leoaj.github.io" //noCF? (don´t add this in a new PR)
     ,"lessmd": "linuxenko.github.io/lessmd"
     ,"leste": "atwood-cai.github.io/leste.js" //noCF? (don´t add this in a new PR)
@@ -434,8 +434,8 @@ var cnames_active = {
     ,"paul": "paul-brown.github.io" //noCF? (don´t add this in a new PR)
     ,"pdfutils": "gottox.github.io/node-pdfutils" //noCF? (don´t add this in a new PR)
     ,"pdp-elements": "go4cas.github.io/pdp_elements" //noCF? (don´t add this in a new PR)
-    ,"peekaboo": "nadavspi.github.io/peekaboo.js/",
-    ,"pegboard": "mplewis.github.io/pegboard",
+    ,"peekaboo": "nadavspi.github.io/peekaboo.js/"
+    ,"pegboard": "mplewis.github.io/pegboard"
     ,"penn-sdk": "pennlabs.github.io/penn-sdk-node" //noCF? (don´t add this in a new PR)
     ,"pentris": "justinjc.github.io/pentris2" //noCF? (don´t add this in a new PR)
     ,"pguth": "pguth.github.io"
@@ -454,7 +454,7 @@ var cnames_active = {
     ,"pliers": "pliersjs.github.io" //noCF? (don´t add this in a new PR)
     ,"poegems": "max-arias.github.io/poeGems" //noCF? (don´t add this in a new PR)
     ,"pogo": "aaronduino.github.io/pogo"
-    ,"polished": "styled-components.github.io/polished",
+    ,"polished": "styled-components.github.io/polished"
     ,"polythene": "arthurclemens.github.io/Polythene" //noCF? (don´t add this in a new PR)
     ,"popper": "fezvrasta.github.io/popper.js"
     ,"porter": "ahopkins.github.io/porterjs" //CF
@@ -506,7 +506,7 @@ var cnames_active = {
     ,"relate": "jakelazaroff.github.io/relate" //noCF? (don´t add this in a new PR)
     ,"remark": "wooorm.github.io/remark" //noCF? (don´t add this in a new PR)
     ,"rene": "revrng.github.io" //noCF? (don´t add this in a new PR)
-    ,"revaluate" "hasharray.github.io/revaluate.js"
+    ,"revaluate": "hasharray.github.io/revaluate.js"
     ,"repackage": "cchamberlain.github.io/repackage" //noCF? (don´t add this in a new PR)
     ,"request": "request.gitbooks.io" //noCF? (don´t add this in a new PR)
     ,"restjs": "daviesgeek.github.io/restjs"
