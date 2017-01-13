@@ -670,4 +670,5 @@ var cnames_active = {
     ,"zombie": "assaf.github.io/zombie" //noCF? (don´t add this in a new PR)
     ,"mrpluto": "mrpluto.github.io"
     ,"stack": "stackgamedevelopment.github.io"
+    ,"languages": "rsamaium.github.io/Languages" //noCF? (don´t add this in a new PR)
 }
