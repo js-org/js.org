@@ -513,6 +513,7 @@ var cnames_active = {
     ,"reshift": "hasharray.github.io/reshift.js"
     ,"riotgear": "riotgear.github.io"
     ,"rishav": "xrisk.github.io"
+    ,"risingstars2016": "michaelrambeau.github.io/risingstars2016"		
     ,"rivki": "mikqi.github.io"
     ,"rmodal": "zewish.github.io/rmodal.js" //noCF? (don´t add this in a new PR)
     ,"router-advanced": "oldergod.github.io/router-advanced"
