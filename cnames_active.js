@@ -116,6 +116,7 @@ var cnames_active = {
     ,"central-node": "central-node.github.io" //noCF? (don´t add this in a new PR)
     ,"checklist": "hellogreg.github.io/checklist"
     ,"cheerio": "cheeriojs.github.io/cheerio"
+    ,"chatexchange": "jacob-gray.github.io/ChatExchangeJS"
     ,"chernivtsi": "chernivtsijs.github.io" //noCF? (don´t add this in a new PR)
     ,"chimon2000": "chimon2000.github.io" //noCF? (don´t add this in a new PR)
     ,"chrislaughlin": "chrislaughlin.github.io" //noCF? (don´t add this in a new PR)
