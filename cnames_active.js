@@ -615,6 +615,7 @@ var cnames_active = {
     ,"trace": "andreasmadsen.github.io/trace"
     ,"treviso": "trevisojs.github.io" //noCF? (don´t add this in a new PR)
     ,"trevorgk": "trevorgk.github.io" //noCF? (don´t add this in a new PR)
+    ,"trilogy": "citycide.github.io/trilogy"
     ,"troxel": "troxeljs.github.io"
     ,"try-catch-finally": "c24w.github.io/try-catch-finally.js"
     ,"ts2jsdoc": "spatools.github.io/ts2jsdoc" //noCF? (don´t add this in a new PR)
