@@ -588,6 +588,7 @@ var cnames_active = {
     ,"stephenmccall": "stephenmccall.github.io" //noCF? (don´t add this in a new PR)
     ,"stockings": "kgroat.github.io/stockings"
     ,"stress": "julindra.github.io/stress.js"
+    ,"structure": "talyssonoc.gitbooks.io/structure"
     ,"stuck": "linuxenko.github.io/unstuck-webpack"
     ,"style": "dhilipsiva.github.io/style.js" //noCF? (don´t add this in a new PR)
     ,"styletron": "rtsao.github.io/styletron" //noCF? (don´t add this in a new PR)
