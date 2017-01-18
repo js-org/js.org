@@ -344,6 +344,7 @@ var cnames_active = {
     ,"martin": "martinbutler.github.io" //noCF? (don´t add this in a new PR)
     ,"martingollogly": "martingollogly.github.io" //noCF? (don´t add this in a new PR)
     ,"marxist": "ohmfox.github.io/marxistjs" //noCF? (don´t add this in a new PR)
+    ,"material": "electron-react.github.io/material",
     ,"matthias-schuetz": "matthias-schuetz.github.io" //noCF? (don´t add this in a new PR)
     ,"maxnachlinger": "maxnachlinger.github.io" //noCF? (don´t add this in a new PR)
     ,"maxtracking": "maxtracking.github.io" //noCF? (don´t add this in a new PR)
