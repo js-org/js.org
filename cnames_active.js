@@ -485,6 +485,8 @@ var cnames_active = {
     ,"react-shared": "rvikmanis.github.io/react-shared" //noCF? (don´t add this in a new PR)
     ,"react-styleguidist": "sapegin.github.io/react-styleguidist" //noCF? (don´t add this in a new PR)
     ,"react-native-floating-labels": "mayank-patel.github.io/react-native-floating-labels"
+    ,"react-table": "tannerlinsley.github.io/react-table"
+    ,"react-form": "tannerlinsley.github.io/react-form"
     ,"react-toulouse": "moox.github.io/react-toulouse"
     ,"reactabular": "bebraw.github.io/reactabular"
     ,"reactdesktop": "gabrielbull.github.io/react-desktop" //noCF? (don´t add this in a new PR)
