@@ -138,6 +138,7 @@ var cnames_active = {
     ,"construyendotrabajo": "mteyss.github.io/construyendotrabajo" //noCF? (don´t add this in a new PR)
     ,"contextify": "abemedia.github.io/jquery-contextify" //noCF? (don´t add this in a new PR)
     ,"cordova-multiplatform-template": "ckgrafico.github.io/Cordova-Multiplatform-Template" //noCF? (don´t add this in a new PR)
+    ,"cork": "davej.github.io/CorkJS/"
     ,"cote": "dashersw.github.io/cote" //noCF? (don´t add this in a new PR)
     ,"country": "growmies.github.io/countryjs" //noCF? (don´t add this in a new PR)
     ,"cplayer": "copay.github.io/cPlayer" //noCF? (don´t add this in a new PR)
