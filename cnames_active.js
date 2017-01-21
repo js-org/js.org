@@ -320,7 +320,7 @@ var cnames_active = {
     ,"karl": "karlcoelho.github.io/portfolio" //noCF? (don´t add this in a new PR)
     ,"kelvinho": "kelvin2go.github.io" //noCF? (don´t add this in a new PR)
     ,"kilvin": "rofrischmann.github.io/kilvin"
-    ,"komada": "eslachance.github.io/komada"
+    ,"komada": "dirigeants.gitbooks.io/komada-docs"
     ,"konsumer": "konsumer.github.io" //noCF? (don´t add this in a new PR)
     ,"labelauty": "fntneves.github.io/jquery-labelauty" //noCF? (don´t add this in a new PR)
     ,"lambda": "lambdajs.github.io" //noCF? (don´t add this in a new PR)
