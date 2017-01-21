@@ -395,6 +395,7 @@ var cnames_active = {
     ,"ncub8": "ncub8.github.io" //noCF? (don´t add this in a new PR)
     ,"nearley": "hardmath123.github.io/nearley" //noCF? (don´t add this in a new PR)
     ,"nemo": "paypal.github.io/nemo" //noCF? (don´t add this in a new PR)
+    ,"nemaniarjun": "nemaniarjun.github.io"
     ,"nflow": "nflow-js.github.io" //noCF? (don´t add this in a new PR)
     ,"ng-wig": "stevermeister.github.io/ngWig" //noCF? (don´t add this in a new PR)
     ,"ngirc": "ngirc.github.io/ng-irc" //noCF
