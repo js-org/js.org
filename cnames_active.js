@@ -685,4 +685,5 @@ var cnames_active = {
     ,"stack": "stackgamedevelopment.github.io"
     ,"languages": "rsamaium.github.io/Languages",
     ,"naughtychecker":"gautamkrishnar.github.io/naughtychecker.js"
+    ,"mimic": "500tech.github.io/mimic"
 }
