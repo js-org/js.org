@@ -683,4 +683,5 @@ var cnames_active = {
     ,"mrpluto": "mrpluto.github.io"
     ,"stack": "stackgamedevelopment.github.io"
     ,"languages": "rsamaium.github.io/Languages"
+    ,"warnbot": "darkcoding-js.github.io/WarnBot/"
 }
