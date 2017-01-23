@@ -649,6 +649,7 @@ var cnames_active = {
     ,"uni": "arcadiogarcia.github.io/UNIJS" //noCF? (don´t add this in a new PR)
     ,"upresent": "bobbybee.github.io/uPresent" //noCF? (don´t add this in a new PR)
     ,"utscrooms": "sunakujira1.github.io/UTSCRooms"
+    ,"uuid":"rumkin.github.io/uuid"
     ,"uvcharts": "imaginea.github.io/uvCharts" //noCF? (don´t add this in a new PR)
     ,"vaguilar": "vaguilar.github.io" //noCF? (don´t add this in a new PR)
     ,"valentin": "valentinvieriu.github.io" //noCF? (don´t add this in a new PR)
