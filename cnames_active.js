@@ -228,6 +228,7 @@ var cnames_active = {
     ,"flowchart": "adrai.github.io/flowchart.js" //noCF? (don´t add this in a new PR)
     ,"fluxoff": "kingscott.github.io/flux-off" //noCF? (don´t add this in a new PR)
     ,"frint": "travix-international.github.io/frint"
+    ,"formred": "zewish.github.io/formred"
     ,"fortune": "fortunejs.github.io/fortune" //noCF? (don´t add this in a new PR)
     ,"freemarker": "ijse.github.io/freemarker.js" //noCF? (don´t add this in a new PR)
     ,"freezer": "pakastin.github.io/freezer"
@@ -658,6 +659,7 @@ var cnames_active = {
     ,"vuikit":"vuikit.github.io"
     ,"vuongdothanhhuy": "vuongdothanhhuy.github.io" //noCF? (don´t add this in a new PR)
     ,"wargamer": "hkwu.github.io/wargamer"
+    ,"warnbot": "darkcoding-js.github.io/WarnBot"
     ,"watch": "ducin.github.io/watchjs.org" //noCF? (don´t add this in a new PR)
     ,"wayou": "wayou.github.io" //noCF? (don´t add this in a new PR)
     ,"weaver": "maxkfranz.github.io/weaver" //noCF? (don´t add this in a new PR)
@@ -683,5 +685,6 @@ var cnames_active = {
     ,"mrpluto": "mrpluto.github.io"
     ,"stack": "stackgamedevelopment.github.io"
     ,"languages": "rsamaium.github.io/Languages"
-    ,"warnbot": "darkcoding-js.github.io/WarnBot/"
+    ,"naughtychecker":"gautamkrishnar.github.io/naughtychecker.js"
+
 }
