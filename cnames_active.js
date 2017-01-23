@@ -358,6 +358,7 @@ var cnames_active = {
     ,"mde": "lukehorvat.github.io/mde-soundboard" //noCF? (don´t add this in a new PR)
     ,"medan": "medan-js.github.io" //noCF
     ,"mediainfo": "buzz.github.io/mediainfo.js"
+	  ,"medit": "echosoar.github.io/medit"
     ,"medium-header": "danielfeelfine.github.io/medium-header" //noCF? (don´t add this in a new PR)
     ,"meiosis": "foxdonut.github.io/meiosis" //noCF? (don´t add this in a new PR)
     ,"mern": "IamMohaiminul.github.io/MERN"
@@ -366,6 +367,7 @@ var cnames_active = {
     ,"metagon": "austinhuang0131.github.io/metagon"
     ,"mf": "awto.github.io/mfjs-compiler" //noCF? (don´t add this in a new PR)
     ,"miguelsr": "miguelsr.github.io" //noCF? (don´t add this in a new PR)
+    ,"mimic": "500tech.github.io/mimic"
     ,"minesweeper": "derflatulator.github.io/minesweeper"
     ,"mingyi": "liangmingyi.github.io" //noCF? (don´t add this in a new PR)
     ,"minigrid": "henriquea.github.io/minigrid" //noCF? (don´t add this in a new PR)
