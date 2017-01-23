@@ -659,6 +659,7 @@ var cnames_active = {
     ,"vuikit":"vuikit.github.io"
     ,"vuongdothanhhuy": "vuongdothanhhuy.github.io" //noCF? (don´t add this in a new PR)
     ,"wargamer": "hkwu.github.io/wargamer"
+    ,"warnbot": "darkcoding-js.github.io/WarnBot"
     ,"watch": "ducin.github.io/watchjs.org" //noCF? (don´t add this in a new PR)
     ,"wayou": "wayou.github.io" //noCF? (don´t add this in a new PR)
     ,"weaver": "maxkfranz.github.io/weaver" //noCF? (don´t add this in a new PR)
@@ -683,6 +684,7 @@ var cnames_active = {
     ,"zombie": "assaf.github.io/zombie" //noCF? (don´t add this in a new PR)
     ,"mrpluto": "mrpluto.github.io"
     ,"stack": "stackgamedevelopment.github.io"
-    ,"languages": "rsamaium.github.io/Languages",
+    ,"languages": "rsamaium.github.io/Languages"
     ,"naughtychecker":"gautamkrishnar.github.io/naughtychecker.js"
+
 }
