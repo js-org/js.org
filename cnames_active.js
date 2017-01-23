@@ -355,7 +355,7 @@ var cnames_active = {
     ,"mde": "lukehorvat.github.io/mde-soundboard" //noCF? (don´t add this in a new PR)
     ,"medan": "medan-js.github.io" //noCF
     ,"mediainfo": "buzz.github.io/mediainfo.js"
-	,"medit": "echosoar.github.io/medit"
+	  ,"medit": "echosoar.github.io/medit"
     ,"medium-header": "danielfeelfine.github.io/medium-header" //noCF? (don´t add this in a new PR)
     ,"meiosis": "foxdonut.github.io/meiosis" //noCF? (don´t add this in a new PR)
     ,"mern": "IamMohaiminul.github.io/MERN"
@@ -364,6 +364,7 @@ var cnames_active = {
     ,"metagon": "austinhuang0131.github.io/metagon"
     ,"mf": "awto.github.io/mfjs-compiler" //noCF? (don´t add this in a new PR)
     ,"miguelsr": "miguelsr.github.io" //noCF? (don´t add this in a new PR)
+    ,"mimic": "500tech.github.io/mimic"
     ,"minesweeper": "derflatulator.github.io/minesweeper"
     ,"jinya": "chenjinya.github.io"
     ,"mingyi": "liangmingyi.github.io" //noCF? (don´t add this in a new PR)
@@ -659,6 +660,7 @@ var cnames_active = {
     ,"vuikit":"vuikit.github.io"
     ,"vuongdothanhhuy": "vuongdothanhhuy.github.io" //noCF? (don´t add this in a new PR)
     ,"wargamer": "hkwu.github.io/wargamer"
+    ,"warnbot": "darkcoding-js.github.io/WarnBot"
     ,"watch": "ducin.github.io/watchjs.org" //noCF? (don´t add this in a new PR)
     ,"wayou": "wayou.github.io" //noCF? (don´t add this in a new PR)
     ,"weaver": "maxkfranz.github.io/weaver" //noCF? (don´t add this in a new PR)
@@ -683,7 +685,6 @@ var cnames_active = {
     ,"zombie": "assaf.github.io/zombie" //noCF? (don´t add this in a new PR)
     ,"mrpluto": "mrpluto.github.io"
     ,"stack": "stackgamedevelopment.github.io"
-    ,"languages": "rsamaium.github.io/Languages",
+    ,"languages": "rsamaium.github.io/Languages"
     ,"naughtychecker":"gautamkrishnar.github.io/naughtychecker.js"
-    ,"mimic": "500tech.github.io/mimic"
 }
