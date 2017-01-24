@@ -146,6 +146,7 @@ var cnames_restricted = [
     "newsgroup(s)",
     "newsletter(s)",
     "ninja(s)",
+    "node",
     "now",
     "ns1",
     "ns2",
