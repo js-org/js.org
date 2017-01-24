@@ -314,7 +314,7 @@ var cnames_active = {
     ,"json-schema-faker": "json-schema-faker.github.io/website-jsf" //noCF? (don´t add this in a new PR)
     ,"juancarlosqr": "juancarlosqr.github.io" //noCF? (don´t add this in a new PR)
     ,"julien": "julien.github.io" //noCF? (don´t add this in a new PR)
-    ,"jumpsuit": "jumpsuit.github.io/jumpsuit" //noCF? (don´t add this in a new PR)
+    ,"jumpsuit": "jumpsuit.github.io/jumpsuit"
     ,"junctions": "jamesknelson.github.io/junctions"
     ,"juno-106": "stevengoldberg.github.io/juno-106" //noCF? (don´t add this in a new PR)
     ,"jus": "zeke.github.io/jus.js.org" //noCF? (don´t add this in a new PR)
