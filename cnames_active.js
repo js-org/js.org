@@ -418,6 +418,7 @@ var cnames_active = {
     ,"nodegarden": "pakastin.github.io/nodegarden"
     ,"noted": "carter-slade.github.io/Noted-" //noCF? (don´t add this in a new PR)
     ,"noteit": "saha96.github.io/NoteIt" //noCF? (don´t add this in a new PR)
+    ,"npmer": "rumkin.github.io/npm-watch"
     ,"nsp": "hanul.github.io/NSP" //noCF? (don´t add this in a new PR)
     ,"nsptiles": "imthenachoman.github.io/nSPTiles" //noCF? (don´t add this in a new PR)
     ,"nvanthao": "nvanthao.github.io" //noCF? (don´t add this in a new PR)
@@ -528,7 +529,7 @@ var cnames_active = {
     ,"revaluate": "hasharray.github.io/revaluate.js"
     ,"riotgear": "riotgear.github.io"
     ,"rishav": "xrisk.github.io"
-    ,"risingstars2016": "michaelrambeau.github.io/risingstars2016"      
+    ,"risingstars2016": "michaelrambeau.github.io/risingstars2016"
     ,"rivki": "mikqi.github.io"
     ,"rmodal": "zewish.github.io/rmodal.js" //noCF? (don´t add this in a new PR)
     ,"router-advanced": "oldergod.github.io/router-advanced"
@@ -591,7 +592,7 @@ var cnames_active = {
     ,"spritesheet": "arcadiogarcia.github.io/Spritesheet.js" //noCF? (don´t add this in a new PR)
     ,"spritewerk": "bildepunkt.github.io/spritewerk" //noCF? (don´t add this in a new PR)
     ,"squeak": "bertfreudenberg.github.io/SqueakJS"
-    ,"sri": "jackub.github.io/subresource-integrity-fallback"   
+    ,"sri": "jackub.github.io/subresource-integrity-fallback"
     ,"stabs": "wnda.github.io/stabs"
     ,"stack": "stackgamedevelopment.github.io"
     ,"starratio": "starratio.github.io/star-ratio" //noCF
