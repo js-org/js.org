@@ -432,7 +432,7 @@ var cnames_active = {
     ,"onedesert": "onedesert.github.io" //noCF? (don´t add this in a new PR)
     ,"onlineth": "onlineth.github.io"
     ,"opentype": "nodebox.github.io/opentype.js" //noCF? (don´t add this in a new PR)
-    ,"os": "os-js.github.io/OS.js"
+    ,"os": "91.247.228.125" //noCF
     ,"osom": "kikobeats.github.io/osom"
     ,"pad": "ebraminio.github.io/pad.js" //noCF? (don´t add this in a new PR)
     ,"pamatcher": "pmros.github.io/pamatcher" //noCF? (don´t add this in a new PR)
