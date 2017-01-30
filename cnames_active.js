@@ -117,6 +117,7 @@ var cnames_active = {
     ,"cartodb-demo": "opensas.github.io/cartodb-demo" //noCF? (don´t add this in a new PR)
     ,"central-node": "central-node.github.io" //noCF? (don´t add this in a new PR)
     ,"chatexchange": "jacob-gray.github.io/ChatExchangeJS"
+		,"cat-js": "https://github.com/dylangernert/Cat-JS"	
     ,"checklist": "hellogreg.github.io/checklist"
     ,"cheerio": "cheeriojs.github.io/cheerio"
     ,"chernivtsi": "chernivtsijs.github.io" //noCF? (don´t add this in a new PR)
