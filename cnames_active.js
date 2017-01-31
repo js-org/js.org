@@ -324,6 +324,7 @@ var cnames_active = {
     ,"kainy": "kainy.github.io/js.org"
     ,"kalm": "fed135.github.io/kalm.github.io" //noCF? (don´t add this in a new PR)
     ,"karl": "karlcoelho.github.io/portfolio" //noCF? (don´t add this in a new PR)
+    ,"kea": "mariusandra.github.io/kea"
     ,"kelvinho": "kelvin2go.github.io" //noCF? (don´t add this in a new PR)
     ,"kilvin": "rofrischmann.github.io/kilvin"
     ,"komada": "dirigeants.gitbooks.io/komada-docs"
