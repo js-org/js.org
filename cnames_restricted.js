@@ -78,6 +78,7 @@ var cnames_restricted = [
     "dyn",
     "easy",
     "ecma",
+    "editor",
     "email(s)",
     "enterprise(s)",
     "es2015",
