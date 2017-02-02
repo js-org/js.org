@@ -70,6 +70,7 @@ var cnames_active = {
     ,"ass": "weizhenye.github.io/ASS"
     ,"astral": "espinielli.github.io/astraljs" //noCF? (don´t add this in a new PR)
     ,"astrobench": "kupriyanenko.github.io/astrobench" //noCF? (don´t add this in a new PR)
+    ,"astx-redux-util": "kevinast.github.io/astx-redux-util"
     ,"atombundles": "lirantal.github.io/atombundles"
     ,"autodocs": "bguiz.github.io/autodocs" //noCF? (don´t add this in a new PR)
     ,"avi": "avinassh.github.io/avi" //noCF? (don´t add this in a new PR)
