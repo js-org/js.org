@@ -473,6 +473,7 @@ var cnames_active = {
     ,"plait": "wildlyinaccurate.github.io/plait"
     ,"planisphere": "dai-shi.github.io/planisphere-site" //noCF? (don´t add this in a new PR)
     ,"pliers": "pliersjs.github.io" //noCF? (don´t add this in a new PR)
+    ,"pnpm": "pnpm.github.io"
     ,"poegems": "max-arias.github.io/poeGems" //noCF? (don´t add this in a new PR)
     ,"pogo": "aaronduino.github.io/pogo"
     ,"polished": "styled-components.github.io/polished"
