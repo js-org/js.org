@@ -487,6 +487,7 @@ var cnames_active = {
     ,"querybuilder": "mistic100.github.io/jQuery-QueryBuilder" //noCF? (don´t add this in a new PR)
     ,"quiz-app": "odevlord.github.io/Quiz-App" //noCF? (don´t add this in a new PR)
     ,"quiz-revamped": "abhisekp.github.io/Quiz-Revamped" //noCF? (don´t add this in a new PR)
+    ,"ractive": "ractivejs.github.io"
     ,"rad": "rapid-application-development-js.github.io/RAD.JS" //noCF? (don´t add this in a new PR)
     ,"radial": "ckgrafico.github.io/radial.js" //noCF? (don´t add this in a new PR)
     ,"rafaelmangolin": "rafaelMangolin.github.io" //noCF? (don´t add this in a new PR)
