@@ -684,6 +684,7 @@ var cnames_active = {
     ,"wayou": "wayou.github.io" //noCF? (don´t add this in a new PR)
     ,"weaver": "maxkfranz.github.io/weaver" //noCF? (don´t add this in a new PR)
     ,"webpack": "webpack.github.io/webpack.js.org"
+    ,"weekly" : "xdimh.github.io/weekly"
     ,"within": "eric-brechemier.github.io/within" //noCF? (don´t add this in a new PR)
     ,"wordywordy": "sverweij.github.io/wordywordy"
     ,"wwb": "eqielb.github.io/wwb" //noCF? (don´t add this in a new PR)
