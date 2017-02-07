@@ -460,6 +460,7 @@ var cnames_active = {
     ,"pegboard": "mplewis.github.io/pegboard"
     ,"penn-sdk": "pennlabs.github.io/penn-sdk-node" //noCF? (don´t add this in a new PR)
     ,"pentris": "justinjc.github.io/pentris2" //noCF? (don´t add this in a new PR)
+    ,"perspective": "leopoldthecoder.github.io/Perspective"
     ,"pguth": "pguth.github.io"
     ,"pharaoh": "pharaoh-js.github.io" //noCF? (don´t add this in a new PR)
     ,"phobos": "phobosjs.github.io/phobos.js"
