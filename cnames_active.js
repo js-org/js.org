@@ -132,6 +132,7 @@ var cnames_active = {
     ,"clusterize": "nexts.github.io/Clusterize.js"
     ,"cmbhackjs2013": "cmbjs.github.io/cmbHackjs2013"
     ,"cn.redux": "camsong.github.io/redux-in-chinese" //noCF? (don´t add this in a new PR)
+    ,"cnc": "cncjs.github.io/cncjs"
     ,"codemade": "codemade.github.io" //noCF? (don´t add this in a new PR)
     ,"coffea": "caffeinery.github.io/coffea"
     ,"collegequest": "schoolhouserock.github.io/CollegeQuest" //noCF? (don´t add this in a new PR)
