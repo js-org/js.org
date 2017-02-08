@@ -295,6 +295,7 @@ var cnames_active = {
     ,"imagecapture": "googlechrome.github.io/imagecapture-polyfill"
     ,"immense": "immense.github.io" //noCF? (don´t add this in a new PR)
     ,"immybox": "immense.github.io/immybox" //noCF? (don´t add this in a new PR)
+    ,"infinite-tree": "cheton.github.io/infinite-tree"
     ,"initial-wu": "initial-wu.github.io"
     ,"invoicing": "vahe.github.io/InvoicingJs"
     ,"ip-address": "beaugunderson.github.io/ip-address" //noCF? (don´t add this in a new PR)
