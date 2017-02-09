@@ -620,6 +620,7 @@ var cnames_active = {
     ,"stuck": "linuxenko.github.io/unstuck-webpack"
     ,"style": "dhilipsiva.github.io/style.js" //noCF? (don´t add this in a new PR)
     ,"styletron": "rtsao.github.io/styletron" //noCF? (don´t add this in a new PR)
+    ,"stylis": "thysultan.github.io/stylis.js"
     ,"sudoku": "andreynering.github.io/sudoku"
     ,"sulky": "shingle.github.io/sulky" //noCF? (don´t add this in a new PR)
     ,"sunsistemo": "sunsistemo.github.io/sunsistemo"
