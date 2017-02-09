@@ -454,6 +454,7 @@ var cnames_active = {
     ,"parametric-svg": "parametric-svg.github.io" //noCF? (don´t add this in a new PR)
     ,"pas-ce-soir": "oldergod.github.io/pas-ce-soir"
     ,"pastebin-alert": "ramadhanamizudin.github.io/pastebin-alert.js" //noCF? (don´t add this in a new PR)
+    ,"patternbase":"kamescg.github.io/PatternBase"
     ,"pathtrace": "kovacsv.github.io/WebGLPathTrace" //noCF? (don´t add this in a new PR)
     ,"paul": "paul-brown.github.io" //noCF? (don´t add this in a new PR)
     ,"pdfutils": "gottox.github.io/node-pdfutils" //noCF? (don´t add this in a new PR)
