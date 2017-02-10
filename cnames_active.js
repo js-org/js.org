@@ -152,6 +152,7 @@ var cnames_active = {
     ,"cracked": "billorcutt.github.io/Cracked"
     ,"crepido": "lukeramsden.github.com/crepido"
     ,"crunch": "vukicevic.github.io/crunch" //noCF? (don´t add this in a new PR)
+    ,"cryptokey": "rumkin.github.com/crypto-key"
     ,"cucumber-mink": "adezandee.github.io/cucumber-mink" //noCF? (don´t add this in a new PR)
     ,"cycle": "cyclejs.github.io"
     ,"d4": "joelburget.github.io/d4"
