@@ -359,6 +359,7 @@ var cnames_active = {
     ,"magnet": "magnetjs.github.io/Magnet" //noCF? (don´t add this in a new PR)
     ,"marble": "jsguy.github.io/marble"
     ,"marcosflorencio": "marcosflorencio.github.io"
+    ,"marek": "marekchen.github.io"
     ,"markmsmith": "markmsmith.github.io"
     ,"martin": "martinbutler.github.io" //noCF? (don´t add this in a new PR)
     ,"martingollogly": "martingollogly.github.io" //noCF? (don´t add this in a new PR)
