@@ -630,6 +630,7 @@ var cnames_active = {
     ,"tagster": "goschevski.github.io/tagster" //noCF? (don´t add this in a new PR)
     ,"talker": "secondstreet.github.io/talker.js" //noCF? (don´t add this in a new PR)
     ,"tap-flux": "technologyadvice.github.io/tap-flux" //noCF? (don´t add this in a new PR)
+    ,"tapestry-wp": "shortlist-digital.github.io/tapestry-wp"
     ,"tart": "tart.github.io/tartJS" //noCF? (don´t add this in a new PR)
     ,"techfest": "anukul.github.io/techfest" //noCF? (don´t add this in a new PR)
     ,"telaviv": "dustin-h.github.io/telaviv" //noCF? (don´t add this in a new PR)
