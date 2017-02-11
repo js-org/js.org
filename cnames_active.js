@@ -488,6 +488,7 @@ var cnames_active = {
     ,"porter": "ahopkins.github.io/porterjs" //CF
     ,"profanity-finder":"gautamkrishnar.github.io/profanity-finder.js"
     ,"proteic":"proteus-h2020.github.io/proteic"
+    ,"pure":"fengzilong.github.io/pure"
     ,"qs": "kirjs.github.io/qs.js" //noCF? (don´t add this in a new PR)
     ,"querybuilder": "mistic100.github.io/jQuery-QueryBuilder" //noCF? (don´t add this in a new PR)
     ,"quiz-app": "odevlord.github.io/Quiz-App" //noCF? (don´t add this in a new PR)
