@@ -304,6 +304,7 @@ var cnames_active = {
     ,"ishan": "ishanthukral.github.io/ishan.js" //noCF? (don´t add this in a new PR)
     ,"istanbul": "istanbuljs.github.io"
     ,"italia": "milano-js.github.io/italia-js" //noCF? (don´t add this in a new PR)
+	,"silfr": "silfr.github.io/iterativecolor/"
     ,"itsashis4u": "itsashis4u.github.io" //noCF? (don´t add this in a new PR)
     ,"ivml": "influencetech.github.io/ivml" //noCF? (don´t add this in a new PR)
     ,"j2p": "j2p.github.io" //noCF? (don´t add this in a new PR)
