@@ -95,6 +95,7 @@ var cnames_active = {
     ,"blogpage": "zanseven007.github.io/blog-page" //noCF
     ,"bodybuilder": "danpaz.github.io/bodybuilder" //noCF? (don´t add this in a new PR)
     ,"bombsweeper": "pakastin.github.io/bombsweeper"
+    ,"bot.js": "inventor02.github.io/bot.js"
     ,"bootstrap-confirmation": "mistic100.github.io/Bootstrap-Confirmation" //noCF? (don´t add this in a new PR)
     ,"bornaeon": "bornaeon.github.io" //noCF
     ,"box": "capacitorset.github.io/box-js" //noCF
