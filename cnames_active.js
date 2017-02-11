@@ -487,7 +487,7 @@ var cnames_active = {
     ,"popper": "fezvrasta.github.io/popper.js"
     ,"porter": "ahopkins.github.io/porterjs" //CF
     ,"profanity-finder":"gautamkrishnar.github.io/profanity-finder.js"
-    ,"proteic.js.org":"proteus-h2020.github.io/proteic"
+    ,"proteic":"proteus-h2020.github.io/proteic"
     ,"qs": "kirjs.github.io/qs.js" //noCF? (don´t add this in a new PR)
     ,"querybuilder": "mistic100.github.io/jQuery-QueryBuilder" //noCF? (don´t add this in a new PR)
     ,"quiz-app": "odevlord.github.io/Quiz-App" //noCF? (don´t add this in a new PR)
