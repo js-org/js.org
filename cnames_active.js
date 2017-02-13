@@ -94,6 +94,7 @@ var cnames_active = {
     ,"biu": "aprilorange.github.io/biu" //noCF? (don´t add this in a new PR)
     ,"blogpage": "zanseven007.github.io/blog-page" //noCF
     ,"bodybuilder": "danpaz.github.io/bodybuilder" //noCF? (don´t add this in a new PR)
+    ,"bool": "booljs.github.io"
     ,"bombsweeper": "pakastin.github.io/bombsweeper"
     ,"bootstrap-confirmation": "mistic100.github.io/Bootstrap-Confirmation" //noCF? (don´t add this in a new PR)
     ,"bornaeon": "bornaeon.github.io" //noCF
