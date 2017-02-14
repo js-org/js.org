@@ -348,7 +348,7 @@ var cnames_active = {
     ,"leste": "atwood-cai.github.io/leste.js" //noCF? (don´t add this in a new PR)
     ,"lifx": "fncxpro.github.io/lifx.js"
     ,"liguori": "liguori.github.io" //noCF? (don´t add this in a new PR)
-    ,"linghucong": "jiji262.github.io/"
+    ,"linghucong": "jiji262.github.io"
     ,"liveflow": "hasharray.github.io/liveflow.js"
     ,"localsync": "noderaider.github.io/localsync" //noCF? (don´t add this in a new PR)
     ,"logo": "js-org.github.io/logo" //noCF? (don´t add this in a new PR)
@@ -369,7 +369,7 @@ var cnames_active = {
     ,"mde": "lukehorvat.github.io/mde-soundboard" //noCF? (don´t add this in a new PR)
     ,"medan": "medan-js.github.io" //noCF
     ,"mediainfo": "buzz.github.io/mediainfo.js"
-	  ,"medit": "echosoar.github.io/medit"
+    ,"medit": "echosoar.github.io/medit"
     ,"medium-header": "danielfeelfine.github.io/medium-header" //noCF? (don´t add this in a new PR)
     ,"meiosis": "foxdonut.github.io/meiosis" //noCF? (don´t add this in a new PR)
     ,"mern": "IamMohaiminul.GitHub.io/MERNjs"
