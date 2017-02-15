@@ -699,7 +699,7 @@ var cnames_active = {
     ,"webpack": "webpack.github.io/webpack.js.org"
     ,"weekly" : "xdimh.github.io/weekly"
     ,"within": "eric-brechemier.github.io/within" //noCF? (don´t add this in a new PR)
-    ,"wooyun": "jiji262.github.io/wooyun_articles" 
+    ,"wooyun": "jiji262.github.io/wooyun_articles"
     ,"wordywordy": "sverweij.github.io/wordywordy"
     ,"wwb": "eqielb.github.io/wwb" //noCF? (don´t add this in a new PR)
     ,"wyfe": "wangyuanstudio.github.io/WYFE" //noCF? (don´t add this in a new PR)
@@ -717,4 +717,5 @@ var cnames_active = {
     ,"zazu": "zazujs.github.io" //noCF? (don´t add this in a new PR)
     ,"zodiac": "indus.github.io/Zodiac" //noCF? (don´t add this in a new PR)
     ,"zombie": "assaf.github.io/zombie" //noCF? (don´t add this in a new PR)
+    ,"rockjins": "rockjins.github.io"
 }
