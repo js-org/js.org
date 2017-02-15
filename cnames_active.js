@@ -551,6 +551,7 @@ var cnames_active = {
     ,"risingstars2016": "michaelrambeau.github.io/risingstars2016"
     ,"rivki": "mikqi.github.io"
     ,"rmodal": "zewish.github.io/rmodal.js" //noCF? (don´t add this in a new PR)
+    ,"rockjins": "rockjins.github.io"
     ,"router-advanced": "oldergod.github.io/router-advanced"
     ,"rp": "rpocklin.github.io" //noCF? (don´t add this in a new PR)
     ,"ruhuman": "ruhuman.github.io" //noCF? (don´t add this in a new PR)
@@ -717,5 +718,4 @@ var cnames_active = {
     ,"zazu": "zazujs.github.io" //noCF? (don´t add this in a new PR)
     ,"zodiac": "indus.github.io/Zodiac" //noCF? (don´t add this in a new PR)
     ,"zombie": "assaf.github.io/zombie" //noCF? (don´t add this in a new PR)
-    ,"rockjins": "rockjins.github.io"
 }
