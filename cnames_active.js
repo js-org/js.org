@@ -359,6 +359,7 @@ var cnames_active = {
     ,"logo": "js-org.github.io/logo" //noCF? (don´t add this in a new PR)
     ,"lostyle": "rtsao.github.io/lostyle"
     ,"ls": "links-js.github.io"
+    ,"lwxyfer": "lwxyfer.github.io" //noCF? (don´t add this in a new PR)
     ,"lychee": "Artificial-Engineering.github.io/lycheeJS-website"
     ,"magnet": "magnetjs.github.io/Magnet" //noCF? (don´t add this in a new PR)
     ,"marble": "jsguy.github.io/marble"
@@ -717,5 +718,4 @@ var cnames_active = {
     ,"zazu": "zazujs.github.io" //noCF? (don´t add this in a new PR)
     ,"zodiac": "indus.github.io/Zodiac" //noCF? (don´t add this in a new PR)
     ,"zombie": "assaf.github.io/zombie" //noCF? (don´t add this in a new PR)
-    ,"lwxyfer": "lwxyfer.github.io" //noCF? (don´t add this in a new PR)
 }
