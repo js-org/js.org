@@ -217,6 +217,7 @@ var cnames_active = {
     ,"eval": "jshawl.github.io/eval" //noCF? (don´t add this in a new PR)
     ,"eventstore": "adrai.github.io/node-eventstore" //noCF? (don´t add this in a new PR)
     ,"exbars": "youssefkababe.github.io/exbars" //noCF? (don´t add this in a new PR)
+    ,"exponent": "getexponent.com"
     ,"express-saml2": "tngan.github.io/express-saml2"
     ,"extraction": "rse.github.io/extraction" //noCF? (don´t add this in a new PR)
     ,"facepalm": "santiagogil.github.io/facepalm"
