@@ -36,7 +36,6 @@
 
 var cnames_active = {
     "": "js-org.github.io"
-    ,"hhao99":"hhao99.github.io"
     ,"medit": "echosoar.github.io/medit"
     ,"100dayz": "deadcoder0904.github.io/100dayz"
     ,"101": "7anshuai.github.io/js101" //noCF? (don´t add this in a new PR)
@@ -282,6 +281,7 @@ var cnames_active = {
     ,"hay": "hayjs.github.io/hay.js.org"
     ,"heartseekers": "rajington.github.io/heartseekers" //noCF? (don´t add this in a new PR)
     ,"hello": "hello-js-org.github.io" //noCF? (don´t add this in a new PR)
+    ,"hhao99":"hhao99.github.io"
     ,"hilo": "erikroyall.github.io/hilo" //noCF? (don´t add this in a new PR)
     ,"hk": "akura-co.github.io/hk" //noCF? (don´t add this in a new PR)
     ,"hooloo": "hooloo.github.io" //noCF? (don´t add this in a new PR)
