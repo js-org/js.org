@@ -700,6 +700,7 @@ var cnames_active = {
     ,"webpack": "webpack.github.io/webpack.js.org"
     ,"weekly" : "xdimh.github.io/weekly"
     ,"within": "eric-brechemier.github.io/within" //noCF? (don´t add this in a new PR)
+    ,"wlwr": "wlwr.github.io"
     ,"wooyun": "jiji262.github.io/wooyun_articles" 
     ,"wordywordy": "sverweij.github.io/wordywordy"
     ,"wwb": "eqielb.github.io/wwb" //noCF? (don´t add this in a new PR)
