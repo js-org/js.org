@@ -300,6 +300,7 @@ var cnames_active = {
     ,"immybox": "immense.github.io/immybox" //noCF? (don´t add this in a new PR)
     ,"infinite-tree": "cheton.github.io/infinite-tree"
     ,"initial-wu": "initial-wu.github.io"
+    ,"inline-style-prefixer": "rofrischmann.github.io/inline-style-prefixer"
     ,"invoicing": "vahe.github.io/InvoicingJs"
     ,"ip-address": "beaugunderson.github.io/ip-address" //noCF? (don´t add this in a new PR)
     ,"is": "arasatasaygin.github.io/is.js" //noCF? (don´t add this in a new PR)
