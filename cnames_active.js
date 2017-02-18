@@ -437,6 +437,7 @@ var cnames_active = {
     ,"nsp": "hanul.github.io/NSP" //noCF? (don´t add this in a new PR)
     ,"nsptiles": "imthenachoman.github.io/nSPTiles" //noCF? (don´t add this in a new PR)
     ,"nvanthao": "nvanthao.github.io" //noCF? (don´t add this in a new PR)
+    ,"ñ":"fforres.github.io/-.js"
     ,"objectmodel": "sylvainpolletvillard.github.io/ObjectModel" //noCF? (don´t add this in a new PR)
     ,"oec": "crellison.github.io/oec"
     ,"oib": "andreicek.github.io/oib.js"
@@ -700,7 +701,7 @@ var cnames_active = {
     ,"webpack": "webpack.github.io/webpack.js.org"
     ,"weekly" : "xdimh.github.io/weekly"
     ,"within": "eric-brechemier.github.io/within" //noCF? (don´t add this in a new PR)
-    ,"wooyun": "jiji262.github.io/wooyun_articles" 
+    ,"wooyun": "jiji262.github.io/wooyun_articles"
     ,"wordywordy": "sverweij.github.io/wordywordy"
     ,"wwb": "eqielb.github.io/wwb" //noCF? (don´t add this in a new PR)
     ,"wyfe": "wangyuanstudio.github.io/WYFE" //noCF? (don´t add this in a new PR)
