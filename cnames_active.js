@@ -177,7 +177,7 @@ var cnames_active = {
     ,"dio": "thysultan.github.io/dio.js"
     ,"discord": "hydrabolt.github.io/discord.js-site"
     ,"distillery": "achannarasappa.github.io/distillery" //noCF? (don´t add this in a new PR)
-    ,"distri": "flarp.github.io/Distri-JS"
+    ,"distri": "flarp.github.io/Distri.js"
     ,"djzhao": "djzhao627.github.io"
     ,"dmitry": "dmitry-zaets.github.io" //noCF? (don´t add this in a new PR)
     ,"dns": "js-org.github.io/dns.js.org"
@@ -346,6 +346,7 @@ var cnames_active = {
     ,"languages": "rsamaium.github.io/Languages"
     ,"latte","tehsenaus.github.io/latte-js"
     ,"laubstein": "laubstein.github.io" //noCF? (don´t add this in a new PR)
+    ,"leafless": "mofax.github.io/leafless"
     ,"lean-stack": "lean-stack.github.io" //noCF? (don´t add this in a new PR)
     ,"leandro": "leandrowd.github.io" //noCF? (don´t add this in a new PR)
     ,"learnGitBranching": "pcottle.github.io/learnGitBranching" //noCF? (don´t add this in a new PR)
