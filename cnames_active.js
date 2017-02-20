@@ -345,6 +345,7 @@ var cnames_active = {
     ,"languages": "rsamaium.github.io/Languages"
     ,"latte","tehsenaus.github.io/latte-js"
     ,"laubstein": "laubstein.github.io" //noCF? (don´t add this in a new PR)
+    ,"leafless": "mofax.github.io/leafless"
     ,"lean-stack": "lean-stack.github.io" //noCF? (don´t add this in a new PR)
     ,"leandro": "leandrowd.github.io" //noCF? (don´t add this in a new PR)
     ,"learnGitBranching": "pcottle.github.io/learnGitBranching" //noCF? (don´t add this in a new PR)
