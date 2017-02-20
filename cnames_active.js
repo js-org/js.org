@@ -178,6 +178,7 @@ var cnames_active = {
     ,"discord": "hydrabolt.github.io/discord.js-site"
     ,"distillery": "achannarasappa.github.io/distillery" //noCF? (don´t add this in a new PR)
     ,"distri": "flarp.github.io/Distri-JS"
+    ,"djzhao": "djzhao627.github.io"
     ,"dmitry": "dmitry-zaets.github.io" //noCF? (don´t add this in a new PR)
     ,"dns": "js-org.github.io/dns.js.org"
     ,"docsify": "QingWei-Li.github.io/docsify"
@@ -720,5 +721,4 @@ var cnames_active = {
     ,"zazu": "zazujs.github.io" //noCF? (don´t add this in a new PR)
     ,"zodiac": "indus.github.io/Zodiac" //noCF? (don´t add this in a new PR)
     ,"zombie": "assaf.github.io/zombie" //noCF? (don´t add this in a new PR)
-    ,"djzhao": "djzhao627.github.io"
 }
