@@ -688,6 +688,7 @@ var cnames_active = {
     ,"vanessa": "vanessa219.github.io/vanessa"
     ,"vanilla": "haeresis.github.io/vanilla-js-dom"
     ,"vbuild":"egoist.github.io/vbuild.js.org"
+    ,"video-react": "video-react.github.io"
     ,"vico": "bohdantkachenko.github.io/vico" //noCF? (don´t add this in a new PR)
     ,"vinimdocarmo": "vinimdocarmo.github.com" //noCF? (don´t add this in a new PR)
     ,"visualnovel": "selcher.github.io/visualnoveljs" //noCF? (don´t add this in a new PR)
