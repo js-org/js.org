@@ -388,6 +388,7 @@ var cnames_active = {
     ,"mf": "awto.github.io/mfjs-compiler" //noCF? (don´t add this in a new PR)
     ,"miguelsr": "miguelsr.github.io" //noCF? (don´t add this in a new PR)
     ,"mimic": "500tech.github.io/mimic"
+    ,"mina": "CenturyUna.github.io/mina"
     ,"minesweeper": "derflatulator.github.io/minesweeper"
     ,"mingyi": "liangmingyi.github.io" //noCF? (don´t add this in a new PR)
     ,"minigrid": "henriquea.github.io/minigrid" //noCF? (don´t add this in a new PR)
