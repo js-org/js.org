@@ -389,6 +389,7 @@ var cnames_active = {
     ,"mf": "awto.github.io/mfjs-compiler" //noCF? (don´t add this in a new PR)
     ,"miguelsr": "miguelsr.github.io" //noCF? (don´t add this in a new PR)
     ,"mimic": "500tech.github.io/mimic"
+    ,"mina": "CenturyUna.github.io/mina"
     ,"minesweeper": "derflatulator.github.io/minesweeper"
     ,"mingyi": "liangmingyi.github.io" //noCF? (don´t add this in a new PR)
     ,"minigrid": "henriquea.github.io/minigrid" //noCF? (don´t add this in a new PR)
@@ -726,4 +727,5 @@ var cnames_active = {
     ,"zazu": "zazujs.github.io" //noCF? (don´t add this in a new PR)
     ,"zodiac": "indus.github.io/Zodiac" //noCF? (don´t add this in a new PR)
     ,"zombie": "assaf.github.io/zombie" //noCF? (don´t add this in a new PR)
+    ,"mina": "github.com/CenturyUna/mina"
 }
