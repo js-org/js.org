@@ -363,6 +363,7 @@ var cnames_active = {
     ,"logo": "js-org.github.io/logo" //noCF? (don´t add this in a new PR)
     ,"lostyle": "rtsao.github.io/lostyle"
     ,"ls": "links-js.github.io"
+    ,"lwxyfer": "lwxyfer.github.io" //noCF? (don´t add this in a new PR)
     ,"lychee": "Artificial-Engineering.github.io/lycheeJS-website"
     ,"magnet": "magnetjs.github.io/Magnet" //noCF? (don´t add this in a new PR)
     ,"masha": "smarttelemax.github.io/MaSha"
