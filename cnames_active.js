@@ -443,6 +443,7 @@ var cnames_active = {
     ,"nsp": "hanul.github.io/NSP" //noCF? (don´t add this in a new PR)
     ,"nsptiles": "imthenachoman.github.io/nSPTiles" //noCF? (don´t add this in a new PR)
     ,"nvanthao": "nvanthao.github.io" //noCF? (don´t add this in a new PR)
+    ,"nxse": "nxse.github.io"
     ,"objectmodel": "sylvainpolletvillard.github.io/ObjectModel" //noCF? (don´t add this in a new PR)
     ,"oec": "crellison.github.io/oec"
     ,"oib": "andreicek.github.io/oib.js"
