@@ -364,6 +364,7 @@ var cnames_active = {
     ,"lostyle": "rtsao.github.io/lostyle"
     ,"ls": "links-js.github.io"
     ,"lychee": "Artificial-Engineering.github.io/lycheeJS-website"
+	,"madankumar": "jmadankumar.github.io"
     ,"magnet": "magnetjs.github.io/Magnet" //noCF? (don´t add this in a new PR)
     ,"masha": "smarttelemax.github.io/MaSha"
     ,"marble": "jsguy.github.io/marble"
