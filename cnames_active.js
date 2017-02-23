@@ -96,6 +96,7 @@ var cnames_active = {
     ,"bodybuilder": "danpaz.github.io/bodybuilder" //noCF? (don´t add this in a new PR)
     ,"bool": "booljs.github.io"
     ,"bombsweeper": "pakastin.github.io/bombsweeper"
+    ,"booth": "zachrose.github.io/booth"
     ,"bootstrap-confirmation": "mistic100.github.io/Bootstrap-Confirmation" //noCF? (don´t add this in a new PR)
     ,"bornaeon": "bornaeon.github.io" //noCF
     ,"box": "capacitorset.github.io/box-js" //noCF
