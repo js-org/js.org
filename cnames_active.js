@@ -724,6 +724,7 @@ var cnames_active = {
     ,"yargs": "yargs.github.io" //noCF? (don´t add this in a new PR)
     ,"youtim": "mortonfox.github.io/YouTim" //noCF? (don´t add this in a new PR)
     ,"youtube-box": "lucasmonteverde.github.io/youtube-box" //noCF? (don´t add this in a new PR)
+    ,"yuanliang": "yuanliang.github.io"
     ,"zanyuyu": "zanseven007.github.io/resume" //noCF
     ,"zazu": "zazujs.github.io" //noCF? (don´t add this in a new PR)
     ,"zodiac": "indus.github.io/Zodiac" //noCF? (don´t add this in a new PR)
