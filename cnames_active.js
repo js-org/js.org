@@ -89,7 +89,7 @@ var cnames_active = {
     ,"bc": "mazko.github.io/bc.js"
     ,"begin": "advanced-webapps-class.github.io/begin" //noCF? (don´t add this in a new PR)
     ,"bestof": "michaelrambeau.github.io/bestofjs" //noCF? (don´t add this in a new PR)
-    ,"biblesearch: "davidtaylorjr.github.io/bible-search"
+    ,"biblesearch": "davidtaylorjr.github.io/bible-search"
     ,"bildepunkt": "bildepunkt.github.io" //noCF? (don´t add this in a new PR)
     ,"bind-action-dispatchers": "cchamberlain.github.io/bind-action-dispatchers" //noCF? (don´t add this in a new PR)
     ,"biu": "aprilorange.github.io/biu" //noCF? (don´t add this in a new PR)
@@ -373,7 +373,7 @@ var cnames_active = {
     ,"mde": "lukehorvat.github.io/mde-soundboard" //noCF? (don´t add this in a new PR)
     ,"medan": "medan-js.github.io" //noCF
     ,"mediainfo": "buzz.github.io/mediainfo.js"
-	  ,"medit": "echosoar.github.io/medit"
+    ,"medit": "echosoar.github.io/medit"
     ,"medium-header": "danielfeelfine.github.io/medium-header" //noCF? (don´t add this in a new PR)
     ,"meiosis": "foxdonut.github.io/meiosis" //noCF? (don´t add this in a new PR)
     ,"mern": "IamMohaiminul.GitHub.io/MERNjs"
