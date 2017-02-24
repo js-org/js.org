@@ -89,7 +89,8 @@ var cnames_active = {
     ,"bc": "mazko.github.io/bc.js"
     ,"begin": "advanced-webapps-class.github.io/begin" //noCF? (don´t add this in a new PR)
     ,"bestof": "michaelrambeau.github.io/bestofjs" //noCF? (don´t add this in a new PR)
-    ,"bildepunkt": "bildepunkt.github.io" //noCF? (don´t add this in a new PR)
+    ,"biblesearch: "davidtaylorjr.github.io/bible-search"
+	,"bildepunkt": "bildepunkt.github.io" //noCF? (don´t add this in a new PR)
     ,"bind-action-dispatchers": "cchamberlain.github.io/bind-action-dispatchers" //noCF? (don´t add this in a new PR)
     ,"biu": "aprilorange.github.io/biu" //noCF? (don´t add this in a new PR)
     ,"blogpage": "zanseven007.github.io/blog-page" //noCF
