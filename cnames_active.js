@@ -124,6 +124,7 @@ var cnames_active = {
     ,"cheerio": "cheeriojs.github.io/cheerio"
     ,"chernivtsi": "chernivtsijs.github.io" //noCF? (don´t add this in a new PR)
     ,"chimon2000": "chimon2000.github.io" //noCF? (don´t add this in a new PR)
+    ,"chirashi": "chirashijs.github.io/chirashi"
     ,"chrislaughlin": "chrislaughlin.github.io" //noCF? (don´t add this in a new PR)
     ,"chrismendis": "chrismendis.github.io" //noCF? (don´t add this in a new PR)
     ,"christo": "christoga.github.io" //noCF? (don´t add this in a new PR)
