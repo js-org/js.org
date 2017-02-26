@@ -415,6 +415,7 @@ var cnames_active = {
 ,"mrn": "binggg.github.io/mrn" //noCF? (don´t add this in a new PR)
 ,"mrpluto": "mrpluto.github.io"
 ,"mscgen": "sverweij.github.io/mscgen_js"
+,"msp430": "mazko.github.io/MSP430.js"
 ,"multiple": "nexts.github.io/Multiple.js"
 ,"murder": "rolandpoulter.github.io/murder" //noCF? (don´t add this in a new PR)
 ,"mvc": "morozovsk.github.io/mvc" //noCF
