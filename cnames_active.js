@@ -162,6 +162,7 @@ var cnames_active = {
 ,"danmaku": "weizhenye.github.io/Danmaku"
 ,"danmol": "dan12mol.github.io" //noCF? (don´t add this in a new PR)
 ,"date": "matthewmueller.github.io/date" //noCF? (don´t add this in a new PR)
+,"davidtaylorjr": "davidtaylorjr.github.io"
 ,"daysfromnow": "pedrokost.github.io/daysfromnow" //noCF? (don´t add this in a new PR)
 ,"dbo": "z3ta.github.io/dbo" //noCF? (don´t add this in a new PR)
 ,"deck-of-cards": "pakastin.github.io/deck-of-cards"
