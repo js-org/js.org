@@ -55,6 +55,7 @@ var cnames_active = {
 ,"anggao": "anggao.github.io" //noCF? (don´t add this in a new PR)
 ,"angular-jsf": "json-schema-faker.github.io/angular-jsf" //noCF? (don´t add this in a new PR)
 ,"angularstompdk": "davinkevin.github.io/AngularStompDK" //noCF? (don´t add this in a new PR)
+,"animo": "thrivingkings.github.io/animo"
 ,"annotate": "taitems.github.io/web-pdf-annotation" //noCF? (don´t add this in a new PR)
 ,"annoyingmouse": "annoyingmouse.github.io" //noCF? (don´t add this in a new PR)
 ,"anukul": "anukul.github.io"
