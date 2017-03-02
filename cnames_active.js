@@ -117,6 +117,7 @@ var cnames_active = {
 ,"bustime": "agarzola.github.io/bustime" //noCF? (don´t add this in a new PR)
 ,"c-3po": "c-3po-org.github.io/c-3po"
 ,"cable": "whatgoodisaroad.github.io/cablejs" //noCF? (don´t add this in a new PR)
+,"cagatay": "cagataycali.github.io"
 ,"calcy": "odevlord.github.io/Calcy" //noCF? (don´t add this in a new PR)
 ,"calendarios": "helpdev.github.io/Calendarios" //noCF? (don´t add this in a new PR)
 ,"candyland": "candyland-js.github.io/candyland"
@@ -739,5 +740,4 @@ var cnames_active = {
 ,"zazu": "zazujs.github.io" //noCF? (don´t add this in a new PR)
 ,"zodiac": "indus.github.io/Zodiac" //noCF? (don´t add this in a new PR)
 ,"zombie": "assaf.github.io/zombie" //noCF? (don´t add this in a new PR)
-,"cagatay": "cagataycali.github.io" //noCF? (don´t add this in a new PR)
 }
