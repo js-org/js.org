@@ -122,6 +122,7 @@ var cnames_active = {
 ,"calendarios": "helpdev.github.io/Calendarios" //noCF? (don´t add this in a new PR)
 ,"candyland": "candyland-js.github.io/candyland"
 ,"capital": "capitaljs.github.io/capitaljs"
+,"capsule": "capsule-js-org.github.io/capsule"
 ,"cartodb-demo": "opensas.github.io/cartodb-demo" //noCF? (don´t add this in a new PR)
 ,"central-node": "central-node.github.io" //noCF? (don´t add this in a new PR)
 ,"chatexchange": "jacob-gray.github.io/ChatExchangeJS"
