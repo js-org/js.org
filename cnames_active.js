@@ -373,6 +373,7 @@ var cnames_active = {
 ,"ls": "links-js.github.io"
 ,"lychee": "Artificial-Engineering.github.io/lycheeJS-website"
 ,"magnet": "magnetjs.github.io/Magnet" //noCF? (don´t add this in a new PR)
+,"maki": "makixx.github.io"
 ,"marble": "jsguy.github.io/marble"
 ,"marcosflorencio": "marcosflorencio.github.io"
 ,"markmsmith": "markmsmith.github.io"
