@@ -527,6 +527,7 @@ var cnames_active = {
 ,"react-atomic-ui": "react-atomic.github.io/react-atomic-ui"
 ,"react-autosuggest": "moroshko.github.io/react-autosuggest" //noCF? (don´t add this in a new PR)
 ,"react-autowhatever": "moroshko.github.io/react-autowhatever" //noCF? (don´t add this in a new PR)
+,"react-chart": "react-chart.github.io/react-chart"
 ,"react-day-picker": "gpbl.github.io/react-day-picker" //noCF
 ,"react-easy-swipe": "leandrowd.github.io/react-easy-swipe" //noCF? (don´t add this in a new PR)
 ,"react-entanglement": "react-entanglement.github.io"
