@@ -1,4 +1,4 @@
-﻿/*
+/*
  **** RESTRICTED SUBDOMAINS
  * **************************
  * 
@@ -36,6 +36,7 @@ var cnames_restricted = [
     "blog(s)",
     "book(s)",
     "boolean",
+    "bot(s)",
     "browser(s)",
     "bug(s)",
     "build(s)",
@@ -77,6 +78,7 @@ var cnames_restricted = [
     "dyn",
     "easy",
     "ecma",
+    "editor",
     "email(s)",
     "enterprise(s)",
     "es2015",
