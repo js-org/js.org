@@ -133,7 +133,7 @@ var cnames_active = {
 ,"chirashi": "chirashijs.github.io/chirashi"
 ,"chrislaughlin": "chrislaughlin.github.io" //noCF? (don´t add this in a new PR)
 ,"chrismendis": "chrismendis.github.io" //noCF? (don´t add this in a new PR)
-,"christo": "christoga.github.io" //noCF? (don´t add this in a new PR)
+,"christo": "christoga.github.io/js-org" //noCF? (don´t add this in a new PR)
 ,"chronos": "espinielli.github.io/chronos" //noCF? (don´t add this in a new PR)
 ,"cineasta": "cineasta-js.github.io/cineasta-docs"
 ,"clause": "clausejs.github.io/clausejs"
