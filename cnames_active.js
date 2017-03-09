@@ -355,7 +355,7 @@ var cnames_active = {
 ,"labelauty": "fntneves.github.io/jquery-labelauty" //noCF? (don´t add this in a new PR)
 ,"lambda": "lambdajs.github.io" //noCF? (don´t add this in a new PR)
 ,"languages": "rsamaium.github.io/Languages"
-,"latte","tehsenaus.github.io/latte-js"
+,"latte":"tehsenaus.github.io/latte-js"
 ,"laubstein": "laubstein.github.io" //noCF? (don´t add this in a new PR)
 ,"leafless": "mofax.github.io/leafless"
 ,"lean-stack": "lean-stack.github.io" //noCF? (don´t add this in a new PR)
