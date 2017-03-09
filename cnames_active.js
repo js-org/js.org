@@ -248,6 +248,7 @@ var cnames_active = {
 ,"form": "the94air.github.io/formjs"
 ,"formred": "zewish.github.io/formred"
 ,"fortune": "fortunejs.github.io/fortune" //noCF? (don´t add this in a new PR)
+,"fnx": "fnxjs.gitbooks.io/fnx-documentation"
 ,"freemarker": "ijse.github.io/freemarker.js" //noCF? (don´t add this in a new PR)
 ,"freezer": "pakastin.github.io/freezer"
 ,"frint": "travix-international.github.io/frint"
@@ -326,7 +327,7 @@ var cnames_active = {
 ,"jalbertbowden": "jalbertbowden.github.io" //noCF? (don´t add this in a new PR)
 ,"james": "jamesrowen.github.io/james" //noCF? (don´t add this in a new PR)
 ,"jargon": "hugogiraudel.github.io/SJSJ" //noCF? (don´t add this in a new PR)
-,"javascript-kitchen": "jskitchen.github.io"  
+,"javascript-kitchen": "jskitchen.github.io"
 ,"jbone": "kupriyanenko.github.io/jbone" //noCF? (don´t add this in a new PR)
 ,"jets": "nexts.github.io/Jets.js"
 ,"jinya": "chenjinya.github.io"
