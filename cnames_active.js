@@ -212,6 +212,7 @@ var cnames_active = {
 ,"embedlam": "wnda.github.io/embedlam"
 ,"ember-cli-page-object": "san650.github.io/ember-cli-page-object" //noCF? (don´t add this in a new PR)
 ,"emeraldcraftmc": "emeraldcraftmc.github.io" //noCF? (don´t add this in a new PR)
+,"emoji": "egoist.github.io/emoji"
 ,"emulisp": "grahack.github.io/EmuLisp" //noCF? (don´t add this in a new PR)
 ,"enclave": "eanplatter.github.io/enclave" //noCF? (don´t add this in a new PR)
 ,"engui": "engui.github.io"
