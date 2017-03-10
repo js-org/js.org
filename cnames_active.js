@@ -470,7 +470,7 @@ var cnames_active = {
 ,"os": "91.247.228.125" //noCF
 ,"osom": "kikobeats.github.io/osom"
 ,"pad": "ebraminio.github.io/pad.js" //noCF? (don´t add this in a new PR)
-,"pagination": "superRaytin.github.io/paginationjs-site" //noCF? (don´t add this in a new PR)
+,"pagination": "superRaytin.github.io/paginationjs-site" //noCF
 ,"pamatcher": "pmros.github.io/pamatcher" //noCF? (don´t add this in a new PR)
 ,"pantarei": "pantareijs.github.io/pantarei.js.org"
 ,"panza": "panza-org.github.io/panza-docs" //noCF
