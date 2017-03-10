@@ -707,7 +707,7 @@ var cnames_active = {
 ,"validator": "ppoffice.github.io/validator.js" //noCF? (don´t add this in a new PR)
 ,"vanessa": "vanessa219.github.io/vanessa"
 ,"vanilla": "haeresis.github.io/vanilla-js-dom"
-,"vbuild":"egoist.github.io/vbuild.js.org"
+,"vbuild":"egoist.github.io/vbuild"
 ,"vico": "bohdantkachenko.github.io/vico" //noCF? (don´t add this in a new PR)
 ,"video-react": "video-react.github.io"
 ,"vinimdocarmo": "vinimdocarmo.github.com" //noCF? (don´t add this in a new PR)
