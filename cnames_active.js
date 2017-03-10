@@ -102,7 +102,7 @@ var cnames_active = {
 ,"bool": "booljs.github.io"
 ,"bootstrap-confirmation": "mistic100.github.io/Bootstrap-Confirmation" //noCF? (don´t add this in a new PR)
 ,"bornaeon": "bornaeon.github.io" //noCF
-,"boundless": "enigma-io.github.io/boundless" //noCF
+,"boundless": "enigma-io.github.io/boundless"
 ,"box": "capacitorset.github.io/box-js" //noCF
 ,"bplayer": "classicoldsong.github.io/bPlayer" //noCF? (don´t add this in a new PR)
 ,"brandonmerritt": "brandonmerritt.github.io" //noCF? (don´t add this in a new PR)
