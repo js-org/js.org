@@ -524,6 +524,7 @@ var cnames_active = {
 ,"rafaelmangolin": "rafaelMangolin.github.io" //noCF? (don´t add this in a new PR)
 ,"rag" : "michaellyons.github.io/react-amazon-gallery" //noCF? (don´t add this in a new PR)
 ,"rahul": "rahulsukla.github.io/rahul" //noCF? (don´t add this in a new PR)
+,"ralphembree": "ralphembree.github.io"
 ,"rangeslider": "andreruffert.github.io/rangeslider.js" //noCF? (don´t add this in a new PR)
 ,"rate-limiter-api": "abhisekp.github.io/rate-limiter-api"
 ,"react-atomic-ui": "react-atomic.github.io/react-atomic-ui"
