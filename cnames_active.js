@@ -430,6 +430,7 @@ var cnames_active = {
 ,"murder": "rolandpoulter.github.io/murder" //noCF? (don´t add this in a new PR)
 ,"mvc": "morozovsk.github.io/mvc" //noCF
 ,"mvidalgarcia": "mvidalgarcia.github.io" //noCF? (don´t add this in a new PR)
+,"mw": "agauniyal.github.io/mw"
 ,"mythbusters": "kikobeats.github.io/js-mythbusters"
 ,"n-j-m": "n-j-m.github.io" //noCF? (don´t add this in a new PR)
 ,"nanimation": "imthenachoman.github.io/nAnimation" //noCF? (don´t add this in a new PR)
