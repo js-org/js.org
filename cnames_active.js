@@ -418,6 +418,7 @@ var cnames_active = {
 ,"momentum": "wemakeweb.github.io/momentum" //noCF? (don´t add this in a new PR)
 ,"monkberry": "monkberry.github.io" //noCF? (don´t add this in a new PR)
 ,"moose": "mustpax.github.io/moose"
+,"moro": "omidfi.github.io/moro"  
 ,"morocco": "moroccojs.github.io"
 ,"motapc": "motapc97.github.io" //noCF? (don´t add this in a new PR)
 ,"mpe": "weareroli.github.io/mpejs" //noCF? (don´t add this in a new PR)
