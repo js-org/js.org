@@ -614,7 +614,7 @@ var cnames_active = {
 ,"silfr": "silfr.github.io/iterativecolor"
 ,"silky": "wvv8oo.github.com/silky" //noCF? (don´t add this in a new PR)
 ,"siluna": "pahund.github.io/siluna" //noCF? (don´t add this in a new PR)
-,"simulacra": "0x8890.github.io/simulacra" //noCF? (don´t add this in a new PR)
+,"simulacra": "daliwali.github.io/simulacra"
 ,"sirkit": "seckwei.github.io/SirKit_CircuitSim" //noCF? (don´t add this in a new PR)
 ,"sizle": "christoga.github.io/sizle" //noCF? (don´t add this in a new PR)
 ,"skate": "skatejs.github.io" //noCF? (don´t add this in a new PR)
