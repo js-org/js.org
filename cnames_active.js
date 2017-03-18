@@ -505,6 +505,7 @@ var cnames_active = {
 ,"pivot": "wnda.github.io/pivot"
 ,"pixelart": "meriadec.github.io/PixelartJS" //noCF? (don´t add this in a new PR)
 ,"plait": "wildlyinaccurate.github.io/plait"
+,"plan": "agauniyal.github.io/plan"
 ,"planisphere": "dai-shi.github.io/planisphere-site" //noCF? (don´t add this in a new PR)
 ,"pliers": "pliersjs.github.io" //noCF? (don´t add this in a new PR)
 ,"pnpm": "pnpm.github.io"
