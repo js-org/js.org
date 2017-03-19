@@ -140,6 +140,7 @@ var cnames_active = {
 ,"clockwork": "arcadiogarcia.github.io/Clockwork.js" //noCF? (don´t add this in a new PR)
 ,"clusterize": "nexts.github.io/Clusterize.js"
 ,"cmbhackjs2013": "cmbjs.github.io/cmbHackjs2013"
+,"cn.mobx": "sangka.github.io/mobx-docs-cn" //noCF? (don´t add this in a new PR)
 ,"cn.redux": "camsong.github.io/redux-in-chinese" //noCF? (don´t add this in a new PR)
 ,"cnc": "cncjs.github.io"
 ,"codemade": "codemade.github.io" //noCF? (don´t add this in a new PR)
