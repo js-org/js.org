@@ -550,6 +550,7 @@ var cnames_active = {
 ,"reactabular": "bebraw.github.io/reactabular"
 ,"reactdesktop": "gabrielbull.github.io/react-desktop" //noCF? (don´t add this in a new PR)
 ,"reader": "ruanyl.github.io/js-reader" //noCF? (don´t add this in a new PR)
+,"realt": "vnkitaev.github.io/realt"
 ,"realtime": "datamcfly.github.io/realtimejs" //noCF? (don´t add this in a new PR)
 ,"reassign": "hasharray.github.io/reassign.js"
 ,"rebatov": "rebatov.github.io"
