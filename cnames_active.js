@@ -59,6 +59,7 @@ var cnames_active = {
 ,"annotate": "taitems.github.io/web-pdf-annotation" //noCF? (don´t add this in a new PR)
 ,"annoyingmouse": "annoyingmouse.github.io" //noCF? (don´t add this in a new PR)
 ,"anukul": "anukul.github.io"
+,"antwar", "antwarjs.github.io/antwar"
 ,"api-spec": "api-spec.github.io" //noCF? (don´t add this in a new PR)
 ,"apicluster": "ramsunvtech.github.io/apicluster" //noCF? (don´t add this in a new PR)
 ,"aping": "johnnythetank.github.io/apiNG" //noCF? (don´t add this in a new PR)
