@@ -420,7 +420,7 @@ var cnames_active = {
 ,"mol": "eigenmethod.github.io/mol" //noCF
 ,"mom": "momjs.github.io/mom"
 ,"momentum": "wemakeweb.github.io/momentum" //noCF? (don´t add this in a new PR)
-,"monkberry": "monkberry.github.io" //noCF? (don´t add this in a new PR)
+,"monkberry": "monkberry.github.io"
 ,"moose": "mustpax.github.io/moose"
 ,"moro": "omidfi.github.io/moro"  
 ,"morocco": "moroccojs.github.io"
