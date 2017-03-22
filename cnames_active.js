@@ -165,6 +165,7 @@ var cnames_active = {
 ,"cryptokey": "rumkin.github.com/crypto-key"
 ,"cucumber-mink": "adezandee.github.io/cucumber-mink" //noCF? (don´t add this in a new PR)
 ,"cycle": "cyclejs.github.io"
+,"cyclow": "pmros.github.io/cyclow" //noCF
 ,"d4": "joelburget.github.io/d4"
 ,"danmaku": "weizhenye.github.io/Danmaku"
 ,"danmol": "dan12mol.github.io" //noCF? (don´t add this in a new PR)
