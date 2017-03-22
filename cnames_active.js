@@ -220,6 +220,7 @@ var cnames_active = {
 ,"engui": "engui.github.io"
 ,"eq8": "eq8.github.io"
 ,"eray": "erayarslan.github.io" //noCF? (don´t add this in a new PR)
+,"eric": "otteric.github.com"
 ,"erik": "erikroyall.github.com" //noCF? (don´t add this in a new PR)
 ,"es.redux": "sergiodxa.github.io/redux-in-spanish" //noCF? (don´t add this in a new PR)
 ,"es2015-node": "martinheidegger.github.io/es6modules-nodejs" //noCF? (don´t add this in a new PR)
