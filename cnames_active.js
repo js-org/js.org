@@ -246,7 +246,7 @@ var cnames_active = {
 ,"firenze": "fahad19.github.io/firenze" //noCF? (don´t add this in a new PR)
 ,"fis": "fex-team.github.io/fis-site" //noCF? (don´t add this in a new PR)
 ,"five": "jackdcrawford.github.io/five"
-,"svelteui": "transpiling.github.io/svelte-flat-ui"  
+,"svelteui": "transpiling.github.io/svelte-flat-ui"
 ,"fld-grd": "mrksbnch.github.io/fld-grd"
 ,"flexmasonry": "kavanmevada.github.io/flex_masonry" //noCF
 ,"flowchart": "adrai.github.io/flowchart.js" //noCF? (don´t add this in a new PR)
@@ -352,6 +352,7 @@ var cnames_active = {
 ,"kainy": "kainy.github.io/js.org"
 ,"kalm": "fed135.github.io/kalm.github.io" //noCF? (don´t add this in a new PR)
 ,"karl": "karlcoelho.github.io/portfolio" //noCF? (don´t add this in a new PR)
+,"karlbateman": "karlbateman.github.io/karlbateman.js.org"
 ,"kea": "mariusandra.github.io/kea"
 ,"kelvinho": "kelvin2go.github.io" //noCF? (don´t add this in a new PR)
 ,"keypress": "rumkin.github.io/keypress.js.org"
@@ -424,7 +425,7 @@ var cnames_active = {
 ,"momentum": "wemakeweb.github.io/momentum" //noCF? (don´t add this in a new PR)
 ,"monkberry": "monkberry.github.io"
 ,"moose": "mustpax.github.io/moose"
-,"moro": "omidfi.github.io/moro"  
+,"moro": "omidfi.github.io/moro"
 ,"morocco": "moroccojs.github.io"
 ,"motapc": "motapc97.github.io" //noCF? (don´t add this in a new PR)
 ,"mpe": "weareroli.github.io/mpejs" //noCF? (don´t add this in a new PR)
