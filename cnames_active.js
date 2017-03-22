@@ -496,7 +496,7 @@ var cnames_active = {
 ,"pdp-elements": "go4cas.github.io/pdp_elements" //noCF? (don´t add this in a new PR)
 ,"peekaboo": "nadavspi.github.io/peekaboo.js"
 ,"pegboard": "mplewis.github.io/pegboard"
-,"penguin": "domachine.github.io/penguin/"
+,"penguin": "domachine.github.io/penguin"
 ,"penn-sdk": "pennlabs.github.io/penn-sdk-node" //noCF? (don´t add this in a new PR)
 ,"pentris": "justinjc.github.io/pentris2" //noCF? (don´t add this in a new PR)
 ,"perspective": "leopoldthecoder.github.io/Perspective"
