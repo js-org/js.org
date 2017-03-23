@@ -173,7 +173,7 @@ var cnames_active = {
 ,"daysfromnow": "pedrokost.github.io/daysfromnow" //noCF? (don´t add this in a new PR)
 ,"dbo": "z3ta.github.io/dbo" //noCF? (don´t add this in a new PR)
 ,"deck-of-cards": "pakastin.github.io/deck-of-cards"
-,"deepu": "deepu105.github.io" //noCF? (don´t add this in a new PR)
+,"deepu": "deepu105.github.io"
 ,"delegacias-fortaleza": "juliosampaio.github.io/delegacias-fortaleza" //noCF? (don´t add this in a new PR)
 ,"denisvieira": "fromdenisvieira.github.io" //noCF? (don´t add this in a new PR)
 ,"deputy": "ry4nolson.github.io/Deputy" //noCF? (don´t add this in a new PR)
