@@ -735,6 +735,7 @@ var cnames_active = {
 ,"vscode-apielements":"xvincentx.github.io/vscode-apielements"
 ,"vuikit":"vuikit.github.io"
 ,"vuongdothanhhuy": "vuongdothanhhuy.github.io" //noCF? (don´t add this in a new PR)
+,"vzla": "vzlajs.github.io"
 ,"wargamer": "hkwu.github.io/wargamer"
 ,"warnbot": "darkcoding-js.github.io/WarnBot"
 ,"watch": "ducin.github.io/watchjs.org" //noCF? (don´t add this in a new PR)
