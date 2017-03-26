@@ -595,6 +595,7 @@ var cnames_active = {
 ,"rp": "rpocklin.github.io" //noCF? (don´t add this in a new PR)
 ,"ruhuman": "ruhuman.github.io" //noCF? (don´t add this in a new PR)
 ,"ruwan": "rpgee.github.io"
+,"rx": "rxjs-cn.github.io/RxJS-Docs-CN" //noCF
 ,"saadmir": "saadmir.github.io" //noCF? (don´t add this in a new PR)
 ,"sagui": "saguijs.github.io" //noCF? (don´t add this in a new PR)
 ,"saigon": "saigonjs.github.io"
