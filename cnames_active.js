@@ -764,5 +764,4 @@ var cnames_active = {
 ,"zazu": "zazujs.github.io" //noCF? (don´t add this in a new PR)
 ,"zodiac": "indus.github.io/Zodiac" //noCF? (don´t add this in a new PR)
 ,"zombie": "assaf.github.io/zombie" //noCF? (don´t add this in a new PR)
-,"notibar": "duyetdev.github.io/notibar.js"
 }
