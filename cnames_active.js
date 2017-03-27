@@ -143,6 +143,7 @@ var cnames_active = {
 ,"cmbhackjs2013": "cmbjs.github.io/cmbHackjs2013"
 ,"cn.mobx": "sangka.github.io/mobx-docs-cn" //noCF
 ,"cn.redux": "camsong.github.io/redux-in-chinese" //noCF? (don´t add this in a new PR)
+,"cn.rx": "rxjs-cn.github.io/RxJS-Docs-CN" //noCF
 ,"cnc": "cncjs.github.io"
 ,"codemade": "codemade.github.io" //noCF? (don´t add this in a new PR)
 ,"coffea": "caffeinery.github.io/coffea"
