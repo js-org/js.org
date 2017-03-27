@@ -464,6 +464,7 @@ var cnames_active = {
 ,"nodegarden": "pakastin.github.io/nodegarden"
 ,"noted": "carter-slade.github.io/Noted-" //noCF? (don´t add this in a new PR)
 ,"noteit": "saha96.github.io/NoteIt" //noCF? (don´t add this in a new PR)
+,"notibar": "duyetdev.github.io/notibar.js" 
 ,"npmer": "rumkin.github.io/npm-watch"
 ,"nsp": "hanul.github.io/NSP" //noCF? (don´t add this in a new PR)
 ,"nsptiles": "imthenachoman.github.io/nSPTiles" //noCF? (don´t add this in a new PR)
