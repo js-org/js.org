@@ -416,7 +416,7 @@ var cnames_active = {
 ,"mingyi": "liangmingyi.github.io" //noCF? (don´t add this in a new PR)
 ,"minigrid": "henriquea.github.io/minigrid" //noCF? (don´t add this in a new PR)
 ,"mis101bird": "mis101bird.github.io" //noCF? (don´t add this in a new PR)
-,"mithril": "lhorie.github.io/mithril" //noCF? (don´t add this in a new PR)
+,"mithril": "lhorie.github.io/mithril.js"
 ,"mithril-ja": "shibukawa.github.io/mithril-ja" //noCF? (don´t add this in a new PR)
 ,"mmcq": "nikola.github.io/MMCQ" //noCF? (don´t add this in a new PR)
 ,"mobx": "mobxjs.github.io/mobx"
