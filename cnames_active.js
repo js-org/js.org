@@ -86,6 +86,7 @@ var cnames_active = {
 ,"backlog": "backlog-js.github.io/backlog.js.org" //noCF? (don´t add this in a new PR)
 ,"badger": "just-glue-it.github.io/badger" //noCF? (don´t add this in a new PR)
 ,"badrudeen": "badrudeen.github.io" //noCF? (don´t add this in a new PR)
+,"bandung": "zufrizalyordan.github.io/bandungjs" //noCF
 ,"bali": "balijs.github.io" //noCF? (don´t add this in a new PR)
 ,"barcelona": "barcelona-js.github.io/website" //noCF? (don´t add this in a new PR)
 ,"bash": "bashjs.github.io" //noCF? (don´t add this in a new PR)
@@ -171,7 +172,7 @@ var cnames_active = {
 ,"danmaku": "weizhenye.github.io/Danmaku"
 ,"danmol": "dan12mol.github.io" //noCF? (don´t add this in a new PR)
 ,"date": "matthewmueller.github.io/date" //noCF? (don´t add this in a new PR)
-,"datastructures": "deadcoder0904.github.io/datastructures" 
+,"datastructures": "deadcoder0904.github.io/datastructures"
 ,"davidtaylorjr": "davidtaylorjr.github.io"
 ,"daysfromnow": "pedrokost.github.io/daysfromnow" //noCF? (don´t add this in a new PR)
 ,"dbo": "z3ta.github.io/dbo" //noCF? (don´t add this in a new PR)
@@ -465,7 +466,7 @@ var cnames_active = {
 ,"nodegarden": "pakastin.github.io/nodegarden"
 ,"noted": "carter-slade.github.io/Noted-" //noCF? (don´t add this in a new PR)
 ,"noteit": "saha96.github.io/NoteIt" //noCF? (don´t add this in a new PR)
-,"notibar": "duyetdev.github.io/notibar.js" 
+,"notibar": "duyetdev.github.io/notibar.js"
 ,"npmer": "rumkin.github.io/npm-watch"
 ,"nsp": "hanul.github.io/NSP" //noCF? (don´t add this in a new PR)
 ,"nsptiles": "imthenachoman.github.io/nSPTiles" //noCF? (don´t add this in a new PR)
