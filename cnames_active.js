@@ -147,6 +147,7 @@ var cnames_active = {
 ,"cn.rx": "rxjs-cn.github.io/RxJS-Docs-CN" //noCF
 ,"cnc": "cncjs.github.io"
 ,"codemade": "codemade.github.io" //noCF? (don´t add this in a new PR)
+,"codepan": "egoist.github.io/codepan"
 ,"coffea": "caffeinery.github.io/coffea"
 ,"collegequest": "schoolhouserock.github.io/CollegeQuest" //noCF? (don´t add this in a new PR)
 ,"comixngn": "seun40.github.io/comix-ngn" //noCF? (don´t add this in a new PR)
