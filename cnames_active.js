@@ -86,6 +86,7 @@ var cnames_active = {
 ,"backlog": "backlog-js.github.io/backlog.js.org" //noCF? (don´t add this in a new PR)
 ,"badger": "just-glue-it.github.io/badger" //noCF? (don´t add this in a new PR)
 ,"badrudeen": "badrudeen.github.io" //noCF? (don´t add this in a new PR)
+,"bandung": "zufrizalyordan.github.io/bandungjs" //noCF
 ,"bali": "balijs.github.io" //noCF? (don´t add this in a new PR)
 ,"barcelona": "barcelona-js.github.io/website" //noCF? (don´t add this in a new PR)
 ,"bash": "bashjs.github.io" //noCF? (don´t add this in a new PR)
@@ -121,6 +122,7 @@ var cnames_active = {
 ,"cagatay": "cagataycali.github.io"
 ,"calcy": "odevlord.github.io/Calcy" //noCF? (don´t add this in a new PR)
 ,"calendarios": "helpdev.github.io/Calendarios" //noCF? (don´t add this in a new PR)
+,"cans": "djyde.github.io/cans" //noCF
 ,"candyland": "candyland-js.github.io/candyland"
 ,"capital": "capitaljs.github.io/capitaljs"
 ,"capsule": "capsule-js-org.github.io/capsule"
@@ -138,7 +140,7 @@ var cnames_active = {
 ,"chronos": "espinielli.github.io/chronos" //noCF? (don´t add this in a new PR)
 ,"cineasta": "cineasta-js.github.io/cineasta-docs"
 ,"clause": "clausejs.github.io/clausejs"
-,"clockwork": "arcadiogarcia.github.io/Clockwork.js" //noCF? (don´t add this in a new PR)
+,"clockwork": "clockworkdev.github.io/ClockworkWebsite"
 ,"clusterize": "nexts.github.io/Clusterize.js"
 ,"cmbhackjs2013": "cmbjs.github.io/cmbHackjs2013"
 ,"cn.mobx": "sangka.github.io/mobx-docs-cn" //noCF
@@ -146,6 +148,7 @@ var cnames_active = {
 ,"cn.rx": "rxjs-cn.github.io/RxJS-Docs-CN" //noCF
 ,"cnc": "cncjs.github.io"
 ,"codemade": "codemade.github.io" //noCF? (don´t add this in a new PR)
+,"codepan": "egoist.github.io/codepan"
 ,"coffea": "caffeinery.github.io/coffea"
 ,"collegequest": "schoolhouserock.github.io/CollegeQuest" //noCF? (don´t add this in a new PR)
 ,"comixngn": "seun40.github.io/comix-ngn" //noCF? (don´t add this in a new PR)
@@ -171,7 +174,7 @@ var cnames_active = {
 ,"danmaku": "weizhenye.github.io/Danmaku"
 ,"danmol": "dan12mol.github.io" //noCF? (don´t add this in a new PR)
 ,"date": "matthewmueller.github.io/date" //noCF? (don´t add this in a new PR)
-,"datastructures": "deadcoder0904.github.io/datastructures" 
+,"datastructures": "deadcoder0904.github.io/datastructures"
 ,"davidtaylorjr": "davidtaylorjr.github.io"
 ,"daysfromnow": "pedrokost.github.io/daysfromnow" //noCF? (don´t add this in a new PR)
 ,"dbo": "z3ta.github.io/dbo" //noCF? (don´t add this in a new PR)
@@ -212,6 +215,7 @@ var cnames_active = {
 ,"dutchakdev": "dutchakdev.github.io" //noCF? (don´t add this in a new PR)
 ,"dynamicsnode": "crisfervil.github.io/DynamicsNode"
 ,"ed2k": "sunnyli.github.io/ed2k.js"
+,"effectful": "awto.github.io/effectfuljs"
 ,"elf": "mytharcher.github.io/elf.js.org" //noCF? (don´t add this in a new PR)
 ,"elliot": "elliotboney.github.io" //noCF? (don´t add this in a new PR)
 ,"embedlam": "wnda.github.io/embedlam"
@@ -388,6 +392,7 @@ var cnames_active = {
 ,"maki": "makixx.github.io"
 ,"marble": "jsguy.github.io/marble"
 ,"marcosflorencio": "marcosflorencio.github.io"
+,"markdownify": "amitmerchant1990.github.io/electron-markdownify"  
 ,"markmsmith": "markmsmith.github.io"
 ,"martin": "martinbutler.github.io" //noCF? (don´t add this in a new PR)
 ,"martingollogly": "martingollogly.github.io" //noCF? (don´t add this in a new PR)
@@ -561,6 +566,7 @@ var cnames_active = {
 ,"react-toulouse": "moox.github.io/react-toulouse"
 ,"reactabular": "bebraw.github.io/reactabular"
 ,"reactdesktop": "gabrielbull.github.io/react-desktop" //noCF? (don´t add this in a new PR)
+,"reactql": "leebenson.github.io/reactql-site"
 ,"reader": "ruanyl.github.io/js-reader" //noCF? (don´t add this in a new PR)
 ,"realt": "vnkitaev.github.io/realt"
 ,"realtime": "datamcfly.github.io/realtimejs" //noCF? (don´t add this in a new PR)
@@ -766,4 +772,5 @@ var cnames_active = {
 ,"zazu": "zazujs.github.io" //noCF? (don´t add this in a new PR)
 ,"zodiac": "indus.github.io/Zodiac" //noCF? (don´t add this in a new PR)
 ,"zombie": "assaf.github.io/zombie" //noCF? (don´t add this in a new PR)
+,"zuck": "blanket-warriors.github.io/Zuck"
 }
