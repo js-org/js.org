@@ -240,6 +240,7 @@ var cnames_active = {
 ,"exbars": "youssefkababe.github.io/exbars" //noCF? (don´t add this in a new PR)
 ,"express-saml2": "tngan.github.io/express-saml2"
 ,"extraction": "rse.github.io/extraction" //noCF? (don´t add this in a new PR)
+,"ember-electron": "felixrieseberg.github.io/ember-electron"
 ,"facepalm": "santiagogil.github.io/facepalm"
 ,"farfetchd": "achannarasappa.github.io/farfetchd" //noCF? (don´t add this in a new PR)
 ,"fariz": "farizdev.github.io/fariz"
