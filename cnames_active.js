@@ -244,6 +244,7 @@ var cnames_active = {
 ,"facepalm": "santiagogil.github.io/facepalm"
 ,"farfetchd": "achannarasappa.github.io/farfetchd" //noCF? (don´t add this in a new PR)
 ,"fariz": "farizdev.github.io/fariz"
+,"faux": "fauxOS.github.io"
 ,"fcbosque": "cronopio.github.io/fcbosque" //noCF? (don´t add this in a new PR)
 ,"feeble": "feeblejs.github.io/feeble"
 ,"fela": "rofrischmann.github.io/fela" //noCF? (don´t add this in a new PR)
