@@ -88,6 +88,7 @@ var cnames_active = {
 ,"badrudeen": "badrudeen.github.io" //noCF? (don´t add this in a new PR)
 ,"bandung": "zufrizalyordan.github.io/bandungjs" //noCF
 ,"bali": "balijs.github.io" //noCF? (don´t add this in a new PR)
+,"barbagrigia": "barbagrigia.github.io"
 ,"barcelona": "barcelona-js.github.io/website" //noCF? (don´t add this in a new PR)
 ,"bash": "bashjs.github.io" //noCF? (don´t add this in a new PR)
 ,"basicgame": "basicgame.github.io/basicGame.js" //noCF? (don´t add this in a new PR)
