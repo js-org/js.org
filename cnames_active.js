@@ -200,6 +200,7 @@ var cnames_active = {
 ,"docsify": "QingWei-Li.github.io/docsify"
 ,"documentation": "documentationjs.github.io" //noCF? (don´t add this in a new PR)
 ,"docute": "egoist.github.io/docute"
+,"dogstack": "dogstack.gitbooks.io/handbook" //noCF
 ,"domtastic": "webpro.github.io/DOMtastic"
 ,"donavon": "donavon.github.io" //noCF? (don´t add this in a new PR)
 ,"dope": "fouad.github.io/dope" //noCF? (don´t add this in a new PR)
