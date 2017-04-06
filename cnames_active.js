@@ -215,6 +215,7 @@ var cnames_active = {
 ,"dunedin": "dunedinjs.github.io"
 ,"dutchakdev": "dutchakdev.github.io" //noCF? (don´t add this in a new PR)
 ,"dynamicsnode": "crisfervil.github.io/DynamicsNode"
+,"eahmed234": "eahmed234.github.io"
 ,"ed2k": "sunnyli.github.io/ed2k.js"
 ,"effectful": "awto.github.io/effectfuljs"
 ,"elf": "mytharcher.github.io/elf.js.org" //noCF? (don´t add this in a new PR)
