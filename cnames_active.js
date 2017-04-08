@@ -435,7 +435,7 @@ var cnames_active = {
 ,"mobx": "mobxjs.github.io/mobx"
 ,"modalizer": "dungo.github.io/modalizer" //noCF? (don´t add this in a new PR)
 ,"mog-script": "mog-script.github.io"
-,"mohit":"mohitgarg.github.io/public"
+,"mohit":"mohitgarg.github.io"
 ,"mol": "eigenmethod.github.io/mol" //noCF
 ,"mom": "momjs.github.io/mom"
 ,"momentum": "wemakeweb.github.io/momentum" //noCF? (don´t add this in a new PR)
