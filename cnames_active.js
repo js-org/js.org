@@ -434,6 +434,7 @@ var cnames_active = {
 ,"mobx": "mobxjs.github.io/mobx"
 ,"modalizer": "dungo.github.io/modalizer" //noCF? (don´t add this in a new PR)
 ,"mog-script": "mog-script.github.io"
+,"mohit":"mohitgarg.github.io/public"
 ,"mol": "eigenmethod.github.io/mol" //noCF
 ,"mom": "momjs.github.io/mom"
 ,"momentum": "wemakeweb.github.io/momentum" //noCF? (don´t add this in a new PR)
@@ -779,5 +780,5 @@ var cnames_active = {
 ,"zazu": "zazujs.github.io" //noCF? (don´t add this in a new PR)
 ,"zodiac": "indus.github.io/Zodiac" //noCF? (don´t add this in a new PR)
 ,"zombie": "assaf.github.io/zombie" //noCF? (don´t add this in a new PR)
-,"zuck": "blanket-warriors.github.io/Zuck"
+,"zuck": "blanket-warriors.github.io/Zuck" 
 }
