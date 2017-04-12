@@ -237,6 +237,7 @@ var cnames_active = {
 ,"es.redux": "sergiodxa.github.io/redux-in-spanish" //noCF? (don´t add this in a new PR)
 ,"es2015-node": "martinheidegger.github.io/es6modules-nodejs" //noCF? (don´t add this in a new PR)
 ,"escape": "licshee.github.io/Escape.js" //noCF? (don´t add this in a new PR)
+,"esper": "codecombat.github.io/esper.js"
 ,"euc": "wnda.github.io/euc"
 ,"euclid": "anandthakker.github.io/euclid" //noCF? (don´t add this in a new PR)
 ,"eval": "jshawl.github.io/eval" //noCF? (don´t add this in a new PR)
