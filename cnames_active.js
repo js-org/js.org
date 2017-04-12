@@ -220,6 +220,7 @@ var cnames_active = {
 ,"eahmed234": "eahmed234.github.io"
 ,"ed2k": "sunnyli.github.io/ed2k.js"
 ,"effectful": "awto.github.io/effectfuljs"
+,"elastic-builder": "https://sudo-suhas.github.io/elastic-builder" 
 ,"elf": "mytharcher.github.io/elf.js.org" //noCF? (don´t add this in a new PR)
 ,"elliot": "elliotboney.github.io" //noCF? (don´t add this in a new PR)
 ,"embedlam": "wnda.github.io/embedlam"
@@ -783,5 +784,4 @@ var cnames_active = {
 ,"zodiac": "indus.github.io/Zodiac" //noCF? (don´t add this in a new PR)
 ,"zombie": "assaf.github.io/zombie" //noCF? (don´t add this in a new PR)
 ,"zuck": "blanket-warriors.github.io/Zuck" 
-,"elastic-builder": "https://sudo-suhas.github.io/elastic-builder" 
 }
