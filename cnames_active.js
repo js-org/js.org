@@ -732,6 +732,7 @@ var cnames_active = {
 ,"try-catch-finally": "c24w.github.io/try-catch-finally.js"
 ,"ts2jsdoc": "spatools.github.io/ts2jsdoc" //noCF? (don´t add this in a new PR)
 ,"tsfp": "zhenwenc.github.io/tsfp" //noCF? (don´t add this in a new PR)
+,"tux": "tux.gitbooks.io/docs"
 ,"tweetnacl": "dchest.github.io/tweetnacl-js"
 ,"two": "jonobr1.github.io/two.js"
 ,"tydel": "fahad19.github.io/tydel" //noCF? (don´t add this in a new PR)
