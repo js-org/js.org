@@ -127,6 +127,7 @@ var cnames_active = {
 ,"cans": "djyde.github.io/cans" //noCF
 ,"candyland": "candyland-js.github.io/candyland"
 ,"capital": "capitaljs.github.io/capitaljs"
+,"capsid": "capsidjs.github.io/capsid"
 ,"capsule": "capsule-js-org.github.io/capsule"
 ,"cartodb-demo": "opensas.github.io/cartodb-demo" //noCF? (don´t add this in a new PR)
 ,"central-node": "central-node.github.io" //noCF? (don´t add this in a new PR)
