@@ -482,6 +482,7 @@ var cnames_active = {
 ,"node-atlas": "haeresis.github.io/NodeAtlas"
 ,"node-browser_process": "caspervonb.github.io/node-browser_process" //noCF? (don´t add this in a new PR)
 ,"nodegarden": "pakastin.github.io/nodegarden"
+,"noobscroll": "arguiot.github.io/NoobScroll"
 ,"noted": "carter-slade.github.io/Noted-" //noCF? (don´t add this in a new PR)
 ,"noteit": "saha96.github.io/NoteIt" //noCF? (don´t add this in a new PR)
 ,"notibar": "duyetdev.github.io/notibar.js" 
@@ -788,5 +789,4 @@ var cnames_active = {
 ,"zodiac": "indus.github.io/Zodiac" //noCF? (don´t add this in a new PR)
 ,"zombie": "assaf.github.io/zombie" //noCF? (don´t add this in a new PR)
 ,"zuck": "blanket-warriors.github.io/Zuck" 
-,"noobscroll": "arguiot.github.io/NoobScroll"
 }
