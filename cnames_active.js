@@ -599,6 +599,7 @@ var cnames_active = {
 ,"redux": "rackt.github.io/redux" //noCF? (don´t add this in a new PR)
 ,"redux-minimal": "catalin-luntraru.github.io/redux-minimal"
 ,"redux-observable": "redux-observable.github.io/redux-observable"
+,"redux-saga": "redux-saga.github.io/redux-saga/"
 ,"redux-undo": "omnidan.github.io/redux-undo" //noCF? (don´t add this in a new PR)
 ,"redux-webpack-boilerplate": "cchamberlain.github.io/redux-webpack-boilerplate" //noCF? (don´t add this in a new PR)
 ,"reduxible": "pitzcarraldo.github.io/reduxible" //noCF? (don´t add this in a new PR)
