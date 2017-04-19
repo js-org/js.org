@@ -577,6 +577,7 @@ var cnames_active = {
 ,"react-entanglement": "react-entanglement.github.io"
 ,"react-form": "tannerlinsley.github.io/react-form"
 ,"react-hint": "slmgc.github.io/react-hint"
+,"react-move": "tannerlinsley.github.io/react-move"
 ,"react-native-floating-labels": "mayank-patel.github.io/react-native-floating-labels"
 ,"react-responsive-carousel": "leandrowd.github.io/react-responsive-carousel" //noCF? (don´t add this in a new PR)
 ,"react-shared": "rvikmanis.github.io/react-shared" //noCF? (don´t add this in a new PR)
