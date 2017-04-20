@@ -505,7 +505,7 @@ var cnames_active = {
 ,"onebang": "teamtofu.github.io/onebang"
 ,"onedesert": "onedesert.github.io" //noCF? (don´t add this in a new PR)
 ,"onlineth": "onlineth.github.io"
-,"opentype": "nodebox.github.io/opentype.js" //noCF? (don´t add this in a new PR)
+,"opentype": "nodebox.github.io/opentype.js"
 ,"os": "91.247.228.125" //noCF
 ,"osom": "kikobeats.github.io/osom"
 ,"pad": "ebraminio.github.io/pad.js" //noCF? (don´t add this in a new PR)
