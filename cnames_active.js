@@ -113,6 +113,7 @@ var cnames_active = {
 ,"braxit": "braxit.github.io" //noCF? (don´t add this in a new PR)
 ,"brexit-regrets": "adebounam.github.io/brexit-regrets" //noCF? (don´t add this in a new PR)
 ,"bricklayer": "ademilter.github.io/bricklayer" //noCF? (don´t add this in a new PR)
+,"bris": "brisjs.github.io"
 ,"brum": "brumjs.github.io" //noCF? (don´t add this in a new PR)
 ,"bunyan-fork": "cchamberlain.github.io/bunyan-fork" //noCF? (don´t add this in a new PR)
 ,"bunyan-pmx": "cchamberlain.github.io/bunyan-pmx" //noCF? (don´t add this in a new PR)
