@@ -578,7 +578,7 @@ var cnames_active = {
 ,"react-autowhatever": "moroshko.github.io/react-autowhatever" //noCF? (don´t add this in a new PR)
 ,"react-chart": "react-chart.github.io/react-chart"
 ,"react-charts": "tannerlinsley.github.io/react-charts"
-,"react-coroutine": "alexeyraspopov.github.io/react-coroutine/"
+,"react-coroutine": "alexeyraspopov.github.io/react-coroutine"
 ,"react-day-picker": "gpbl.github.io/react-day-picker" //noCF
 ,"react-easy-swipe": "leandrowd.github.io/react-easy-swipe" //noCF? (don´t add this in a new PR)
 ,"react-entanglement": "react-entanglement.github.io"
