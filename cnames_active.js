@@ -630,6 +630,7 @@ var cnames_active = {
 ,"rmodal": "zewish.github.io/rmodal.js" //noCF? (don´t add this in a new PR)
 ,"rocket": "KevinOfNeu.github.io/rocket"
 ,"rockjins": "rockjins.github.io"
+,"rosmaro": "lukaszmakuch.github.io/rosmaro"  //CF
 ,"router-advanced": "oldergod.github.io/router-advanced"
 ,"rp": "rpocklin.github.io" //noCF? (don´t add this in a new PR)
 ,"ruhuman": "ruhuman.github.io" //noCF? (don´t add this in a new PR)
