@@ -554,6 +554,7 @@ var cnames_active = {
 ,"pnpm": "pnpm.github.io"
 ,"poegems": "max-arias.github.io/poeGems" //noCF? (don´t add this in a new PR)
 ,"pogo": "aaronduino.github.io/pogo"
+,"poi": "egoist.github.io/poi.js.org"
 ,"polished": "styled-components.github.io/polished"
 ,"polythene": "arthurclemens.github.io/Polythene" //noCF? (don´t add this in a new PR)
 ,"popper": "fezvrasta.github.io/popper.js"
