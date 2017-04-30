@@ -754,6 +754,7 @@ var cnames_active = {
 ,"tsfp": "zhenwenc.github.io/tsfp" //noCF? (don´t add this in a new PR)
 ,"ts-react-boilerplate": "lapanti.github.io/ts-react-boilerplate"
 ,"tux": "tux.gitbooks.io/docs"
+,"tweed": "tweedjs.github.io"
 ,"tweetnacl": "dchest.github.io/tweetnacl-js"
 ,"two": "jonobr1.github.io/two.js"
 ,"tydel": "fahad19.github.io/tydel" //noCF? (don´t add this in a new PR)
