@@ -403,6 +403,7 @@ var cnames_active = {
 ,"localsync": "noderaider.github.io/localsync" //noCF? (don´t add this in a new PR)
 ,"logo": "js-org.github.io/logo" //noCF? (don´t add this in a new PR)
 ,"lostyle": "rtsao.github.io/lostyle"
+,"lribeiro": "lmribeiro.github.io"
 ,"ls": "links-js.github.io"
 ,"lychee": "Artificial-Engineering.github.io/lycheeJS-website"
 ,"madankumar":	"jmadankumar.github.io"
