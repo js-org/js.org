@@ -251,6 +251,7 @@ var cnames_active = {
 ,"eventstore": "adrai.github.io/node-eventstore" //noCF? (don´t add this in a new PR)
 ,"exbars": "youssefkababe.github.io/exbars" //noCF? (don´t add this in a new PR)
 ,"express-saml2": "tngan.github.io/express-saml2"
+,"extenso": "theuves.github.io/extenso.js.org"
 ,"extraction": "rse.github.io/extraction" //noCF? (don´t add this in a new PR)
 ,"ember-electron": "felixrieseberg.github.io/ember-electron"
 ,"facepalm": "santiagogil.github.io/facepalm"
