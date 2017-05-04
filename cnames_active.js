@@ -49,6 +49,7 @@ var cnames_active = {
 ,"akashacms": "akashacms.github.io" //noCF? (don´t add this in a new PR)
 ,"alasql": "alasql.github.io" //noCF? (don´t add this in a new PR)
 ,"algebra": "nicolewhite.github.io/algebra.js" //noCF? (don´t add this in a new PR)
+,"alien": "pschroen.github.io/alien.js"
 ,"aligos.js.org": "aligos.github.io" //noCF? (don´t add this in a new PR)
 ,"all": "learnsomuch.github.io/all.js" //noCF? (don´t add this in a new PR)
 ,"almin": "almin.github.io"
