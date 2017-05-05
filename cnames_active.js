@@ -348,6 +348,7 @@ var cnames_active = {
 ,"ip-address": "beaugunderson.github.io/ip-address" //noCF? (don´t add this in a new PR)
 ,"is": "arasatasaygin.github.io/is.js" //noCF? (don´t add this in a new PR)
 ,"ishan": "ishanthukral.github.io/ishan.js" //noCF? (don´t add this in a new PR)
+,"isic": "atomicptr.github.io/isic-docs"
 ,"istanbul": "istanbuljs.github.io"
 ,"italia": "milano-js.github.io/italia-js" //noCF? (don´t add this in a new PR)
 ,"itsashis4u": "itsashis4u.github.io" //noCF? (don´t add this in a new PR)
