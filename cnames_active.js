@@ -62,7 +62,7 @@ var cnames_active = {
 ,"annotate": "taitems.github.io/web-pdf-annotation" //noCF? (don´t add this in a new PR)
 ,"annoyingmouse": "annoyingmouse.github.io" //noCF? (don´t add this in a new PR)
 ,"anukul": "anukul.github.io"
-,"antwar", "antwarjs.github.io/antwar"
+,"antwar": "antwarjs.github.io/antwar"
 ,"api-spec": "api-spec.github.io" //noCF? (don´t add this in a new PR)
 ,"apicluster": "ramsunvtech.github.io/apicluster" //noCF? (don´t add this in a new PR)
 ,"aping": "johnnythetank.github.io/apiNG" //noCF? (don´t add this in a new PR)
@@ -532,6 +532,7 @@ var cnames_active = {
 ,"pathtrace": "kovacsv.github.io/WebGLPathTrace" //noCF? (don´t add this in a new PR)
 ,"patternbase":"kamescg.github.io/PatternBase"
 ,"paul": "paul-brown.github.io" //noCF? (don´t add this in a new PR)
+,"pdf":"iamcristye.github.io/PDF"
 ,"pdfutils": "gottox.github.io/node-pdfutils" //noCF? (don´t add this in a new PR)
 ,"pdp-elements": "go4cas.github.io/pdp_elements" //noCF? (don´t add this in a new PR)
 ,"peekaboo": "nadavspi.github.io/peekaboo.js"
