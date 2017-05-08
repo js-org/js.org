@@ -158,6 +158,7 @@ var cnames_active = {
 ,"codux": "tannerlinsley.github.io/codux"
 ,"coffea": "caffeinery.github.io/coffea"
 ,"collegequest": "schoolhouserock.github.io/CollegeQuest" //noCF? (don´t add this in a new PR)
+,"colombo": "cmbjs.github.io/CMBJS"
 ,"comixngn": "seun40.github.io/comix-ngn" //noCF? (don´t add this in a new PR)
 ,"commandfox": "commandfox.github.io/mc-tools" //noCF? (don´t add this in a new PR)
 ,"community.os": "js.bydiscourse.com" //noCF? (don´t add this in a new PR)
