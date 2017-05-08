@@ -227,7 +227,7 @@ var cnames_active = {
 ,"ed2k": "sunnyli.github.io/ed2k.js"
 ,"ef": "classicoldsong.github.io/ef.js.org"
 ,"effectful": "awto.github.io/effectfuljs"
-,"elastic-builder": "sudo-suhas.github.io/elastic-builder" 
+,"elastic-builder": "sudo-suhas.github.io/elastic-builder"
 ,"elf": "mytharcher.github.io/elf.js.org" //noCF? (don´t add this in a new PR)
 ,"elliot": "elliotboney.github.io" //noCF? (don´t add this in a new PR)
 ,"embedlam": "wnda.github.io/embedlam"
@@ -414,7 +414,7 @@ var cnames_active = {
 ,"maki": "makixx.github.io"
 ,"marble": "jsguy.github.io/marble"
 ,"marcosflorencio": "marcosflorencio.github.io"
-,"markdownify": "amitmerchant1990.github.io/electron-markdownify"  
+,"markdownify": "amitmerchant1990.github.io/electron-markdownify"
 ,"markmsmith": "markmsmith.github.io"
 ,"martin": "martinbutler.github.io" //noCF? (don´t add this in a new PR)
 ,"martingollogly": "martingollogly.github.io" //noCF? (don´t add this in a new PR)
@@ -485,7 +485,7 @@ var cnames_active = {
 ,"ngirc": "ngirc.github.io/ng-irc" //noCF
 ,"ngn": "nodengn.github.io/NGN" //noCF? (don´t add this in a new PR)
 ,"ngspice": "42ua.github.io/ngspice.js"
-,"nic": "nic.github.io"  
+,"nic": "nic.github.io"
 ,"nick": "nmai.github.io" //noCF? (don´t add this in a new PR)
 ,"nite": "manvalls.github.io/nite"
 ,"nktx": "nktx.github.io" //noCF? (don´t add this in a new PR)
@@ -496,8 +496,8 @@ var cnames_active = {
 ,"noobscroll": "arguiot.github.io/NoobScroll"
 ,"noted": "carter-slade.github.io/Noted-" //noCF? (don´t add this in a new PR)
 ,"noteit": "saha96.github.io/NoteIt" //noCF? (don´t add this in a new PR)
-,"notibar": "duyetdev.github.io/notibar.js" 
-,"novus": "territoriesofnovus.github.io" 
+,"notibar": "duyetdev.github.io/notibar.js"
+,"novus": "territoriesofnovus.github.io"
 ,"npmer": "rumkin.github.io/npm-watch"
 ,"nsp": "hanul.github.io/NSP" //noCF? (don´t add this in a new PR)
 ,"nsptiles": "imthenachoman.github.io/nSPTiles" //noCF? (don´t add this in a new PR)
@@ -769,6 +769,7 @@ var cnames_active = {
 ,"u": "hanul.github.io/UJS" //noCF? (don´t add this in a new PR)
 ,"udnisap": "udnisap.github.io"
 ,"ukazap": "ukazap.github.io" //noCF? (don´t add this in a new PR)
+,"ulog": "download.github.io/ulog"
 ,"ultcombo": "ultcombo.github.io" //noCF? (don´t add this in a new PR)
 ,"unexpected": "unexpectedjs.github.io" //noCF? (don´t add this in a new PR)
 ,"uni": "arcadiogarcia.github.io/UNIJS" //noCF? (don´t add this in a new PR)
@@ -820,5 +821,5 @@ var cnames_active = {
 ,"zazu": "zazujs.github.io" //noCF? (don´t add this in a new PR)
 ,"zodiac": "indus.github.io/Zodiac" //noCF? (don´t add this in a new PR)
 ,"zombie": "assaf.github.io/zombie" //noCF? (don´t add this in a new PR)
-,"zuck": "blanket-warriors.github.io/Zuck" 
+,"zuck": "blanket-warriors.github.io/Zuck"
 }
