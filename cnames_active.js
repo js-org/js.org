@@ -497,6 +497,7 @@ var cnames_active = {
 ,"noobscroll": "arguiot.github.io/NoobScroll"
 ,"noted": "carter-slade.github.io/Noted-" //noCF? (don´t add this in a new PR)
 ,"noteit": "saha96.github.io/NoteIt" //noCF? (don´t add this in a new PR)
+,"notepad": "amitmerchant1990.github.io/notepad"
 ,"notibar": "duyetdev.github.io/notibar.js"
 ,"novus": "territoriesofnovus.github.io"
 ,"npmer": "rumkin.github.io/npm-watch"
