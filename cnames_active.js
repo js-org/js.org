@@ -332,6 +332,7 @@ var cnames_active = {
 ,"hxxbit": "hxxbit.github.io"
 ,"hyde": "gheek.github.io/hyde" //noCF? (don´t add this in a new PR)
 ,"hyperform": "hyperform.github.io"
+,"hyf": "yafey.github.io"
 ,"i18n4v": "shibukawa.github.io/i18n4v"
 ,"icecast": "jucrouzet.github.io/icecast.js"
 ,"ienumerable": "mbasso.github.io/ienumerable"
