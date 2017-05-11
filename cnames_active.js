@@ -196,6 +196,7 @@ var cnames_active = {
 ,"deterministic": "nodeguy.github.io/Deterministic.js"
 ,"dgelong": "alexeyraspopov.github.io/dgelong" //noCF? (don´t add this in a new PR)
 ,"diamond": "diamondpkg.github.io/website"
+,"status.diamond": "diamondpkg.github.io/status"
 ,"diffract": "ameyms.github.io/diffract" //noCF? (don´t add this in a new PR)
 ,"dinesh": "dineshondev.github.io/dinesh" //noCF? (don´t add this in a new PR)
 ,"dio": "thysultan.github.io/dio.js"
