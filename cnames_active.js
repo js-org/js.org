@@ -285,6 +285,7 @@ var cnames_active = {
 ,"frint": "travix-international.github.io/frint"
 ,"frzr": "pakastin.github.io/frzr"
 ,"funbook": "egoist.github.io/funbook"
+,"prettylog": "moosecoop.github.io/PrettyLog/"
 ,"g": "nodebox.github.io/g.js"
 ,"gal": "galmail.github.io" //noCF? (don´t add this in a new PR)
 ,"gamedevcontestal": "fromdenisvieira.github.io/gamedevcontestal" //noCF? (don´t add this in a new PR)
