@@ -257,6 +257,7 @@ var cnames_active = {
 ,"extenso": "theuves.github.io/extenso.js.org"
 ,"extraction": "rse.github.io/extraction" //noCF? (don´t add this in a new PR)
 ,"facepalm": "santiagogil.github.io/facepalm"
+,"falaki-time": "ali-master.github.io/falaki-time"
 ,"farfetchd": "achannarasappa.github.io/farfetchd" //noCF? (don´t add this in a new PR)
 ,"fariz": "farizdev.github.io/fariz"
 ,"faux": "fauxOS.github.io"
@@ -829,5 +830,4 @@ var cnames_active = {
 ,"zodiac": "indus.github.io/Zodiac" //noCF? (don´t add this in a new PR)
 ,"zombie": "assaf.github.io/zombie" //noCF? (don´t add this in a new PR)
 ,"zuck": "blanket-warriors.github.io/Zuck"
-,"falaki-time": "ali-master.github.io/falaki-time"
 }
