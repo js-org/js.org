@@ -603,6 +603,7 @@ var cnames_active = {
 ,"react-responsive-carousel": "leandrowd.github.io/react-responsive-carousel" //noCF? (don´t add this in a new PR)
 ,"react-shared": "rvikmanis.github.io/react-shared" //noCF? (don´t add this in a new PR)
 ,"react-state": "tannerlinsley.github.io/react-state"
+,"react-story": "react-story.netlify.com"
 ,"react-styleguidist": "styleguidist.netlify.com"
 ,"react-table": "tannerlinsley.github.io/react-table"
 ,"react-toulouse": "moox.github.io/react-toulouse"
