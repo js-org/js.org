@@ -800,6 +800,7 @@ var cnames_active = {
 ,"voloshins": "voloshins.github.io" //noCF? (don´t add this in a new PR)
 ,"vorpal": "dthree.github.io/vorpal" //noCF? (don´t add this in a new PR)
 ,"vscode-apielements":"xvincentx.github.io/vscode-apielements"
+,"vue-mdc":"na-west1.surge.sh"
 ,"vuikit":"vuikit.github.io"
 ,"vuongdothanhhuy": "vuongdothanhhuy.github.io" //noCF? (don´t add this in a new PR)
 ,"wargamer": "hkwu.github.io/wargamer"
