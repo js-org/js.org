@@ -613,6 +613,7 @@ var cnames_active = {
 ,"reader": "ruanyl.github.io/js-reader" //noCF? (don´t add this in a new PR)
 ,"realt": "vnkitaev.github.io/realt"
 ,"realtime": "datamcfly.github.io/realtimejs" //noCF? (don´t add this in a new PR)
+,"ream": "ream.github.io"
 ,"reassign": "hasharray.github.io/reassign.js"
 ,"rebatov": "rebatov.github.io"
 ,"rebem": "rebem.github.io" //noCF? (don´t add this in a new PR)
