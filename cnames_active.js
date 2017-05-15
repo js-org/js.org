@@ -805,7 +805,7 @@ var cnames_active = {
 ,"vuongdothanhhuy": "vuongdothanhhuy.github.io" //noCF? (don´t add this in a new PR)
 ,"wargamer": "hkwu.github.io/wargamer"
 ,"warnbot": "darkcoding-js.github.io/WarnBot"
-,"warrior": "warriorjs.github.io/warriorjs-core"
+,"warrior": "warriorjs.github.io"
 ,"watch": "ducin.github.io/watchjs.org" //noCF? (don´t add this in a new PR)
 ,"wayou": "wayou.github.io" //noCF? (don´t add this in a new PR)
 ,"weaver": "maxkfranz.github.io/weaver" //noCF? (don´t add this in a new PR)
