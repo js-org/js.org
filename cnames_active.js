@@ -452,6 +452,7 @@ var cnames_active = {
 ,"mmcq": "nikola.github.io/MMCQ" //noCF? (don´t add this in a new PR)
 ,"mobx": "mobxjs.github.io/mobx"
 ,"modalizer": "dungo.github.io/modalizer" //noCF? (don´t add this in a new PR)
+,"modbot": "modbotjs.github.io"
 ,"mog-script": "mog-script.github.io"
 ,"mohit":"mohitgarg.github.io"
 ,"mol": "eigenmethod.github.io/mol" //noCF
@@ -833,5 +834,4 @@ var cnames_active = {
 ,"zodiac": "indus.github.io/Zodiac" //noCF? (don´t add this in a new PR)
 ,"zombie": "assaf.github.io/zombie" //noCF? (don´t add this in a new PR)
 ,"zuck": "blanket-warriors.github.io/Zuck"
-,"modbot": "modbotjs.github.io/"
 }
