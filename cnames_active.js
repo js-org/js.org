@@ -743,6 +743,7 @@ var cnames_active = {
 ,"tapestry-wp": "shortlist-digital.github.io/tapestry-wp"
 ,"tara":"shakyatara.github.io"
 ,"tart": "tart.github.io/tartJS" //noCF? (don´t add this in a new PR)
+,"taskata": "f-ruxton.github.io/taskata"
 ,"techfest": "anukul.github.io/techfest" //noCF? (don´t add this in a new PR)
 ,"telaviv": "dustin-h.github.io/telaviv" //noCF? (don´t add this in a new PR)
 ,"telegraf": "telegraf.github.io/telegraf" //noCF? (don´t add this in a new PR)
