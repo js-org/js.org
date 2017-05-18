@@ -478,6 +478,7 @@ var cnames_active = {
 ,"n": "customdomain.simpleshare.online" //noCF
 ,"nanimation": "imthenachoman.github.io/nAnimation" //noCF? (don´t add this in a new PR)
 ,"naughtychecker":"gautamkrishnar.github.io/naughtychecker.js"
+,"nautilus": "ignigena.github.io/nautilus"
 ,"ncms": "janbiasi.github.io/ncms" //noCF? (don´t add this in a new PR)
 ,"ncub8": "ncub8.github.io" //noCF? (don´t add this in a new PR)
 ,"nearley": "hardmath123.github.io/nearley" //noCF? (don´t add this in a new PR)
