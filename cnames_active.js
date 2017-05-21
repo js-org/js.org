@@ -358,6 +358,7 @@ var cnames_active = {
 ,"ivml": "influencetech.github.io/ivml" //noCF? (don´t add this in a new PR)
 ,"j2p": "j2p.github.io" //noCF? (don´t add this in a new PR)
 ,"jacques": "jacquesmarais.github.io/jacques" //noCF? (don´t add this in a new PR)
+,"jaibascript": "vasco3.github.io/jaibascript"
 ,"jakarta": "jakartajs.github.io/jakartajs" //noCF? (don´t add this in a new PR)
 ,"jakejarrett": "jakejarrett.github.io" //noCF? (don´t add this in a new PR)
 ,"jalbertbowden": "jalbertbowden.github.io" //noCF? (don´t add this in a new PR)
