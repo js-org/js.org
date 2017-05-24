@@ -448,6 +448,7 @@ var cnames_active = {
 ,"mina": "github.com/CenturyUna/mina"
 ,"minesweeper": "derflatulator.github.io/minesweeper"
 ,"mingyi": "liangmingyi.github.io" //noCF? (don´t add this in a new PR)
+,"mingjie": "mj66.github.io/mingjie.info"
 ,"minigrid": "henriquea.github.io/minigrid" //noCF? (don´t add this in a new PR)
 ,"mis101bird": "mis101bird.github.io" //noCF? (don´t add this in a new PR)
 ,"mithril-ja": "shibukawa.github.io/mithril-ja" //noCF? (don´t add this in a new PR)
