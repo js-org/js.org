@@ -130,6 +130,7 @@ var cnames_active = {
 ,"candyland": "candyland-js.github.io/candyland"
 ,"cans": "djyde.github.io/cans" //noCF
 ,"capital": "capitaljs.github.io/capitaljs"
+,"cardtabs": "blekerfeld.github.io/CardTabs"
 ,"capsid": "capsidjs.github.io/capsid"
 ,"capsule": "capsule-js-org.github.io/capsule"
 ,"cartodb-demo": "opensas.github.io/cartodb-demo" //noCF? (don´t add this in a new PR)
