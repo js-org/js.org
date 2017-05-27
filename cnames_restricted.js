@@ -168,7 +168,7 @@ var cnames_restricted = [
     "pub(s)",
     "raw",
     "readme(s)",
-    "regex",
+    "regex(p)",
     "remote",
     "require",
     "rest",
@@ -222,7 +222,6 @@ var cnames_restricted = [
     "wasm",
     "watch",
     "web",
-    "wiki(s)",
     "world",
     "www",
     "xml"
