@@ -702,7 +702,6 @@ var cnames_active = {
 ,"slang": "ramadis.github.io/slang" //noCF? (don´t add this in a new PR)
 ,"slideout": "mango.github.io/slideout"
 ,"slides": "deadcoder0904.github.io/slides-official-website"
-,"slim": "eavichay.github.io/slim.js"
 ,"smoove": "abemedia.github.io/jquery-smoove"
 ,"sn0w": "greensn0w.github.io" //noCF? (don´t add this in a new PR)
 ,"social-likes-next": "sapegin.github.io/social-likes-next" //noCF? (don´t add this in a new PR)
