@@ -606,7 +606,7 @@ var cnames_active = {
 ,"react-day-picker": "gpbl.github.io/react-day-picker" //noCF
 ,"react-easy-swipe": "leandrowd.github.io/react-easy-swipe" //noCF? (don´t add this in a new PR)
 ,"react-entanglement": "react-entanglement.github.io"
-,"react-form": "tannerlinsley.github.io/react-form"
+,"react-form": "react-form.netlify.com"
 ,"react-hint": "slmgc.github.io/react-hint"
 ,"react-move": "react-move.netlify.com"
 ,"react-native-floating-labels": "mayank-patel.github.io/react-native-floating-labels"
