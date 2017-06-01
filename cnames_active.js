@@ -573,6 +573,7 @@ var cnames_active = {
 ,"planisphere": "dai-shi.github.io/planisphere-site" //noCF? (don´t add this in a new PR)
 ,"pliers": "pliersjs.github.io" //noCF? (don´t add this in a new PR)
 ,"pnpm": "pnpm.github.io"
+,"pocketessential": "pocketessential.github.io"
 ,"poegems": "max-arias.github.io/poeGems" //noCF? (don´t add this in a new PR)
 ,"pogo": "aaronduino.github.io/pogo"
 ,"poi": "egoist.github.io/poi.js.org"
