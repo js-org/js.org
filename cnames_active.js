@@ -174,6 +174,7 @@ var cnames_active = {
 ,"cplayer": "copay.github.io/cPlayer" //noCF? (don´t add this in a new PR)
 ,"cqrs": "adrai.github.io/cqrs" //noCF? (don´t add this in a new PR)
 ,"cracked": "billorcutt.github.io/Cracked"
+,"createrest": "atomixinteractions.github.io/createrest"
 ,"crunch": "vukicevic.github.io/crunch" //noCF? (don´t add this in a new PR)
 ,"cryptokey": "rumkin.github.com/crypto-key"
 ,"cucumber-mink": "adezandee.github.io/cucumber-mink" //noCF? (don´t add this in a new PR)
