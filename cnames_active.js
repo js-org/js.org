@@ -103,6 +103,7 @@ var cnames_active = {
 ,"bind-action-dispatchers": "cchamberlain.github.io/bind-action-dispatchers" //noCF? (don´t add this in a new PR)
 ,"biu": "aprilorange.github.io/biu" //noCF? (don´t add this in a new PR)
 ,"blogpage": "zanseven007.github.io/blog-page" //noCF
+,"bloomer": "algusdark.github.io/bloomer" //noCF
 ,"bodybuilder": "danpaz.github.io/bodybuilder" //noCF? (don´t add this in a new PR)
 ,"bombsweeper": "pakastin.github.io/bombsweeper"
 ,"bool": "booljs.github.io"
