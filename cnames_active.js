@@ -207,7 +207,7 @@ var cnames_active = {
 ,"distri": "flarp.github.io/Distri.js"
 ,"distribution": "distributionjs.github.io/website"
 ,"djzhao": "djzhao627.github.io"
-,"dmitry": "dmitry-zaets.github.io" //noCF? (don´t add this in a new PR)
+,"dmitry": "dmitry-zaets.github.io"
 ,"dns": "js-org.github.io/dns.js.org"
 ,"docsify": "QingWei-Li.github.io/docsify"
 ,"documentation": "documentationjs.github.io" //noCF? (don´t add this in a new PR)
