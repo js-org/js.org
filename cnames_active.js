@@ -681,6 +681,7 @@ var cnames_active = {
 ,"scrolledin": "manuelromeroramos.github.io/scrolledIn.js" //noCF? (don´t add this in a new PR)
 ,"sdk-design": "huei90.github.io/javascript-sdk-design" //noCF? (don´t add this in a new PR)
 ,"sean": "seancallinan.github.io" //noCF? (don´t add this in a new PR)
+,"seatbelt": "seatbeltjs.github.io/seatbelt"
 ,"sed": "42ua.github.io/sed" //noCF? (don´t add this in a new PR)
 ,"seesaw": "cajogos.github.io/seesaw" //noCF? (don´t add this in a new PR)
 ,"segoe-mdl2-css": "ckgrafico.github.io/Segoe-mdl2-assets-css" //noCF? (don´t add this in a new PR)
