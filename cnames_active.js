@@ -798,6 +798,7 @@ var cnames_active = {
 ,"tweetnacl": "dchest.github.io/tweetnacl-js"
 ,"two": "jonobr1.github.io/two.js"
 ,"tydel": "fahad19.github.io/tydel" //noCF? (don´t add this in a new PR)
+,"typ3r": "aviaryan.github.io/tYp3r"
 ,"typeahead": "corejavascript.github.io/typeahead.js"
 ,"u": "hanul.github.io/UJS" //noCF? (don´t add this in a new PR)
 ,"udnisap": "udnisap.github.io"
