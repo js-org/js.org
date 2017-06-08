@@ -108,7 +108,7 @@ var cnames_active = {
 ,"bombsweeper": "pakastin.github.io/bombsweeper"
 ,"bool": "booljs.github.io"
 ,"bootstrap-confirmation": "mistic100.github.io/Bootstrap-Confirmation" //noCF? (don´t add this in a new PR)
-,"bootstrap-validate": "https://pascalebeier.github.io/bootstrap-validate"
+,"bootstrap-validate": "pascalebeier.github.io/bootstrap-validate"
 ,"bornaeon": "bornaeon.github.io" //noCF
 ,"boundless": "enigma-io.github.io/boundless"
 ,"box": "capacitorset.github.io/box-js" //noCF
