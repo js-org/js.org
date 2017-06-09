@@ -613,6 +613,7 @@ var cnames_active = {
 ,"react-charts": "react-charts.netlify.com"
 ,"react-coroutine": "alexeyraspopov.github.io/react-coroutine"
 ,"react-day-picker": "gpbl.github.io/react-day-picker" //noCF
+,"react-dropzone": "react-dropzone.netlify.com"  
 ,"react-easy-swipe": "leandrowd.github.io/react-easy-swipe" //noCF? (don´t add this in a new PR)
 ,"react-entanglement": "react-entanglement.github.io"
 ,"react-form": "react-form.netlify.com"
