@@ -525,7 +525,7 @@ var cnames_active = {
 ,"nsptiles": "imthenachoman.github.io/nSPTiles" //noCF? (don´t add this in a new PR)
 ,"nvanthao": "nvanthao.github.io" //noCF? (don´t add this in a new PR)
 ,"nxse": "nxse.github.io"
-,"nyc": "ilyagelman.github.io/nyc"
+,"nyc": "nycjsorg.github.io/nyc"
 ,"objectmodel": "sylvainpolletvillard.github.io/ObjectModel" //noCF? (don´t add this in a new PR)
 ,"oec": "crellison.github.io/oec"
 ,"oib": "andreicek.github.io/oib.js"
