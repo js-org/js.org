@@ -660,6 +660,7 @@ var cnames_active = {
 ,"repackage": "cchamberlain.github.io/repackage" //noCF? (don´t add this in a new PR)
 ,"request": "request.gitbooks.io" //noCF? (don´t add this in a new PR)
 ,"reshift": "hasharray.github.io/reshift.js"
+,"resourceful-redux": "jmeas.github.io/resourceful-redux"
 ,"restjs": "daviesgeek.github.io/restjs"
 ,"revaluate": "hasharray.github.io/revaluate.js"
 ,"riotgear": "riotgear.github.io"
