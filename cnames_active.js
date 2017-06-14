@@ -402,6 +402,7 @@ var cnames_active = {
 ,"knowyourbundle": "enapupe.github.io/know-your-bundle"
 ,"komada": "dirigeants.gitbooks.io/komada-docs"
 ,"konsumer": "konsumer.github.io" //noCF? (don´t add this in a new PR)
+,"kyoto": "kyotojs.github.io"
 ,"labelauty": "fntneves.github.io/jquery-labelauty" //noCF? (don´t add this in a new PR)
 ,"lambda": "lambdajs.github.io" //noCF? (don´t add this in a new PR)
 ,"languages": "rsamaium.github.io/Languages"
