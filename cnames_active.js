@@ -186,6 +186,7 @@ var cnames_active = {
 ,"cyclow": "pmros.github.io/cyclow" //noCF
 ,"d4": "joelburget.github.io/d4"
 ,"danmaku": "weizhenye.github.io/Danmaku"
+,"damo": "damodharanj.github.io"
 ,"danmol": "dan12mol.github.io" //noCF? (don´t add this in a new PR)
 ,"datastructures": "deadcoder0904.github.io/datastructures"
 ,"date": "matthewmueller.github.io/date" //noCF? (don´t add this in a new PR)
