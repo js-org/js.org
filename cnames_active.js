@@ -141,7 +141,7 @@ var cnames_active = {
 ,"chatexchange": "jacob-gray.github.io/ChatExchangeJS"
 ,"checklist": "hellogreg.github.io/checklist"
 ,"cheerio": "cheeriojs.github.io/cheerio"
-,"chernivtsi": "chernivtsijs.github.io" //noCF? (don´t add this in a new PR)
+,"chernivtsi": "chernivtsijs.github.io"
 ,"chimon2000": "chimon2000.github.io" //noCF? (don´t add this in a new PR)
 ,"chirashi": "chirashijs.github.io/chirashi"
 ,"chrislaughlin": "chrislaughlin.github.io" //noCF? (don´t add this in a new PR)
