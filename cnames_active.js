@@ -668,6 +668,7 @@ var cnames_active = {
 ,"resourceful-redux": "jmeas.github.io/resourceful-redux"
 ,"restjs": "daviesgeek.github.io/restjs"
 ,"revaluate": "hasharray.github.io/revaluate.js"
+,"riklewis": "riklewis.github.io"
 ,"riotgear": "riotgear.github.io"
 ,"rishav": "xrisk.github.io"
 ,"risingstars2016": "michaelrambeau.github.io/risingstars2016"
