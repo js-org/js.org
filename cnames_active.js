@@ -705,6 +705,7 @@ var cnames_active = {
 ,"selectors": "selectors.github.io/selectors.js"
 ,"selectric": "lcdsantos.github.io/jQuery-Selectric" //noCF? (don´t add this in a new PR)
 ,"sendilkumarn": "sendilkumarn.github.io"
+,"seoul": "seouljs.github.io/seoul.js.org"
 ,"serender": "youssefkababe.github.io/serender" //noCF? (don´t add this in a new PR)
 ,"serginator": "serginator.github.io" //noCF? (don´t add this in a new PR)
 ,"serializer": "haircvt.github.io/serializerjs" //noCF? (don´t add this in a new PR)
