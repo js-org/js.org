@@ -284,6 +284,7 @@ var cnames_active = {
 ,"flexmasonry": "kavanmevada.github.io/flex_masonry" //noCF
 ,"flowchart": "adrai.github.io/flowchart.js" //noCF? (don´t add this in a new PR)
 ,"fluxoff": "kingscott.github.io/flux-off" //noCF? (don´t add this in a new PR)
+,"flybook": "rhiokim.github.io/flybook"
 ,"fnx": "fnxjs.gitbooks.io/fnx-documentation"
 ,"form": "the94air.github.io/formjs"
 ,"formred": "zewish.github.io/formred"
@@ -621,7 +622,7 @@ var cnames_active = {
 ,"react-controlled-form": "rofrischmann.github.io/react-controlled-form"
 ,"react-coroutine": "alexeyraspopov.github.io/react-coroutine"
 ,"react-day-picker": "gpbl.github.io/react-day-picker" //noCF
-,"react-dropzone": "react-dropzone.netlify.com"  
+,"react-dropzone": "react-dropzone.netlify.com"
 ,"react-easy-swipe": "leandrowd.github.io/react-easy-swipe" //noCF? (don´t add this in a new PR)
 ,"react-entanglement": "react-entanglement.github.io"
 ,"react-form": "react-form.netlify.com"
@@ -864,7 +865,7 @@ var cnames_active = {
 ,"xto6": "mohebifar.github.io/xto6" //noCF? (don´t add this in a new PR)
 ,"xtype": "lucono.github.io/xtypejs" //noCF? (don´t add this in a new PR)
 ,"y86": "quietshu.github.io/y86" //noCF? (don´t add this in a new PR)
-,"yagolopez": "yagolopez.github.io"  
+,"yagolopez": "yagolopez.github.io"
 ,"yah": "thassiov.github.io/yah" //noCF? (don´t add this in a new PR)
 ,"yamdbf": "zajrik.github.io/yamdbf"
 ,"yargs": "yargs.github.io" //noCF? (don´t add this in a new PR)
