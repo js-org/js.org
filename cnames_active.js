@@ -400,6 +400,7 @@ var cnames_active = {
 ,"kdiacodes": "kdiacodes.github.io"
 ,"kea": "mariusandra.github.io/kea"
 ,"kelvinho": "kelvin2go.github.io" //noCF? (don´t add this in a new PR)
+,"kewitz": "kewitz.github.io"
 ,"keypress": "rumkin.github.io/keypress.js.org"
 ,"kilvin": "rofrischmann.github.io/kilvin"
 ,"knowyourbundle": "enapupe.github.io/know-your-bundle"
