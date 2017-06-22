@@ -381,6 +381,7 @@ var cnames_active = {
 ,"jinya": "chenjinya.github.io"
 ,"jjlc": "k-yak.github.io/JJLC" //noCF? (don´t add this in a new PR)
 ,"jogja": "jogjajs.github.io" //noCF
+,"josep": "warlock.github.io"
 ,"josuedanielbust": "josuedanielbust.github.io" //noCF? (don´t add this in a new PR)
 ,"jparticles": "jparticles.github.io/Documentation"
 ,"jsnippet": "JesseEisen.github.io/snippets" //noCF
@@ -849,6 +850,7 @@ var cnames_active = {
 ,"vuikit":"vuikit.github.io"
 ,"vuongdothanhhuy": "vuongdothanhhuy.github.io" //noCF? (don´t add this in a new PR)
 ,"wargamer": "hkwu.github.io/wargamer"
+,"warlock": "warlock.github.io",
 ,"warnbot": "darkcoding-js.github.io/WarnBot"
 ,"warrior": "warriorjs.github.io"
 ,"watch": "ducin.github.io/watchjs.org" //noCF? (don´t add this in a new PR)
