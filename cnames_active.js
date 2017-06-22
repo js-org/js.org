@@ -435,6 +435,7 @@ var cnames_active = {
 ,"m8bot": "mapreiff.github.io/m8-bot-site"
 ,"madankumar": "jmadankumar.github.io"
 ,"magnet": "magnetjs.github.io/Magnet" //noCF? (don´t add this in a new PR)
+,"majestic": "moityjs.github.io/majestic",
 ,"maki": "makixx.github.io"
 ,"marble": "jsguy.github.io/marble"
 ,"marcosflorencio": "marcosflorencio.github.io"
