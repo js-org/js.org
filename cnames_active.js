@@ -285,6 +285,7 @@ var cnames_active = {
 ,"flexmasonry": "kavanmevada.github.io/flex_masonry" //noCF
 ,"flowchart": "adrai.github.io/flowchart.js" //noCF? (don´t add this in a new PR)
 ,"fluxoff": "kingscott.github.io/flux-off" //noCF? (don´t add this in a new PR)
+,"flybook": "rhiokim.github.io/flybook"
 ,"fnx": "fnxjs.gitbooks.io/fnx-documentation"
 ,"form": "the94air.github.io/formjs"
 ,"formred": "zewish.github.io/formred"
@@ -400,6 +401,7 @@ var cnames_active = {
 ,"kdiacodes": "kdiacodes.github.io"
 ,"kea": "mariusandra.github.io/kea"
 ,"kelvinho": "kelvin2go.github.io" //noCF? (don´t add this in a new PR)
+,"kewitz": "kewitz.github.io"
 ,"keypress": "rumkin.github.io/keypress.js.org"
 ,"kilvin": "rofrischmann.github.io/kilvin"
 ,"knowyourbundle": "enapupe.github.io/know-your-bundle"
@@ -566,6 +568,7 @@ var cnames_active = {
 ,"pdp-elements": "go4cas.github.io/pdp_elements" //noCF? (don´t add this in a new PR)
 ,"peekaboo": "nadavspi.github.io/peekaboo.js"
 ,"pegboard": "mplewis.github.io/pegboard"
+,"pekanbaru": "pekanbarujs.github.io"
 ,"penguin": "domachine.github.io/penguin"
 ,"penn-sdk": "pennlabs.github.io/penn-sdk-node" //noCF? (don´t add this in a new PR)
 ,"pentris": "justinjc.github.io/pentris2" //noCF? (don´t add this in a new PR)
@@ -621,7 +624,7 @@ var cnames_active = {
 ,"react-controlled-form": "rofrischmann.github.io/react-controlled-form"
 ,"react-coroutine": "alexeyraspopov.github.io/react-coroutine"
 ,"react-day-picker": "gpbl.github.io/react-day-picker" //noCF
-,"react-dropzone": "react-dropzone.netlify.com"  
+,"react-dropzone": "react-dropzone.netlify.com"
 ,"react-easy-swipe": "leandrowd.github.io/react-easy-swipe" //noCF? (don´t add this in a new PR)
 ,"react-entanglement": "react-entanglement.github.io"
 ,"react-form": "react-form.netlify.com"
@@ -649,6 +652,7 @@ var cnames_active = {
 ,"redis": "noderedis.github.io/node_redis" //noCF? (don´t add this in a new PR)
 ,"redom": "pakastin.github.io/redom"
 ,"reduce": "reducejs.github.io" //noCF? (don´t add this in a new PR)
+,"redux-data-structures": "pacificcodology.github.io/redux-data-structures"
 ,"redux-minimal": "catalin-luntraru.github.io/redux-minimal"
 ,"redux-observable": "redux-observable.github.io/redux-observable"
 ,"redux-saga": "redux-saga.github.io/redux-saga"
@@ -668,6 +672,7 @@ var cnames_active = {
 ,"resourceful-redux": "jmeas.github.io/resourceful-redux"
 ,"restjs": "daviesgeek.github.io/restjs"
 ,"revaluate": "hasharray.github.io/revaluate.js"
+,"riklewis": "riklewis.github.io"
 ,"riotgear": "riotgear.github.io"
 ,"rishav": "xrisk.github.io"
 ,"risingstars2016": "michaelrambeau.github.io/risingstars2016"
@@ -706,6 +711,7 @@ var cnames_active = {
 ,"selectors": "selectors.github.io/selectors.js"
 ,"selectric": "lcdsantos.github.io/jQuery-Selectric" //noCF? (don´t add this in a new PR)
 ,"sendilkumarn": "sendilkumarn.github.io"
+,"seoul": "seouljs.github.io/seoul.js.org"
 ,"serender": "youssefkababe.github.io/serender" //noCF? (don´t add this in a new PR)
 ,"serginator": "serginator.github.io" //noCF? (don´t add this in a new PR)
 ,"serializer": "haircvt.github.io/serializerjs" //noCF? (don´t add this in a new PR)
@@ -817,6 +823,7 @@ var cnames_active = {
 ,"ukazap": "ukazap.github.io" //noCF? (don´t add this in a new PR)
 ,"ulog": "download.github.io/ulog"
 ,"ultcombo": "ultcombo.github.io" //noCF? (don´t add this in a new PR)
+,"uneditable": "iamcristye.github.io/Uneditable.js"
 ,"unexpected": "unexpectedjs.github.io" //noCF? (don´t add this in a new PR)
 ,"uni": "arcadiogarcia.github.io/UNIJS" //noCF? (don´t add this in a new PR)
 ,"upresent": "bobbybee.github.io/uPresent" //noCF? (don´t add this in a new PR)
@@ -861,7 +868,7 @@ var cnames_active = {
 ,"xto6": "mohebifar.github.io/xto6" //noCF? (don´t add this in a new PR)
 ,"xtype": "lucono.github.io/xtypejs" //noCF? (don´t add this in a new PR)
 ,"y86": "quietshu.github.io/y86" //noCF? (don´t add this in a new PR)
-,"yagolopez": "yagolopez.github.io"  
+,"yagolopez": "yagolopez.github.io"
 ,"yah": "thassiov.github.io/yah" //noCF? (don´t add this in a new PR)
 ,"yamdbf": "zajrik.github.io/yamdbf"
 ,"yargs": "yargs.github.io" //noCF? (don´t add this in a new PR)
