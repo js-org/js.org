@@ -654,7 +654,7 @@ var cnames_active = {
 ,"redis": "noderedis.github.io/node_redis" //noCF? (don´t add this in a new PR)
 ,"redom": "pakastin.github.io/redom"
 ,"reduce": "reducejs.github.io" //noCF? (don´t add this in a new PR)
-,"redux-data-structures": "pacificcodology.github.io/redux-data-structures"
+,"redux-data-structures": "adrienjt.github.io/redux-data-structures"
 ,"redux-minimal": "catalin-luntraru.github.io/redux-minimal"
 ,"redux-observable": "redux-observable.github.io/redux-observable"
 ,"redux-saga": "redux-saga.github.io/redux-saga"
