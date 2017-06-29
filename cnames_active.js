@@ -846,6 +846,7 @@ var cnames_active = {
 ,"vico": "bohdantkachenko.github.io/vico" //noCF? (don´t add this in a new PR)
 ,"video-react": "video-react.github.io"
 ,"vinimdocarmo": "vinimdocarmo.github.com" //noCF? (don´t add this in a new PR)
+,"viperhtml": "viperhtml.github.io"
 ,"visualnovel": "selcher.github.io/visualnoveljs" //noCF? (don´t add this in a new PR)
 ,"vk-x": "vk-x.github.io"
 ,"vncz": "xvincentx.github.io/vncz"
