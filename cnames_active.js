@@ -716,6 +716,7 @@ var cnames_active = {
 ,"select_io": "selaromi.github.io/select_io" //noCF? (don´t add this in a new PR)
 ,"selectors": "selectors.github.io/selectors.js"
 ,"selectric": "lcdsantos.github.io/jQuery-Selectric" //noCF? (don´t add this in a new PR)
+,"self": "hiun.github.io/self"
 ,"sendilkumarn": "sendilkumarn.github.io"
 ,"seoul": "seouljs.github.io/seoul.js.org"
 ,"sequential": "lorenzoongithub.github.io/sequential"
