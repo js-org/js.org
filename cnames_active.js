@@ -845,6 +845,7 @@ var cnames_active = {
 ,"vanilla": "haeresis.github.io/vanilla-js-dom"
 ,"vbuild":"egoist.github.io/vbuild"
 ,"vico": "bohdantkachenko.github.io/vico" //noCF? (don´t add this in a new PR)
+,"verifyr": "arze1.github.io/verifyr-site"
 ,"video-react": "video-react.github.io"
 ,"vinimdocarmo": "vinimdocarmo.github.com" //noCF? (don´t add this in a new PR)
 ,"viperhtml": "viperhtml.github.io"
