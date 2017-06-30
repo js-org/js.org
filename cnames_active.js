@@ -116,6 +116,7 @@ var cnames_active = {
 ,"boundless": "enigma-io.github.io/boundless"
 ,"box": "capacitorset.github.io/box-js" //noCF
 ,"bplayer": "classicoldsong.github.io/bPlayer" //noCF? (don´t add this in a new PR)
+,"brandifyjs": "greybax.github.io/brandifyjs" //noCF? (don´t add this in a new PR)
 ,"brandonmerritt": "brandonmerritt.github.io" //noCF? (don´t add this in a new PR)
 ,"braxit": "braxit.github.io" //noCF? (don´t add this in a new PR)
 ,"brexit-regrets": "adebounam.github.io/brexit-regrets" //noCF? (don´t add this in a new PR)
