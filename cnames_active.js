@@ -461,6 +461,7 @@ var cnames_active = {
 ,"medium-header": "danielfeelfine.github.io/medium-header" //noCF? (don´t add this in a new PR)
 ,"meiosis": "foxdonut.github.io/meiosis" //noCF? (don´t add this in a new PR)
 ,"melies-hugo": "cristinafsanz.github.io/melies-hugo"
+,"melody": "trivago.github.io/melody-web"
 ,"mern": "IamMohaiminul.GitHub.io/MERNjs"
 ,"mesh": "crcn.github.io/mesh.js.org" //noCF? (don´t add this in a new PR)
 ,"metadata": "oknosoft.github.io/metadata.js"
