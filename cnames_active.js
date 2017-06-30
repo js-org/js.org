@@ -111,7 +111,7 @@ var cnames_active = {
 ,"bool": "booljs.github.io"
 ,"bootstrap-confirmation": "mistic100.github.io/Bootstrap-Confirmation" //noCF? (don´t add this in a new PR)
 ,"bootstrap-validate": "pascalebeier.github.io/bootstrap-validate"
-,"bootstrap-vue": "bootstrap-vue.github.io" //noCF  
+,"bootstrap-vue": "bootstrap-vue.github.io"
 ,"bornaeon": "bornaeon.github.io" //noCF
 ,"boundless": "enigma-io.github.io/boundless"
 ,"box": "capacitorset.github.io/box-js" //noCF
