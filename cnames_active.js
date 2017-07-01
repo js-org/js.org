@@ -140,6 +140,7 @@ var cnames_active = {
 ,"capsid": "capsidjs.github.io/capsid"
 ,"capsule": "capsule-js-org.github.io/capsule"
 ,"cartodb-demo": "opensas.github.io/cartodb-demo" //noCF? (don´t add this in a new PR)
+,"cassie": "milesgitgud.github.io/cassie"
 ,"central-node": "central-node.github.io" //noCF? (don´t add this in a new PR)
 ,"chatexchange": "jacob-gray.github.io/ChatExchangeJS"
 ,"checklist": "hellogreg.github.io/checklist"
@@ -890,7 +891,6 @@ var cnames_active = {
 ,"zodiac": "indus.github.io/Zodiac" //noCF? (don´t add this in a new PR)
 ,"zombie": "assaf.github.io/zombie" //noCF? (don´t add this in a new PR)
 ,"zuck": "blanket-warriors.github.io/Zuck"
-,"cassie": "milesgitgud.github.io/cassie"
 /*
 * please don't add your subdomain records down here!
 * insert them in alphabetical order to help reduce merge conflicts.
