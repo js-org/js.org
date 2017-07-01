@@ -703,7 +703,7 @@ var cnames_active = {
 ,"saigon": "saigonjs.github.io"
 ,"sam":"jdubray.github.io/sam" //noCF? (don´t add this in a new PR)
 ,"samlify":"tngan.github.io/samlify"
-,"samplyr":"arze1.github.io/samplyr-site/"
+,"samplyr":"arze1.github.io/samplyr-site"
 ,"sanctuary": "sanctuary-js.github.io/sanctuary-site"
 ,"sandeepkhandewale": "learner1024.github.io"
 ,"sao": "egoist.github.io/sao"
