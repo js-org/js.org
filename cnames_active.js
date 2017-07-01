@@ -553,6 +553,7 @@ var cnames_active = {
 ,"omer": "omeroot.github.io" //noCF? (don´t add this in a new PR)
 ,"onebang": "teamtofu.github.io/onebang"
 ,"onedesert": "onedesert.github.io" //noCF? (don´t add this in a new PR)
+,"ongaku": "anshuman-verma.github.io/ongaku"  
 ,"onlineth": "onlineth.github.io"
 ,"opentype": "nodebox.github.io/opentype.js"
 ,"os": "91.247.228.125" //noCF
