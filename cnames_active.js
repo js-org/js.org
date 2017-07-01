@@ -665,6 +665,7 @@ var cnames_active = {
 ,"redux-data-structures": "adrienjt.github.io/redux-data-structures"
 ,"redux-minimal": "catalin-luntraru.github.io/redux-minimal"
 ,"redux-observable": "redux-observable.github.io/redux-observable"
+,"redux-observable-cn": "rxjs-cn.github.io/redux-observable-cn"
 ,"redux-saga": "redux-saga.github.io/redux-saga"
 ,"redux-undo": "omnidan.github.io/redux-undo" //noCF? (don´t add this in a new PR)
 ,"redux-webpack-boilerplate": "cchamberlain.github.io/redux-webpack-boilerplate" //noCF? (don´t add this in a new PR)
