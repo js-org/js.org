@@ -668,6 +668,7 @@ var cnames_active = {
 ,"redux-observable": "redux-observable.github.io/redux-observable"
 ,"redux-observable-cn": "rxjs-cn.github.io/redux-observable-cn"
 ,"redux-saga": "redux-saga.github.io/redux-saga"
+,"redux-tiles": "bloomca.github.io/redux-tiles"
 ,"redux-undo": "omnidan.github.io/redux-undo" //noCF? (don´t add this in a new PR)
 ,"redux-webpack-boilerplate": "cchamberlain.github.io/redux-webpack-boilerplate" //noCF? (don´t add this in a new PR)
 ,"redux": "rackt.github.io/redux" //noCF? (don´t add this in a new PR)
