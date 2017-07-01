@@ -141,6 +141,7 @@ var cnames_active = {
 ,"capsid": "capsidjs.github.io/capsid"
 ,"capsule": "capsule-js-org.github.io/capsule"
 ,"cartodb-demo": "opensas.github.io/cartodb-demo" //noCF? (don´t add this in a new PR)
+,"cassie": "milesgitgud.github.io/cassie"
 ,"central-node": "central-node.github.io" //noCF? (don´t add this in a new PR)
 ,"chatexchange": "jacob-gray.github.io/ChatExchangeJS"
 ,"checklist": "hellogreg.github.io/checklist"
