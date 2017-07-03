@@ -136,6 +136,7 @@ var cnames_active = {
 ,"calendarios": "helpdev.github.io/Calendarios" //noCF? (don´t add this in a new PR)
 ,"candyland": "candyland-js.github.io/candyland"
 ,"cans": "djyde.github.io/cans" //noCF
+,"canvas": "anshuman-verma.github.io/canvas"
 ,"capital": "capitaljs.github.io/capitaljs"
 ,"cardtabs": "blekerfeld.github.io/CardTabs"
 ,"capsid": "capsidjs.github.io/capsid"
