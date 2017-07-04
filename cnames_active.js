@@ -698,6 +698,7 @@ var cnames_active = {
 ,"rock": "w3core.github.io/RockJS"
 ,"rocket": "KevinOfNeu.github.io/rocket"
 ,"rockjins": "rockjins.github.io"
+,"roger": "rogerstach.github.io"
 ,"rosmaro": "lukaszmakuch.github.io/rosmaro"
 ,"router-advanced": "oldergod.github.io/router-advanced"
 ,"rp": "rpocklin.github.io" //noCF? (don´t add this in a new PR)
