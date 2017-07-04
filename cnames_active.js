@@ -99,6 +99,7 @@ var cnames_active = {
 ,"basicgame": "basicgame.github.io/basicGame.js" //noCF? (don´t add this in a new PR)
 ,"bastion": "snkrsnkampa.github.io/Bastion-Site"
 ,"bc": "mazko.github.io/bc.js"
+,"be": "davidep87.github.io/bejs.github.io"
 ,"begin": "advanced-webapps-class.github.io/begin" //noCF? (don´t add this in a new PR)
 ,"bestof": "michaelrambeau.github.io/bestofjs" //noCF? (don´t add this in a new PR)
 ,"bildepunkt": "bildepunkt.github.io" //noCF? (don´t add this in a new PR)
@@ -555,7 +556,7 @@ var cnames_active = {
 ,"omer": "omeroot.github.io" //noCF? (don´t add this in a new PR)
 ,"onebang": "teamtofu.github.io/onebang"
 ,"onedesert": "onedesert.github.io" //noCF? (don´t add this in a new PR)
-,"ongaku": "anshuman-verma.github.io/ongaku"  
+,"ongaku": "anshuman-verma.github.io/ongaku"
 ,"onlineth": "onlineth.github.io"
 ,"opentype": "nodebox.github.io/opentype.js"
 ,"os": "91.247.228.125" //noCF
