@@ -157,6 +157,7 @@ var cnames_active = {
 ,"chronos": "espinielli.github.io/chronos" //noCF? (don´t add this in a new PR)
 ,"cineasta": "cineasta-js.github.io/cineasta-docs"
 ,"citation": "larsgw.github.io/citation.js"
+,"city": "city.github.io"
 ,"clause": "clausejs.github.io/clausejs"
 ,"clockwork": "clockworkdev.github.io/ClockworkWebsite"
 ,"clusterize": "nexts.github.io/Clusterize.js"
