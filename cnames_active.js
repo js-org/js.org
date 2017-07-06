@@ -438,6 +438,7 @@ var cnames_active = {
 ,"liveflow": "hasharray.github.io/liveflow.js"
 ,"localsync": "noderaider.github.io/localsync" //noCF? (don´t add this in a new PR)
 ,"logo": "js-org.github.io/logo" //noCF? (don´t add this in a new PR)
+,"loog": "israelroldan.github.io/loog"
 ,"lostyle": "rtsao.github.io/lostyle"
 ,"lribeiro": "lmribeiro.github.io"
 ,"ls": "links-js.github.io"
