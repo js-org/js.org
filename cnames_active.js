@@ -665,7 +665,7 @@ var cnames_active = {
 ,"rebem": "rebem.github.io" //noCF? (don´t add this in a new PR)
 ,"recycle": "recyclejs.github.io/recycle"
 ,"redis": "noderedis.github.io/node_redis" //noCF? (don´t add this in a new PR)
-,"redom": "pakastin.github.io/redom"
+,"redom": "redom.github.io/redom"
 ,"reduce": "reducejs.github.io" //noCF? (don´t add this in a new PR)
 ,"redux-actions": "vinnymac.gitbooks.io/redux-actions"
 ,"redux-data-structures": "adrienjt.github.io/redux-data-structures"
