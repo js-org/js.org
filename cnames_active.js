@@ -474,6 +474,7 @@ var cnames_active = {
 ,"metagon": "austinhuang0131.github.io/metagon"
 ,"mf": "awto.github.io/mfjs-compiler" //noCF? (don´t add this in a new PR)
 ,"miguelsr": "miguelsr.github.io" //noCF? (don´t add this in a new PR)
+,"milesgitgud": "milesgitgud.github.io/homepage"
 ,"mimic": "500tech.github.io/mimic"
 ,"mina": "CenturyUna.github.io/mina"
 ,"mina": "github.com/CenturyUna/mina"
