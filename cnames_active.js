@@ -810,6 +810,7 @@ var cnames_active = {
 ,"temple": "beneaththeink.github.io/Temple" //noCF? (don´t add this in a new PR)
 ,"tequila": "tequila-js.github.io"
 ,"terminal": "gottox.github.io/terminal.js" //noCF? (don´t add this in a new PR)
+,"terrilltang": "terrilltang.github.io" //noCF? (don´t add this in a new PR)
 ,"textillate": "jschr.github.io/textillate" //noCF? (don´t add this in a new PR)
 ,"texy": "egoist.github.io/texy"
 ,"thea": "idokutela.github.io/thea"
