@@ -796,7 +796,7 @@ var cnames_active = {
 ,"sudoku": "andreynering.github.io/sudoku"
 ,"sulky": "shingle.github.io/sulky" //noCF? (don´t add this in a new PR)
 ,"sunsistemo": "sunsistemo.github.io/sunsistemo"
-,"super-trim": "beeblebrox3.github.io/super-trim/"
+,"super-trim": "beeblebrox3.github.io/super-trim"
 ,"supernova": "janbiasi.github.io/supernova" //noCF? (don´t add this in a new PR)
 ,"svelteui": "transpiling.github.io/svelte-flat-ui"
 ,"swichit": "dongryphon.github.io/switchit"
