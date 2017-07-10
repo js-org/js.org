@@ -248,7 +248,7 @@ var cnames_active = {
 ,"elastic-builder": "sudo-suhas.github.io/elastic-builder"
 ,"elf": "mytharcher.github.io/elf.js.org" //noCF? (don´t add this in a new PR)
 ,"elliot": "elliotboney.github.io" //noCF? (don´t add this in a new PR)
-,"elmo": "lap00zza.github.io/elmo",
+,"elmo": "lap00zza.github.io/elmo"
 ,"embedlam": "wnda.github.io/embedlam"
 ,"ember-cli-page-object": "san650.github.io/ember-cli-page-object" //noCF? (don´t add this in a new PR)
 ,"ember-electron": "felixrieseberg.github.io/ember-electron"
@@ -447,7 +447,7 @@ var cnames_active = {
 ,"m8bot": "mapreiff.github.io/m8-bot-site"
 ,"madankumar": "jmadankumar.github.io"
 ,"magnet": "magnetjs.github.io/Magnet" //noCF? (don´t add this in a new PR)
-,"majestic": "moityjs.github.io/majestic",
+,"majestic": "moityjs.github.io/majestic"
 ,"maki": "makixx.github.io"
 ,"marble": "jsguy.github.io/marble"
 ,"marcosflorencio": "marcosflorencio.github.io"
@@ -464,7 +464,6 @@ var cnames_active = {
 ,"mde": "lukehorvat.github.io/mde-soundboard" //noCF? (don´t add this in a new PR)
 ,"medan": "medan-js.github.io" //noCF
 ,"mediainfo": "buzz.github.io/mediainfo.js"
-,"medit": "echosoar.github.io/medit"
 ,"medit": "echosoar.github.io/medit"
 ,"medium-header": "danielfeelfine.github.io/medium-header" //noCF? (don´t add this in a new PR)
 ,"meiosis": "foxdonut.github.io/meiosis" //noCF? (don´t add this in a new PR)
@@ -797,6 +796,7 @@ var cnames_active = {
 ,"sudoku": "andreynering.github.io/sudoku"
 ,"sulky": "shingle.github.io/sulky" //noCF? (don´t add this in a new PR)
 ,"sunsistemo": "sunsistemo.github.io/sunsistemo"
+,"super-trim": "beeblebrox3.github.io/super-trim"
 ,"supernova": "janbiasi.github.io/supernova" //noCF? (don´t add this in a new PR)
 ,"svelteui": "transpiling.github.io/svelte-flat-ui"
 ,"swichit": "dongryphon.github.io/switchit"
