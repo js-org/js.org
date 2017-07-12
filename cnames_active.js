@@ -454,6 +454,8 @@ var cnames_active = {
 ,"marcosflorencio": "marcosflorencio.github.io"
 ,"markdownify": "amitmerchant1990.github.io/electron-markdownify"
 ,"markmsmith": "markmsmith.github.io"
+,"markvis": "geekplux.github.io/markvis"
+,"markvis-editor": "geekplux.github.io/markvis-editor"
 ,"martin": "martinbutler.github.io" //noCF? (don´t add this in a new PR)
 ,"martingollogly": "martingollogly.github.io" //noCF? (don´t add this in a new PR)
 ,"marxist": "ohmfox.github.io/marxistjs" //noCF? (don´t add this in a new PR)
