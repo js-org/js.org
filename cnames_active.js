@@ -477,6 +477,7 @@ var cnames_active = {
 ,"metadata": "oknosoft.github.io/metadata.js"
 ,"metagon": "austinhuang0131.github.io/metagon"
 ,"mf": "awto.github.io/mfjs-compiler" //noCF? (don´t add this in a new PR)
+,"mics": "download.github.io/mics"
 ,"miguelsr": "miguelsr.github.io" //noCF? (don´t add this in a new PR)
 ,"milesgitgud": "milesgitgud.github.io/homepage"
 ,"mimic": "500tech.github.io/mimic"
