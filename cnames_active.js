@@ -824,6 +824,7 @@ var cnames_active = {
 ,"thegrid": "antoniandre.github.io/grid"
 ,"themoviedb": "chrisenytc.github.io/themoviedb" //noCF? (don´t add this in a new PR)
 ,"thundercats": "thundercatsjs.github.io/thundercats" //noCF? (don´t add this in a new PR)
+,"timeout": "anshuman-verma.github.io/setTimeout"
 ,"timerizer": "callumacrae.github.io/timerizerJS" //noCF? (don´t add this in a new PR)
 ,"tint": "tintjs.github.io" //noCF? (don´t add this in a new PR)
 ,"tinylinux": "e8johan.github.io/tiny-js" //noCF? (don´t add this in a new PR)
