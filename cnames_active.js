@@ -498,7 +498,7 @@ var cnames_active = {
 ,"mog-script": "mog-script.github.io"
 ,"mohit":"mohitgarg.github.io"
 ,"mol": "eigenmethod.github.io/mol" //noCF
-,"molti": "saajoh0783.github.io/molti"
+,"molti": "moltijs.github.io/molti"
 ,"mom": "momjs.github.io/mom"
 ,"momentum": "wemakeweb.github.io/momentum" //noCF? (don´t add this in a new PR)
 ,"monkberry": "monkberry.github.io"
