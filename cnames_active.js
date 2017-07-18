@@ -417,6 +417,7 @@ var cnames_active = {
 ,"kewitz": "kewitz.github.io"
 ,"keypress": "rumkin.github.io/keypress.js.org"
 ,"kilvin": "rofrischmann.github.io/kilvin"
+,"klasa": "dirigeants.github.io/klasa"
 ,"knowyourbundle": "enapupe.github.io/know-your-bundle"
 ,"komada": "dirigeants.gitbooks.io/komada-docs"
 ,"konsumer": "konsumer.github.io" //noCF? (don´t add this in a new PR)
