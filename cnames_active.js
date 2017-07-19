@@ -884,6 +884,7 @@ var cnames_active = {
 ,"vue-mdc":"na-west1.surge.sh"
 ,"vuikit":"vuikit.github.io"
 ,"vuongdothanhhuy": "vuongdothanhhuy.github.io" //noCF? (don´t add this in a new PR)
+,"wanna": "mkermani144.github.io/wanna"
 ,"wargamer": "hkwu.github.io/wargamer"
 ,"warnbot": "darkcoding-js.github.io/WarnBot"
 ,"warrior": "warriorjs.github.io"
