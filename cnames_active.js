@@ -62,6 +62,7 @@ var cnames_active = {
 ,"angularstompdk": "davinkevin.github.io/AngularStompDK" //noCF? (don´t add this in a new PR)
 ,"ankithjoseph": "ankithjoseph.github.io"
 ,"animo": "thrivingkings.github.io/animo"
+,"animorph": "claudiobmgrtnr.github.io/animorph/"
 ,"annotate": "taitems.github.io/web-pdf-annotation" //noCF? (don´t add this in a new PR)
 ,"annoyingmouse": "annoyingmouse.github.io" //noCF? (don´t add this in a new PR)
 ,"antwar": "antwarjs.github.io/antwar"
