@@ -881,6 +881,7 @@ var cnames_active = {
 ,"vncz": "xvincentx.github.io/vncz"
 ,"voloshins": "voloshins.github.io" //noCF? (don´t add this in a new PR)
 ,"vorpal": "dthree.github.io/vorpal" //noCF? (don´t add this in a new PR)
+,"voxelcss": "jhwohlgemuth.github.io/voxelcss"
 ,"vscode-apielements":"xvincentx.github.io/vscode-apielements"
 ,"vue-land": "egoist.github.io/vue-land"
 ,"vue-mdc":"na-west1.surge.sh"
