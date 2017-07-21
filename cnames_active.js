@@ -603,6 +603,7 @@ var cnames_active = {
 ,"pharaoh": "pharaoh-js.github.io" //noCF? (don´t add this in a new PR)
 ,"phobos": "phobosjs.github.io/phobos.js"
 ,"photo-sphere-viewer": "mistic100.github.io/Photo-Sphere-Viewer" //noCF? (don´t add this in a new PR)
+,"picodom": "picodom.github.io"
 ,"picsim": "mazko.github.io/picsim.js"
 ,"piii": "theuves.github.io/piii.js" //noCF? (don´t add this in a new PR)
 ,"pinf": "pinf.github.io" //noCF? (don´t add this in a new PR)
