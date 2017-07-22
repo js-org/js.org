@@ -116,6 +116,7 @@ var cnames_active = {
 ,"bootstrap-validate": "pascalebeier.github.io/bootstrap-validate"
 ,"bootstrap-vue": "bootstrap-vue.github.io"
 ,"bornaeon": "bornaeon.github.io" //noCF
+,"botgram": "botgram.github.io/botgram"
 ,"boundless": "enigma-io.github.io/boundless"
 ,"box": "capacitorset.github.io/box-js" //noCF
 ,"bplayer": "classicoldsong.github.io/bPlayer" //noCF? (don´t add this in a new PR)
