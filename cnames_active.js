@@ -354,6 +354,7 @@ var cnames_active = {
 ,"hhao99":"hhao99.github.io"
 ,"hilo": "erikroyall.github.io/hilo" //noCF? (don´t add this in a new PR)
 ,"hk": "akura-co.github.io/hk" //noCF? (don´t add this in a new PR)
+,"hoa": "thehoa.github.io"
 ,"hooloo": "hooloo.github.io" //noCF? (don´t add this in a new PR)
 ,"human": "human-js.gitbooks.io" //noCF? (don´t add this in a new PR)
 ,"humanreadable": "matt-sanders.github.io/humanreadable" //noCF? (don´t add this in a new PR)
@@ -922,7 +923,6 @@ var cnames_active = {
 ,"zodiac": "indus.github.io/Zodiac" //noCF? (don´t add this in a new PR)
 ,"zombie": "assaf.github.io/zombie" //noCF? (don´t add this in a new PR)
 ,"zuck": "blanket-warriors.github.io/Zuck"
-,"hoa": "thehoa.github.io"
 /*
 * please don't add your subdomain records down here!
 * insert them in alphabetical order to help reduce merge conflicts.
