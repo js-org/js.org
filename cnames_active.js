@@ -324,6 +324,7 @@ var cnames_active = {
 ,"ghsamm": "ghsamm.github.io" //noCF? (don´t add this in a new PR)
 ,"giant-piano": "moroshko.github.io/giant-piano" //noCF? (don´t add this in a new PR)
 ,"girls": "girls-js.github.io"
+,"gka": "gkajs.github.io/gka"
 ,"gol": "goljs.github.io/GoL"
 ,"goodseller": "goodseller.github.io" //noCF? (don´t add this in a new PR)
 ,"gotanda": "gotandajs.github.io"
