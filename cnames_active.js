@@ -418,7 +418,7 @@ var cnames_active = {
 ,"karlbateman": "karlbateman.github.io/karlbateman.js.org"
 ,"kcak11": "kcak11.github.io/js-org-web"
 ,"kdiacodes": "kdiacodes.github.io"
-,"kea": "mariusandra.github.io/kea"
+,"kea": "keajs.github.io/kea"
 ,"kelvinho": "kelvin2go.github.io" //noCF? (don´t add this in a new PR)
 ,"kewitz": "kewitz.github.io"
 ,"keypress": "rumkin.github.io/keypress.js.org"
