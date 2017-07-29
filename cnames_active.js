@@ -808,6 +808,7 @@ var cnames_active = {
 ,"structure": "talyssonoc.gitbooks.io/structure"
 ,"stuck": "linuxenko.github.io/unstuck-webpack"
 ,"style": "dhilipsiva.github.io/style.js" //noCF? (don´t add this in a new PR)
+,"styled-css-grid": "styled-css-grid.netlify.com"
 ,"styletron": "rtsao.github.io/styletron" //noCF? (don´t add this in a new PR)
 ,"stylis": "thysultan.github.io/stylis.js"
 ,"sudarshan":"sudarshanRaul.github.io"
