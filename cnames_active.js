@@ -848,6 +848,7 @@ var cnames_active = {
 ,"torino": "torinojs.github.io" //noCF? (don´t add this in a new PR)
 ,"torlondev": "torlondev.github.io"
 ,"trace": "andreasmadsen.github.io/trace"
+,"transposer": "francesco-dipi.github.io/transposer"
 ,"treviso": "trevisojs.github.io" //noCF? (don´t add this in a new PR)
 ,"trevorgk": "trevorgk.github.io" //noCF? (don´t add this in a new PR)
 ,"trilogy": "citycide.github.io/trilogy"
