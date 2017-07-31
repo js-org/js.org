@@ -95,7 +95,7 @@ var cnames_active = {
 ,"backlog": "backlog-js.github.io/backlog.js.org" //noCF? (don´t add this in a new PR)
 ,"badger": "just-glue-it.github.io/badger" //noCF? (don´t add this in a new PR)
 ,"badrudeen": "badrudeen.github.io" //noCF? (don´t add this in a new PR)
-,"bali": "balijs.github.io" //noCF? (don´t add this in a new PR)
+,"bali": "balijs.github.io"
 ,"bandung": "zufrizalyordan.github.io/bandungjs" //noCF
 ,"barbagrigia": "barbagrigia.github.io"
 ,"barcelona": "barcelona-js.github.io/website" //noCF? (don´t add this in a new PR)
