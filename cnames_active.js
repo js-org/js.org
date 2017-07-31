@@ -535,7 +535,7 @@ var cnames_active = {
 ,"nautilus": "ignigena.github.io/nautilus"
 ,"ncms": "janbiasi.github.io/ncms" //noCF? (don´t add this in a new PR)
 ,"ncub8": "ncub8.github.io" //noCF? (don´t add this in a new PR)
-,"nearley": "hardmath123.github.io/nearley" //noCF? (don´t add this in a new PR)
+,"nearley": "hardmath123.github.io/nearley"
 ,"nemaniarjun": "nemaniarjun.github.io"
 ,"nemo": "paypal.github.io/nemo" //noCF? (don´t add this in a new PR)
 ,"neutrino": "mozilla-neutrino.github.io/neutrino-dev"
