@@ -604,6 +604,7 @@ var cnames_active = {
 ,"penguin": "domachine.github.io/penguin"
 ,"penn-sdk": "pennlabs.github.io/penn-sdk-node" //noCF? (don´t add this in a new PR)
 ,"pentris": "justinjc.github.io/pentris2" //noCF? (don´t add this in a new PR)
+,"perfectcode97": "perfectcode97.github.io"
 ,"perspective": "leopoldthecoder.github.io/Perspective"
 ,"pguth": "pguth.github.io"
 ,"pharaoh": "pharaoh-js.github.io" //noCF? (don´t add this in a new PR)
