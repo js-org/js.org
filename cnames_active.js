@@ -45,7 +45,7 @@ var cnames_active = {
 ,"action-u": "kevinast.github.io/action-u"
 ,"adon988": "adon988.github.io"
 ,"aghasemi": "aghasemi.github.io"
-,"agrawalnaman": "agrawalnaman.github.io"  
+,"agrawalnaman": "agrawalnaman.github.io"
 ,"ajaxable": "artf.github.io/ajaxable"
 ,"akase": "cedmax.github.io/akase" //noCF? (don´t add this in a new PR)
 ,"akashacms": "akashacms.github.io" //noCF? (don´t add this in a new PR)
@@ -383,7 +383,7 @@ var cnames_active = {
 ,"ip-address": "beaugunderson.github.io/ip-address" //noCF? (don´t add this in a new PR)
 ,"is": "arasatasaygin.github.io/is.js" //noCF? (don´t add this in a new PR)
 ,"ishan": "ishanthukral.github.io/ishan.js" //noCF? (don´t add this in a new PR)
-,"isic": "atomicptr.github.io/isic-docs"
+,"isic": "isic.github.io/isic-docs"
 ,"istanbul": "istanbuljs.github.io"
 ,"italia": "milano-js.github.io/italia-js" //noCF? (don´t add this in a new PR)
 ,"itsashis4u": "itsashis4u.github.io" //noCF? (don´t add this in a new PR)
