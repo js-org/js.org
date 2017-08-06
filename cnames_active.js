@@ -113,11 +113,11 @@ var cnames_active = {
 ,"bloomer": "algusdark.github.io/bloomer" //noCF
 ,"bodybuilder": "danpaz.github.io/bodybuilder" //noCF? (don´t add this in a new PR)
 ,"bombsweeper": "pakastin.github.io/bombsweeper"
+,"bonzibuddy": "fardindadev.github.io/bonzibuddy"
 ,"bool": "booljs.github.io"
 ,"bootstrap-confirmation": "mistic100.github.io/Bootstrap-Confirmation" //noCF? (don´t add this in a new PR)
 ,"bootstrap-validate": "pascalebeier.github.io/bootstrap-validate"
 ,"bootstrap-vue": "bootstrap-vue.github.io"
-,"bonzibuddy:" "fardindadev.github.io/bonzibuddy"
 ,"bornaeon": "bornaeon.github.io" //noCF
 ,"botgram": "botgram.github.io/botgram"
 ,"boundless": "enigma-io.github.io/boundless"
