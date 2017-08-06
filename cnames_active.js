@@ -52,7 +52,7 @@ var cnames_active = {
 ,"alasql": "alasql.github.io" //noCF? (don´t add this in a new PR)
 ,"algebra": "nicolewhite.github.io/algebra.js" //noCF? (don´t add this in a new PR)
 ,"alien": "pschroen.github.io/alien.js"
-,"aligos.js.org": "aligos.github.io" //noCF? (don´t add this in a new PR)
+,"aligos": "aligos.github.io" //noCF? (don´t add this in a new PR)
 ,"all": "learnsomuch.github.io/all.js" //noCF? (don´t add this in a new PR)
 ,"almin": "almin.github.io"
 ,"alt": "goatslacker.github.io/alt" //noCF? (don´t add this in a new PR)
@@ -781,7 +781,7 @@ var cnames_active = {
 ,"sonny": "sonnylazuardi.github.io" //noCF? (don´t add this in a new PR)
 ,"sox": "sox-team.github.io/sox" //noCF? (don´t add this in a new PR)
 ,"spaas": "pakastin.github.io/spaas"
-,"spectragram,": "adrianengine.github.io/jquery-spectragram" //noCF? (don´t add this in a new PR)
+,"spectragram": "adrianengine.github.io/jquery-spectragram" //noCF? (don´t add this in a new PR)
 ,"spicdev": "spicdev.github.io" //noCF? (don´t add this in a new PR)
 ,"spin": "fgnass.github.io/spin.js" //noCF? (don´t add this in a new PR)
 ,"spirare": "waldenn.github.io/spirare" //noCF? (don´t add this in a new PR)
@@ -819,7 +819,7 @@ var cnames_active = {
 ,"super-trim": "beeblebrox3.github.io/super-trim"
 ,"supernova": "janbiasi.github.io/supernova" //noCF? (don´t add this in a new PR)
 ,"svelteui": "transpiling.github.io/svelte-flat-ui"
-,"swichit": "dongryphon.github.io/switchit"
+,"switchit": "dongryphon.github.io/switchit"
 ,"shd": "pro-devel.github.io"
 ,"tagster": "goschevski.github.io/tagster" //noCF? (don´t add this in a new PR)
 ,"talker": "secondstreet.github.io/talker.js" //noCF? (don´t add this in a new PR)
