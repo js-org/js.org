@@ -537,6 +537,7 @@ var cnames_active = {
 ,"nearley": "hardmath123.github.io/nearley"
 ,"nemaniarjun": "nemaniarjun.github.io"
 ,"nemo": "paypal.github.io/nemo" //noCF? (don´t add this in a new PR)
+,"neo4": "janpeter.github.io/neo4js"
 ,"neutrino": "mozilla-neutrino.github.io/neutrino-dev"
 ,"nflow": "nflow-js.github.io" //noCF? (don´t add this in a new PR)
 ,"ng-wig": "stevermeister.github.io/ngWig" //noCF? (don´t add this in a new PR)
