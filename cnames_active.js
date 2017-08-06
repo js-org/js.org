@@ -117,6 +117,7 @@ var cnames_active = {
 ,"bootstrap-confirmation": "mistic100.github.io/Bootstrap-Confirmation" //noCF? (don´t add this in a new PR)
 ,"bootstrap-validate": "pascalebeier.github.io/bootstrap-validate"
 ,"bootstrap-vue": "bootstrap-vue.github.io"
+,"bonzibuddy:" "fardindadev.github.io/bonzibuddy"
 ,"bornaeon": "bornaeon.github.io" //noCF
 ,"botgram": "botgram.github.io/botgram"
 ,"boundless": "enigma-io.github.io/boundless"
@@ -932,7 +933,6 @@ var cnames_active = {
 ,"zodiac": "indus.github.io/Zodiac" //noCF? (don´t add this in a new PR)
 ,"zombie": "assaf.github.io/zombie" //noCF? (don´t add this in a new PR)
 ,"zuck": "blanket-warriors.github.io/Zuck"
-,"bonzibuddy:" "fardindadev.github.io/bonzibuddy"
 /*
 * please don't add your subdomain records down here!
 * insert them in alphabetical order to help reduce merge conflicts.
