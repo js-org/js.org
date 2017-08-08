@@ -217,6 +217,7 @@ var cnames_active = {
   "deputy": "ry4nolson.github.io/Deputy", // noCF? (don´t add this in a new PR)
   "detect-resize": "noderaider.github.io/detect-resize", // noCF? (don´t add this in a new PR)
   "deterministic": "nodeguy.github.io/Deterministic.js",
+  "devlog-front-line": "almoce.github.io/devlog-front-line",
   "dgelong": "alexeyraspopov.github.io/dgelong", // noCF? (don´t add this in a new PR)
   "diamond": "diamondpkg.github.io/website",
   "diffract": "ameyms.github.io/diffract", // noCF? (don´t add this in a new PR)
@@ -932,7 +933,7 @@ var cnames_active = {
   "zodiac": "indus.github.io/Zodiac", // noCF? (don´t add this in a new PR)
   "zombie": "assaf.github.io/zombie", // noCF? (don´t add this in a new PR)
   "zuck": "blanket-warriors.github.io/Zuck"
-
+  
   /*
   * please don"t add your subdomain records down here!
   * insert them in alphabetical order to help reduce merge conflicts.
