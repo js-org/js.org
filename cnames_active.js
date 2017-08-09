@@ -650,6 +650,7 @@ var cnames_active = {
   "rag": "michaellyons.github.io/react-amazon-gallery", // noCF? (don´t add this in a new PR)
   "rahul": "rahulsukla.github.io/rahul", // noCF? (don´t add this in a new PR)
   "rangeslider": "andreruffert.github.io/rangeslider.js", // noCF? (don´t add this in a new PR)
+  "rawsanj": "rawsanj.github.io",
   "rate-limiter-api": "abhisekp.github.io/rate-limiter-api",
   "react-atomic-ui": "react-atomic.github.io/react-atomic-ui",
   "react-autosuggest": "moroshko.github.io/react-autosuggest", // noCF? (don´t add this in a new PR)
@@ -931,9 +932,8 @@ var cnames_active = {
   "zeit": "finnzeit.github.io",
   "zodiac": "indus.github.io/Zodiac", // noCF? (don´t add this in a new PR)
   "zombie": "assaf.github.io/zombie", // noCF? (don´t add this in a new PR)
-  "zuck": "blanket-warriors.github.io/Zuck",
-  "rawsanj": "rawsanj.github.io"
-
+  "zuck": "blanket-warriors.github.io/Zuck"
+  
   /*
   * please don"t add your subdomain records down here!
   * insert them in alphabetical order to help reduce merge conflicts.
