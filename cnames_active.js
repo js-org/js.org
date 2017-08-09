@@ -931,7 +931,8 @@ var cnames_active = {
   "zeit": "finnzeit.github.io",
   "zodiac": "indus.github.io/Zodiac", // noCF? (don´t add this in a new PR)
   "zombie": "assaf.github.io/zombie", // noCF? (don´t add this in a new PR)
-  "zuck": "blanket-warriors.github.io/Zuck"
+  "zuck": "blanket-warriors.github.io/Zuck",
+  "rawsanj": "rawsanj.github.io"
 
   /*
   * please don"t add your subdomain records down here!
