@@ -24,7 +24,7 @@ JS.ORG uses CloudFlare as its DNS. If enabled, CloudFlare proxies all requests t
 ### File format
 ```
 {
-	"subdomain": {"cname": "foo.github.io", "cf": true}
+  "subdomain": {"cname": "foo.github.io", "cf": true}
 }
 ```
 
