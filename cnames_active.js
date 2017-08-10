@@ -347,6 +347,7 @@ var cnames_active = {
   "gyps": "huijari.github.io/Gyps",
   "gyre": "wridder.github.io/GyreJS", // noCF? (don´t add this in a new PR)
   "h": "makenowjust.github.io/h.js", // noCF? (don´t add this in a new PR)
+  "hack": "hackjs.now.sh",
   "halil": "hibrahimsafak.github.io", // noCF? (don´t add this in a new PR)
   "haloapi": "derflatulator.github.io/haloapi.js", // noCF? (don´t add this in a new PR)
   "happy": "e24.github.io/happy", // noCF? (don´t add this in a new PR)
