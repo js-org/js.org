@@ -104,6 +104,7 @@ var cnames_active = {
   "bastion": "snkrsnkampa.github.io/Bastion-Site",
   "bc": "mazko.github.io/bc.js",
   "be": "davidep87.github.io/bejs.github.io",
+  "beepbeepkitty": "beepbeepkitty.github.io",
   "begin": "advanced-webapps-class.github.io/begin", // noCF? (don´t add this in a new PR)
   "bestof": "michaelrambeau.github.io/bestofjs",
   "bildepunkt": "bildepunkt.github.io", // noCF? (don´t add this in a new PR)
