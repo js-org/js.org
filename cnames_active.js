@@ -190,7 +190,7 @@ var cnames_active = {
   "cork": "davej.github.io/CorkJS",
   "cote": "dashersw.github.io/cote", // noCF? (don´t add this in a new PR)
   "country": "growmies.github.io/countryjs", // noCF? (don´t add this in a new PR)
-  "cplayer": "copay.github.io/cPlayer", // noCF? (don´t add this in a new PR)
+  "cplayer": "copay.github.io/cPlayer",
   "cqrs": "adrai.github.io/cqrs", // noCF? (don´t add this in a new PR)
   "cracked": "billorcutt.github.io/Cracked",
   "createrest": "atomixinteractions.github.io/createrest",
