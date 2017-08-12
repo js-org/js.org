@@ -311,6 +311,7 @@ var cnames_active = {
   "freemarker": "ijse.github.io/freemarker.js", // noCF? (don´t add this in a new PR)
   "freezer": "pakastin.github.io/freezer",
   "frint": "travix-international.github.io/frint",
+  "fritzbox": "lesander.github.io/fritzbox.js",
   "frzr": "pakastin.github.io/frzr",
   "fs-nextra": "bdistin.github.io/fs-nextra",
   "funbook": "egoist.github.io/funbook",
