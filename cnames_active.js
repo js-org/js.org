@@ -402,6 +402,7 @@ var cnames_active = {
   "javascript-kitchen": "jskitchen.github.io",
   "jbone": "kupriyanenko.github.io/jbone", // noCF? (don´t add this in a new PR)
   "jets": "nexts.github.io/Jets.js",
+  "jet": "alexanderbartels.github.io/jet-website",
   "jinya": "chenjinya.github.io",
   "jjlc": "k-yak.github.io/JJLC", // noCF? (don´t add this in a new PR)
   "jogja": "jogjajs.github.io", // noCF
