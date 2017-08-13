@@ -167,6 +167,7 @@ var cnames_active = {
   "citation": "larsgw.github.io/citation.js",
   "city": "city.github.io",
   "clause": "clausejs.github.io/clausejs",
+  "clevercord": "theanidox.github.io/Clevercord"
   "clockwork": "clockworkdev.github.io/ClockworkWebsite",
   "clusterize": "nexts.github.io/Clusterize.js",
   "cmbhackjs2013": "cmbjs.github.io/cmbHackjs2013",
