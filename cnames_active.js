@@ -774,6 +774,7 @@ var cnames_active = {
   "sirkit": "seckwei.github.io/SirKit_CircuitSim", // noCF? (don´t add this in a new PR)
   "sizle": "christoga.github.io/sizle", // noCF? (don´t add this in a new PR)
   "skate": "skatejs.github.io", // noCF? (don´t add this in a new PR)
+  "skeptical-coder": "rbpinheiro.github.io/skeptical-coder",
   "skx": "skx.github.io", // noCF? (don´t add this in a new PR)
   "slang": "ramadis.github.io/slang", // noCF? (don´t add this in a new PR)
   "slideout": "mango.github.io/slideout",
