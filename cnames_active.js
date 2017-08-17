@@ -50,6 +50,7 @@ var cnames_active = {
   "akase": "cedmax.github.io/akase", // noCF? (don´t add this in a new PR)
   "akashacms": "akashacms.github.io", // noCF? (don´t add this in a new PR)
   "alasql": "alasql.github.io", // noCF? (don´t add this in a new PR)
+  "alek": "alek-s.github.io",
   "algebra": "nicolewhite.github.io/algebra.js", // noCF? (don´t add this in a new PR)
   "alien": "pschroen.github.io/alien.js",
   "aligos": "aligos.github.io", // noCF? (don´t add this in a new PR)
