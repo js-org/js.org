@@ -105,7 +105,6 @@ var cnames_active = {
   "bastion": "snkrsnkampa.github.io/Bastion-Site",
   "bc": "mazko.github.io/bc.js",
   "be": "davidep87.github.io/bejs.github.io",
-  "beepbeepkitty": "beepbeepkitty.github.io",
   "begin": "advanced-webapps-class.github.io/begin", // noCF? (don´t add this in a new PR)
   "bestof": "michaelrambeau.github.io/bestofjs",
   "bildepunkt": "bildepunkt.github.io", // noCF? (don´t add this in a new PR)
@@ -919,6 +918,7 @@ var cnames_active = {
   "webpack": "webpack.github.io/webpack.js.org",
   "weekly": "xdimh.github.io/weekly",
   "wiki": "requarks.github.io/wiki-site",
+  "willowsnow": "willowsnow.github.io",
   "within": "eric-brechemier.github.io/within", // noCF? (don´t add this in a new PR)
   "wooyun": "jiji262.github.io/wooyun_articles",
   "wordywordy": "sverweij.github.io/wordywordy",
