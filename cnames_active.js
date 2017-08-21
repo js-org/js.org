@@ -93,6 +93,7 @@ var cnames_active = {
   "awal": "awalGarg.github.io", // noCF? (don´t add this in a new PR)
   "awesomehub": "awesomehub.netlify.com",
   "awk": "42ua.github.io/awk", // noCF? (don´t add this in a new PR)
+  "azdanov": "azdanov.github.io",
   "backlog": "backlog-js.github.io/backlog.js.org", // noCF? (don´t add this in a new PR)
   "badger": "just-glue-it.github.io/badger", // noCF? (don´t add this in a new PR)
   "badrudeen": "badrudeen.github.io", // noCF? (don´t add this in a new PR)
