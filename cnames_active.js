@@ -167,7 +167,7 @@ var cnames_active = {
   "citation": "larsgw.github.io/citation.js",
   "city": "city.github.io",
   "clause": "clausejs.github.io/clausejs",
-  "clevercord": "theanidox.github.io/Clevercord"
+  "clevercord": "theanidox.github.io/Clevercord",
   "clockwork": "clockworkdev.github.io/ClockworkWebsite",
   "clusterize": "nexts.github.io/Clusterize.js",
   "cmbhackjs2013": "cmbjs.github.io/cmbHackjs2013",
@@ -508,6 +508,7 @@ var cnames_active = {
   "mithril": "mithriljs.github.io/mithril.js",
   "mmcq": "nikola.github.io/MMCQ", // noCF? (don´t add this in a new PR)
   "mobx": "mobxjs.github.io/mobx",
+  "mockjs-lite": "52cik.github.io/mockjs-lite", // noCF
   "modalizer": "dungo.github.io/modalizer", // noCF? (don´t add this in a new PR)
   "modbot": "modbotjs.github.io",
   "mog-script": "mog-script.github.io",
