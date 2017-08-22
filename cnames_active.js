@@ -384,6 +384,7 @@ var cnames_active = {
   "infinite-tree": "cheton.github.io/infinite-tree",
   "initial-wu": "initial-wu.github.io",
   "inline-style-prefixer": "rofrischmann.github.io/inline-style-prefixer",
+  "inscriptum": "sumbad.github.io/inscriptum",
   "instabousing": "jlbousing.github.io/instaBousing",
   "invoicing": "vahe.github.io/InvoicingJs",
   "ip-address": "beaugunderson.github.io/ip-address", // noCF? (don´t add this in a new PR)
