@@ -167,6 +167,7 @@ var cnames_active = {
   "cineasta": "cineasta-js.github.io/cineasta-docs",
   "citation": "larsgw.github.io/citation.js",
   "city": "city.github.io",
+  "ck": "cikai.github.io/blog",
   "clause": "clausejs.github.io/clausejs",
   "clevercord": "theanidox.github.io/Clevercord",
   "clockwork": "clockworkdev.github.io/ClockworkWebsite",
