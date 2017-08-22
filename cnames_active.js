@@ -468,6 +468,7 @@ var cnames_active = {
   "maki": "makixx.github.io",
   "marble": "jsguy.github.io/marble",
   "marcosflorencio": "marcosflorencio.github.io",
+  "mark": "henry-luo.github.io/mark",
   "markdownify": "amitmerchant1990.github.io/electron-markdownify",
   "markmsmith": "markmsmith.github.io",
   "markvis": "geekplux.github.io/markvis",
