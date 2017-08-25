@@ -433,6 +433,7 @@ var cnames_active = {
   "kewitz": "kewitz.github.io",
   "keypress": "rumkin.github.io/keypress.js.org",
   "kilvin": "rofrischmann.github.io/kilvin",
+  "kite": "kite-js.github.io/kite",
   "klasa": "dirigeants.github.io/klasa",
   "knowyourbundle": "enapupe.github.io/know-your-bundle",
   "komada": "dirigeants.gitbooks.io/komada-docs",
@@ -950,7 +951,6 @@ var cnames_active = {
   "zodiac": "indus.github.io/Zodiac", // noCF? (don´t add this in a new PR)
   "zombie": "assaf.github.io/zombie", // noCF? (don´t add this in a new PR)
   "zuck": "blanket-warriors.github.io/Zuck"
-
   /*
   * please don"t add your subdomain records down here!
   * insert them in alphabetical order to help reduce merge conflicts.
