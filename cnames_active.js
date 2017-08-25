@@ -239,6 +239,7 @@ var cnames_active = {
   "docute": "egoist.github.io/docute",
   "dodec-design": "dodec-design.github.io",
   "dogstack": "dogstack.gitbooks.io/handbook", // noCF
+  "dolphin": "uyouthe.github.io/dolphin",
   "domtastic": "webpro.github.io/DOMtastic",
   "donavon": "donavon.github.io", // noCF? (don´t add this in a new PR)
   "dope": "fouad.github.io/dope", // noCF? (don´t add this in a new PR)
