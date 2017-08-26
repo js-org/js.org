@@ -927,6 +927,7 @@ var cnames_active = {
   "weaver": "maxkfranz.github.io/weaver", // noCF? (don´t add this in a new PR)
   "webpack": "webpack.github.io/webpack.js.org",
   "weekly": "xdimh.github.io/weekly",
+  "wegame": "wegameandme.github.io",
   "weh": "wehjs.github.io/website",
   "wiki": "requarks.github.io/wiki-site",
   "willowsnow": "willowsnow.github.io",
