@@ -647,7 +647,7 @@ var cnames_active = {
   "polythene": "arthurclemens.github.io/Polythene", // noCF? (don´t add this in a new PR)
   "popper": "fezvrasta.github.io/popper.js",
   "porter": "ahopkins.github.io/porterjs", // CF
-  "positivebot": "positiveterminator.github.io/positivebot-site
+  "positivebot": "positiveterminator.github.io/positivebot-site",
   "post-type-discovery": "twozeroone.github.io/post-type-discovery",
   "prettylog": "moosecoop.github.io/PrettyLog/",
   "profanity-finder": "gautamkrishnar.github.io/profanity-finder.js",
