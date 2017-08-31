@@ -839,6 +839,7 @@ var cnames_active = {
   "supernova": "janbiasi.github.io/supernova", // noCF? (don´t add this in a new PR)
   "svelteui": "transpiling.github.io/svelte-flat-ui",
   "switchit": "dongryphon.github.io/switchit",
+  "synth": "lukehorvat.github.io/synth-mood",
   "shd": "pro-devel.github.io",
   "tagster": "goschevski.github.io/tagster", // noCF? (don´t add this in a new PR)
   "talker": "secondstreet.github.io/talker.js", // noCF? (don´t add this in a new PR)
