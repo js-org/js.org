@@ -931,7 +931,6 @@ var cnames_active = {
   "weekly": "xdimh.github.io/weekly",
   "weh": "wehjs.github.io/website",
   "wiki": "requarks.github.io/wiki-site",
-  "willowsnow": "willowsnow.github.io",
   "within": "eric-brechemier.github.io/within", // noCF? (don´t add this in a new PR)
   "wooyun": "jiji262.github.io/wooyun_articles",
   "wordywordy": "sverweij.github.io/wordywordy",
