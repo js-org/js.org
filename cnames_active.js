@@ -626,7 +626,7 @@ var cnames_active = {
   "photo-sphere-viewer": "mistic100.github.io/Photo-Sphere-Viewer", // noCF? (don´t add this in a new PR)
   "picodom": "picodom.github.io",
   "picsim": "mazko.github.io/picsim.js",
-  "piii": "theuves.github.io/piii.js", // noCF? (don´t add this in a new PR)
+  "piii": "theuves.github.io/piii.js.org",
   "pinf": "pinf.github.io", // noCF? (don´t add this in a new PR)
   "pipes": "pipesjs.github.io", // noCF? (don´t add this in a new PR)
   "pitermarx": "pitermarx.github.io", // noCF? (don´t add this in a new PR)
