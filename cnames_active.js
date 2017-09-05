@@ -443,7 +443,6 @@ var cnames_active = {
   "konsumer": "konsumer.github.io", // noCF? (don´t add this in a new PR)
   "kyoto": "kyotojs.github.io",
   "labelauty": "fntneves.github.io/jquery-labelauty", // noCF? (don´t add this in a new PR)
-  "lad": "ladjs.github.io/lad",
   "lambda": "lambdajs.github.io", // noCF? (don´t add this in a new PR)
   "languages": "rsamaium.github.io/Languages",
   "lass": "lassjs.github.io/lass",
