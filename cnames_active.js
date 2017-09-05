@@ -439,7 +439,7 @@ var cnames_active = {
   "kite": "kite-js.github.io/kite",
   "klasa": "dirigeants.github.io/klasa",
   "knowyourbundle": "enapupe.github.io/know-your-bundle",
-  "komada": "dirigeants.gitbooks.io/komada-docs",
+  "komada": "dirigeants.github.io/komada",
   "konstructor": "server.ludicrous.xyz",
   "konsumer": "konsumer.github.io", // noCF? (don´t add this in a new PR)
   "kyoto": "kyotojs.github.io",
