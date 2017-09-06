@@ -1,3 +1,4 @@
+
 /*
  ***** ACTIVE SUBDOMAINS
  * ***********************
@@ -417,6 +418,7 @@ var cnames_active = {
   "josep": "warlock.github.io",
   "josuedanielbust": "josuedanielbust.github.io", // noCF? (don´t add this in a new PR)
   "jparticles": "jparticles.github.io/Documentation",
+  "jsessentials": "chetanraj.github.io/jsessentials",
   "jsnippet": "JesseEisen.github.io/snippets", // noCF
   "json-schema-faker": "json-schema-faker.github.io/website-jsf", // noCF? (don´t add this in a new PR)
   "juancarlosqr": "juancarlosqr.github.io", // noCF? (don´t add this in a new PR)
