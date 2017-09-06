@@ -99,7 +99,7 @@ var cnames_active = {
   "badger": "just-glue-it.github.io/badger", // noCF? (don´t add this in a new PR)
   "badrudeen": "badrudeen.github.io", // noCF? (don´t add this in a new PR)
   "bali": "balijs.github.io",
-  "bandung": "zufrizalyordan.github.io/bandungjs", // noCF
+  "bandung": "zufrizalyordan.github.io/bandungjs",
   "barbagrigia": "barbagrigia.github.io",
   "barcelona": "barcelona-js.github.io/website", // noCF? (don´t add this in a new PR)
   "bash": "bashjs.github.io", // noCF? (don´t add this in a new PR)
@@ -113,7 +113,7 @@ var cnames_active = {
   "bind-action-dispatchers": "cchamberlain.github.io/bind-action-dispatchers", // noCF? (don´t add this in a new PR)
   "biu": "aprilorange.github.io/biu", // noCF? (don´t add this in a new PR)
   "blogpage": "zanseven007.github.io/blog-page", // noCF
-  "bloomer": "algusdark.github.io/bloomer", // noCF
+  "bloomer": "algusdark.github.io/bloomer",
   "bodybuilder": "danpaz.github.io/bodybuilder", // noCF? (don´t add this in a new PR)
   "bombsweeper": "pakastin.github.io/bombsweeper",
   "bonzibuddy": "fardindadev.github.io/bonzibuddy",
@@ -164,7 +164,7 @@ var cnames_active = {
   "chirashi": "chirashijs.github.io/chirashi",
   "chrislaughlin": "chrislaughlin.github.io", // noCF? (don´t add this in a new PR)
   "chrismendis": "chrismendis.github.io", // noCF? (don´t add this in a new PR)
-  "christo": "christoga.github.io/js-org",
+  "christo": "christoga.github.io/js-org", // noCF? (don´t add this in a new PR)
   "chronos": "espinielli.github.io/chronos", // noCF? (don´t add this in a new PR)
   "cineasta": "cineasta-js.github.io/cineasta-docs",
   "citation": "larsgw.github.io/citation.js",
@@ -465,7 +465,7 @@ var cnames_active = {
   "linghucong": "jiji262.github.io",
   "liveflow": "hasharray.github.io/liveflow.js",
   "localsync": "noderaider.github.io/localsync", // noCF? (don´t add this in a new PR)
-  "logo": "js-org.github.io/logo", // noCF? (don´t add this in a new PR)
+  "logo": "js-org.github.io/logo",
   "loki": "oblador.github.io/loki",
   "loog": "israelroldan.github.io/loog",
   "lostyle": "rtsao.github.io/lostyle",
@@ -652,7 +652,7 @@ var cnames_active = {
   "polished": "styled-components.github.io/polished",
   "polythene": "arthurclemens.github.io/Polythene", // noCF? (don´t add this in a new PR)
   "popper": "fezvrasta.github.io/popper.js",
-  "porter": "ahopkins.github.io/porterjs", // CF
+  "porter": "ahopkins.github.io/porterjs", // noCF? (don´t add this in a new PR)
   "positivebot": "positiveterminator.github.io/positivebot-site",
   "post-type-discovery": "twozeroone.github.io/post-type-discovery",
   "prettylog": "moosecoop.github.io/PrettyLog/",
@@ -731,7 +731,7 @@ var cnames_active = {
   "request": "request.gitbooks.io", // noCF? (don´t add this in a new PR)
   "reshift": "hasharray.github.io/reshift.js",
   "resourceful-redux": "jmeas.github.io/resourceful-redux",
-  "restjs": "daviesgeek.github.io/restjs",
+  "restjs": "daviesgeek.github.io/restjs", // noCF? (don´t add this in a new PR)
   "revaluate": "hasharray.github.io/revaluate.js",
   "riklewis": "riklewis.github.io",
   "riotgear": "riotgear.github.io",
@@ -820,7 +820,7 @@ var cnames_active = {
   "starratio": "starratio.github.io/star-ratio", // noCF
   "staticinstance": "staticinstance.github.io", // noCF? (don´t add this in a new PR)
   "stats": "js-org.github.io/stats.js.org",
-  "status.diamond": "diamondpkg.github.io/status",
+  "status.diamond": "diamondpkg.github.io/status", // noCF? (don´t add this in a new PR)
   "stego": "zeruniverse.github.io/CryptoStego", // noCF? (don´t add this in a new PR)
   "stepan": "stevermeister.github.io", // noCF? (don´t add this in a new PR)
   "stephenmccall": "stephenmccall.github.io", // noCF? (don´t add this in a new PR)
