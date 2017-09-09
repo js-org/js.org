@@ -805,6 +805,7 @@ var cnames_active = {
   "solome": "solome.github.io",
   "sonny": "sonnylazuardi.github.io", // noCF? (don´t add this in a new PR)
   "sox": "sox-team.github.io/sox", // noCF? (don´t add this in a new PR)
+  "spa": "sucom.github.io/SPA.js",
   "spaas": "pakastin.github.io/spaas",
   "spectragram": "adrianengine.github.io/jquery-spectragram", // noCF? (don´t add this in a new PR)
   "spicdev": "spicdev.github.io", // noCF? (don´t add this in a new PR)
