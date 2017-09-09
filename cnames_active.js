@@ -889,6 +889,7 @@ var cnames_active = {
   "ts-react-boilerplate": "lapanti.github.io/ts-react-boilerplate",
   "ts2jsdoc": "spatools.github.io/ts2jsdoc", // noCF? (don´t add this in a new PR)
   "tsfp": "zhenwenc.github.io/tsfp", // noCF? (don´t add this in a new PR)
+  "turnup": "yozman.github.io/turnup",
   "tux": "tux.gitbooks.io/docs",
   "tweed": "tweedjs.github.io",
   "tweetnacl": "dchest.github.io/tweetnacl-js",
