@@ -320,6 +320,7 @@ var cnames_active = {
   "freezer": "pakastin.github.io/freezer",
   "frint": "travix-international.github.io/frint",
   "fritzbox": "lesander.github.io/fritzbox.js",
+  "front-end": "whoisjorge.github.io/front-end",
   "frzr": "pakastin.github.io/frzr",
   "fs-nextra": "bdistin.github.io/fs-nextra",
   "funbook": "egoist.github.io/funbook",
