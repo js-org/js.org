@@ -935,6 +935,7 @@ var cnames_active = {
   "vue-land": "egoist.github.io/vue-land",
   "vue-mdc": "na-west1.surge.sh",
   "vue-roast": "kronicker.github.io/vue-roast",
+  "vue-route-timeline": "disjfa.github.io/vue-route-timeline",
   "vuelog": "myst729.github.io/Vuelog",
   "vuikit": "vuikit.github.io",
   "vuongdothanhhuy": "vuongdothanhhuy.github.io", // noCF? (don´t add this in a new PR)
