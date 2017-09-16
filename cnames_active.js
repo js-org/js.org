@@ -369,6 +369,7 @@ var cnames_active = {
   "hhao99": "hhao99.github.io",
   "hibiki": "claritymoe.github.io/hibiki",
   "hilo": "erikroyall.github.io/hilo", // noCF? (don´t add this in a new PR)
+  "hiproxy": "hiproxy.github.io/documentation",
   "hk": "akura-co.github.io/hk", // noCF? (don´t add this in a new PR)
   "hoa": "thehoa.github.io",
   "hooloo": "hooloo.github.io", // noCF? (don´t add this in a new PR)
