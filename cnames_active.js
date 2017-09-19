@@ -744,7 +744,7 @@ var cnames_active = {
   "rishav": "xrisk.github.io",
   "risingstars2016": "michaelrambeau.github.io/risingstars2016",
   "rivki": "mikqi.github.io",
-  "rmodal": "zewish.github.io/rmodal.js", // noCF? (don´t add this in a new PR)
+  "rmodal": "zewish.github.io/rmodal.js",
   "rock": "w3core.github.io/RockJS",
   "rocket": "KevinOfNeu.github.io/rocket",
   "rockjins": "rockjins.github.io",
