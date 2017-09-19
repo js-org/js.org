@@ -1,0 +1,43 @@
+---
+layout: default
+claim: Providing nice and free domains for GitHub Pages since 2015
+ghstars: dns.js.org
+zodiac: true
+hermes: true
+---
+<p id="typewriter">http://<span id="hermes">foo</span>.js.org</p>
+   <p class="bigger">You are a JavaScript developer looking for free webspace to host your project? Check out <strong><a title="GitHub Pages" rel="nofollow" target="_blank" href="https://pages.github.com/">GitHub Pages</a></strong>. To make things perfect we provide you with a free and sleek URL as shown in the examples above.</p>
+   <p>Important: As the owner of the repository you keep complete control over your published content. That also means, all rights and duties that come along with publishing a GitHub Page remain the subject of you.<br>Have a look at our <strong><a title="Terms and Conditions" href="terms.html">Terms of Service</a></strong> for more details.</p>
+   <p>Just follow these four steps to get your own free JS.ORG subdomain for your GitHub Page. We don't mind whether it's a User-, Organisation- or Project-Page (...as long as you provide some reasonable content!)</p>
+
+   <section>
+      <input id="s1I" type="radio" name="steps" checked="">
+      <article id="step1">
+         <h3>1</h3>If you haven't already, now it's time to log in to your GitHub account and set up your GitHub Page following the instructions <a title="GitHub Pages" rel="nofollow" target="_blank" href="https://pages.github.com/">here</a>. To get a head start you can simply use the generator with one of the provided themes and add some content to your new page.
+      </article>
+      <input id="s2I" type="radio" name="steps">
+      <article id="step2">
+         <h3>2</h3>Now determine your js.org subdomain: either choose your username or the name of your repo according to the existing GitHub Pages URL (for http://foo.github.io/bar, either "foo.js.org" or "bar.js.org" would be possible). More details in the <a rel="nofollow" target="_blank" href="https://github.com/js-org/dns/wiki">wiki</a>.
+      </article>
+      <input id="s3I" type="radio" name="steps">
+      <article id="step3">
+         <h3>3</h3>Add a file named "CNAME" to your repo (in the "gh-pages" branch for project pages) with a single line matching the domain you have chosen (e.g. "foo.js.org" without quotes). If you face problems, check out the section <a title="GitHub Pages Help" rel="nofollow" target="_blank" href="https://help.github.com/articles/setting-up-a-custom-domain-with-github-pages/#creating-and-committing-a-cname-file">Custom URLs</a> at GitHub Pages Help.
+      </article>
+      <input id="s4I" type="radio" name="steps">
+      <article id="step4">
+         <h3>4</h3>To finish the procedure, make a pull request in our GitHub <a rel="nofollow" target="_blank" href="https://github.com/js-org/dns/tree/master">repository</a> that adds your subdomain to the list of exisiting JS.ORG domains. Your new URL should go live within 24 hours (keep an eye on your pull request in case of a naming conflict).
+      </article>
+      <nav>
+         <label id="s1L" for="s1I">1</label>
+         <label id="s2L" for="s2I">2</label>
+         <label id="s3L" for="s3I">3</label>
+         <label id="s4L" for="s4I">4</label>
+      </nav>
+   </section>
+
+   <h4>We truly appreciate your support by spreading some code!</h4>
+   <code>
+      &lt;a href="http://js.org" <wbr>target="_blank" <wbr>title="JS.ORG | JavaScript Community"&gt;<br>
+      &lt;img src="http://logo.js.org/dark_horz.png" <wbr>width="102" <wbr>alt="JS.ORG Logo"/&gt;<wbr>&lt;/a&gt;<br>
+      &lt;!-- alternatives [bright|dark]_[horz|vert|tiny].png (width[horz:102,vert:50,tiny:77]) --&gt;
+   </code>

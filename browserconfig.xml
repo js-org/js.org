@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<browserconfig>
+  <msapplication>
+    <tile>
+      <square70x70logo src="http://js.org/icon/ms70.png"/>
+      <square150x150logo src="http://js.org/icon/ms150.png"/>
+      <square310x310logo src="http://js.org/icon/ms310.png"/>
+      <wide310x150logo src="http://js.org/icon/ms310w.png"/>
+      <TileColor>#FDB400</TileColor>
+    </tile>
+  </msapplication>
+</browserconfig>
