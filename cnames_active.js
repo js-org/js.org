@@ -258,6 +258,7 @@ var cnames_active = {
   "dunedin": "dunedinjs.github.io",
   "dutchakdev": "dutchakdev.github.io", // noCF? (don´t add this in a new PR)
   "dynamicsnode": "crisfervil.github.io/DynamicsNode",
+  "dyson": "dualcyclone.github.io/postit-todo-react-redux",
   "eahmed234": "eahmed234.github.io",
   "ed2k": "sunnyli.github.io/ed2k.js",
   "ef": "classicoldsong.github.io/ef.js.org",
