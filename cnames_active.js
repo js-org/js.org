@@ -838,6 +838,7 @@ var cnames_active = {
   "storage": "uzitech.github.io/storage.js",
   "storybook": "storybooks.github.io/storybook",
   "storybooks": "storybooks.github.io",
+  "stratic": "straticjs.github.io",
   "stress": "julindra.github.io/stress.js",
   "structure": "talyssonoc.gitbooks.io/structure",
   "stuck": "linuxenko.github.io/unstuck-webpack",
