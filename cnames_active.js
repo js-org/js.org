@@ -254,6 +254,7 @@ var cnames_active = {
   "dragon": "sabertazimi.github.io/dragonjs", // noCF? (don´t add this in a new PR)
   "draw": "skillzzjesse.github.io/draw",
   "du": "ruanyl.github.io/du", // noCF? (don´t add this in a new PR)
+  "dualcyclone": "dualcyclone.github.io/postit-todo-react-redux",
   "duffn": "duffn.github.io", // noCF? (don´t add this in a new PR)
   "dunedin": "dunedinjs.github.io",
   "dutchakdev": "dutchakdev.github.io", // noCF? (don´t add this in a new PR)
