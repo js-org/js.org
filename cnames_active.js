@@ -635,6 +635,7 @@ var cnames_active = {
   "perspective": "leopoldthecoder.github.io/Perspective",
   "pguth": "pguth.github.io",
   "pharaoh": "pharaoh-js.github.io", // noCF? (don´t add this in a new PR)
+  "phin": "ethanent.github.io/phin",
   "phobos": "phobosjs.github.io/phobos.js",
   "photo-sphere-viewer": "mistic100.github.io/Photo-Sphere-Viewer", // noCF? (don´t add this in a new PR)
   "picodom": "picodom.github.io",
