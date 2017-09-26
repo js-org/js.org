@@ -574,6 +574,7 @@ var cnames_active = {
   "ngspice": "42ua.github.io/ngspice.js",
   "nic": "nic.github.io",
   "nick": "nmai.github.io", // noCF? (don´t add this in a new PR)
+  "ninh": "reeganexe.github.io/ninh",
   "nite": "manvalls.github.io/nite",
   "nktx": "nktx.github.io", // noCF? (don´t add this in a new PR)
   "nod": "diegohaz.github.io/nod",
