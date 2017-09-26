@@ -835,6 +835,7 @@ var cnames_active = {
   "stepan": "stevermeister.github.io", // noCF? (don´t add this in a new PR)
   "stephenmccall": "stephenmccall.github.io", // noCF? (don´t add this in a new PR)
   "steven": "stpeng.github.io",
+  "sticky": "https://fawmi.github.io/sticky-pro"
   "stockings": "kgroat.github.io/stockings",
   "storage": "uzitech.github.io/storage.js",
   "storybook": "storybooks.github.io/storybook",
