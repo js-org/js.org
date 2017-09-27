@@ -493,7 +493,7 @@ var cnames_active = {
   "markvis-editor": "geekplux.github.io/markvis-editor",
   "martin": "martinbutler.github.io", // noCF? (don´t add this in a new PR)
   "martingollogly": "martingollogly.github.io", // noCF? (don´t add this in a new PR)
-  "marxist": "ohmfox.github.io/marxistjs", // noCF? (don´t add this in a new PR)
+  "marxist": "wuz.github.io/marxistjs",
   "masha": "smarttelemax.github.io/MaSha",
   "matthias-schuetz": "matthias-schuetz.github.io", // noCF? (don´t add this in a new PR)
   "maxnachlinger": "maxnachlinger.github.io", // noCF? (don´t add this in a new PR)
