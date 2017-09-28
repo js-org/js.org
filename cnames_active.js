@@ -157,6 +157,7 @@ var cnames_active = {
   "capsule": "capsule-js-org.github.io/capsule",
   "cartodb-demo": "opensas.github.io/cartodb-demo", // noCF? (don´t add this in a new PR)
   "cassie": "milesgitgud.github.io/cassie",
+  "cats": "whoisjorge.github.io/not-cat-gifs",
   "central-node": "central-node.github.io", // noCF? (don´t add this in a new PR)
   "chain-able": "fluents.github.io/chain-able-site",
   "chatexchange": "jacob-gray.github.io/ChatExchangeJS",
