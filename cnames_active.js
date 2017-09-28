@@ -90,6 +90,7 @@ var cnames_active = {
   "atombundles": "lirantal.github.io/atombundles",
   "audio-cat": "tporl.github.io/audio-cat",
   "autodocs": "bguiz.github.io/autodocs", // noCF? (don´t add this in a new PR)
+  "automic": "automicjs.github.io",
   "avi": "avinassh.github.io/avi", // noCF? (don´t add this in a new PR)
   "avner": "avnerus.github.io", // noCF? (don´t add this in a new PR)
   "awal": "awalGarg.github.io", // noCF? (don´t add this in a new PR)
