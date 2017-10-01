@@ -812,6 +812,7 @@ var cnames_active = {
   "slim": "eavichay.github.io/slim.js",
   "smoove": "abemedia.github.io/jquery-smoove",
   "sn0w": "greensn0w.github.io", // noCF? (don´t add this in a new PR)
+  "snekfetch": "devsnek.github.io/snekfetch"
   "social-likes-next": "sapegin.github.io/social-likes-next", // noCF? (don´t add this in a new PR)
   "social-likes": "sapegin.github.io/social-likes", // noCF? (don´t add this in a new PR)
   "solome": "solome.github.io",
