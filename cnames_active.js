@@ -727,6 +727,7 @@ var cnames_active = {
   "redux-minimal": "catalin-luntraru.github.io/redux-minimal",
   "redux-observable": "redux-observable.github.io/redux-observable",
   "redux-observable-cn": "rxjs-cn.github.io/redux-observable-cn",
+  "redux-resource": "jmeas.github.io/redux-resource",
   "redux-saga": "redux-saga.github.io/redux-saga",
   "redux-tiles": "bloomca.github.io/redux-tiles",
   "redux-undo": "omnidan.github.io/redux-undo", // noCF? (don´t add this in a new PR)
@@ -742,7 +743,6 @@ var cnames_active = {
   "repackage": "cchamberlain.github.io/repackage", // noCF? (don´t add this in a new PR)
   "request": "request.gitbooks.io", // noCF? (don´t add this in a new PR)
   "reshift": "hasharray.github.io/reshift.js",
-  "resourceful-redux": "jmeas.github.io/resourceful-redux",
   "restjs": "daviesgeek.github.io/restjs", // noCF? (don´t add this in a new PR)
   "revaluate": "hasharray.github.io/revaluate.js",
   "riklewis": "riklewis.github.io",
