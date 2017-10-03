@@ -746,6 +746,7 @@ var cnames_active = {
   "reshift": "hasharray.github.io/reshift.js",
   "restjs": "daviesgeek.github.io/restjs", // noCF? (don´t add this in a new PR)
   "revaluate": "hasharray.github.io/revaluate.js",
+  "rickdesantis": "rickdesantis.github.io",
   "riklewis": "riklewis.github.io",
   "riotgear": "riotgear.github.io",
   "rishav": "xrisk.github.io",
