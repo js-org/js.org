@@ -611,6 +611,7 @@ var cnames_active = {
   "onlineth": "onlineth.github.io",
   "opentype": "nodebox.github.io/opentype.js",
   "os": "91.247.228.125", // noCF
+  "oscillator": "lukehorvat.github.io/super-oscillator",
   "osom": "kikobeats.github.io/osom",
   "pad": "ebraminio.github.io/pad.js", // noCF? (don´t add this in a new PR)
   "pagination": "superRaytin.github.io/paginationjs-site", // noCF
