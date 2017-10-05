@@ -296,6 +296,7 @@ var cnames_active = {
   "express-saml2": "tngan.github.io/express-saml2",
   "extenso": "theuves.github.io/extenso.js.org",
   "extraction": "rse.github.io/extraction", // noCF? (don´t add this in a new PR)
+  "eye": "arguiot.github.io/EyeJS",
   "facepalm": "santiagogil.github.io/facepalm",
   "farfetchd": "achannarasappa.github.io/farfetchd", // noCF? (don´t add this in a new PR)
   "fariz": "farizdev.github.io/fariz",
