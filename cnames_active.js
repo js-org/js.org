@@ -172,6 +172,7 @@ var cnames_active = {
   "chronos": "espinielli.github.io/chronos", // noCF? (don´t add this in a new PR)
   "cineasta": "cineasta-js.github.io/cineasta-docs",
   "citation": "larsgw.github.io/citation.js",
+  "cirebon": "cirebonjs.github.io",
   "city": "city.github.io",
   "ck": "cikai.github.io/blog",
   "clause": "clausejs.github.io/clausejs",
