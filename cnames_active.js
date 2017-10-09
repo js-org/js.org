@@ -315,6 +315,7 @@ var cnames_active = {
   "fld-grd": "mrksbnch.github.io/fld-grd",
   "flexmasonry": "kavanmevada.github.io/flex_masonry", // noCF
   "flowchart": "adrai.github.io/flowchart.js", // noCF? (don´t add this in a new PR)
+  "flowcon": "oknosoft.github.io/flowcon",
   "fluxoff": "kingscott.github.io/flux-off", // noCF? (don´t add this in a new PR)
   "flybook": "rhiokim.github.io/flybook",
   "fnx": "fnxjs.gitbooks.io/fnx-documentation",
