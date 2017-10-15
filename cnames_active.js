@@ -884,6 +884,7 @@ var cnames_active = {
   "techfest": "anukul.github.io/techfest", // noCF? (don´t add this in a new PR)
   "telaviv": "dustin-h.github.io/telaviv", // noCF? (don´t add this in a new PR)
   "telegraf": "telegraf.github.io/telegraf", // noCF? (don´t add this in a new PR)
+  "temme": "shinima.github.io/temme",
   "temple": "beneaththeink.github.io/Temple", // noCF? (don´t add this in a new PR)
   "tequila": "tequila-js.github.io",
   "terminal": "gottox.github.io/terminal.js", // noCF? (don´t add this in a new PR)
