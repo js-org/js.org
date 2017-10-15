@@ -48,6 +48,7 @@ var cnames_active = {
   "action-u": "kevinast.github.io/action-u",
   "adon988": "adon988.github.io",
   "aghasemi": "aghasemi.github.io",
+  "agrawalrohit": "rohit0803.github.io/agrawal.github.io",
   "agrawalnaman": "agrawalnaman.github.io",
   "ajaxable": "artf.github.io/ajaxable",
   "akase": "cedmax.github.io/akase", // noCF? (don´t add this in a new PR)
