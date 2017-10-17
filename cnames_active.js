@@ -804,6 +804,7 @@ var cnames_active = {
   "serginator": "serginator.github.io", // noCF? (don´t add this in a new PR)
   "serializer": "haircvt.github.io/serializerjs", // noCF? (don´t add this in a new PR)
   "service-mocker": "service-mocker.github.io/service-mocker",
+  "semarang": "semarangjs.github.io",
   "shaily": "shailysangwan.github.io",
   "shedali": "shedali.github.io", // noCF? (don´t add this in a new PR)
   "shortquery": "s--minecraft.gitbooks.io/shortquery-js", // noCF? (don´t add this in a new PR)
