@@ -538,6 +538,7 @@ var cnames_active = {
   "mis101bird": "mis101bird.github.io", // noCF? (don´t add this in a new PR)
   "mithril-ja": "shibukawa.github.io/mithril-ja", // noCF? (don´t add this in a new PR)
   "mithril": "mithriljs.github.io/mithril.js",
+  "miny": "pablopunk.github.io/miny",
   "mmcq": "nikola.github.io/MMCQ", // noCF? (don´t add this in a new PR)
   "mobx": "mobxjs.github.io/mobx",
   "mockjs-lite": "52cik.github.io/mockjs-lite", // noCF
