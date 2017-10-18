@@ -152,6 +152,7 @@ var cnames_active = {
   "cagatay": "cagataycali.github.io",
   "calcy": "odevlord.github.io/Calcy", // noCF? (don´t add this in a new PR)
   "calendarios": "helpdev.github.io/Calendarios", // noCF? (don´t add this in a new PR)
+  "candy": "candy02058912.github.io/portfolio",
   "candyland": "candyland-js.github.io/candyland",
   "cans": "djyde.github.io/cans", // noCF
   "canvas": "anshuman-verma.github.io/canvas",
