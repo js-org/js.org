@@ -589,6 +589,7 @@ var cnames_active = {
   "nic": "nic.github.io",
   "nick": "nmai.github.io", // noCF? (don´t add this in a new PR)
   "ninh": "reeganexe.github.io/ninh",
+  "nintenbot": "nintenzone.github.io/NintenBot",
   "nite": "manvalls.github.io/nite",
   "nktx": "nktx.github.io", // noCF? (don´t add this in a new PR)
   "nod": "diegohaz.github.io/nod",
