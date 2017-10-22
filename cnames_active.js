@@ -906,7 +906,7 @@ var cnames_active = {
   "timerizer": "callumacrae.github.io/timerizerJS", // noCF? (don´t add this in a new PR)
   "tint": "tintjs.github.io", // noCF? (don´t add this in a new PR)
   "tinylinux": "e8johan.github.io/tiny-js", // noCF? (don´t add this in a new PR)
-  "tixol": "vcxiz.github.io/fluffy-engine"
+  "tixol": "vcxiz.github.io/tixol"
   "toad": "wnda.github.io/toad",
   "tokyo": "tokyojs.github.io",
   "tori": "boostcode.github.io/torijs",
