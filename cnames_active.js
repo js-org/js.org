@@ -131,6 +131,7 @@ var cnames_active = {
   "bornaeon": "bornaeon.github.io", // noCF
   "botgram": "botgram.github.io/botgram",
   "boundless": "enigma-io.github.io/boundless",
+  "bowmanmc": "bowmanmc.github.io",
   "box": "capacitorset.github.io/box-js", // noCF
   "bplayer": "classicoldsong.github.io/bPlayer", // noCF? (don´t add this in a new PR)
   "brain": "brainjs.github.io/brain.js",
