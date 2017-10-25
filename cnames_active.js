@@ -929,6 +929,7 @@ var cnames_active = {
   "ts2jsdoc": "spatools.github.io/ts2jsdoc", // noCF? (don´t add this in a new PR)
   "tsfp": "zhenwenc.github.io/tsfp", // noCF? (don´t add this in a new PR)
   "tux": "tux.gitbooks.io/docs",
+  "turbo": "turbo.github.io",
   "tweed": "tweedjs.github.io",
   "tweetnacl": "dchest.github.io/tweetnacl-js",
   "two": "jonobr1.github.io/two.js",
