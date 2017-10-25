@@ -1,2 +1,4 @@
 - There is reasonable content on the page (see: [No Content](https://github.com/js-org/dns.js.org/wiki/No-Content))
 - I have read and accepted the [ToS](http://dns.js.org/terms.html)
+
+Cheers :beer:
