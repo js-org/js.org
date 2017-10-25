@@ -180,6 +180,8 @@ var cnames_active = {
   "citation": "larsgw.github.io/citation.js",
   "city": "city.github.io",
   "ck": "cikai.github.io/blog",
+  "clark": "clarkdo.github.io/new-blog",
+  "clarkdo": "clarkdo.github.io",
   "clause": "clausejs.github.io/clausejs",
   "clevercord": "theanidox.github.io/Clevercord",
   "clockwork": "clockworkdev.github.io/ClockworkWebsite",
