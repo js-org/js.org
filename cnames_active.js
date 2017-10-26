@@ -1008,7 +1008,7 @@ var cnames_active = {
   "youtube-box": "lucasmonteverde.github.io/youtube-box", // noCF? (don´t add this in a new PR)
   "yusril": "yusrilhs.github.io", // noCF
   "zanyuyu": "zanseven007.github.io/resume", // noCF
-  "zaporizhzhya": "zaporizhzhyajs.github.io",
+  "zaporizhzhia": "zaporizhzhiajs.github.io",
   "zazu": "zazujs.github.io", // noCF? (don´t add this in a new PR)
   "zeit": "finnzeit.github.io",
   "zodiac": "indus.github.io/Zodiac", // noCF? (don´t add this in a new PR)
