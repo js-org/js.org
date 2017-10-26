@@ -611,6 +611,7 @@ var cnames_active = {
   "npmer": "rumkin.github.io/npm-watch",
   "nsp": "hanul.github.io/NSP", // noCF? (don´t add this in a new PR)
   "nsptiles": "imthenachoman.github.io/nSPTiles", // noCF? (don´t add this in a new PR)
+  "nuxt-fluent-bootstrap": "disjfa.github.io/nuxt-fluent-bootstrap",
   "nvanthao": "nvanthao.github.io", // noCF? (don´t add this in a new PR)
   "nxse": "nxse.github.io",
   "nyc": "nycjsorg.github.io/nyc",
