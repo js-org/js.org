@@ -632,6 +632,7 @@ var cnames_active = {
   "oscillator": "lukehorvat.github.io/super-oscillator",
   "osom": "kikobeats.github.io/osom",
   "pad": "ebraminio.github.io/pad.js", // noCF? (don´t add this in a new PR)
+  "pageobject": "clebert.github.io/pageobject",
   "pagination": "superRaytin.github.io/paginationjs-site", // noCF
   "palette": "pakastin.github.io/palette",
   "pamatcher": "pmros.github.io/pamatcher", // noCF? (don´t add this in a new PR)
