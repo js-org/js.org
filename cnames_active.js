@@ -335,7 +335,7 @@ var cnames_active = {
   "foxman": "kaola-fed.github.io/foxman",
   "freemarker": "ijse.github.io/freemarker.js", // noCF? (don´t add this in a new PR)
   "freezer": "pakastin.github.io/freezer",
-  "frint": "travix-international.github.io/frint",
+  "frint": "frintjs.github.io/frint.js.org",
   "fritzbox": "lesander.github.io/fritzbox.js",
   "front-end": "whoisjorge.github.io/front-end",
   "frzr": "pakastin.github.io/frzr",
