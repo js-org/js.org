@@ -941,6 +941,7 @@ var cnames_active = {
   "typeahead": "corejavascript.github.io/typeahead.js",
   "u": "hanul.github.io/UJS", // noCF? (don´t add this in a new PR)
   "uav": "unearth-inc.github.io/uav",
+  "ubuntu-hideout": "bytecommander.github.io/ubuntu-hideout",
   "udnisap": "udnisap.github.io",
   "ukazap": "ukazap.github.io", // noCF? (don´t add this in a new PR)
   "ulog": "download.github.io/ulog",
