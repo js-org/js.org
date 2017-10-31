@@ -130,6 +130,7 @@ var cnames_active = {
   "bootstrap-vue": "bootstrap-vue.github.io",
   "bornaeon": "bornaeon.github.io", // noCF
   "botgram": "botgram.github.io/botgram",
+  "bottender": "bottenderjs.github.io",
   "boundless": "enigma-io.github.io/boundless",
   "bowmanmc": "bowmanmc.github.io",
   "box": "capacitorset.github.io/box-js", // noCF
