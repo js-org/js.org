@@ -619,6 +619,7 @@ var cnames_active = {
   "nyc": "nycjsorg.github.io/nyc",
   "objectmodel": "sylvainpolletvillard.github.io/ObjectModel", // noCF? (don´t add this in a new PR)
   "oec": "crellison.github.io/oec",
+  "ohmy": "mountainwang.github.io/ohmy",
   "oib": "andreicek.github.io/oib.js",
   "okan": "okan.github.io",
   "olivia": "oliviachang29.github.io",
