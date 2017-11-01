@@ -859,6 +859,7 @@ var cnames_active = {
   "sri": "jackub.github.io/subresource-integrity-fallback",
   "stabs": "wnda.github.io/stabs",
   "stack": "stackgamedevelopment.github.io",
+  "stahlstadt": "dist1.storyblok.com",
   "starratio": "starratio.github.io/star-ratio", // noCF
   "staticinstance": "staticinstance.github.io", // noCF? (don´t add this in a new PR)
   "stats": "js-org.github.io/stats.js.org",
