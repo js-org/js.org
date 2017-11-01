@@ -924,6 +924,7 @@ var cnames_active = {
   "torino": "torinojs.github.io", // noCF? (don´t add this in a new PR)
   "torlondev": "torlondev.github.io",
   "tp": "jottocraft.github.io/tp",
+  "tp-alpha": "jotto3053.github.io/tp2",
   "trace": "andreasmadsen.github.io/trace",
   "transposer": "francesco-dipi.github.io/transposer",
   "treviso": "trevisojs.github.io", // noCF? (don´t add this in a new PR)
