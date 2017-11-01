@@ -574,7 +574,7 @@ var cnames_active = {
   "mvidalgarcia": "mvidalgarcia.github.io", // noCF? (don´t add this in a new PR)
   "mw": "agauniyal.github.io/mw",
   "mythbusters": "kikobeats.github.io/js-mythbusters",
-  "n-j-m": "n-j-m.github.io", // noCF? (don´t add this in a new PR
+  "n-j-m": "n-j-m.github.io", // noCF? (don´t add this in a new PR)
   "n": "nick-e.co.uk",
   "nanimation": "imthenachoman.github.io/nAnimation", // noCF? (don´t add this in a new PR)
   "naughtychecker": "gautamkrishnar.github.io/naughtychecker.js",
