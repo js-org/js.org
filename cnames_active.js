@@ -409,6 +409,7 @@ var cnames_active = {
   "initial-wu": "initial-wu.github.io",
   "inline-style-prefixer": "rofrischmann.github.io/inline-style-prefixer",
   "inscriptum": "sumbad.github.io/inscriptum",
+  "inset": "patlillis.github.io/inset.js",
   "instabousing": "jlbousing.github.io/instaBousing",
   "invoicing": "vahe.github.io/InvoicingJs",
   "ip-address": "beaugunderson.github.io/ip-address", // noCF? (don´t add this in a new PR)
