@@ -503,6 +503,7 @@ var cnames_active = {
   "maker": "microsoft.github.io/maker.js",
   "majestic": "moityjs.github.io/majestic",
   "maki": "makixx.github.io",
+  "manoj": "mkmpvtltd1.github.io/manoj",
   "marble": "jsguy.github.io/marble",
   "marcosflorencio": "marcosflorencio.github.io",
   "mark": "henry-luo.github.io/mark",
