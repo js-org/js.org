@@ -616,6 +616,7 @@ var cnames_active = {
   "nsp": "hanul.github.io/NSP", // noCF? (don´t add this in a new PR)
   "nsptiles": "imthenachoman.github.io/nSPTiles", // noCF? (don´t add this in a new PR)
   "nuxt-fluent-bootstrap": "disjfa.github.io/nuxt-fluent-bootstrap",
+  "nva": "ali322.github.io/nva",
   "nvanthao": "nvanthao.github.io", // noCF? (don´t add this in a new PR)
   "nxse": "nxse.github.io",
   "nyc": "nycjsorg.github.io/nyc",
@@ -1024,7 +1025,7 @@ var cnames_active = {
   "zeit": "finnzeit.github.io",
   "zodiac": "indus.github.io/Zodiac", // noCF? (don´t add this in a new PR)
   "zombie": "assaf.github.io/zombie", // noCF? (don´t add this in a new PR)
-  "zp": "tilda.ws",
+  "zp": "tilda.ws"
   /*
   * please don"t add your subdomain records down here!
   * insert them in alphabetical order to help reduce merge conflicts.
