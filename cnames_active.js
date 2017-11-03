@@ -842,7 +842,7 @@ var cnames_active = {
   "slim": "eavichay.github.io/slim.js",
   "smoove": "abemedia.github.io/jquery-smoove",
   "sn0w": "greensn0w.github.io", // noCF? (don´t add this in a new PR)
-  "snekfetch": "devsnek.github.io/snekfetch"
+  "snekfetch": "devsnek.github.io/snekfetch",
   "social-likes-next": "sapegin.github.io/social-likes-next", // noCF? (don´t add this in a new PR)
   "social-likes": "sapegin.github.io/social-likes", // noCF? (don´t add this in a new PR)
   "solder": "mcrocks999.github.io/solder.js",
@@ -872,7 +872,7 @@ var cnames_active = {
   "stepan": "stevermeister.github.io", // noCF? (don´t add this in a new PR)
   "stephenmccall": "stephenmccall.github.io", // noCF? (don´t add this in a new PR)
   "steven": "stpeng.github.io",
-  "sticky": "fawmi.github.io/sticky-pro"
+  "sticky": "fawmi.github.io/sticky-pro",
   "stockings": "kgroat.github.io/stockings",
   "storage": "uzitech.github.io/storage.js",
   "storybook": "storybooks.github.io/storybook",
@@ -923,7 +923,7 @@ var cnames_active = {
   "timerizer": "callumacrae.github.io/timerizerJS", // noCF? (don´t add this in a new PR)
   "tint": "tintjs.github.io", // noCF? (don´t add this in a new PR)
   "tinylinux": "e8johan.github.io/tiny-js", // noCF? (don´t add this in a new PR)
-  "tixol": "vcxiz.github.io/tixol"
+  "tixol": "vcxiz.github.io/tixol",
   "toad": "wnda.github.io/toad",
   "tokyo": "tokyojs.github.io",
   "tori": "boostcode.github.io/torijs",
@@ -967,6 +967,7 @@ var cnames_active = {
   "vaguilar": "vaguilar.github.io", // noCF? (don´t add this in a new PR)
   "valentin": "valentinvieriu.github.io", // noCF? (don´t add this in a new PR)
   "validator": "ppoffice.github.io/validator.js", // noCF? (don´t add this in a new PR)
+  "valirator": "massive-angular.github.io/valirator",
   "valine": "xcss.github.io/valine",
   "vanessa": "vanessa219.github.io/vanessa",
   "vanilla": "haeresis.github.io/vanilla-js-dom",
