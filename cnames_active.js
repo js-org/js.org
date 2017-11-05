@@ -947,6 +947,7 @@ var cnames_active = {
   "turbo": "turbo.github.io",
   "tweed": "tweedjs.github.io",
   "tweetnacl": "dchest.github.io/tweetnacl-js",
+  "twentyfive": "luckyshot.github.io/twentyfive",
   "two": "jonobr1.github.io/two.js",
   "tydel": "fahad19.github.io/tydel", // noCF? (don´t add this in a new PR)
   "typeahead": "corejavascript.github.io/typeahead.js",
