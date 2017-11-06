@@ -408,6 +408,7 @@ var cnames_active = {
   "immybox": "immense.github.io/immybox", // noCF? (don´t add this in a new PR)
   "infinite-tree": "cheton.github.io/infinite-tree",
   "initial-wu": "initial-wu.github.io",
+  "injectify": "injectify.github.io",
   "inline-style-prefixer": "rofrischmann.github.io/inline-style-prefixer",
   "inscriptum": "sumbad.github.io/inscriptum",
   "inset": "patlillis.github.io/inset.js",
