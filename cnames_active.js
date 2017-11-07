@@ -825,6 +825,7 @@ var cnames_active = {
   "shaily": "shailysangwan.github.io",
   "shedali": "shedali.github.io", // noCF? (don´t add this in a new PR)
   "shortquery": "s--minecraft.gitbooks.io/shortquery-js", // noCF? (don´t add this in a new PR)
+  "shscodingclub": "SalemHighCodingClub.github.io"
   "silfr": "silfr.github.io/iterativecolor",
   "silky": "wvv8oo.github.com/silky", // noCF? (don´t add this in a new PR)
   "siluna": "pahund.github.io/siluna", // noCF? (don´t add this in a new PR)
