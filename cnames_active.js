@@ -527,6 +527,7 @@ var cnames_active = {
   "medan": "medan-js.github.io", // noCF
   "mediainfo": "buzz.github.io/mediainfo.js",
   "medit": "echosoar.github.io/medit",
+  "medium-converter": "gunar.github.io/medium-converter", // noCF
   "medium-header": "danielfeelfine.github.io/medium-header", // noCF? (don´t add this in a new PR)
   "meethere": "ayazhafiz.github.io/meetHere",
   "meiosis": "foxdonut.github.io/meiosis", // noCF? (don´t add this in a new PR)
