@@ -495,6 +495,7 @@ var cnames_active = {
   "lofitorrent": "deadblackclover.github.io/lofiTorrent",
   "logo": "js-org.github.io/logo",
   "loki": "oblador.github.io/loki",
+  "lol":"xcss.github.io/lol",
   "loog": "israelroldan.github.io/loog",
   "lostyle": "rtsao.github.io/lostyle",
   "lribeiro": "lmribeiro.github.io",
