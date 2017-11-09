@@ -883,6 +883,7 @@ var cnames_active = {
   "storybooks": "storybooks.github.io",
   "stratic": "straticjs.github.io",
   "stress": "julindra.github.io/stress.js",
+  "shscode":"shs-coding-club-projects.github.io",
   "structure": "talyssonoc.gitbooks.io/structure",
   "stuck": "linuxenko.github.io/unstuck-webpack",
   "style": "dhilipsiva.github.io/style.js", // noCF? (don´t add this in a new PR)
