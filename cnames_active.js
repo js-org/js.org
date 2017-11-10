@@ -840,6 +840,7 @@ var cnames_active = {
   "skate": "skatejs.github.io", // noCF? (don´t add this in a new PR)
   "skeptical-coder": "rbpinheiro.github.io/skeptical-coder",
   "skx": "skx.github.io", // noCF? (don´t add this in a new PR)
+  "sky": "skyblue.github.io",
   "slang": "ramadis.github.io/slang", // noCF? (don´t add this in a new PR)
   "slideout": "mango.github.io/slideout",
   "slides": "deadcoder0904.github.io/slides-official-website",
@@ -1035,8 +1036,7 @@ var cnames_active = {
   "zeit": "finnzeit.github.io",
   "zodiac": "indus.github.io/Zodiac", // noCF? (don´t add this in a new PR)
   "zombie": "assaf.github.io/zombie", // noCF? (don´t add this in a new PR)
-  "zp": "tilda.ws",
-  "sky": "skyblue.github.io"
+  "zp": "tilda.ws"
   /*
   * please don"t add your subdomain records down here!
   * insert them in alphabetical order to help reduce merge conflicts.
