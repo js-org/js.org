@@ -110,8 +110,7 @@ var cnames_active = {
   "basebot": "iagrib.github.io/Basebot",
   "bash": "bashjs.github.io", // noCF? (don´t add this in a new PR)
   "basicgame": "basicgame.github.io/basicGame.js", // noCF? (don´t add this in a new PR)
-  "bastion": "snkrsnkampa.github.io/Bastion-Site",
-  "bauble": "mwjaworski.github.io/bauble",
+  "bastion": "snkrsnkampa.github.io/Bastion-Site",  
   "bc": "mazko.github.io/bc.js",
   "be": "davidep87.github.io/bejs.github.io",
   "begin": "advanced-webapps-class.github.io/begin", // noCF? (don´t add this in a new PR)
@@ -465,6 +464,7 @@ var cnames_active = {
   "kilvin": "rofrischmann.github.io/kilvin",
   "kite": "kite-js.github.io/kite",
   "klasa": "dirigeants.github.io/klasa",
+  "klepto": "mwjaworski.github.io/klepto",
   "knowyourbundle": "enapupe.github.io/know-your-bundle",
   "komada": "dirigeants.github.io/komada",
   "konstructor": "server.ludicrous.xyz",
