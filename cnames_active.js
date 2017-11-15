@@ -971,6 +971,7 @@ var cnames_active = {
   "units": "stak-digital.github.io/units",
   "up": "codefeathers.github.io/up",
   "upresent": "bobbybee.github.io/uPresent", // noCF? (don´t add this in a new PR)
+  "urban": "snekjs.github.io/urban.js",
   "utscrooms": "sunakujira1.github.io/UTSCRooms",
   "uuid": "rumkin.github.io/uuid",
   "uvcharts": "imaginea.github.io/uvCharts", // noCF? (don´t add this in a new PR)
