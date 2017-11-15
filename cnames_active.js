@@ -702,6 +702,7 @@ var cnames_active = {
   "positivebot": "positiveterminator.github.io/positivebot-site",
   "post-type-discovery": "twozeroone.github.io/post-type-discovery",
   "prettylog": "moosecoop.github.io/PrettyLog/",
+  "pristine": "sha256.github.io/Pristine", //noCF
   "profanity-finder": "gautamkrishnar.github.io/profanity-finder.js",
   "proteic": "proteus-h2020.github.io/proteic",
   "pure": "fengzilong.github.io/pure",
