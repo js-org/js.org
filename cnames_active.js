@@ -111,7 +111,7 @@ var cnames_active = {
   "bash": "bashjs.github.io", // noCF? (don´t add this in a new PR)
   "basicgame": "basicgame.github.io/basicGame.js", // noCF? (don´t add this in a new PR)
   "bastion": "snkrsnkampa.github.io/Bastion-Site",  
-  "bbn": "jammer99.github.io",
+  "bbn": "jammer99.github.io/bbn",
   "bc": "mazko.github.io/bc.js",
   "be": "davidep87.github.io/bejs.github.io",
   "begin": "advanced-webapps-class.github.io/begin", // noCF? (don´t add this in a new PR)
