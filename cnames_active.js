@@ -99,6 +99,7 @@ var cnames_active = {
   "awesomefeed": "arojunior.github.io/awesome-feed",
   "awesomehub": "awesomehub.netlify.com",
   "awk": "42ua.github.io/awk", // noCF? (don´t add this in a new PR)
+  "awoo": "awoojs.github.io/website"
   "azdanov": "azdanov.github.io",
   "backlog": "backlog-js.github.io/backlog.js.org", // noCF? (don´t add this in a new PR)
   "badger": "just-glue-it.github.io/badger", // noCF? (don´t add this in a new PR)
@@ -1012,7 +1013,6 @@ var cnames_active = {
   "weaver": "maxkfranz.github.io/weaver", // noCF? (don´t add this in a new PR)
   "webpack": "webpack.github.io/webpack.js.org",
   "weekly": "xdimh.github.io/weekly",
-  "weh": "wehjs.github.io/website",
   "wiki": "requarks.github.io/wiki-site",
   "within": "eric-brechemier.github.io/within", // noCF? (don´t add this in a new PR)
   "wooyun": "jiji262.github.io/wooyun_articles",
