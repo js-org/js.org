@@ -493,6 +493,7 @@ var cnames_active = {
   "liike": "liikejs.github.io/Liike",
   "linghucong": "jiji262.github.io",
   "liveflow": "hasharray.github.io/liveflow.js",
+  "liyuanqiu": "liyuanqiu.github.io/website",
   "localsync": "noderaider.github.io/localsync", // noCF? (don´t add this in a new PR)
   "lofitorrent": "deadblackclover.github.io/lofiTorrent",
   "logo": "js-org.github.io/logo",
