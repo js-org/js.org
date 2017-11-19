@@ -373,6 +373,7 @@ var cnames_active = {
   "guiseek": "guiseek.github.io", // noCF? (don´t add this in a new PR)
   "gully": "nmabhinandan.github.io/gully", // noCF? (don´t add this in a new PR)
   "gulpkit": "gulpkit.github.io/GulpKit",
+  "gulp-skeleton": "mrdragonxm15.github.io/gulp-skeleton"
   "gun": "gundb.github.io", // noCF? (don´t add this in a new PR)
   "guuibayer": "guuibayer.github.io", // noCF? (don´t add this in a new PR)
   "gyps": "huijari.github.io/Gyps",
