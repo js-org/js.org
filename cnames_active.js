@@ -842,6 +842,7 @@ var cnames_active = {
   "sizle": "christoga.github.io/sizle", // noCF? (don´t add this in a new PR)
   "sjhsbot": "sjhsbot.github.io/SJHS-Bot",
   "skate": "skatejs.github.io", // noCF? (don´t add this in a new PR)
+  "sketch": "keiww.github.io/sketch",
   "skeptical-coder": "rbpinheiro.github.io/skeptical-coder",
   "skx": "skx.github.io", // noCF? (don´t add this in a new PR)
   "slang": "ramadis.github.io/slang", // noCF? (don´t add this in a new PR)
