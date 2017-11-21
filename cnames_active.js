@@ -111,7 +111,7 @@ var cnames_active = {
   "basebot": "iagrib.github.io/Basebot",
   "bash": "bashjs.github.io", // noCF? (don´t add this in a new PR)
   "basicgame": "basicgame.github.io/basicGame.js", // noCF? (don´t add this in a new PR)
-  "bastion": "snkrsnkampa.github.io/Bastion-Site",  
+  "bastion": "snkrsnkampa.github.io/Bastion-Site",
   "bbn": "jammer99.github.io/bbn",
   "bc": "mazko.github.io/bc.js",
   "be": "davidep87.github.io/bejs.github.io",
@@ -919,6 +919,7 @@ var cnames_active = {
   "techfest": "anukul.github.io/techfest", // noCF? (don´t add this in a new PR)
   "telaviv": "dustin-h.github.io/telaviv", // noCF? (don´t add this in a new PR)
   "telegraf": "telegraf.github.io/telegraf", // noCF? (don´t add this in a new PR)
+  "teletype": "keyvank.github.io/teletype.js",
   "temme": "shinima.github.io/temme",
   "temple": "beneaththeink.github.io/Temple", // noCF? (don´t add this in a new PR)
   "tequila": "tequila-js.github.io",
