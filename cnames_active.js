@@ -472,6 +472,7 @@ var cnames_active = {
   "komada": "dirigeants.github.io/komada",
   "konstructor": "server.ludicrous.xyz",
   "konsumer": "konsumer.github.io", // noCF? (don´t add this in a new PR)
+  "kshitij": "kshitij98.github.io",
   "kyoto": "kyotojs.github.io",
   "labelauty": "fntneves.github.io/jquery-labelauty", // noCF? (don´t add this in a new PR)
   "lad": "ladjs.github.io/lad",
