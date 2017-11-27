@@ -1005,6 +1005,7 @@ var cnames_active = {
   "vscode-apielements": "xvincentx.github.io/vscode-apielements",
   "vue-land": "egoist.github.io/vue-land",
   "vue-mdc": "na-west1.surge.sh",
+  "vue-multiselect": "shentao.github.io/vue-multiselect",
   "vue-roast": "kronicker.github.io/vue-roast",
   "vue-route-timeline": "disjfa.github.io/vue-route-timeline",
   "vuejsindy": "vuejsindy.github.io",
