@@ -702,6 +702,7 @@ var cnames_active = {
   "poi": "egoist.github.io/poi.js.org",
   "poke": "gregjw.github.io/poke",
   "polished": "styled-components.github.io/polished",
+  "polkadot": "polkadot-js.github.io",
   "polythene": "arthurclemens.github.io/Polythene", // noCF? (don´t add this in a new PR)
   "popper": "fezvrasta.github.io/popper.js",
   "porter": "ahopkins.github.io/porterjs", // noCF? (don´t add this in a new PR)
