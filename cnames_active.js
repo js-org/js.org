@@ -482,6 +482,7 @@ var cnames_active = {
   "languages": "rsamaium.github.io/Languages",
   "lasers": "lukehorvat.github.io/need-more-lasers",
   "lass": "lassjs.github.io/lass",
+  "latex": "michael-brade.github.io/LaTeX.js"
   "latte": "tehsenaus.github.io/latte-js",
   "laubstein": "laubstein.github.io", // noCF? (don´t add this in a new PR)
   "leafless": "mofax.github.io/leafless",
