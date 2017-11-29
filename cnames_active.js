@@ -567,6 +567,7 @@ var cnames_active = {
   "modalizer": "dungo.github.io/modalizer", // noCF? (don´t add this in a new PR)
   "modbot": "modbotjs.github.io",
   "modofun": "modofunjs.github.io/modofun",
+  "modv": "2xaa.github.io/modV",
   "mog-script": "mog-script.github.io",
   "mohit": "mohitgarg.github.io",
   "mol": "eigenmethod.github.io/mol", // noCF
