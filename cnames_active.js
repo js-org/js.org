@@ -1038,6 +1038,7 @@ var cnames_active = {
   "xto6": "mohebifar.github.io/xto6", // noCF? (don´t add this in a new PR)
   "xtype": "lucono.github.io/xtypejs", // noCF? (don´t add this in a new PR)
   "y86": "quietshu.github.io/y86", // noCF? (don´t add this in a new PR)
+  "yadl": "yadljs.github.io",
   "yagolopez": "yagolopez.github.io",
   "yah": "thassiov.github.io/yah", // noCF? (don´t add this in a new PR)
   "yamdbf": "zajrik.github.io/yamdbf",
