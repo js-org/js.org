@@ -997,6 +997,7 @@ var cnames_active = {
   "vanessa": "vanessa219.github.io/vanessa",
   "vanilla": "haeresis.github.io/vanilla-js-dom",
   "vbuild": "egoist.github.io/vbuild",
+  "veda": "fand.github.io/veda.js.org",
   "vico": "bohdantkachenko.github.io/vico", // noCF? (don´t add this in a new PR)
   "verifyr": "arze1.github.io/verifyr-site",
   "video-react": "video-react.github.io",
