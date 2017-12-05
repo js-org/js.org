@@ -958,6 +958,7 @@ var cnames_active = {
   "transposer": "francesco-dipi.github.io/transposer",
   "treviso": "trevisojs.github.io", // noCF? (don´t add this in a new PR)
   "trevorgk": "trevorgk.github.io", // noCF? (don´t add this in a new PR)
+  "trier": "creimers.github.io/trier/",
   "trilogy": "citycide.github.io/trilogy",
   "troxel": "troxeljs.github.io",
   "true-myth": "chriskrycho.github.io/true-myth",
