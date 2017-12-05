@@ -293,6 +293,7 @@ var cnames_active = {
   "emulisp": "grahack.github.io/EmuLisp", // noCF? (don´t add this in a new PR)
   "enclave": "eanplatter.github.io/enclave", // noCF? (don´t add this in a new PR)
   "engui": "engui.github.io",
+  "energy": "energychain.github.io/energy",
   "eq8": "eq8.github.io",
   "eray": "erayarslan.github.io", // noCF? (don´t add this in a new PR)
   "eric": "otteric.github.com",
