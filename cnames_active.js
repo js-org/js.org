@@ -902,6 +902,7 @@ var cnames_active = {
   "stratic": "straticjs.github.io",
   "stress": "julindra.github.io/stress.js",
   "super-controls": "thebearingedge.github.io/super-controls",
+  "shekhar": "shekharreddy4.github.io/Shekhar",
   "shscode":"shs-coding-club-projects.github.io",
   "structure": "talyssonoc.gitbooks.io/structure",
   "stuck": "linuxenko.github.io/unstuck-webpack",
@@ -1058,8 +1059,7 @@ var cnames_active = {
   "zeit": "finnzeit.github.io",
   "zodiac": "indus.github.io/Zodiac", // noCF? (don´t add this in a new PR)
   "zombie": "assaf.github.io/zombie", // noCF? (don´t add this in a new PR)
-  "zp": "tilda.ws",
-  "shekhar": "shekharreddy4.github.io/Shekhar"
+  "zp": "tilda.ws"
   /*
   * please don"t add your subdomain records down here!
   * insert them in alphabetical order to help reduce merge conflicts.
