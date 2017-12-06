@@ -902,6 +902,7 @@ var cnames_active = {
   "stratic": "straticjs.github.io",
   "stress": "julindra.github.io/stress.js",
   "super-controls": "thebearingedge.github.io/super-controls",
+  "shekhar": "shekharreddy4.github.io/Shekhar",
   "shscode":"shs-coding-club-projects.github.io",
   "structure": "talyssonoc.gitbooks.io/structure",
   "stuck": "linuxenko.github.io/unstuck-webpack",
