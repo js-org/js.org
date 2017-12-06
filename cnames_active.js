@@ -1028,6 +1028,7 @@ var cnames_active = {
   "warrior": "warriorjs.github.io",
   "watch": "ducin.github.io/watchjs.org", // noCF? (don´t add this in a new PR)
   "wayou": "wayou.github.io", // noCF? (don´t add this in a new PR)
+  "wdd": "wangduanduan.github.io/blog",
   "weaver": "maxkfranz.github.io/weaver", // noCF? (don´t add this in a new PR)
   "webpack": "webpack.github.io/webpack.js.org",
   "weekly": "xdimh.github.io/weekly",
