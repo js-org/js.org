@@ -610,6 +610,7 @@ var cnames_active = {
   "neo4": "janpeter.github.io/neo4js",
   "neutrino": "mozilla-neutrino.github.io/neutrino-dev",
   "nflow": "nflow-js.github.io", // noCF? (don´t add this in a new PR)
+  "ng-dux": "mister-what.github.io/ngDux",
   "ng-wig": "stevermeister.github.io/ngWig", // noCF? (don´t add this in a new PR)
   "ngirc": "ngirc.github.io/ng-irc", // noCF
   "ngn": "nodengn.github.io/NGN", // noCF? (don´t add this in a new PR)
