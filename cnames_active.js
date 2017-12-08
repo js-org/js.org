@@ -107,6 +107,7 @@ var cnames_active = {
   "badger": "just-glue-it.github.io/badger", // noCF? (don´t add this in a new PR)
   "badrudeen": "badrudeen.github.io", // noCF? (don´t add this in a new PR)
   "bali": "balijs.github.io",
+  "bancho": "thepoon.github.io/bancho.js",
   "bandung": "zufrizalyordan.github.io/bandungjs",
   "barbagrigia": "barbagrigia.github.io",
   "barcelona": "barcelona-js.github.io/website", // noCF? (don´t add this in a new PR)
