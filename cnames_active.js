@@ -554,6 +554,7 @@ var cnames_active = {
   "meth": "meth-meth-method.github.io/meth",
   "mf": "awto.github.io/mfjs-compiler", // noCF? (don´t add this in a new PR)
   "mics": "download.github.io/mics",
+  "microlink": "microlinkhq.github.io/microlinkjs",
   "middy": "plnt9.github.io/middy",
   "miguelsr": "miguelsr.github.io", // noCF? (don´t add this in a new PR)
   "milesgitgud": "milesgitgud.github.io/homepage",
