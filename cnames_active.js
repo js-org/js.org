@@ -373,6 +373,7 @@ var cnames_active = {
   "graphics2d": "keyten.github.io/Graphics2D", // noCF? (don´t add this in a new PR)
   "grapnel": "engineeringmode.github.io/Grapnel.js", // noCF? (don´t add this in a new PR)
   "greg": "gregorydgarcia.github.io", // noCF? (don´t add this in a new PR)
+  "gregory": "f3z0.github.io",
   "grep": "42ua.github.io/grep", // noCF? (don´t add this in a new PR)
   "gridiron": "noderaider.github.io/gridiron",
   "gridsplit": "assetinfo.github.io", // noCF? (don´t add this in a new PR)
