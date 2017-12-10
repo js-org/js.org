@@ -452,6 +452,7 @@ var cnames_active = {
   "josep": "warlock.github.io",
   "josuedanielbust": "josuedanielbust.github.io", // noCF? (don´t add this in a new PR)
   "jparticles": "jparticles.github.io/Documentation",
+  "js": "ko25july.github.io/js",
   "jsessentials": "chetanraj.github.io/jsessentials",
   "jsnippet": "JesseEisen.github.io/snippets", // noCF
   "json-schema-faker": "json-schema-faker.github.io/website-jsf", // noCF? (don´t add this in a new PR)
@@ -477,6 +478,7 @@ var cnames_active = {
   "klasa": "dirigeants.github.io/klasa",
   "klepto": "mwjaworski.github.io/klepto",
   "knowyourbundle": "enapupe.github.io/know-your-bundle",
+  "ko": "ko25july.github.io/ko",
   "komada": "dirigeants.github.io/komada",
   "konstructor": "server.ludicrous.xyz",
   "konsumer": "konsumer.github.io", // noCF? (don´t add this in a new PR)
