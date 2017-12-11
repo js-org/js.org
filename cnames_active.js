@@ -452,7 +452,6 @@ var cnames_active = {
   "josep": "warlock.github.io",
   "josuedanielbust": "josuedanielbust.github.io", // noCF? (don´t add this in a new PR)
   "jparticles": "jparticles.github.io/Documentation",
-  "js": "ko25july.github.io/js",
   "jsessentials": "chetanraj.github.io/jsessentials",
   "jsnippet": "JesseEisen.github.io/snippets", // noCF
   "json-schema-faker": "json-schema-faker.github.io/website-jsf", // noCF? (don´t add this in a new PR)
@@ -478,7 +477,7 @@ var cnames_active = {
   "klasa": "dirigeants.github.io/klasa",
   "klepto": "mwjaworski.github.io/klepto",
   "knowyourbundle": "enapupe.github.io/know-your-bundle",
-  "ko": "ko25july.github.io/ko",
+  "ko": "ko25july.github.io/ko.js.org",
   "komada": "dirigeants.github.io/komada",
   "konstructor": "server.ludicrous.xyz",
   "konsumer": "konsumer.github.io", // noCF? (don´t add this in a new PR)
@@ -950,7 +949,6 @@ var cnames_active = {
   "terminal": "gottox.github.io/terminal.js", // noCF? (don´t add this in a new PR)
   "textillate": "jschr.github.io/textillate", // noCF? (don´t add this in a new PR)
   "texy": "egoist.github.io/texy",
-  "thai": "ko25july.github.io/thai",
   "thea": "idokutela.github.io/thea",
   "thegrid": "antoniandre.github.io/grid",
   "themoviedb": "chrisenytc.github.io/themoviedb", // noCF? (don´t add this in a new PR)
