@@ -479,6 +479,7 @@ var cnames_active = {
   "klasa": "dirigeants.github.io/klasa",
   "klepto": "mwjaworski.github.io/klepto",
   "knowyourbundle": "enapupe.github.io/know-your-bundle",
+  "ko": "ko25july.github.io/ko.js.org",
   "komada": "dirigeants.github.io/komada",
   "konstructor": "server.ludicrous.xyz",
   "konsumer": "konsumer.github.io", // noCF? (don´t add this in a new PR)
