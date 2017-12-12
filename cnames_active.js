@@ -1041,6 +1041,7 @@ var cnames_active = {
   "watch": "ducin.github.io/watchjs.org", // noCF? (don´t add this in a new PR)
   "wayou": "wayou.github.io", // noCF? (don´t add this in a new PR)
   "weaver": "maxkfranz.github.io/weaver", // noCF? (don´t add this in a new PR)
+  "webassembly": "xtuc.github.io/js-webassembly-interpreter"
   "webpack": "webpack.github.io/webpack.js.org",
   "weekly": "xdimh.github.io/weekly",
   "wiki": "requarks.github.io/wiki-site",
