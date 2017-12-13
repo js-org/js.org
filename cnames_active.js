@@ -1045,6 +1045,7 @@ var cnames_active = {
   "webpack": "webpack.github.io/webpack.js.org",
   "weekly": "xdimh.github.io/weekly",
   "wiki": "requarks.github.io/wiki-site",
+  "wikipedia": "xxxqwertyxxx.github.io",
   "within": "eric-brechemier.github.io/within", // noCF? (don´t add this in a new PR)
   "wooyun": "jiji262.github.io/wooyun_articles",
   "wordywordy": "sverweij.github.io/wordywordy",
