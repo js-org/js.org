@@ -600,6 +600,7 @@ var cnames_active = {
   "mvc": "morozovsk.github.io/mvc", // noCF
   "mvidalgarcia": "mvidalgarcia.github.io", // noCF? (don´t add this in a new PR)
   "mw": "agauniyal.github.io/mw",
+  "mysketch": "dipanshkhandelwal.github.io/MySketch",
   "mythbusters": "kikobeats.github.io/js-mythbusters",
   "n-j-m": "n-j-m.github.io", // noCF? (don´t add this in a new PR)
   "namelessman": "namelessman.github.io",
