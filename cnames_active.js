@@ -555,6 +555,7 @@ var cnames_active = {
   "mesh": "crcn.github.io/mesh.js.org", // noCF? (don´t add this in a new PR)
   "metadata": "oknosoft.github.io/metadata.js",
   "metagon": "austinhuang0131.github.io/metagon",
+  "metascraper": "microlinkhq.github.io/metascraper",
   "meth": "meth-meth-method.github.io/meth",
   "mf": "awto.github.io/mfjs-compiler", // noCF? (don´t add this in a new PR)
   "microlink": "microlinkhq.github.io/microlinkjs",
