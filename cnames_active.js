@@ -47,6 +47,7 @@ var cnames_active = {
   "abhishek": "rpidanny.github.io/personal-collage",
   "abialbon": "abialbon.github.io",
   "acho": "achojs.github.io/acho",
+  "acme": "makepost.github.io/acme-commander",
   "action-u": "kevinast.github.io/action-u",
   "adon988": "adon988.github.io",
   "aghasemi": "aghasemi.github.io",
