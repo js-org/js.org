@@ -312,6 +312,7 @@ var cnames_active = {
   "eval": "jshawl.github.io/eval", // noCF? (don´t add this in a new PR)
   "event-storage": "albe.github.io/node-event-storage",
   "eventstore": "adrai.github.io/node-eventstore", // noCF? (don´t add this in a new PR)
+  "evolutions": "anshumanv.github.io/evolutions-webapp",
   "exbars": "youssefkababe.github.io/exbars", // noCF? (don´t add this in a new PR)
   "express-saml2": "tngan.github.io/express-saml2",
   "extenso": "theuves.github.io/extenso.js.org",
