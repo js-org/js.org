@@ -837,6 +837,7 @@ var cnames_active = {
   "samplyr": "arze1.github.io/samplyr-site",
   "sanctuary": "sanctuary-js.github.io/sanctuary-site",
   "sandeepkhandewale": "learner1024.github.io",
+  "sandstone": "storehubnet.github.io/sandstone",
   "sao": "egoist.github.io/sao",
   "sass": "medialize.github.io/playground.sass.js", // noCF? (don´t add this in a new PR)
   "saulosantiago": "saulosilva.github.io", // noCF? (don´t add this in a new PR)
