@@ -339,6 +339,7 @@ var cnames_active = {
   "flexmasonry": "kavanmevada.github.io/flex_masonry", // noCF
   "flowchart": "adrai.github.io/flowchart.js", // noCF? (don´t add this in a new PR)
   "flowcon": "oknosoft.github.io/flowcon",
+  "fluid": "jottocraft.github.io/fluid",
   "fluxoff": "kingscott.github.io/flux-off", // noCF? (don´t add this in a new PR)
   "flybook": "rhiokim.github.io/flybook",
   "fnx": "fnxjs.gitbooks.io/fnx-documentation",
