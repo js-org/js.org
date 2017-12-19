@@ -1020,6 +1020,7 @@ var cnames_active = {
   "valirator": "massive-angular.github.io/valirator",
   "vanessa": "vanessa219.github.io/vanessa",
   "vanilla": "haeresis.github.io/vanilla-js-dom",
+  "vayne": "vaynejs.github.io",
   "vbuild": "egoist.github.io/vbuild",
   "verifyr": "arze1.github.io/verifyr-site",
   "vico": "bohdantkachenko.github.io/vico", // noCF? (don´t add this in a new PR)
@@ -1078,8 +1079,7 @@ var cnames_active = {
   "zeit": "vinhpz.github.io",
   "zodiac": "indus.github.io/Zodiac", // noCF? (don´t add this in a new PR)
   "zombie": "assaf.github.io/zombie", // noCF? (don´t add this in a new PR)
-  "zp": "tilda.ws",
-  "vayne": "vaynejs.github.io"
+  "zp": "tilda.ws"
   /*
   * please don"t add your subdomain records down here!
   * insert them in alphabetical order to help reduce merge conflicts.
