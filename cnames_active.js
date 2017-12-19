@@ -1022,6 +1022,7 @@ var cnames_active = {
   "valirator": "massive-angular.github.io/valirator",
   "vanessa": "vanessa219.github.io/vanessa",
   "vanilla": "haeresis.github.io/vanilla-js-dom",
+  "vayne": "vaynejs.github.io",
   "vbuild": "egoist.github.io/vbuild",
   "verifyr": "arze1.github.io/verifyr-site",
   "vico": "bohdantkachenko.github.io/vico", // noCF? (don´t add this in a new PR)
