@@ -1047,6 +1047,7 @@ var cnames_active = {
   "vuikit": "vuikit.github.io",
   "vuongdothanhhuy": "vuongdothanhhuy.github.io", // noCF? (don´t add this in a new PR)
   "wanna": "mkermani144.github.io/wanna",
+  "Waffleprograming": "waffleprograming.github.io",
   "wargamer": "hkwu.github.io/wargamer",
   "warnbot": "darkcoding-js.github.io/WarnBot",
   "warrior": "warriorjs.github.io",
