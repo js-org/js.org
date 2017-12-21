@@ -555,6 +555,7 @@ var cnames_active = {
   "medium-converter": "gunar.github.io/medium-converter", // noCF
   "medium-header": "danielfeelfine.github.io/medium-header", // noCF? (don´t add this in a new PR)
   "meethere": "ayazhafiz.github.io/meetHere",
+  "megacode18": "megacode18.github.io",
   "meiosis": "foxdonut.github.io/meiosis", // noCF? (don´t add this in a new PR)
   "melies-hugo": "cristinafsanz.github.io/melies-hugo",
   "melody": "trivago.github.io/melody-web",
