@@ -630,6 +630,7 @@ var cnames_active = {
   "nflow": "nflow-js.github.io", // noCF? (don´t add this in a new PR)
   "ng-dux": "mister-what.github.io/ngDux",
   "ng-wig": "stevermeister.github.io/ngWig", // noCF? (don´t add this in a new PR)
+  "ngbook": "ngbook.github.io",
   "ngirc": "ngirc.github.io/ng-irc", // noCF
   "ngn": "nodengn.github.io/NGN", // noCF? (don´t add this in a new PR)
   "ngspice": "42ua.github.io/ngspice.js",
