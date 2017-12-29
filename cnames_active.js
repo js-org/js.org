@@ -528,6 +528,7 @@ var cnames_active = {
   "lribeiro": "lmribeiro.github.io",
   "ls": "links-js.github.io",
   "lychee": "Artificial-Engineering.github.io/lycheeJS-website",
+  "lwd": "dusterthefirst.github.io/Login-With-Discord"
   "m8bot": "mapreiff.github.io/m8-bot-site",
   "madankumar": "jmadankumar.github.io",
   "magnet": "magnetjs.github.io/Magnet", // noCF? (don´t add this in a new PR)
