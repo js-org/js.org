@@ -918,6 +918,7 @@ var cnames_active = {
   "stack": "stackgamedevelopment.github.io",
   "stahlstadt": "dist1.storyblok.com",
   "starratio": "starratio.github.io/star-ratio", // noCF
+  "state-machine-cat": "sverweij.github.io/state-machine-cat",
   "staticinstance": "staticinstance.github.io", // noCF? (don´t add this in a new PR)
   "stats": "js-org.github.io/stats.js.org",
   "status.diamond": "diamondpkg.github.io/status", // noCF? (don´t add this in a new PR)
