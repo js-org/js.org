@@ -523,6 +523,7 @@ var cnames_active = {
   "logo": "js-org.github.io/logo",
   "loki": "oblador.github.io/loki",
   "lol":"xcss.github.io/lol",
+  "lombok":"lombokjs.github.io",
   "loog": "israelroldan.github.io/loog",
   "lostyle": "rtsao.github.io/lostyle",
   "lribeiro": "lmribeiro.github.io",
