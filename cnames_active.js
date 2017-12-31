@@ -738,6 +738,7 @@ var cnames_active = {
   "polished": "styled-components.github.io/polished",
   "polkadot": "polkadot-js.github.io",
   "polythene": "arthurclemens.github.io/Polythene", // noCF? (don´t add this in a new PR)
+  "pomidorus": "tatyshev.github.io/pomidorus",
   "popper": "fezvrasta.github.io/popper.js",
   "porter": "ahopkins.github.io/porterjs", // noCF? (don´t add this in a new PR)
   "positivebot": "positiveterminator.github.io/positivebot-site",
