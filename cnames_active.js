@@ -51,6 +51,7 @@ var cnames_active = {
   "acme": "makepost.github.io/acme-commander",
   "action-u": "kevinast.github.io/action-u",
   "adon988": "adon988.github.io",
+  "affiliate": "teamtofu.github.io/affiliate",
   "aghasemi": "aghasemi.github.io",
   "agrawalnaman": "agrawalnaman.github.io",
   "agrawalrohit": "rohit0803.github.io/agrawal.github.io",
