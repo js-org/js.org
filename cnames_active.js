@@ -428,6 +428,7 @@ var cnames_active = {
   "imagecapture": "googlechrome.github.io/imagecapture-polyfill",
   "immense": "immense.github.io", // noCF? (don´t add this in a new PR)
   "immybox": "immense.github.io/immybox", // noCF? (don´t add this in a new PR)
+  "impress": "impress.github.io/impress.js",
   "infinite-tree": "cheton.github.io/infinite-tree",
   "initial-wu": "initial-wu.github.io",
   "inline-style-prefixer": "rofrischmann.github.io/inline-style-prefixer",
