@@ -176,7 +176,7 @@ var cnames_active = {
   "cartodb-demo": "opensas.github.io/cartodb-demo", // noCF? (don´t add this in a new PR)
   "cassie": "milesgitgud.github.io/cassie",
   "cats": "whoisjorge.github.io/not-cat-gifs",
-  "cdrrazan": "cdrrazan.github.io/aboutnp-cdrrazan", //no-CF
+  "cdrrazan": "cdrrazan.github.io/aboutnp-cdrrazan", // noCF
   "central-node": "central-node.github.io", // noCF? (don´t add this in a new PR)
   "chain-able": "fluents.github.io/chain-able-site",
   "chatexchange": "jacob-gray.github.io/ChatExchangeJS",
