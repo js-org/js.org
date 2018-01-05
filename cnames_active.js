@@ -990,6 +990,7 @@ var cnames_active = {
   "tixol": "vcxiz.github.io/tixol",
   "toad": "wnda.github.io/toad",
   "tokyo": "tokyojs.github.io",
+  "tom": "kikobeats.github.io/tom",
   "tori": "boostcode.github.io/torijs",
   "torino": "torinojs.github.io", // noCF? (don´t add this in a new PR)
   "torlondev": "torlondev.github.io",
