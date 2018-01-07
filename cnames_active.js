@@ -832,7 +832,7 @@ var cnames_active = {
   "riotgear": "riotgear.github.io",
   "rishav": "xrisk.github.io",
   "risingstars2016": "michaelrambeau.github.io/risingstars2016",
-  "risingstars": "bestofjs.github.io/javascript-risingstars",
+  "risingstars": "risingstars.netlify.com",
   "rivki": "mikqi.github.io",
   "rmodal": "zewish.github.io/rmodal.js",
   "rock": "w3core.github.io/RockJS",
