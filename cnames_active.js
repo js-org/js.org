@@ -1004,6 +1004,7 @@ var cnames_active = {
   "trevorgk": "trevorgk.github.io", // noCF? (don´t add this in a new PR)
   "trier": "creimers.github.io/trier",
   "trilogy": "citycide.github.io/trilogy",
+  "trinity": "marcus-sa.github.io/trinity-js",
   "troxel": "troxeljs.github.io",
   "true-myth": "chriskrycho.github.io/true-myth",
   "try-catch-finally": "c24w.github.io/try-catch-finally.js",
