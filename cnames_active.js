@@ -365,6 +365,7 @@ var cnames_active = {
   "g": "nodebox.github.io/g.js",
   "gal": "galmail.github.io", // noCF? (don´t add this in a new PR)
   "gamedevcontestal": "fromdenisvieira.github.io/gamedevcontestal", // noCF? (don´t add this in a new PR)
+  "gazosekai": "starkblaze01.github.io/Gazo_Sekai",
   "gcse": "abemedia.github.io/jquery-gcse",
   "geekr": "ruanyl.github.io/geekr", // noCF? (don´t add this in a new PR)
   "genpasswd": "exos.github.io/genpasswd", // noCF? (don´t add this in a new PR)
