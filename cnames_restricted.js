@@ -116,6 +116,7 @@ var cnames_restricted = [
     "index",
     "info(s)",
     "internet",
+    "io",
     "js",
     "json",
     "legal(s)",
