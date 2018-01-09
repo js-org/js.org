@@ -439,6 +439,7 @@ var cnames_active = {
   "inset": "patlillis.github.io/inset.js",
   "instabousing": "jlbousing.github.io/instaBousing",
   "invoicing": "vahe.github.io/InvoicingJs",
+  "imgops": "dogancelik.github.io/imgops-multi/",
   "iostream": "pantheonsh.github.io/iostream",
   "ip-address": "beaugunderson.github.io/ip-address", // noCF? (don´t add this in a new PR)
   "is": "arasatasaygin.github.io/is.js", // noCF? (don´t add this in a new PR)
