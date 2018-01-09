@@ -429,6 +429,7 @@ var cnames_active = {
   "igorsantana": "igorsantana.github.io", // noCF? (don´t add this in a new PR)
   "iio": "iioinc.github.io/iio.js", // noCF? (don´t add this in a new PR)
   "imagecapture": "googlechrome.github.io/imagecapture-polyfill",
+  "imgops": "dogancelik.github.io/imgops-multi",
   "immense": "immense.github.io", // noCF? (don´t add this in a new PR)
   "immybox": "immense.github.io/immybox", // noCF? (don´t add this in a new PR)
   "impress": "impress.github.io/impress.js",
