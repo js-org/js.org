@@ -426,6 +426,7 @@ var cnames_active = {
   "icecast": "jucrouzet.github.io/icecast.js",
   "ienumerable": "mbasso.github.io/ienumerable",
   "iffe": "iffe-team.github.io",
+  "iflow": "unadlib.github.io/iflow",
   "ignite": "ignitejscl.github.io",
   "igorsantana": "igorsantana.github.io", // noCF? (don´t add this in a new PR)
   "iio": "iioinc.github.io/iio.js", // noCF? (don´t add this in a new PR)
