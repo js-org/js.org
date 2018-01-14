@@ -201,6 +201,7 @@ var cnames_active = {
   "clockwork": "clockworkdev.github.io/ClockworkWebsite",
   "clusterize": "nexts.github.io/Clusterize.js",
   "cmbhackjs2013": "cmbjs.github.io/cmbHackjs2013",
+  "cn.iflow": "unadlib.github.io/iflow-docs-cn",
   "cn.mobx": "sangka.github.io/mobx-docs-cn", // noCF
   "cn.redux": "camsong.github.io/redux-in-chinese", // noCF? (don´t add this in a new PR)
   "cn.rx": "rxjs-cn.github.io/RxJS-Docs-CN", // noCF
