@@ -528,6 +528,7 @@ var cnames_active = {
   "lightfair": "tristiank3604.github.io/lightfair-docs",
   "liguori": "liguori.github.io", // noCF? (don´t add this in a new PR)
   "liike": "liikejs.github.io/Liike",
+  "lineplayer": "andresys.github.io/LinePlayer",
   "linghucong": "jiji262.github.io",
   "liveflow": "hasharray.github.io/liveflow.js",
   "localsync": "noderaider.github.io/localsync", // noCF? (don´t add this in a new PR)
