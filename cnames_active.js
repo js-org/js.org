@@ -68,7 +68,7 @@ var cnames_active = {
   "almin": "almin.github.io",
   "alt": "goatslacker.github.io/alt", // noCF? (don´t add this in a new PR)
   "alveron": "rofrischmann.github.io/alveron",
-  "andre": "acga.github.io",
+  "andre": "anc.github.io/site",
   "anenth": "anenth.github.io", // noCF? (don´t add this in a new PR)
   "anggao": "anggao.github.io", // noCF? (don´t add this in a new PR)
   "angular-jsf": "json-schema-faker.github.io/angular-jsf", // noCF? (don´t add this in a new PR)
