@@ -259,7 +259,7 @@ var cnames_active = {
   "diffract": "ameyms.github.io/diffract", // noCF? (don´t add this in a new PR)
   "dinesh": "dineshondev.github.io/dinesh", // noCF? (don´t add this in a new PR)
   "dio": "thysultan.github.io/dio.js",
-  "discord": "hydrabolt.github.io/discord.js-site",
+  "discord": "discordjs.github.io/website",
   "display": "arguiot.github.io/DisplayJS",
   "distillery": "achannarasappa.github.io/distillery", // noCF? (don´t add this in a new PR)
   "distri": "flarp.github.io/Distri.js",
