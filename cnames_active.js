@@ -232,6 +232,7 @@ var cnames_active = {
   "cryptokey": "rumkin.github.com/crypto-key",
   "cucumber-mink": "adezandee.github.io/cucumber-mink", // noCF? (don´t add this in a new PR)
   "curi": "pshrmn.github.io/curi",
+  "curiositydev": "curiositydev.github.io",
   "curseapp": "mcrocks999.github.io/curseapp.js",
   "cybernaut": "clebert.github.io/cybernaut",
   "cycle": "cyclejs.github.io",
