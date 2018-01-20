@@ -500,6 +500,7 @@ var cnames_active = {
   "keypress": "rumkin.github.io/keypress.js.org",
   "kilvin": "rofrischmann.github.io/kilvin",
   "kite": "kite-js.github.io/kite",
+  "kiwidocs": "arguiot.github.io/KiwiDocs",
   "klasa": "dirigeants.github.io/klasa",
   "klepto": "mwjaworski.github.io/klepto",
   "knowyourbundle": "enapupe.github.io/know-your-bundle",
