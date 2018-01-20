@@ -628,6 +628,7 @@ var cnames_active = {
   "msp430": "mazko.github.io/MSP430.js",
   "multiple": "nexts.github.io/Multiple.js",
   "murder": "rolandpoulter.github.io/murder", // noCF? (don´t add this in a new PR)
+  "murmansk": "interfluve.github.io/Murmansk",
   "muto": "booleanapp.github.io/elastic-muto",
   "mvc": "morozovsk.github.io/mvc", // noCF
   "mvidalgarcia": "mvidalgarcia.github.io", // noCF? (don´t add this in a new PR)
