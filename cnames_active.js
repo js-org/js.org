@@ -588,6 +588,7 @@ var cnames_active = {
   "metascraper": "microlinkhq.github.io/metascraper",
   "meth": "meth-meth-method.github.io/meth",
   "mf": "awto.github.io/mfjs-compiler", // noCF? (don´t add this in a new PR)
+  "microfeedback": "microfeedback.github.io",
   "microlink": "microlinkhq.github.io/microlinkjs",
   "mics": "download.github.io/mics",
   "middy": "plnt9.github.io/middy",
