@@ -835,7 +835,7 @@ var cnames_active = {
   "refujs": "refujs.github.io", // noCF? (don´t add this in a new PR)
   "rekit": "supnate.github.io/rekit", // noCF
   "relate": "jakelazaroff.github.io/relate", // noCF? (don´t add this in a new PR)
-  "remark": "wooorm.github.io/remark", // noCF? (don´t add this in a new PR)
+  "remark": "remarkjs.github.io/remark",
   "rene": "revrng.github.io", // noCF? (don´t add this in a new PR)
   "repackage": "cchamberlain.github.io/repackage", // noCF? (don´t add this in a new PR)
   "request": "request.gitbooks.io", // noCF? (don´t add this in a new PR)
