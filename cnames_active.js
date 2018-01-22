@@ -767,6 +767,7 @@ var cnames_active = {
   "profanity-finder": "gautamkrishnar.github.io/profanity-finder.js",
   "proteic": "proteus-h2020.github.io/proteic",
   "pure": "fengzilong.github.io/pure",
+  "pwa-cookbook": "sylvainpolletvillard.github.io/pwa-cookbook",
   "qs": "kirjs.github.io/qs.js", // noCF? (don´t add this in a new PR)
   "querybuilder": "mistic100.github.io/jQuery-QueryBuilder", // noCF? (don´t add this in a new PR)
   "question": "teamtofu.github.io/questionify",
