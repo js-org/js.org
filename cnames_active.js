@@ -675,6 +675,7 @@ var cnames_active = {
   "notibar": "duyetdev.github.io/notibar.js",
   "novus": "territoriesofnovus.github.io",
   "npmer": "rumkin.github.io/npm-watch",
+  "npm-module-es6-seed": "https://blackmirror1980.github.io/npm-module-es6-seed/"
   "nsp": "hanul.github.io/NSP", // noCF? (don´t add this in a new PR)
   "nsptiles": "imthenachoman.github.io/nSPTiles", // noCF? (don´t add this in a new PR)
   "nuxt-fluent-bootstrap": "disjfa.github.io/nuxt-fluent-bootstrap",
