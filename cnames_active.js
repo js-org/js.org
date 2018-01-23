@@ -972,6 +972,7 @@ var cnames_active = {
   "super-trim": "beeblebrox3.github.io/super-trim",
   "supernova": "janbiasi.github.io/supernova", // noCF? (don´t add this in a new PR)
   "svelteui": "transpiling.github.io/svelte-flat-ui",
+  "svg-skeleton": "yyued.github.io/SVG-Skeleton",
   "svr": "kikobeats.github.io/svr",
   "sweetalert": "t4t5.github.io/sweetalert",
   "switchit": "dongryphon.github.io/switchit",
