@@ -252,6 +252,7 @@ var cnames_active = {
   "delegacias-fortaleza": "juliosampaio.github.io/delegacias-fortaleza", // noCF? (don´t add this in a new PR)
   "denisvieira": "fromdenisvieira.github.io", // noCF? (don´t add this in a new PR)
   "deputy": "ry4nolson.github.io/Deputy", // noCF? (don´t add this in a new PR)
+  "detector": "blackmirror1980.github.io/detector-js",
   "detect-resize": "noderaider.github.io/detect-resize", // noCF? (don´t add this in a new PR)
   "devlog": "cdrrazan.github.io/devlog.js.org", .
   "deterministic": "nodeguy.github.io/Deterministic.js",
