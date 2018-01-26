@@ -481,7 +481,7 @@ var cnames_active = {
   "jparticles": "jparticles.github.io/Documentation",
   "jsessentials": "chetanraj.github.io/jsessentials",
   "jsnippet": "JesseEisen.github.io/snippets", // noCF
-  "jsonuri": "jsonuri.github.io/jsonuri",
+  "jsonuri": "aligay.github.io/jsonuri",
   "json-schema-faker": "json-schema-faker.github.io/website-jsf", // noCF? (don´t add this in a new PR)
   "juancarlosqr": "juancarlosqr.github.io", // noCF? (don´t add this in a new PR)
   "julien": "julien.github.io", // noCF? (don´t add this in a new PR)
