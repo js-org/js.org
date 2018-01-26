@@ -350,6 +350,7 @@ var cnames_active = {
   "firenze": "fahad19.github.io/firenze", // noCF? (don´t add this in a new PR)
   "fis": "fex-team.github.io/fis-site", // noCF? (don´t add this in a new PR)
   "five": "jackdcrawford.github.io/five",
+  "flavor": "blackmirror1980.github.io/flavor-js",
   "fld-grd": "mrksbnch.github.io/fld-grd",
   "flexmasonry": "kavanmevada.github.io/flex_masonry", // noCF
   "flowchart": "adrai.github.io/flowchart.js", // noCF? (don´t add this in a new PR)
