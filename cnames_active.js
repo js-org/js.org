@@ -1007,6 +1007,7 @@ var cnames_active = {
   "thea": "idokutela.github.io/thea",
   "thegrid": "antoniandre.github.io/grid",
   "themoviedb": "chrisenytc.github.io/themoviedb", // noCF? (don´t add this in a new PR)
+  "theorem": "arguiot.github.io/TheoremJS",
   "thundercats": "thundercatsjs.github.io/thundercats", // noCF? (don´t add this in a new PR)
   "timeout": "anshuman-verma.github.io/setTimeout",
   "timerizer": "callumacrae.github.io/timerizerJS", // noCF? (don´t add this in a new PR)
