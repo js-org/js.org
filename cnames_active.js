@@ -453,6 +453,7 @@ var cnames_active = {
   "instabousing": "jlbousing.github.io/instaBousing",
   "invoicing": "vahe.github.io/InvoicingJs",
   "iostream": "pantheonsh.github.io/iostream",
+  "ip": "mcdnf.com", // noCF? (don´t add this in a new PR)
   "ip-address": "beaugunderson.github.io/ip-address", // noCF? (don´t add this in a new PR)
   "is": "arasatasaygin.github.io/is.js", // noCF? (don´t add this in a new PR)
   "ishan": "ishanthukral.github.io/ishan.js", // noCF? (don´t add this in a new PR)
@@ -574,6 +575,7 @@ var cnames_active = {
   "maxnachlinger": "maxnachlinger.github.io", // noCF? (don´t add this in a new PR)
   "maxtracking": "maxtracking.github.io", // noCF? (don´t add this in a new PR)
   "mc": "magicarbon.github.io/mc", // noCF? (don´t add this in a new PR)
+  "mc": "mcdnf.com",
   "mde": "lukehorvat.github.io/mde-soundboard",
   "mechan": "dusterthefirst.github.io/mechan.js",
   "medan": "medan-js.github.io", // noCF
@@ -1131,8 +1133,7 @@ var cnames_active = {
   "zeit": "vinhpz.github.io",
   "zodiac": "indus.github.io/Zodiac", // noCF? (don´t add this in a new PR)
   "zombie": "assaf.github.io/zombie", // noCF? (don´t add this in a new PR)
-  "zp": "tilda.ws",
-  "mc": "mcdnf.com"
+  "zp": "tilda.ws"
   /*
   * please don"t add your subdomain records down here!
   * insert them in alphabetical order to help reduce merge conflicts.
