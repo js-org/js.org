@@ -476,6 +476,7 @@ var cnames_active = {
   "jet": "alexanderbartels.github.io/jet-website",
   "jets": "nexts.github.io/Jets.js",
   "jinya": "chenjinya.github.io",
+  "jl":"jianglong1992.github.io",
   "jjlc": "k-yak.github.io/JJLC", // noCF? (don´t add this in a new PR)
   "jogja": "jogjajs.github.io", // noCF
   "josep": "warlock.github.io",
@@ -1099,7 +1100,7 @@ var cnames_active = {
   "warrior": "warriorjs.github.io",
   "watch": "ducin.github.io/watchjs.org", // noCF? (don´t add this in a new PR)
   "wayou": "wayou.github.io", // noCF? (don´t add this in a new PR)
-  "wdd": "jianglong1992.github.io",
+  "wdd": "wangduanduan.github.io",
   "weaver": "maxkfranz.github.io/weaver", // noCF? (don´t add this in a new PR)
   "webassembly": "xtuc.github.io/js-webassembly-interpreter"
   "webpack": "webpack.github.io/webpack.js.org",
