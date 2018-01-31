@@ -408,6 +408,7 @@ var cnames_active = {
   "guuibayer": "guuibayer.github.io", // noCF? (don´t add this in a new PR)
   "gyps": "huijari.github.io/Gyps",
   "gyre": "wridder.github.io/GyreJS", // noCF? (don´t add this in a new PR)
+  "gyx": "yourtion.github.io/gyx.js.org",
   "h": "makenowjust.github.io/h.js",
   "hack": "hack.netlify.com",
   "halil": "hibrahimsafak.github.io", // noCF? (don´t add this in a new PR)
