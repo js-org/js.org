@@ -449,6 +449,7 @@ var cnames_active = {
   "infinite-tree": "cheton.github.io/infinite-tree",
   "initial-wu": "initial-wu.github.io",
   "inline-style-prefixer": "rofrischmann.github.io/inline-style-prefixer",
+  "injectify": "injectify.github.io",
   "inscriptum": "sumbad.github.io/inscriptum",
   "inset": "patlillis.github.io/inset.js",
   "instabousing": "jlbousing.github.io/instaBousing",
