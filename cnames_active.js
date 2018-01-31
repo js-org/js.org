@@ -519,6 +519,7 @@ var cnames_active = {
   "labelauty": "fntneves.github.io/jquery-labelauty", // noCF? (don´t add this in a new PR)
   "lad": "ladjs.github.io/lad",
   "lambda": "lambdajs.github.io", // noCF? (don´t add this in a new PR)
+  "lance": "lancepioch.com",
   "languages": "rsamaium.github.io/Languages",
   "lasers": "lukehorvat.github.io/need-more-lasers",
   "lass": "lassjs.github.io/lass",
