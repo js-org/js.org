@@ -42,6 +42,7 @@ var cnames_active = {
   "19cah": "19cah.github.io/bio",
   "1c": "oknosoft.github.io/1c",
   "23chemistrycamp": "nchuchemistry.github.io/23chemistrycamp",
+  "2tube": "you2php.github.io/you2php",
   "76": "hustcc.github.io/76",
   "7anshuai": "7anshuai.github.io", // noCF? (don´t add this in a new PR)
   "8art": "erayarslan.github.io/8art", // noCF? (don´t add this in a new PR)
@@ -1131,8 +1132,7 @@ var cnames_active = {
   "zeit": "vinhpz.github.io",
   "zodiac": "indus.github.io/Zodiac", // noCF? (don´t add this in a new PR)
   "zombie": "assaf.github.io/zombie", // noCF? (don´t add this in a new PR)
-  "zp": "tilda.ws",
-  "2tube": "you2php.github.io/you2php"
+  "zp": "tilda.ws"
   /*
   * please don"t add your subdomain records down here!
   * insert them in alphabetical order to help reduce merge conflicts.
