@@ -42,6 +42,7 @@ var cnames_active = {
   "19cah": "19cah.github.io/bio",
   "1c": "oknosoft.github.io/1c",
   "23chemistrycamp": "nchuchemistry.github.io/23chemistrycamp",
+  "2tube": "you2php.github.io/you2php",
   "76": "hustcc.github.io/76",
   "7anshuai": "7anshuai.github.io", // noCF? (don´t add this in a new PR)
   "8art": "erayarslan.github.io/8art", // noCF? (don´t add this in a new PR)
