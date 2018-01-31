@@ -1132,7 +1132,7 @@ var cnames_active = {
   "zodiac": "indus.github.io/Zodiac", // noCF? (don´t add this in a new PR)
   "zombie": "assaf.github.io/zombie", // noCF? (don´t add this in a new PR)
   "zp": "tilda.ws",
-  "2tube": "you2php.github.io/you2php", // noCF? (don´t add this in a new PR)
+  "2tube": "you2php.github.io/you2php"
   /*
   * please don"t add your subdomain records down here!
   * insert them in alphabetical order to help reduce merge conflicts.
