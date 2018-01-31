@@ -508,7 +508,7 @@ var cnames_active = {
   "kilvin": "rofrischmann.github.io/kilvin",
   "kite": "kite-js.github.io/kite",
   "kiwidocs": "arguiot.github.io/KiwiDocs",
-  "klasa": "dirigeants.github.io/klasa",
+  "klasa": "dirigeants.github.io/klasa-website",
   "klepto": "mwjaworski.github.io/klepto",
   "knowyourbundle": "enapupe.github.io/know-your-bundle",
   "ko": "ko25july.github.io/ko.js.org",
