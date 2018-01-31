@@ -1015,6 +1015,7 @@ var cnames_active = {
   "thundercats": "thundercatsjs.github.io/thundercats", // noCF? (don´t add this in a new PR)
   "timeout": "anshuman-verma.github.io/setTimeout",
   "timerizer": "callumacrae.github.io/timerizerJS", // noCF? (don´t add this in a new PR)
+  "tina": "tinajs.github.io/tina",
   "tint": "tintjs.github.io", // noCF? (don´t add this in a new PR)
   "tinylinux": "e8johan.github.io/tiny-js", // noCF? (don´t add this in a new PR)
   "tixol": "vcxiz.github.io/tixol",
