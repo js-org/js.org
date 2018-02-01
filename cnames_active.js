@@ -959,6 +959,7 @@ var cnames_active = {
   "stats": "js-org.github.io/stats.js.org",
   "status.diamond": "diamondpkg.github.io/status", // noCF? (don´t add this in a new PR)
   "stego": "zeruniverse.github.io/CryptoStego", // noCF? (don´t add this in a new PR)
+  "steemsites": "yhozen.github.io/steemsites",
   "stepan": "stevermeister.github.io", // noCF? (don´t add this in a new PR)
   "stephenmccall": "stephenmccall.github.io", // noCF? (don´t add this in a new PR)
   "steven": "stpeng.github.io",
