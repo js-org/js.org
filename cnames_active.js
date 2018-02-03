@@ -1013,6 +1013,7 @@ var cnames_active = {
   "terminal": "gottox.github.io/terminal.js", // noCF? (don´t add this in a new PR)
   "textillate": "jschr.github.io/textillate", // noCF? (don´t add this in a new PR)
   "texy": "egoist.github.io/texy",
+  "thatonetqnk": "thatonetqnk.github.io/newGit"
   "thea": "idokutela.github.io/thea",
   "thegrid": "antoniandre.github.io/grid",
   "themoviedb": "chrisenytc.github.io/themoviedb", // noCF? (don´t add this in a new PR)
