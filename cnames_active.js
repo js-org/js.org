@@ -1113,6 +1113,7 @@ var cnames_active = {
   "webassembly": "xtuc.github.io/js-webassembly-interpreter"
   "webpack": "webpack.github.io/webpack.js.org",
   "weekly": "xdimh.github.io/weekly",
+  "whiteboard": "yhozen.github.io/whiteboard",
   "wiki": "requarks.github.io/wiki-site",
   "wildfire": "cheng-kang.github.io/wildfire",
   "within": "eric-brechemier.github.io/within", // noCF? (don´t add this in a new PR)
