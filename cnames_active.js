@@ -556,6 +556,7 @@ var cnames_active = {
   "lostyle": "rtsao.github.io/lostyle",
   "lribeiro": "lmribeiro.github.io",
   "ls": "links-js.github.io",
+  "luxaura": "luxaurajs.netlify.com", //noCF
   "lychee": "Artificial-Engineering.github.io/lycheeJS-website",
   "lwd": "dusterthefirst.github.io/Login-With-Discord"
   "m8bot": "mapreiff.github.io/m8-bot-site",
