@@ -836,6 +836,7 @@ var cnames_active = {
   "redux": "reactjs.github.io/redux",
   "redux-actions": "vinnymac.gitbooks.io/redux-actions",
   "redux-data-structures": "adrienjt.github.io/redux-data-structures",
+  "redux-loop": "redux-loop.github.io/redux-loop",
   "redux-minimal": "catalin-luntraru.github.io/redux-minimal",
   "redux-observable": "redux-observable.github.io/redux-observable",
   "redux-observable-cn": "rxjs-cn.github.io/redux-observable-cn",
