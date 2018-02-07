@@ -437,6 +437,7 @@ var cnames_active = {
   "hyperapp": "hyperapp.github.io",
   "hyperform": "hyperform.github.io",
   "i18n4v": "shibukawa.github.io/i18n4v",
+  "iagrib": "iagrib.github.io",
   "icecast": "jucrouzet.github.io/icecast.js",
   "ienumerable": "mbasso.github.io/ienumerable",
   "iffe": "iffe-team.github.io",
