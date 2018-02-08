@@ -1140,6 +1140,7 @@ var cnames_active = {
   "yf": "yafey.coding.me",
   "youtim": "mortonfox.github.io/YouTim", // noCF? (don´t add this in a new PR)
   "youtube-box": "lucasmonteverde.github.io/youtube-box", // noCF? (don´t add this in a new PR)
+  "yt": "tangge1119.github.io",
   "yusril": "yusrilhs.github.io", // noCF
   "zanyuyu": "zanseven007.github.io/resume", // noCF
   "zaporizhzhia": "zaporizhzhiajs.github.io",
