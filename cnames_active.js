@@ -94,6 +94,7 @@ var cnames_active = {
   "arime": "ninbryan.github.io/arime", // noCF? (don´t add this in a new PR)
   "artery": "arteryjs.github.io/gh-pages", // noCF? (don´t add this in a new PR)
   "ass": "weizhenye.github.io/ASS",
+  "ast": "kindy.github.io/ast",
   "astral": "espinielli.github.io/astraljs", // noCF? (don´t add this in a new PR)
   "astrobench": "kupriyanenko.github.io/astrobench", // noCF? (don´t add this in a new PR)
   "astx-redux-util": "kevinast.github.io/astx-redux-util",
