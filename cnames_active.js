@@ -36,8 +36,7 @@
  */
 
 var cnames_active = {
-  "": "js-org.github.io",
-  "ttgprotect": "ttgprotect.github.io/index.html"
+  "": "js-org.github.io"
   "100dayz": "deadcoder0904.github.io/100dayz",
   "101": "7anshuai.github.io/js101", // noCF? (don´t add this in a new PR)
   "19cah": "19cah.github.io/bio",
@@ -1053,6 +1052,7 @@ var cnames_active = {
   "ts-react-boilerplate": "lapanti.github.io/ts-react-boilerplate",
   "ts2jsdoc": "spatools.github.io/ts2jsdoc", // noCF? (don´t add this in a new PR)
   "tsfp": "zhenwenc.github.io/tsfp", // noCF? (don´t add this in a new PR)
+  "ttgprotect": "ttgprotect.github.io",
   "turbo": "turbo.github.io",
   "tux": "tux.gitbooks.io/docs",
   "tweed": "tweedjs.github.io",
