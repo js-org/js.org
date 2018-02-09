@@ -682,6 +682,7 @@ var cnames_active = {
   "nite": "manvalls.github.io/nite",
   "nktx": "nktx.github.io", // noCF? (don´t add this in a new PR)
   "nod": "diegohaz.github.io/nod",
+  "noderize": "cretezy.github.io/noderize",
   "node-atlas": "haeresis.github.io/NodeAtlas",
   "node-browser_process": "caspervonb.github.io/node-browser_process", // noCF? (don´t add this in a new PR)
   "nodegarden": "pakastin.github.io/nodegarden",
