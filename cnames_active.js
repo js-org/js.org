@@ -786,6 +786,7 @@ var cnames_active = {
   "pristine": "sha256.github.io/Pristine", //noCF
   "profanity-finder": "gautamkrishnar.github.io/profanity-finder.js",
   "proteic": "proteus-h2020.github.io/proteic",
+  "proton-native": "kusti8.github.io/proton-native",
   "pure": "fengzilong.github.io/pure",
   "pwa-cookbook": "sylvainpolletvillard.github.io/pwa-cookbook",
   "qs": "kirjs.github.io/qs.js", // noCF? (don´t add this in a new PR)
