@@ -357,6 +357,7 @@ var cnames_active = {
   "five": "jackdcrawford.github.io/five",
   "flavor": "blackmirror1980.github.io/flavor-js",
   "fld-grd": "mrksbnch.github.io/fld-grd",
+  "flexbase": "zwhitchcox.github.io/flexbase",
   "flexmasonry": "kavanmevada.github.io/flex_masonry", // noCF
   "flowchart": "adrai.github.io/flowchart.js", // noCF? (don´t add this in a new PR)
   "flowcon": "oknosoft.github.io/flowcon",
