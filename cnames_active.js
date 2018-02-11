@@ -800,6 +800,7 @@ var cnames_active = {
   "quiz-revamped": "abhisekp.github.io/Quiz-Revamped", // noCF? (don´t add this in a new PR)
   "ractive": "ractivejs.github.io",
   "rad": "rapid-application-development-js.github.io/RAD.JS", // noCF? (don´t add this in a new PR)
+  "radi": "radi-js.github.io/radi",
   "radial": "ckgrafico.github.io/radial.js", // noCF? (don´t add this in a new PR)
   "rafaelmangolin": "rafaelMangolin.github.io", // noCF? (don´t add this in a new PR)
   "rag": "michaellyons.github.io/react-amazon-gallery", // noCF? (don´t add this in a new PR)
