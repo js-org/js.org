@@ -70,6 +70,7 @@ var cnames_active = {
   "almin": "almin.github.io",
   "alt": "goatslacker.github.io/alt", // noCF? (don´t add this in a new PR)
   "alveron": "rofrischmann.github.io/alveron",
+  "amaple": "amjs-team.github.io/amaple",
   "andre": "anc.github.io/site",
   "anenth": "anenth.github.io", // noCF? (don´t add this in a new PR)
   "anggao": "anggao.github.io", // noCF? (don´t add this in a new PR)
@@ -1164,8 +1165,7 @@ var cnames_active = {
   "zeit": "vinhpz.github.io",
   "zodiac": "indus.github.io/Zodiac", // noCF? (don´t add this in a new PR)
   "zombie": "assaf.github.io/zombie", // noCF? (don´t add this in a new PR)
-  "zp": "tilda.ws",
-  "amaple": "amjs-team.github.io/amaple"
+  "zp": "tilda.ws"
   /*
   * please don"t add your subdomain records down here!
   * insert them in alphabetical order to help reduce merge conflicts.
