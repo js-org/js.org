@@ -579,6 +579,7 @@ var cnames_active = {
   "majestic": "moityjs.github.io/majestic",
   "maker": "microsoft.github.io/maker.js",
   "maki": "makixx.github.io",
+  "mappa": "cvalenzuela.github.io/Mappa",
   "marble": "jsguy.github.io/marble",
   "marcosflorencio": "marcosflorencio.github.io",
   "mare": "muzuiget.github.io/mare-site",
