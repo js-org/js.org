@@ -856,7 +856,7 @@ var cnames_active = {
   "redis": "noderedis.github.io/node_redis", // noCF? (don´t add this in a new PR)
   "redom": "redom.github.io/redom",
   "reduce": "reducejs.github.io", // noCF? (don´t add this in a new PR)
-  "redux": "reactjs.github.io/redux",
+  "redux": "hosting.gitbook.com", // noCF
   "redux-actions": "vinnymac.gitbooks.io/redux-actions",
   "redux-data-structures": "adrienjt.github.io/redux-data-structures",
   "redux-loop": "redux-loop.github.io/redux-loop",
