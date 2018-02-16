@@ -407,6 +407,7 @@ var cnames_active = {
   "gotanda": "gotandajs.github.io",
   "gramps": "gramps-graphql.github.io/gramps",
   "graphics2d": "keyten.github.io/Graphics2D", // noCF? (don´t add this in a new PR)
+  "graphstore": "besync.github.io/graphstore",
   "grapnel": "engineeringmode.github.io/Grapnel.js", // noCF? (don´t add this in a new PR)
   "greg": "gregorydgarcia.github.io", // noCF? (don´t add this in a new PR)
   "gregory": "f3z0.github.io",
