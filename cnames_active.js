@@ -176,6 +176,7 @@ var cnames_active = {
   "calendarios": "helpdev.github.io/Calendarios", // noCF? (don´t add this in a new PR)
   "candy": "candy02058912.github.io/portfolio",
   "candyland": "candyland-js.github.io/candyland",
+  "candyref": "moriczgergo.github.io/candy/",
   "cans": "djyde.github.io/cans", // noCF
   "canvas": "anshuman-verma.github.io/canvas",
   "capital": "capitaljs.github.io/capitaljs",
