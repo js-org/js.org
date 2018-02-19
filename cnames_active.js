@@ -869,7 +869,7 @@ var cnames_active = {
   "redux-minimal": "catalin-luntraru.github.io/redux-minimal",
   "redux-observable": "redux-observable.github.io/redux-observable",
   "redux-observable-cn": "rxjs-cn.github.io/redux-observable-cn",
-  "redux-resource": "jmeas.github.io/redux-resource",
+  "redux-resource": "jamesplease.github.io/redux-resource",
   "redux-saga": "redux-saga.github.io/redux-saga",
   "redux-saga-in-chinese": "superRaytin.github.io/redux-saga-in-chinese",
   "redux-tiles": "bloomca.github.io/redux-tiles",
