@@ -226,7 +226,7 @@ var cnames_active = {
   "colombo": "cmbjs.github.io/CMBJS",
   "comixngn": "seun40.github.io/comix-ngn", // noCF? (don´t add this in a new PR)
   "commandfox": "commandfox.github.io/mc-tools", // noCF? (don´t add this in a new PR)
-  "community.luxaura": "vanillify.freeflarum.com", //noCF
+  "community.luxaura": "trikel.paradox.cloud", //noCF
   "community.os": "js.bydiscourse.com", // noCF? (don´t add this in a new PR)
   "concursos": "mteyss.github.io/concursos", // noCF? (don´t add this in a new PR)
   "construyendotrabajo": "mteyss.github.io/construyendotrabajo", // noCF? (don´t add this in a new PR)
