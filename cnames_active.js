@@ -1147,6 +1147,7 @@ var cnames_active = {
   "webassembly": "xtuc.github.io/js-webassembly-interpreter",
   "webpack": "webpack.github.io/webpack.js.org",
   "weekly": "xdimh.github.io/weekly",
+  "wedgetail": "wedgetail.netlify.com",
   "whiteboard": "yhozen.github.io/whiteboard",
   "wiki": "requarks.github.io/wiki-site",
   "wildfire": "cheng-kang.github.io/wildfire",
