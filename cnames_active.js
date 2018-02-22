@@ -870,6 +870,7 @@ var cnames_active = {
   "redux-data-structures": "adrienjt.github.io/redux-data-structures",
   "redux-loop": "redux-loop.github.io/redux-loop",
   "redux-minimal": "catalin-luntraru.github.io/redux-minimal",
+  "redux-nakshatra": "agenthunt.github.io/redux-nakshatra",
   "redux-observable": "redux-observable.github.io/redux-observable",
   "redux-observable-cn": "rxjs-cn.github.io/redux-observable-cn",
   "redux-resource": "jamesplease.github.io/redux-resource",
