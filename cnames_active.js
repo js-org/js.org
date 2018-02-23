@@ -1134,7 +1134,7 @@ var cnames_active = {
   "vuelog": "myst729.github.io/Vuelog",
   "vuikit": "vuikit.github.io",
   "vuongdothanhhuy": "vuongdothanhhuy.github.io", // noCF? (don´t add this in a new PR)
-  "vxv": "vxv.netlify.com", // https://github.com/herber/vxv
+  "vxv": "vxv.netlify.com",
   "wanna": "mkermani144.github.io/wanna",
   "wargamer": "hkwu.github.io/wargamer",
   "warnbot": "darkcoding-js.github.io/WarnBot",
