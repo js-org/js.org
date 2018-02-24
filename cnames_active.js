@@ -649,6 +649,7 @@ var cnames_active = {
   "mmcq": "nikola.github.io/MMCQ", // noCF? (don´t add this in a new PR)
   "mobx": "mobxjs.github.io/mobx",
   "mockjs-lite": "52cik.github.io/mockjs-lite", // noCF
+  "mockyeah": "mockyeah.github.io/mockyeah", //noCF
   "modalizer": "dungo.github.io/modalizer", // noCF? (don´t add this in a new PR)
   "modbot": "modbotjs.github.io",
   "modofun": "modofunjs.github.io/modofun",
