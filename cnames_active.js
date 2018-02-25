@@ -164,6 +164,7 @@ var cnames_active = {
   "brexit-regrets": "adebounam.github.io/brexit-regrets", // noCF? (don´t add this in a new PR)
   "bricklayer": "ademilter.github.io/bricklayer", // noCF? (don´t add this in a new PR)
   "bris": "brisjs.github.io",
+  "browserless": "kikobeats.github.io/browserless",
   "brum": "brumjs.github.io", // noCF? (don´t add this in a new PR)
   "btgprice": "beeyev.github.io/btgprice.org",
   "bunyan-fork": "cchamberlain.github.io/bunyan-fork", // noCF? (don´t add this in a new PR)
