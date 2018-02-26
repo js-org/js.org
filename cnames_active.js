@@ -1152,7 +1152,7 @@ var cnames_active = {
   "wayou": "wayou.github.io", // noCF? (don´t add this in a new PR)
   "wdd": "wangduanduan.github.io",
   "weaver": "maxkfranz.github.io/weaver", // noCF? (don´t add this in a new PR)
-  "webassembly": "xtuc.github.io/js-webassembly-interpreter",
+  "webassembly": "xtuc.github.io/webassemblyjs",
   "webpack": "webpack.github.io/webpack.js.org",
   "weekly": "xdimh.github.io/weekly",
   "wedgetail": "wedgetail.netlify.com",
