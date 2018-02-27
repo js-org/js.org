@@ -902,6 +902,7 @@ var cnames_active = {
   "risingstars2016": "michaelrambeau.github.io/risingstars2016",
   "risingstars": "risingstars.netlify.com",
   "rivki": "mikqi.github.io",
+  "rize": "g-plane.github.io/rize",
   "rmodal": "zewish.github.io/rmodal.js",
   "rock": "w3core.github.io/RockJS",
   "rocket": "KevinOfNeu.github.io/rocket",
