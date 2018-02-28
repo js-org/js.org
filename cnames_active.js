@@ -818,6 +818,7 @@ var cnames_active = {
   "qs": "kirjs.github.io/qs.js", // noCF? (don´t add this in a new PR)
   "querybuilder": "mistic100.github.io/jQuery-QueryBuilder", // noCF? (don´t add this in a new PR)
   "question": "teamtofu.github.io/questionify",
+  "quickdb": "truexpixels.gitbooks.io/quickdb",
   "quiz-app": "odevlord.github.io/Quiz-App", // noCF? (don´t add this in a new PR)
   "quiz-revamped": "abhisekp.github.io/Quiz-Revamped", // noCF? (don´t add this in a new PR)
   "ractive": "ractivejs.github.io",
