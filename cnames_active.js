@@ -396,6 +396,7 @@ var cnames_active = {
   "frzr": "pakastin.github.io/frzr",
   "fs-nextra": "bdistin.github.io/fs-nextra",
   "funbook": "egoist.github.io/funbook",
+  "funfuncs": "floffah.github.io/funfuncs",
   "fyi": "tobihrbr.github.io/fyi",
   "g": "nodebox.github.io/g.js",
   "gal": "galmail.github.io", // noCF? (don´t add this in a new PR)
