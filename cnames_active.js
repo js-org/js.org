@@ -237,7 +237,7 @@ var cnames_active = {
   "construyendotrabajo": "mteyss.github.io/construyendotrabajo", // noCF? (don´t add this in a new PR)
   "consultant": "jense5.github.io/consultant",
   "contextify": "abemedia.github.io/jquery-contextify", // noCF? (don´t add this in a new PR)
-  "coord": "itsacorn.github.io/jscoord"
+  "coord": "itsacorn.github.io/jscoord",
   "cordova-multiplatform-template": "ckgrafico.github.io/Cordova-Multiplatform-Template", // noCF? (don´t add this in a new PR)
   "cork": "davej.github.io/CorkJS",
   "cote": "dashersw.github.io/cote", // noCF? (don´t add this in a new PR)
@@ -352,6 +352,7 @@ var cnames_active = {
   "eventstore": "adrai.github.io/node-eventstore", // noCF? (don´t add this in a new PR)
   "evolutions": "anshumanv.github.io/evolutions-webapp",
   "exbars": "youssefkababe.github.io/exbars", // noCF? (don´t add this in a new PR)
+  "exiftool-vendored": "mceachen.github.io/exiftool-vendored.js",
   "express-saml2": "tngan.github.io/express-saml2",
   "extenso": "theuves.github.io/extenso.js.org",
   "extraction": "rse.github.io/extraction", // noCF? (don´t add this in a new PR)
@@ -629,7 +630,7 @@ var cnames_active = {
   "meiosis": "foxdonut.github.io/meiosis", // noCF? (don´t add this in a new PR)
   "melies-hugo": "cristinafsanz.github.io/melies-hugo",
   "melody": "trivago.github.io/melody-web",
-  "memento": "jeanfortheweb.gitbooks.io/memento"
+  "memento": "jeanfortheweb.gitbooks.io/memento",
   "mern": "IamMohaiminul.GitHub.io/MERNjs",
   "mesh": "crcn.github.io/mesh.js.org", // noCF? (don´t add this in a new PR)
   "metadata": "oknosoft.github.io/metadata.js",
