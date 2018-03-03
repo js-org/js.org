@@ -281,6 +281,7 @@ var cnames_active = {
   "dinesh": "dineshondev.github.io/dinesh", // noCF? (don´t add this in a new PR)
   "dio": "thysultan.github.io/dio.js",
   "discord": "discordjs.github.io/website",
+  "discunit": "megacode18.github.io/discunit.js"
   "display": "arguiot.github.io/DisplayJS",
   "distillery": "achannarasappa.github.io/distillery", // noCF? (don´t add this in a new PR)
   "distri": "flarp.github.io/Distri.js",
