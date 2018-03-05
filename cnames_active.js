@@ -1198,7 +1198,7 @@ var cnames_active = {
   "zaporizhzhia": "zaporizhzhiajs.github.io",
   "zazu": "zazujs.github.io", // noCF? (don´t add this in a new PR)
   "zeit": "vinhpz.github.io",
-  "zetaoyang": "zetaoyang.github.io",
+  "zty": "zetaoyang.github.io",
   "zodiac": "indus.github.io/Zodiac", // noCF? (don´t add this in a new PR)
   "zombie": "assaf.github.io/zombie", // noCF? (don´t add this in a new PR)
   "zp": "tilda.ws"
