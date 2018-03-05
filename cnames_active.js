@@ -818,7 +818,7 @@ var cnames_active = {
   "post-type-discovery": "twozeroone.github.io/post-type-discovery",
   "prettylog": "moosecoop.github.io/PrettyLog/",
   "pristine": "sha256.github.io/Pristine", //noCF
-  "producify": "jesobreira.github.io/producify", // noCF?
+  "producify": "jesobreira.github.io/producify",
   "profanity-finder": "gautamkrishnar.github.io/profanity-finder.js",
   "proteic": "proteus-h2020.github.io/proteic",
   "proton-native": "kusti8.github.io/proton-native",
