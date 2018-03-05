@@ -126,7 +126,7 @@ var cnames_active = {
   "barbagrigia": "barbagrigia.github.io",
   "barcelona": "barcelona-js.github.io/website", // noCF? (don´t add this in a new PR)
   "base64": "licshee.github.io/base64",
-  "bash": "bashjs.github.io", // noCF? (don´t add this in a new PR)
+  "bash": "bashjs.github.io",
   "basicgame": "basicgame.github.io/basicGame.js", // noCF? (don´t add this in a new PR)
   "bastion": "snkrsnkampa.github.io/Bastion-Site",
   "batch-cluster": "mceachen.github.io/batch-cluster.js",
