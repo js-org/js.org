@@ -1141,6 +1141,7 @@ var cnames_active = {
   "vinimdocarmo": "vinimdocarmo.github.com", // noCF? (don´t add this in a new PR)
   "viperhtml": "viperhtml.github.io",
   "visualnovel": "selcher.github.io/visualnoveljs", // noCF? (don´t add this in a new PR)
+  "vitzy": "zetaoyang.github.io",
   "vk-x": "vk-x.github.io",
   "vncz": "xvincentx.github.io/vncz",
   "voloshins": "voloshins.github.io", // noCF? (don´t add this in a new PR)
