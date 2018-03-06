@@ -269,7 +269,7 @@ var cnames_active = {
   "deck-of-cards": "pakastin.github.io/deck-of-cards",
   "deepu": "deepu105.github.io",
   "delegacias-fortaleza": "juliosampaio.github.io/delegacias-fortaleza", // noCF? (don´t add this in a new PR)
-  "delet": "https://ds-development.github.io/delet",
+  "delet": "ds-development.github.io/delet",
   "denisvieira": "fromdenisvieira.github.io", // noCF? (don´t add this in a new PR)
   "deputy": "ry4nolson.github.io/Deputy", // noCF? (don´t add this in a new PR)
   "detector": "blackmirror1980.github.io/detector-js",
