@@ -170,6 +170,7 @@ var cnames_active = {
   "browserless": "kikobeats.github.io/browserless",
   "brum": "brumjs.github.io", // noCF? (don´t add this in a new PR)
   "btgprice": "beeyev.github.io/btgprice.org",
+  "bunjil":"bunjil.netlify.com",
   "bunyan-fork": "cchamberlain.github.io/bunyan-fork", // noCF? (don´t add this in a new PR)
   "bunyan-pmx": "cchamberlain.github.io/bunyan-pmx", // noCF? (don´t add this in a new PR)
   "bunyan-serializer": "cchamberlain.github.io/bunyan-serializer", // noCF? (don´t add this in a new PR)
