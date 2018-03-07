@@ -988,6 +988,7 @@ var cnames_active = {
   "slides": "deadcoder0904.github.io/slides-official-website",
   "slidey": "thegreatrazz.github.io/slidey",
   "slim": "eavichay.github.io/slim.js",
+  "smartquotes": "kellym.github.io/smartquotes.js",
   "smoove": "abemedia.github.io/jquery-smoove",
   "sn0w": "greensn0w.github.io", // noCF? (don´t add this in a new PR)
   "snekfetch": "devsnek.github.io/snekfetch",
