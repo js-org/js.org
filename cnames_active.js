@@ -584,6 +584,7 @@ var cnames_active = {
   "lineup": "sgratzl.github.io/lineup.js.org",
   "lineupengine": "sgratzl.github.io/lineupengine.js.org",
   "linghucong": "jiji262.github.io",
+  "lipeixin": "li-peixin.github.io",
   "liveflow": "hasharray.github.io/liveflow.js",
   "localsync": "noderaider.github.io/localsync", // noCF? (don´t add this in a new PR)
   "lofitorrent": "deadblackclover.github.io/lofiTorrent",
