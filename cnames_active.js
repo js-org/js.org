@@ -806,6 +806,7 @@ var cnames_active = {
   "planetx": "planetxjs.github.io",
   "planisphere": "dai-shi.github.io/planisphere-site", // noCF? (don´t add this in a new PR)
   "platz": "fylipp.github.io/platz.js",
+  "plexr": "plexrbot.github.io",
   "pliers": "pliersjs.github.io", // noCF? (don´t add this in a new PR)
   "pnpm": "pnpm.github.io",
   "pocketessential": "pocketessential.github.io",
