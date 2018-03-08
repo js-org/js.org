@@ -657,7 +657,7 @@ var cnames_active = {
   "mininote": "htdt.github.io/mininote",
   "miny": "pablopunk.github.io/miny",
   "mis101bird": "mis101bird.github.io", // noCF? (don´t add this in a new PR)
-  "miscord": "bjornskjald.github.io/miscord", // noCF
+  "miscord": "bjornskjald.github.io/miscord",
   "mithril": "mithriljs.github.io/mithril.js",
   "mithril-ja": "shibukawa.github.io/mithril-ja", // noCF? (don´t add this in a new PR)
   "mmcq": "nikola.github.io/MMCQ", // noCF? (don´t add this in a new PR)
