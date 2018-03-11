@@ -390,6 +390,7 @@ var cnames_active = {
   "fluxoff": "kingscott.github.io/flux-off", // noCF? (don´t add this in a new PR)
   "flybook": "rhiokim.github.io/flybook",
   "fnx": "fnxjs.gitbooks.io/fnx-documentation",
+  "food": "teamtofu.github.io/foodweb",
   "form": "the94air.github.io/formjs",
   "formred": "zewish.github.io/formred",
   "fortune": "fortunejs.github.io/fortune", // noCF? (don´t add this in a new PR)
