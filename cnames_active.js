@@ -757,6 +757,7 @@ var cnames_active = {
   "onedesert": "onedesert.github.io", // noCF? (don´t add this in a new PR)
   "ongaku": "anshuman-verma.github.io/ongaku",
   "onlineth": "onlineth.github.io",
+  "openrecord": "philwaldmann.github.io/openrecord",
   "opentype": "nodebox.github.io/opentype.js",
   "os": "91.247.228.125", // noCF
   "oscillator": "lukehorvat.github.io/super-oscillator",
