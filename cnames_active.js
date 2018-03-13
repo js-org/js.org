@@ -612,6 +612,7 @@ var cnames_active = {
   "mare": "muzuiget.github.io/mare-site",
   "mark": "henry-luo.github.io/mark",
   "markdownify": "amitmerchant1990.github.io/electron-markdownify",
+  "marked": "markedjs.github.io/marked",
   "markmsmith": "markmsmith.github.io",
   "markvis-editor": "geekplux.github.io/markvis-editor",
   "markvis": "geekplux.github.io/markvis",
