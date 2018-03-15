@@ -1165,6 +1165,7 @@ var cnames_active = {
   "vue-multiselect": "shentao.github.io/vue-multiselect",
   "vue-roast": "kronicker.github.io/vue-roast",
   "vue-route-timeline": "disjfa.github.io/vue-route-timeline",
+  "vue-treeselect": "riophae.github.io/vue-treeselect",
   "vuejsindy": "vuejsindy.github.io",
   "vuelog": "myst729.github.io/Vuelog",
   "vuikit": "vuikit.github.io",
