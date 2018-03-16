@@ -866,6 +866,7 @@ var cnames_active = {
   "react-leaflet": "paullecam.github.io/react-leaflet",
   "react-move": "react-move.netlify.com",
   "react-native-floating-labels": "mayank-patel.github.io/react-native-floating-labels",
+  "react-observatory": "halfzebra.gitbooks.io/react-observatory",
   "react-pivottable": "plotly.github.io/react-pivottable",
   "react-responsive-carousel": "leandrowd.github.io/react-responsive-carousel", // noCF? (don´t add this in a new PR)
   "react-shared": "rvikmanis.github.io/react-shared", // noCF? (don´t add this in a new PR)
