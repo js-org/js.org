@@ -145,6 +145,7 @@ var cnames_active = {
   "blogpage": "zanseven007.github.io/blog-page", // noCF
   "bloomer": "algusdark.github.io/bloomer",
   "blotter": "bradley.github.io/Blotter",
+  "bob": "bhamblok.github.io",
   "bodybuilder": "danpaz.github.io/bodybuilder", // noCF? (don´t add this in a new PR)
   "boiler":"ro0t.github.com/Boiler",
   "bombsweeper": "pakastin.github.io/bombsweeper",
