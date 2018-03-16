@@ -971,6 +971,7 @@ var cnames_active = {
   "serginator": "serginator.github.io", // noCF? (don´t add this in a new PR)
   "serializer": "haircvt.github.io/serializerjs", // noCF? (don´t add this in a new PR)
   "service-mocker": "service-mocker.github.io/service-mocker",
+  "serviceberry": "bob-gray.github.io/serviceberry",
   "shaily": "shailysangwan.github.io",
   "shd": "pro-devel.github.io",
   "shedali": "shedali.github.io", // noCF? (don´t add this in a new PR)
