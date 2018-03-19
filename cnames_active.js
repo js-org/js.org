@@ -86,6 +86,7 @@ var cnames_active = {
   "ankithjoseph": "ankithjoseph.github.io",
   "annotate": "taitems.github.io/web-pdf-annotation", // noCF? (don´t add this in a new PR)
   "annoyingmouse": "annoyingmouse.github.io", // noCF? (don´t add this in a new PR)
+  "anthonyslas": "anthonyslas.github.io",
   "antwar": "antwarjs.github.io/antwar",
   "anukul": "anukul.github.io",
   "api-spec": "api-spec.github.io", // noCF? (don´t add this in a new PR)
