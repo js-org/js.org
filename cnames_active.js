@@ -1142,6 +1142,7 @@ var cnames_active = {
   "utscrooms": "sunakujira1.github.io/UTSCRooms",
   "uuid": "rumkin.github.io/uuid",
   "uvcharts": "imaginea.github.io/uvCharts", // noCF? (don´t add this in a new PR)
+  "v-charts": "elemefe.github.io/v-charts",
   "vaguilar": "vaguilar.github.io", // noCF? (don´t add this in a new PR)
   "valentin": "valentinvieriu.github.io", // noCF? (don´t add this in a new PR)
   "validator": "ppoffice.github.io/validator.js", // noCF? (don´t add this in a new PR)
@@ -1175,7 +1176,6 @@ var cnames_active = {
   "vuikit": "vuikit.github.io/vuikit.js.org",
   "vuongdothanhhuy": "vuongdothanhhuy.github.io", // noCF? (don´t add this in a new PR)
   "vxv": "vxv.netlify.com",
-  "v-charts": "elemefe.github.io/v-charts",
   "wanna": "mkermani144.github.io/wanna",
   "wargamer": "hkwu.github.io/wargamer",
   "warnbot": "darkcoding-js.github.io/WarnBot",
