@@ -1175,6 +1175,7 @@ var cnames_active = {
   "vuikit": "vuikit.github.io/vuikit.js.org",
   "vuongdothanhhuy": "vuongdothanhhuy.github.io", // noCF? (don´t add this in a new PR)
   "vxv": "vxv.netlify.com",
+  "v-charts": "elemefe.github.io/v-charts",
   "wanna": "mkermani144.github.io/wanna",
   "wargamer": "hkwu.github.io/wargamer",
   "warnbot": "darkcoding-js.github.io/WarnBot",
