@@ -189,6 +189,7 @@ var cnames_active = {
   "candyref": "moriczgergo.github.io/candy",
   "cans": "djyde.github.io/cans", // noCF
   "canvas": "anshuman-verma.github.io/canvas",
+  "canvasconstructor": "kyranet.github.io/canvasConstructor",
   "capital": "capitaljs.github.io/capitaljs",
   "capsid": "capsidjs.github.io/capsid",
   "capsule": "capsule-js-org.github.io/capsule",
