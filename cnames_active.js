@@ -114,7 +114,7 @@ var cnames_active = {
   "awal": "awalGarg.github.io", // noCF? (don´t add this in a new PR)
   "awesomefeed": "arojunior.github.io/awesome-feed",
   "awesomehub": "awesomehub.netlify.com",
-  "awk": "42ua.github.io/awk", // noCF? (don´t add this in a new PR)
+  "awk": "42ua.github.io/awk",
   "awoo": "awoojs.github.io/website",
   "azdanov": "azdanov.github.io",
   "backlog": "backlog-js.github.io/backlog.js.org", // noCF? (don´t add this in a new PR)
@@ -434,7 +434,7 @@ var cnames_active = {
   "grapnel": "engineeringmode.github.io/Grapnel.js", // noCF? (don´t add this in a new PR)
   "greg": "gregorydgarcia.github.io", // noCF? (don´t add this in a new PR)
   "gregory": "f3z0.github.io",
-  "grep": "42ua.github.io/grep", // noCF? (don´t add this in a new PR)
+  "grep": "42ua.github.io/grep",
   "gridiron": "noderaider.github.io/gridiron",
   "gridsplit": "assetinfo.github.io", // noCF? (don´t add this in a new PR)
   "gruft": "nikola.github.io/gruft", // noCF? (don´t add this in a new PR)
@@ -966,7 +966,7 @@ var cnames_active = {
   "sdk-design": "huei90.github.io/javascript-sdk-design", // noCF? (don´t add this in a new PR)
   "sean": "seancallinan.github.io", // noCF? (don´t add this in a new PR)
   "seatbelt": "seatbeltjs.github.io/seatbelt",
-  "sed": "42ua.github.io/sed", // noCF? (don´t add this in a new PR)
+  "sed": "42ua.github.io/sed",
   "seesaw": "cajogos.github.io/seesaw", // noCF? (don´t add this in a new PR)
   "segoe-mdl2-css": "ckgrafico.github.io/Segoe-mdl2-assets-css", // noCF? (don´t add this in a new PR)
   "select_io": "selaromi.github.io/select_io", // noCF? (don´t add this in a new PR)
