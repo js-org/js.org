@@ -178,6 +178,7 @@ var cnames_active = {
   "bunyan-serializer": "cchamberlain.github.io/bunyan-serializer", // noCF? (don´t add this in a new PR)
   "burst": "hugeen.github.io/burst", // noCF? (don´t add this in a new PR)
   "bustime": "agarzola.github.io/bustime", // noCF? (don´t add this in a new PR)
+  "buttermilk": "buttermilk.netlify.com",
   "c-3po": "c-3po-org.github.io/c-3po",
   "cable": "whatgoodisaroad.github.io/cablejs", // noCF? (don´t add this in a new PR)
   "caffeine": "ccrraaiigg.github.io/caffeine",
