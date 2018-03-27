@@ -250,6 +250,7 @@ var cnames_active = {
   "country": "growmies.github.io/countryjs", // noCF? (don´t add this in a new PR)
   "cplayer": "copay.github.io/cPlayer",
   "cqrs": "adrai.github.io/cqrs", // noCF? (don´t add this in a new PR)
+  "cr": "echosoar.github.io/cr",
   "cracked": "billorcutt.github.io/Cracked",
   "createrest": "atomixinteractions.github.io/createrest",
   "crownstudios": "razod.github.io/crownstudios",
