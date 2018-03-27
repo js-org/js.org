@@ -768,6 +768,7 @@ var cnames_active = {
   "onlineth": "onlineth.github.io",
   "openrecord": "philwaldmann.github.io/openrecord",
   "opentype": "nodebox.github.io/opentype.js",
+  "organizeapi": "https://zachary-murphy.gitbooks.io/organizeapi-docs",
   "os": "91.247.228.125", // noCF
   "oscillator": "lukehorvat.github.io/super-oscillator",
   "osom": "kikobeats.github.io/osom",
