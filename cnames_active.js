@@ -559,6 +559,7 @@ var cnames_active = {
   "kite": "kite-js.github.io/kite",
   "kiwidocs": "arguiot.github.io/KiwiDocs",
   "klasa": "dirigeants.github.io/klasa-website",
+  "klasy-eris": "motiontheking.github.io/klasy-eris"
   "klepto": "mwjaworski.github.io/klepto",
   "knowyourbundle": "enapupe.github.io/know-your-bundle",
   "ko": "ko25july.github.io/ko.js.org",
