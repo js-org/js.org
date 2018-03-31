@@ -547,6 +547,7 @@ var cnames_active = {
   "jwt-autorefresh": "cchamberlain.github.io/jwt-autorefresh", // noCF? (don´t add this in a new PR)
   "kainy": "kainy.github.io/js.org",
   "kalm": "fed135.github.io/kalm.github.io", // noCF? (don´t add this in a new PR)
+  "karolina-and-ryan": "mockturtlesoup.github.io/karolina-and-ryan", 
   "karl": "karlcoelho.github.io/portfolio", // noCF? (don´t add this in a new PR)
   "karlbateman": "karlbateman.github.io/karlbateman.js.org",
   "kawaii": "moemoesoft.github.io/kawaii", //noCF
