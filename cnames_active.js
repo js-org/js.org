@@ -1045,6 +1045,7 @@ var cnames_active = {
   "stabs": "wnda.github.io/stabs",
   "stack": "stackgamedevelopment.github.io",
   "stahlstadt": "dist1.storyblok.com",
+  "stampit": "stampit-org.gitbooks.io/docs",
   "starratio": "starratio.github.io/star-ratio", // noCF
   "state-machine-cat": "sverweij.github.io/state-machine-cat",
   "staticinstance": "staticinstance.github.io", // noCF? (don´t add this in a new PR)
