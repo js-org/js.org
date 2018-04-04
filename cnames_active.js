@@ -456,6 +456,7 @@ var cnames_active = {
   "hack": "hack.netlify.com",
   "halil": "hibrahimsafak.github.io", // noCF? (don´t add this in a new PR)
   "haloapi": "derflatulator.github.io/haloapi.js", // noCF? (don´t add this in a new PR)
+  "hapi-sol": "yonjah.github.io/hapi-sol",
   "happy": "e24.github.io/happy", // noCF? (don´t add this in a new PR)
   "hask": "janbiasi.github.io/hask", // noCF? (don´t add this in a new PR)
   "hay": "hayjs.github.io/hay.js.org",
@@ -865,6 +866,7 @@ var cnames_active = {
   "rag": "michaellyons.github.io/react-amazon-gallery", // noCF? (don´t add this in a new PR)
   "rahul": "rahulsukla.github.io/rahul", // noCF? (don´t add this in a new PR)
   "ralmaz": "ralmaz.github.io",
+  "ralphi": "yonjah.github.io/ralphi",
   "rangeslider": "andreruffert.github.io/rangeslider.js", // noCF? (don´t add this in a new PR)
   "rate-limiter-api": "abhisekp.github.io/rate-limiter-api",
   "razod": "razod.github.io/razod",
