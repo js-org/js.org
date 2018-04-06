@@ -1190,6 +1190,7 @@ var cnames_active = {
   "voxelcss": "jhwohlgemuth.github.io/voxelcss",
   "vscode-apielements": "xvincentx.github.io/vscode-apielements",
   "vue-aplayer": "sevenoutman.github.io/vue-aplayer",
+  "vue-core": "triotech-fr.github.io/vue-core"
   "vue-land": "egoist.github.io/vue-land",
   "vue-mdc": "na-west1.surge.sh",
   "vue-multiselect": "shentao.github.io/vue-multiselect",
