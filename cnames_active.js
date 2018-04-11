@@ -412,7 +412,6 @@ var cnames_active = {
   "frzr": "pakastin.github.io/frzr",
   "fs-nextra": "bdistin.github.io/fs-nextra",
   "funbook": "egoist.github.io/funbook",
-  "funfuncs": "floffah.github.io/funfuncs",
   "fyi": "tobihrbr.github.io/fyi",
   "g": "nodebox.github.io/g.js",
   "gal": "galmail.github.io", // noCF? (don´t add this in a new PR)
@@ -469,6 +468,7 @@ var cnames_active = {
   "hk": "akura-co.github.io/hk", // noCF? (don´t add this in a new PR)
   "hoa": "thehoa.github.io",
   "hooloo": "hooloo.github.io", // noCF? (don´t add this in a new PR)
+  "hosting": "hosting.floffah.co.uk", // or floffah.github.io/hosting (the dns zones have not fully updated yet) if you are wondering this is a website where you can host npm packages/projects and will be tested every so often buy website admins.
   "hub": "yyued.github.io/hub.js",
   "hubble": "sevenoutman.github.io/Hubble",
   "huck": "huckjs.github.io/huck",
