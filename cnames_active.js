@@ -535,6 +535,7 @@ var cnames_active = {
   "jk": "joname1.github.io",
   "jl":"jianglong1992.github.io",
   "jogja": "jogjajs.github.io", // noCF
+  "john": "jozhn.github.io",
   "josep": "warlock.github.io",
   "josuedanielbust": "josuedanielbust.github.io", // noCF? (don´t add this in a new PR)
   "jparticles": "jparticles.github.io/Documentation",
