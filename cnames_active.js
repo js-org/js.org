@@ -382,6 +382,7 @@ var cnames_active = {
   "feeble": "feeblejs.github.io/feeble",
   "fela": "rofrischmann.github.io/fela", // noCF? (don´t add this in a new PR)
   "festercluck": "festercluck.github.io", // noCF? (don´t add this in a new PR)
+  "fidel": "fidelxyz.github.io",
   "filehub": "minegamer5570.github.io/Filehub",
   "filer": "filerjs.github.io/filer",
   "filter": "filterjs.github.io/docs",
@@ -875,7 +876,6 @@ var cnames_active = {
   "rafaelmangolin": "rafaelMangolin.github.io", // noCF? (don´t add this in a new PR)
   "rag": "michaellyons.github.io/react-amazon-gallery", // noCF? (don´t add this in a new PR)
   "rahul": "rahulsukla.github.io/rahul", // noCF? (don´t add this in a new PR)
-  "raincity": "fidelxyz.github.io",
   "ralmaz": "ralmaz.github.io",
   "ralphi": "yonjah.github.io/ralphi",
   "randy": "randyviandaputra.github.io",
