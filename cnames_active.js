@@ -277,6 +277,7 @@ var cnames_active = {
   "dbo": "z3ta.github.io/dbo", // noCF? (don´t add this in a new PR)
   "deck-of-cards": "pakastin.github.io/deck-of-cards",
   "deepu": "deepu105.github.io",
+  "defi": "finom.github.io/defi.js.org",
   "delegacias-fortaleza": "juliosampaio.github.io/delegacias-fortaleza", // noCF? (don´t add this in a new PR)
   "delet": "ds-development.github.io/delet",
   "denisvieira": "fromdenisvieira.github.io", // noCF? (don´t add this in a new PR)
