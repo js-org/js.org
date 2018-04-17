@@ -184,6 +184,7 @@ var cnames_active = {
   "buttermilk": "buttermilk.netlify.com",
   "c-3po": "c-3po-org.github.io/c-3po",
   "cable": "whatgoodisaroad.github.io/cablejs", // noCF? (don´t add this in a new PR)
+  "cac": "cac.js.org"
   "caffeine": "ccrraaiigg.github.io/caffeine",
   "cagatay": "cagataycali.github.io",
   "calcy": "odevlord.github.io/Calcy", // noCF? (don´t add this in a new PR)
