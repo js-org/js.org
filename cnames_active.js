@@ -848,7 +848,7 @@ var cnames_active = {
   "pocketessential": "pocketessential.github.io",
   "poegems": "max-arias.github.io/poeGems", // noCF? (don´t add this in a new PR)
   "pogo": "aaronduino.github.io/pogo",
-  "poi": "egoist.github.io/poi.js.org",
+  "poi": "poi.netlify.com",
   "poke": "gregjw.github.io/poke",
   "polished": "styled-components.github.io/polished",
   "polkadot": "polkadot-js.github.io",
