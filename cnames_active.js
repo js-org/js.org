@@ -858,6 +858,7 @@ var cnames_active = {
   "porter": "ahopkins.github.io/porterjs", // noCF? (don´t add this in a new PR)
   "positivebot": "positiveterminator.github.io/positivebot-site",
   "post-type-discovery": "twozeroone.github.io/post-type-discovery",
+  "potion": "finnfiddle.github.io/potion",
   "prettylog": "moosecoop.github.io/PrettyLog/",
   "pristine": "sha256.github.io/Pristine", //noCF
   "producify": "jesobreira.github.io/producify",
