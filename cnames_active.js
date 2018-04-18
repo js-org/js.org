@@ -417,6 +417,7 @@ var cnames_active = {
   "front-end": "whoisjorge.github.io/front-end",
   "frzr": "pakastin.github.io/frzr",
   "fs-nextra": "bdistin.github.io/fs-nextra",
+  "fun": "caracal7.github.io/fun.js",
   "funbook": "egoist.github.io/funbook",
   "funfuncs": "floffah.github.io/funfuncs",
   "fyi": "tobihrbr.github.io/fyi",
