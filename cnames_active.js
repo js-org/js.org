@@ -795,6 +795,7 @@ var cnames_active = {
   "os": "91.247.228.125", // noCF
   "oscillator": "lukehorvat.github.io/super-oscillator",
   "osom": "kikobeats.github.io/osom",
+  "otakubot": "haydennyyy.github.io/otakubot",
   "overtrack": "aidant.github.io/overtrack.js",
   "pad": "ebraminio.github.io/pad.js", // noCF? (don´t add this in a new PR)
   "pageobject": "clebert.github.io/pageobject",
