@@ -864,6 +864,7 @@ var cnames_active = {
   "pristine": "sha256.github.io/Pristine", //noCF
   "producify": "jesobreira.github.io/producify",
   "profanity-finder": "gautamkrishnar.github.io/profanity-finder.js",
+  "project-titan": "upsettitan.github.io/project-titan",
   "proteic": "proteus-h2020.github.io/proteic",
   "proton-native": "kusti8.github.io/proton-native",
   "pure": "fengzilong.github.io/pure",
