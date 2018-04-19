@@ -672,6 +672,7 @@ var cnames_active = {
   "metagon": "austinhuang0131.github.io/metagon",
   "metascraper": "microlinkhq.github.io/metascraper",
   "meth": "meth-meth-method.github.io/meth",
+  "metools": "yimogit.github.io/metools-plugin",
   "mf": "awto.github.io/mfjs-compiler", // noCF? (don´t add this in a new PR)
   "mhsupport": "thatonetqnk.github.io/MHSupport",
   "microfeedback": "microfeedback.github.io",
