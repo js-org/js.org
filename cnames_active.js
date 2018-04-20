@@ -701,6 +701,7 @@ var cnames_active = {
   "modbot": "modbotjs.github.io",
   "modofun": "modofunjs.github.io/modofun",
   "modv": "2xaa.github.io/modV",
+  "moeditor": "moeditor.github.io",
   "mog-script": "mog-script.github.io",
   "mohit": "mohitgarg.github.io",
   "mol": "eigenmethod.github.io/mol", // noCF
