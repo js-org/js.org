@@ -435,6 +435,7 @@ var cnames_active = {
   "girls": "girls-js.github.io",
   "gka": "gkajs.github.io/gka",
   "glottologist": "arguiot.github.io/Glottologist",
+  "godzm4tt3o": "godzm4tt3o.github.io",
   "gol": "goljs.github.io/GoL",
   "goodseller": "goodseller.github.io", // noCF? (don´t add this in a new PR)
   "gotanda": "gotandajs.github.io",
