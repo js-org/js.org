@@ -1197,6 +1197,7 @@ var cnames_active = {
   "vayne": "vaynejs.github.io",
   "vbuild": "egoist.github.io/vbuild",
   "verifyr": "arze1.github.io/verifyr-site",
+  "verse": "druidic.github.io/verse", // noCF
   "vico": "bohdantkachenko.github.io/vico", // noCF? (don´t add this in a new PR)
   "video-react": "video-react.github.io",
   "vinimdocarmo": "vinimdocarmo.github.com", // noCF? (don´t add this in a new PR)
