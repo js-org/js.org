@@ -151,6 +151,7 @@ var cnames_active = {
   "bob": "bhamblok.github.io",
   "bodybuilder": "danpaz.github.io/bodybuilder", // noCF? (don´t add this in a new PR)
   "boiler":"ro0t.github.com/Boiler",
+  "boilerplates":"ckgrafico.github.io/frontend-boilerplates",
   "bombsweeper": "pakastin.github.io/bombsweeper",
   "bonzibuddy": "fardindadev.github.io/bonzibuddy",
   "bool": "booljs.github.io",
