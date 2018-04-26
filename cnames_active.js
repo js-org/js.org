@@ -1069,6 +1069,7 @@ var cnames_active = {
   "stahlstadt": "dist1.storyblok.com",
   "stampit": "stampit-org.gitbooks.io/docs",
   "starratio": "starratio.github.io/star-ratio", // noCF
+  "start": "deepsweet.github.io/start",
   "state-machine-cat": "sverweij.github.io/state-machine-cat",
   "staticinstance": "staticinstance.github.io", // noCF? (don´t add this in a new PR)
   "stats": "js-org.github.io/stats.js.org",
