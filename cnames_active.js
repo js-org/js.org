@@ -1215,6 +1215,7 @@ var cnames_active = {
   "vorpal": "dthree.github.io/vorpal", // noCF? (don´t add this in a new PR)
   "voxelcss": "jhwohlgemuth.github.io/voxelcss",
   "vscode-apielements": "xvincentx.github.io/vscode-apielements",
+  "vue": "http://wallbase.github.io/vue",
   "vue-aplayer": "sevenoutman.github.io/vue-aplayer",
   "vue-core": "triotech-fr.github.io/vue-core"
   "vue-land": "egoist.github.io/vue-land",
