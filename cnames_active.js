@@ -1232,7 +1232,7 @@ var cnames_active = {
   "wanna": "mkermani144.github.io/wanna",
   "wargamer": "hkwu.github.io/wargamer",
   "warnbot": "darkcoding-js.github.io/WarnBot",
-  "warrior": "warriorjs.github.io",
+  "warrior": "olistic.github.io/warriorjs",
   "watch": "ducin.github.io/watchjs.org", // noCF? (don´t add this in a new PR)
   "wayou": "wayou.github.io", // noCF? (don´t add this in a new PR)
   "wdd": "wangduanduan.github.io",
