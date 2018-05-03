@@ -915,6 +915,7 @@ var cnames_active = {
   "react-pivottable": "plotly.github.io/react-pivottable",
   "react-responsive-carousel": "leandrowd.github.io/react-responsive-carousel", // noCF? (don´t add this in a new PR)
   "react-shared": "rvikmanis.github.io/react-shared", // noCF? (don´t add this in a new PR)
+  "react-smackdown": "react-smackdown.netlify.com",
   "react-state": "tannerlinsley.github.io/react-state",
   "react-static": "nozzle-react-static.netlify.com",
   "react-story": "react-story.netlify.com",
