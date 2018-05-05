@@ -245,7 +245,7 @@ var cnames_active = {
   "community.luxaura": "trikel.paradox.cloud", //noCF
   "community.os": "js.bydiscourse.com", // noCF? (don´t add this in a new PR)
   "concursos": "mteyss.github.io/concursos", // noCF? (don´t add this in a new PR)
-  "conductor": "waldojeffers.gitbook.io/conductor",
+  "conductor": "hosting.gitbook.com",
   "construyendotrabajo": "mteyss.github.io/construyendotrabajo", // noCF? (don´t add this in a new PR)
   "consultant": "jense5.github.io/consultant",
   "contextify": "abemedia.github.io/jquery-contextify", // noCF? (don´t add this in a new PR)
