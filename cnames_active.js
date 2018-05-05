@@ -107,6 +107,7 @@ var cnames_active = {
   "astral": "espinielli.github.io/astraljs", // noCF? (don´t add this in a new PR)
   "astrobench": "kupriyanenko.github.io/astrobench", // noCF? (don´t add this in a new PR)
   "astx-redux-util": "kevinast.github.io/astx-redux-util",
+  "async-af": "asyncaf.github.io/AsyncAF",
   "atavic": "atavic.github.io",
   "atombundles": "lirantal.github.io/atombundles",
   "audio-cat": "tporl.github.io/audio-cat",
