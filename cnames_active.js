@@ -947,7 +947,7 @@ var cnames_active = {
   "redux-nakshatra": "agenthunt.github.io/redux-nakshatra",
   "redux-observable-cn": "rxjs-cn.github.io/redux-observable-cn",
   "redux-observable": "redux-observable.github.io/redux-observable",
-  "redux-resource": "jamesplease.github.io/redux-resource",
+  "redux-resource": "hosting.gitbook.com", // noCF
   "redux-saga-in-chinese": "superRaytin.github.io/redux-saga-in-chinese",
   "redux-saga": "redux-saga.github.io/redux-saga",
   "redux-tiles": "bloomca.github.io/redux-tiles",
