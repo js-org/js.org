@@ -1074,6 +1074,7 @@ var cnames_active = {
   "stack": "stackgamedevelopment.github.io",
   "stahlstadt": "dist1.storyblok.com",
   "stampit": "stampit-org.gitbook.io/docs",
+  "standard-resource": "hosting.gitbook.com", // noCF
   "starratio": "starratio.github.io/star-ratio", // noCF
   "start": "deepsweet.github.io/start",
   "state-machine-cat": "sverweij.github.io/state-machine-cat",
