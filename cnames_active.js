@@ -416,6 +416,7 @@ var cnames_active = {
   "fortune": "fortunejs.github.io/fortune", // noCF? (don´t add this in a new PR)
   "foxify": "foxifyjs.github.io/foxify",
   "foxman": "kaola-fed.github.io/foxman",
+  "fra": "frawolf.github.io",
   "freemarker": "ijse.github.io/freemarker.js", // noCF? (don´t add this in a new PR)
   "freezer": "pakastin.github.io/freezer",
   "frint": "frintjs.github.io/frint.js.org",
