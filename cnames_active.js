@@ -863,6 +863,7 @@ var cnames_active = {
   "poke": "gregjw.github.io/poke",
   "polished": "styled-components.github.io/polished",
   "polkadot": "polkadot-js.github.io",
+  "polygon-clipping": "mfogel.github.io/polygon-clipping",
   "polythene": "arthurclemens.github.io/Polythene", // noCF? (don´t add this in a new PR)
   "pomidorus": "tatyshev.github.io/pomidorus",
   "popper": "fezvrasta.github.io/popper.js",
