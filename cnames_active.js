@@ -1276,6 +1276,7 @@ var cnames_active = {
   "zombie": "assaf.github.io/zombie", // noCF? (don´t add this in a new PR)
   "zp": "tilda.ws",
   "zty": "zetaoyang.github.io",
+  "w4ctech": "w4ctech.github.io",
   /*
   * please don"t add your subdomain records down here!
   * insert them in alphabetical order to help reduce merge conflicts.
