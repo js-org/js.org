@@ -617,7 +617,7 @@ var cnames_active = {
   "lifx": "fncxpro.github.io/lifx.js",
   "liguori": "liguori.github.io", // noCF? (don´t add this in a new PR)
   "liike": "liikejs.github.io/Liike",
-  "lineup": "sgratzl.github.io/lineup.js.org",
+  "lineup": "datavisyn.github.io/lineup.js.org",
   "lineupengine": "sgratzl.github.io/lineupengine.js.org",
   "linghucong": "jiji262.github.io",
   "liveflow": "hasharray.github.io/liveflow.js",
