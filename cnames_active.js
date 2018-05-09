@@ -213,6 +213,7 @@ var cnames_active = {
   "cheerio": "cheeriojs.github.io/cheerio",
   "chernivtsi": "chernivtsijs.github.io",
   "chimon2000": "chimon2000.github.io", // noCF? (don´t add this in a new PR)
+  "chinaw3c": "chinaw3c.github.io",
   "chirashi": "chirashijs.github.io/chirashi",
   "chordthing": "ifons42.github.io/chordthing",
   "chrislaughlin": "chrislaughlin.github.io", // noCF? (don´t add this in a new PR)
@@ -1279,7 +1280,6 @@ var cnames_active = {
   "zombie": "assaf.github.io/zombie", // noCF? (don´t add this in a new PR)
   "zp": "tilda.ws",
   "zty": "zetaoyang.github.io",
-  "chinaw3c": "chinaw3c.github.io",
   /*
   * please don"t add your subdomain records down here!
   * insert them in alphabetical order to help reduce merge conflicts.
