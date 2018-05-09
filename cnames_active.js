@@ -845,6 +845,7 @@ var cnames_active = {
   "pipes": "pipesjs.github.io", // noCF? (don´t add this in a new PR)
   "pitermarx": "pitermarx.github.io", // noCF? (don´t add this in a new PR)
   "pivot": "wnda.github.io/pivot",
+  "pivotgrid": "iskandr1.github.io/Pivot",
   "pivottable": "nicolaskruchten.github.io/pivottable",
   "pixel": "lumitedubbz.github.io/Pixel",
   "pixelart": "meriadec.github.io/PixelartJS", // noCF? (don´t add this in a new PR)
