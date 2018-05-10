@@ -881,6 +881,8 @@ var cnames_active = {
   "proton-native": "kusti8.github.io/proton-native",
   "protype": "arguiot.github.io/ProType",
   "pure": "fengzilong.github.io/pure",
+  "purpzie": "purpzie.github.io",
+  "purpziesucks": "purpzie.github.io/sucks",
   "pwa-cookbook": "sylvainpolletvillard.github.io/pwa-cookbook",
   "qs": "kirjs.github.io/qs.js", // noCF? (don´t add this in a new PR)
   "querybuilder": "mistic100.github.io/jQuery-QueryBuilder", // noCF? (don´t add this in a new PR)
