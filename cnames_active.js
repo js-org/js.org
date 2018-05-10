@@ -203,6 +203,7 @@ var cnames_active = {
   "capsule": "capsule-js-org.github.io/capsule",
   "cardtabs": "blekerfeld.github.io/CardTabs",
   "cargo": "herber.github.io/cargo",
+  "carloseduardo": "karllossouza.github.io/carloseduardo.js.org",
   "cartodb-demo": "opensas.github.io/cartodb-demo", // noCF? (don´t add this in a new PR)
   "cassie": "milesgitgud.github.io/cassie",
   "cats": "whoisjorge.github.io/not-cat-gifs",
