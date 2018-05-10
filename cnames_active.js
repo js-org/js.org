@@ -733,7 +733,7 @@ var cnames_active = {
   "mvidalgarcia": "mvidalgarcia.github.io", // noCF? (don´t add this in a new PR)
   "mw": "agauniyal.github.io/mw",
   "mysketch": "dipanshkhandelwal.github.io/MySketch",
-  "mythbusters": "kikobeats.github.io/js-mythbusters",
+  "mythbusters": "mythbustersjs.netlify.com",
   "n-j-m": "n-j-m.github.io", // noCF? (don´t add this in a new PR)
   "namelessman": "namelessman.github.io",
   "nanimation": "imthenachoman.github.io/nAnimation", // noCF? (don´t add this in a new PR)
