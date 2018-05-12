@@ -570,7 +570,7 @@ var cnames_active = {
   "jwt-autorefresh": "cchamberlain.github.io/jwt-autorefresh", // noCF? (don´t add this in a new PR)
   "kainy": "kainy.github.io/js.org",
   "kalm": "fed135.github.io/kalm.github.io", // noCF? (don´t add this in a new PR)
-  "karolina-and-ryan": "mockturtlesoup.github.io/karolina-and-ryan", 
+  "karolina-and-ryan": "mockturtlesoup.github.io/karolina-and-ryan",
   "karl": "karlcoelho.github.io/portfolio", // noCF? (don´t add this in a new PR)
   "karlbateman": "karlbateman.github.io/karlbateman.js.org",
   "kawaii": "moemoesoft.github.io/kawaii", //noCF
@@ -612,7 +612,7 @@ var cnames_active = {
   "leandro": "leandrowd.github.io", // noCF? (don´t add this in a new PR)
   "learnGitBranching": "pcottle.github.io/learnGitBranching",
   "leipzig": "leipzigjs.github.io", // noCF? (don´t add this in a new PR)
-  "leo": "leo66123.github.io", 
+  "leo": "leo66123.github.io",
   "leoj": "leoaj.github.io", // noCF? (don´t add this in a new PR)
   "lessmd": "linuxenko.github.io/lessmd",
   "leste": "atwood-cai.github.io/leste.js", // noCF? (don´t add this in a new PR)
@@ -976,6 +976,7 @@ var cnames_active = {
   "revaluate": "hasharray.github.io/revaluate.js",
   "rickdesantis": "rickdesantis.github.io",
   "riklewis": "riklewis.github.io",
+  "riot": "riot.github.io",
   "riotgear": "riotgear.github.io",
   "rishav": "xrisk.github.io",
   "risingstars": "risingstars.netlify.com",
