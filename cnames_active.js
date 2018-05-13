@@ -881,6 +881,7 @@ var cnames_active = {
   "potion": "finnfiddle.github.io/potion",
   "prettylog": "moosecoop.github.io/PrettyLog/",
   "pristine": "sha256.github.io/Pristine", //noCF
+  "prismarine", "prismarinejs.github.io",
   "producify": "jesobreira.github.io/producify",
   "profanity-finder": "gautamkrishnar.github.io/profanity-finder.js",
   "proteic": "proteus-h2020.github.io/proteic",
