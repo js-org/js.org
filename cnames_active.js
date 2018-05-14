@@ -341,6 +341,7 @@ var cnames_active = {
   "dynamicsnode": "crisfervil.github.io/DynamicsNode",
   "eahmed234": "eahmed234.github.io",
   "ed2k": "sunnyli.github.io/ed2k.js",
+  "edxt": "edxtech.github.io/edxt",
   "ef": "classicoldsong.github.io/ef.js.org",
   "effectful": "awto.github.io/effectfuljs",
   "elastic-builder": "sudo-suhas.github.io/elastic-builder",
