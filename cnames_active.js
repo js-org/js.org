@@ -830,6 +830,7 @@ var cnames_active = {
   "pathtrace": "kovacsv.github.io/WebGLPathTrace", // noCF? (don´t add this in a new PR)
   "patternbase": "kamescg.github.io/PatternBase",
   "paul": "paul-brown.github.io", // noCF? (don´t add this in a new PR)
+  "pax": "nathan.github.io/pax",
   "pdf": "iamcristye.github.io/PDF",
   "pdfutils": "gottox.github.io/node-pdfutils", // noCF? (don´t add this in a new PR)
   "pdp-elements": "go4cas.github.io/pdp_elements", // noCF? (don´t add this in a new PR)
