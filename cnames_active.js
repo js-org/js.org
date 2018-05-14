@@ -7,6 +7,7 @@
  * file a pull request to add your own GitHub Page
  *
  *
+ 
  **** README
  * ***********
  *
@@ -1061,6 +1062,7 @@ var cnames_active = {
   "slidey": "thegreatrazz.github.io/slidey",
   "slim": "eavichay.github.io/slim.js",
   "smartquotes": "kellym.github.io/smartquotes.js",
+  "smart-fish": "smart-fish.github.io",
   "smoove": "abemedia.github.io/jquery-smoove",
   "sn0w": "greensn0w.github.io", // noCF? (don´t add this in a new PR)
   "snekfetch": "devsnek.github.io/snekfetch",
