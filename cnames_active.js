@@ -245,6 +245,7 @@ var cnames_active = {
   "coffea": "caffeinery.github.io/coffea",
   "collegequest": "schoolhouserock.github.io/CollegeQuest", // noCF? (don´t add this in a new PR)
   "colombo": "cmbjs.github.io/CMBJS",
+  "cay": "https://ripbyrustavi02.github.io/cay/index.html",
   "comixngn": "seun40.github.io/comix-ngn", // noCF? (don´t add this in a new PR)
   "commandfox": "commandfox.github.io/mc-tools", // noCF? (don´t add this in a new PR)
   "community.luxaura": "trikel.paradox.cloud", //noCF
