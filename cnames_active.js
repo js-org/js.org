@@ -1130,6 +1130,7 @@ var cnames_active = {
   "svr": "kikobeats.github.io/svr",
   "sweetalert": "t4t5.github.io/sweetalert",
   "switchit": "dongryphon.github.io/switchit",
+  "switchblade": "switchbladebot.github.io/onepage",
   "synth": "lukehorvat.github.io/synth-mood",
   "syr": "dmikey.github.io/syr",
   "tagster": "goschevski.github.io/tagster", // noCF? (don´t add this in a new PR)
