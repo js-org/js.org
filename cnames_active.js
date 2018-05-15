@@ -243,6 +243,7 @@ var cnames_active = {
   "codepan": "egoist.github.io/codepan",
   "codux": "tannerlinsley.github.io/codux",
   "coffea": "caffeinery.github.io/coffea",
+  "collection-folder": "collection-folder.github.io",
   "collegequest": "schoolhouserock.github.io/CollegeQuest", // noCF? (don´t add this in a new PR)
   "colombo": "cmbjs.github.io/CMBJS",
   "comixngn": "seun40.github.io/comix-ngn", // noCF? (don´t add this in a new PR)
