@@ -883,6 +883,7 @@ var cnames_active = {
   "positivebot": "positiveterminator.github.io/positivebot-site",
   "post-type-discovery": "twozeroone.github.io/post-type-discovery",
   "potion": "finnfiddle.github.io/potion",
+  "pubg": "ickerio.github.io/pubg.js",
   "prettylog": "moosecoop.github.io/PrettyLog/",
   "pristine": "sha256.github.io/Pristine", //noCF
   "prismarine", "prismarinejs.github.io",
