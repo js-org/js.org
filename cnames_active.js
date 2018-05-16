@@ -362,6 +362,7 @@ var cnames_active = {
   "engui": "engui.github.io",
   "eq8": "eq8.github.io",
   "eray": "erayarslan.github.io", // noCF? (don´t add this in a new PR)
+  "erest": "yourtion.github.io/node-erest",
   "eric": "otteric.github.com",
   "erik": "erikroyall.github.com", // noCF? (don´t add this in a new PR)
   "erikng": "eriknguyen.github.io",
