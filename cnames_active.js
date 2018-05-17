@@ -317,6 +317,7 @@ var cnames_active = {
   "dns": "js-org.github.io/dns.js.org",
   "docile": "teamtofu.github.io/docile",
   "docsify": "QingWei-Li.github.io/docsify",
+  "docsify-es": "sidval.github.io/docsify-es"
   "documentation": "documentationjs.github.io", // noCF? (don´t add this in a new PR)
   "docute": "egoist.github.io/docute",
   "dodec-design": "dodec-design.github.io",
@@ -1301,7 +1302,7 @@ var cnames_active = {
   "zodiac": "indus.github.io/Zodiac", // noCF? (don´t add this in a new PR)
   "zombie": "assaf.github.io/zombie", // noCF? (don´t add this in a new PR)
   "zp": "tilda.ws",
-  "zty": "zetaoyang.github.io",
+  "zty": "zetaoyang.github.io"
   /*
   * please don"t add your subdomain records down here!
   * insert them in alphabetical order to help reduce merge conflicts.
