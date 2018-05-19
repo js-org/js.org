@@ -228,6 +228,7 @@ var cnames_restricted = [
     "wasm",
     "watch",
     "web",
+    "webmaster",
     "world",
     "www",
     "xml"
