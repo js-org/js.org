@@ -191,7 +191,7 @@ var cnames_active = {
   "buttermilk": "buttermilk.netlify.com",
   "c-3po": "c-3po-org.github.io/c-3po",
   "cable": "whatgoodisaroad.github.io/cablejs", // noCF? (don´t add this in a new PR)
-  "cac": "cac.netlify.com"
+  "cac": "cac.netlify.com",
   "caffeine": "ccrraaiigg.github.io/caffeine",
   "cagatay": "cagataycali.github.io",
   "calcy": "odevlord.github.io/Calcy", // noCF? (don´t add this in a new PR)
@@ -308,7 +308,7 @@ var cnames_active = {
   "dinesh": "dineshondev.github.io/dinesh", // noCF? (don´t add this in a new PR)
   "dio": "thysultan.github.io/dio.js",
   "discord": "discordjs.github.io/website",
-  "discunit": "megacode18.github.io/discunit.js"
+  "discunit": "megacode18.github.io/discunit.js",
   "display": "arguiot.github.io/DisplayJS",
   "distillery": "achannarasappa.github.io/distillery", // noCF? (don´t add this in a new PR)
   "distri": "flarp.github.io/Distri.js",
@@ -340,7 +340,7 @@ var cnames_active = {
   "dualcyclone": "dualcyclone.github.io/postit-todo-react-redux",
   "duffn": "duffn.github.io", // noCF? (don´t add this in a new PR)
   "dunedin": "dunedinjs.github.io",
-  "dungeon": "youssefelshemi.github.io/dungeon.js"
+  "dungeon": "youssefelshemi.github.io/dungeon.js",
   "dutchakdev": "dutchakdev.github.io", // noCF? (don´t add this in a new PR)
   "dynaflo": "trevorhanus.github.io/dynaflo",
   "dynamicsnode": "crisfervil.github.io/DynamicsNode",
@@ -528,6 +528,7 @@ var cnames_active = {
   "inscriptum": "sumbad.github.io/inscriptum",
   "inset": "patlillis.github.io/inset.js",
   "instabousing": "jlbousing.github.io/instaBousing",
+  "integreat": "hosting.gitbook.com",
   "invoicing": "vahe.github.io/InvoicingJs",
   "iostream": "pantheonsh.github.io/iostream",
   "ip-address": "beaugunderson.github.io/ip-address", // noCF? (don´t add this in a new PR)
@@ -597,7 +598,7 @@ var cnames_active = {
   "kite": "kite-js.github.io/kite",
   "kiwidocs": "arguiot.github.io/KiwiDocs",
   "klasa": "dirigeants.github.io/klasa-website",
-  "klasy-eris": "motiontheking.github.io/klasy-eris"
+  "klasy-eris": "motiontheking.github.io/klasy-eris",
   "klepto": "mwjaworski.github.io/klepto",
   "knowyourbundle": "enapupe.github.io/know-your-bundle",
   "ko": "ko25july.github.io/ko.js.org",
@@ -895,7 +896,7 @@ var cnames_active = {
   "pubg": "ickerio.github.io/pubg.js",
   "prettylog": "moosecoop.github.io/PrettyLog/",
   "pristine": "sha256.github.io/Pristine", //noCF
-  "prismarine", "prismarinejs.github.io",
+  "prismarine": "prismarinejs.github.io",
   "producify": "jesobreira.github.io/producify",
   "profanity-finder": "gautamkrishnar.github.io/profanity-finder.js",
   "proteic": "proteus-h2020.github.io/proteic",
@@ -1253,7 +1254,7 @@ var cnames_active = {
   "voxelcss": "jhwohlgemuth.github.io/voxelcss",
   "vscode-apielements": "xvincentx.github.io/vscode-apielements",
   "vue-aplayer": "sevenoutman.github.io/vue-aplayer",
-  "vue-core": "triotech-fr.github.io/vue-core"
+  "vue-core": "triotech-fr.github.io/vue-core",
   "vue-land": "egoist.github.io/vue-land",
   "vue-mdc": "na-west1.surge.sh",
   "vue-multiselect": "shentao.github.io/vue-multiselect",
