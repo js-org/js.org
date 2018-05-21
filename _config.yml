@@ -1,4 +1,0 @@
-title: 10k
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-exclude: [dummy]
