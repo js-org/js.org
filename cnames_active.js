@@ -1009,6 +1009,7 @@ var cnames_active = {
   "roger": "klopango.github.io/js-org",
   "rosmaro": "lukaszmakuch.github.io/rosmaro",
   "router-advanced": "oldergod.github.io/router-advanced",
+  "router5": "hosting.gitbook.com",
   "rp": "rpocklin.github.io", // noCF? (don´t add this in a new PR)
   "rsshub": "diygod.github.io/RSSHub",
   "ruhuman": "ruhuman.github.io", // noCF? (don´t add this in a new PR)
