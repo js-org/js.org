@@ -44,6 +44,11 @@ body {
   body {
     margin: 7vh 8% 3vh 51%; } }
 
+@media (min-aspect-ratio: 1920 / 1280) and (max-width: 680px) {
+.hf .logo {
+    font-size: 3.5em; }
+}
+
 @media (max-aspect-ratio: 1920 / 1280) {
   body {
     max-width: 46vh;
