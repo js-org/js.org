@@ -479,7 +479,7 @@ var cnames_active = {
   "gyre": "wridder.github.io/GyreJS", // noCF? (don´t add this in a new PR)
   "gyx": "yourtion.github.io/gyx.js.org",
   "h": "makenowjust.github.io/h.js",
-  "h7ml": "https://h7ml.github.io/demo/",
+  "h7ml": "h7ml.github.io/demo",
   "hack": "hack.netlify.com",
   "halil": "hibrahimsafak.github.io", // noCF? (don´t add this in a new PR)
   "haloapi": "derflatulator.github.io/haloapi.js", // noCF? (don´t add this in a new PR)
@@ -581,7 +581,6 @@ var cnames_active = {
   "just": "justjs.github.io",
   "juzgados": "mteyss.github.io/juzgados",
   "jwt-autorefresh": "cchamberlain.github.io/jwt-autorefresh", // noCF? (don´t add this in a new PR)
-  "h7ml": "h7ml.github.io/demo",
   "kainy": "kainy.github.io/js.org",
   "kalm": "fed135.github.io/kalm.github.io", // noCF? (don´t add this in a new PR)
   "karolina-and-ryan": "mockturtlesoup.github.io/karolina-and-ryan",
