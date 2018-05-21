@@ -40,19 +40,6 @@ body {
     background: url(/15406432865_b52d281745_o_low.jpg) 88% 70%;
     background-size: cover; }
 
-@media (min-aspect-ratio: 1920 / 1280) {
-  body {
-    margin: 7vh 8% 3vh 51%; } }
-
-@media (min-aspect-ratio: 1920 / 1280) and (max-width: 680px) {
-.hf .logo {
-    font-size: 3.5em; }
-}
-
-@media (max-aspect-ratio: 1920 / 1280) {
-  body {
-    max-width: 46vh;
-    margin: 9vh 8% 3vh auto; } }
 
 ::-webkit-scrollbar {
   width: .5em; }
@@ -143,6 +130,21 @@ a {
     float: right; }
     .hf .at span a {
       font-weight: 400; }
+
+
+@media (min-aspect-ratio: 1920 / 1280) {
+  body {
+    margin: 7vh 8% 3vh 51%; } }
+
+@media (min-aspect-ratio: 1920 / 1280) and (max-width: 680px) {
+.hf .logo {
+    font-size: 3.5em;}
+}
+
+@media (max-aspect-ratio: 1920 / 1280) {
+  body {
+    max-width: 46vh;
+    margin: 9vh 8% 3vh auto; } }
 
 ::selection {
   color: #FFE70B;
