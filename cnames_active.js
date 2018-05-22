@@ -20,7 +20,7 @@
  *              But you can opt-out from this and make Cloudflare forward all requests directly to GitHub.
  *              Just add '//noCF' in the line of your requested subdomain to give me a hint.
  *              (all the lines marked with '//noCF?' are from a time when a requester had to explicitly opt-in;
- *              see: https://github.com/js-org/dns.js.org/issues/554)
+ *              see: https://github.com/js-org/js.org/issues/554)
  *
  * IMPORTANT:   To authorize yourself as the owner of the GitHub Page you must have added a valid CNAME file
  *              (with the requested domain, e.g.: "foo.js.org") to your repository before the pull request.
@@ -123,6 +123,7 @@ var cnames_active = {
   "awesomehub": "awesomehub.netlify.com",
   "awk": "42ua.github.io/awk",
   "awoo": "awoojs.github.io/website",
+  "axelgreavette": "axelgreavette.github.io",
   "azdanov": "azdanov.github.io",
   "backlog": "backlog-js.github.io/backlog.js.org", // noCF? (don´t add this in a new PR)
   "backstage": "backstagejs.github.io/backstage",
@@ -190,7 +191,7 @@ var cnames_active = {
   "buttermilk": "buttermilk.netlify.com",
   "c-3po": "c-3po-org.github.io/c-3po",
   "cable": "whatgoodisaroad.github.io/cablejs", // noCF? (don´t add this in a new PR)
-  "cac": "cac.netlify.com"
+  "cac": "cac.netlify.com",
   "caffeine": "ccrraaiigg.github.io/caffeine",
   "cagatay": "cagataycali.github.io",
   "calcy": "odevlord.github.io/Calcy", // noCF? (don´t add this in a new PR)
@@ -213,6 +214,7 @@ var cnames_active = {
   "central-node": "central-node.github.io", // noCF? (don´t add this in a new PR)
   "chain-able": "fluents.github.io/chain-able-site",
   "chatexchange": "jacob-gray.github.io/ChatExchangeJS",
+  "chartconstructor": "quarksworks.github.io/chartConstructor",
   "checklist": "hellogreg.github.io/checklist",
   "cheerio": "cheeriojs.github.io/cheerio",
   "chernivtsi": "chernivtsijs.github.io",
@@ -259,6 +261,7 @@ var cnames_active = {
   "coord": "itsacorn.github.io/jscoord",
   "cordova-multiplatform-template": "ckgrafico.github.io/Cordova-Multiplatform-Template", // noCF? (don´t add this in a new PR)
   "cork": "davej.github.io/CorkJS",
+  "corki": "dvtate.github.io/corki",
   "cote": "dashersw.github.io/cote", // noCF? (don´t add this in a new PR)
   "country": "growmies.github.io/countryjs", // noCF? (don´t add this in a new PR)
   "cplayer": "copay.github.io/cPlayer",
@@ -306,7 +309,7 @@ var cnames_active = {
   "dinesh": "dineshondev.github.io/dinesh", // noCF? (don´t add this in a new PR)
   "dio": "thysultan.github.io/dio.js",
   "discord": "discordjs.github.io/website",
-  "discunit": "megacode18.github.io/discunit.js"
+  "discunit": "megacode18.github.io/discunit.js",
   "display": "arguiot.github.io/DisplayJS",
   "distillery": "achannarasappa.github.io/distillery", // noCF? (don´t add this in a new PR)
   "distri": "flarp.github.io/Distri.js",
@@ -319,6 +322,7 @@ var cnames_active = {
   "docile": "teamtofu.github.io/docile",
   "docsify": "QingWei-Li.github.io/docsify",
   "docsify-es": "sidval.github.io/docsify-es",
+  "docsify-ru": "truepatch.github.io/docsify-ru",
   "documentation": "documentationjs.github.io", // noCF? (don´t add this in a new PR)
   "docute": "egoist.github.io/docute",
   "dodec-design": "dodec-design.github.io",
@@ -338,7 +342,7 @@ var cnames_active = {
   "dualcyclone": "dualcyclone.github.io/postit-todo-react-redux",
   "duffn": "duffn.github.io", // noCF? (don´t add this in a new PR)
   "dunedin": "dunedinjs.github.io",
-  "dungeon": "youssefelshemi.github.io/dungeon.js"
+  "dungeon": "youssefelshemi.github.io/dungeon.js",
   "dutchakdev": "dutchakdev.github.io", // noCF? (don´t add this in a new PR)
   "dynaflo": "trevorhanus.github.io/dynaflo",
   "dynamicsnode": "crisfervil.github.io/DynamicsNode",
@@ -409,6 +413,7 @@ var cnames_active = {
   "firenze": "fahad19.github.io/firenze", // noCF? (don´t add this in a new PR)
   "fis": "fex-team.github.io/fis-site", // noCF? (don´t add this in a new PR)
   "five": "jackdcrawford.github.io/five",
+  "flameshot": "flameshotapp.github.io",
   "flatpickr": "flatpickr.github.io",
   "flavor": "blackmirror1980.github.io/flavor-js",
   "fld-grd": "mrksbnch.github.io/fld-grd",
@@ -525,6 +530,7 @@ var cnames_active = {
   "inscriptum": "sumbad.github.io/inscriptum",
   "inset": "patlillis.github.io/inset.js",
   "instabousing": "jlbousing.github.io/instaBousing",
+  "integreat": "hosting.gitbook.com",
   "invoicing": "vahe.github.io/InvoicingJs",
   "iostream": "pantheonsh.github.io/iostream",
   "ip-address": "beaugunderson.github.io/ip-address", // noCF? (don´t add this in a new PR)
@@ -594,7 +600,7 @@ var cnames_active = {
   "kite": "kite-js.github.io/kite",
   "kiwidocs": "arguiot.github.io/KiwiDocs",
   "klasa": "dirigeants.github.io/klasa-website",
-  "klasy-eris": "motiontheking.github.io/klasy-eris"
+  "klasy-eris": "motiontheking.github.io/klasy-eris",
   "klepto": "mwjaworski.github.io/klepto",
   "knowyourbundle": "enapupe.github.io/know-your-bundle",
   "ko": "ko25july.github.io/ko.js.org",
@@ -704,6 +710,7 @@ var cnames_active = {
   "milesgitgud": "milesgitgud.github.io/homepage",
   "mimic": "500tech.github.io/mimic",
   "mina": "CenturyUna.github.io/mina",
+  "minecraft-data.prismarine": "prismarinejs.github.io/minecraft-data",
   "minesweeper": "derflatulator.github.io/minesweeper",
   "mingjie": "mj66.github.io/mingjie.info",
   "mingyi": "liangmingyi.github.io", // noCF? (don´t add this in a new PR)
@@ -891,7 +898,7 @@ var cnames_active = {
   "pubg": "ickerio.github.io/pubg.js",
   "prettylog": "moosecoop.github.io/PrettyLog/",
   "pristine": "sha256.github.io/Pristine", //noCF
-  "prismarine", "prismarinejs.github.io",
+  "prismarine": "prismarinejs.github.io",
   "producify": "jesobreira.github.io/producify",
   "profanity-finder": "gautamkrishnar.github.io/profanity-finder.js",
   "proteic": "proteus-h2020.github.io/proteic",
@@ -1005,6 +1012,7 @@ var cnames_active = {
   "roger": "klopango.github.io/js-org",
   "rosmaro": "lukaszmakuch.github.io/rosmaro",
   "router-advanced": "oldergod.github.io/router-advanced",
+  "router5": "hosting.gitbook.com",
   "rp": "rpocklin.github.io", // noCF? (don´t add this in a new PR)
   "rsshub": "diygod.github.io/RSSHub",
   "ruhuman": "ruhuman.github.io", // noCF? (don´t add this in a new PR)
@@ -1207,6 +1215,7 @@ var cnames_active = {
   "two": "jonobr1.github.io/two.js",
   "tydel": "fahad19.github.io/tydel", // noCF? (don´t add this in a new PR)
   "typeahead": "corejavascript.github.io/typeahead.js",
+  "typed-ui": "pi-cubed.github.io/typed-ui",
   "u": "hanul.github.io/UJS", // noCF? (don´t add this in a new PR)
   "uav": "unearth-inc.github.io/uav",
   "ubuntu-hideout": "bytecommander.github.io/ubuntu-hideout",
@@ -1248,7 +1257,7 @@ var cnames_active = {
   "voxelcss": "jhwohlgemuth.github.io/voxelcss",
   "vscode-apielements": "xvincentx.github.io/vscode-apielements",
   "vue-aplayer": "sevenoutman.github.io/vue-aplayer",
-  "vue-core": "triotech-fr.github.io/vue-core"
+  "vue-core": "triotech-fr.github.io/vue-core",
   "vue-land": "egoist.github.io/vue-land",
   "vue-mdc": "na-west1.surge.sh",
   "vue-multiselect": "shentao.github.io/vue-multiselect",
