@@ -46,7 +46,7 @@ var cnames_active = {
   "404": "licshee.github.io/404",
   "76": "hustcc.github.io/76",
   "7anshuai": "7anshuai.github.io", // noCF? (don´t add this in a new PR)
-  "8art": "erayarslan.github.io/8art", // noCF? (don´t add this in a new PR)
+  "8art": "earslan.github.io/8art", // noCF? (don´t add this in a new PR)
   "98": "1j01.github.io/98",
   "abdalla": "the94air.github.io/abdalla",
   "abhishek": "rpidanny.github.io/personal-collage",
@@ -929,6 +929,7 @@ var cnames_active = {
   "randy": "randyviandaputra.github.io",
   "rangeslider": "andreruffert.github.io/rangeslider.js", // noCF? (don´t add this in a new PR)
   "rate-limiter-api": "abhisekp.github.io/rate-limiter-api",
+  "rayyic": "rayyic.js.org.herokudns.com",
   "razod": "razod.github.io/razod",
   "rdf": "rdfjs.github.io", // noCF
   "react-atomic-ui": "react-atomic.github.io/react-atomic-ui",
