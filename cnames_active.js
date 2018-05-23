@@ -442,6 +442,7 @@ var cnames_active = {
   "funfuncs": "floffah.github.io/funfuncs",
   "fyi": "tobihrbr.github.io/fyi",
   "g": "nodebox.github.io/g.js",
+  "gameboy": "devslovecoding.github.io/gameboy.js",
   "gal": "galmail.github.io", // noCF? (don´t add this in a new PR)
   "gamedevcontestal": "fromdenisvieira.github.io/gamedevcontestal", // noCF? (don´t add this in a new PR)
   "gazosekai": "starkblaze01.github.io/Gazo_Sekai",
