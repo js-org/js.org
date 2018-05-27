@@ -635,6 +635,7 @@ var cnames_active = {
   "leoj": "leoaj.github.io", // noCF? (don´t add this in a new PR)
   "lessmd": "linuxenko.github.io/lessmd",
   "leste": "atwood-cai.github.io/leste.js", // noCF? (don´t add this in a new PR)
+  "lia": "fatemefazli.github.io",
   "lifx": "fncxpro.github.io/lifx.js",
   "liguori": "liguori.github.io", // noCF? (don´t add this in a new PR)
   "liike": "liikejs.github.io/Liike",
