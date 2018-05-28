@@ -1019,6 +1019,7 @@ var cnames_active = {
   "router5": "hosting.gitbook.com",
   "rp": "rpocklin.github.io", // noCF? (don´t add this in a new PR)
   "rsshub": "diygod.github.io/RSSHub",
+  "rsshub-reader": "sevenoutman.github.io/RSSHub-Reader",
   "ruhuman": "ruhuman.github.io", // noCF? (don´t add this in a new PR)
   "ruwan": "rpgee.github.io",
   "s3swa": "s3swa-ict-upgifter.github.io/snow-eater",
