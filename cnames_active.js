@@ -134,7 +134,7 @@ var cnames_active = {
   "bancho": "thepoon.github.io/bancho.js",
   "bandung": "zufrizalyordan.github.io/bandungjs",
   "barbagrigia": "barbagrigia.github.io",
-  "barcelona": "barcelona-js.github.io/website", // noCF? (don´t add this in a new PR)
+  "barcelona": "barcelonajs.github.io", // noCF? (don´t add this in a new PR)
   "base64": "licshee.github.io/base64",
   "bash": "bashjs.github.io",
   "basicgame": "basicgame.github.io/basicGame.js", // noCF? (don´t add this in a new PR)
