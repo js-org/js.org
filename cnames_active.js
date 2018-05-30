@@ -350,7 +350,7 @@ var cnames_active = {
   "dynaflo": "trevorhanus.github.io/dynaflo",
   "dynamicsnode": "crisfervil.github.io/DynamicsNode",
   "eahmed234": "eahmed234.github.io",
-  "echo": "licshee.github.io/echo",
+  "echo": "licshee.github.io/echo.js",
   "ed2k": "sunnyli.github.io/ed2k.js",
   "ef": "classicoldsong.github.io/ef.js.org",
   "effectful": "awto.github.io/effectfuljs",
