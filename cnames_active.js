@@ -679,6 +679,7 @@ var cnames_active = {
   "markvis": "geekplux.github.io/markvis",
   "martin": "martinbutler.github.io", // noCF? (don´t add this in a new PR)
   "martingollogly": "martingollogly.github.io", // noCF? (don´t add this in a new PR)
+  "marvnet": "marvnet.github.io/marvnet.js",
   "marxist": "wuz.github.io/marxistjs",
   "masha": "smarttelemax.github.io/MaSha",
   "materialize-bootbox": "iqbalfn.github.io/materialize-bootbox",
