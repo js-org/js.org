@@ -703,6 +703,7 @@ var cnames_active = {
   "memento": "jeanfortheweb.gitbooks.io/memento",
   "mern": "IamMohaiminul.GitHub.io/MERNjs",
   "mesh": "crcn.github.io/mesh.js.org", // noCF? (don´t add this in a new PR)
+  "meshesha": "meshesha.github.io",
   "metadata": "oknosoft.github.io/metadata.js",
   "metagon": "austinhuang0131.github.io/metagon",
   "metascraper": "microlinkhq.github.io/metascraper",
