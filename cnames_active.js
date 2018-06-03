@@ -720,6 +720,7 @@ var cnames_active = {
   "mimic": "500tech.github.io/mimic",
   "mina": "CenturyUna.github.io/mina",
   "minecraft-data.prismarine": "prismarinejs.github.io/minecraft-data",
+  "mineflayer.prismarine": "prismarinejs.github.io/mineflayer",
   "minesweeper": "derflatulator.github.io/minesweeper",
   "mingjie": "mj66.github.io/mingjie.info",
   "mingyi": "liangmingyi.github.io", // noCF? (don´t add this in a new PR)
