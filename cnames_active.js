@@ -1282,6 +1282,7 @@ var cnames_active = {
   "vue-treeselect": "riophae.github.io/vue-treeselect",
   "vuejsindy": "vuejsindy.github.io",
   "vuelog": "myst729.github.io/Vuelog",
+  "vuetify-sidebar-template": "disjfa.github.io/vuetify-sidebar-template",
   "vuikit": "vuikit.github.io/vuikit.js.org",
   "vuongdothanhhuy": "vuongdothanhhuy.github.io", // noCF? (don´t add this in a new PR)
   "vxv": "vxv.netlify.com",
