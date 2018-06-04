@@ -1111,6 +1111,7 @@ var cnames_active = {
   "spaas": "pakastin.github.io/spaas",
   "spectragram": "adrianengine.github.io/jquery-spectragram", // noCF? (don´t add this in a new PR)
   "spicdev": "spicdev.github.io", // noCF? (don´t add this in a new PR)
+  "spike": "spike.netlify.com",
   "spin": "fgnass.github.io/spin.js", // noCF? (don´t add this in a new PR)
   "spirare": "waldenn.github.io/spirare", // noCF? (don´t add this in a new PR)
   "spiritual": "spiritual-js.github.io", // noCF? (don´t add this in a new PR)
