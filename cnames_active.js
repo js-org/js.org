@@ -260,7 +260,7 @@ var cnames_active = {
   "construyendotrabajo": "mteyss.github.io/construyendotrabajo", // noCF? (don´t add this in a new PR)
   "consultant": "jense5.github.io/consultant",
   "contextify": "abemedia.github.io/jquery-contextify", // noCF? (don´t add this in a new PR)
-  "cookiebox": "metaa.github.io/cookiebox.js",
+  "cookiebox": "metaa.gitlab.io/cookiebox.js/",
   "coord": "itsacorn.github.io/jscoord",
   "cordova-multiplatform-template": "ckgrafico.github.io/Cordova-Multiplatform-Template", // noCF? (don´t add this in a new PR)
   "cork": "davej.github.io/CorkJS",
