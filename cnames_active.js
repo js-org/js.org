@@ -939,6 +939,7 @@ var cnames_active = {
   "randy": "randyviandaputra.github.io",
   "rangeslider": "andreruffert.github.io/rangeslider.js", // noCF? (don´t add this in a new PR)
   "rate-limiter-api": "abhisekp.github.io/rate-limiter-api",
+  "rayo": "getrayo.github.io/rayo.js",
   "razod": "razod.github.io/razod",
   "rdf": "rdfjs.github.io", // noCF
   "react-atomic-ui": "react-atomic.github.io/react-atomic-ui",
