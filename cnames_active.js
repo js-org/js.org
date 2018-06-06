@@ -911,6 +911,7 @@ var cnames_active = {
   "positivebot": "positiveterminator.github.io/positivebot-site",
   "post-type-discovery": "twozeroone.github.io/post-type-discovery",
   "potion": "finnfiddle.github.io/potion",
+  "pptx" : "meshesha.github.io/pptxjs",
   "pubg": "ickerio.github.io/pubg.js",
   "prettylog": "moosecoop.github.io/PrettyLog/",
   "pristine": "sha256.github.io/Pristine", //noCF
