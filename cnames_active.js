@@ -372,6 +372,7 @@ var cnames_active = {
   "enclave": "eanplatter.github.io/enclave", // noCF? (don´t add this in a new PR)
   "energy": "energychain.github.io/energy",
   "engui": "engui.github.io",
+  "epoxy": "hosting.gitbook.com",
   "eq8": "eq8.github.io",
   "eray": "erayarslan.github.io", // noCF? (don´t add this in a new PR)
   "erest": "yourtion.github.io/node-erest",
