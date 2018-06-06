@@ -924,6 +924,7 @@ var cnames_active = {
   "purpzie": "purpzie.github.io",
   "purpziesucks": "purpzie.github.io/sucks",
   "pwa-cookbook": "sylvainpolletvillard.github.io/pwa-cookbook",
+  "pwa-workshop": "sylvainpolletvillard.github.io/pwa-workshop",
   "qs": "kirjs.github.io/qs.js", // noCF? (don´t add this in a new PR)
   "querybuilder": "mistic100.github.io/jQuery-QueryBuilder", // noCF? (don´t add this in a new PR)
   "question": "teamtofu.github.io/questionify",
