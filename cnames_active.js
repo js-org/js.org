@@ -325,7 +325,7 @@ var cnames_active = {
   "dmitry": "dmitry-zaets.github.io",
   "dns": "js-org.github.io/dns.js.org",
   "docile": "teamtofu.github.io/docile",
-  "docsify": "QingWei-Li.github.io/docsify",
+  "docsify": "docsifyjs.github.io/docsify",
   "docsify-es": "sidval.github.io/docsify-es",
   "docsify-ru": "truepatch.github.io/docsify-ru",
   "documentation": "documentationjs.github.io", // noCF? (don´t add this in a new PR)
