@@ -55,7 +55,7 @@ var cnames_active = {
   "accordion": "awps.github.io/Accordion.JS",
   "acebooks": "mohamed0group.github.io/acebooks",
   "acegroup": "mohamed0group.github.io/acegroup",
-  "acho": "achojs.github.io/acho",
+  "acho": "achojs.github.io/acho",p
   "acme": "makepost.github.io/acme-commander",
   "action-u": "kevinast.github.io/action-u",
   "active-resource": "nicklandgrebe.github.io/activeresource.js",
@@ -911,7 +911,7 @@ var cnames_active = {
   "positivebot": "positiveterminator.github.io/positivebot-site",
   "post-type-discovery": "twozeroone.github.io/post-type-discovery",
   "potion": "finnfiddle.github.io/potion",
-  "pptx" : "meshesha.github.io/pptxjs",
+  "pptx" : "meshesha.github.io/jspptxjs.github.io",
   "pubg": "ickerio.github.io/pubg.js",
   "prettylog": "moosecoop.github.io/PrettyLog/",
   "pristine": "sha256.github.io/Pristine", //noCF
