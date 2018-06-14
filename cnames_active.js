@@ -792,6 +792,7 @@ var cnames_active = {
   "neo4": "janpeter.github.io/neo4js",
   "neutrino": "neutrinojs.netlify.com", // noCF
   "nflow": "nflow-js.github.io", // noCF? (don´t add this in a new PR)
+  "nfwyst": "nfwyst.github.io",
   "ng-dux": "mister-what.github.io/ngDux",
   "ng-wig": "stevermeister.github.io/ngWig", // noCF? (don´t add this in a new PR)
   "ngbook": "ngbook.github.io",
@@ -1349,7 +1350,6 @@ var cnames_active = {
   "zombie": "assaf.github.io/zombie", // noCF? (don´t add this in a new PR)
   "zp": "tilda.ws",
   "zty": "zetaoyang.github.io",
-  "nfwyst": "nfwyst.github.io",
   /*
   * please don"t add your subdomain records down here!
   * insert them in alphabetical order to help reduce merge conflicts.
