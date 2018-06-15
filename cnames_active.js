@@ -638,7 +638,7 @@ var cnames_active = {
   "latte": "tehsenaus.github.io/latte-js",
   "laubstein": "laubstein.github.io", // noCF? (don´t add this in a new PR)
   "laue": "qingwei-li.github.io/laue",
-  "lava": "palladium.github.io/Lava.js,
+  "lava": "palladium.github.io/Lava.js",
   "leafless": "mofax.github.io/leafless",
   "lean-stack": "lean-stack.github.io", // noCF? (don´t add this in a new PR)
   "leandro": "leandrowd.github.io", // noCF? (don´t add this in a new PR)
