@@ -515,6 +515,7 @@ var cnames_active = {
   "hub": "yyued.github.io/hub.js",
   "hubble": "hubble.netlify.com",
   "huck": "huckjs.github.io/huck",
+  "hugorocaproyectos": "hugoroca.github.io/coleccion-proyectos",
   "human": "human-js.gitbooks.io", // noCF? (don´t add this in a new PR)
   "hx": "hifocus.github.io/www.hxis.me",
   "hxxbit": "hxxbit.github.io",
