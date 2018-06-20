@@ -1075,6 +1075,7 @@ var cnames_active = {
   "sdk-design": "huei90.github.io/javascript-sdk-design", // noCF? (don´t add this in a new PR)
   "sean": "seancallinan.github.io", // noCF? (don´t add this in a new PR)
   "seatbelt": "seatbeltjs.github.io/seatbelt",
+  "secsb": "secsb.github.io",
   "sed": "42ua.github.io/sed",
   "seesaw": "cajogos.github.io/seesaw", // noCF? (don´t add this in a new PR)
   "segoe-mdl2-css": "ckgrafico.github.io/Segoe-mdl2-assets-css", // noCF? (don´t add this in a new PR)
