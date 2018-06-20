@@ -218,6 +218,7 @@ var cnames_active = {
   "central-node": "central-node.github.io", // noCF? (don´t add this in a new PR)
   "chain-able": "fluents.github.io/chain-able-site",
   "chatexchange": "jacob-gray.github.io/ChatExchangeJS",
+  "charlotte": "charlottelin1125.github.io/gh-pages",
   "chartconstructor": "quarksworks.github.io/chartConstructor",
   "checklist": "hellogreg.github.io/checklist",
   "cheerio": "cheeriojs.github.io/cheerio",
