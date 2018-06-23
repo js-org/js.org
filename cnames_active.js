@@ -551,6 +551,7 @@ var cnames_active = {
   "integreat": "hosting.gitbook.com",
   "invoicing": "vahe.github.io/InvoicingJs",
   "iostream": "pantheonsh.github.io/iostream",
+  "iot": "product-engineer.github.io/iot.js.org", // noCF
   "ip-address": "beaugunderson.github.io/ip-address", // noCF? (don´t add this in a new PR)
   "ipv4": "licshee.github.io/IPv4-CIDR-Prefix-Merger",
   "ir": "irjs.github.io/docs",
@@ -1356,8 +1357,7 @@ var cnames_active = {
   "zodiac": "indus.github.io/Zodiac", // noCF? (don´t add this in a new PR)
   "zombie": "assaf.github.io/zombie", // noCF? (don´t add this in a new PR)
   "zp": "tilda.ws",
-  "zty": "zetaoyang.github.io",
-  "iot": "product-engineer.github.io/iot.js.org", // noCF
+  "zty": "zetaoyang.github.io"
   /*
   * please don"t add your subdomain records down here!
   * insert them in alphabetical order to help reduce merge conflicts.
