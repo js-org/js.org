@@ -1121,6 +1121,7 @@ var cnames_active = {
   "slim": "eavichay.github.io/slim.js",
   "smartquotes": "kellym.github.io/smartquotes.js",
   "smoove": "abemedia.github.io/jquery-smoove",
+  "smox": "132yse.github.io/smox",
   "sn0w": "greensn0w.github.io", // noCF? (don´t add this in a new PR)
   "snowglobe": "3052cole.github.io/snowglobe",
   "snekfetch": "devsnek.github.io/snekfetch",
@@ -1357,8 +1358,7 @@ var cnames_active = {
   "zodiac": "indus.github.io/Zodiac", // noCF? (don´t add this in a new PR)
   "zombie": "assaf.github.io/zombie", // noCF? (don´t add this in a new PR)
   "zp": "tilda.ws",
-  "zty": "zetaoyang.github.io",
-  "smox": "https://132yse.github.io/smox/"
+  "zty": "zetaoyang.github.io"
   /*
   * please don"t add your subdomain records down here!
   * insert them in alphabetical order to help reduce merge conflicts.
