@@ -1268,6 +1268,7 @@ var cnames_active = {
   "uneditable": "iamcristye.github.io/Uneditable.js",
   "unexpected": "unexpectedjs.github.io", // noCF? (don´t add this in a new PR)
   "uni": "arcadiogarcia.github.io/UNIJS", // noCF? (don´t add this in a new PR)
+  "unicornly": "unicornly.github.io/unicornly",
   "units": "stak-digital.github.io/units",
   "up": "codefeathers.github.io/up",
   "upresent": "bobbybee.github.io/uPresent", // noCF? (don´t add this in a new PR)
