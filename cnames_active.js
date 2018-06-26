@@ -532,8 +532,8 @@ var cnames_active = {
   "iflow": "unadlib.github.io/iflow",
   "ignite": "ignitejscl.github.io",
   "igorsantana": "igorsantana.github.io", // noCF? (don´t add this in a new PR)
-  "iio": "iioinc.github.io/iio.js", // noCF? (don´t add this in a new PR)
   "iiilfaaa": "iiilfaaa.github.io",
+  "iio": "iioinc.github.io/iio.js", // noCF? (don´t add this in a new PR)
   "illuxi": "razod.github.io/illuxi",
   "imagecapture": "googlechrome.github.io/imagecapture-polyfill",
   "imcvampire": "imcvampire.github.io",
