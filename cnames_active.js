@@ -1329,6 +1329,7 @@ var cnames_active = {
   "wedgetail": "wedgetail.netlify.com",
   "weekly": "xdimh.github.io/weekly",
   "whiteboard": "yhozen.github.io/whiteboard",
+  "whybot": "jplexer.github.io/whybot",
   "wiki": "requarks.github.io/wiki-site",
   "wildfire": "cheng-kang.github.io/wildfire",
   "within": "eric-brechemier.github.io/within", // noCF? (don´t add this in a new PR)
