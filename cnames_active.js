@@ -1329,6 +1329,7 @@ var cnames_active = {
   "weaver": "maxkfranz.github.io/weaver", // noCF? (don´t add this in a new PR)
   "webassembly": "xtuc.github.io/webassemblyjs",
   "webpack": "webpack.github.io/webpack.js.org",
+  "webpack-inspect": "alexmost.github.io/webpack-inspect",
   "wedgetail": "wedgetail.netlify.com",
   "weekly": "xdimh.github.io/weekly",
   "whiteboard": "yhozen.github.io/whiteboard",
