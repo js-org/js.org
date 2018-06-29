@@ -1083,6 +1083,7 @@ var cnames_active = {
   "sean": "seancallinan.github.io", // noCF? (don´t add this in a new PR)
   "seatbelt": "seatbeltjs.github.io/seatbelt",
   "sed": "42ua.github.io/sed",
+  "secsb": "secsb.github.io",
   "seesaw": "cajogos.github.io/seesaw", // noCF? (don´t add this in a new PR)
   "segoe-mdl2-css": "ckgrafico.github.io/Segoe-mdl2-assets-css", // noCF? (don´t add this in a new PR)
   "select_io": "selaromi.github.io/select_io", // noCF? (don´t add this in a new PR)
