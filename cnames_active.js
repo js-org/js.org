@@ -107,6 +107,7 @@ var cnames_active = {
   "argo": "albertosantini.github.io/argo", // noCF? (don´t add this in a new PR)
   "arime": "ninbryan.github.io/arime", // noCF? (don´t add this in a new PR)
   "artery": "arteryjs.github.io/gh-pages", // noCF? (don´t add this in a new PR)
+  "arthurmbandeira": "arthurmbandeira.github.io",
   "ass": "weizhenye.github.io/ASS",
   "ast": "kindy.github.io/ast",
   "astral": "espinielli.github.io/astraljs", // noCF? (don´t add this in a new PR)
