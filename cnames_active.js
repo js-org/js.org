@@ -327,6 +327,7 @@ var cnames_active = {
   "djzhao": "djzhao627.github.io",
   "dmitry": "dmitry-zaets.github.io",
   "dns": "js-org.github.io/dns.js.org",
+  "docker-toolbox": "zaucy.github.io/node-docker-toolbox",
   "docile": "teamtofu.github.io/docile",
   "docsify": "docsifyjs.github.io/docsify",
   "docsify-es": "sidval.github.io/docsify-es",
