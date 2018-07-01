@@ -89,6 +89,7 @@ var cnames_active = {
   "angular-uikit": "whoisjorge.github.io/angular-uikit",
   "angular2in1" : "angular2in1.github.io/angular2in1js", //noCF
   "angularstompdk": "davinkevin.github.io/AngularStompDK", // noCF? (don´t add this in a new PR)
+  "anime": "meguminsama.github.io/anisite",
   "animo": "thrivingkings.github.io/animo",
   "animorph": "claudiobmgrtnr.github.io/animorph",
   "ankithjoseph": "ankithjoseph.github.io",
