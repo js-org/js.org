@@ -1237,7 +1237,7 @@ var cnames_active = {
   "tmr": "ttttmr.github.io",
   "toad": "wnda.github.io/toad",
   "tokyo": "tokyojs.github.io",
-  "tom": "kikobeats.github.io/tom",
+  "tom": "tom-microservice.netlify.com",
   "tori": "boostcode.github.io/torijs",
   "torino": "torinojs.github.io", // noCF? (don´t add this in a new PR)
   "torlondev": "torlondev.github.io",
