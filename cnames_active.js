@@ -527,6 +527,7 @@ var cnames_active = {
   "hyf": "yafey.github.io",
   "hyperapp": "hyperapp.github.io",
   "hyperform": "hyperform.github.io",
+  "hyperhtml-styleguide": "albertosantini.github.io/hyperhtml-styleguide",
   "i18n4v": "shibukawa.github.io/i18n4v",
   "iagrib": "iagrib.github.io",
   "icecast": "jucrouzet.github.io/icecast.js",
