@@ -1294,6 +1294,7 @@ var cnames_active = {
   "valine": "xcss.github.io/valine",
   "valirator": "massive-angular.github.io/valirator",
   "vanessa": "vanessa219.github.io/vanessa",
+  "vanelizarov": "vanelizarov.github.io",
   "vanilla": "haeresis.github.io/vanilla-js-dom",
   "vayne": "vaynejs.github.io",
   "vbuild": "egoist.github.io/vbuild",
