@@ -1013,6 +1013,7 @@ var cnames_active = {
   "redom": "redom.github.io/redom",
   "reduce": "reducejs.github.io", // noCF? (don´t add this in a new PR)
   "redux-actions": "hosting.gitbook.com", // noCF
+  "redux-arc": "viniciusdacal.github.io/redux-arc",
   "redux-data-structures": "adrienjt.github.io/redux-data-structures",
   "redux-loop": "redux-loop.github.io/redux-loop",
   "redux-minimal": "catalin-luntraru.github.io/redux-minimal",
