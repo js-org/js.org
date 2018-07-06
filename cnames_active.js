@@ -945,7 +945,7 @@ var cnames_active = {
   "proton-native": "kusti8.github.io/proton-native",
   "protype": "arguiot.github.io/ProType",
   "pure": "fengzilong.github.io/pure",
-  "prylaris": "Prylaris/prylaris",
+  "prylaris": "prylaris.github.io/prylaris",
   "purpzie": "purpzie.github.io",
   "purpziesucks": "purpzie.github.io/sucks",
   "pwa-cookbook": "sylvainpolletvillard.github.io/pwa-cookbook",
