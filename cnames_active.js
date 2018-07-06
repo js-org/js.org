@@ -1116,7 +1116,7 @@ var cnames_active = {
   "siluna": "pahund.github.io/siluna", // noCF? (don´t add this in a new PR)
   "simulacra": "daliwali.github.io/simulacra",
   "sina": "sinabakh.github.io/sina",
-  "simba": "https://jonathanzero.github.io/simba/",
+  "simba": "jonathanzero.github.io/simba",
   "single-page-web-app": "lukejpreston.github.io/single-page-web-app",
   "single-spa":"canopytax.github.io/single-spa.js.org",
   "sirkit": "seckwei.github.io/SirKit_CircuitSim", // noCF? (don´t add this in a new PR)
