@@ -1023,6 +1023,7 @@ var cnames_active = {
   "redux-observable-cn": "rxjs-cn.github.io/redux-observable-cn",
   "redux-observable": "redux-observable.github.io/redux-observable",
   "redux-resource": "hosting.gitbook.com", // noCF
+  "redux-ru": "hosting.gitbook.com",
   "redux-saga-in-chinese": "superRaytin.github.io/redux-saga-in-chinese",
   "redux-saga": "redux-saga.github.io/redux-saga",
   "redux-saga-firebase": "redux-saga-firebase.netlify.com", //noCF
