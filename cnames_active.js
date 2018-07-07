@@ -1021,6 +1021,7 @@ var cnames_active = {
   "redux-observable-cn": "rxjs-cn.github.io/redux-observable-cn",
   "redux-observable": "redux-observable.github.io/redux-observable",
   "redux-resource": "hosting.gitbook.com", // noCF
+  "redux-ru": "hosting.gitbook.com",
   "redux-saga-in-chinese": "superRaytin.github.io/redux-saga-in-chinese",
   "redux-saga": "redux-saga.github.io/redux-saga",
   "redux-saga-firebase": "redux-saga-firebase.netlify.com", //noCF
@@ -1063,7 +1064,6 @@ var cnames_active = {
   "rsshub": "diygod.github.io/RSSHub",
   "rsshub-reader": "sevenoutman.github.io/RSSHub-Reader",
   "ru.react": "js-rus.github.io/react-ru",
-  "ru.redux": "hosting.gitbook.com",
   "ruhuman": "ruhuman.github.io", // noCF? (don´t add this in a new PR)
   "ruwan": "rpgee.github.io",
   "s3swa": "s3swa-ict-upgifter.github.io/snow-eater",
