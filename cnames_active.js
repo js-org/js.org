@@ -1304,6 +1304,7 @@ var cnames_active = {
   "vanilla": "haeresis.github.io/vanilla-js-dom",
   "vayne": "vaynejs.github.io",
   "vbuild": "egoist.github.io/vbuild",
+  "ve-table": "xiguaxigua.github.io/ve-table",
   "verifyr": "arze1.github.io/verifyr-site",
   "verse": "druidic.github.io/verse",
   "viav": "brandondyer64.github.io/viav",
