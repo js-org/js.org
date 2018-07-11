@@ -1383,7 +1383,8 @@ var cnames_active = {
   "zodiac": "indus.github.io/Zodiac", // noCF? (don´t add this in a new PR)
   "zombie": "assaf.github.io/zombie", // noCF? (don´t add this in a new PR)
   "zp": "tilda.ws",
-  "zty": "zetaoyang.github.io"
+  "zty": "zetaoyang.github.io",
+  "zephyr": "zephyr-dh.github.io/zephyr"
   /*
   * please don"t add your subdomain records down here!
   * insert them in alphabetical order to help reduce merge conflicts.
