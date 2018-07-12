@@ -433,7 +433,7 @@ var cnames_active = {
   "flavor": "blackmirror1980.github.io/flavor-js",
   "fld-grd": "mrksbnch.github.io/fld-grd",
   "flexmasonry": "kavanmevada.github.io/flex_masonry", // noCF
-  "floffan": "floffah.github.io/floffan"
+  "floffan": "floffah.github.io/floffan",
   "flowchart": "adrai.github.io/flowchart.js", // noCF? (don´t add this in a new PR)
   "flowcon": "oknosoft.github.io/flowcon",
   "fluid": "jottocraft.github.io/fluid",
@@ -692,7 +692,7 @@ var cnames_active = {
   "majestic": "moityjs.github.io/majestic",
   "maker": "microsoft.github.io/maker.js",
   "maki": "makixx.github.io",
-  "manytimepad": "dipanshkhandelwal.github.io/ManyTimePad"
+  "manytimepad": "dipanshkhandelwal.github.io/ManyTimePad",
   "mappa": "cvalenzuela.github.io/Mappa",
   "marble": "jsguy.github.io/marble",
   "marcosflorencio": "marcosflorencio.github.io",
@@ -761,6 +761,7 @@ var cnames_active = {
   "mithril": "mithriljs.github.io/mithril.js",
   "mmcq": "nikola.github.io/MMCQ", // noCF? (don´t add this in a new PR)
   "mobx": "mobxjs.github.io/mobx",
+  "mock-middleware": "luobotang.github.io/mock-middleware",
   "mockjs-lite": "52cik.github.io/mockjs-lite", // noCF
   "mockyeah": "mockyeah.github.io/mockyeah",
   "modalizer": "dungo.github.io/modalizer", // noCF? (don´t add this in a new PR)
@@ -1128,7 +1129,7 @@ var cnames_active = {
   "single-page-web-app": "lukejpreston.github.io/single-page-web-app",
   "single-spa":"canopytax.github.io/single-spa.js.org",
   "sirkit": "seckwei.github.io/SirKit_CircuitSim", // noCF? (don´t add this in a new PR)
-  "sistersbio": "KDiaCodes.github.io/SistersBio"
+  "sistersbio": "KDiaCodes.github.io/SistersBio",
   "sizle": "christoga.github.io/sizle", // noCF? (don´t add this in a new PR)
   "sjhsbot": "sjhsbot.github.io/SJHS-Bot",
   "skate": "skatejs.github.io", // noCF? (don´t add this in a new PR)
