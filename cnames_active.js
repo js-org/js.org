@@ -337,6 +337,7 @@ var cnames_active = {
   "docsify-ru": "truepatch.github.io/docsify-ru",
   "documentation": "documentationjs.github.io", // noCF? (don´t add this in a new PR)
   "docute": "egoist.github.io/docute",
+  "docx": "dolanmiu.github.io/docx",
   "dodec-design": "dodec-design.github.io",
   "dogstack": "dogstack.gitbooks.io/handbook", // noCF
   "dolphin": "uyouthe.github.io/dolphin",
