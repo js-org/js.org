@@ -634,6 +634,7 @@ var cnames_active = {
   "klasy-eris": "motiontheking.github.io/klasy-eris",
   "klepto": "mwjaworski.github.io/klepto",
   "knowyourbundle": "enapupe.github.io/know-your-bundle",
+  "knuddels": "knuddels-ui.github.io",
   "ko": "ko25july.github.io/ko.js.org",
   "kofiloop": "norech.github.io/KofiLoop",
   "komada": "dirigeants.github.io/komada",
