@@ -691,6 +691,7 @@ var cnames_active = {
   "macosnotif": "macosnotifjs.mattcowley.co.uk",
   "madankumar": "jmadankumar.github.io",
   "magnet": "magnetjs.github.io/Magnet", // noCF? (don´t add this in a new PR)
+  "mahdyar":"mahdyar.github.io/mahdyar.js.org",
   "mahmoud": "mahmoud-sagharjoughi.github.io/mahmoud",
   "majestic": "moityjs.github.io/majestic",
   "maker": "microsoft.github.io/maker.js",
