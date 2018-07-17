@@ -934,7 +934,7 @@ var cnames_active = {
   "poi": "poi.netlify.com",
   "poke": "gregjw.github.io/poke",
   "polished": "styled-components.github.io/polished",
-  "polix": "polixjs.github.io/polix.js.org",
+  "polix": "polixjs.github.io/polix.js.org", // noCF
   "polkadot": "polkadot-js.github.io",
   "polygon-clipping": "mfogel.github.io/polygon-clipping",
   "polythene": "arthurclemens.github.io/Polythene", // noCF? (don´t add this in a new PR)
