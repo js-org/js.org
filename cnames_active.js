@@ -477,6 +477,7 @@ var cnames_active = {
   "gitme": "haxzie.github.io/GitMe",
   "gka": "gkajs.github.io/gka",
   "glottologist": "arguiot.github.io/Glottologist",
+  "globalbanz": "jackkelly-bayliss.github.io/globalbanz-web",
   "godzm4tt3o": "godzm4tt3o.github.io",
   "gol": "goljs.github.io/GoL",
   "goodseller": "goodseller.github.io", // noCF? (don´t add this in a new PR)
