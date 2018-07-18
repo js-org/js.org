@@ -823,6 +823,7 @@ var cnames_active = {
   "ni": "js-ni.github.io/ni",
   "nic": "nic.github.io",
   "nick": "nmai.github.io", // noCF? (don´t add this in a new PR)
+  "nikita: "adaltas.github.io/node-nikita-docs",
   "ninh": "reeganexe.github.io/ninh",
   "nintenbot": "nintenzone.github.io/NintenBot",
   "nite": "manvalls.github.io/nite",
