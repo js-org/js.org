@@ -220,6 +220,7 @@ var cnames_active = {
   "cassie": "milesgitgud.github.io/cassie",
   "cats": "whoisjorge.github.io/not-cat-gifs",
   "central-node": "central-node.github.io", // noCF? (don´t add this in a new PR)
+  "chaaat": "chaaat.github.io",
   "chain-able": "fluents.github.io/chain-able-site",
   "chatexchange": "jacob-gray.github.io/ChatExchangeJS",
   "chartconstructor": "quarksworks.github.io/chartConstructor",
