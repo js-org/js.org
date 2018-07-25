@@ -119,6 +119,7 @@ var cnames_restricted = [
     "io",
     "js",
     "json",
+    "learn",
     "legal(s)",
     "lesson(s)",
     "license(s)",
