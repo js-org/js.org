@@ -671,6 +671,7 @@ var cnames_active = {
   "lessmd": "linuxenko.github.io/lessmd",
   "leste": "atwood-cai.github.io/leste.js", // noCF? (don´t add this in a new PR)
   "lifx": "fncxpro.github.io/lifx.js",
+  "light-observable": "dmitry-korolev.github.io/light-observable/"
   "liguori": "liguori.github.io", // noCF? (don´t add this in a new PR)
   "liike": "liikejs.github.io/Liike",
   "lineup": "datavisyn.github.io/lineup.js.org",
