@@ -1227,6 +1227,7 @@ var cnames_active = {
   "sweetalert": "t4t5.github.io/sweetalert",
   "switchit": "dongryphon.github.io/switchit",
   "switchblade": "switchbladebot.github.io/onepage",
+  "sw-yx": "sw-yx.github.io"
   "synth": "lukehorvat.github.io/synth-mood",
   "syr": "dmikey.github.io/syr",
   "tagster": "goschevski.github.io/tagster", // noCF? (don´t add this in a new PR)
