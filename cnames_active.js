@@ -1074,6 +1074,7 @@ var cnames_active = {
   "rivki": "mikqi.github.io",
   "rize": "g-plane.github.io/rize",
   "rmodal": "zewish.github.io/rmodal.js",
+  "rn": "engineerrandyn.github.io/portfolio",
   "rock": "w3core.github.io/RockJS",
   "rocket": "KevinOfNeu.github.io/rocket",
   "rockjins": "rockjins.github.io",
