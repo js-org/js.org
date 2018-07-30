@@ -1105,7 +1105,7 @@ var cnames_active = {
   "savingthrow": "pdistefano.github.io/SavingThrow.js", // noCF? (don´t add this in a new PR)
   "schisma": "schisma.github.io/opensource", // noCF? (don´t add this in a new PR)
   "scratch": "scratch-js.github.io",
-  "scrape-pages": "scrape-pages.github.io",
+  "scrape-pages": "andykais.github.io/scrape-pages",
   "scrolledin": "manuelromeroramos.github.io/scrolledIn.js", // noCF? (don´t add this in a new PR)
   "sdk-design": "huei90.github.io/javascript-sdk-design", // noCF? (don´t add this in a new PR)
   "sean": "seancallinan.github.io", // noCF? (don´t add this in a new PR)
