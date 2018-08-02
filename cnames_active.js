@@ -1026,6 +1026,7 @@ var cnames_active = {
   "react-toulouse": "moox.github.io/react-toulouse",
   "reactabular": "bebraw.github.io/reactabular",
   "reactdesktop": "gabrielbull.github.io/react-desktop", // noCF? (don´t add this in a new PR)
+  "reactour": "elrumordelaluz.github.io/reactour",
   "reactql": "leebenson.github.io/reactql-site",
   "reader": "ruanyl.github.io/js-reader", // noCF? (don´t add this in a new PR)
   "realt": "vnkitaev.github.io/realt",
