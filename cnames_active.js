@@ -155,6 +155,7 @@ var cnames_active = {
   "bestof": "michaelrambeau.github.io/bestofjs",
   "between": "na-west1.surge.sh",
   "bicbacboe":"bicbacboe.github.io/Bic-Bac-Boe",
+  "brotat":"mariobob.github.io/brotat-website",
   "bildepunkt": "bildepunkt.github.io", // noCF? (don´t add this in a new PR)
   "bind-action-dispatchers": "cchamberlain.github.io/bind-action-dispatchers", // noCF? (don´t add this in a new PR)
   "biu": "aprilorange.github.io/biu", // noCF? (don´t add this in a new PR)
