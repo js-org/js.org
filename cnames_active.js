@@ -278,6 +278,7 @@ var cnames_active = {
   "cordova-multiplatform-template": "ckgrafico.github.io/Cordova-Multiplatform-Template", // noCF? (don´t add this in a new PR)
   "cork": "davej.github.io/CorkJS",
   "corki": "dvtate.github.io/corki",
+  "corps": "copay.github.io"
   "cote": "dashersw.github.io/cote", // noCF? (don´t add this in a new PR)
   "country": "growmies.github.io/countryjs", // noCF? (don´t add this in a new PR)
   "cplayer": "copay.github.io/cPlayer",
