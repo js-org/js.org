@@ -129,7 +129,7 @@ var cnames_active = {
   "awk": "42ua.github.io/awk",
   "awoo": "awoojs.github.io/website",
   "axelgreavette": "axelgreavette.github.io",
-  "azdanov": "azdanov.netlify.com",
+  "azdanov": "azdanov.netlify.com", //noCF
   "backlog": "backlog-js.github.io/backlog.js.org", // noCF? (don´t add this in a new PR)
   "backstage": "backstagejs.github.io/backstage",
   "backwards": "backwards-n.github.io",
