@@ -745,6 +745,7 @@ var cnames_active = {
   "melies-hugo": "cristinafsanz.github.io/melies-hugo",
   "melody": "trivago.github.io/melody-web",
   "memento": "jeanfortheweb.gitbooks.io/memento",
+  "merkletree": "miguelmota.github.io/merkletreejs",
   "mern": "IamMohaiminul.GitHub.io/MERNjs",
   "mesh": "crcn.github.io/mesh.js.org", // noCF? (don´t add this in a new PR)
   "meshesha": "meshesha.github.io",
