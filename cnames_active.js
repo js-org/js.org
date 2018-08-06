@@ -1232,6 +1232,7 @@ var cnames_active = {
   "sub": "subjs.github.io",
   "sudarshan": "sudarshanRaul.github.io",
   "sudoku": "andreynering.github.io/sudoku",
+  "suka": "sukkaw.github.io"
   "sulky": "shingle.github.io/sulky", // noCF? (don´t add this in a new PR)
   "sunsistemo": "sunsistemo.github.io/sunsistemo",
   "super": "websage-team.github.io/super",
