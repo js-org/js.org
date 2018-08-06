@@ -1409,12 +1409,12 @@ var cnames_active = {
   "yamil-villarreal": "yvillarreal.github.io/index",
   "yargs": "yargs.github.io", // noCF? (don´t add this in a new PR)
   "yf": "yafey.coding.me",
+  "youngjuning": "youngjuning.github.io",
   "youtim": "mortonfox.github.io/YouTim", // noCF? (don´t add this in a new PR)
   "youtube-box": "lucasmonteverde.github.io/youtube-box", // noCF? (don´t add this in a new PR)
   "yt": "tangge1119.github.io",
   "yusril": "yusrilhs.github.io", // noCF
   "yvm": "hosting.gitbook.com", // noCF
-  "young": "youngjuning.github.io",
   "zanyuyu": "zanseven007.github.io/resume", // noCF
   "zaporizhzhia": "zaporizhzhiajs.github.io",
   "zazu": "zazujs.github.io", // noCF? (don´t add this in a new PR)
