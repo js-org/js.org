@@ -977,8 +977,7 @@ var cnames_active = {
   "protype": "arguiot.github.io/ProType",
   "pure": "fengzilong.github.io/pure",
   "prylaris": "prylaris.github.io",
-  "purpzie": "purpzie.github.io",
-  "purpziesucks": "purpzie.github.io/sucks",
+  "purpzie": "purpzie.github.io/site",
   "pwa-cookbook": "sylvainpolletvillard.github.io/pwa-cookbook",
   "pwa-workshop": "sylvainpolletvillard.github.io/pwa-workshop",
   "qs": "kirjs.github.io/qs.js", // noCF? (don´t add this in a new PR)
