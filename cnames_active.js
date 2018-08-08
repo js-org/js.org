@@ -1075,6 +1075,7 @@ var cnames_active = {
   "reshape": "reshape.netlify.com",
   "reshift": "hasharray.github.io/reshift.js",
   "restjs": "daviesgeek.github.io/restjs", // noCF? (don´t add this in a new PR)
+  "rete": "retejs.github.io",
   "revaluate": "hasharray.github.io/revaluate.js",
   "rickdesantis": "rickdesantis.github.io",
   "riklewis": "riklewis.github.io",
