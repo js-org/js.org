@@ -200,7 +200,7 @@ var cnames_active = {
   "burst": "hugeen.github.io/burst", // noCF? (don´t add this in a new PR)
   "bustime": "agarzola.github.io/bustime", // noCF? (don´t add this in a new PR)
   "buttermilk": "buttermilk.netlify.com",
-  "c-3po": "c-3po-org.github.io/c-3po",
+  "c-3po": "https://ttag-org.github.io/c-3po",
   "cable": "whatgoodisaroad.github.io/cablejs", // noCF? (don´t add this in a new PR)
   "cac": "cac.netlify.com",
   "caffeine": "ccrraaiigg.github.io/caffeine",
@@ -1302,6 +1302,7 @@ var cnames_active = {
   "ts2jsdoc": "spatools.github.io/ts2jsdoc", // noCF? (don´t add this in a new PR)
   "tsdi": "knisterpeter.github.io/tsdi",
   "tsfp": "zhenwenc.github.io/tsfp", // noCF? (don´t add this in a new PR)
+  "ttag": "https://ttag-org.github.io/ttag",
   "ttgprotect": "ttgprotect.github.io",
   "turbo": "turbo.github.io",
   "tux": "tux.gitbooks.io/docs",
