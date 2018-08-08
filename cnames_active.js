@@ -654,6 +654,7 @@ var cnames_active = {
   "konstructor": "server.ludicrous.xyz",
   "konsumer": "konsumer.github.io", // noCF? (don´t add this in a new PR)
   "kshitij": "kshitij98.github.io",
+  "ktm": "developers-nepal.github.io/ktmjs", 
   "kyoto": "kyotojs.github.io",
   "l2dwidget": "xiazeyu.github.io/live2d-widget.js-doc",
   "lab": "felixhenninger.github.io/lab.js",
