@@ -229,6 +229,7 @@ var cnames_active = {
   "chain-able": "fluents.github.io/chain-able-site",
   "chatexchange": "jacob-gray.github.io/ChatExchangeJS",
   "chartconstructor": "quarksworks.github.io/chartConstructor",
+  "chandzhang": "chandzhang.github.io",
   "checklist": "hellogreg.github.io/checklist",
   "cheerio": "cheeriojs.github.io/cheerio",
   "chernivtsi": "chernivtsijs.github.io",
