@@ -688,6 +688,7 @@ var cnames_active = {
   "lineup": "datavisyn.github.io/lineup.js.org",
   "lineupengine": "sgratzl.github.io/lineupengine.js.org",
   "ling": "wangziling.github.io",
+  "lingui": "lingui.github.io/js-lingui",
   "linghucong": "jiji262.github.io",
   "liveflow": "hasharray.github.io/liveflow.js",
   "lmk": "limengke123.github.io/newBlog",
