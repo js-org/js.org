@@ -1035,6 +1035,7 @@ var cnames_active = {
   "react-table": "react-table.netlify.com",
   "react-through": "hosting.gitbook.com",
   "react-toulouse": "moox.github.io/react-toulouse",
+  "react-woodworm": "rofrischmann.github.io/react-woodworm",
   "reactabular": "bebraw.github.io/reactabular",
   "reactdesktop": "gabrielbull.github.io/react-desktop", // noCF? (don´t add this in a new PR)
   "reactour": "elrumordelaluz.github.io/reactour",
