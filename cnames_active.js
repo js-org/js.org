@@ -431,7 +431,7 @@ var cnames_active = {
   "feeble": "feeblejs.github.io/feeble",
   "fela": "rofrischmann.github.io/fela", // noCF? (don´t add this in a new PR)
   "festercluck": "festercluck.github.io", // noCF? (don´t add this in a new PR)
-  "fidel": "904df604-0d5b-4302-978a-fd44fc33d6a1.coding.io",
+  "fidel": "pages.coding.me",
   "filehub": "minegamer5570.github.io/Filehub",
   "filer": "filerjs.github.io/filer",
   "filter": "filterjs.github.io/docs",
