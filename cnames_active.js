@@ -784,6 +784,7 @@ var cnames_active = {
   "miscord": "bjornskjald.github.io/miscord-website-redirect",
   "mithril-ja": "shibukawa.github.io/mithril-ja", // noCF? (don´t add this in a new PR)
   "mithril": "mithriljs.github.io/mithril.js",
+  "mm": "1ocalhost.github.io/mm",
   "mmcq": "nikola.github.io/MMCQ", // noCF? (don´t add this in a new PR)
   "mobx": "mobxjs.github.io/mobx",
   "mock-middleware": "luobotang.github.io/mock-middleware",
