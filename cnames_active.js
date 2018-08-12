@@ -244,6 +244,7 @@ var cnames_active = {
   "cineasta": "cineasta-js.github.io/cineasta-docs",
   "ciphercrack": "avirut.github.io/ciphercrack",
   "citation": "citation-js.github.io/site",
+  "citeapa": "natsuozawa.github.io/citeapa",
   "city": "city.github.io",
   "ck": "cikai.github.io/blog",
   "clark": "clarkdo.github.io/new-blog",
