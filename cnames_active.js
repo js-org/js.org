@@ -419,6 +419,7 @@ var cnames_active = {
   "extraction": "rse.github.io/extraction", // noCF? (don´t add this in a new PR)
   "eye": "arguiot.github.io/EyeJS",
   "facepalm": "santiagogil.github.io/facepalm",
+  "fairy": "fairymeee.github.io",
   "fan": "garychamberlain.github.io/fan",
   "fantas": "fantastiser.github.io",
   "farfetchd": "achannarasappa.github.io/farfetchd", // noCF? (don´t add this in a new PR)
@@ -452,7 +453,6 @@ var cnames_active = {
   "fluxoff": "kingscott.github.io/flux-off", // noCF? (don´t add this in a new PR)
   "flybook": "rhiokim.github.io/flybook",
   "flying-squid.prismarine": "prismarinejs.github.io/flying-squid",
-  "fm": "fairymeee.github.io",
   "fnx": "fnxjs.gitbooks.io/fnx-documentation",
   "food": "teamtofu.github.io/foodweb",
   "form": "the94air.github.io/formjs",
