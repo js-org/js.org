@@ -452,6 +452,7 @@ var cnames_active = {
   "fluxoff": "kingscott.github.io/flux-off", // noCF? (don´t add this in a new PR)
   "flybook": "rhiokim.github.io/flybook",
   "flying-squid.prismarine": "prismarinejs.github.io/flying-squid",
+  "fm": "fairymeee.github.io",
   "fnx": "fnxjs.gitbooks.io/fnx-documentation",
   "food": "teamtofu.github.io/foodweb",
   "form": "the94air.github.io/formjs",
@@ -1430,7 +1431,6 @@ var cnames_active = {
   "zeit": "vinhpz.github.io",
   "zhd": "zhDmitry.github.io",
   "zephyr": "zephyr-dh.github.io/zephyr",
-  "fm": "fairymeee.github.io",
   "zodiac": "indus.github.io/Zodiac", // noCF? (don´t add this in a new PR)
   "zoe": "zoe-js.netlify.com",
   "zombie": "assaf.github.io/zombie", // noCF? (don´t add this in a new PR)
