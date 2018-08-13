@@ -103,6 +103,7 @@ var cnames_active = {
   "aplayer": "diygod.github.io/APlayer",
   "apod": "marcosflorencio.github.io/angular-apod", // noCF? (don´t add this in a new PR)
   "applied": "omahajs.github.io/applied",
+  "apprun": "yysun.github.io/apprun"
   "apr": "ramitos.github.io/apr",
   "arc": "diegohaz.github.io/arc",
   "argo": "albertosantini.github.io/argo", // noCF? (don´t add this in a new PR)
