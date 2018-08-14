@@ -1185,6 +1185,7 @@ var cnames_active = {
   "smartquotes": "kellym.github.io/smartquotes.js",
   "smoove": "abemedia.github.io/jquery-smoove",
   "smox": "132yse.github.io/smox",
+  "snake": "pakastin.github.io/snake",
   "sn0w": "greensn0w.github.io", // noCF? (don´t add this in a new PR)
   "snowglobe": "3052cole.github.io/snowglobe",
   "snekfetch": "devsnek.github.io/snekfetch",
