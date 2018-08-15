@@ -271,7 +271,6 @@ var cnames_active = {
   "comixngn": "seun40.github.io/comix-ngn", // noCF? (don´t add this in a new PR)
   "commandfox": "commandfox.github.io/mc-tools", // noCF? (don´t add this in a new PR)
   "common-utils-pkg": "codesandcoffees.github.io/common-utils-pkg",
-  "community.luxaura": "trikel.paradox.cloud", //noCF
   "community.os": "js.bydiscourse.com", // noCF? (don´t add this in a new PR)
   "concursos": "mteyss.github.io/concursos", // noCF? (don´t add this in a new PR)
   "conductor": "hosting.gitbook.com",
@@ -703,7 +702,6 @@ var cnames_active = {
   "lostyle": "rtsao.github.io/lostyle",
   "lribeiro": "lmribeiro.github.io",
   "ls": "links-js.github.io",
-  "luxaura": "luxaurajs.netlify.com", //noCF
   "lwd": "dusterthefirst.github.io/Login-With-Discord",
   "lychee": "Artificial-Engineering.github.io/lycheeJS-website",
   "m8bot": "mapreiff.github.io/m8-bot-site",
