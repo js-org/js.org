@@ -371,6 +371,7 @@ var cnames_active = {
   "dutchakdev": "dutchakdev.github.io", // noCF? (don´t add this in a new PR)
   "dynaflo": "trevorhanus.github.io/dynaflo",
   "dynamicsnode": "crisfervil.github.io/DynamicsNode",
+  "dynamo": "dynamojs.github.io/site",
   "eahmed234": "eahmed234.github.io",
   "echo": "licshee.github.io/echo.js",
   "ed2k": "sunnyli.github.io/ed2k.js",
