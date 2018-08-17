@@ -523,6 +523,7 @@ var cnames_active = {
   "hack": "hack.netlify.com",
   "halil": "hibrahimsafak.github.io", // noCF? (don´t add this in a new PR)
   "haloapi": "derflatulator.github.io/haloapi.js", // noCF? (don´t add this in a new PR)
+  "handsfree": "handsfreejs.github.io/handsfree",
   "hapi-sol": "yonjah.github.io/hapi-sol",
   "happy": "e24.github.io/happy", // noCF? (don´t add this in a new PR)
   "hask": "janbiasi.github.io/hask", // noCF? (don´t add this in a new PR)
