@@ -535,6 +535,7 @@ var cnames_active = {
   "hk": "akura-co.github.io/hk", // noCF? (don´t add this in a new PR)
   "hoa": "thehoa.github.io",
   "hooloo": "hooloo.github.io", // noCF? (don´t add this in a new PR)
+  "hsiaoyi0504", "hsiaoyi0504.github.io",
   "hub": "yyued.github.io/hub.js",
   "hubble": "hubble.netlify.com",
   "huck": "huckjs.github.io/huck",
