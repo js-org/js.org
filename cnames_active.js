@@ -117,6 +117,7 @@ var cnames_active = {
   "awk": "42ua.github.io/awk",
   "awoo": "awoojs.github.io/website",
   "azdanov": "azdanov.github.io",
+  "bachors": "bachors.github.io",
   "backlog": "backlog-js.github.io/backlog.js.org", // noCF? (don´t add this in a new PR)
   "backstage": "backstagejs.github.io/backstage",
   "badger": "just-glue-it.github.io/badger", // noCF? (don´t add this in a new PR)
@@ -1242,7 +1243,6 @@ var cnames_active = {
   "zombie": "assaf.github.io/zombie", // noCF? (don´t add this in a new PR)
   "zp": "tilda.ws",
   "zty": "zetaoyang.github.io",
-  "bachors": "bachors.github.io",
   /*
   * please don"t add your subdomain records down here!
   * insert them in alphabetical order to help reduce merge conflicts.
