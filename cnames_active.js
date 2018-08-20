@@ -708,6 +708,7 @@ var cnames_active = {
   "lombok":"lombokjs.github.io",
   "loog": "israelroldan.github.io/loog",
   "lostyle": "rtsao.github.io/lostyle",
+  "lps": "mauris.github.io/lps.js.org",
   "lribeiro": "lmribeiro.github.io",
   "ls": "links-js.github.io",
   "lwd": "dusterthefirst.github.io/Login-With-Discord",
