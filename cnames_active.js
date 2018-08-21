@@ -1273,6 +1273,7 @@ var cnames_active = {
   "tagster": "goschevski.github.io/tagster", // noCF? (don´t add this in a new PR)
   "talker": "secondstreet.github.io/talker.js", // noCF? (don´t add this in a new PR)
   "tanok": "brabadu.github.io/tanok",
+  "tao": "zzyzxlab.github.io/tao.js",
   "tap-flux": "technologyadvice.github.io/tap-flux", // noCF? (don´t add this in a new PR)
   "tapestry-wp": "shortlist-digital.github.io/tapestry-wp",
   "tara": "shakyatara.github.io",
@@ -1422,6 +1423,7 @@ var cnames_active = {
   "writebar": "alexander-shvets.github.io/writebar",
   "wwb": "eqielb.github.io/wwb", // noCF? (don´t add this in a new PR)
   "wyfe": "wangyuanstudio.github.io/WYFE", // noCF? (don´t add this in a new PR)
+  "xn--w4h": "zzyzxlab.github.io/tao.js",
   "xn--z7h": "daniloprates.github.io/xn--z7h",
   "xprmntl": "xprmntl.github.io", // noCF? (don´t add this in a new PR)
   "xto6": "mohebifar.github.io/xto6", // noCF? (don´t add this in a new PR)
