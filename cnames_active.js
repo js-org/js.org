@@ -992,6 +992,7 @@ var cnames_active = {
   "profanity-finder": "gautamkrishnar.github.io/profanity-finder.js",
   "proteic": "proteus-h2020.github.io/proteic",
   "proton-native": "kusti8.github.io/proton-native",
+  "prototyped": "ardalanamini.github.io/prototyped.js",
   "protype": "arguiot.github.io/ProType",
   "pure": "fengzilong.github.io/pure",
   "prylaris": "prylaris.github.io",
