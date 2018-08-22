@@ -1000,6 +1000,7 @@ var cnames_active = {
   "pwa-cookbook": "sylvainpolletvillard.github.io/pwa-cookbook",
   "pwa-workshop": "sylvainpolletvillard.github.io/pwa-workshop",
   "qs": "kirjs.github.io/qs.js", // noCF? (don´t add this in a new PR)
+  "quantlib": "quantlibjs.github.io",
   "querybuilder": "mistic100.github.io/jQuery-QueryBuilder", // noCF? (don´t add this in a new PR)
   "question": "teamtofu.github.io/questionify",
   "quickdb": "truexpixels.gitbooks.io/quickdb",
