@@ -1416,6 +1416,7 @@ var cnames_active = {
   "webpack": "webpack.github.io/webpack.js.org",
   "webpack-inspect": "alexmost.github.io/webpack-inspect",
   "wedgetail": "wedgetail.netlify.com",
+  "webworker": "dickeylth.github.io",
   "weekly": "xdimh.github.io/weekly",
   "whiteboard": "yhozen.github.io/whiteboard",
   "wiki": "requarks.github.io/wiki-site",
