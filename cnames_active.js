@@ -940,6 +940,7 @@ var cnames_active = {
   "pegboard": "mplewis.github.io/pegboard",
   "pekanbaru": "pekanbarujs.github.io",
   "penguin": "domachine.github.io/penguin",
+  "penguins": "luisvallejomohl.github.io/Penguins.js".
   "penn-sdk": "pennlabs.github.io/penn-sdk-node", // noCF? (don´t add this in a new PR)
   "pentris": "justinjc.github.io/pentris2", // noCF? (don´t add this in a new PR)
   "perguth": "perguth.github.io",
