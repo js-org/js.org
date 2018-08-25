@@ -281,13 +281,13 @@ var cnames_active = {
   "contextify": "abemedia.github.io/jquery-contextify", // noCF? (don´t add this in a new PR)
   "cookiebox": "metaa.gitlab.io/cookiebox.js",
   "coord": "itsacorn.github.io/jscoord",
-  "copy": "nestedobjects.github.io/copy",
   "cordova-multiplatform-template": "ckgrafico.github.io/Cordova-Multiplatform-Template", // noCF? (don´t add this in a new PR)
   "cork": "davej.github.io/CorkJS",
   "corki": "dvtate.github.io/corki",
   "corps": "copay.github.io"
   "cote": "dashersw.github.io/cote", // noCF? (don´t add this in a new PR)
   "country": "growmies.github.io/countryjs", // noCF? (don´t add this in a new PR)
+  "cp": "nestedobjects.github.io/cp",
   "cplayer": "copay.github.io/cPlayer",
   "cqrs": "adrai.github.io/cqrs", // noCF? (don´t add this in a new PR)
   "cr": "echosoar.github.io/cr",
