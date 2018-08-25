@@ -700,6 +700,7 @@ var cnames_active = {
   "lingui": "lingui.github.io/js-lingui",
   "linghucong": "jiji262.github.io",
   "liveflow": "hasharray.github.io/liveflow.js",
+  "livenotif": "siffreinsg.github.io/livenotif",
   "lmk": "limengke123.github.io/newBlog",
   "localsync": "noderaider.github.io/localsync", // noCF? (don´t add this in a new PR)
   "lofitorrent": "deadblackclover.github.io/lofiTorrent",
