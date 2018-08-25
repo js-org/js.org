@@ -235,6 +235,7 @@ var cnames_active = {
   "chandzhang": "chandzhang.github.io",
   "checklist": "hellogreg.github.io/checklist",
   "cheerio": "cheeriojs.github.io/cheerio",
+  "cheesecake": "itscheesecake.github.io/site",
   "chernivtsi": "chernivtsijs.github.io",
   "chimon2000": "chimon2000.github.io", // noCF? (don´t add this in a new PR)
   "chinaw3c": "chinaw3c.github.io",
