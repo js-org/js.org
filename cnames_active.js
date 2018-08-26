@@ -103,7 +103,7 @@ var cnames_active = {
   "aplayer": "diygod.github.io/APlayer",
   "apod": "marcosflorencio.github.io/angular-apod", // noCF? (don´t add this in a new PR)
   "applied": "omahajs.github.io/applied",
-  "apprun": "yysun.github.io/apprun"
+  "apprun": "yysun.github.io/apprun",
   "apr": "ramitos.github.io/apr",
   "arc": "diegohaz.github.io/arc",
   "argo": "albertosantini.github.io/argo", // noCF? (don´t add this in a new PR)
@@ -286,7 +286,7 @@ var cnames_active = {
   "cordova-multiplatform-template": "ckgrafico.github.io/Cordova-Multiplatform-Template", // noCF? (don´t add this in a new PR)
   "cork": "davej.github.io/CorkJS",
   "corki": "dvtate.github.io/corki",
-  "corps": "copay.github.io"
+  "corps": "copay.github.io",
   "cote": "dashersw.github.io/cote", // noCF? (don´t add this in a new PR)
   "country": "growmies.github.io/countryjs", // noCF? (don´t add this in a new PR)
   "cp": "nestedobjects.github.io/cp",
@@ -543,7 +543,7 @@ var cnames_active = {
   "hk": "akura-co.github.io/hk", // noCF? (don´t add this in a new PR)
   "hoa": "thehoa.github.io",
   "hooloo": "hooloo.github.io", // noCF? (don´t add this in a new PR)
-  "hsiaoyi0504", "hsiaoyi0504.github.io",
+  "hsiaoyi0504": "hsiaoyi0504.github.io",
   "hub": "yyued.github.io/hub.js",
   "hubble": "hubble.netlify.com",
   "huck": "huckjs.github.io/huck",
@@ -667,7 +667,7 @@ var cnames_active = {
   "konstructor": "server.ludicrous.xyz",
   "konsumer": "konsumer.github.io", // noCF? (don´t add this in a new PR)
   "kshitij": "kshitij98.github.io",
-  "ktm": "developers-nepal.github.io/ktmjs", 
+  "ktm": "developers-nepal.github.io/ktmjs",
   "kyoto": "kyotojs.github.io",
   "l2dwidget": "xiazeyu.github.io/live2d-widget.js-doc",
   "lab": "felixhenninger.github.io/lab.js",
@@ -945,7 +945,7 @@ var cnames_active = {
   "pegboard": "mplewis.github.io/pegboard",
   "pekanbaru": "pekanbarujs.github.io",
   "penguin": "domachine.github.io/penguin",
-  "penguins": "luisvallejomohl.github.io/Penguins.js".
+  "penguins": "luisvallejomohl.github.io/Penguins.js",
   "penn-sdk": "pennlabs.github.io/penn-sdk-node", // noCF? (don´t add this in a new PR)
   "pentris": "justinjc.github.io/pentris2", // noCF? (don´t add this in a new PR)
   "perguth": "perguth.github.io",
@@ -1263,7 +1263,7 @@ var cnames_active = {
   "sub": "subjs.github.io",
   "sudarshan": "sudarshanRaul.github.io",
   "sudoku": "andreynering.github.io/sudoku",
-  "suka": "sukkaw.github.io"
+  "suka": "sukkaw.github.io",
   "sulky": "shingle.github.io/sulky", // noCF? (don´t add this in a new PR)
   "sunsistemo": "sunsistemo.github.io/sunsistemo",
   "super": "websage-team.github.io/super",
@@ -1276,7 +1276,7 @@ var cnames_active = {
   "sweetalert": "t4t5.github.io/sweetalert",
   "switchit": "dongryphon.github.io/switchit",
   "switchblade": "switchbladebot.github.io/onepage",
-  "sw-yx": "sw-yx.github.io"
+  "sw-yx": "sw-yx.github.io",
   "synth": "lukehorvat.github.io/synth-mood",
   "syr": "dmikey.github.io/syr",
   "tagster": "goschevski.github.io/tagster", // noCF? (don´t add this in a new PR)
