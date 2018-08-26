@@ -993,6 +993,7 @@ var cnames_active = {
   "potion": "finnfiddle.github.io/potion",
   "pptx" : "meshesha.github.io/jspptxjs.github.io",
   "pubg": "ickerio.github.io/pubg.js",
+  "published": "fiverr.github.io/published",
   "prettylog": "moosecoop.github.io/PrettyLog/",
   "pristine": "sha256.github.io/Pristine", //noCF
   "prismarine": "prismarinejs.github.io",
