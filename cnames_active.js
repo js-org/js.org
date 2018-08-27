@@ -61,7 +61,6 @@ var cnames_active = {
   "active-resource": "nicklandgrebe.github.io/activeresource.js",
   "ada": "ada-js.netlify.com",
   "adon988": "adon988.github.io",
-  "alphadev": "zachify.github.io/alphadev"
   "affiliate": "teamtofu.github.io/affiliate",
   "aghasemi": "aghasemi.github.io",
   "agrawalnaman": "agrawalnaman.github.io",
@@ -1215,6 +1214,7 @@ var cnames_active = {
   "solome": "solome.github.io",
   "sonny": "sonnylazuardi.github.io", // noCF? (don´t add this in a new PR)
   "sox": "sox-team.github.io/sox", // noCF? (don´t add this in a new PR)
+  "sorxlab": "zachify.github.io/SorxLab",
   "spa": "sucom.github.io/SPA.js",
   "spaas": "pakastin.github.io/spaas",
   "spectragram": "adrianengine.github.io/jquery-spectragram", // noCF? (don´t add this in a new PR)
