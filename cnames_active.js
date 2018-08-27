@@ -1436,6 +1436,7 @@ var cnames_active = {
   "wwb": "eqielb.github.io/wwb", // noCF? (don´t add this in a new PR)
   "wyfe": "wangyuanstudio.github.io/WYFE", // noCF? (don´t add this in a new PR)
   "xn--w4h": "zzyzxlab.github.io/tao.js",
+  "xincorp": "zachify.github.io/XinCorp",
   "xn--z7h": "daniloprates.github.io/xn--z7h",
   "xprmntl": "xprmntl.github.io", // noCF? (don´t add this in a new PR)
   "xto6": "mohebifar.github.io/xto6", // noCF? (don´t add this in a new PR)
