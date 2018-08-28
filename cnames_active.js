@@ -732,6 +732,7 @@ var cnames_active = {
   "maki": "makixx.github.io",
   "mali": "malijs.github.io",
   "manytimepad": "dipanshkhandelwal.github.io/ManyTimePad",
+  "mapa-cultura": "opensas.gitlab.io",
   "mappa": "cvalenzuela.github.io/Mappa",
   "marble": "jsguy.github.io/marble",
   "marcosflorencio": "marcosflorencio.github.io",
