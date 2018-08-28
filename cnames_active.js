@@ -421,6 +421,7 @@ var cnames_active = {
   "evolutions": "anshumanv.github.io/evolutions-webapp",
   "exbars": "youssefkababe.github.io/exbars", // noCF? (don´t add this in a new PR)
   "exiftool-vendored": "mceachen.github.io/exiftool-vendored.js",
+  "exiledlabs": "zachify.github.io/ExiledLabs",
   "exp": "majid-akbari.github.io/JQuery-expression-builder",
   "express-saml2": "tngan.github.io/express-saml2",
   "extenso": "theuves.github.io/extenso.js.org",
