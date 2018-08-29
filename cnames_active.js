@@ -61,7 +61,7 @@ var cnames_active = {
   "active-resource": "nicklandgrebe.github.io/activeresource.js",
   "ada": "ada-js.netlify.com",
   "adon988": "adon988.github.io",
-  "alphadev": "zachify.github.io/alphadev"
+  "alphadev": "zachify.github.io/alphadev",
   "affiliate": "teamtofu.github.io/affiliate",
   "aghasemi": "aghasemi.github.io",
   "agrawalnaman": "agrawalnaman.github.io",
