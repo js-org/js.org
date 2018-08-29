@@ -916,6 +916,7 @@ var cnames_active = {
   "opentype": "nodebox.github.io/opentype.js",
   "organizeapi": "zachary-murphy.gitbooks.io/organizeapi-docs",
   "origami": "origami-cms.github.io/cms",
+  "orango": "roboncode.github.io/orango",
   "os": "91.247.228.125", // noCF
   "oscillator": "lukehorvat.github.io/super-oscillator",
   "osom": "kikobeats.github.io/osom",
