@@ -61,7 +61,7 @@ var cnames_active = {
   "active-resource": "nicklandgrebe.github.io/activeresource.js",
   "ada": "ada-js.netlify.com",
   "adon988": "adon988.github.io",
-  "alphadev": "zachify.github.io/alphadev"
+  "alphadev": "zachify.github.io/alphadev",
   "affiliate": "teamtofu.github.io/affiliate",
   "aghasemi": "aghasemi.github.io",
   "agrawalnaman": "agrawalnaman.github.io",
@@ -917,6 +917,7 @@ var cnames_active = {
   "opentype": "nodebox.github.io/opentype.js",
   "organizeapi": "zachary-murphy.gitbooks.io/organizeapi-docs",
   "origami": "origami-cms.github.io/cms",
+  "orango": "roboncode.github.io/orango",
   "os": "91.247.228.125", // noCF
   "oscillator": "lukehorvat.github.io/super-oscillator",
   "osom": "kikobeats.github.io/osom",
