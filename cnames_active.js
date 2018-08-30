@@ -1292,6 +1292,7 @@ var cnames_active = {
   "tap-flux": "technologyadvice.github.io/tap-flux", // noCF? (don´t add this in a new PR)
   "tapestry-wp": "shortlist-digital.github.io/tapestry-wp",
   "tara": "shakyatara.github.io",
+  "taro": "nervjs.github.io/taro-website",
   "tart": "tart.github.io/tartJS", // noCF? (don´t add this in a new PR)
   "taskata": "f-ruxton.github.io/taskata",
   "tatsumaki": "mrjacz.github.io/tatsumaki.js",
