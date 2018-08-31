@@ -195,6 +195,7 @@ var cnames_active = {
   "bricklayer": "ademilter.github.io/bricklayer", // noCF? (don´t add this in a new PR)
   "bris": "brisjs.github.io",
   "browserless": "kikobeats.github.io/browserless",
+  "brugnara": "brugnara.github.io",
   "brum": "brumjs.github.io", // noCF? (don´t add this in a new PR)
   "bt": "mldonkey.github.io/bt",
   "btgprice": "beeyev.github.io/btgprice.org",
