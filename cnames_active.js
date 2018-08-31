@@ -182,6 +182,7 @@ var cnames_active = {
   "bootstrap-vue": "bootstrap-vue.github.io",
   "bornaeon": "bornaeon.github.io", // noCF
   "botgram": "botgram.github.io/botgram",
+  "bot": "zachify.github.io/ExiledLabs-BotList",
   "bottender": "bottenderjs.github.io",
   "boundless": "enigma-io.github.io/boundless",
   "bowmanmc": "bowmanmc.github.io",
@@ -1223,6 +1224,7 @@ var cnames_active = {
   "solder": "mcrocks999.github.io/solder.js",
   "solome": "solome.github.io",
   "sonny": "sonnylazuardi.github.io", // noCF? (don´t add this in a new PR)
+  "source": "zachify.github.io/ExiledLabs-Source",
   "sox": "sox-team.github.io/sox", // noCF? (don´t add this in a new PR)
   "spa": "sucom.github.io/SPA.js",
   "spaas": "pakastin.github.io/spaas",
