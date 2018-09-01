@@ -147,7 +147,7 @@ var cnames_active = {
   "base64": "licshee.github.io/base64",
   "bash": "bashjs.github.io",
   "basicgame": "basicgame.github.io/basicGame.js", // noCF? (don´t add this in a new PR)
-  "bastion": "snkrsnkampa.github.io/Bastion-Site",
+  "bastion":rnkrsnkampa.github.io/Bastion-Site",
   "batch-cluster": "mceachen.github.io/batch-cluster.js",
   "battlerite": "dragory.github.io/battlerite.js",
   "bbn": "jammer99.github.io/bbn",
@@ -1239,6 +1239,7 @@ var cnames_active = {
   "squeak": "bertfreudenberg.github.io/SqueakJS",
   "squirrelly": "nebrelbug.github.io/squirrelly-website",
   "sri": "jackub.github.io/subresource-integrity-fallback",
+  "sshplendid": "sshplendid.github.io/sshplendid.js.org",
   "stabs": "wnda.github.io/stabs",
   "stack": "stackgamedevelopment.github.io",
   "stahlstadt": "dist1.storyblok.com",
