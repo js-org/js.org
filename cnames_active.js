@@ -1239,6 +1239,7 @@ var cnames_active = {
   "squeak": "bertfreudenberg.github.io/SqueakJS",
   "squirrelly": "nebrelbug.github.io/squirrelly-website",
   "sri": "jackub.github.io/subresource-integrity-fallback",
+  "sshplendid": "sshplendid.github.io/sshplendid.js.org",
   "stabs": "wnda.github.io/stabs",
   "stack": "stackgamedevelopment.github.io",
   "stahlstadt": "dist1.storyblok.com",
