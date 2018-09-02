@@ -1365,8 +1365,9 @@ var cnames_active = {
   "ulog": "download.github.io/ulog",
   "ultcombo": "ultcombo.github.io",
   "uneditable": "iamcristye.github.io/Uneditable.js",
-  "unexpected": "unexpectedjs.github.io", // noCF? (don´t add this in a new PR)
+  "unexpected": "unexpectedjs.github.io", // noCF? (don´t add this in a n
   "uni": "arcadiogarcia.github.io/UNIJS", // noCF? (don´t add this in a new PR)
+  "mc1hd": "https://awesomehd1.github.io/awesomemc1-blog"
   "unicornly": "unicornly.github.io/unicornly",
   "units": "stak-digital.github.io/units",
   "up": "codefeathers.github.io/up",
