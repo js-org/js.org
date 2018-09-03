@@ -266,9 +266,9 @@ var cnames_active = {
   "cn.redux": "camsong.github.io/redux-in-chinese", // noCF? (don´t add this in a new PR)
   "cn.rx": "rxjs-cn.github.io/RxJS-Docs-CN", // noCF
   "cnc": "cncjs.github.io/cncjs.org",
-  "code-surfer": "code-surfer.netlify.com", // noCF
   "codemade": "codemade.github.io", // noCF? (don´t add this in a new PR)
   "codepan": "egoist.github.io/codepan",
+  "codesurfer": "code-surfer.netlify.com", // noCF
   "codux": "tannerlinsley.github.io/codux",
   "coffea": "caffeinery.github.io/coffea",
   "coir": "channg.github.io/coir",
