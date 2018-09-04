@@ -1260,7 +1260,7 @@ var cnames_active = {
   "sticky": "fawmi.github.io/sticky-pro",
   "stockings": "kgroat.github.io/stockings",
   "storage": "uzitech.github.io/storage.js",
-  "storybook": "storybooks.github.io/storybook",
+  "storybook": "storybooks.netlify.com",
   "storybooks": "storybooks.github.io",
   "stratic": "straticjs.github.io",
   "stress": "julindra.github.io/stress.js",
