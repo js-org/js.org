@@ -268,6 +268,7 @@ var cnames_active = {
   "cnc": "cncjs.github.io/cncjs.org",
   "codemade": "codemade.github.io", // noCF? (don´t add this in a new PR)
   "codepan": "egoist.github.io/codepan",
+  "codesurfer": "code-surfer.netlify.com", // noCF
   "codux": "tannerlinsley.github.io/codux",
   "coffea": "caffeinery.github.io/coffea",
   "coir": "channg.github.io/coir",
