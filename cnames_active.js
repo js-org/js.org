@@ -1389,7 +1389,7 @@ var cnames_active = {
   "vanessa": "vanessa219.github.io/vanessa",
   "vanelizarov": "vanelizarov.github.io",
   "vanilla": "haeresis.github.io/vanilla-js-dom",
-  "vanilla-picker": "https://sphinxxxx.github.io/vanilla-picker",
+  "vanilla-picker": "sphinxxxx.github.io/vanilla-picker",
   "vayne": "vaynejs.github.io",
   "vbuild": "egoist.github.io/vbuild",
   "ve-table": "xiguaxigua.github.io/ve-table",
