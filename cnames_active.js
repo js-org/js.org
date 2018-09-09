@@ -387,6 +387,7 @@ var cnames_active = {
   "ed2k": "sunnyli.github.io/ed2k.js",
   "ef": "classicoldsong.github.io/ef.js.org",
   "effectful": "awto.github.io/effectfuljs",
+  "ege": "egecue.github.io",
   "elastic-builder": "sudo-suhas.github.io/elastic-builder",
   "elementnet": "elementnet.github.io",
   "elf": "mytharcher.github.io/elf.js.org", // noCF? (don´t add this in a new PR)
