@@ -1347,6 +1347,7 @@ var cnames_active = {
   "trilogy": "citycide.github.io/trilogy",
   "trinity": "marcus-sa.github.io/trinity-js",
   "troxel": "troxeljs.github.io",
+  "troy": "troyxun.github.io",
   "true-myth": "chriskrycho.github.io/true-myth",
   "try-catch-finally": "c24w.github.io/try-catch-finally.js",
   "ts-react-boilerplate": "lapanti.github.io/ts-react-boilerplate",
