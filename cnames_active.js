@@ -1198,6 +1198,7 @@ var cnames_active = {
   "shortquery": "s--minecraft.gitbooks.io/shortquery-js", // noCF? (don´t add this in a new PR)
   "shscode":"shs-coding-club-projects.github.io",
   "silfr": "silfr.github.io/iterativecolor",
+  "silkster": "silkster.github.io",
   "silky": "wvv8oo.github.com/silky", // noCF? (don´t add this in a new PR)
   "siluna": "pahund.github.io/siluna", // noCF? (don´t add this in a new PR)
   "simulacra": "daliwali.github.io/simulacra",
