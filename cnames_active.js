@@ -411,6 +411,7 @@ var cnames_active = {
   "eric": "otteric.github.com",
   "erik": "erikroyall.github.com", // noCF? (don´t add this in a new PR)
   "erikng": "eriknguyen.github.io",
+  "erisa": "erisaaa.github.io",
   "es.redux": "sergiodxa.github.io/redux-in-spanish", // noCF? (don´t add this in a new PR)
   "es2015-node": "martinheidegger.github.io/es6modules-nodejs", // noCF? (don´t add this in a new PR)
   "es6-module-seed": "blackmirror1980.github.io/es6-module-seed",
