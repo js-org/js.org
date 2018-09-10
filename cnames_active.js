@@ -678,6 +678,7 @@ var cnames_active = {
   "komada": "dirigeants.github.io/komada",
   "konstructor": "server.ludicrous.xyz",
   "konsumer": "konsumer.github.io", // noCF? (don´t add this in a new PR)
+  "koot": "cmux.github.io/koot",
   "kshitij": "kshitij98.github.io",
   "ktm": "developers-nepal.github.io/ktmjs",
   "kyoto": "kyotojs.github.io",
@@ -1281,7 +1282,6 @@ var cnames_active = {
   "suka": "sukkaw.github.io",
   "sulky": "shingle.github.io/sulky", // noCF? (don´t add this in a new PR)
   "sunsistemo": "sunsistemo.github.io/sunsistemo",
-  "super": "websage-team.github.io/super",
   "super-controls": "thebearingedge.github.io/super-controls",
   "super-trim": "beeblebrox3.github.io/super-trim",
   "supernova": "janbiasi.github.io/supernova", // noCF? (don´t add this in a new PR)
