@@ -1169,6 +1169,7 @@ var cnames_active = {
   "schisma": "schisma.github.io/opensource", // noCF? (don´t add this in a new PR)
   "scratch": "scratch-js.github.io",
   "scrape-pages": "andykais.github.io/scrape-pages",
+  "scriptex": "scriptex.github.io",
   "scrolledin": "manuelromeroramos.github.io/scrolledIn.js", // noCF? (don´t add this in a new PR)
   "sdk-design": "huei90.github.io/javascript-sdk-design", // noCF? (don´t add this in a new PR)
   "sean": "seancallinan.github.io", // noCF? (don´t add this in a new PR)
