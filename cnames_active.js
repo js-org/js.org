@@ -1246,7 +1246,7 @@ var cnames_active = {
   "spritesheet": "arcadiogarcia.github.io/Spritesheet.js", // noCF? (don´t add this in a new PR)
   "spritewerk": "bildepunkt.github.io/spritewerk", // noCF? (don´t add this in a new PR)
   "squeak": "bertfreudenberg.github.io/SqueakJS",
-  "squirrelly": "hosting.gitbook.com",
+  "squirrelly": "hosting.gitbook.com", // noCF
   "sri": "jackub.github.io/subresource-integrity-fallback",
   "stabs": "wnda.github.io/stabs",
   "stack": "stackgamedevelopment.github.io",
