@@ -473,6 +473,7 @@ var cnames_active = {
   "food": "teamtofu.github.io/foodweb",
   "form": "the94air.github.io/formjs",
   "formred": "zewish.github.io/formred",
+  "fortnite": "ickerio.github.io/fortnite.js",
   "fortune": "fortunejs.github.io/fortune", // noCF? (don´t add this in a new PR)
   "foxford": "netology-group.github.io/foxford.github.io",
   "foxify": "foxifyjs.github.io/foxify",
