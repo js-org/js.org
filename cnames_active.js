@@ -356,6 +356,7 @@ var cnames_active = {
   "docsify": "docsifyjs.github.io/docsify",
   "docsify-es": "sidval.github.io/docsify-es",
   "docsify-ru": "truepatch.github.io/docsify-ru",
+  "docsite": "txd-team.github.io/docsite-doc-v1",
   "documentation": "documentationjs.github.io", // noCF? (don´t add this in a new PR)
   "docute": "egoist.github.io/docute",
   "docx": "dolanmiu.github.io/docx",
