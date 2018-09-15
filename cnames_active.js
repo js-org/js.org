@@ -515,6 +515,7 @@ var cnames_active = {
   "glottologist": "arguiot.github.io/Glottologist",
   "godzm4tt3o": "godzm4tt3o.github.io",
   "gol": "goljs.github.io/GoL",
+  "gondel": "namics.github.io/gondel",
   "goodseller": "goodseller.github.io", // noCF? (don´t add this in a new PR)
   "gotanda": "gotandajs.github.io",
   "gottasurf": "jottocraft.github.io/surf",
