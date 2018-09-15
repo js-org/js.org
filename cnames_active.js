@@ -741,6 +741,7 @@ var cnames_active = {
   "ls": "links-js.github.io",
   "lwd": "dusterthefirst.github.io/Login-With-Discord",
   "lychee": "Artificial-Engineering.github.io/lycheeJS-website",
+  "lyra": "amansahil.github.io/lyra.js.org",
   "m8bot": "mapreiff.github.io/m8-bot-site",
   "ma124": "ma124.github.io",
   "macosnotif": "macosnotifjs.mattcowley.co.uk",
