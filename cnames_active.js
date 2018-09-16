@@ -592,6 +592,7 @@ var cnames_active = {
   "immense": "immense.github.io", // noCF? (don´t add this in a new PR)
   "immybox": "immense.github.io/immybox", // noCF? (don´t add this in a new PR)
   "impress": "impress.github.io/impress.js",
+  "imrc-datetime-picker": "smrsan76.github.io/imrc-datetime-picker",
   "infinite-tree": "cheton.github.io/infinite-tree",
   "initial-wu": "initial-wu.github.io",
   "injectify": "injectify.github.io/docs",
