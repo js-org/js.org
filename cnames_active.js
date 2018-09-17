@@ -874,7 +874,7 @@ var cnames_active = {
   "nemo": "paypal.github.io/nemo", // noCF? (don´t add this in a new PR)
   "neo4": "janpeter.github.io/neo4js",
   "netology-group": "netology-group.github.io",
-  "neutralinojs" : "neutralinojs.github.io",
+  "neutralino" : "neutralinojs.github.io",
   "neutrino": "neutrinojs.netlify.com", // noCF
   "nflow": "nflow-js.github.io", // noCF? (don´t add this in a new PR)
   "nfwyst": "nfwyst.github.io",
