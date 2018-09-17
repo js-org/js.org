@@ -1488,6 +1488,7 @@ var cnames_active = {
   "yusril": "yusrilhs.github.io", // noCF
   "yvm": "hosting.gitbook.com", // noCF
   "zanyuyu": "zanseven007.github.io/resume", // noCF
+  "zachify": "zacharymurphy.github.io/Zachify",
   "zaporizhzhia": "zaporizhzhiajs.github.io",
   "zazu": "zazujs.github.io", // noCF? (don´t add this in a new PR)
   "zeit": "vinhpz.github.io",
