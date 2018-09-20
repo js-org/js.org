@@ -985,6 +985,7 @@ var cnames_active = {
   "phx": "phxjs.github.io",
   "picodom": "picodom.github.io",
   "picsim": "mazko.github.io/picsim.js",
+  "pigeon-maps": "mariusandra.github.io/pigeon-maps",
   "piii": "piiijs.github.io/piii.js.org",
   "pinf": "pinf.github.io", // noCF? (don´t add this in a new PR)
   "pipes": "pipesjs.github.io", // noCF? (don´t add this in a new PR)
