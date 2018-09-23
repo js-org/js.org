@@ -153,6 +153,7 @@ var cnames_active = {
   "battlerite": "dragory.github.io/battlerite.js",
   "bbn": "jammer99.github.io/bbn",
   "bc": "mazko.github.io/bc.js",
+  "bci": "pwstegman.github.io/bcijs",
   "be": "davidep87.github.io/bejs.github.io",
   "begin": "advanced-webapps-class.github.io/begin", // noCF? (don´t add this in a new PR)
   "berzan" : "newbie13xd.github.io/berzan",
