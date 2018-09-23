@@ -120,6 +120,7 @@ var cnames_active = {
   "async-af": "asyncaf.github.io/AsyncAF",
   "atavic": "atavic.github.io",
   "atombundles": "lirantal.github.io/atombundles",
+  "atomgit": "sawyerbx.github.io/atom-git-docs",
   "audio-cat": "tporl.github.io/audio-cat",
   "autodocs": "bguiz.github.io/autodocs", // noCF? (don´t add this in a new PR)
   "automic": "automicjs.github.io",
