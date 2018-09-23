@@ -1500,6 +1500,7 @@ var cnames_active = {
   "zeit": "vinhpz.github.io",
   "zhaomenghuan": "zhaomenghuan.github.io",
   "zhd": "zhDmitry.github.io",
+  "zixuan": "moehou.coding.me", // //noCF
   "zephyr": "zephyr-dh.github.io/zephyr",
   "zodiac": "indus.github.io/Zodiac", // noCF? (don´t add this in a new PR)
   "zoe": "zoe-js.netlify.com",
