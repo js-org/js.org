@@ -522,6 +522,7 @@ var cnames_active = {
   "gotanda": "gotandajs.github.io",
   "gottasurf": "jottocraft.github.io/surf",
   "gramps": "gramps-graphql.github.io/gramps",
+  "graph": "garetmckinley.github.io/graph.js.org",
   "graphics2d": "keyten.github.io/Graphics2D", // noCF? (don´t add this in a new PR)
   "graphstore": "besync.github.io/graphstore",
   "grapnel": "engineeringmode.github.io/Grapnel.js", // noCF? (don´t add this in a new PR)
@@ -576,6 +577,7 @@ var cnames_active = {
   "hyperapp": "hyperapp.github.io",
   "hyperform": "hyperform.github.io",
   "hyperhtml-styleguide": "albertosantini.github.io/hyperhtml-styleguide", // noCF
+  "i.graph": "npm.garet.io",
   "i18n4v": "shibukawa.github.io/i18n4v",
   "iagrib": "iagrib.github.io",
   "icecast": "jucrouzet.github.io/icecast.js",
