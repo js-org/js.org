@@ -233,6 +233,7 @@ var cnames_active = {
   "cartodb-demo": "opensas.github.io/cartodb-demo", // noCF? (don´t add this in a new PR)
   "cassie": "milesgitgud.github.io/cassie",
   "cats": "whoisjorge.github.io/not-cat-gifs",
+  "cbm": "iamnapo.github.io/cbmjs",
   "central-node": "central-node.github.io", // noCF? (don´t add this in a new PR)
   "chaaat": "chaaat.github.io",
   "chain-able": "fluents.github.io/chain-able-site",
