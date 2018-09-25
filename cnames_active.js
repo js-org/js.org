@@ -263,7 +263,7 @@ var cnames_active = {
   "clevercord": "theanidox.github.io/Clevercord",
   "clockwork": "clockworkdev.github.io/ClockworkWebsite",
   "clusterize": "nexts.github.io/Clusterize.js",
-  "clusterstudios": "https://cluster-studios.github.io/Website/",
+  "clusterstudios": "cluster-studios.github.io/Website",
   "cmbhackjs2013": "cmbjs.github.io/cmbHackjs2013",
   "cmdhub": "thatonetqnk.github.io/cmdhub",
   "cn.iflow": "unadlib.github.io/iflow-docs-cn",
