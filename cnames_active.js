@@ -834,6 +834,7 @@ var cnames_active = {
   "mithril": "mithriljs.github.io/mithril.js",
   "mm": "1ocalhost.github.io/mm",
   "mmcq": "nikola.github.io/MMCQ", // noCF? (don´t add this in a new PR)
+  "mo": "mirmousaviii.github.io/personal-home-page",
   "mobx": "mobxjs.github.io/mobx",
   "mock-middleware": "luobotang.github.io/mock-middleware",
   "mockjs-lite": "52cik.github.io/mockjs-lite", // noCF
