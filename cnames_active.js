@@ -172,6 +172,7 @@ var cnames_active = {
   "bloomer": "algusdark.github.io/bloomer",
   "blotter": "bradley.github.io/Blotter",
   "blurple": "blurplejs.github.io/docs",
+  "boats" "discordboats.github.io",
   "bob": "bhamblok.github.io",
   "bodybuilder": "danpaz.github.io/bodybuilder", // noCF? (don´t add this in a new PR)
   "boiler":"ro0t.github.com/Boiler",
