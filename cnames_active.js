@@ -61,7 +61,6 @@ var cnames_active = {
   "active-resource": "nicklandgrebe.github.io/activeresource.js",
   "ada": "ada-js.netlify.com",
   "adon988": "adon988.github.io",
-  "alphadev": "zachify.github.io/alphadev",
   "affiliate": "teamtofu.github.io/affiliate",
   "aghasemi": "aghasemi.github.io",
   "agrawalnaman": "agrawalnaman.github.io",
@@ -346,7 +345,6 @@ var cnames_active = {
   "dinesh": "dineshondev.github.io/dinesh", // noCF? (don´t add this in a new PR)
   "dio": "thysultan.github.io/dio.js",
   "discord": "discordjs.github.io/website",
-  "discordsc": "zachify.github.io/sourcecode",
   "discunit": "megacode18.github.io/discunit.js",
   "display": "arguiot.github.io/DisplayJS",
   "distillery": "achannarasappa.github.io/distillery", // noCF? (don´t add this in a new PR)
@@ -438,7 +436,6 @@ var cnames_active = {
   "evolutions": "anshumanv.github.io/evolutions-webapp",
   "exbars": "youssefkababe.github.io/exbars", // noCF? (don´t add this in a new PR)
   "exiftool-vendored": "mceachen.github.io/exiftool-vendored.js",
-  "exiledlabs": "zachify.github.io/ExiledLabs",
   "exp": "magicops.github.io/JQuery-expression-builder",
   "express-saml2": "tngan.github.io/express-saml2",
   "extenso": "theuves.github.io/extenso.js.org",
