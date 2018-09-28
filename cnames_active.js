@@ -766,6 +766,7 @@ var cnames_active = {
   "marcosflorencio": "marcosflorencio.github.io",
   "mare": "muzuiget.github.io/mare-site",
   "mark": "henry-luo.github.io/mark",
+  "markbox": "markbox.netlify.com",
   "markdownify": "amitmerchant1990.github.io/electron-markdownify",
   "marked": "markedjs.github.io/marked",
   "markmsmith": "markmsmith.github.io",
