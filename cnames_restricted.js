@@ -132,6 +132,7 @@ var cnames_restricted = [
     "logout",
     "loop(s)",
     "love",
+    "m",
     "mail",
     "main",
     "map(s)",
