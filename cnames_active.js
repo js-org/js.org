@@ -1,4 +1,4 @@
-ain's DNS record could not be retrieved. For more informatio
+
 /*
  ***** ACTIVE SUBDOMAINS
  * ***********************
