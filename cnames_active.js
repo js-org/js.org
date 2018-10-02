@@ -697,6 +697,7 @@ var cnames_active = {
   "kshitij": "kshitij98.github.io",
   "ktm": "developers-nepal.github.io/ktmjs",
   "kyoto": "kyotojs.github.io",
+  "krunnie": "krunniee.github.io",
   "l2dwidget": "xiazeyu.github.io/live2d-widget.js-doc",
   "lab": "felixhenninger.github.io/lab.js",
   "labelauty": "fntneves.github.io/jquery-labelauty", // noCF? (don´t add this in a new PR)
