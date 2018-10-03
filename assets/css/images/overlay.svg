@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000px" height="1000px" viewBox="0 0 1000 1000" zoomAndPan="disable">
+    <style type="text/css"><![CDATA[
+		line {
+			stroke: rgba(255,255,255,0.45);
+			stroke-width: 0.5px;
+		}
+		
+		polygon.one {
+			fill: rgba(255,255,255,0.225);
+		}
+		
+		polygon.two {
+			fill: rgba(255,255,255,0.15);
+		}
+		
+		polygon.three {
+			fill: rgba(255,255,255,0.075);
+		}
+		
+    ]]></style>
+	<polygon class="one" points="-350,0 650,1000 0,1000 0,0" />
+	<polygon class="two" points="0,0 1000,1000 0,1000 0,0" />
+	<polygon class="three" points="350,0 1350,1000 0,1000 0,0" />
+	<line x1="-350" y1="0" x2="650" y2="1000" />
+	<line x1="0" y1="0" x2="1000" y2="1000" />
+	<line x1="350" y1="0" x2="1350" y2="1000" />
+</svg>

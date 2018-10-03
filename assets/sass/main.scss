@@ -1,0 +1,466 @@
+@import 'libs/vars';
+@import 'libs/functions';
+@import 'libs/mixins';
+@import 'libs/vendor';
+@import 'libs/breakpoints';
+@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,900");
+@import url("font-awesome.min.css");
+
+/*
+	Aerial by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+*/
+
+// Breakpoints.
+
+	@include breakpoints((
+		wide:      ( 1281px,  1680px ),
+		normal:    ( 737px,   1280px ),
+		mobile:    ( 481px,   736px  ),
+		mobilep:   ( null,    480px  )
+	));
+
+// Mixins.
+
+	@mixin bg($width) {
+		@include keyframes('bg') {
+			0%		{ @include vendor('transform', 'translate3d(0,0,0)'); }
+			100%	{ @include vendor('transform', 'translate3d(#{$width * -1},0,0)'); }
+		}
+
+		#bg {
+			background-size: $width auto;
+			width: ($width * 3);
+		}
+	}
+
+	$delay-wrapper:			_duration(wrapper) - 1s;
+	$delay-overlay:			$delay-wrapper - 0.5s;
+	$delay-header:			$delay-overlay + _duration(overlay) - 0.75s;
+	$delay-nav-icons:		$delay-header + _duration(header) - 1s;
+	$delay-nav-icon:		0.25s;
+
+// Reset.
+// Based on meyerweb.com/eric/tools/css/reset (v2.0 | 20110126 | License: public domain)
+
+	html, body, div, span, applet, object,
+	iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
+	pre, a, abbr, acronym, address, big, cite,
+	code, del, dfn, em, img, ins, kbd, q, s, samp,
+	small, strike, strong, sub, sup, tt, var, b,
+	u, i, center, dl, dt, dd, ol, ul, li, fieldset,
+	form, label, legend, table, caption, tbody,
+	tfoot, thead, tr, th, td, article, aside,
+	canvas, details, embed, figure, figcaption,
+	footer, header, hgroup, menu, nav, output, ruby,
+	section, summary, time, mark, audio, video {
+		margin: 0;
+		padding: 0;
+		border: 0;
+		font-size: 100%;
+		font: inherit;
+		vertical-align: baseline;
+	}
+
+	article, aside, details, figcaption, figure,
+	footer, header, hgroup, menu, nav, section {
+		display: block;
+	}
+
+	body {
+		line-height: 1;
+	}
+
+	ol, ul {
+		list-style:none;
+	}
+
+	blockquote,	q {
+		quotes: none;
+
+		&:before,
+		&:after {
+			content: '';
+			content: none;
+		}
+	}
+
+	table {
+		border-collapse: collapse;
+		border-spacing: 0;
+	}
+
+	body {
+		-webkit-text-size-adjust: none;
+	}
+
+	mark {
+		background-color: transparent;
+		color: inherit;
+	}
+
+	input::-moz-focus-inner {
+		border: 0;
+		padding: 0;
+	}
+
+	input, select, textarea {
+		-moz-appearance: none;
+		-webkit-appearance: none;
+		-ms-appearance: none;
+		appearance: none;
+	}
+
+/* Basic */
+
+	// Set box model to border-box.
+	// Based on css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-practice
+		html {
+			box-sizing: border-box;
+		}
+
+		*, *:before, *:after {
+			box-sizing: inherit;
+		}
+
+	body {
+		background: _palette(bg);
+		overflow: hidden;
+
+		// Stops initial animations until page loads.
+			&.is-preload {
+				*, *:before, *:after {
+					@include vendor('animation', 'none !important');
+					@include vendor('transition', 'none !important');
+				}
+			}
+
+	}
+
+	body, input, select, textarea {
+		color: _palette(fg);
+		font-family: 'Source Sans Pro', sans-serif;
+		font-size: 15pt;
+		font-weight: 300 !important;
+		letter-spacing: -0.025em;
+		line-height: 1.75em;
+	}
+
+	a {
+		@include vendor('transition', 'border-color 0.2s ease-in-out');
+		border-bottom: dotted 1px;
+		color: inherit;
+		outline: 0;
+		text-decoration: none;
+
+		&:hover {
+			border-color: transparent;
+		}
+	}
+
+/* Icon */
+
+	.icon {
+		@include icon;
+		position: relative;
+
+		> .label {
+			display: none;
+		}
+	}
+
+/* Wrapper */
+
+	@include keyframes('wrapper') {
+		0%		{ opacity: 0; }
+		100%	{ opacity: 1; }
+	}
+
+	#wrapper {
+		@include vendor('animation', 'wrapper #{_duration(wrapper)} forwards');
+		height: 100%;
+		left: 0;
+		opacity: 0;
+		position: fixed;
+		top: 0;
+		width: 100%;
+	}
+
+/* BG */
+
+	#bg {
+		@include vendor('animation', 'bg #{_duration(bg)} linear infinite');
+		@include vendor('backface-visibility', 'hidden');
+		@include vendor('transform', 'translate3d(0,0,0)');
+
+		/* Set your background with this */
+		background: _misc(bg);
+
+		background-repeat: repeat-x;
+		height: 100%;
+		left: 0;
+		opacity: 1;
+		position: fixed;
+		top: 0;
+	}
+
+	@include bg(_misc(bg-width) * 1.5);
+
+/* Overlay */
+
+	@include keyframes('overlay') {
+		0%		{ opacity: 0; }
+		100%	{ opacity: 1; }
+	}
+
+	#overlay {
+		@include vendor('animation', 'overlay #{_duration(overlay)} #{$delay-overlay} forwards');
+		background-attachment: fixed, fixed;
+		background-image: url('images/overlay-pattern.png'), url('images/overlay.svg');
+		background-position: top left, center center;
+		background-repeat: repeat, no-repeat;
+		background-size: auto, cover;
+		height: 100%;
+		left: 0;
+		opacity: 0;
+		position: fixed;
+		top: 0;
+		width: 100%;
+	}
+
+/* Main */
+
+	#main {
+		height: 100%;
+		left: 0;
+		position: fixed;
+		text-align: center;
+		top: 0;
+		width: 100%;
+
+		&:before {
+			content: '';
+			display: inline-block;
+			height: 100%;
+			margin-right: 0;
+			vertical-align: middle;
+			width: 1px;
+		}
+	}
+
+/* Header */
+
+	@include keyframes('header') {
+		0%		{ @include vendor('transform', 'translate3d(0,1em,0)'); opacity: 0; }
+		100%	{ @include vendor('transform', 'translate3d(0,0,0)'); opacity: 1; }
+	}
+
+	@include keyframes('nav-icons') {
+		0%		{ @include vendor('transform', 'translate3d(0,1em,0)'); opacity: 0; }
+		100%	{ @include vendor('transform', 'translate3d(0,0,0)'); opacity: 1; }
+	}
+
+	#header {
+		@include vendor('animation', 'header #{_duration(header)} #{$delay-header} forwards');
+		@include vendor('backface-visibility', 'hidden');
+		@include vendor('transform', 'translate3d(0,0,0)');
+		cursor: default;
+		display: inline-block;
+		opacity: 0;
+		position: relative;
+		text-align: center;
+		top: -1em;
+		vertical-align: middle;
+		width: 90%;
+
+		h1 {
+			font-size: 4.35em;
+			font-weight: 900;
+			letter-spacing: -0.035em;
+			line-height: 1em;
+		}
+
+		p {
+			font-size: 1.25em;
+			margin: 0.75em 0 0.25em 0;
+			opacity: 0.75;
+		}
+
+		nav {
+			margin: 1.5em 0 0 0;
+
+			li {
+				@include vendor('animation', 'nav-icons #{_duration(nav-icons)} ease-in-out forwards');
+				@include vendor('backface-visibility', 'hidden');
+				@include vendor('transform', 'translate3d(0,0,0)');
+				display: inline-block;
+				height: _size(nav-icon-wrapper);
+				line-height: _size(nav-icon-wrapper) * 1.1;
+				opacity: 0;
+				position: relative;
+				top: 0;
+				width: _size(nav-icon-wrapper);
+
+				@for $x from 1 through 10 {
+					&:nth-child(#{$x}) {
+						@include vendor('animation-delay', ($delay-nav-icons + ($x * $delay-nav-icon)) + '');
+					}
+				}
+			}
+
+			a {
+				-webkit-tap-highlight-color: rgba(0,0,0,0);
+				-webkit-touch-callout: none;
+				border: 0;
+				display: inline-block;
+
+				&:before {
+					@include vendor('transition', 'all 0.2s ease-in-out');
+					border-radius: 100%;
+					border: solid 1px _palette(fg);
+					display: block;
+					font-size: _size(nav-icon);
+					height: 2.5em;
+					line-height: 2.5em;
+					position: relative;
+					text-align: center;
+					top: 0;
+					width: 2.5em;
+				}
+
+				&:hover {
+					font-size: 1.1em;
+
+					&:before {
+						background-color: _palette(nav-icon, hover-bg);
+						color: _palette(nav-icon, hover-fg);
+					}
+				}
+
+				&:active {
+					font-size: 0.95em;
+					background: none;
+
+					&:before {
+						background-color: _palette(nav-icon, active-bg);
+						color: _palette(nav-icon, active-fg);
+					}
+				}
+
+				span {
+					display: none;
+				}
+			}
+		}
+	}
+
+/* Footer */
+
+	#footer {
+		@include vendor('background-image', 'linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.5) 75%)');
+		bottom: 0;
+		cursor: default;
+		height: 6em;
+		left: 0;
+		line-height: 8em;
+		position: absolute;
+		text-align: center;
+		width: 100%;
+	}
+
+/* Wide */
+
+	@include breakpoint('<=wide') {
+
+		/* Basic */
+
+			body, input, select, textarea {
+				font-size: 13pt;
+			}
+
+		/* BG */
+
+			@include bg(_misc(bg-width));
+
+	}
+
+/* Normal */
+
+	@include breakpoint('<=normal') {
+
+		/* Basic */
+
+			body, input, select, textarea {
+				font-size: 12pt;
+			}
+
+		/* BG */
+
+			@include bg(_misc(bg-width) * 0.5);
+
+	}
+
+/* Mobile */
+
+	@include breakpoint('<=mobile') {
+
+		/* Basic */
+
+			body {
+				min-width: 320px;
+			}
+
+			body, input, select, textarea {
+				font-size: 11pt;
+			}
+
+		/* BG */
+
+			@include bg(_misc(bg-width) * 0.2);
+
+		/* Header */
+
+			#header {
+				h1 {
+					font-size: 2.5em;
+				}
+
+				p {
+					font-size: 1em;
+				}
+
+				nav {
+					font-size: 1em;
+
+					a {
+						&:hover {
+							font-size: 1em;
+						}
+
+						&:active {
+							font-size: 1em;
+						}
+					}
+				}
+			}
+
+	}
+
+/* Mobile (Portrait) */
+
+	@include breakpoint('<=mobilep') {
+
+		/* BG */
+
+			@include bg(_misc(bg-width) * 0.275);
+
+		/* Header */
+
+			#header {
+				nav {
+					padding: 0 1em;
+				}
+			}
+
+	}
