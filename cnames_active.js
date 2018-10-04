@@ -172,7 +172,7 @@ var cnames_active = {
   "bloomer": "algusdark.github.io/bloomer",
   "blotter": "bradley.github.io/Blotter",
   "blurple": "blurplejs.github.io/docs",
-  "boats" "discordboats.github.io",
+  "boats": "discordboats.github.io",
   "bob": "bhamblok.github.io",
   "bodybuilder": "danpaz.github.io/bodybuilder", // noCF? (don´t add this in a new PR)
   "boiler":"ro0t.github.com/Boiler",
@@ -555,6 +555,7 @@ var cnames_active = {
   "hapi-sol": "yonjah.github.io/hapi-sol",
   "happy": "e24.github.io/happy", // noCF? (don´t add this in a new PR)
   "hask": "janbiasi.github.io/hask", // noCF? (don´t add this in a new PR)
+  "ha-store": "fed135.github.io/ha-store",
   "hay": "hayjs.github.io/hay.js.org",
   "hbase": "adaltas.github.io/node-hbase-docs",
   "heartseekers": "rajington.github.io/heartseekers", // noCF? (don´t add this in a new PR)
