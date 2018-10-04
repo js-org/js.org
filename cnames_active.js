@@ -419,6 +419,7 @@ var cnames_active = {
   "eq8": "eq8.github.io",
   "eray": "erayarslan.github.io", // noCF? (don´t add this in a new PR)
   "erebos": "mainframehq.github.io/erebos",
+  "erdems": "erdemsweb.github.io",
   "erest": "yourtion.github.io/node-erest",
   "eric": "otteric.github.com",
   "erik": "erikroyall.github.com", // noCF? (don´t add this in a new PR)
@@ -1518,7 +1519,6 @@ var cnames_active = {
   "zombie": "assaf.github.io/zombie", // noCF? (don´t add this in a new PR)
   "zp": "tilda.ws",
   "zty": "zetaoyang.github.io"
-  "erdems": "erdemsweb.github.io"
   /*
   * please don"t add your subdomain records down here!
   * insert them in alphabetical order to help reduce merge conflicts.
