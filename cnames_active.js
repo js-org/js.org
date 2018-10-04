@@ -1271,6 +1271,7 @@ var cnames_active = {
   "spin": "fgnass.github.io/spin.js", // noCF? (don´t add this in a new PR)
   "spirare": "waldenn.github.io/spirare", // noCF? (don´t add this in a new PR)
   "spiritual": "spiritual-js.github.io", // noCF? (don´t add this in a new PR)
+  "split": "nathancahill.github.io/Split.js",
   "splitting": "shshaw.github.io/Splitting",
   "spreadsheet": "chiefofgxbxl.github.io/Spreadsheet.js",
   "spritesheet": "arcadiogarcia.github.io/Spritesheet.js", // noCF? (don´t add this in a new PR)
