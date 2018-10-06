@@ -1096,6 +1096,7 @@ var cnames_active = {
   "react-native-floating-labels": "mayank-patel.github.io/react-native-floating-labels",
   "react-observatory": "hosting.gitbook.com",
   "react-pivottable": "plotly.github.io/react-pivottable",
+  "react-redux": "react-redux-docs.netlify.com"
   "react-responsive-carousel": "leandrowd.github.io/react-responsive-carousel", // noCF? (don´t add this in a new PR)
   "react-shared": "rvikmanis.github.io/react-shared", // noCF? (don´t add this in a new PR)
   "react-state": "tannerlinsley.github.io/react-state",
