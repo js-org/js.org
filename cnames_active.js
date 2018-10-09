@@ -1527,6 +1527,7 @@ var cnames_active = {
   "zhd": "zhDmitry.github.io",
   "zephyr": "zephyr-dh.github.io/zephyr",
   "zodiac": "indus.github.io/Zodiac", // noCF? (don´t add this in a new PR)
+  "zodiacsigns": "dipanshkhandelwal.github.io/my-zodiac-sign",
   "zoe": "zoe-js.netlify.com",
   "zombie": "assaf.github.io/zombie", // noCF? (don´t add this in a new PR)
   "zp": "tilda.ws",
