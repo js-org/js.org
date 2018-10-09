@@ -696,7 +696,6 @@ var cnames_active = {
   "ko": "ko25july.github.io/ko.js.org",
   "kofiloop": "norech.github.io/KofiLoop",
   "komada": "dirigeants.github.io/komada",
-  "konstructor": "server.ludicrous.xyz",
   "konsumer": "konsumer.github.io", // noCF? (don´t add this in a new PR)
   "koot": "cmux.github.io/koot",
   "kshitij": "kshitij98.github.io",
@@ -1286,6 +1285,7 @@ var cnames_active = {
   "squeak": "bertfreudenberg.github.io/SqueakJS",
   "squirrelly": "hosting.gitbook.com", // noCF
   "sri": "jackub.github.io/subresource-integrity-fallback",
+  "srvr": "alias.zeit.co", //noCF
   "stabs": "wnda.github.io/stabs",
   "stack": "stackgamedevelopment.github.io",
   "stahlstadt": "dist1.storyblok.com",
