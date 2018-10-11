@@ -1373,6 +1373,7 @@ var cnames_active = {
   "tint": "tintjs.github.io", // noCF? (don´t add this in a new PR)
   "tinylinux": "e8johan.github.io/tiny-js", // noCF? (don´t add this in a new PR)
   "tixol": "vcxiz.github.io/tixol",
+  "tiza": "pd4d10.github.io/tiza",
   "tmr": "ttttmr.github.io",
   "toad": "wnda.github.io/toad",
   "tokyo": "tokyojs.github.io",
