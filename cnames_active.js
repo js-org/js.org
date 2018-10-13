@@ -1339,6 +1339,7 @@ var cnames_active = {
   "sw-yx": "sw-yx.github.io",
   "synth": "lukehorvat.github.io/synth-mood",
   "syr": "dmikey.github.io/syr",
+  "systee": "mynuolr.gitub.io/Systee",
   "tagster": "goschevski.github.io/tagster", // noCF? (don´t add this in a new PR)
   "talker": "secondstreet.github.io/talker.js", // noCF? (don´t add this in a new PR)
   "tanok": "brabadu.github.io/tanok",
