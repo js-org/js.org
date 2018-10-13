@@ -52,6 +52,7 @@ var cnames_active = {
   "abdalla": "the94air.github.io/abdalla",
   "abhishek": "rpidanny.github.io/personal-collage",
   "abialbon": "abialbon.github.io",
+  "acarsy": "acarsy.github.io",
   "accordion": "awps.github.io/Accordion.JS",
   "acebooks": "mohamed0group.github.io/acebooks",
   "acegroup": "mohamed0group.github.io/acegroup",
