@@ -47,6 +47,7 @@ var cnames_active = {
   "2tube": "you2php.github.io/you2php",
   "404": "licshee.github.io/404",
   "76": "hustcc.github.io/76",
+  "766": "766.github.io"
   "7anshuai": "7anshuai.github.io", // noCF? (don´t add this in a new PR)
   "8art": "erayarslan.github.io/8art", // noCF? (don´t add this in a new PR)
   "98": "1j01.github.io/98",
