@@ -51,7 +51,7 @@ var cnames_active = {
   "8art": "erayarslan.github.io/8art", // noCF? (don´t add this in a new PR)
   "98": "1j01.github.io/98",
   "abbyz": "zhoumm.github.io",
-  "abdalla": "the94air.github.io/abdaƒlla",
+  "abdalla": "the94air.github.io/abdalla",
   "abhishek": "rpidanny.github.io/personal-collage",
   "abialbon": "abialbon.github.io",
   "acarsy": "acarsy.github.io",
