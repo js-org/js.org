@@ -965,6 +965,7 @@ var cnames_active = {
   "onlineth": "onlineth.github.io",
   "openrecord": "philwaldmann.github.io/openrecord",
   "opentype": "nodebox.github.io/opentype.js",
+  "openwhois": "openwhois.github.io",
   "organizeapi": "zachary-murphy.gitbooks.io/organizeapi-docs",
   "origami": "origami-cms.github.io/cms",
   "orango": "roboncode.github.io/orango",
