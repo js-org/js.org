@@ -703,7 +703,6 @@ var cnames_active = {
   "ko": "ko25july.github.io/ko.js.org",
   "kofiloop": "norech.github.io/KofiLoop",
   "komada": "dirigeants.github.io/komada",
-  "konstructor": "server.ludicrous.xyz",
   "konsumer": "konsumer.github.io", // noCF? (don´t add this in a new PR)
   "koot": "cmux.github.io/koot",
   "kshitij": "kshitij98.github.io",
