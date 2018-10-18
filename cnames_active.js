@@ -1285,7 +1285,6 @@ var cnames_active = {
   "squeak": "bertfreudenberg.github.io/SqueakJS",
   "squirrelly": "hosting.gitbook.com", // noCF
   "sri": "jackub.github.io/subresource-integrity-fallback",
-  "srvr": "alias.zeit.co", //noCF
   "stabs": "wnda.github.io/stabs",
   "stack": "stackgamedevelopment.github.io",
   "stahlstadt": "dist1.storyblok.com",
