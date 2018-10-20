@@ -507,7 +507,7 @@ var cnames_active = {
   "fuck": "gerd2002.github.io/fuck.js",
   "funbook": "egoist.github.io/funbook",
   "funfuncs": "floffah.github.io/funfuncs",
-  "fusuhub": " fusuhub.github.io",
+  "fucao": " fusuhub.github.io",
   "fyi": "tobihrbr.github.io/fyi",
   "g": "nodebox.github.io/g.js",
   "gal": "galmail.github.io", // noCF? (don´t add this in a new PR)
