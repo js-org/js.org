@@ -327,6 +327,7 @@ var cnames_active = {
   "danmaku": "weizhenye.github.io/Danmaku",
   "danmol": "dan12mol.github.io", // noCF? (don´t add this in a new PR)
   "danieljuarezp": "danieljuarezp.github.io",
+  "dash": "archiebaer.github.io/dash",
   "dataclass": "alexeyraspopov.github.io/dataclass",
   "datastructures": "deadcoder0904.github.io/datastructures",
   "date": "matthewmueller.github.io/date", // noCF? (don´t add this in a new PR)
@@ -892,7 +893,6 @@ var cnames_active = {
   "mvidalgarcia": "mvidalgarcia.github.io", // noCF? (don´t add this in a new PR)
   "mw": "agauniyal.github.io/mw",
   "mysketch": "dipanshkhandelwal.github.io/MySketch",
-  "mysite": "archiebaer.github.io/mysite-js",
   "mythbusters": "mythbustersjs.netlify.com",
   "n-j-m": "n-j-m.github.io", // noCF? (don´t add this in a new PR)
   "namelessman": "namelessman.github.io",
