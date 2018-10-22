@@ -48,7 +48,7 @@ var cnames_active = {
   "2tube": "you2php.github.io/you2php",
   "404": "licshee.github.io/404",
   "76": "hustcc.github.io/76",
-  "766": "766.github.io"
+  "766": "766.github.io",
   "7anshuai": "7anshuai.github.io", // noCF? (don´t add this in a new PR)
   "8art": "erayarslan.github.io/8art", // noCF? (don´t add this in a new PR)
   "98": "1j01.github.io/98",
@@ -113,7 +113,7 @@ var cnames_active = {
   "apprun": "yysun.github.io/apprun",
   "apr": "ramitos.github.io/apr",
   "arc": "diegohaz.github.io/arc",
-  "arda": "ardasoyturk.github.io"
+  "arda": "ardasoyturk.github.io",
   "argo": "albertosantini.github.io/argo", // noCF? (don´t add this in a new PR)
   "arime": "ninbryan.github.io/arime", // noCF? (don´t add this in a new PR)
   "artery": "arteryjs.github.io/gh-pages", // noCF? (don´t add this in a new PR)
@@ -1109,7 +1109,7 @@ var cnames_active = {
   "react-native-floating-labels": "mayank-patel.github.io/react-native-floating-labels",
   "react-observatory": "hosting.gitbook.com",
   "react-pivottable": "plotly.github.io/react-pivottable",
-  "react-redux": "react-redux-docs.netlify.com"
+  "react-redux": "react-redux-docs.netlify.com",
   "react-responsive-carousel": "leandrowd.github.io/react-responsive-carousel", // noCF? (don´t add this in a new PR)
   "react-shared": "rvikmanis.github.io/react-shared", // noCF? (don´t add this in a new PR)
   "react-state": "tannerlinsley.github.io/react-state",
@@ -1132,7 +1132,7 @@ var cnames_active = {
   "reassign": "hasharray.github.io/reassign.js",
   "rebatov": "rebatov.github.io",
   "rebem": "rebem.github.io", // noCF? (don´t add this in a new PR)
-  "recover": "luisvallejomohl.github.io/Recover.js", 
+  "recover": "luisvallejomohl.github.io/Recover.js",
   "recycle": "recyclejs.github.io/recycle",
   "redis": "noderedis.github.io/node_redis", // noCF? (don´t add this in a new PR)
   "redom": "redom.github.io/redom",
