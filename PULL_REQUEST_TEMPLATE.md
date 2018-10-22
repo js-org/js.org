@@ -1,6 +1,6 @@
 ### Subdomain Request Form
 
-Fill out this form completly and correctly or your application will be denied.
+Please fill out this form completely to speed up the process.
 
 |  |  |
 | --- | --- |
