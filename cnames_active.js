@@ -36,6 +36,7 @@
  */
 
 var cnames_active = {
+  "senpai": "zentor.github.io",
   "": "js-org.github.io",
   "100dayz": "deadcoder0904.github.io/100dayz",
   "101": "7anshuai.github.io/js101", // noCF? (don´t add this in a new PR)
