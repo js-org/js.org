@@ -1433,6 +1433,7 @@ var cnames_active = {
   "unexpected": "unexpectedjs.github.io", // noCF? (don´t add this in a new PR)
   "uni": "arcadiogarcia.github.io/UNIJS", // noCF? (don´t add this in a new PR)
   "unicornly": "unicornly.github.io/unicornly",
+  "unified": "unifiedjs.github.io",
   "units": "stak-digital.github.io/units",
   "unoconv": "blog.ryanwu.me/Unoconv-Promise",
   "up": "codefeathers.github.io/up",
