@@ -1522,6 +1522,7 @@ var cnames_active = {
   "xn--w4h": "zzyzxlab.github.io/tao.js",
   "xn--z7h": "daniloprates.github.io/xn--z7h",
   "xprmntl": "xprmntl.github.io", // noCF? (don´t add this in a new PR)
+  "xstate": "davidkpiano.github.io/xstate",
   "xto6": "mohebifar.github.io/xto6", // noCF? (don´t add this in a new PR)
   "xtype": "lucono.github.io/xtypejs", // noCF? (don´t add this in a new PR)
   "y86": "quietshu.github.io/y86", // noCF? (don´t add this in a new PR)
