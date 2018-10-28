@@ -622,6 +622,7 @@ var cnames_active = {
   "instabousing": "jlbousing.github.io/instaBousing",
   "integreat": "hosting.gitbook.com",
   "invoicing": "vahe.github.io/InvoicingJs",
+  "ion": "ionjs-dev.github.io",
   "iostream": "pantheonsh.github.io/iostream",
   "iot": "product-engineer.github.io/iot.js.org", // noCF
   "ip-address": "beaugunderson.github.io/ip-address", // noCF? (don´t add this in a new PR)
