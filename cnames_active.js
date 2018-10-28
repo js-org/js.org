@@ -1321,6 +1321,7 @@ var cnames_active = {
   "stephenmccall": "stephenmccall.github.io", // noCF? (don´t add this in a new PR)
   "steven": "stpeng.github.io",
   "sticky": "fawmi.github.io/sticky-pro",
+  "stino": "stinobe.github.io/Stino",
   "stockings": "kgroat.github.io/stockings",
   "storage": "uzitech.github.io/storage.js",
   "storybook": "storybooks.netlify.com", //noCF
