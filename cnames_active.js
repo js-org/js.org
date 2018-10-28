@@ -1059,6 +1059,7 @@ var cnames_active = {
   "prismarine": "prismarinejs.github.io",
   "producify": "jesobreira.github.io/producify",
   "profanity-finder": "gautamkrishnar.github.io/profanity-finder.js",
+  "projects-tracker": "iamdevlinph.github.io/projects-tracker",
   "proteic": "proteus-h2020.github.io/proteic",
   "proton-native": "kusti8.github.io/proton-native",
   "prototyped": "ardalanamini.github.io/prototyped.js",
