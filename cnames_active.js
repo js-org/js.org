@@ -1506,6 +1506,7 @@ var cnames_active = {
   "weekly": "xdimh.github.io/weekly",
   "whiteboard": "yhozen.github.io/whiteboard",
   "wice": "yulioaj290.github.io/wice.js",
+  "wiiflee" : "un-root.github.io/wiiflee-landing",
   "wiki": "wikijs.netlify.com", // noCF
   "wildfire": "cheng-kang.github.io/wildfire",
   "within": "eric-brechemier.github.io/within", // noCF? (don´t add this in a new PR)
