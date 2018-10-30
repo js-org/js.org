@@ -220,6 +220,7 @@ var cnames_active = {
   "c-3po": "ttag-org.github.io/c-3po",
   "cable": "whatgoodisaroad.github.io/cablejs", // noCF? (don´t add this in a new PR)
   "cac": "cac.netlify.com",
+  "cad": "qicad.com",
   "caffeine": "ccrraaiigg.github.io/caffeine",
   "cagatay": "cagataycali.github.io",
   "calcy": "odevlord.github.io/Calcy", // noCF? (don´t add this in a new PR)
