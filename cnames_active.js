@@ -1516,6 +1516,7 @@ var cnames_active = {
   "webpack-inspect": "alexmost.github.io/webpack-inspect",
   "wedgetail": "wedgetail.netlify.com",
   "weekly": "xdimh.github.io/weekly",
+  "wglt": "codyebberson.github.io/wglt",
   "whiteboard": "yhozen.github.io/whiteboard",
   "wice": "yulioaj290.github.io/wice.js",
   "wiki": "wikijs.netlify.com", // noCF
