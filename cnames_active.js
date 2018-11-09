@@ -871,6 +871,7 @@ var cnames_active = {
   "moehou": "moehou.coding.me", //noCF
   "mog-script": "mog-script.github.io",
   "mohit": "mohitgarg.github.io",
+  "mojiscript": "joelnet.github.io/MojiScript",
   "mol": "eigenmethod.github.io/mol", // noCF
   "molti": "moltijs.github.io/molti",
   "mom": "momjs.github.io/mom",
