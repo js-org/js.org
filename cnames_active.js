@@ -803,6 +803,7 @@ var cnames_active = {
   "masha": "smarttelemax.github.io/MaSha",
   "materialish": "jamesplease.github.io/materialish",
   "materialize-bootbox": "iqbalfn.github.io/materialize-bootbox",
+  "matrix-rref-solver": "arisweedler.github.io/matrix-rref-solver",
   "matthias-schuetz": "matthias-schuetz.github.io", // noCF? (don´t add this in a new PR)
   "maxnachlinger": "maxnachlinger.github.io", // noCF? (don´t add this in a new PR)
   "maxtracking": "maxtracking.github.io", // noCF? (don´t add this in a new PR)
