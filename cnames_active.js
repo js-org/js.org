@@ -1070,6 +1070,7 @@ var cnames_active = {
   "profanity-finder": "gautamkrishnar.github.io/profanity-finder.js",
   "project-ignite": "project-ignite.github.io",
   "projects-tracker": "iamdevlinph.github.io/projects-tracker",
+  "promise": "gleeny.github.io",
   "proteic": "proteus-h2020.github.io/proteic",
   "proton-native": "kusti8.github.io/proton-native",
   "prototyped": "ardalanamini.github.io/prototyped.js",
