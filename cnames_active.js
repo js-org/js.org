@@ -1204,6 +1204,7 @@ var cnames_active = {
   "rocket": "KevinOfNeu.github.io/rocket",
   "rockjins": "rockjins.github.io",
   "roger": "klopango.github.io/js-org",
+  "roghib": "javaxe.github.io",
   "rosmaro": "lukaszmakuch.github.io/rosmaro",
   "router-advanced": "oldergod.github.io/router-advanced",
   "router5": "hosting.gitbook.com",
