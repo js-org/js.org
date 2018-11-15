@@ -357,7 +357,7 @@ var cnames_active = {
   "dio": "thysultan.github.io/dio.js",
   "discord": "discordjs.github.io/website",
   "discunit": "megacode18.github.io/discunit.js",
-  "disnode": "fhgdev.github.io/discnode",
+  "disnode": "fhgdev.github.io/disnode",
   "display": "arguiot.github.io/DisplayJS",
   "distillery": "achannarasappa.github.io/distillery", // noCF? (don´t add this in a new PR)
   "distri": "flarp.github.io/Distri.js",
