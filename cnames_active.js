@@ -401,6 +401,7 @@ var cnames_active = {
   "dunedin": "dunedinjs.github.io",
   "dungeon": "youssefelshemi.github.io/dungeon.js",
   "dutchakdev": "dutchakdev.github.io", // noCF? (don´t add this in a new PR)
+  "dvan": "dvan.netlify.com",
   "dynaflo": "trevorhanus.github.io/dynaflo",
   "dynamicsnode": "crisfervil.github.io/DynamicsNode",
   "dynamo": "dynamojs.github.io/site",
