@@ -1004,7 +1004,7 @@ var cnames_active = {
   "paraiba": "paraibajs.github.io", // noCF? (don´t add this in a new PR)
   "parallel": "parallel-js.github.io/parallel.js",
   "parametric-svg": "parametric-svg.github.io", // noCF? (don´t add this in a new PR)
-  "particledb": "boltxyz.github.io/particle.db",
+  "partibledb": "boltxyz.github.io/particle.db",
   "pas-ce-soir": "oldergod.github.io/pas-ce-soir",
   "pastate": "birdleescut.github.io/pastate",
   "pastebin-alert": "ramadhanamizudin.github.io/pastebin-alert.js", // noCF? (don´t add this in a new PR)
