@@ -989,6 +989,7 @@ var cnames_active = {
   "organizeapi": "zachary-murphy.gitbooks.io/organizeapi-docs",
   "origami": "origami-cms.github.io/cms",
   "orango": "roboncode.github.io/orango",
+  "orenaksakal": "orenaksakal.github.io/personal-blog",
   "os": "91.247.228.125", // noCF
   "oscillator": "lukehorvat.github.io/super-oscillator",
   "osom": "kikobeats.github.io/osom",
