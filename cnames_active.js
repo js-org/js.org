@@ -1289,7 +1289,7 @@ var cnames_active = {
   "skate": "skatejs.github.io", // noCF? (don´t add this in a new PR)
   "skeptical-coder": "rbpinheiro.github.io/skeptical-coder",
   "sketch": "keiww.github.io/sketch",
-  "skquery": "baibeebambi.github.io/HomeOfSkripting/",
+  "skquery": "baibeebambi.github.io/HomeOfSkripting",
   "skx": "skx.github.io", // noCF? (don´t add this in a new PR)
   "slang": "ramadis.github.io/slang", // noCF? (don´t add this in a new PR)
   "slideout": "mango.github.io/slideout",
