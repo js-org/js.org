@@ -453,6 +453,7 @@ var cnames_active = {
   "event-storage": "albe.github.io/node-event-storage",
   "eventstore": "adrai.github.io/node-eventstore", // noCF? (don´t add this in a new PR)
   "evolutions": "anshumanv.github.io/evolutions-webapp",
+  "ewa": "lyfeyaj.github.io/ewa",
   "exbars": "youssefkababe.github.io/exbars", // noCF? (don´t add this in a new PR)
   "exiftool-vendored": "mceachen.github.io/exiftool-vendored.js",
   "exp": "magicops.github.io/JQuery-expression-builder",
@@ -1581,8 +1582,7 @@ var cnames_active = {
   "zoe": "zoe-js.netlify.com",
   "zombie": "assaf.github.io/zombie", // noCF? (don´t add this in a new PR)
   "zp": "tilda.ws",
-  "zty": "zetaoyang.github.io",
-  "ewa": "lyfeyaj.github.io/ewa"
+  "zty": "zetaoyang.github.io"
   /*
   * please don"t add your subdomain records down here!
   * insert them in alphabetical order to help reduce merge conflicts.
