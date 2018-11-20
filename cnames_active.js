@@ -1559,7 +1559,7 @@ var cnames_active = {
   "yamdbf": "zajrik.github.io/yamdbf",
   "yamil-villarreal": "yvillarreal.github.io/index",
   "yargs": "yargs.github.io", // noCF? (don´t add this in a new PR)
-  "yennj12": "yennanliu.github.io", 
+  "yennj12": "yennanliu.github.io",
   "yf": "yafey.coding.me",
   "youngjuning": "youngjuning.github.io",
   "youtim": "mortonfox.github.io/YouTim", // noCF? (don´t add this in a new PR)
@@ -1581,7 +1581,8 @@ var cnames_active = {
   "zoe": "zoe-js.netlify.com",
   "zombie": "assaf.github.io/zombie", // noCF? (don´t add this in a new PR)
   "zp": "tilda.ws",
-  "zty": "zetaoyang.github.io"
+  "zty": "zetaoyang.github.io",
+  "ewa": "lyfeyaj.github.io/ewa"
   /*
   * please don"t add your subdomain records down here!
   * insert them in alphabetical order to help reduce merge conflicts.
