@@ -1242,6 +1242,7 @@ var cnames_active = {
   "sanctuary": "sanctuary-js.github.io/sanctuary-site",
   "sandeepkhandewale": "learner1024.github.io",
   "sandstone": "storehubnet.github.io/sandstone",
+  "sanity-runner": "tophat.github.io/sanity-runner",
   "sanohin": "sanohin.github.io",
   "sao": "egoist.github.io/sao",
   "sass": "medialize.github.io/playground.sass.js", // noCF? (don´t add this in a new PR)
