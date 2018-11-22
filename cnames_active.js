@@ -1573,7 +1573,7 @@ var cnames_active = {
   "youtube-box": "lucasmonteverde.github.io/youtube-box", // noCF? (don´t add this in a new PR)
   "yt": "tangge1119.github.io",
   "yusril": "yusrilhs.github.io", // noCF
-  "yvm": "hosting.gitbook.com", // noCF
+  "yvm": "tophat.github.io/yvm",
   "zachify": "zacharymurphy.github.io/Zachify",
   "zach": "zacharymurphy.github.io/zachmurphy",
   "zanyuyu": "zanseven007.github.io/resume", // noCF
