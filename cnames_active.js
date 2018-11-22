@@ -1547,6 +1547,7 @@ var cnames_active = {
   "wiki": "wikijs.netlify.com", // noCF
   "wildfire": "cheng-kang.github.io/wildfire",
   "within": "eric-brechemier.github.io/within", // noCF? (don´t add this in a new PR)
+  "with-immutable-props-to-js": "tophat.github.io/with-immutable-props-to-js",
   "wooyun": "jiji262.github.io/wooyun_articles",
   "wordywordy": "sverweij.github.io/wordywordy",
   "writebar": "alexander-shvets.github.io/writebar",
