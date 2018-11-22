@@ -1470,6 +1470,7 @@ var cnames_active = {
   "unified": "unifiedjs.github.io",
   "units": "stak-digital.github.io/units",
   "unoconv": "blog.ryanwu.me/Unoconv-Promise",
+  "unsafe": "unsafely.github.io/unsafe.js",
   "up": "codefeathers.github.io/up",
   "upresent": "bobbybee.github.io/uPresent", // noCF? (don´t add this in a new PR)
   "urban": "snekjs.github.io/urban.js",
