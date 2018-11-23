@@ -18,16 +18,16 @@
  * CLOUDFLARE:  JS.ORG uses CloudFlare as its DNS. By default, CloudFlare proxies all requests to your subdomain
  *              to get SSL support (https://foo.js.org) and make use of browser caching with a TTL of 30 min.
  *              But you can opt-out from this and make Cloudflare forward all requests directly to GitHub.
- *              Just add '//noCF' in the line of your requested subdomain to give me a hint.
+ *              Just add '//noCF' in the line of your requested subdomain to give us a hint.
  *              (all the lines marked with '//noCF?' are from a time when a requester had to explicitly opt-in;
  *              see: https://github.com/js-org/js.org/issues/554)
  *
  * IMPORTANT:   To authorize yourself as the owner of the GitHub Page you must have added a valid CNAME file
- *              (with the requested domain, e.g.: "foo.js.org") to your repository before the pull request.
+ *              (with the requested domain, e.g.: "foo.js.org") to your repository.
  *              The requested subdomain must match either your GitHub username or the name of your project
  *              repository. Execeptions are possible for the sake of clarity (e.g. if your project has the
  *              name "foojs" you can request "foo").
- *              Before you start a request for your personal fork of "jquery" or "angular" you should read
+ *              Before you start a request for your personal fork of "react" or "vue" you should read
  *              the section "naming conflicts" in the wiki!
  *
  * NOTICE:      It would be nice if you could keep the alphabetical order.
