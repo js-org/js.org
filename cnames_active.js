@@ -175,6 +175,7 @@ var cnames_active = {
   "brotat": "mariobob.github.io/brotat-website",
   "bildepunkt": "bildepunkt.github.io", // noCF? (don´t add this in a new PR)
   "bind-action-dispatchers": "cchamberlain.github.io/bind-action-dispatchers", // noCF? (don´t add this in a new PR)
+  "birb": "purpzie.github.io/birb.js.org",
   "biu": "aprilorange.github.io/biu", // noCF? (don´t add this in a new PR)
   "bfd": "mrsheldon.github.io/bfd.js",
   "blessmyrains": "dusterthefirst.github.io/blessmyrains",
