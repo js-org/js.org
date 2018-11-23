@@ -1567,6 +1567,7 @@ var cnames_active = {
   "yadl": "yadljs.github.io",
   "yagolopez": "yagolopez.github.io",
   "yah": "thassiov.github.io/yah", // noCF? (don´t add this in a new PR)
+  "yajdbl": "pixelthegreat.github.io/YAJDBL",
   "yamdbf": "zajrik.github.io/yamdbf",
   "yamil-villarreal": "yvillarreal.github.io/index",
   "yargs": "yargs.github.io", // noCF? (don´t add this in a new PR)
