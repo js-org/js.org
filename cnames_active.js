@@ -1228,6 +1228,7 @@ var cnames_active = {
   "sox": "sox-team.github.io/sox", // noCF? (don´t add this in a new PR)
   "spa": "sucom.github.io/SPA.js",
   "spaas": "pakastin.github.io/spaas",
+  "spasock": "http://spasock.github.io/base",
   "spectragram": "adrianengine.github.io/jquery-spectragram", // noCF? (don´t add this in a new PR)
   "spike": "spike.netlify.com",
   "spin": "fgnass.github.io/spin.js", // noCF? (don´t add this in a new PR)
