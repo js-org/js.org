@@ -1351,6 +1351,7 @@ var cnames_active = {
   "tsdi": "knisterpeter.github.io/tsdi",
   "ttag": "ttag-org.github.io/ttag",
   "ttgprotect": "ttgprotect.github.io",
+  "tuplerone": "slikts.github.io/tuplerone",
   "turbo": "turbo.github.io",
   "tux": "tux.gitbooks.io/docs",
   "tweed": "tweedjs.github.io",
