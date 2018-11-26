@@ -701,6 +701,7 @@ var cnames_active = {
   "leandro": "leandrowd.github.io", // noCF? (don´t add this in a new PR)
   "learnGitBranching": "pcottle.github.io/learnGitBranching",
   "leet": "leetcodes.github.io",
+  "lego": "polight.github.io/lego",
   "leipzig": "leipzigjs.github.io", // noCF? (don´t add this in a new PR)
   "leo": "leo66123.github.io",
   "leoj": "leoaj.github.io", // noCF? (don´t add this in a new PR)
