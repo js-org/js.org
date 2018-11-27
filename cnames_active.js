@@ -920,6 +920,7 @@ var cnames_active = {
   "omaha": "omahajs.github.io",
   "omega": "jczimm.github.io/omega", // noCF? (don´t add this in a new PR)
   "omer": "omeroot.github.io", // noCF? (don´t add this in a new PR)
+  "omid": "omidnikrah.github.io/omid",
   "omg": "pengjiyuan.github.io/omg",
   "onebang": "teamtofu.github.io/onebang",
   "ongaku": "anshuman-verma.github.io/ongaku",
