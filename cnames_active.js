@@ -275,7 +275,7 @@ var cnames_active = {
   "comframe": "haydennyyy.github.io/comframe",
   "comixngn": "seun40.github.io/comix-ngn", // noCF? (don´t add this in a new PR)
   "commandfox": "commandfox.github.io/mc-tools", // noCF? (don´t add this in a new PR)
-  "common-utils-pkg": "codesandcoffees.github.io/common-utils-pkg",
+  "common-utils-pkg": "iamdevlinph.github.io/common-utils-pkg",
   "community.os": "js.bydiscourse.com", // noCF? (don´t add this in a new PR)
   "concursos": "mteyss.github.io/concursos", // noCF? (don´t add this in a new PR)
   "conductor": "hosting.gitbook.com",
