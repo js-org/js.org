@@ -1412,7 +1412,7 @@ var cnames_active = {
   "voloshins": "voloshins.github.io", // noCF? (don´t add this in a new PR)
   "vorpal": "dthree.github.io/vorpal", // noCF? (don´t add this in a new PR)
   "voxelcss": "jhwohlgemuth.github.io/voxelcss",
-  "vrv": "stampylongr.github.io/vrv.js",
+  "vrv": "vrvjs.readthedocs.io",
   "vscode-apielements": "xvincentx.github.io/vscode-apielements",
   "vssue": "meteorlxy.github.io/vssue",
   "vue-aplayer": "sevenoutman.github.io/vue-aplayer",
