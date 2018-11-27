@@ -932,6 +932,7 @@ var cnames_active = {
   "osom": "kikobeats.github.io/osom",
   "otakubot": "haydennyyy.github.io/otakubot",
   "overtrack": "aidant.github.io/overtrack.js",
+  "omid": "omidnikrah.github.io/omid",
   "pad": "ebraminio.github.io/pad.js", // noCF? (don´t add this in a new PR)
   "pageobject": "clebert.github.io/pageobject",
   "pagination": "superRaytin.github.io/paginationjs-site", // noCF
