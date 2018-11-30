@@ -719,6 +719,7 @@ var cnames_active = {
   "lineupengine": "sgratzl.github.io/lineupengine.js.org",
   "ling": "wangziling.github.io",
   "lingui": "lingui.github.io/js-lingui",
+  "linquan": "minquan.github.io/linquan.js.org",
   "linghucong": "jiji262.github.io",
   "liveflow": "hasharray.github.io/liveflow.js",
   "livenotif": "siffreinsg.github.io/livenotif",
