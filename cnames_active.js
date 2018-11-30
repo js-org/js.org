@@ -1418,6 +1418,7 @@ var cnames_active = {
   "vscode-apielements": "xvincentx.github.io/vscode-apielements",
   "vssue": "meteorlxy.github.io/vssue",
   "vue-aplayer": "sevenoutman.github.io/vue-aplayer",
+  "vue-awesome-countdown": "mlinquan.github.io/vue-awesome-countdown",
   "vue-core": "triotech-fr.github.io/vue-core",
   "vue-land": "egoist.github.io/vue-land",
   "vue-mdc": "na-west1.surge.sh",
