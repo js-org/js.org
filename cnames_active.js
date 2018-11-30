@@ -382,6 +382,7 @@ var cnames_active = {
   "dvan": "dvan.netlify.com",
   "dynaflo": "trevorhanus.github.io/dynaflo",
   "dynamicsnode": "crisfervil.github.io/DynamicsNode",
+  "dyo": "http://dyo.github.io/dyo",
   "eahmed234": "eahmed234.github.io",
   "echo": "licshee.github.io/echo.js",
   "ed2k": "sunnyli.github.io/ed2k.js",
