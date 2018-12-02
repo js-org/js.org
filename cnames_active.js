@@ -1291,7 +1291,7 @@ var cnames_active = {
   "super-controls": "thebearingedge.github.io/super-controls",
   "super-trim": "beeblebrox3.github.io/super-trim",
   "supernova": "janbiasi.github.io/supernova", // noCF? (don´t add this in a new PR)
-  "sutanlab": "sgnzst.github.io/sutanlab",
+  "sutanlab": "sutanlab.github.io",
   "svelteui": "transpiling.github.io/svelte-flat-ui",
   "svg-skeleton": "yyued.github.io/SVG-Skeleton",
   "svr": "kikobeats.github.io/svr",
