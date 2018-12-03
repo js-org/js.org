@@ -278,6 +278,7 @@ var cnames_active = {
   "commandfox": "commandfox.github.io/mc-tools", // noCF? (don´t add this in a new PR)
   "common-utils-pkg": "iamdevlinph.github.io/common-utils-pkg",
   "community.os": "js.bydiscourse.com", // noCF? (don´t add this in a new PR)
+  "concurrent-tasks": "samrith-s.github.io/concurrent-tasks"
   "concursos": "mteyss.github.io/concursos", // noCF? (don´t add this in a new PR)
   "conductor": "hosting.gitbook.com",
   "construyendotrabajo": "mteyss.github.io/construyendotrabajo", // noCF? (don´t add this in a new PR)
