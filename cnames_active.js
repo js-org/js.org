@@ -893,6 +893,7 @@ var cnames_active = {
   "nikmartin": "nikmartin.github.io",
   "ninh": "reeganexe.github.io/ninh",
   "nintenbot": "nintenzone.github.io/NintenBot",
+  "niscord": "niscord.github.io/niscord",
   "nite": "manvalls.github.io/nite",
   "nod": "diegohaz.github.io/nod",
   "node-atlas": "haeresis.github.io/NodeAtlas",
