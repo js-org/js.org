@@ -1263,6 +1263,7 @@ var cnames_active = {
   "stampit": "stampit-org.gitbook.io/docs",
   "standard-resource": "hosting.gitbook.com", // noCF
   "stapp": "tinkoffcreditsystems.github.io/stapp",
+  "star": "starframework.github.io/STAR", // noCF
   "starratio": "starratio.github.io/star-ratio", // noCF
   "start": "deepsweet.github.io/start",
   "state-machine-cat": "sverweij.github.io/state-machine-cat",
