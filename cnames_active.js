@@ -299,6 +299,7 @@ var cnames_active = {
   "cr": "echosoar.github.io/cr",
   "cracked": "billorcutt.github.io/Cracked",
   "createrest": "atomixinteractions.github.io/createrest",
+  "creaturegen": "ryanchromebook.github.io/creaturegen",
   "crunch": "vukicevic.github.io/crunch", // noCF? (don´t add this in a new PR)
   "cryptokey": "rumkin.github.com/crypto-key",
   "csv": "adaltas.github.io/node-csv-docs",
