@@ -1093,6 +1093,7 @@ var cnames_active = {
   "reactif": "frencojobs.github.io/Reactif",
   "reactour": "elrumordelaluz.github.io/reactour",
   "reactql": "leebenson.github.io/reactql-site",
+  "readcolor": "keiww.github.io/readcolorhex",
   "reader": "ruanyl.github.io/js-reader", // noCF? (don´t add this in a new PR)
   "realt": "vnkitaev.github.io/realt",
   "realtime": "datamcfly.github.io/realtimejs", // noCF? (don´t add this in a new PR)
