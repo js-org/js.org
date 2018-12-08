@@ -1242,8 +1242,8 @@ var cnames_active = {
   "snekfetch": "devsnek.github.io/snekfetch",
   "social-likes-next": "sapegin.github.io/social-likes-next", // noCF? (don´t add this in a new PR)
   "social-likes": "sapegin.github.io/social-likes", // noCF? (don´t add this in a new PR)
-  "solder": "mcrocks999.github.io/solder.js",
   "solace": "ethamitc.github.io/solace",
+  "solder": "mcrocks999.github.io/solder.js",
   "solome": "solome.github.io",
   "sonny": "sonnylazuardi.github.io", // noCF? (don´t add this in a new PR)
   "soundpad": "mcpe-pc.github.io/soundpad.js",
