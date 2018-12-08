@@ -1188,6 +1188,7 @@ var cnames_active = {
   "sandstone": "storehubnet.github.io/sandstone",
   "sanity-runner": "tophat.github.io/sanity-runner",
   "sanohin": "sanohin.github.io",
+  "santa": "codedrs.github.io/secret-santa",
   "sao": "egoist.github.io/sao",
   "sass": "medialize.github.io/playground.sass.js", // noCF? (don´t add this in a new PR)
   "saulosantiago": "saulosilva.github.io", // noCF? (don´t add this in a new PR)
