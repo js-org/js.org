@@ -288,6 +288,7 @@ var cnames_active = {
   "contextify": "abemedia.github.io/jquery-contextify", // noCF? (don´t add this in a new PR)
   "cookiebox": "metaa.gitlab.io/cookiebox.js",
   "coord": "itsacorn.github.io/jscoord",
+  "copyer": "tsycode.github.io/copyer.js",
   "cordova-multiplatform-template": "ckgrafico.github.io/Cordova-Multiplatform-Template", // noCF? (don´t add this in a new PR)
   "cork": "davej.github.io/CorkJS",
   "corki": "dvtate.github.io/corki",
