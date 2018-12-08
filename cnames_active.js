@@ -1173,7 +1173,6 @@ var cnames_active = {
   "ruwan": "rpgee.github.io",
   "s3swa": "s3swa-ict-upgifter.github.io/snow-eater",
   "s4swa": "s4swa.github.io",
-  "santa": "codedrs.github.io/secret-santa",
   "sagui": "saguijs.github.io", // noCF? (don´t add this in a new PR)
   "saigon": "saigonjs.github.io",
   "sailesh": "saileshkasaju.github.io/crud-react-redux-mongo",
@@ -1187,6 +1186,7 @@ var cnames_active = {
   "sandstone": "storehubnet.github.io/sandstone",
   "sanity-runner": "tophat.github.io/sanity-runner",
   "sanohin": "sanohin.github.io",
+  "santa": "codedrs.github.io/secret-santa",
   "sao": "egoist.github.io/sao",
   "sass": "medialize.github.io/playground.sass.js", // noCF? (don´t add this in a new PR)
   "saulosantiago": "saulosilva.github.io", // noCF? (don´t add this in a new PR)
