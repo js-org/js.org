@@ -418,6 +418,7 @@ var cnames_active = {
   "epoxy": "hosting.gitbook.com",
   "eplayer": "132yse.github.io/eplayer",
   "eq8": "eq8.github.io",
+  "eqeq": "slikts.github.io/js-equality-game",
   "eray": "erayarslan.github.io", // noCF? (don´t add this in a new PR)
   "erebos": "mainframehq.github.io/erebos",
   "erdems": "erdemsweb.github.io",
