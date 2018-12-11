@@ -1023,6 +1023,7 @@ var cnames_active = {
   "porter": "ahopkins.github.io/porterjs", // noCF? (don´t add this in a new PR)
   "post-type-discovery": "twozeroone.github.io/post-type-discovery",
   "potion": "finnfiddle.github.io/potion",
+  "ppt": "1ocalhost.github.io/ppt",
   "pptx": "meshesha.github.io/jspptxjs.github.io",
   "pubg": "ickerio.github.io/pubg.js",
   "published": "fiverr.github.io/published",
