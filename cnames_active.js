@@ -1132,7 +1132,7 @@ var cnames_active = {
   "redux-tiles": "bloomca.github.io/redux-tiles",
   "redux-undo": "omnidan.github.io/redux-undo", // noCF? (don´t add this in a new PR)
   "redux-webpack-boilerplate": "cchamberlain.github.io/redux-webpack-boilerplate", // noCF? (don´t add this in a new PR)
-  "redux": "hosting.gitbook.com", // noCF
+  "redux": "redux-docs.netlify.com", // noCF
   "reduxible": "pitzcarraldo.github.io/reduxible", // noCF? (don´t add this in a new PR)
   "refract": "hosting.gitbook.com",
   "refraction": "mbasso.github.io/refraction", // noCF? (don´t add this in a new PR)
