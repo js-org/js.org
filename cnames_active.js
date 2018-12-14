@@ -1505,8 +1505,8 @@ var cnames_active = {
   "yt": "tangge1119.github.io",
   "yusril": "yusrilhs.github.io", // noCF
   "yvm": "tophat.github.io/yvm",
+  "zachmurphy": "zachify.github.io",
   "zaporizhzhia": "zaporizhzhiajs.github.io",
-  "zachify": "zachify.github.io",
   "zazu": "zazujs.github.io", // noCF? (don´t add this in a new PR)
   "zeit": "urvinh.github.io",
   "zhaomenghuan": "zhaomenghuan.github.io",
