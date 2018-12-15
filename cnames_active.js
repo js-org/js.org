@@ -495,6 +495,7 @@ var cnames_active = {
   "frzr": "pakastin.github.io/frzr",
   "fs-nextra": "bdistin.github.io/fs-nextra",
   "fuck": "gerd2002.github.io/fuck.js",
+  "fullscreen": "motyar.github.io/fullscreen",
   "funbook": "egoist.github.io/funbook",
   "funfuncs": "floffah.github.io/funfuncs",
   "fucao": "fusuhub.github.io",
