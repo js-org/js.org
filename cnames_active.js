@@ -759,6 +759,7 @@ var cnames_active = {
   "majestic": "moityjs.github.io/majestic",
   "maker": "microsoft.github.io/maker.js",
   "mali": "malijs.github.io",
+  "manu": "botsdemanu.github.io/manu/",
   "manytimepad": "dipanshkhandelwal.github.io/ManyTimePad",
   "mapa-cultura": "opensas.gitlab.io",
   "mappa": "cvalenzuela.github.io/Mappa",
@@ -776,7 +777,6 @@ var cnames_active = {
   "martingollogly": "martingollogly.github.io", // noCF? (don´t add this in a new PR)
   "marvnet": "marvnet.github.io/marvnet.js",
   "marxist": "wuz.github.io/marxistjs",
-  "manu": "botsdemanu.github.io/manu/",
   "masha": "smarttelemax.github.io/MaSha",
   "materialish": "jamesplease.github.io/materialish",
   "materialize-bootbox": "iqbalfn.github.io/materialize-bootbox",
