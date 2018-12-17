@@ -752,6 +752,7 @@ var cnames_active = {
   "lychee": "Artificial-Engineering.github.io/lycheeJS-website",
   "lyra": "amansahil.github.io/lyra.js.org",
   "m8bot": "mapreiff.github.io/m8-bot-site",
+  "ma124": "ma124.netlify.com",
   "macosnotif": "macosnotifjs.mattcowley.co.uk", // noCF
   "madankumar": "jmadankumar.github.io",
   "magnet": "magnetjs.github.io/Magnet", // noCF? (don´t add this in a new PR)
