@@ -761,6 +761,7 @@ var cnames_active = {
   "majestic": "moityjs.github.io/majestic",
   "maker": "microsoft.github.io/maker.js",
   "mali": "malijs.github.io",
+  "manu": "botsdemanu.github.io/manu",
   "manytimepad": "dipanshkhandelwal.github.io/ManyTimePad",
   "mapa-cultura": "opensas.gitlab.io",
   "mappa": "cvalenzuela.github.io/Mappa",
