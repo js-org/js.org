@@ -516,7 +516,6 @@ var cnames_active = {
   "ghastly": "hkwu.github.io/ghastly",
   "ghapi": "haydennyyy.github.io/node-ghapi",
   "ghsamm": "ghsamm.github.io", // noCF? (don´t add this in a new PR)
-  "guineapigbot": "guineapigbot.github.io",
   "giant-piano": "moroshko.github.io/giant-piano", // noCF? (don´t add this in a new PR)
   "girls": "girls-js.github.io",
   "gitdown": "gc.github.io/gitdown",
@@ -540,6 +539,7 @@ var cnames_active = {
   "gridsplit": "assetinfo.github.io", // noCF? (don´t add this in a new PR)
   "gruft": "nikola.github.io/gruft", // noCF? (don´t add this in a new PR)
   "guillotine": "matiasgagliano.github.io/guillotine", // noCF? (don´t add this in a new PR)
+  "guineapigbot": "guineapigbot.github.io",
   "guiseek": "guiseek.github.io", // noCF? (don´t add this in a new PR)
   "gully": "nmabhinandan.github.io/gully", // noCF? (don´t add this in a new PR)
   "gulp-skeleton": "mrdragonxm15.github.io/gulp-skeleton",
