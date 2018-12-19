@@ -1433,6 +1433,7 @@ var cnames_active = {
   "verse": "druidic.github.io/verse",
   "viav": "brandondyer64.github.io/viav",
   "vico": "bohdantkachenko.github.io/vico", // noCF? (don´t add this in a new PR)
+  "victor": "mrdatastorage.github.io/victor",
   "video-react": "video-react.github.io",
   "vinimdocarmo": "vinimdocarmo.github.com", // noCF? (don´t add this in a new PR)
   "viperhtml": "viperhtml.github.io",
