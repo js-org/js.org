@@ -25,7 +25,7 @@
  * IMPORTANT:   To authorize yourself as the owner of the GitHub Page you must have added a valid CNAME file
  *              (with the requested domain, e.g.: "foo.js.org") to your repository.
  *              The requested subdomain must match either your GitHub username or the name of your project
- *              repository. Execeptions are possible for the sake of clarity (e.g. if your project has the
+ *              repository. Exceptions are possible for the sake of clarity (e.g. if your project has the
  *              name "foojs" you can request "foo").
  *              Before you start a request for your personal fork of "react" or "vue" you should read
  *              the section "naming conflicts" in the wiki!
