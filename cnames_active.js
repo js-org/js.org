@@ -30,7 +30,10 @@
  *              Before you start a request for your personal fork of "react" or "vue" you should read
  *              the section "naming conflicts" in the wiki!
  *
- * NOTICE:      It would be nice if you could keep the alphabetical order.
+ * NOTICE:      Please follow the format set by everyone else in this file. Entries should use double quotes, 
+ *              with space between the colon (after the key) and the value and should always be in alphabetical 
+ *              order. Each line apart from the very last entry should have a comma after it to ensure this file 
+ *              is valid syntax.
  *
  *              BECAUSE OF THE RISK OF ABUSE, I´M NOT ACCEPTING REQUESTS FOR PAGES WITHOUT REASONABLE CONTENT!
  */
