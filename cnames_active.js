@@ -613,7 +613,7 @@ var cnames_active = {
   "integreat": "hosting.gitbook.com",
   "invoicing": "vahe.github.io/InvoicingJs",
   "ion": "ionjs-dev.github.io",
-  "iori":"iori20091101.github.io",
+  "iori": "iori20091101.github.io",
   "iot": "product-engineer.github.io/iot.js.org", // noCF
   "ip-address": "beaugunderson.github.io/ip-address", // noCF? (don´t add this in a new PR)
   "ipv4": "licshee.github.io/IPv4-CIDR-Prefix-Merger",
@@ -1058,7 +1058,7 @@ var cnames_active = {
   "quickdb": "truexpixels.gitbooks.io/quickdb",
   "quinten": "regyo.github.io/quinten",
   "quiz-app": "odevlord.github.io/Quiz-App", // noCF? (don´t add this in a new PR)
-  "quotes": "sawyerbx.github.io/quotes"
+  "quotes": "sawyerbx.github.io/quotes",
   "r": "r-js.github.io",
   "ractive": "ractivejs.github.io",
   "rad": "rapid-application-development-js.github.io/RAD.JS", // noCF? (don´t add this in a new PR)
