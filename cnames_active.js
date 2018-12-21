@@ -25,12 +25,15 @@
  * IMPORTANT:   To authorize yourself as the owner of the GitHub Page you must have added a valid CNAME file
  *              (with the requested domain, e.g.: "foo.js.org") to your repository.
  *              The requested subdomain must match either your GitHub username or the name of your project
- *              repository. Execeptions are possible for the sake of clarity (e.g. if your project has the
+ *              repository. Exceptions are possible for the sake of clarity (e.g. if your project has the
  *              name "foojs" you can request "foo").
  *              Before you start a request for your personal fork of "react" or "vue" you should read
  *              the section "naming conflicts" in the wiki!
  *
- * NOTICE:      It would be nice if you could keep the alphabetical order.
+ * NOTICE:      Please follow the format set by everyone else in this file. Entries should use double quotes, 
+ *              with space between the colon (after the key) and the value and should always be in alphabetical 
+ *              order. Each line apart from the very last entry should have a comma after it to ensure this file 
+ *              is valid syntax.
  *
  *              BECAUSE OF THE RISK OF ABUSE, I´M NOT ACCEPTING REQUESTS FOR PAGES WITHOUT REASONABLE CONTENT!
  */
@@ -613,7 +616,7 @@ var cnames_active = {
   "integreat": "hosting.gitbook.com",
   "invoicing": "vahe.github.io/InvoicingJs",
   "ion": "ionjs-dev.github.io",
-  "iori":"iori20091101.github.io",
+  "iori": "iori20091101.github.io",
   "iot": "product-engineer.github.io/iot.js.org", // noCF
   "ip-address": "beaugunderson.github.io/ip-address", // noCF? (don´t add this in a new PR)
   "ipv4": "licshee.github.io/IPv4-CIDR-Prefix-Merger",
@@ -1058,7 +1061,7 @@ var cnames_active = {
   "quickdb": "truexpixels.gitbooks.io/quickdb",
   "quinten": "regyo.github.io/quinten",
   "quiz-app": "odevlord.github.io/Quiz-App", // noCF? (don´t add this in a new PR)
-  "quotes": "sawyerbx.github.io/quotes"
+  "quotes": "sawyerbx.github.io/quotes",
   "r": "r-js.github.io",
   "ractive": "ractivejs.github.io",
   "rad": "rapid-application-development-js.github.io/RAD.JS", // noCF? (don´t add this in a new PR)
