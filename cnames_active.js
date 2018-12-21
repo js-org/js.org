@@ -1494,6 +1494,7 @@ var cnames_active = {
   "wooyun": "jiji262.github.io/wooyun_articles",
   "wordywordy": "sverweij.github.io/wordywordy",
   "writebar": "alexander-shvets.github.io/writebar",
+  "wthunting": "sawyerbx.github.io/wthunting",
   "wyfe": "wangyuanstudio.github.io/WYFE", // noCF? (don´t add this in a new PR)
   "wynncraft": "frawolf.github.io/wynncraft.js",
   "xn--w4h": "zzyzxlab.github.io/tao.js",
