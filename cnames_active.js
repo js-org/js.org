@@ -1009,6 +1009,7 @@ var cnames_active = {
   "pivotgrid": "iskandr1.github.io/Pivot",
   "pivottable": "nicolaskruchten.github.io/pivottable",
   "pixel": "lumitedubbz.github.io/Pixel",
+  "pixxel": "pixxel.github.io",
   "pixelart": "meriadec.github.io/PixelartJS", // noCF? (don´t add this in a new PR)
   "plait": "wildlyinaccurate.github.io/plait",
   "plan": "agauniyal.github.io/plan",
