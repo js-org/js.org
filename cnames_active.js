@@ -30,9 +30,9 @@
  *              Before you start a request for your personal fork of "react" or "vue" you should read
  *              the section "naming conflicts" in the wiki!
  *
- * NOTICE:      Please follow the format set by everyone else in this file. Entries should use double quotes, 
- *              with space between the colon (after the key) and the value and should always be in alphabetical 
- *              order. Each line apart from the very last entry should have a comma after it to ensure this file 
+ * NOTICE:      Please follow the format set by everyone else in this file. Entries should use double quotes,
+ *              with space between the colon (after the key) and the value and should always be in alphabetical
+ *              order. Each line apart from the very last entry should have a comma after it to ensure this file
  *              is valid syntax.
  *
  *              BECAUSE OF THE RISK OF ABUSE, I´M NOT ACCEPTING REQUESTS FOR PAGES WITHOUT REASONABLE CONTENT!
@@ -1372,6 +1372,7 @@ var cnames_active = {
   "toad": "wnda.github.io/toad",
   "tom": "tom-microservice.netlify.com",
   "dtools": "mrsheldon.github.io/dtools.js",
+  "tictactoe": "jeff-tian.github.io/tic-tac-toe-ai",
   "tori": "boostcode.github.io/torijs",
   "torino": "torinojs.github.io", // noCF? (don´t add this in a new PR)
   "torlondev": "torlondev.github.io",
