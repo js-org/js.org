@@ -1425,6 +1425,7 @@ var cnames_active = {
   "uuid": "rumkin.github.io/uuid",
   "uvcharts": "imaginea.github.io/uvCharts", // noCF? (don´t add this in a new PR)
   "v-charts": "elemefe.github.io/v-charts",
+  "v-decorators": "v-decorators.netlify.com",
   "vac": "mlinquan.github.io/vue-awesome-countdown",
   "valentin": "valentinvieriu.github.io", // noCF? (don´t add this in a new PR)
   "validator": "ppoffice.github.io/validator.js", // noCF? (don´t add this in a new PR)
