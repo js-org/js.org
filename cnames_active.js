@@ -30,9 +30,9 @@
  *              Before you start a request for your personal fork of "react" or "vue" you should read
  *              the section "naming conflicts" in the wiki!
  *
- * NOTICE:      Please follow the format set by everyone else in this file. Entries should use double quotes, 
- *              with space between the colon (after the key) and the value and should always be in alphabetical 
- *              order. Each line apart from the very last entry should have a comma after it to ensure this file 
+ * NOTICE:      Please follow the format set by everyone else in this file. Entries should use double quotes,
+ *              with space between the colon (after the key) and the value and should always be in alphabetical
+ *              order. Each line apart from the very last entry should have a comma after it to ensure this file
  *              is valid syntax.
  *
  *              BECAUSE OF THE RISK OF ABUSE, I´M NOT ACCEPTING REQUESTS FOR PAGES WITHOUT REASONABLE CONTENT!
@@ -388,6 +388,7 @@ var cnames_active = {
   "dragon": "sabertazimi.github.io/dragonjs", // noCF? (don´t add this in a new PR)
   "draw": "skillzzjesse.github.io/draw",
   "drome": "dromejs.github.io/drome.js.org",
+  "dtools": "mrsheldon.github.io/dtools.js",
   "dtps": "jottocraft.github.io/dtps",
   "du": "ruanyl.github.io/du", // noCF? (don´t add this in a new PR)
   "dualcyclone": "dualcyclone.github.io/postit-todo-react-redux",
@@ -1362,6 +1363,7 @@ var cnames_active = {
   "themoviedb": "chrisenytc.github.io/themoviedb", // noCF? (don´t add this in a new PR)
   "theorem": "arguiot.github.io/TheoremJS",
   "thundercats": "thundercatsjs.github.io/thundercats", // noCF? (don´t add this in a new PR)
+  "tictactoe": "jeff-tian.github.io/tic-tac-toe-ai",
   "timeout": "anshuman-verma.github.io/setTimeout",
   "timerizer": "callumacrae.github.io/timerizerJS", // noCF? (don´t add this in a new PR)
   "tina": "tinajs.github.io/tina",
@@ -1373,7 +1375,6 @@ var cnames_active = {
   "tmr": "ttttmr.github.io",
   "toad": "wnda.github.io/toad",
   "tom": "tom-microservice.netlify.com",
-  "dtools": "mrsheldon.github.io/dtools.js",
   "tori": "boostcode.github.io/torijs",
   "torino": "torinojs.github.io", // noCF? (don´t add this in a new PR)
   "torlondev": "torlondev.github.io",
