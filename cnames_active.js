@@ -1160,6 +1160,7 @@ var cnames_active = {
   "repackage": "cchamberlain.github.io/repackage", // noCF? (don´t add this in a new PR)
   "replace": "quales.github.io/replace.js",
   "request": "request.gitbooks.io", // noCF? (don´t add this in a new PR)
+  "resources": "mrdatastorage.github.io/resources.js",
   "reshape": "reshape.netlify.com",
   "reshift": "hasharray.github.io/reshift.js",
   "restjs": "daviesgeek.github.io/restjs", // noCF? (don´t add this in a new PR)
