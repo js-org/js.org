@@ -1464,6 +1464,7 @@ var cnames_active = {
   "vssue": "meteorlxy.github.io/vssue",
   "vue-aplayer": "sevenoutman.github.io/vue-aplayer",
   "vue-core": "triotech-fr.github.io/vue-core",
+  "vue-coffee": "vue-coffee-guide.netlify.com",
   "vue-land": "vue-land.netlify.com",
   "vue-mdc": "na-west1.surge.sh",
   "vue-multiselect": "shentao.github.io/vue-multiselect",
