@@ -1463,6 +1463,7 @@ var cnames_active = {
   "vscode-apielements": "xvincentx.github.io/vscode-apielements",
   "vssue": "meteorlxy.github.io/vssue",
   "vue-aplayer": "sevenoutman.github.io/vue-aplayer",
+  "vue-coffee": "vue-coffee-guide.netlify.com",
   "vue-core": "triotech-fr.github.io/vue-core",
   "vue-land": "vue-land.netlify.com",
   "vue-mdc": "na-west1.surge.sh",
