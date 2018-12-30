@@ -1378,6 +1378,7 @@ var cnames_active = {
   "tmr": "ttttmr.github.io",
   "toad": "wnda.github.io/toad",
   "tom": "tom-microservice.netlify.com",
+  "topbot": "resign05.github.io/TobWebsite",
   "tori": "boostcode.github.io/torijs",
   "torino": "torinojs.github.io", // noCF? (don´t add this in a new PR)
   "torlondev": "torlondev.github.io",
@@ -1408,7 +1409,6 @@ var cnames_active = {
   "tydel": "fahad19.github.io/tydel", // noCF? (don´t add this in a new PR)
   "typeahead": "corejavascript.github.io/typeahead.js",
   "typed-ui": "pi-cubed.github.io/typed-ui",
-  "topbot": "https://resign05.github.io/TobWebsite/",
   "u": "hanul.github.io/UJS", // noCF? (don´t add this in a new PR)
   "uav": "unearth-inc.github.io/uav",
   "ubuntu-hideout": "bytecommander.github.io/ubuntu-hideout",
