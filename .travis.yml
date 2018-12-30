@@ -5,9 +5,9 @@ before_install:
   - stty columns 120
 script:
   - git remote set-branches --add origin $TRAVIS_BRANCH
-  - git checkout origin/ci-test
   - git fetch
   - git status
+  - git checkout ci-test
   - echo $TRAVIS_COMMIT_RANGE
   - echo $TRAVIS_BRANCH
   - echo $TRAVIS_COMMIT
