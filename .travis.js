@@ -42,7 +42,7 @@ const result = (async () => {
   console.log(process.env.TRAVIS_BRANCH);
   
   // check what files have changed
-  const filesDiffExec = await execAsync(`git diff ${TARGET_BRANCH} --name-only`);
+  const filesDiffExec = await execAsync(`git diff --name-only ${TARGET_BRANCH}`);
   const filesChanged = filesDiffExec.stdout.split("\n").filter(file => file);
   
   // if changes don't target the 'cnames_active.js' in 'master' branch do nothing
