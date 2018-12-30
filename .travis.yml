@@ -10,4 +10,4 @@ script:
   - echo $TRAVIS_COMMIT_RANGE
   - echo $TRAVIS_BRANCH
   - echo $TRAVIS_COMMIT
-- node .travis.js
+  - node .travis.js
