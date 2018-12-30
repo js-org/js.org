@@ -1,12 +1,6 @@
-const {
-  exec
-} = require("child_process");
-const {
-  get
-} = require("https");
-const {
-  promisify
-} = require("util");
+const {exec} = require("child_process");
+const {get} = require("https");
+const {promisify} = require("util");
 const execAsync = promisify(exec);
 const getAsync = url => new Promise(resolve => get(url, resolve));
 
@@ -97,10 +91,9 @@ const result = (async () => {
           `${line}`.localeCompare(`${linesNew[i - 1]}`) !== -1,
           `You should keep the list in alphabetical order`
         );
-    })
+    });
 
     // check for a leading comma (propably a common error; would also show up when JSON parsing gets tried)
-    
     console.assert(
       lineAdded.startsWith(","),
       `You should seperate your record with comma in the beginning`
