@@ -1548,6 +1548,7 @@ var cnames_active = {
   ,"zoe": "zoe-js.netlify.com"
   ,"zombie": "assaf.github.io/zombie" // noCF? (don't add this in a new PR)
   ,"zty": "zetaoyang.github.io"
+  ,"a-test": "a.test.com"
   /*
   * please don't add your subdomain records down here!
   * insert them in alphabetical order to help reduce merge conflicts.
