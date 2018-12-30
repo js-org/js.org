@@ -40,7 +40,7 @@ async function checkCNAME(domain, target) {
 const result = (async () => {
 
   // check what files have changed
-  const filesDiffExec = await execAsync(`git diff "${TARGET_BRANCH}" --name-only`);
+  const filesDiffExec = await execAsync(`git diff --name-only`);
   const filesChanged = filesDiffExec.stdout.split("\n").filter(file => file);
 
   // if changes don't target the 'cnames_active.js' in 'master' branch do nothing
@@ -59,7 +59,7 @@ const result = (async () => {
   );
 
   // check what was changed in 'cnames_active.js'
-  const fileDiffExec = await execAsync(`git diff "${TARGET_BRANCH}" "${TARGET_FILE}"`);
+  const fileDiffExec = await execAsync(`git diff ${TARGET_FILE}`);
   const fileChanges = fileDiffExec.stdout.split("\n").slice(5);
 
   // get an array of all lines in the 'git diff' that hold a record (strip block comments, etc.)
