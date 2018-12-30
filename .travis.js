@@ -38,12 +38,13 @@ async function checkCNAME(domain, target) {
 }
 
 const result = (async () => {
-
-  console.log(process.env.TRAVIS_BRANCH);
   
   // check what files have changed
   const filesDiffExec = await execAsync(`git diff --name-only ${TARGET_BRANCH}`);
   const filesChanged = filesDiffExec.stdout.split("\n").filter(file => file);
+  
+  
+  console.log(process.env.TRAVIS_BRANCH !== TARGET_BRANCH, filesChanged, filesChanged.includes(TARGET_FILE));
   
   // if changes don't target the 'cnames_active.js' in 'master' branch do nothing
   if (process.env.TRAVIS_BRANCH !== TARGET_BRANCH || !filesChanged.includes(TARGET_FILE)) {
