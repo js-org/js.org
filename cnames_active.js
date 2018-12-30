@@ -943,6 +943,7 @@ var cnames_active = {
   "objectmodel": "sylvainpolletvillard.github.io/ObjectModel", // noCF? (don´t add this in a new PR)
   "octo": "baileyjm02.github.io/OctoJS",
   "odararmy": "odararmy.github.io",
+  "odin": "foxifyjs.github.io/odin",
   "oec": "crellison.github.io/oec",
   "officetohtml": "meshesha.github.io/officetohtml",
   "oguz": "okb1100.github.io",
