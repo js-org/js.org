@@ -152,6 +152,7 @@ var cnames_active = {
   "bali": "balijs.github.io",
   "bancho": "thepoon.github.io/bancho.js",
   "bandung": "zufrizalyordan.github.io/bandungjs",
+  "bananaticos": "bananaticos.github.io/bananaticos-website", //noCF
   "barbagrigia": "barbagrigia.github.io",
   "base64": "licshee.github.io/base64",
   "bash": "bashjs.github.io",
