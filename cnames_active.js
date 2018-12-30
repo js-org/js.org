@@ -150,6 +150,7 @@ var cnames_active = {
   "badrudeen": "badrudeen.github.io", // noCF? (don´t add this in a new PR)
   "bai": "abaijs.github.io",
   "bali": "balijs.github.io",
+  "bananaticos": "bananaticos.github.io/bananaticos-website", //noCF
   "bancho": "thepoon.github.io/bancho.js",
   "bandung": "zufrizalyordan.github.io/bandungjs",
   "barbagrigia": "barbagrigia.github.io",
