@@ -63,11 +63,12 @@ const result = (async () => {
   );
 
   if (fileDiffs.length === 0) {
-    console.log(`No changes detected.`);
+    console.log(`No changes to the list of active subdomains detected.`);
     return;
   }
 
   console.log("Verifying file changes");
+  
   console.assert(
     fileDiffs.length === 1,
     `You may change only ${allowedChanges}`
