@@ -967,6 +967,7 @@ var cnames_active = {
   "orango": "roboncode.github.io/orango",
   "os": "91.247.228.125", // noCF
   "oscillator": "lukehorvat.github.io/super-oscillator",
+  "outdoors": "mrdatastorage.github.io/outdoors.js",
   "osom": "kikobeats.github.io/osom",
   "otakubot": "haydennyyy.github.io/otakubot",
   "overtrack": "aidant.github.io/overtrack.js",
