@@ -967,9 +967,9 @@ var cnames_active = {
   "orango": "roboncode.github.io/orango",
   "os": "91.247.228.125", // noCF
   "oscillator": "lukehorvat.github.io/super-oscillator",
-  "outdoors": "mrdatastorage.github.io/outdoors.js",
   "osom": "kikobeats.github.io/osom",
   "otakubot": "haydennyyy.github.io/otakubot",
+  "outdoors": "mrdatastorage.github.io/outdoors.js",
   "overtrack": "aidant.github.io/overtrack.js",
   "pad": "ebraminio.github.io/pad.js", // noCF? (don´t add this in a new PR)
   "pageobject": "clebert.github.io/pageobject",
