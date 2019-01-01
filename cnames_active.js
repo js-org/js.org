@@ -125,6 +125,7 @@ var cnames_active = {
   "atavic": "atavic.github.io",
   "atombundles": "lirantal.github.io/atombundles",
   "atomgit": "sawyerbx.github.io/atom-git-docs",
+  "atomic-layout": "kettanaito.github.io/atomic-layout-docs",
   "atomicreact": "atomicreact.github.io/AtomicReact",
   "audio-stream": "guywhogeek.github.io/audio-stream",
   "autodocs": "bguiz.github.io/autodocs", // noCF? (don´t add this in a new PR)
