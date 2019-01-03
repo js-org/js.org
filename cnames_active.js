@@ -1374,6 +1374,7 @@ var cnames_active = {
   "svg-skeleton": "yyued.github.io/SVG-Skeleton",
   "svr": "kikobeats.github.io/svr",
   "sweetalert": "t4t5.github.io/sweetalert",
+  "swipe": "lyfeyaj.github.io/swipe",
   "switchit": "dongryphon.github.io/switchit",
   "switchblade": "switchbladebot.github.io/onepage",
   "sw-yx": "sw-yx.github.io",
