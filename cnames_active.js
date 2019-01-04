@@ -569,6 +569,7 @@ var cnames_active = {
   "h7ml": "h7ml.github.io/web",
   "halil": "hibrahimsafak.github.io", // noCF? (don´t add this in a new PR)
   "haloapi": "derflatulator.github.io/haloapi.js", // noCF? (don´t add this in a new PR)
+  "hamed": "phpniki.github.io/hamed",
   "handsfree": "handsfreejs.github.io/handsfree",
   "hapi-sol": "yonjah.github.io/hapi-sol",
   "happy": "e24.github.io/happy", // noCF? (don´t add this in a new PR)
@@ -599,7 +600,6 @@ var cnames_active = {
   "hyperapp": "hyperapp.github.io",
   "hyperform": "hyperform.github.io",
   "hyperhtml-styleguide": "albertosantini.github.io/hyperhtml-styleguide", // noCF
-  "hamed": "phpniki.github.io/hamed",
   "i18n4v": "shibukawa.github.io/i18n4v",
   "iagrib": "iagrib.github.io",
   "icecast": "jucrouzet.github.io/icecast.js",
