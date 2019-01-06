@@ -868,6 +868,7 @@ var cnames_active = {
   "moeditor": "moeditor.github.io",
   "moehou": "moehou.coding.me", //noCF
   "mog-script": "mog-script.github.io",
+  "mohammadreza": "mgadmin67.github.io",
   "mohit": "mohitgarg.github.io",
   "mohitgupta": "mohitgupta8888.github.io/mohitgupta",
   "mojiscript": "joelnet.github.io/MojiScript",
