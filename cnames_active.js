@@ -997,6 +997,7 @@ var cnames_active = {
   "passepartout": "falkz.github.io/passepartout.js.org",
   "pastate": "birdleescut.github.io/pastate",
   "pastebin-alert": "ramadhanamizudin.github.io/pastebin-alert.js", // noCF? (don´t add this in a new PR)
+  "passwords": "sawyerbx.github.io/pw"
   "pathtrace": "kovacsv.github.io/WebGLPathTrace", // noCF? (don´t add this in a new PR)
   "patternbase": "kamescg.github.io/PatternBase",
   "paul": "paul-brown.github.io", // noCF? (don´t add this in a new PR)
