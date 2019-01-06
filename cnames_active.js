@@ -995,9 +995,9 @@ var cnames_active = {
   "particledb": "boltxyz.github.io/particle.db",
   "pas-ce-soir": "oldergod.github.io/pas-ce-soir",
   "passepartout": "falkz.github.io/passepartout.js.org",
+  "passwords": "sawyerbx.github.io/pw"
   "pastate": "birdleescut.github.io/pastate",
   "pastebin-alert": "ramadhanamizudin.github.io/pastebin-alert.js", // noCF? (don´t add this in a new PR)
-  "passwords": "sawyerbx.github.io/pw"
   "pathtrace": "kovacsv.github.io/WebGLPathTrace", // noCF? (don´t add this in a new PR)
   "patternbase": "kamescg.github.io/PatternBase",
   "paul": "paul-brown.github.io", // noCF? (don´t add this in a new PR)
