@@ -813,6 +813,7 @@ var cnames_active = {
   "mechan": "dusterthefirst.github.io/mechan.js",
   "medan": "medan-js.github.io", // noCF
   "mediainfo": "buzz.github.io/mediainfo.js",
+  "medicine": "ri7nz.github.io/Medicine",
   "medit": "echosoar.github.io/medit",
   "medium-converter": "gunar.github.io/medium-converter", // noCF
   "meethere": "ayazhafiz.github.io/meetHere",
@@ -1187,6 +1188,7 @@ var cnames_active = {
   "rete": "retejs.github.io",
   "retech": "codeindore.github.io/retech",
   "revaluate": "hasharray.github.io/revaluate.js",
+  "ri7nz": "ri7nz.github.io",
   "rickdesantis": "rickdesantis.github.io",
   "riklewis": "riklewis.github.io",
   "riot": "riot.github.io",
