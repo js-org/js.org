@@ -1022,6 +1022,7 @@ var cnames_active = {
   "phobos": "phobosjs.github.io/phobos.js",
   "photo-sphere-viewer": "mistic100.github.io/Photo-Sphere-Viewer", // noCF? (don´t add this in a new PR)
   "phx": "phxjs.github.io",
+  "phylum": "phylumjs.github.io",
   "picsim": "mazko.github.io/picsim.js",
   "pigeon-maps": "mariusandra.github.io/pigeon-maps",
   "piii": "piiijs.github.io/piii.js.org",
