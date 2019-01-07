@@ -813,7 +813,6 @@ var cnames_active = {
   "mechan": "dusterthefirst.github.io/mechan.js",
   "medan": "medan-js.github.io", // noCF
   "mediainfo": "buzz.github.io/mediainfo.js",
-  "medicine": "ri7nz.github.io/Medicine",
   "medit": "echosoar.github.io/medit",
   "medium-converter": "gunar.github.io/medium-converter", // noCF
   "meethere": "ayazhafiz.github.io/meetHere",
