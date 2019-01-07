@@ -1274,6 +1274,7 @@ var cnames_active = {
   "skeptical-coder": "rbpinheiro.github.io/skeptical-coder",
   "sketch": "keiww.github.io/sketch",
   "slang": "ramadis.github.io/slang", // noCF? (don´t add this in a new PR)
+  "slidemenu": "alexkratky.github.io/SlideMenu.js",
   "slideout": "mango.github.io/slideout",
   "slides": "deadcoder0904.github.io/slides-official-website",
   "slidey": "thegreatrazz.github.io/slidey",
