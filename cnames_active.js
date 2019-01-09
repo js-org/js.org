@@ -726,6 +726,7 @@ var cnames_active = {
   "lambda": "lambdajs.github.io", // noCF? (don´t add this in a new PR)
   "lance": "lancepioch.com",
   "languages": "rsamaium.github.io/Languages",
+  "larastrator": "the94air.github.io/larastrator",
   "lasers": "lukehorvat.github.io/need-more-lasers",
   "lass": "lassjs.github.io/lass",
   "latex": "michael-brade.github.io/LaTeX.js",
