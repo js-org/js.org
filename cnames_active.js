@@ -1511,6 +1511,7 @@ var cnames_active = {
   "watch": "ducin.github.io/watchjs.org", // noCF? (don´t add this in a new PR)
   "watermark": "fredy.github.io/watermark",
   "wdd": "wangduanduan.github.io",
+  "wear": "cringiest.github.io/wear",
   "weaver": "maxkfranz.github.io/weaver", // noCF? (don´t add this in a new PR)
   "webassembly": "xtuc.github.io/webassemblyjs",
   "webmetry": "comongroup.github.io/webmetry",
