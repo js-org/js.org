@@ -1018,6 +1018,7 @@ var cnames_active = {
   "pentris": "justinjc.github.io/pentris2", // noCF? (don´t add this in a new PR)
   "perilla": "zhangzisu.github.io/perilla",
   "perguth": "perguth.github.io",
+  "permissions": "danielnewell.github.io/permissions",
   "perspective": "leopoldthecoder.github.io/Perspective",
   "pguth": "pguth.github.io",
   "pharaoh": "pharaoh-js.github.io", // noCF? (don´t add this in a new PR)
