@@ -1005,7 +1005,6 @@ var cnames_active = {
   "patternbase": "kamescg.github.io/PatternBase",
   "paul": "paul-brown.github.io", // noCF? (don´t add this in a new PR)
   "pax": "nathan.github.io/pax",
-  "permissions": "danielnewell.github.io/permissions",
   "pdf": "iamcristye.github.io/PDF",
   "pdfutils": "gottox.github.io/node-pdfutils", // noCF? (don´t add this in a new PR)
   "pdp-elements": "go4cas.github.io/pdp_elements", // noCF? (don´t add this in a new PR)
@@ -1018,6 +1017,7 @@ var cnames_active = {
   "pentris": "justinjc.github.io/pentris2", // noCF? (don´t add this in a new PR)
   "perilla": "zhangzisu.github.io/perilla",
   "perguth": "perguth.github.io",
+  "permissions": "danielnewell.github.io/permissions",
   "perspective": "leopoldthecoder.github.io/Perspective",
   "pguth": "pguth.github.io",
   "pharaoh": "pharaoh-js.github.io", // noCF? (don´t add this in a new PR)
