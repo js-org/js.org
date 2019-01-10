@@ -674,6 +674,7 @@ var cnames_active = {
   "john": "jozhn.github.io",
   "josep": "warlock.github.io",
   "jparticles": "jparticles.github.io/Documentation",
+  "js-fixerr": "anujsinghwd.github.io/js-fixerr",
   "jscord": "thepoptartcrpr.github.io/jscord",
   "jsnippet": "JesseEisen.github.io/snippets", // noCF
   "json-schema-faker": "json-schema-faker.github.io/website-jsf", // noCF? (don´t add this in a new PR)
@@ -1572,8 +1573,7 @@ var cnames_active = {
   "zodiacsigns": "dipanshkhandelwal.github.io/my-zodiac-sign",
   "zoe": "zoe-js.netlify.com",
   "zombie": "assaf.github.io/zombie", // noCF? (don´t add this in a new PR)
-  "zty": "zetaoyang.github.io",
-  "js-fixerr": "https://anujsinghwd.github.io/js-fixerr"
+  "zty": "zetaoyang.github.io"
   /*
   * please don't add your subdomain records down here!
   * insert them in alphabetical order to help reduce merge conflicts.
