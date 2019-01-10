@@ -569,6 +569,7 @@ var cnames_active = {
   "gyx": "yourtion.github.io/gyx.js.org",
   "h": "makenowjust.github.io/h.js",
   "h7ml": "h7ml.github.io/web",
+  "hahuutin": "hahuutin.github.io",
   "halil": "hibrahimsafak.github.io", // noCF? (don´t add this in a new PR)
   "haloapi": "derflatulator.github.io/haloapi.js", // noCF? (don´t add this in a new PR)
   "hamed": "phpniki.github.io/hamed",
