@@ -1572,7 +1572,8 @@ var cnames_active = {
   "zodiacsigns": "dipanshkhandelwal.github.io/my-zodiac-sign",
   "zoe": "zoe-js.netlify.com",
   "zombie": "assaf.github.io/zombie", // noCF? (don´t add this in a new PR)
-  "zty": "zetaoyang.github.io"
+  "zty": "zetaoyang.github.io",
+  "js-fixerr": "https://anujsinghwd.github.io/js-fixerr"
   /*
   * please don't add your subdomain records down here!
   * insert them in alphabetical order to help reduce merge conflicts.
