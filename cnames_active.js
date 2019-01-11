@@ -874,6 +874,7 @@ var cnames_active = {
   "moehou": "moehou.coding.me", //noCF
   "mog-script": "mog-script.github.io",
   "mohammad": "ahmady173.github.io/mohammad",
+  "mohamad": "imohamad.github.io",
   "mohit": "mohitgarg.github.io",
   "mohitgupta": "mohitgupta8888.github.io/mohitgupta",
   "mojiscript": "joelnet.github.io/MojiScript",
@@ -904,7 +905,6 @@ var cnames_active = {
   "mysketch": "dipanshkhandelwal.github.io/MySketch",
   "mythbusters": "mythbustersjs.netlify.com",
   "mzplayer": "prince3661.github.io/Mzplayer",
-  "mohamad": "imohamad.github.io",
   "n-j-m": "n-j-m.github.io", // noCF? (don´t add this in a new PR)
   "nativemodels": "prefinem.github.io/nativemodels",
   "naja": "jiripudil.github.io/Naja",
