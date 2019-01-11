@@ -674,6 +674,7 @@ var cnames_active = {
   "john": "jozhn.github.io",
   "josep": "warlock.github.io",
   "jparticles": "jparticles.github.io/Documentation",
+  "js-fixerr": "anujsinghwd.github.io/js-fixerr",
   "jscord": "thepoptartcrpr.github.io/jscord",
   "jsnippet": "JesseEisen.github.io/snippets", // noCF
   "json-schema-faker": "json-schema-faker.github.io/website-jsf", // noCF? (don´t add this in a new PR)
