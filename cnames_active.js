@@ -1365,6 +1365,7 @@ var cnames_active = {
   "swipe": "lyfeyaj.github.io/swipe",
   "switchit": "dongryphon.github.io/switchit",
   "sw-yx": "sw-yx.github.io",
+  "sydinh": "sydinh.github.io",
   "synth": "lukehorvat.github.io/synth-mood",
   "syr": "dmikey.github.io/syr",
   "soroush": "soroushchehresa.github.io/soroush",
