@@ -1265,6 +1265,7 @@ var cnames_active = {
   "sheet": "sheetjs.github.io/sheet.js.org",
   "shekhar": "shekharreddy4.github.io/Shekhar",
   "shine": "shinenelson.github.io/shine.js.org",
+  "short": "shortit.netlify.com",
   "shortquery": "s--minecraft.gitbooks.io/shortquery-js", // noCF? (don´t add this in a new PR)
   "shscode": "shs-coding-club-projects.github.io",
   "silfr": "silfr.github.io/iterativecolor",
