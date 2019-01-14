@@ -1123,8 +1123,8 @@ var cnames_active = {
   "react-dropzone-uploader": "fortana-co.github.io/react-dropzone-uploader",
   "react-easy-swipe": "leandrowd.github.io/react-easy-swipe", // noCF? (don´t add this in a new PR)
   "react-entanglement": "react-entanglement.github.io",
-  "react-form": "react-form.netlify.com",
   "react-fabric-image-editor": "tegument.github.io/react-fabric-image-editor",
+  "react-form": "react-form.netlify.com",
   "react-hint": "slmgc.github.io/react-hint",
   "react-leaflet": "paullecam.github.io/react-leaflet",
   "react-move": "react-move.netlify.com",
