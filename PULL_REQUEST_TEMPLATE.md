@@ -1,2 +1,3 @@
 - [x] There is reasonable content on the page (see: [No Content](https://github.com/js-org/js.org/wiki/No-Content))
+- [x] Added a CNAME to my the root of my project (see: [Step 2](https://github.com/js-org/js.org#step-3))
 - [x] I have read and accepted the [Terms and Conditions](http://js.org/terms.html)
