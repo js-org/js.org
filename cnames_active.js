@@ -476,6 +476,7 @@ var cnames_active = {
   "feeble": "feeblejs.github.io/feeble",
   "fela": "rofrischmann.github.io/fela", // noCF? (don´t add this in a new PR)
   "festercluck": "festercluck.github.io", // noCF? (don´t add this in a new PR)
+  "fetch-json": "center-key.github.io/fetch-json",
   "fidel": "fidelyz.coding.me",
   "filer": "filerjs.github.io/filer",
   "finder": "applait.github.io/finderjs", // noCF? (don´t add this in a new PR)
