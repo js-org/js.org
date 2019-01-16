@@ -1138,6 +1138,7 @@ var cnames_active = {
   "react-story": "react-story.netlify.com",
   "react-styleguidist": "styleguidist.netlify.com",
   "react-table": "react-table.netlify.com",
+  "react-telegram": "appbak3r.github.io/react-telegram",
   "react-through": "hosting.gitbook.com",
   "react-toulouse": "moox.github.io/react-toulouse",
   "reactabular": "bebraw.github.io/reactabular",
