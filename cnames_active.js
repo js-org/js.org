@@ -1095,6 +1095,7 @@ var cnames_active = {
   "quickdb": "truexpixels.gitbooks.io/quickdb",
   "quinten": "regyo.github.io/quinten",
   "quiz-app": "odevlord.github.io/Quiz-App", // noCF? (don´t add this in a new PR)
+  "quocanh": "looj25391.github.io",
   "quotes": "sawyerbx.github.io/quotes",
   "r": "r-js.github.io",
   "ractive": "ractivejs.github.io",
