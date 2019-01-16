@@ -182,11 +182,11 @@ var cnames_active = {
   "birb": "purpzie.github.io/birb.js.org",
   "biu": "aprilorange.github.io/biu", // noCF? (don´t add this in a new PR)
   "bfd": "mrsheldon.github.io/bfd.js",
+  "black-fury": "neuraxbot.github.io/neuraxbot",
   "blessmyrains": "dusterthefirst.github.io/blessmyrains",
   "bloomer": "algusdark.github.io/bloomer",
   "blotter": "bradley.github.io/Blotter",
   "blurple": "blurplejs.github.io/docs",
-  "black-fury": "neuraxbot.github.io/neuraxbot",
   "boats": "discordboats.github.io",
   "bob": "bhamblok.github.io",
   "bodybuilder": "danpaz.github.io/bodybuilder", // noCF? (don´t add this in a new PR)
