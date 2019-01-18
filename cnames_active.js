@@ -783,6 +783,7 @@ var cnames_active = {
   "ma124": "ma124.netlify.com",
   "macosnotif": "macosnotifjs.mattcowley.co.uk", // noCF
   "madankumar": "jmadankumar.github.io",
+  "magister": "simplygits.github.io/MagisterJS",
   "magnet": "magnetjs.github.io/Magnet", // noCF? (don´t add this in a new PR)
   "mahdyar": "mahdyar.github.io/mahdyar.js.org",
   "mahmoud": "mahmoud-sagharjoughi.github.io/mahmoud",
