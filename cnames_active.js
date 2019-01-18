@@ -557,6 +557,7 @@ var cnames_active = {
   "grep": "42ua.github.io/grep",
   "gridiron": "noderaider.github.io/gridiron",
   "gridsplit": "assetinfo.github.io", // noCF? (don´t add this in a new PR)
+  "group": "cringiest.github.io/group",
   "gruft": "nikola.github.io/gruft", // noCF? (don´t add this in a new PR)
   "guillotine": "matiasgagliano.github.io/guillotine", // noCF? (don´t add this in a new PR)
   "guineapigbot": "guineapigbot.github.io",
