@@ -622,7 +622,7 @@ var cnames_active = {
   "imagecapture": "googlechrome.github.io/imagecapture-polyfill",
   "imcvampire": "imcvampire.github.io",
   "imeme": "svenmeister.github.io/imeme.js.org",
-  "imgops": "dogancelik.github.io/imgops-multi",
+  "imgops": "dogancelik.github.io/imgops-multi", // noCF
   "immense": "immense.github.io", // noCF? (don´t add this in a new PR)
   "immybox": "immense.github.io/immybox", // noCF? (don´t add this in a new PR)
   "impress": "impress.github.io/impress.js",
