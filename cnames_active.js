@@ -666,7 +666,7 @@ var cnames_active = {
   "jargon": "hugogiraudel.github.io/SJSJ", // noCF? (don´t add this in a new PR)
   "javascript-kitchen": "jskitchen.github.io",
   "jbone": "kupriyanenko.github.io/jbone", // noCF? (don´t add this in a new PR)
-  "jcord": "discord-jcord.github.io",
+  "jcord": "discord-jcord.github.io/jcord",
   "jdc": "jdceeb.github.io",
   "jena": "javascript-in-jena.github.io", // noCF
   "jet": "alexanderbartels.github.io/jet-website",
