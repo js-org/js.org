@@ -547,6 +547,7 @@ var cnames_active = {
   "gka": "gkajs.github.io/gka",
   "glitterbot": "glitterbot.netlify.com", //noCF
   "glottologist": "arguiot.github.io/Glottologist",
+  "gm": "if-gm.github.io",
   "godzm4tt3o": "godzm4tt3o.github.io",
   "gol": "goljs.github.io/GoL",
   "gondel": "namics.github.io/gondel",
