@@ -477,8 +477,8 @@ var cnames_active = {
   "fcbosque": "cronopio.github.io/fcbosque", // noCF? (don´t add this in a new PR)
   "fe": "xcss.github.io/FE",
   "feature-u": "kevinast.github.io/feature-u",
-  "feedback": "mubaidr.github.io/feedback.io",
   "feeble": "feeblejs.github.io/feeble",
+  "feedback": "mubaidr.github.io/feedback.io",
   "fela": "rofrischmann.github.io/fela", // noCF? (don´t add this in a new PR)
   "festercluck": "festercluck.github.io", // noCF? (don´t add this in a new PR)
   "fetch-json": "center-key.github.io/fetch-json",
