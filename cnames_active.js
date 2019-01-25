@@ -1521,7 +1521,7 @@ var cnames_active = {
   "vue-multiselect": "shentao.github.io/vue-multiselect",
   "vue-roast": "kronicker.github.io/vue-roast",
   "vue-route-timeline": "disjfa.github.io/vue-route-timeline",
-  "vue-showdown": "meteorlxy.github.io/vue-showdown",
+  "vue-showdown": "vue-showdown.netlify.com",
   "vue-svg-loader": "vue-svg-loader.netlify.com",
   "vue-treeselect": "riophae.github.io/vue-treeselect",
   "vuejsindy": "vuejsindy.github.io",
