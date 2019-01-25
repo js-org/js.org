@@ -1512,7 +1512,7 @@ var cnames_active = {
   "voxelcss": "jhwohlgemuth.github.io/voxelcss",
   "vrv": "cloudflare-to-cloudflare.readthedocs.io",
   "vscode-apielements": "xvincentx.github.io/vscode-apielements",
-  "vssue": "meteorlxy.github.io/vssue",
+  "vssue": "vssue.netlify.com",
   "vue-aplayer": "sevenoutman.github.io/vue-aplayer",
   "vue-coffee": "vue-coffee-guide.netlify.com",
   "vue-core": "triotech-fr.github.io/vue-core",
