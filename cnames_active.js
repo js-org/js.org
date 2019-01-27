@@ -934,6 +934,7 @@ var cnames_active = {
   "neutralino": "neutralinojs.github.io",
   "neutrino": "neutrinojs.netlify.com", // noCF
   "next": "zeit.github.io/next-site",
+  "nexus": "nexusjs.netlify.com",
   "nflow": "nflow-js.github.io", // noCF? (don´t add this in a new PR)
   "nfwyst": "nfwyst.github.io",
   "ng-app": "zackschuster.github.io/ng-app",
