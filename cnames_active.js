@@ -787,6 +787,7 @@ var cnames_active = {
   "lps": "mauris.github.io/lps.js.org",
   "lribeiro": "lmribeiro.github.io",
   "ls": "links-js.github.io",
+  "lwd-db": "https://dreamingbot.github.io/Login-With-Discord-DB",
   "lychee": "Artificial-Engineering.github.io/lycheeJS-website",
   "lyra": "amansahil.github.io/lyra.js.org",
   "m8bot": "mapreiff.github.io/m8-bot-site",
