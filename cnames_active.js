@@ -277,6 +277,7 @@ var cnames_active = {
   "clusterize": "nexts.github.io/Clusterize.js",
   "cmbhackjs2013": "cmbjs.github.io/cmbHackjs2013",
   "cmdhub": "thatonetqnk.github.io/cmdhub",
+  "cml": "didi.github.io/chameleon",
   "cn.iflow": "unadlib.github.io/iflow-docs-cn",
   "cn.mobx": "sangka.github.io/mobx-docs-cn", // noCF
   "cn.redux": "camsong.github.io/redux-in-chinese", // noCF? (don´t add this in a new PR)
