@@ -690,7 +690,7 @@ var cnames_active = {
   "js-fixerr": "anujsinghwd.github.io/js-fixerr",
   "jscord": "thepoptartcrpr.github.io/jscord",
   "jsnippet": "JesseEisen.github.io/snippets", // noCF
-  "json-schema-faker": "json-schema-faker.github.io/website-jsf", // noCF? (don´t add this in a new PR)
+  "json-schema-faker": "json-schema-faker.github.io/website-jsf",
   "jsonapi": "ethanresnick.github.io/json-api",
   "jsonui": "yourtion.github.io/vue-json-ui-editor",
   "jsonuri": "aligay.github.io/jsonuri",
