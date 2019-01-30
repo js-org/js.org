@@ -292,7 +292,7 @@ var cnames_active = {
   "coir": "channg.github.io/coir",
   "collegequest": "schoolhouserock.github.io/CollegeQuest", // noCF? (don´t add this in a new PR)
   "colombo": "cmbjs.github.io/CMBJS",
-  "color": "akash-joshi.github.io/neural-color-picker/"
+  "color": "akash-joshi.github.io/neural-color-picker/",
   "colorlab": "signalwerk.github.io/colorlab",
   "comframe": "haydennyyy.github.io/comframe",
   "comixngn": "seun40.github.io/comix-ngn", // noCF? (don´t add this in a new PR)
