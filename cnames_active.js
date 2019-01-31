@@ -189,6 +189,7 @@ var cnames_active = {
   "blessmyrains": "dusterthefirst.github.io/blessmyrains",
   "bloomer": "algusdark.github.io/bloomer",
   "blotter": "bradley.github.io/Blotter",
+  "bluelightos": "91.229.143.141",
   "blurple": "blurplejs.github.io/docs",
   "boats": "discordboats.github.io",
   "bob": "bhamblok.github.io",
