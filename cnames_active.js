@@ -866,6 +866,7 @@ var cnames_active = {
   "milesgitgud": "milesgitgud.github.io/homepage",
   "mimic": "500tech.github.io/mimic",
   "mina": "CenturyUna.github.io/mina",
+  "mindyourtime": "michaloslav.github.io/Mind-Your-Time",
   "minecraft-data.prismarine": "prismarinejs.github.io/minecraft-data",
   "mineflayer.prismarine": "prismarinejs.github.io/mineflayer",
   "minesweeper": "derflatulator.github.io/minesweeper",
