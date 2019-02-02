@@ -191,7 +191,7 @@ var cnames_active = {
   "blotter": "bradley.github.io/Blotter",
   "bluelightos": "bluelightos.ddns.net",
   "api.bluelightos": "bluelightos.ddns.net",
-  "community.bluelightos": "bluelightos.ddns.net",
+  "forums.bluelightos": "bluelightos.ddns.net",
   "packages.bluelightos": "bluelightos.ddns.net",
   "mail.bluelightos": "bluelightos.ddns.net",
   "manual.bluelightos": "hosting.gitbook.com",
