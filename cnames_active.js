@@ -194,7 +194,7 @@ var cnames_active = {
   "community.bluelightos": "bluelightos.ddns.net",
   "packages.bluelightos": "bluelightos.ddns.net",
   "mail.bluelightos": "bluelightos.ddns.net",
-  "manual.bluelightos": "hosts.gitbooks.io",
+  "manual.bluelightos": "hosting.gitbook.com",
   "blurple": "blurplejs.github.io/docs",
   "boats": "discordboats.github.io",
   "bob": "bhamblok.github.io",
