@@ -190,7 +190,6 @@ var cnames_active = {
   "bloomer": "algusdark.github.io/bloomer",
   "blotter": "bradley.github.io/Blotter",
   "bluelightos": "bluelightos.ddns.net",
-  "mail.bluelightos": "bluelightos.ddns.net",
   "manual.bluelightos": "hosting.gitbook.com",
   "blurple": "blurplejs.github.io/docs",
   "boats": "discordboats.github.io",
