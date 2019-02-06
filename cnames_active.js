@@ -1495,6 +1495,7 @@ var cnames_active = {
   "utscrooms": "sunakujira1.github.io/UTSCRooms",
   "uuid": "rumkin.github.io/uuid",
   "uvcharts": "imaginea.github.io/uvCharts", // noCF? (don´t add this in a new PR)
+  "v4f": "v4f.netlify.com",
   "v-charts": "elemefe.github.io/v-charts",
   "v-decorators": "v-decorators.netlify.com",
   "vac": "mlinquan.github.io/vue-awesome-countdown",
