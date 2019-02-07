@@ -1277,7 +1277,6 @@ var cnames_active = {
   "seatbelt": "seatbeltjs.github.io/seatbelt",
   "sed": "42ua.github.io/sed",
   "secsb": "secsb.github.io",
-  "seeno": "umm233.github.io",
   "seesaw": "cajogos.github.io/seesaw", // noCF? (don´t add this in a new PR)
   "segoe-mdl2-css": "ckgrafico.github.io/Segoe-mdl2-assets-css", // noCF? (don´t add this in a new PR)
   "select_io": "selaromi.github.io/select_io", // noCF? (don´t add this in a new PR)
@@ -1480,6 +1479,7 @@ var cnames_active = {
   "udnisap": "udnisap.github.io",
   "ulog": "download.github.io/ulog",
   "ultcombo": "ultcombo.github.io",
+  "umm": "umm233.github.io",
   "underline": "brightskyz.github.io/underline",
   "uneditable": "iamcristye.github.io/Uneditable.js",
   "unexpected": "unexpectedjs.github.io", // noCF? (don´t add this in a new PR)
