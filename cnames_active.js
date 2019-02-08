@@ -1052,6 +1052,7 @@ var cnames_active = {
   "permissions": "danielnewell.github.io/permissions",
   "perspective": "leopoldthecoder.github.io/Perspective",
   "pguth": "pguth.github.io",
+  "ph1p": "ph1p.github.io",
   "pharaoh": "pharaoh-js.github.io", // noCF? (don´t add this in a new PR)
   "phobos": "phobosjs.github.io/phobos.js",
   "phoenix35": "phoenix35.github.io/js-help",
