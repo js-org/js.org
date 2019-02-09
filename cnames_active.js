@@ -557,6 +557,7 @@ var cnames_active = {
   "gitme": "gitme.netlify.com",
   "gitstyle": "inKerk.github.io/git-style-guide",
   "gka": "gkajs.github.io/gka",
+  "glaze": "kripod.github.io/glaze",
   "glitterbot": "glitterbot.netlify.com", //noCF
   "glottologist": "arguiot.github.io/Glottologist",
   "godzm4tt3o": "godzm4tt3o.github.io",
