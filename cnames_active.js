@@ -178,6 +178,7 @@ var cnames_active = {
   "bci": "pwstegman.github.io/bcijs",
   "be": "davidep87.github.io/bejs.github.io",
   "begin": "advanced-webapps-class.github.io/begin", // noCF? (don´t add this in a new PR)
+  "benjick": "benjick.github.io",
   "berzan": "newbie13xd.github.io/berzan",
   "besafe": "ma124.github.io/BeSafe",
   "bestof": "michaelrambeau.github.io/bestofjs",
