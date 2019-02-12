@@ -652,6 +652,7 @@ var cnames_active = {
   "instabousing": "jlbousing.github.io/instaBousing",
   "instant": "instant.github.io",
   "integreat": "hosting.gitbook.com",
+  "intelligo": "intelligo-systems.github.io/intelligo",
   "invoicing": "vahe.github.io/InvoicingJs",
   "ion": "ionjs-dev.github.io",
   "iori": "iori20091101.github.io",
