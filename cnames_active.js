@@ -373,6 +373,7 @@ var cnames_active = {
   "dickbutt": "xpde.github.io/dickbutt",
   "diffract": "ameyms.github.io/diffract", // noCF? (don´t add this in a new PR)
   "dinesh": "dineshondev.github.io/dinesh", // noCF? (don´t add this in a new PR)
+  "dinos": "0xflotus.github.io/dinos",
   "dio": "thysultan.github.io/dio.js",
   "discord": "discordjs.github.io/website",
   "discunit": "megacode18.github.io/discunit.js",
