@@ -1503,6 +1503,7 @@ var cnames_active = {
   "up": "codefeathers.github.io/up",
   "uppload": "elninotech.github.io/uppload",
   "upresent": "bobbybee.github.io/uPresent", // noCF? (don´t add this in a new PR)
+  "uptime": "intelligo-systems.github.io/uptime.js",
   "urban": "snekjs.github.io/urban.js",
   "use": "use-js.github.io/use",
   "utscrooms": "sunakujira1.github.io/UTSCRooms",
