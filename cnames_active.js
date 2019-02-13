@@ -1500,9 +1500,9 @@ var cnames_active = {
   "unoconv": "blog.ryanwu.me/Unoconv-Promise",
   "unsafe": "unsafely.github.io/unsafe.js",
   "up": "codefeathers.github.io/up",
-  "uptime": "intelligo-systems.github.io/uptime.js",
   "uppload": "elninotech.github.io/uppload",
   "upresent": "bobbybee.github.io/uPresent", // noCF? (don´t add this in a new PR)
+  "uptime": "intelligo-systems.github.io/uptime.js",
   "urban": "snekjs.github.io/urban.js",
   "use": "use-js.github.io/use",
   "utscrooms": "sunakujira1.github.io/UTSCRooms",
