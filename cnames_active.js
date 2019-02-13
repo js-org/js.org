@@ -822,6 +822,7 @@ var cnames_active = {
   "marble": "jsguy.github.io/marble",
   "mardatonne": "neotidev.github.io/mardatonne-doc",
   "mare": "muzuiget.github.io/mare-site",
+  "marie": "marie-js.github.io/MARIE.js/",
   "mark": "henry-luo.github.io/mark",
   "markbox": "markbox.netlify.com",
   "markdownify": "amitmerchant1990.github.io/electron-markdownify",
