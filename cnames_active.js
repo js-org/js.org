@@ -1021,6 +1021,7 @@ var cnames_active = {
   "otakubot": "haydennyyy.github.io/otakubot",
   "outdoors": "mrdatastorage.github.io/outdoors.js",
   "overtrack": "aidant.github.io/overtrack.js",
+  "ovestack": "ovestack.github.io",
   "pad": "ebraminio.github.io/pad.js", // noCF? (don´t add this in a new PR)
   "pageobject": "clebert.github.io/pageobject",
   "pagination": "superRaytin.github.io/paginationjs-site", // noCF
@@ -1622,8 +1623,7 @@ var cnames_active = {
   "zoe": "zoe-js.netlify.com",
   "zombie": "assaf.github.io/zombie", // noCF? (don´t add this in a new PR)
   "zonayed": "zonayedpca.github.io/js.zonayed.me",
-  "zty": "zetaoyang.github.io",
-  "ovestack": "ovestack.github.io"
+  "zty": "zetaoyang.github.io"
   /*
   * please don't add your subdomain records down here!
   * insert them in alphabetical order to help reduce merge conflicts.
