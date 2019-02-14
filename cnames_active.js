@@ -654,6 +654,7 @@ var cnames_active = {
   "instant": "instant.github.io",
   "integreat": "hosting.gitbook.com",
   "intelligo": "intelligo-systems.github.io/intelligo",
+  "interview": "fengzilong.github.io/interview-101",
   "invoicing": "vahe.github.io/InvoicingJs",
   "ion": "ionjs-dev.github.io",
   "iori": "iori20091101.github.io",
