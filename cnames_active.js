@@ -800,6 +800,7 @@ var cnames_active = {
   "lol": "xcss.github.io/lol",
   "lombok": "lombokjs.github.io",
   "loog": "israelroldan.github.io/loog",
+  "look": "muhaza.github.io/look",
   "lostyle": "rtsao.github.io/lostyle",
   "lottiefy": "pd4d10.github.io/lottiefy",
   "lps": "mauris.github.io/lps.js.org",
