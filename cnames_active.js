@@ -1569,6 +1569,7 @@ var cnames_active = {
   "warship": "vflopes.github.io/warship",
   "watch": "ducin.github.io/watchjs.org", // noCF? (don´t add this in a new PR)
   "watermark": "fredy.github.io/watermark",
+  "wc": "bryansha.github.io/wc",
   "wdd": "wangduanduan.github.io",
   "wear": "cringiest.github.io/wear",
   "weaver": "maxkfranz.github.io/weaver", // noCF? (don´t add this in a new PR)
