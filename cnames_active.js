@@ -1278,6 +1278,7 @@ var cnames_active = {
   "sanctuary": "sanctuary-js.github.io/sanctuary-site",
   "sandeepkhandewale": "learner1024.github.io",
   "sandstone": "storehubnet.github.io/sandstone",
+  "sandren": "sandren.github.io",
   "sanity-runner": "tophat.github.io/sanity-runner",
   "sanohin": "sanohin.github.io",
   "santa": "codedrs.github.io/secret-santa",
