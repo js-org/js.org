@@ -978,6 +978,7 @@ var cnames_active = {
   "nite": "manvalls.github.io/nite",
   "nod": "diegohaz.github.io/nod",
   "node-atlas": "haeresis.github.io/NodeAtlas",
+  "node-slate": "center-key.github.io/node-slate",
   "nodegarden": "pakastin.github.io/nodegarden",
   "noderize": "cretezy.github.io/noderize",
   "noflux": "nofluxjs.gitbooks.io/noflux",
