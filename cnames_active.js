@@ -378,6 +378,7 @@ var cnames_active = {
   "dinos": "0xflotus.github.io/dinos",
   "dio": "thysultan.github.io/dio.js",
   "discord": "discordjs.github.io/website",
+  "discordutil": "chroventer.github.io/discordutil",
   "discunit": "megacode18.github.io/discunit.js",
   "disode": "disode.github.io/disode",
   "display": "arguiot.github.io/DisplayJS",
