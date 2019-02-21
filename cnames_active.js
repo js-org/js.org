@@ -558,6 +558,7 @@ var cnames_active = {
   "german": "dipanshkhandelwal.github.io/Learning-German",
   "get": "hxco.github.io/Get",
   "getlink": "ilovecode1.github.io/linkjs", // noCF? (don´t add this in a new PR)
+  "gh": "req-res.github.io/ghwidget",
   "ghastly": "hkwu.github.io/ghastly",
   "ghapi": "haydennyyy.github.io/ghapi-website",
   "ghsamm": "ghsamm.github.io", // noCF? (don´t add this in a new PR)
