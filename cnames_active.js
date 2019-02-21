@@ -1398,7 +1398,7 @@ var cnames_active = {
   "storybooks": "storybooks.github.io",
   "stratic": "straticjs.github.io",
   "stress": "julindra.github.io/stress.js",
-  "structure": "talyssonoc.gitbooks.io/structure",
+  "structure": "hosting.gitbook.com",
   "stuck": "linuxenko.github.io/unstuck-webpack",
   "style": "dhilipsiva.github.io/style.js", // noCF? (don´t add this in a new PR)
   "styled-css-grid": "styled-css-grid.netlify.com",
