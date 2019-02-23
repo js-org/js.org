@@ -89,7 +89,7 @@ var cnames_active = {
   "alien": "pschroen.github.io/alien.js",
   "aligos": "aligos.github.io", // noCF? (don´t add this in a new PR)
   "all": "learnsomuch.github.io/all.js", // noCF? (don´t add this in a new PR)
-  "all-contributors": "all-contributors.github.io/website",
+  "all-contributors": "all-contributors-js-org.netlify.com",
   "alley": "tinyalley.github.io",
   "almin": "almin.github.io",
   "alpap": "alpap.github.io/Portfolio",
