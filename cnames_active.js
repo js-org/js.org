@@ -454,6 +454,7 @@ var cnames_active = {
   "emoji": "egoist.github.io/emoji",
   "emojipanel": "danbovey.github.io/EmojiPanel",
   "emulisp": "grahack.github.io/EmuLisp", // noCF? (don´t add this in a new PR)
+  "endb": "chroventer.github.io/endb"
   "enclave": "eanplatter.github.io/enclave", // noCF? (don´t add this in a new PR)
   "energy": "energychain.github.io/energy",
   "engui": "engui.github.io",
