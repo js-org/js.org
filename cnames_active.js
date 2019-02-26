@@ -1562,6 +1562,7 @@ var cnames_active = {
   "vscode-apielements": "xvincentx.github.io/vscode-apielements",
   "vssue": "vssue.netlify.com",
   "vstatic": "vstatic-webserver.github.io/website",
+  "short.vstatic": "equidistant.space",
   "vue-aplayer": "sevenoutman.github.io/vue-aplayer",
   "vue-coffee": "vue-coffee-guide.netlify.com",
   "vue-core": "triotech-fr.github.io/vue-core",
