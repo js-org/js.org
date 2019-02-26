@@ -959,6 +959,7 @@ var cnames_active = {
   "nanimation": "imthenachoman.github.io/nAnimation", // noCF? (don´t add this in a new PR)
   "naughtychecker": "gautamkrishnar.github.io/naughtychecker.js",
   "nautilus": "ignigena.github.io/nautilus",
+  "nbabot": "chig.js.org/NBABot",
   "ncub8": "ncub8.github.io", // noCF? (don´t add this in a new PR)
   "nearley": "kach.github.io/nearley",
   "nemaniarjun": "nemaniarjun.github.io",
