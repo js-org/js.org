@@ -953,7 +953,6 @@ var cnames_active = {
   "mysketch": "dipanshkhandelwal.github.io/MySketch",
   "mythbusters": "mythbustersjs.netlify.com",
   "mzplayer": "prince3661.github.io/Mzplayer",
-  "neurax": "black-fury.github.io"
   "nativemodels": "prefinem.github.io/nativemodels",
   "naja": "jiripudil.github.io/Naja",
   "namelessman": "namelessman.github.io",
@@ -967,6 +966,7 @@ var cnames_active = {
   "neo4": "janpeter.github.io/neo4js",
   "neotidev": "neotidev.github.io/website",
   "netology-group": "netology-group.github.io",
+  "neurax": "black-fury.github.io"
   "neutralino": "neutralinojs.github.io",
   "neutrino": "neutrinojs.netlify.com", // noCF
   "next": "zeit.github.io/next-site",
