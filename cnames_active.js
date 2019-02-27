@@ -193,6 +193,7 @@ var cnames_active = {
   "birb": "purpzie.github.io/birb.js.org",
   "biu": "aprilorange.github.io/biu", // noCF? (don´t add this in a new PR)
   "bfd": "mrsheldon.github.io/bfd.js",
+  "black-fury": "black-fury.github.io",
   "blessmyrains": "dusterthefirst.github.io/blessmyrains",
   "bloomer": "algusdark.github.io/bloomer",
   "blotter": "bradley.github.io/Blotter",
