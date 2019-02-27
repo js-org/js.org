@@ -744,6 +744,7 @@ var cnames_active = {
   "kewitz": "kewitz.github.io",
   "keypress": "rumkin.github.io/keypress.js.org",
   "kilvin": "rofrischmann.github.io/kilvin",
+  "kilobyte": "https://kilobytehq.github.io/open-js",
   "kim": "khareemnurulla.github.io/kim",
   "kite": "kite-js.github.io/kite",
   "kiwidocs": "arguiot.github.io/KiwiDocs",
