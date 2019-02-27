@@ -162,6 +162,7 @@ var cnames_active = {
   "badger": "just-glue-it.github.io/badger", // noCF? (don´t add this in a new PR)
   "badrudeen": "badrudeen.github.io", // noCF? (don´t add this in a new PR)
   "bai": "abaijs.github.io",
+  "black-fury": "black-fury.github.io",
   "bali": "balijs.github.io",
   "bananaticos": "bananaticos.github.io/bananaticos-website", //noCF
   "bancho": "thepoon.github.io/bancho.js",
