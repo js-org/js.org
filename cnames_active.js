@@ -433,6 +433,7 @@ var cnames_active = {
   "dynamicsnode": "crisfervil.github.io/DynamicsNode",
   "dyo": "dyo.github.io/dyo",
   "eahmed234": "eahmed234.github.io",
+  "eatery-nod-w": "kevinast.github.io/eatery-nod-w",
   "ebnsina": "ebnsina.github.io/js.ebnsina.me",
   "echo": "licshee.github.io/echo.js",
   "ed2k": "sunnyli.github.io/ed2k.js",
