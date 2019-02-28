@@ -642,6 +642,7 @@ var cnames_active = {
   "i18n4v": "shibukawa.github.io/i18n4v",
   "iagrib": "iagrib.github.io",
   "icecast": "jucrouzet.github.io/icecast.js",
+  "idettman": "idettman.github.io",
   "ienumerable": "mbasso.github.io/ienumerable",
   "iffe": "iffe-team.github.io",
   "iflow": "unadlib.github.io/iflow",
