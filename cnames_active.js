@@ -1357,6 +1357,7 @@ var cnames_active = {
   "slidey": "thegreatrazz.github.io/slidey",
   "slim": "eavichay.github.io/slim.js",
   "smartquotes": "kellym.github.io/smartquotes.js",
+  "smiley": "Smiley422.github.io",
   "smoove": "abemedia.github.io/jquery-smoove",
   "smox": "132yse.github.io/smox",
   "snake": "pakastin.github.io/snake",
