@@ -995,6 +995,7 @@ var cnames_active = {
   "nintenbot": "nintenzone.github.io/NintenBot",
   "niscord": "niscord.github.io/niscord",
   "nite": "manvalls.github.io/nite",
+  "noblox": "suufi.github.io/noblox.js",
   "nod": "diegohaz.github.io/nod",
   "node-atlas": "haeresis.github.io/NodeAtlas",
   "node-slate": "center-key.github.io/node-slate",
