@@ -1337,6 +1337,7 @@ var cnames_active = {
   "short": "shortit.netlify.com",
   "shortquery": "s--minecraft.gitbooks.io/shortquery-js", // noCF? (don´t add this in a new PR)
   "shscode": "shs-coding-club-projects.github.io",
+  "sidekik": "inf3cti0n95.github.io/sidekik",
   "silas229": "silas229.github.io",
   "silfr": "silfr.github.io/iterativecolor",
   "silkster": "silkster.github.io",
