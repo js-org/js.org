@@ -1046,6 +1046,7 @@ var cnames_active = {
   "oscillator": "lukehorvat.github.io/super-oscillator",
   "osom": "kikobeats.github.io/osom",
   "otakubot": "haydennyyy.github.io/otakubot",
+  "ouster": "ouster.github.io/index.html",
   "outdoors": "mrdatastorage.github.io/outdoors.js",
   "overtrack": "aidant.github.io/overtrack.js",
   "p2psc": "kognise.github.io/p2psc",
