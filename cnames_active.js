@@ -766,6 +766,7 @@ var cnames_active = {
   "konsumer": "konsumer.github.io", // noCF? (don´t add this in a new PR)
   "koolclash": "sukkaw.github.io/Koolshare-Clash",
   "koot": "cmux.github.io/koot",
+  "koutla-swiss": "leny.github.io/koutla-swiss",
   "kremling": "canopytax.github.io/kremling.js.org",
   "kshitij": "kshitij98.github.io",
   "ktm": "developers-nepal.github.io/ktmjs",
