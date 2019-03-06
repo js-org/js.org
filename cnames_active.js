@@ -347,6 +347,7 @@ var cnames_active = {
   "cycle": "cyclejs.github.io",
   "cyclow": "pmros.github.io/cyclow", // noCF
   "d4": "joelburget.github.io/d4",
+  "daily.tmr": "ttttmr.github.io/daily",
   "damo": "damodharanj.github.io",
   "danmaku": "weizhenye.github.io/Danmaku",
   "danmol": "dan12mol.github.io", // noCF? (don´t add this in a new PR)
@@ -1483,7 +1484,6 @@ var cnames_active = {
   "title": "sawyerbx.github.io/titlejs",
   "tixol": "vcxiz.github.io/tixol",
   "tiza": "pd4d10.github.io/tiza",
-  "daily.tmr": "ttttmr.github.io/daily",
   "tmr": "ttttmr.github.io",
   "toad": "wnda.github.io/toad",
   "tom": "tom-microservice.netlify.com",
