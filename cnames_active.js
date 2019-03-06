@@ -1483,6 +1483,7 @@ var cnames_active = {
   "title": "sawyerbx.github.io/titlejs",
   "tixol": "vcxiz.github.io/tixol",
   "tiza": "pd4d10.github.io/tiza",
+  "daily.tmr" "ttttmr.github.io/daily",
   "tmr": "ttttmr.github.io",
   "toad": "wnda.github.io/toad",
   "tom": "tom-microservice.netlify.com",
