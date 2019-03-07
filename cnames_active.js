@@ -530,6 +530,7 @@ var cnames_active = {
   "flying-squid.prismarine": "prismarinejs.github.io/flying-squid",
   "fnx": "fnxjs.gitbooks.io/fnx-documentation",
   "food": "teamtofu.github.io/foodweb",
+  "fontdragr": "ryanseddon.github.io/font-dragr",
   "form": "the94air.github.io/formjs",
   "formred": "zewish.github.io/formred",
   "fortnite": "ickerio.github.io/fortnite.js",
