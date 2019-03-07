@@ -11,11 +11,12 @@
  * 
  *      Some of these subdomains are reserved for JS.ORG itself (e.g.: mail.js.org, admin.js.org).
  *      Others are so generic that they should be used for community driven pages only (e.g.: blog.js.org, docs.js.org).
- *      If you are willing to use one of the restricted subdomains in a way the community can benfit and participate, you can always file an issue and start a discussion.
+ *      If you are willing to use one of the restricted subdomains in a way the community can benefit and participate, you can always file an issue and start a discussion.
  * 
  */
 
 var cnames_restricted = [
+    "(1/2/3/...)"
     "about",
     "account(s)",
     "ad(s)",
@@ -31,6 +32,7 @@ var cnames_restricted = [
     "bar",
     "base",
     "basic(s)",
+    "bbs",
     "become",
     "bible",
     "blog(s)",
@@ -84,6 +86,7 @@ var cnames_restricted = [
     "es2015",
     "es6",
     "event(s)",
+    "exchange",
     "faq(s)",
     "file(s)",
     "find",
@@ -132,7 +135,8 @@ var cnames_restricted = [
     "logout",
     "loop(s)",
     "love",
-    "mail",
+    "m",
+    "mail(1/2)",
     "main",
     "map(s)",
     "market(s)",
@@ -142,6 +146,7 @@ var cnames_restricted = [
     "member(s)",
     "mobile",
     "module(s)",
+    "mx",
     "my",
     "native",
     "net",
@@ -151,13 +156,13 @@ var cnames_restricted = [
     "newsletter(s)",
     "ninja(s)",
     "now",
-    "ns1",
-    "ns2",
+    "ns(1/2)",
     "object(s)",
     "online",
     "open",
     "orig",
     "origin",
+    "owa",
     "package(s)",
     "page(s)",
     "password(s)",
@@ -188,6 +193,7 @@ var cnames_restricted = [
     "serv",
     "server(s)",
     "service(s)",
+    "shop(s)"
     "site(s)",
     "smtp",
     "socket(s)",
@@ -198,6 +204,7 @@ var cnames_restricted = [
     "sub(s)",
     "subdomain(s)",
     "subscribe",
+    "support",
     "sync",
     "system(s)",
     "tag(s)",
@@ -226,11 +233,15 @@ var cnames_restricted = [
     "validate",
     "var(s)",
     "virtual",
+    "vpn",
+    "vps",
     "wasm",
     "watch",
     "web",
+    "webmail",
     "webmaster",
     "world",
-    "www",
+    "ww(1/2/3/42)",
+    "www(1/2/3/42)",
     "xml"
 ]
