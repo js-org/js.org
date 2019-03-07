@@ -347,7 +347,7 @@ var cnames_active = {
   "cycle": "cyclejs.github.io",
   "cyclow": "pmros.github.io/cyclow", // noCF
   "d4": "joelburget.github.io/d4",
-  "daily.tmr": "ttttmr.github.io/daily",
+  "daily.tmr": "ttttmr.github.io/daily", // noCF
   "damo": "damodharanj.github.io",
   "danmaku": "weizhenye.github.io/Danmaku",
   "danmol": "dan12mol.github.io", // noCF? (don´t add this in a new PR)
