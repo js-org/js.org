@@ -1596,8 +1596,8 @@ var cnames_active = {
   "vue-svg-loader": "vue-svg-loader.netlify.com",
   "vue-treeselect": "riophae.github.io/vue-treeselect",
   "vuejsindy": "vuejsindy.github.io",
-  "vuelog": "myst729.github.io/Vuelog",
   "vuelidate": "vuelidate.netlify.com",
+  "vuelog": "myst729.github.io/Vuelog",
   "vuetify-sidebar-template": "disjfa.github.io/vuetify-sidebar-template",
   "vuikit": "vuikit.netlify.com",
   "vuongdothanhhuy": "vuongdothanhhuy.github.io", // noCF? (don´t add this in a new PR)
