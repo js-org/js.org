@@ -551,6 +551,7 @@ var cnames_active = {
   "fs-nextra": "bdistin.github.io/fs-nextra",
   "fuck": "gerd2002.github.io/fuck.js",
   "fullscreen": "motyar.github.io/fullscreen",
+  "fun": "the94air.github.io/fun",
   "funbook": "egoist.github.io/funbook",
   "funfuncs": "floffah.github.io/funfuncs",
   "fucao": "fusuhub.github.io",
