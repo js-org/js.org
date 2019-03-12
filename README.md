@@ -1,5 +1,3 @@
-## ❗️❗️❗️ We are unable to provide any new subdomains at the moment due to hitting the quota of our DNS service provider. Please don't add any new PRs for now. We are searching for a solution in [this issue](https://github.com/js-org/js.org/issues/2873) ❗️❗️❗️ 
-
 [![JS.ORG Logo](http://logo.js.org/png/github_header.png)](http://js.org)
 
 [![JS.ORG](https://img.shields.io/badge/js.org-+-FFE70B.svg?style=flat-square)](http://js.org)
