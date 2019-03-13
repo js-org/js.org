@@ -17,9 +17,9 @@ Add a file named ```CNAME``` to your repo (in the ```gh-pages``` branch for proj
 
 ### Step 4
 To finish the procedure, make a pull request in this GitHub repository that adds your subdomain to the [list](https://github.com/js-org/js.org/blob/master/cnames_active.js) of existing JS.ORG domains. Your new URL should go live within 24 hours (keep an eye on your pull request in case of a naming conflict).
-
-
-
-
+ 
+ 
+ 
+ 
 ### Thanks
 ... to **[Cloudflare](https://www.cloudflare.com)** for their superb DNS service that makes this possible. While JS.ORG is using their Cloudflares free plan - to shameless extent - they helped us more then once with some flexible solutions and extended quotas. Thanks!
