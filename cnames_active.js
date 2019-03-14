@@ -1301,6 +1301,7 @@ var cnames_active = {
   "ruhuman": "ruhuman.github.io", // noCF? (don´t add this in a new PR)
   "russell": "teamtofu.github.io/russelljs",
   "ruwan": "rpgee.github.io",
+  "ryzokuken": "ryzokuken.github.io"
   "s3swa": "s3swa-ict-upgifter.github.io/snow-eater",
   "s4swa": "s4swa.github.io",
   "sagui": "saguijs.github.io", // noCF? (don´t add this in a new PR)
