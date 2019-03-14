@@ -1584,7 +1584,7 @@ var cnames_active = {
   "vrv": "cloudflare-to-cloudflare.readthedocs.io",
   "vscode-apielements": "xvincentx.github.io/vscode-apielements",
   "vssue": "vssue.netlify.com",
-  "vstatic": "axlehost.pro", //noCF
+  "vstatic": "vstatic-webserver.github.io",
   "vue-aplayer": "sevenoutman.github.io/vue-aplayer",
   "vue-coffee": "vue-coffee-guide.netlify.com",
   "vue-core": "triotech-fr.github.io/vue-core",
