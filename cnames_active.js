@@ -267,7 +267,7 @@ var cnames_active = {
   "chaaat": "chaaat.github.io",
   "chain-able": "fluents.github.io/chain-able-site",
   "chatexchange": "jacob-gray.github.io/ChatExchangeJS",
-  "charge": "brandonweiss.github.io/charge",
+  "charge": "charge-js.netlify.com",
   "chartconstructor": "quarksworks.github.io/chartConstructor",
   "chandzhang": "chandzhang.github.io",
   "cheerio": "cheeriojs.github.io/cheerio",
