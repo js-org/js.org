@@ -170,6 +170,7 @@ var cnames_active = {
   "bancho": "thepoon.github.io/bancho.js",
   "bandicoot": "canopytax.github.io/bandicoot.js.org",
   "bandung": "zufrizalyordan.github.io/bandungjs",
+  "barba": "barbajs.github.io/barba",
   "barbagrigia": "barbagrigia.github.io",
   "base64": "licshee.github.io/base64",
   "bash": "bashjs.github.io",
