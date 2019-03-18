@@ -1445,6 +1445,7 @@ var cnames_active = {
   "styled-icons": "styled-icons.netlify.com",
   "stylis": "thysultan.github.io/stylis.js",
   "sub": "subjs.github.io",
+  "subnmods": "k8qxjr90t6flyn6x.shw.io",
   "sudarshan": "sudarshanRaul.github.io",
   "sudoku": "andreynering.github.io/sudoku",
   "suka": "sukkaw.github.io",
