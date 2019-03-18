@@ -988,6 +988,7 @@ var cnames_active = {
   "netology-group": "netology-group.github.io",
   "neutralino": "neutralinojs.github.io",
   "neutrino": "neutrinojs.netlify.com", // noCF
+  "newbyte": "newbie13xd.github.io/newbyte",
   "next": "zeit.github.io/next-site",
   "nexus": "nexusjs.netlify.com",
   "nflow": "nflow-js.github.io", // noCF? (don´t add this in a new PR)
