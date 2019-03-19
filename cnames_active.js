@@ -191,7 +191,6 @@ var cnames_active = {
   "besafe": "ma124.github.io/BeSafe",
   "bestof": "michaelrambeau.github.io/bestofjs",
   "between": "na-west1.surge.sh",
-  "bicbacboe": "bicbacboe.github.io/Bic-Bac-Boe",
   "brotat": "mariobob.github.io/brotat-website",
   "bind-action-dispatchers": "cchamberlain.github.io/bind-action-dispatchers", // noCF? (don´t add this in a new PR)
   "birb": "purpzie.github.io/birb.js.org",
