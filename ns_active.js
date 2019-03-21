@@ -13,5 +13,5 @@
  */
  
  var ns_active = {
-  "example": ["dns1.pXX.nsone.net", "dns2.pXX.nsone.net", "dns3.pXX.nsone.net", "dns4.pXX.nsone.net"]
+  "shebang": ["dns1.p01.nsone.net", "dns2.p01.nsone.net", "dns3.p01.nsone.net", "dns4.p01.nsone.net"]
  }
