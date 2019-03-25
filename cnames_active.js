@@ -450,6 +450,7 @@ var cnames_active = {
   "electron-react-boilerplate": "electron-react-boilerplate.github.io/site",
   "elementnet": "elementnet.github.io",
   "elf": "mytharcher.github.io/elf.js.org", // noCF? (don´t add this in a new PR)
+  "elixor":"hosting.gitbook.com",
   "elliot": "elliotboney.github.io", // noCF? (don´t add this in a new PR)
   "elmo": "lap00zza.github.io/elmo",
   "elock": "yourtion.github.io/node-elock",
