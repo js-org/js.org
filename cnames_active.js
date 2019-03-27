@@ -1369,6 +1369,7 @@ var cnames_active = {
   "simulacra": "daliwali.github.io/simulacra",
   "sina": "sinabakh.github.io/sina",
   "simba": "jonathanzero.github.io/simba",
+  "simplecounter": "tomkiernan120.github.io/simplecounter",
   "simples": "micnic.github.io/simples",
   "single-page-web-app": "lukejpreston.github.io/single-page-web-app",
   "single-spa": "canopytax.github.io/single-spa.js.org",
