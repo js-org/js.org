@@ -1029,6 +1029,7 @@ var cnames_active = {
   "npmer": "rumkin.github.io/npm-watch",
   "nsp": "hanul.github.io/NSP", // noCF? (don´t add this in a new PR)
   "nsptiles": "imthenachoman.github.io/nSPTiles", // noCF? (don´t add this in a new PR)
+  "nuclear": "nukeop.github.io/nuclear",
   "nuxtdoc": "hopeful-hoover-d87dd1.netlify.com",
   "nuxt-fluent-bootstrap": "disjfa.github.io/nuxt-fluent-bootstrap",
   "nuxt-tui": "hosting.gitbook.com", // noCF
