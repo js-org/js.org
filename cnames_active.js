@@ -1427,6 +1427,7 @@ var cnames_active = {
   "star": "starframework.github.io/STAR",
   "starratio": "starratio.github.io/star-ratio", // noCF
   "start": "deepsweet.github.io/start",
+  "starterbot": "andrejarrell.github.io/Starterbot",
   "state-machine-cat": "sverweij.github.io/state-machine-cat",
   "staticinstance": "staticinstance.github.io", // noCF? (don´t add this in a new PR)
   "stats": "js-org.github.io/stats.js.org",
@@ -1454,7 +1455,7 @@ var cnames_active = {
   "sudarshan": "sudarshanRaul.github.io",
   "sudoku": "andreynering.github.io/sudoku",
   "suka": "sukkaw.github.io",
-  "sulky": "shingle.github.io/sulky", // noCF? (don´t add this in a new PR)
+  "sulky": "shingle.github.io/sulky", // noCF? (don´t add this in a new PR)t
   "sunsistemo": "sunsistemo.github.io/sunsistemo",
   "super-controls": "thebearingedge.github.io/super-controls",
   "super-trim": "beeblebrox3.github.io/super-trim",
