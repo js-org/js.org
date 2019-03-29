@@ -1297,6 +1297,7 @@ var cnames_active = {
   "roadmafia": "roadmafia.github.io",
   "rock": "w3core.github.io/RockJS",
   "rocket": "KevinOfNeu.github.io/rocket",
+  "rocketact": "jdf2e.github.io/rocketact",
   "rockjins": "rockjins.github.io",
   "roger": "klopango.github.io/js-org",
   "rosmaro": "lukaszmakuch.github.io/rosmaro",
