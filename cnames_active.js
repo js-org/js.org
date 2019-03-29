@@ -763,6 +763,8 @@ var cnames_active = {
   "kilobyte": "kilobytehq.github.io/open-js",
   "kilvin": "rofrischmann.github.io/kilvin",
   "kim": "khareemnurulla.github.io/kim",
+  "kiranremmarasu": "kiranremmarasu.github.io/kiranremmarasu",
+  "kiran": "kiranremmarasu.github.io/kiran",
   "kite": "kite-js.github.io/kite",
   "kiwidocs": "arguiot.github.io/KiwiDocs",
   "klasa": "dirigeants.github.io/klasa-website",
