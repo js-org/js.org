@@ -1030,6 +1030,7 @@ var cnames_active = {
   "npmer": "rumkin.github.io/npm-watch",
   "nsp": "hanul.github.io/NSP", // noCF? (don´t add this in a new PR)
   "nsptiles": "imthenachoman.github.io/nSPTiles", // noCF? (don´t add this in a new PR)
+  "nuclear": "nukeop.github.io/nuclear",
   "nuxtdoc": "hopeful-hoover-d87dd1.netlify.com",
   "nuxt-fluent-bootstrap": "disjfa.github.io/nuxt-fluent-bootstrap",
   "nuxt-tui": "hosting.gitbook.com", // noCF
@@ -1298,6 +1299,7 @@ var cnames_active = {
   "roadmafia": "roadmafia.github.io",
   "rock": "w3core.github.io/RockJS",
   "rocket": "KevinOfNeu.github.io/rocket",
+  "rocketact": "jdf2e.github.io/rocketact",
   "rockjins": "rockjins.github.io",
   "roger": "klopango.github.io/js-org",
   "rosmaro": "lukaszmakuch.github.io/rosmaro",
@@ -1428,6 +1430,7 @@ var cnames_active = {
   "star": "starframework.github.io/STAR",
   "starratio": "starratio.github.io/star-ratio", // noCF
   "start": "deepsweet.github.io/start",
+  "starterbot": "andrejarrell.github.io/Starterbot",
   "state-machine-cat": "sverweij.github.io/state-machine-cat",
   "staticinstance": "staticinstance.github.io", // noCF? (don´t add this in a new PR)
   "stats": "js-org.github.io/stats.js.org",
