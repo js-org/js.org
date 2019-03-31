@@ -1388,6 +1388,7 @@ var cnames_active = {
   "smoove": "abemedia.github.io/jquery-smoove",
   "smox": "132yse.github.io/smox",
   "snake": "pakastin.github.io/snake",
+  "snap": "snaphydroponics.github.io/snap/"
   "snowglobe": "3052cole.github.io/snowglobe",
   "snekfetch": "devsnek.github.io/snekfetch",
   "social-likes-next": "sapegin.github.io/social-likes-next", // noCF? (don´t add this in a new PR)
