@@ -1071,6 +1071,7 @@ var cnames_active = {
   "overtrack": "aidant.github.io/overtrack.js",
   "p2psc": "kognise.github.io/p2psc",
   "pad": "ebraminio.github.io/pad.js", // noCF? (don´t add this in a new PR)
+  "pad-project": "adaltas.github.io/node-pad",
   "pageobject": "clebert.github.io/pageobject",
   "pagination": "superRaytin.github.io/paginationjs-site", // noCF
   "palette": "pakastin.github.io/palette",
