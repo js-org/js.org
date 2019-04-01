@@ -1235,6 +1235,7 @@ var cnames_active = {
   "reactql": "leebenson.github.io/reactql-site",
   "readcolor": "keiww.github.io/readcolorhex",
   "reader": "ruanyl.github.io/js-reader", // noCF? (don´t add this in a new PR)
+  "readthedocs": "saowang.github.io/readthedocs",
   "realt": "vnkitaev.github.io/realt",
   "realtime": "datamcfly.github.io/realtimejs", // noCF? (don´t add this in a new PR)
   "ream": "ream.netlify.com",
