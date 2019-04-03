@@ -350,6 +350,7 @@ var cnames_active = {
   "cycle": "cyclejs.github.io",
   "cyclow": "pmros.github.io/cyclow", // noCF
   "d4": "joelburget.github.io/d4",
+  "dahlia": "dahliajs.github.io",
   "daily.tmr": "ttttmr.github.io/daily", // noCF
   "damo": "damodharanj.github.io",
   "danmaku": "weizhenye.github.io/Danmaku",
@@ -1698,8 +1699,7 @@ var cnames_active = {
   "zoe": "zoe-js.netlify.com",
   "zombie": "assaf.github.io/zombie", // noCF? (don´t add this in a new PR)
   "zonayed": "zonayedpca.github.io/js.zonayed.me",
-  "zty": "zetaoyang.github.io",
-  "dahlia": "dahliajs.github.io"
+  "zty": "zetaoyang.github.io"
   /*
   * please don't add your subdomain records down here!
   * insert them in alphabetical order to help reduce merge conflicts.
