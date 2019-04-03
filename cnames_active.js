@@ -1437,6 +1437,7 @@ var cnames_active = {
   "staticinstance": "staticinstance.github.io", // noCF? (don´t add this in a new PR)
   "stats": "js-org.github.io/stats.js.org",
   "statsbot": "mighty-apatosaurus-ap7jfh8zlhfnvgiypgjq2dm5.herokudns.com", // noCF
+  "statsbotdocs": "hosting.gitbook.com",
   "status": "mattipv4.github.io/status-codes",
   "steemsites": "yhozen.github.io/steemsites",
   "stego": "zeruniverse.github.io/CryptoStego", // noCF? (don´t add this in a new PR)
