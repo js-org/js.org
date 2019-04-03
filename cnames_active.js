@@ -979,6 +979,7 @@ var cnames_active = {
   "mzplayer": "prince3661.github.io/Mzplayer",
   "nativemodels": "prefinem.github.io/nativemodels",
   "naja": "jiripudil.github.io/Naja",
+  "nazbav": "nazbav.github.io",
   "namelessman": "namelessman.github.io",
   "nanimation": "imthenachoman.github.io/nAnimation", // noCF? (don´t add this in a new PR)
   "naughtychecker": "gautamkrishnar.github.io/naughtychecker.js",
