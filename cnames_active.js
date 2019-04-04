@@ -1390,6 +1390,7 @@ var cnames_active = {
   "slides": "deadcoder0904.github.io/slides-official-website",
   "slidey": "thegreatrazz.github.io/slidey",
   "slim": "eavichay.github.io/slim.js",
+  "slinky": "alizahid.github.io/slinky",
   "smartquotes": "kellym.github.io/smartquotes.js",
   "smiley": "Smiley422.github.io",
   "smoove": "abemedia.github.io/jquery-smoove",
