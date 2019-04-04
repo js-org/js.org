@@ -1365,6 +1365,7 @@ var cnames_active = {
   "short": "shortit.netlify.com",
   "short.vstatic": "axlehost.pro", //noCF
   "shortquery": "s--minecraft.gitbooks.io/shortquery-js", // noCF? (don´t add this in a new PR)
+  "showroom": "showroom-js.herokuapp.com",
   "shscode": "shs-coding-club-projects.github.io",
   "sidekik": "inf3cti0n95.github.io/sidekik",
   "silas229": "silas229.github.io",
