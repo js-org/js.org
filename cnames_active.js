@@ -625,6 +625,7 @@ var cnames_active = {
   "happy": "e24.github.io/happy", // noCF? (don´t add this in a new PR)
   "happyae": "happyae.github.io",
   "ha-store": "fed135.github.io/ha-store",
+  "hax": "elmsln.github.io/haxtheweb.org",
   "hay": "hayjs.github.io/hay.js.org",
   "hbase": "adaltas.github.io/node-hbase-docs",
   "heartseekers": "rajington.github.io/heartseekers", // noCF? (don´t add this in a new PR)
