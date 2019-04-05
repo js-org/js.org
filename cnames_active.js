@@ -1619,6 +1619,7 @@ var cnames_active = {
   "vue-core": "triotech-fr.github.io/vue-core",
   "vue-land": "vue-land.netlify.com",
   "vue-mdc": "na-west1.surge.sh",
+  "vue-minesweeper": "disjfa.github.io/vue-minesweeper",
   "vue-multiselect": "shentao.github.io/vue-multiselect",
   "vue-roast": "kronicker.github.io/vue-roast",
   "vue-route-timeline": "disjfa.github.io/vue-route-timeline",
