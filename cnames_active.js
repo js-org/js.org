@@ -1159,8 +1159,8 @@ var cnames_active = {
   "pubg": "ickerio.github.io/pubg.js",
   "published": "fiverr.github.io/published",
   "pretty-print-json": "center-key.github.io/pretty-print-json",
-  "prettylog": "moosecoop.github.io/PrettyLog/",
-  "prismic-nuxt": "jamespegg.github.io/prismic-nuxt/",
+  "prettylog": "moosecoop.github.io/PrettyLog",
+  "prismic-nuxt": "jamespegg.github.io/prismic-nuxt",
   "pristine": "sha256.github.io/Pristine", //noCF
   "prismarine": "prismarinejs.github.io",
   "producify": "jesobreira.github.io/producify",
