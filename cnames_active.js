@@ -649,6 +649,7 @@ var cnames_active = {
   "hx": "hifocus.github.io/www.hxis.me",
   "hybrids": "hosting.gitbook.com", // noCF
   "hyde": "gheek.github.io/hyde", // noCF? (don´t add this in a new PR)
+  "hydrogen": "siddharthbose-codeware.github.io/hydrogen-website",
   "hyf": "yafey.github.io",
   "hyperapp": "hyperapp.github.io",
   "hyperform": "hyperform.github.io",
