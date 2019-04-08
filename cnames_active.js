@@ -640,6 +640,7 @@ var cnames_active = {
   "hois": "hoisW.github.io",
   "hooloo": "hooloo.github.io", // noCF? (don´t add this in a new PR)
   "how-to-mithril": "stephanhoyer.github.io/how-to-mithril",
+  "hpy": "happyae.github.io/www",
   "hsiaoyi0504": "hsiaoyi0504.github.io",
   "hub": "yyued.github.io/hub.js",
   "hubble": "hubble.netlify.com",
