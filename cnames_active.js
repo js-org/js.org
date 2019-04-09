@@ -439,6 +439,7 @@ var cnames_active = {
   "dungeon": "youssefelshemi.github.io/dungeon.js",
   "dvan": "dvan.netlify.com",
   "dynaflo": "trevorhanus.github.io/dynaflo",
+  "dynamic-record": "na-west1.surge.sh",
   "dynamicsnode": "crisfervil.github.io/DynamicsNode",
   "dyo": "dyo.github.io/dyo",
   "eahmed234": "eahmed234.github.io",
