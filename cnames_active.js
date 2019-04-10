@@ -1444,7 +1444,7 @@ var cnames_active = {
   "star": "starframework.github.io/STAR",
   "starratio": "starratio.github.io/star-ratio", // noCF
   "start": "deepsweet.github.io/start",
-  "starterbot": "andrejarrell.github.io/Starterbot",
+  "starterbot": "starterbot.netlify.com",
   "state-machine-cat": "sverweij.github.io/state-machine-cat",
   "staticinstance": "staticinstance.github.io", // noCF? (don´t add this in a new PR)
   "stats": "js-org.github.io/stats.js.org",
