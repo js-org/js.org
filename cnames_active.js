@@ -39,7 +39,6 @@
  */
 
 var cnames_active = {
-  "agentnpm": "meetping.github.io/agentnpm/",
   "": "js-org.github.io",
   "100dayz": "deadcoder0904.github.io/100dayz",
   "101": "7anshuai.github.io/js101", // noCF? (don´t add this in a new PR)
@@ -73,6 +72,7 @@ var cnames_active = {
   "adnanbabakan": "adnanbabakan.github.io",
   "adon988": "adon988.github.io",
   "affiliate": "teamtofu.github.io/affiliate",
+  "agentnpm": "meetping.github.io/agentnpm/",
   "aghasemi": "aghasemi.github.io",
   "agrawalnaman": "agrawalnaman.github.io",
   "agrawalrohit": "rohit0803.github.io/agrawal.github.io",
