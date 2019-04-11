@@ -1573,7 +1573,7 @@ var cnames_active = {
   "udnisap": "udnisap.github.io",
   "ulog": "download.github.io/ulog",
   "ultcombo": "ultcombo.github.io",
-  "umair": "mumairofficial.github.io/iam",
+  "umair": "mumairofficial.github.io",
   "umm": "umm233.github.io",
   "underline": "brightskyz.github.io/underline",
   "uneditable": "iamcristye.github.io/Uneditable.js",
