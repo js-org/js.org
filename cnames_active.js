@@ -218,6 +218,7 @@ var cnames_active = {
   "bootstrap-confirmation": "mistic100.github.io/Bootstrap-Confirmation", // noCF? (don´t add this in a new PR)
   "bootstrap-validate": "pascalebeier.github.io/bootstrap-validate",
   "bootstrap-vue": "bootstrap-vue.github.io",
+  "bootstrap-vue-arsenic": "ycs77.github.io/bootstrap-vue-arsenic",
   "bornaeon": "bornaeon.github.io",
   "botgram": "botgram.github.io/botgram",
   "bottender": "bottenderjs.github.io",
