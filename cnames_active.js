@@ -641,6 +641,7 @@ var cnames_active = {
   "highway": "dogstudio.github.io/highway",
   "hijiangtao": "hijiangtao.github.io/hijiangtao.js.org",
   "hilo": "erikroyall.github.io/hilo", // noCF? (don´t add this in a new PR)
+  "hiteshsubnani": "hiteshsubnani0128.github.io/hiteshsubnani",
   "hk": "akura-co.github.io/hk", // noCF? (don´t add this in a new PR)
   "hoa": "thehoa.github.io",
   "hoast": "hoast.github.io",
