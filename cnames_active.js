@@ -1,4 +1,4 @@
-
+﻿
 /*
  ***** ACTIVE SUBDOMAINS
  * ***********************
@@ -975,6 +975,7 @@ var cnames_active = {
   "morocco": "moroccojs.github.io",
   "motapc": "motapc97.github.io", // noCF? (don´t add this in a new PR)
   "mpe": "weareroli.github.io/mpejs", // noCF? (don´t add this in a new PR)
+  "mpt": "vitutiv.github.io/mpt/",
   "mrn": "binggg.github.io/mrn", // noCF? (don´t add this in a new PR)
   "mrpluto": "mrpluto.github.io",
   "mrwanashraf": "mrwanashraf.github.io",
