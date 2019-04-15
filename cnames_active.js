@@ -1369,6 +1369,7 @@ var cnames_active = {
   "serlina": "djyde.github.io/serlina",
   "service-mocker": "service-mocker.github.io/service-mocker",
   "serviceberry": "bob-gray.github.io/serviceberry",
+  "seves": "starsevensky.github.io/seves.js.org",
   "shd": "pro-devel.github.io",
   "sheet": "sheetjs.github.io/sheet.js.org",
   "shekhar": "shekharreddy4.github.io/Shekhar",
