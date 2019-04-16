@@ -511,6 +511,7 @@ var cnames_active = {
   "extraction": "rse.github.io/extraction", // noCF? (don´t add this in a new PR)
   "eye": "arguiot.github.io/EyeJS",
   "facepalm": "santiagogil.github.io/facepalm",
+  "facreative": "facreative.github.io",
   "fairy": "fairymeee.github.io",
   "fallr": "faisalman.github.io/fallr-js",
   "fan": "garychamberlain.github.io/fan",
