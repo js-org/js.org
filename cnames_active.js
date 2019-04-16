@@ -1002,6 +1002,7 @@ var cnames_active = {
   "nbabot": "eliotchignell.github.io/NBABot",
   "ncub8": "ncub8.github.io", // noCF? (don´t add this in a new PR)
   "nearley": "kach.github.io/nearley",
+  "nekofar": "nekofar.github.io",
   "nemaniarjun": "nemaniarjun.github.io",
   "nemo": "paypal.github.io/nemo", // noCF? (don´t add this in a new PR)
   "neo4": "janpeter.github.io/neo4js",
