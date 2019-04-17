@@ -443,6 +443,7 @@ var cnames_active = {
   "dunedin": "dunedinjs.github.io",
   "dungeon": "youssefelshemi.github.io/dungeon.js",
   "dvan": "dvan.netlify.com",
+  "dyn": "orbitalproject.github.io/dyn-client",
   "dynaflo": "trevorhanus.github.io/dynaflo",
   "dynamic-record": "na-west1.surge.sh",
   "dynamicsnode": "crisfervil.github.io/DynamicsNode",
