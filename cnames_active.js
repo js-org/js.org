@@ -387,7 +387,6 @@ var cnames_active = {
   "detect-resize": "noderaider.github.io/detect-resize", // noCF? (don´t add this in a new PR)
   "detector": "blackmirror1980.github.io/detector-js",
   "deterministic": "nodeguy.github.io/Deterministic.js",
-  "drupi": "drupijs.github.io/website",
   "dgelong": "alexeyraspopov.github.io/dgelong", // noCF? (don´t add this in a new PR)
   "dhruvdutt": "dhruvdutt.github.io",
   "diamond": "diamondpkg.github.io/website",
@@ -438,6 +437,7 @@ var cnames_active = {
   "dragon": "sabertazimi.github.io/dragonjs", // noCF? (don´t add this in a new PR)
   "draw": "skillzzjesse.github.io/draw",
   "drome": "dromejs.github.io/drome.js.org",
+  "drupi": "drupijs.github.io/website",
   "dtools": "mrsheldon.github.io/dtools.js",
   "dtps": "jottocraft.github.io/dtps",
   "du": "ruanyl.github.io/du", // noCF? (don´t add this in a new PR)
