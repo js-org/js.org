@@ -586,6 +586,7 @@ var cnames_active = {
   "george": "georgeyue.github.io/george",
   "german": "dipanshkhandelwal.github.io/Learning-German",
   "get": "hxco.github.io/Get",
+  "getdot": "enderandfiredev.github.io/getdot",
   "getlink": "ilovecode1.github.io/linkjs", // noCF? (don´t add this in a new PR)
   "ghastly": "hkwu.github.io/ghastly",
   "ghapi": "haydennyyy.github.io/ghapi-website",
