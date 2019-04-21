@@ -400,6 +400,7 @@ var cnames_active = {
   "dio": "thysultan.github.io/dio.js",
   "discord": "discordjs.github.io/website",
   "discord4node": "mrsheldon.github.io/Discord4Node",
+  "discordsign": "taga-taga.github.io/DiscordSign.js",
   "discordutil": "chroventer.github.io/discordutil",
   "discunit": "megacode18.github.io/discunit.js",
   "disode": "disode.github.io/disode",
