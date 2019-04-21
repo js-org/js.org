@@ -1363,6 +1363,7 @@ var cnames_active = {
   "saulosantiago": "saulosilva.github.io", // noCF? (don´t add this in a new PR)
   "sawyer": "sawyerbx.github.io/personal",
   "schema": "foxifyjs.github.io/schema",
+  "scramble": "ignatiusmb.github.io/scramble.js",
   "scratch": "scratch-js.github.io",
   "scrape-pages": "andykais.github.io/scrape-pages",
   "scriptex": "scriptex.github.io",
