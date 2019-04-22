@@ -1660,6 +1660,7 @@ var cnames_active = {
   "vuikit": "vuikit.netlify.com",
   "vuongdothanhhuy": "vuongdothanhhuy.github.io", // noCF? (don´t add this in a new PR)
   "vxv": "vxv.netlify.com",
+  "vue-admin":"mingdev123.github.io/vue-admin",
   "w4ctech": "w4ctech.github.io",
   "wanna": "mkermani144.github.io/wanna",
   "wargamer": "hkwu.github.io/wargamer",
@@ -1734,9 +1735,7 @@ var cnames_active = {
   "zombie": "assaf.github.io/zombie", // noCF? (don´t add this in a new PR)
   "zonayed": "zonayedpca.github.io/js.zonayed.me",
   "zty": "zetaoyang.github.io",
-  "zyy": "zyyou.github.io/notes",
-  "vue-admin":"mingdev123.github.io/vue-admin",
-  "mingdev-vue-admin":"mingdev123.github.io/vue-admin"
+  "zyy": "zyyou.github.io/notes"
   /*
   * please don't add your subdomain records down here!
   * insert them in alphabetical order to help reduce merge conflicts.
