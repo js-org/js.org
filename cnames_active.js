@@ -236,6 +236,7 @@ var cnames_active = {
   "brum": "brumjs.github.io", // noCF? (don´t add this in a new PR)
   "bt": "mldonkey.github.io/bt",
   "btgprice": "beeyev.github.io/btgprice.org",
+  "bun": "the94air.github.io/bun",
   "bunjil": "bunjil.netlify.com",
   "bunyan-fork": "cchamberlain.github.io/bunyan-fork", // noCF? (don´t add this in a new PR)
   "bunyan-pmx": "cchamberlain.github.io/bunyan-pmx", // noCF? (don´t add this in a new PR)
@@ -839,6 +840,7 @@ var cnames_active = {
   "lf": "lf112.github.io",
   "li": "mattsimmons1.github.io/li",
   "lifx": "fncxpro.github.io/lifx.js",
+  "light": "lightjs.netlify.com",
   "light-observable": "dmitry-korolev.github.io/light-observable",
   "liguori": "liguori.github.io", // noCF? (don´t add this in a new PR)
   "liike": "liikejs.github.io/Liike",
@@ -1361,6 +1363,7 @@ var cnames_active = {
   "saulosantiago": "saulosilva.github.io", // noCF? (don´t add this in a new PR)
   "sawyer": "sawyerbx.github.io/personal",
   "schema": "foxifyjs.github.io/schema",
+  "scramble": "ignatiusmb.github.io/scramble.js",
   "scratch": "scratch-js.github.io",
   "scrape-pages": "andykais.github.io/scrape-pages",
   "scriptex": "scriptex.github.io",
@@ -1450,7 +1453,6 @@ var cnames_active = {
   "squeak": "bertfreudenberg.github.io/SqueakJS",
   "squirrelly": "hosting.gitbook.com", // noCF
   "sri": "jackub.github.io/subresource-integrity-fallback",
-  "srvr": "srvrjs.github.io/srvr",
   "stabs": "wnda.github.io/stabs",
   "stahlstadt": "dist1.storyblok.com",
   "stampit": "stampit-org.gitbook.io/docs",
