@@ -1735,7 +1735,8 @@ var cnames_active = {
   "zonayed": "zonayedpca.github.io/js.zonayed.me",
   "zty": "zetaoyang.github.io",
   "zyy": "zyyou.github.io/notes",
-  "vue-admin":"mingdev123.github.io/vue-admin"
+  "vue-admin":"mingdev123.github.io/vue-admin",
+  "mingdev-vue-admin":"mingdev123.github.io/vue-admin"
   /*
   * please don't add your subdomain records down here!
   * insert them in alphabetical order to help reduce merge conflicts.
