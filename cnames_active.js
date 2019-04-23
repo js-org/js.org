@@ -701,6 +701,7 @@ var cnames_active = {
   "inscriptum": "sumbad.github.io/inscriptum",
   "inset": "patlillis.github.io/inset.js",
   "instabousing": "jlbousing.github.io/instaBousing",
+  "instacam": "xavierfoucrier.github.io/instacam",
   "instant": "instant.github.io",
   "integreat": "hosting.gitbook.com",
   "intelligo": "intelligo-systems.github.io/intelligo",
