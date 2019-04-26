@@ -1303,6 +1303,7 @@ var cnames_active = {
   "rekit": "supnate.github.io/rekit", // noCF
   "relate": "jakelazaroff.github.io/relate", // noCF? (don´t add this in a new PR)
   "relaunch": "pd4d10.github.io/relaunch",
+  "relift-html": "mardix.github.io/relift-html", // noCF
   "remark": "remarkjs.github.io/remark",
   "rene": "revrng.github.io", // noCF? (don´t add this in a new PR)
   "renovate": "sawyerbx.github.io/renovate",
