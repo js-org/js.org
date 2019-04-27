@@ -725,7 +725,7 @@ var cnames_active = {
   "itsashis4u": "itsashis4u.github.io", // noCF? (don´t add this in a new PR)
   "itunes-bridge": "angrykiller.github.io/iTunes-bridge",
   "j3n5en": "j3n5en.github.io",
-  "jackyef": "jackyef.github.io/jackyef"
+  "jackyef": "jackyef.github.io/jackyef",
   "jacques": "jacquesmarais.github.io/jacques", // noCF? (don´t add this in a new PR)
   "jackbot": "cairo2k18.github.io/jackbot",
   "jacob-ebey": "jacob-ebey.github.io",
