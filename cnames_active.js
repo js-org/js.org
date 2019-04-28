@@ -804,11 +804,11 @@ var cnames_active = {
   "koolclash": "sukkaw.github.io/Koolshare-Clash",
   "koot": "cmux.github.io/koot",
   "koutla-swiss": "leny.github.io/koutla-swiss",
+  "kowalski": "k0walslk1.github.io",
   "kremling": "canopytax.github.io/kremling.js.org",
   "kshitij": "kshitij98.github.io",
   "ktm": "developers-nepal.github.io/ktmjs",
   "kyoto": "kyotojs.github.io",
-  "kowalski": "k0walslk1.github.io"
   "l2dwidget": "xiazeyu.github.io/live2d-widget.js-doc",
   "lab": "felixhenninger.github.io/lab.js",
   "labelauty": "fntneves.github.io/jquery-labelauty", // noCF? (don´t add this in a new PR)
