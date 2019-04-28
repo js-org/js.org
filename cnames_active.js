@@ -805,6 +805,7 @@ var cnames_active = {
   "koolclash": "sukkaw.github.io/Koolshare-Clash",
   "koot": "cmux.github.io/koot",
   "koutla-swiss": "leny.github.io/koutla-swiss",
+  "kowalski": "k0walslk1.github.io",
   "kremling": "canopytax.github.io/kremling.js.org",
   "kshitij": "kshitij98.github.io",
   "ktm": "developers-nepal.github.io/ktmjs",
