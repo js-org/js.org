@@ -287,6 +287,7 @@ var cnames_active = {
   "chordthing": "ifons42.github.io/chordthing",
   "chrismendis": "chrismendis.github.io", // noCF? (don´t add this in a new PR)
   "christo": "christoga.github.io/js-org", // noCF? (don´t add this in a new PR)
+  "christopher": "marekkobida.github.io/christopher",
   "chronos": "espinielli.github.io/chronos", // noCF? (don´t add this in a new PR)
   "cineasta": "cineasta-js.github.io/cineasta-docs",
   "ciphercrack": "avirut.github.io/ciphercrack",
