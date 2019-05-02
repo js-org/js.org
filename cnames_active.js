@@ -1693,6 +1693,7 @@ var cnames_active = {
   "webpack-config-plugins.js.org": "namics.github.io/webpack-config-plugins",
   "webpack-inspect": "alexmost.github.io/webpack-inspect",
   "wedgetail": "wedgetail.netlify.com",
+  "weeb": "jsmiith.github.io/weeb",
   "weekly": "xdimh.github.io/weekly",
   "wglt": "codyebberson.github.io/wglt",
   "whiteboard": "yhozen.github.io/whiteboard",
