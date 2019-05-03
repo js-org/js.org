@@ -68,6 +68,7 @@ var cnames_active = {
   "acme": "makepost.github.io/acme-commander",
   "action-u": "kevinast.github.io/action-u",
   "active-resource": "nicklandgrebe.github.io/activeresource.js",
+  "acyort": "acyortjs.github.io/site",
   "ada": "ada-js.netlify.com",
   "adil": "adilzeshan.github.io/adil",
   "adnanbabakan": "adnanbabakan.github.io",
