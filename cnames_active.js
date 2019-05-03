@@ -1354,6 +1354,7 @@ var cnames_active = {
   "ru.redux-saga": "hosting.gitbook.com", // noCF
   "ruhuman": "ruhuman.github.io", // noCF? (don´t add this in a new PR)
   "russell": "teamtofu.github.io/russelljs",
+  "rut": "jeam.github.io/rut",
   "ruwan": "rpgee.github.io",
   "ryzokuken": "ryzokuken.github.io",
   "s3swa": "s3swa-ict-upgifter.github.io/snow-eater",
