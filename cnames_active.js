@@ -1383,6 +1383,7 @@ var cnames_active = {
   "scrape-pages": "andykais.github.io/scrape-pages",
   "scriptex": "scriptex.github.io",
   "seatbelt": "seatbeltjs.github.io/seatbelt",
+  "seatchart": "omarmahili.github.io/seatchart.js",
   "sed": "42ua.github.io/sed",
   "secsb": "secsb.github.io",
   "seesaw": "cajogos.github.io/seesaw", // noCF? (don´t add this in a new PR)
