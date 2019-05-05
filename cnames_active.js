@@ -559,6 +559,7 @@ var cnames_active = {
   "fnx": "fnxjs.gitbooks.io/fnx-documentation",
   "fontdragr": "ryanseddon.github.io/font-dragr",
   "food": "teamtofu.github.io/foodweb",
+  "forceify": "dalisoft.github.io/Forceify",
   "form": "the94air.github.io/form",
   "formred": "zewish.github.io/formred",
   "fortnite": "ickerio.github.io/fortnite.js",
