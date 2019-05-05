@@ -1316,6 +1316,7 @@ var cnames_active = {
   "relift-html": "mardix.github.io/relift-html", // noCF
   "remark": "remarkjs.github.io/remark",
   "rene": "revrng.github.io", // noCF? (don´t add this in a new PR)
+  "rengular": "chigix.github.io/rengular",
   "renovate": "sawyerbx.github.io/renovate",
   "repackage": "cchamberlain.github.io/repackage", // noCF? (don´t add this in a new PR)
   "replace": "quales.github.io/replace.js",
