@@ -1379,6 +1379,7 @@ var cnames_active = {
   "sawyer": "sawyerbx.github.io/personal",
   "schema": "foxifyjs.github.io/schema",
   "scramble": "ignatiusmb.github.io/scramble.js",
+  "scraper": "polrk.github.io/scraper",
   "scratch": "scratch-js.github.io",
   "scrape-pages": "andykais.github.io/scrape-pages",
   "scriptex": "scriptex.github.io",
