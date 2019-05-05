@@ -557,6 +557,7 @@ var cnames_active = {
   "flybook": "rhiokim.github.io/flybook",
   "flying-squid.prismarine": "prismarinejs.github.io/flying-squid",
   "fnx": "fnxjs.gitbooks.io/fnx-documentation",
+  "forceify": "dalisoft.github.io/Forceify",
   "fontdragr": "ryanseddon.github.io/font-dragr",
   "food": "teamtofu.github.io/foodweb",
   "form": "the94air.github.io/form",
