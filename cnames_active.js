@@ -162,7 +162,7 @@ var cnames_active = {
   "awoo": "awoojs.github.io/website",
   "axelgreavette": "axelgreavette.github.io",
   "azdanov": "azdanov.netlify.com", //noCF
-  "aziz": "iAziz786.github.io/aziz.js.org",
+  "aziz": "aziz.now.sh",
   "bara": "barajs.github.io/bara",
   "bachors": "bachors.github.io",
   "backlog": "backlog-js.github.io/backlog.js.org", // noCF? (don´t add this in a new PR)
