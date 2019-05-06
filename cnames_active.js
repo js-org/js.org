@@ -926,6 +926,7 @@ var cnames_active = {
   "mediainfo": "buzz.github.io/mediainfo.js",
   "medit": "echosoar.github.io/medit",
   "medium-converter": "gunar.github.io/medium-converter", // noCF
+  "meed": "pinjasaur.github.io/meed",
   "meethere": "ayazhafiz.github.io/meetHere",
   "megacode18": "megacode18.github.io",
   "mehrad": "mehrad77.github.io",
