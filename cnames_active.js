@@ -1089,6 +1089,7 @@ var cnames_active = {
   "oguz": "okb1100.github.io",
   "ohmy": "mountainwang.github.io/ohmy",
   "oib": "andreicek.github.io/oib.js",
+  "oktay": "98oktay.github.io/oktaybaskus",
   "olivia": "oliviachang29.github.io",
   "omaha": "omahajs.github.io",
   "omega": "jczimm.github.io/omega", // noCF? (don´t add this in a new PR)
