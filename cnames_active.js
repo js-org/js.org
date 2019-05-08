@@ -1382,6 +1382,7 @@ var cnames_active = {
   "sass": "medialize.github.io/playground.sass.js", // noCF? (don´t add this in a new PR)
   "saulosantiago": "saulosilva.github.io", // noCF? (don´t add this in a new PR)
   "sawyer": "sawyerbx.github.io/personal",
+  "sazerac": "sazeracjs.github.io/sazerac-site",
   "schema": "foxifyjs.github.io/schema",
   "scramble": "ignatiusmb.github.io/scramble.js",
   "scratch": "scratch-js.github.io",
