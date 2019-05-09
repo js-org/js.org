@@ -950,6 +950,7 @@ var cnames_active = {
   "mhy": "hosting.gitbook.com",
   "mi": "stevenjoezhang.github.io",
   "microfeedback": "microfeedback.github.io",
+  "microinclude": "angular-cebu.github.io",
   "microlink": "microlinkhq.github.io/microlinkjs",
   "mics": "download.github.io/mics",
   "middy": "plnt9.github.io/middy",
