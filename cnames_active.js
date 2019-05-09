@@ -1555,7 +1555,6 @@ var cnames_active = {
   "theorem": "arguiot.github.io/TheoremJS",
   "thundercats": "thundercatsjs.github.io/thundercats", // noCF? (don´t add this in a new PR)
   "tictactoe": "jeff-tian.github.io/tic-tac-toe-ai",
-  "time": "ymlair.github.io/TimestampHumanDemo",
   "timeout": "anshuman-verma.github.io/setTimeout",
   "timerizer": "callumacrae.github.io/timerizerJS", // noCF? (don´t add this in a new PR)
   "tina": "tinajs.github.io/tina",
@@ -1737,6 +1736,7 @@ var cnames_active = {
   "yiff": "codepupper.github.io/yiff",
   "yigit": "yigitusta.github.io",
   "yizao": "ssttii.github.io",
+  "ymlair": "ymlair.github.io/TimestampHumanDemo",
   "youngjuning": "youngjuning.github.io",
   "youtim": "mortonfox.github.io/YouTim", // noCF? (don´t add this in a new PR)
   "youtube-box": "lucasmonteverde.github.io/youtube-box", // noCF? (don´t add this in a new PR)
