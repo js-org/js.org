@@ -106,7 +106,6 @@ var cnames_active = {
   "amorphous": "ariabuckles.github.io/amorphous",
   "amp": "afexteam.github.io/amp",
   "anenth": "anenth.github.io", // noCF? (don´t add this in a new PR)
-  "angular-cebu": "angular-cebu.github.io",
   "angular-jsf": "json-schema-faker.github.io/angular-jsf", // noCF? (don´t add this in a new PR)
   "angular-uikit": "whoisjorge.github.io/angular-uikit",
   "angular2in1": "angular2in1.github.io/angular2in1js", //noCF
@@ -1047,6 +1046,7 @@ var cnames_active = {
   "ngirc": "ngirc.github.io/ng-irc", // noCF
   "ngn": "nodengn.github.io/NGN", // noCF? (don´t add this in a new PR)
   "ngspice": "42ua.github.io/ngspice.js",
+  "ngxcebu": "angular-cebu.github.io",
   "ni": "js-ni.github.io/ni",
   "nic": "nic.github.io",
   "nick": "nmai.github.io", // noCF? (don´t add this in a new PR)
