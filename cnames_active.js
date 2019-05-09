@@ -105,7 +105,8 @@ var cnames_active = {
   "amaple": "amjs-team.github.io/amaple",
   "amorphous": "ariabuckles.github.io/amorphous",
   "amp": "afexteam.github.io/amp",
-  "anenth": "anenth.github.io", // noCF? (don´t add this in a new PR)
+  "anenth": "anenth.github.io", // noCF? (don´t add this in a new PR),
+  "angular-cebu": "angular-cebu.github.io",
   "angular-jsf": "json-schema-faker.github.io/angular-jsf", // noCF? (don´t add this in a new PR)
   "angular-uikit": "whoisjorge.github.io/angular-uikit",
   "angular2in1": "angular2in1.github.io/angular2in1js", //noCF
@@ -950,7 +951,6 @@ var cnames_active = {
   "mhy": "hosting.gitbook.com",
   "mi": "stevenjoezhang.github.io",
   "microfeedback": "microfeedback.github.io",
-  "microinclude": "angular-cebu.github.io",
   "microlink": "microlinkhq.github.io/microlinkjs",
   "mics": "download.github.io/mics",
   "middy": "plnt9.github.io/middy",
