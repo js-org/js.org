@@ -1046,6 +1046,7 @@ var cnames_active = {
   "ngirc": "ngirc.github.io/ng-irc", // noCF
   "ngn": "nodengn.github.io/NGN", // noCF? (don´t add this in a new PR)
   "ngspice": "42ua.github.io/ngspice.js",
+  "ngxcebu": "angular-cebu.github.io",
   "ni": "js-ni.github.io/ni",
   "nic": "nic.github.io",
   "nick": "nmai.github.io", // noCF? (don´t add this in a new PR)
