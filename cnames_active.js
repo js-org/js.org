@@ -857,6 +857,7 @@ var cnames_active = {
   "liguori": "liguori.github.io", // noCF? (don´t add this in a new PR)
   "liike": "liikejs.github.io/Liike",
   "likebeta": "likebeta.github.io/likebeta.js.org",
+  "liljs": "liljs.netlify.com",
   "limitrr": "eddiejibson.github.io/limitrr",
   "lineup": "lineupjs.github.io",
   "lineupengine": "lineupjs.github.io/lineupengine.js.org",
