@@ -669,6 +669,7 @@ var cnames_active = {
   "how-to-mithril": "stephanhoyer.github.io/how-to-mithril",
   "hpy": "happyae.github.io/www",
   "hrishi": "hrishi045.github.io",
+  "hrtable": "uyouthe.github.io/hrtable",
   "hsiaoyi0504": "hsiaoyi0504.github.io",
   "hub": "yyued.github.io/hub.js",
   "hubble": "hubble.netlify.com",
