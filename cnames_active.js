@@ -513,6 +513,7 @@ var cnames_active = {
   "event-storage": "albe.github.io/node-event-storage",
   "eventstore": "adrai.github.io/node-eventstore", // noCF? (don´t add this in a new PR)
   "evolutions": "anshumanv.github.io/evolutions-webapp",
+  "evolutionland": "evolutionlandorg.github.io/js-sdk",
   "ewa": "lyfeyaj.github.io/ewa",
   "exbars": "youssefkababe.github.io/exbars", // noCF? (don´t add this in a new PR)
   "excmd": "elliottcable.github.io/excmd.js",
