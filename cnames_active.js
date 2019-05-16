@@ -1729,6 +1729,7 @@ var cnames_active = {
   "wthunting": "sawyerbx.github.io/wthunting",
   "wyfe": "wangyuanstudio.github.io/WYFE", // noCF? (don´t add this in a new PR)
   "wynncraft": "frawolf.github.io/wynncraft.js",
+  "x": "hanrea.github.io/jsx",
   "xn--w4h": "zzyzxlab.github.io/tao.js",
   "xprmntl": "xprmntl.github.io", // noCF? (don´t add this in a new PR)
   "xstate": "davidkpiano.github.io/xstate",
