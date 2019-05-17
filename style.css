@@ -87,8 +87,7 @@ a {
     padding: 0; }
     .hf td.hr {
       border-top: 2px solid rgba(44, 37, 27, 0.3); }
-  .hf .logo,
-  .hf .donate {
+  .hf .logo {
     width: 100%;
     font-size: 5em; }
   .hf span {
@@ -131,6 +130,10 @@ a {
     float: right; }
     .hf .at span a {
       font-weight: 400; }
+
+  .hf .donate {
+    width: 100%;
+    font-size: 1.25em;}
   .hf .donate .full {
     display:none; }
 
