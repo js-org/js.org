@@ -1346,6 +1346,7 @@ var cnames_active = {
   "robloxutility": "robloxutility.github.io",
   "risingstars": "risingstars.netlify.com",
   "risingstars2016": "michaelrambeau.github.io/risingstars2016",
+  "rishi": "rishiosaur.github.io",
   "rivki": "mikqi.github.io",
   "rize": "g-plane.github.io/rize",
   "rmodal": "zewish.github.io/rmodal.js",
