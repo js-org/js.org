@@ -87,7 +87,8 @@ a {
     padding: 0; }
     .hf td.hr {
       border-top: 2px solid rgba(44, 37, 27, 0.3); }
-  .hf .logo {
+  .hf .logo,
+  .hf .donate {
     width: 100%;
     font-size: 5em; }
   .hf span {
@@ -130,16 +131,21 @@ a {
     float: right; }
     .hf .at span a {
       font-weight: 400; }
+  .hf .donate .full {
+    display:none; }
 
 
 @media (min-aspect-ratio: 1920 / 1280) {
   body {
-    margin: 7vh 8% 3vh 51%; } }
+    margin: 7vh 8% 3vh 51%; }
+  .hf .donate .full {
+    display:inline; }
+  .hf .donate .mobile {
+    display:none; } }
 
 @media (min-aspect-ratio: 1920 / 1280) and (max-width: 680px) {
 .hf .logo {
-    font-size: 3.5em;}
-}
+    font-size: 3.5em; } }
 
 @media (max-aspect-ratio: 1920 / 1280) {
   body {
