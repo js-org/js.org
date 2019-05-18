@@ -1300,6 +1300,7 @@ var cnames_active = {
   "redux-arc": "viniciusdacal.github.io/redux-arc",
   "redux-data-structures": "adrienjt.github.io/redux-data-structures",
   "redux-dynamic-modules": "microsoft.github.io/redux-dynamic-modules",
+  "redux-leaves": "redux-leaves.netlify.com",
   "redux-loop": "redux-loop.github.io/redux-loop",
   "redux-minimal": "catalin-luntraru.github.io/redux-minimal",
   "redux-nakshatra": "agenthunt.github.io/redux-nakshatra",
