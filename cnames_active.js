@@ -708,6 +708,7 @@ var cnames_active = {
   "infinite-tree": "cheton.github.io/infinite-tree",
   "initial-wu": "initial-wu.github.io",
   "injectify": "injectify.github.io/docs",
+  "inko": "inko.netlify.com",
   "inline-style-prefixer": "rofrischmann.github.io/inline-style-prefixer",
   "inscriptum": "sumbad.github.io/inscriptum",
   "inset": "patlillis.github.io/inset.js",
