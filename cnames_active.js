@@ -1543,6 +1543,7 @@ var cnames_active = {
   "tagster": "goschevski.github.io/tagster", // noCF? (don´t add this in a new PR)
   "talker": "secondstreet.github.io/talker.js", // noCF? (don´t add this in a new PR)
   "tama": "etk.gitlab.io",
+  "tanmay": "tan-mayhem.github.io/tanmay"
   "tanok": "brabadu.github.io/tanok",
   "tao": "zzyzxlab.github.io/tao.js",
   "tap-flux": "technologyadvice.github.io/tap-flux", // noCF? (don´t add this in a new PR)
