@@ -697,6 +697,7 @@ var cnames_active = {
   "iio": "iioinc.github.io/iio.js", // noCF? (don´t add this in a new PR)
   "ilfa": "iiilfaaa.github.io/www",
   "illuxi": "razod.github.io/illuxi",
+  "ikjs": "iankeng.github.io/ikjs",
   "imagecapture": "googlechrome.github.io/imagecapture-polyfill",
   "imcvampire": "imcvampire.github.io",
   "imeme": "svenmeister.github.io/imeme.js.org",
