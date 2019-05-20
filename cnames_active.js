@@ -1081,7 +1081,7 @@ var cnames_active = {
   "nut": "fengzilong.github.io/nut",
   "nuxtdoc": "hopeful-hoover-d87dd1.netlify.com",
   "nuxt-fluent-bootstrap": "disjfa.github.io/nuxt-fluent-bootstrap",
-  "nuxt-tui": "hosting.gitbook.com", // noCF
+  "tui-nuxt": "hosting.gitbook.com", // noCF
   "nva": "ali322.github.io/nva",
   "nvanthao": "nvanthao.github.io", // noCF? (don´t add this in a new PR)
   "nxse": "nxse.github.io",
