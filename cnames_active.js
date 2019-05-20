@@ -155,7 +155,7 @@ var cnames_active = {
   "avner": "avnerus.github.io", // noCF? (don´t add this in a new PR)
   "avstream": "akash-joshi.github.io/avstream.js",
   "awal": "awalGarg.github.io", // noCF? (don´t add this in a new PR)
-  "awesome-alexa": "https://dolanmiu.github.io/MMM-awesome-alexa",
+  "awesome-alexa": "dolanmiu.github.io/MMM-awesome-alexa",
   "awesome-nuxt": "ansidev.github.io/awesome-nuxt",
   "awesome-vue": "rmjordas.github.io/awesome-vue",
   "awesomefeed": "arojunior.github.io/awesome-feed",
