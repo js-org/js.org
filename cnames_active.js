@@ -1448,6 +1448,7 @@ var cnames_active = {
   "slang": "ramadis.github.io/slang", // noCF? (don´t add this in a new PR)
   "slidemenu": "alexkratky.github.io/SlideMenu.js",
   "slideout": "mango.github.io/slideout",
+  "slider": "nikiforov-org.github.io/slider",
   "slides": "deadcoder0904.github.io/slides-official-website",
   "slidey": "thegreatrazz.github.io/slidey",
   "slim": "eavichay.github.io/slim.js",
