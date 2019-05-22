@@ -367,6 +367,7 @@ var cnames_active = {
   "cybernaut": "clebert.github.io/cybernaut",
   "cycle": "cyclejs.github.io",
   "cyclow": "pmros.github.io/cyclow", // noCF
+  "cyris": "iCyris.github.io",
   "d4": "joelburget.github.io/d4",
   "dahlia": "dahliajs.github.io",
   "daily.tmr": "ttttmr.github.io/daily", // noCF
