@@ -1712,6 +1712,7 @@ var cnames_active = {
   "warrior": "olistic.github.io/warriorjs",
   "warship": "vflopes.github.io/warship",
   "watch": "ducin.github.io/watchjs.org", // noCF? (don´t add this in a new PR)
+  "watchfs": "prateekkumarweb.github.io/watchfs",
   "watermark": "fredy.github.io/watermark",
   "wc": "bryansha.github.io/wc",
   "wcfactory": "elmsln.github.io/wcfactory.js.org",
