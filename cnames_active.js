@@ -1083,6 +1083,7 @@ var cnames_active = {
   "nsptiles": "imthenachoman.github.io/nSPTiles", // noCF? (don´t add this in a new PR)
   "nuclear": "nukeop.github.io/nuclear",
   "nut": "fengzilong.github.io/nut",
+  "nuthrash": "nuthrash.github.io",
   "nuxtdoc": "hopeful-hoover-d87dd1.netlify.com",
   "nuxt-fluent-bootstrap": "disjfa.github.io/nuxt-fluent-bootstrap",
   "tui-nuxt": "hosting.gitbook.com", // noCF
