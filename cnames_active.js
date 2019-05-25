@@ -129,6 +129,7 @@ var cnames_active = {
   "applied": "omahajs.github.io/applied",
   "apprun": "yysun.github.io/apprun",
   "apr": "ramitos.github.io/apr",
+  "appsocket": "https://appsocket.netlify.com",
   "arc": "diegohaz.github.io/arc",
   "arcn": "alexakasanjeev.github.io/arcn",
   "arda": "ardasoyturk.github.io",
