@@ -511,6 +511,7 @@ var cnames_active = {
   "es6-module-seed": "blackmirror1980.github.io/es6-module-seed",
   "es6-tween": "tweenjs.github.io/es6-tween",
   "escape": "licshee.github.io/Escape.js", // noCF? (don´t add this in a new PR)
+  "esfx": "esfx.github.io",
   "esper": "codecombat.github.io/esper.js",
   "ethavatar": "filips123.github.io/EthAvatar.JS",
   "euc": "wnda.github.io/euc",
