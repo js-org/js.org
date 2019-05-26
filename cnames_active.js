@@ -128,6 +128,7 @@ var cnames_active = {
   "apod": "marcosflorencio.github.io/angular-apod", // noCF? (don´t add this in a new PR)
   "applied": "omahajs.github.io/applied",
   "apprun": "yysun.github.io/apprun",
+  "appsocket": "appsocket.netlify.com",
   "apr": "ramitos.github.io/apr",
   "arc": "diegohaz.github.io/arc",
   "arcn": "alexakasanjeev.github.io/arcn",
