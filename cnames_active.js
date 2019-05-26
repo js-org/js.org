@@ -90,6 +90,7 @@ var cnames_active = {
   "akshay": "akshaygulhane.github.io",
   "akshaybhalotia": "akshaybhalotia.github.io",
   "alasql": "alasql.github.io", // noCF? (don´t add this in a new PR)
+  "albertmolodec": "albertmolodec.github.io", // noCF? (don´t add this in a new PR)
   "alfred": "amilajack.github.io/alfred",
   "algebra": "nicolewhite.github.io/algebra.js", // noCF? (don´t add this in a new PR)
   "ali": "alibouhrouche.github.io",
