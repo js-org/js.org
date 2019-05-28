@@ -1438,6 +1438,7 @@ var cnames_active = {
   "shine": "shinenelson.github.io/shine.js.org",
   "shirajuki": "shirajuki.github.io",
   "short": "shortit.netlify.com",
+  "shortener": "jsmiith.github.io/shortener",
   "short.vstatic": "axlehost.pro", //noCF
   "shortquery": "s--minecraft.gitbooks.io/shortquery-js", // noCF? (don´t add this in a new PR)
   "showroom": "showroom-js.herokuapp.com",
