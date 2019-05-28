@@ -1116,6 +1116,7 @@ var cnames_active = {
   "omid": "omidnikrah.github.io/omid",
   "omg": "pengjiyuan.github.io/omg",
   "onebang": "teamtofu.github.io/onebang",
+  "onefx": "puncsky.github.com/onefx-home",
   "ongaku": "anshuman-verma.github.io/ongaku",
   "openrecord": "philwaldmann.github.io/openrecord",
   "opentype": "nodebox.github.io/opentype.js",
