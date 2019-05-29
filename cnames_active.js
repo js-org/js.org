@@ -282,6 +282,7 @@ var cnames_active = {
   "cats": "whoisjorge.github.io/not-cat-gifs",
   "cbm": "iamnapo.github.io/cbmjs",
   "cebu": "javascriptcebu.netlify.com",
+  "cennznet": "cennznetdocs.com",
   "chaaat": "chaaat.github.io",
   "chain-able": "fluents.github.io/chain-able-site",
   "chatexchange": "jacob-gray.github.io/ChatExchangeJS",
