@@ -71,6 +71,7 @@ var cnames_active = {
   "adil": "adilzeshan.github.io/adil",
   "adnanbabakan": "adnanbabakan.github.io",
   "adon988": "adon988.github.io",
+  "aemp": "afexteam.github.io/aemp",
   "affiliate": "teamtofu.github.io/affiliate",
   "aghasemi": "aghasemi.github.io",
   "agrawalnaman": "agrawalnaman.github.io",
@@ -99,7 +100,6 @@ var cnames_active = {
   "alys": "rmjordas.github.io/alys",
   "amaple": "amjs-team.github.io/amaple",
   "amorphous": "ariabuckles.github.io/amorphous",
-  "aemp": "afexteam.github.io/aemp",
   "amp": "afexteam.github.io/amp",
   "anenth": "anenth.github.io", // noCF? (don´t add this in a new PR)
   "angular-jsf": "json-schema-faker.github.io/angular-jsf", // noCF? (don´t add this in a new PR)
