@@ -558,7 +558,7 @@ var cnames_active = {
   "fire-hydrant": "cchamberlain.github.io/fire-hydrant", // noCF? (don´t add this in a new PR)
   "firenze": "fahad19.github.io/firenze", // noCF? (don´t add this in a new PR)
   "five": "jackdcrawford.github.io/five",
-  "flamecord": "flamexode.github.io/flamecord",
+  "flamecord": "flamecordjs.github.io/flamecordsite",
   "flameshot": "flameshotapp.github.io",
   "flatpickr": "flatpickr.github.io",
   "flavor": "blackmirror1980.github.io/flavor-js",
