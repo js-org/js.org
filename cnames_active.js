@@ -913,6 +913,7 @@ var cnames_active = {
   "mailgo": "manzinello.github.io/mailgo.js.org",
   "majestic": "moityjs.github.io/majestic",
   "maker": "microsoft.github.io/maker.js",
+  "makes": "makesjs.github.io",
   "mali": "malijs.github.io",
   "manu": "botsdemanu.github.io/manu",
   "manual.bluelightos": "hosting.gitbook.com",
