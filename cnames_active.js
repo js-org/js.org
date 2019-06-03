@@ -1001,6 +1001,7 @@ var cnames_active = {
   "mockyeah": "mockyeah.github.io/mockyeah",
   "modbot": "modbotjs.github.io",
   "modofun": "modofunjs.github.io/modofun",
+  "modoki": "araozu.github.io/modoki",
   "modulajs": "modulajs.netlify.com",
   "modv": "2xaa.github.io/modV",
   "moeditor": "moeditor.github.io",
