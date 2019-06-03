@@ -1761,6 +1761,7 @@ var cnames_active = {
   "wthunting": "sawyerbx.github.io/wthunting",
   "wyfe": "wangyuanstudio.github.io/WYFE", // noCF? (don´t add this in a new PR)
   "wynncraft": "frawolf.github.io/wynncraft.js",
+  "xhy": "xhy.github.io",
   "xn--w4h": "zzyzxlab.github.io/tao.js",
   "xprmntl": "xprmntl.github.io", // noCF? (don´t add this in a new PR)
   "xstate": "davidkpiano.github.io/xstate",
@@ -1803,7 +1804,6 @@ var cnames_active = {
   "zonayed": "zonayedpca.github.io/js.zonayed.me",
   "zty": "zetaoyang.github.io",
   "zyy": "zyyou.github.io/notes",
-  "xhy": "xhy.github.io",
   /*
   * please don't add your subdomain records down here!
   * insert them in alphabetical order to help reduce merge conflicts.
