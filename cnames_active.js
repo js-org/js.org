@@ -1581,6 +1581,7 @@ var cnames_active = {
   "tao": "zzyzxlab.github.io/tao.js",
   "tap-flux": "technologyadvice.github.io/tap-flux", // noCF? (don´t add this in a new PR)
   "tapestry-wp": "shortlist-digital.github.io/tapestry-wp",
+  "talz": "geektalz.github.io",
   "tara": "shakyatara.github.io",
   "taro": "nervjs.github.io/taro-website",
   "tart": "tart.github.io/tartJS", // noCF? (don´t add this in a new PR)
