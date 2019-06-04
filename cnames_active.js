@@ -1575,13 +1575,13 @@ var cnames_active = {
   "soroush": "soroushchehresa.github.io/soroush",
   "tagster": "goschevski.github.io/tagster", // noCF? (don´t add this in a new PR)
   "talker": "secondstreet.github.io/talker.js", // noCF? (don´t add this in a new PR)
+  "talz": "geektalz.github.io",
   "tama": "etk.gitlab.io",
   "tanmay": "tan-mayhem.github.io/tanmay",
   "tanok": "brabadu.github.io/tanok",
   "tao": "zzyzxlab.github.io/tao.js",
   "tap-flux": "technologyadvice.github.io/tap-flux", // noCF? (don´t add this in a new PR)
   "tapestry-wp": "shortlist-digital.github.io/tapestry-wp",
-  "talz": "geektalz.github.io",
   "tara": "shakyatara.github.io",
   "taro": "nervjs.github.io/taro-website",
   "tart": "tart.github.io/tartJS", // noCF? (don´t add this in a new PR)
