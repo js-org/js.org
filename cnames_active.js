@@ -1249,7 +1249,7 @@ var cnames_active = {
   "pure": "fengzilong.github.io/pure",
   "prylaris": "prylaris.github.io",
   "purpzie": "purpzie.github.io/site",
-  "pwa": "pwa-addtohome.github.io",
+  "pwa": "ioslide.github.io/pwa-addtohome",
   "pwa-cookbook": "sylvainpolletvillard.github.io/pwa-cookbook",
   "pwa-workshop": "sylvainpolletvillard.github.io/pwa-workshop",
   "qbit": "fudan-mse.github.io/qbit",
