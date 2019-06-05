@@ -1249,6 +1249,7 @@ var cnames_active = {
   "pure": "fengzilong.github.io/pure",
   "prylaris": "prylaris.github.io",
   "purpzie": "purpzie.github.io/site",
+  "pwa": "pwa-addtohome.github.io",
   "pwa-cookbook": "sylvainpolletvillard.github.io/pwa-cookbook",
   "pwa-workshop": "sylvainpolletvillard.github.io/pwa-workshop",
   "qbit": "fudan-mse.github.io/qbit",
@@ -1809,8 +1810,7 @@ var cnames_active = {
   "zombie": "assaf.github.io/zombie", // noCF? (don´t add this in a new PR)
   "zonayed": "zonayedpca.github.io/js.zonayed.me",
   "zty": "zetaoyang.github.io",
-  "zyy": "zyyou.github.io/notes",
-  "pwa": "pwa-addtohome.github.io"
+  "zyy": "zyyou.github.io/notes"
   /*
   * please don't add your subdomain records down here!
   * insert them in alphabetical order to help reduce merge conflicts.
