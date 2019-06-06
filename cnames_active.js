@@ -1509,7 +1509,7 @@ var cnames_active = {
   "spirare": "waldenn.github.io/spirare", // noCF? (don´t add this in a new PR)
   "spiritual": "spiritual-js.github.io", // noCF? (don´t add this in a new PR)
   "split": "nathancahill.github.io/split",
-  "split-ease": "split-ease.netlify.com",
+  "split-ease": "split-ease.netlify.com", // noCF
   "splitting": "shshaw.github.io/Splitting",
   "spotix": "sawyerbx.github.io/spotix",
   "spreadsheet": "chiefofgxbxl.github.io/Spreadsheet.js",
