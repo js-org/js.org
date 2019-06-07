@@ -1570,7 +1570,7 @@ var cnames_active = {
   "switchit": "dongryphon.github.io/switchit",
   "swup": "swup.github.io/docs"
   "sw-yx": "sw-yx.github.io",
-  "sxw":"sxw-js.github.io",
+  "sxw":"sxwjs.github.io",
   "sydinh": "sydinh.github.io",
   "synth": "lukehorvat.github.io/synth-mood",
   "syr": "dmikey.github.io/syr",
