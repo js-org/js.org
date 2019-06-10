@@ -409,6 +409,7 @@ var cnames_active = {
   "deox": "deox.netlify.com",
   "depo": "boltxyz.github.io/depo",
   "deputy": "ry4nolson.github.io/Deputy", // noCF? (don´t add this in a new PR)
+  "deskn": "dk83l5qmqg6z7q9m.shw.io",
   "detect-resize": "noderaider.github.io/detect-resize", // noCF? (don´t add this in a new PR)
   "detector": "blackmirror1980.github.io/detector-js",
   "deterministic": "nodeguy.github.io/Deterministic.js",
