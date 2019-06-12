@@ -677,7 +677,7 @@ var cnames_active = {
   "hbase": "adaltas.github.io/node-hbase-docs",
   "heartseekers": "rajington.github.io/heartseekers", // noCF? (don´t add this in a new PR)
   "hello": "hello-js-org.github.io", // noCF? (don´t add this in a new PR)
-  "henry": "henrythedeveloper.github.io", //noCF
+  "henry": "henrymartins.github.io", //noCF
   "hibiki": "claritymoe.github.io/hibiki",
   "highway": "dogstudio.github.io/highway",
   "hijiangtao": "hijiangtao.github.io/hijiangtao.js.org",
