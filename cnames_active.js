@@ -863,6 +863,7 @@ var cnames_active = {
   "laue": "qingwei-li.github.io/laue",
   "lava": "palladium.github.io/Lava.js",
   "laveesh": "laveesh.github.io",
+  "lazycipher": "lazycipher.github.io",
   "lcookie": "lf112.github.io/lcookie",
   "le": "letui.github.io",
   "leafless": "mofax.github.io/leafless",
