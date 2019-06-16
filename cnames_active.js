@@ -1587,7 +1587,7 @@ var cnames_active = {
   "syr": "dmikey.github.io/syr",
   "soroush": "soroushchehresa.github.io/soroush",
   "tagster": "goschevski.github.io/tagster", // noCF? (don´t add this in a new PR)
-  "talk": "https://github.com/zonayedpca/talk.js",
+  "talk": "zonayedpca.github.io/talk.js",
   "talker": "secondstreet.github.io/talker.js", // noCF? (don´t add this in a new PR)
   "talz": "geektalz.github.io",
   "tama": "etk.gitlab.io",
