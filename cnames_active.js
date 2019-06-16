@@ -244,6 +244,7 @@ var cnames_active = {
   "brain": "brainjs.github.io/brain.js",
   "brandifyjs": "greybax.github.io/brandifyjs",
   "brandonmerritt": "brandonmerritt.github.io", // noCF? (don´t add this in a new PR)
+  "brasil": "javascriptbrasil.github.io",
   "bricklayer": "ademilter.github.io/bricklayer", // noCF? (don´t add this in a new PR)
   "browserless": "kikobeats.github.io/browserless",
   "brugnara": "brugnara.github.io",
@@ -1824,7 +1825,6 @@ var cnames_active = {
   "zonayed": "zonayedpca.github.io/js.zonayed.me",
   "zty": "zetaoyang.github.io",
   "zyy": "zyyou.github.io/notes"
-  "brasil": "javascriptbrasil.github.io"
   /*
   * please don't add your subdomain records down here!
   * insert them in alphabetical order to help reduce merge conflicts.
