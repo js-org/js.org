@@ -1640,7 +1640,7 @@ var cnames_active = {
   "treviso": "trevisojs.github.io", // noCF? (don´t add this in a new PR)
   "trevorgk": "trevorgk.github.io", // noCF? (don´t add this in a new PR)
   "trier": "creimers.github.io/trier",
-  "trilogy": "citycide.github.io/trilogy",
+  "trilogy": "trilogy.netlify.com", //noCF
   "trinity": "marcus-sa.github.io/trinity-js",
   "troxel": "troxeljs.github.io",
   "troy": "troyxun.github.io",
