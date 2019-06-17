@@ -415,6 +415,7 @@ var cnames_active = {
   "detector": "blackmirror1980.github.io/detector-js",
   "deterministic": "nodeguy.github.io/Deterministic.js",
   "dgelong": "alexeyraspopov.github.io/dgelong", // noCF? (don´t add this in a new PR)
+  "dhimasanb": "dhimasanb.github.io",
   "dhruvdutt": "dhruvdutt.github.io",
   "diamond": "diamondpkg.github.io/website",
   "dice": "dicediscord.netlify.com",
