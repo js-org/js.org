@@ -1727,6 +1727,7 @@ var cnames_active = {
   "vscode-apielements": "xvincentx.github.io/vscode-apielements",
   "vssue": "vssue.netlify.com",
   "vstatic": "axlehost.pro", // noCF
+  "vue": "mattipv4.github.io/vue.js.org",
   "vue-admin": "mingdev123.github.io/vue-admin",
   "vue-aplayer": "sevenoutman.github.io/vue-aplayer",
   "vue-coffee": "vue-coffee-guide.netlify.com",
