@@ -548,6 +548,7 @@ var cnames_active = {
   "fairy": "fairymeee.github.io",
   "fallr": "faisalman.github.io/fallr-js",
   "fan": "garychamberlain.github.io/fan",
+  "fanhy531": "fanhy531.github.io",
   "fantas": "fantastiser.github.io",
   "farfetchd": "achannarasappa.github.io/farfetchd", // noCF? (don´t add this in a new PR)
   "faucet": "faucetjs.github.io",
