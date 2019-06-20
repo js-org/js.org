@@ -1224,6 +1224,7 @@ var cnames_active = {
   "plan": "agauniyal.github.io/plan",
   "planisphere": "dai-shi.github.io/planisphere-site", // noCF? (don´t add this in a new PR)
   "planner": "openplannerteam.github.io/planner.js",
+  "plasma": "henrymartins.github.io/plasma", // noCF
   "platz": "fylipp.github.io/platz.js",
   "player": "player.netlify.com",
   "plexr": "plexrbot.github.io",
