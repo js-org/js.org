@@ -1342,6 +1342,7 @@ var cnames_active = {
   "recover": "luisvallejomohl.github.io/Recover.js",
   "recycle": "recyclejs.github.io/recycle",
   "redis": "noderedis.github.io/node_redis", // noCF? (don´t add this in a new PR)
+  "redline": "abduvokhid.github.io/redline",
   "redom": "redom.github.io/redom",
   "reduce": "reducejs.github.io", // noCF? (don´t add this in a new PR)
   "redux-actions": "hosting.gitbook.com", // noCF
