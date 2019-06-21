@@ -39,7 +39,6 @@
  */
 
 var cnames_active = {
-  "guides": "http://rummagedev.github.io/guides.js.org",
   "": "js-org.github.io",
   "100dayz": "deadcoder0904.github.io/100dayz",
   "101": "7anshuai.github.io/js101", // noCF? (don´t add this in a new PR)
