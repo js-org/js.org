@@ -654,6 +654,7 @@ var cnames_active = {
   "gruft": "nikola.github.io/gruft", // noCF? (don´t add this in a new PR)
   "grumpy": "cringiest.github.io/grumpy",
   "gtfs": "gtfs-js.github.io/gtfs.js.org",
+  "guides": "rummagedev.github.io/guides.js.org"
   "guilherme": "guilhermedelemos.github.io/guilherme",
   "guillotine": "matiasgagliano.github.io/guillotine", // noCF? (don´t add this in a new PR)
   "guineapigbot": "guineapigbot.github.io",
