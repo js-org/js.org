@@ -1469,6 +1469,7 @@ var cnames_active = {
   "shd": "pro-devel.github.io",
   "sheet": "sheetjs.github.io/sheet.js.org",
   "shekhar": "shekharreddy4.github.io/Shekhar",
+  "shermisaurus": "shermisaurus.github.io/",
   "shine": "shinenelson.github.io/shine.js.org",
   "shirajuki": "shirajuki.github.io",
   "short": "shortit.netlify.com",
