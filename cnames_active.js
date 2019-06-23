@@ -297,6 +297,7 @@ var cnames_active = {
   "chartconstructor": "quarksworks.github.io/chartConstructor",
   "chandzhang": "chandzhang.github.io",
   "cheerio": "cheeriojs.github.io/cheerio",
+  "chenyuhu": "chenyuhu.github.io",
   "chernivtsi": "chernivtsijs.github.io",
   "chig": "eliotchignell.github.io",
   "chimon2000": "chimon2000.github.io", // noCF? (don´t add this in a new PR)
