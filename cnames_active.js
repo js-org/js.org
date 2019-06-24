@@ -408,6 +408,7 @@ var cnames_active = {
   "defi": "finom.github.io/defi.js.org",
   "delegacias-fortaleza": "juliosampaio.github.io/delegacias-fortaleza", // noCF? (don´t add this in a new PR)
   "delet": "ds-development.github.io/delet",
+  "demoji": "chroventer.github.io/demoji",
   "denisvieira": "fromdenisvieira.github.io", // noCF? (don´t add this in a new PR)
   "deox": "deox.netlify.com",
   "depo": "boltxyz.github.io/depo",
