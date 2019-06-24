@@ -1628,6 +1628,7 @@ var cnames_active = {
   "thegrid": "antoniandre.github.io/grid",
   "themoviedb": "chrisenytc.github.io/themoviedb", // noCF? (don´t add this in a new PR)
   "theorem": "arguiot.github.io/TheoremJS",
+  "threads": "andywer.github.io/threads.js",
   "thundercats": "thundercatsjs.github.io/thundercats", // noCF? (don´t add this in a new PR)
   "tictactoe": "jeff-tian.github.io/tic-tac-toe-ai",
   "timeout": "anshuman-verma.github.io/setTimeout",
