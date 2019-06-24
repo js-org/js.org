@@ -1008,9 +1008,9 @@ var cnames_active = {
   "minigrid": "henriquea.github.io/minigrid", // noCF? (don´t add this in a new PR)
   "mininote": "htdt.github.io/mininote",
   "miny": "pablopunk.github.io/miny",
-  "miteshtagadiya": "miteshtagadiya.guthub.io",
   "mis101bird": "mis101bird.github.io", // noCF? (don´t add this in a new PR)
   "miscord": "bjornskjald.github.io/miscord-website-redirect",
+  "miteshtagadiya": "miteshtagadiya.github.io",
   "mithril-ja": "shibukawa.github.io/mithril-ja", // noCF? (don´t add this in a new PR)
   "mithril": "mithriljs.github.io/mithril.js",
   "mm": "1ocalhost.github.io/mm",
