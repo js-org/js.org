@@ -493,7 +493,7 @@ var cnames_active = {
   "electron-react-boilerplate": "electron-react-boilerplate.github.io/site",
   "elementnet": "elementnet.github.io",
   "elf": "mytharcher.github.io/elf.js.org", // noCF? (don´t add this in a new PR)
-  "elixor":"hosting.gitbook.com",
+  "elixor": "hosting.gitbook.com",
   "elliot": "elliotboney.github.io", // noCF? (don´t add this in a new PR)
   "elmo": "lap00zza.github.io/elmo",
   "elock": "yourtion.github.io/node-elock",
@@ -656,7 +656,7 @@ var cnames_active = {
   "gruft": "nikola.github.io/gruft", // noCF? (don´t add this in a new PR)
   "grumpy": "cringiest.github.io/grumpy",
   "gtfs": "gtfs-js.github.io/gtfs.js.org",
-  "guides": "rummagedev.github.io/guides.js.org"
+  "guides": "rummagedev.github.io/guides.js.org",
   "guilherme": "guilhermedelemos.github.io/guilherme",
   "guillotine": "matiasgagliano.github.io/guillotine", // noCF? (don´t add this in a new PR)
   "guineapigbot": "guineapigbot.github.io",
@@ -1111,6 +1111,7 @@ var cnames_active = {
   "nodeppt": "ksky521.github.io/nodeppt",
   "noderize": "cretezy.github.io/noderize",
   "noflux": "nofluxjs.gitbooks.io/noflux",
+  "noka": "houfeng.net/noka",
   "noo": "uyouthe.github.io/noo",
   "noobscroll": "arguiot.github.io/NoobScroll",
   "nordesti": "nordesti.github.io",
@@ -1593,9 +1594,9 @@ var cnames_active = {
   "sweetalert": "t4t5.github.io/sweetalert",
   "swipe": "lyfeyaj.github.io/swipe",
   "switchit": "dongryphon.github.io/switchit",
-  "swup": "swup.github.io/docs"
+  "swup": "swup.github.io/docs",
   "sw-yx": "sw-yx.github.io",
-  "sxw":"sxwjs.github.io",
+  "sxw": "sxwjs.github.io",
   "sydinh": "sydinh.github.io",
   "synth": "lukehorvat.github.io/synth-mood",
   "syr": "dmikey.github.io/syr",
