@@ -313,7 +313,7 @@ var cnames_active = {
   "citeapa": "natsuozawa.github.io/citeapa",
   "city": "city.github.io",
   "civet": "civet-org.github.io",
-  "cjss": "cjss-group.github.io/CJSS/",
+  "cjss": "cjss-group.github.io/CJSS",
   "clabe-validator": "center-key.github.io/clabe-validator",
   "clark": "clarkdo.github.io/new-blog",
   "clarkdo": "clarkdo.github.io",
