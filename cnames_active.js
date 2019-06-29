@@ -779,12 +779,12 @@ var cnames_active = {
   "jackbot": "cairo2k18.github.io/jackbot",
   "jacob-ebey": "jacob-ebey.github.io",
   "jaibascript": "vasco3.github.io/jaibascript",
+  "jaipur": "jaipurjs-website-7b695.netlify.com",
   "jakarta": "jakartajs.github.io/jakartajs", // noCF? (don´t add this in a new PR)
   "jakejarrett": "jakejarrett.github.io", // noCF? (don´t add this in a new PR)
   "jamal": "jamaljs.github.io/jamaljs",
   "james": "jamesrowen.github.io/james", // noCF? (don´t add this in a new PR)
   "jameshrx": "sawyerbx.github.io/james",
-  "jaipur": "jaipurjs-website-7b695.netlify.com",
   "jason": "limeb.github.io/jason",
   "jargon": "hugogiraudel.github.io/SJSJ", // noCF? (don´t add this in a new PR)
   "javali": "diogomoretti.github.io/javali",
