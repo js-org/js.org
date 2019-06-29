@@ -1034,6 +1034,7 @@ var cnames_active = {
   "mog-script": "mog-script.github.io",
   "mohamad": "imohamad.github.io",
   "mohammad": "ahmady173.github.io/mohammad",
+  "mohatt": "mohatt.github.io",
   "mohit": "mohitgarg.github.io",
   "mohitgupta": "mohitgupta8888.github.io/mohitgupta",
   "mojiscript": "joelnet.github.io/MojiScript",
