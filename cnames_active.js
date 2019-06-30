@@ -1067,6 +1067,7 @@ var cnames_active = {
   "mysketch": "dipanshkhandelwal.github.io/MySketch",
   "mythbusters": "mythbustersjs.netlify.com",
   "mzplayer": "prince3661.github.io/Mzplayer",
+  "nabin": "nabin6246.github.io",
   "nativemodels": "prefinem.github.io/nativemodels",
   "naja": "jiripudil.github.io/Naja",
   "name-my-colors": "domcoleman.github.io/name-my-colors",
