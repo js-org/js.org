@@ -910,6 +910,7 @@ var cnames_active = {
   "ling": "wangziling.github.io",
   "lingui": "lingui.github.io/js-lingui",
   "linghucong": "jiji262.github.io",
+  "litedom": "mardix.github.io/litedom", // noCF
   "liuence": "lxyzai.github.io/liuence",
   "liveflow": "hasharray.github.io/liveflow.js",
   "livenotif": "siffreinsg.github.io/livenotif",
