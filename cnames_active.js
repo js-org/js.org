@@ -361,7 +361,7 @@ var cnames_active = {
   "corki": "dvtate.github.io/corki",
   "corps": "copay.github.io",
   "cote": "dashersw.github.io/cote", // noCF? (don´t add this in a new PR)
-  "countr": "gleeny.github.io/countr",
+  "countr": "gleeny.github.io/countr-redirect",
   "country": "growmies.github.io/countryjs", // noCF? (don´t add this in a new PR)
   "cp": "nestedobjects.github.io/cp",
   "cplayer": "copay.github.io/cPlayer",
