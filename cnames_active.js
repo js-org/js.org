@@ -483,6 +483,7 @@ var cnames_active = {
   "dynwriter": "orbitalproject.github.io/dyn-client",
   "dyo": "dyo.github.io/dyo",
   "eahmed234": "eahmed234.github.io",
+  "ease": "chisel.github.io/ease",
   "easy-bot": "bigaston.github.io/easy-bot",
   "eatery-nod-w": "kevinast.github.io/eatery-nod-w",
   "ebnsina": "ebnsina.github.io/js.ebnsina.me",
