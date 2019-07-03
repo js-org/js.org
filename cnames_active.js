@@ -1496,6 +1496,7 @@ var cnames_active = {
   "shortquery": "s--minecraft.gitbooks.io/shortquery-js", // noCF? (don´t add this in a new PR)
   "showroom": "showroom-js.herokuapp.com",
   "shscode": "shs-coding-club-projects.github.io",
+  "shubhkirtisharma": "wowufoundme.github.io",
   "sidekik": "inf3cti0n95.github.io/sidekik",
   "silas229": "silas229.github.io",
   "silfr": "silfr.github.io/iterativecolor",
