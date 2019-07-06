@@ -748,6 +748,7 @@ var cnames_active = {
   "imrc-datetime-picker": "smrsan76.github.io/imrc-datetime-picker",
   "indrascript": "tedirghazali.github.io/indrascript",
   "infinite-tree": "cheton.github.io/infinite-tree",
+  "infinity":"https://dragoonzx.github.io/infinity",
   "initial-wu": "initial-wu.github.io",
   "injectify": "injectify.github.io/docs",
   "inko": "inko.netlify.com",
