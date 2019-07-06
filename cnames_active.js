@@ -1,4 +1,3 @@
-
 /*
  ***** ACTIVE SUBDOMAINS
  * ***********************
@@ -1496,6 +1495,7 @@ var cnames_active = {
   "shortquery": "s--minecraft.gitbooks.io/shortquery-js", // noCF? (don´t add this in a new PR)
   "showroom": "showroom-js.herokuapp.com",
   "shscode": "shs-coding-club-projects.github.io",
+  "sibak": "w1ldworm.github.io/sibak",
   "sidekik": "inf3cti0n95.github.io/sidekik",
   "silas229": "silas229.github.io",
   "silfr": "silfr.github.io/iterativecolor",
@@ -1858,8 +1858,8 @@ var cnames_active = {
   "zty": "zetaoyang.github.io",
   "zyy": "zyyou.github.io/notes"
   /*
-  * please don't add your subdomain records down here!
-  * insert them in alphabetical order to help reduce merge conflicts.
-  * <3
-  */
+   * please don't add your subdomain records down here!
+   * insert them in alphabetical order to help reduce merge conflicts.
+   * <3
+   */
 }
