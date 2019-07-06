@@ -1033,7 +1033,7 @@ var cnames_active = {
   "mock-middleware": "luobotang.github.io/mock-middleware",
   "mockjs-lite": "52cik.github.io/mockjs-lite", // noCF
   "mockyeah": "mockyeah.github.io/mockyeah",
-  "modboi": "fhgdev.github.io/modboi-website",
+  "modboi": "fhgdev.github.io/Modboi-Website",
   "modbot": "modbotjs.github.io",
   "modofun": "modofunjs.github.io/modofun",
   "modoki": "araozu.github.io/modoki",
