@@ -935,6 +935,7 @@ var cnames_active = {
   "lwd-db": "dreamingbot.github.io/Login-With-Discord-DB",
   "lychee": "Artificial-Engineering.github.io/lycheeJS-website",
   "lyra": "amansahil.github.io/lyra.js.org",
+  "lzbible": "edwinyosorahardjo.github.io/lzbible",
   "m8bot": "mapreiff.github.io/m8-bot-site",
   "ma124": "ma124.netlify.com",
   "macosnotif": "mattipv4.github.io/macOSNotifJS",
