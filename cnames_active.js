@@ -217,6 +217,7 @@ var cnames_active = {
   "biu": "aprilorange.github.io/biu", // noCF? (don´t add this in a new PR)
   "black-fury": "black-fury.github.io",
   "blessmyrains": "dusterthefirst.github.io/blessmyrains",
+  "blockauth": "faragly.github.io/blockauth",
   "bloomer": "algusdark.github.io/bloomer",
   "blotter": "bradley.github.io/Blotter",
   "bluelightos": "bluelightos.ddns.net",
