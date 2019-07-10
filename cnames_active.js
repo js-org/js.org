@@ -548,6 +548,7 @@ var cnames_active = {
   "excmd": "elliottcable.github.io/excmd.js",
   "exiftool-vendored": "mceachen.github.io/exiftool-vendored.js",
   "exp": "magicops.github.io/JQuery-expression-builder",
+  "expressdynamichelpers": "marvnet.github.io/express-dynamic-helpers-patch",
   "extenso": "theuves.github.io/extenso.js.org",
   "extraction": "rse.github.io/extraction", // noCF? (don´t add this in a new PR)
   "eye": "arguiot.github.io/EyeJS",
