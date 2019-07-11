@@ -580,6 +580,7 @@ var cnames_active = {
   "five": "jackdcrawford.github.io/five",
   "flamecord": "flamexode.github.io/flamecord",
   "flameshot": "flameshotapp.github.io",
+  "flap": "slurmulon.github.io/flap",
   "flatpickr": "flatpickr.github.io",
   "flavor": "blackmirror1980.github.io/flavor-js",
   "fld-grd": "mrksbnch.github.io/fld-grd",
