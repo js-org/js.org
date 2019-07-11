@@ -1665,6 +1665,7 @@ var cnames_active = {
   "tiza": "pd4d10.github.io/tiza",
   "tmr": "ttttmr.github.io",
   "toad": "wnda.github.io/toad",
+  "tokq": "tokq.github.io/tokq",
   "tom": "tom-microservice.netlify.com",
   "tools-kit": "blackb1rd-development.github.io/tools-kit",
   "topbot": "resign05.github.io/TobWebsite",
