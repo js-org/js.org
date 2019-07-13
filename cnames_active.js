@@ -1082,6 +1082,7 @@ var cnames_active = {
   "mw": "agauniyal.github.io/mw",
   "mysketch": "dipanshkhandelwal.github.io/MySketch",
   "mythbusters": "mythbustersjs.netlify.com",
+  "myurl": "marvnet.github.io/myurl",
   "mzplayer": "prince3661.github.io/Mzplayer",
   "nabin": "nabin6246.github.io",
   "naja": "jiripudil.github.io/Naja",
