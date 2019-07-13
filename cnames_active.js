@@ -1291,6 +1291,7 @@ var cnames_active = {
   "ps": "spindlyskit.github.io/ps.js",
   "pubg": "ickerio.github.io/pubg.js",
   "published": "fiverr.github.io/published",
+  "pulse": "alias.zeit.co", //noCF
   "pure": "fengzilong.github.io/pure",
   "purpzie": "purpzie.github.io/site",
   "pwa-cookbook": "sylvainpolletvillard.github.io/pwa-cookbook",
