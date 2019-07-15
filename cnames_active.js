@@ -1660,6 +1660,7 @@ var cnames_active = {
   "theorem": "arguiot.github.io/TheoremJS",
   "threads": "andywer.github.io/threads.js",
   "thundercats": "thundercatsjs.github.io/thundercats", // noCF? (don´t add this in a new PR)
+  "thi": "ngomjnhthj.github.io/thi",
   "tictactoe": "jeff-tian.github.io/tic-tac-toe-ai",
   "timeout": "anshuman-verma.github.io/setTimeout",
   "timerizer": "callumacrae.github.io/timerizerJS", // noCF? (don´t add this in a new PR)
