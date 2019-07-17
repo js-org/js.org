@@ -173,7 +173,6 @@ var cnames_active = {
   "awesomehub": "awesomehub.netlify.com",
   "awk": "42ua.github.io/awk",
   "awoo": "awoojs.github.io/website",
-  "awto": "theabbie.github.io/awto",
   "axelgreavette": "axelgreavette.github.io",
   "azdanov": "azdanov.netlify.com", //noCF
   "aziz": "iaziz786.netlify.com",
@@ -1588,6 +1587,7 @@ var cnames_active = {
   "start": "deepsweet.github.io/start",
   "starterbot": "starterbot.netlify.com",
   "state-machine-cat": "sverweij.github.io/state-machine-cat",
+  "static": "theabbie.github.io/static",
   "staticinstance": "staticinstance.github.io", // noCF? (don´t add this in a new PR)
   "stats": "js-org.github.io/stats.js.org",
   "statsbot": "statsbot.netlify.com", // noCF
