@@ -855,6 +855,7 @@ var cnames_active = {
   "mhsupport": "thatonetqnk.github.io/MHSupport",
   "mhy": "hosting.gitbook.com",
   "mi": "stevenjoezhang.github.io",
+  "michaelfarnik": "michaloslav.github.io/MichaelFarnik",
   "microfeedback": "microfeedback.github.io",
   "microlink": "microlinkhq.github.io/microlinkjs",
   "mics": "download.github.io/mics",
