@@ -131,6 +131,7 @@ var cnames_active = {
   "aping": "johnnythetank.github.io/apiNG", // noCF? (don´t add this in a new PR)
   "aplayer": "diygod.github.io/APlayer",
   "apod": "marcosflorencio.github.io/angular-apod", // noCF? (don´t add this in a new PR)
+  "app": "theabbie.github.io/app",
   "applied": "omahajs.github.io/applied",
   "apprun": "yysun.github.io/apprun",
   "appsocket": "appsocket.netlify.com",
@@ -173,7 +174,6 @@ var cnames_active = {
   "awesomehub": "awesomehub.netlify.com",
   "awk": "42ua.github.io/awk",
   "awoo": "awoojs.github.io/website",
-  "awto": "theabbie.github.io/awto",
   "axelgreavette": "axelgreavette.github.io",
   "azdanov": "azdanov.netlify.com", //noCF
   "aziz": "iaziz786.netlify.com",
