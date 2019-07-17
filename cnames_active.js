@@ -723,6 +723,7 @@ var cnames_active = {
   "huck": "huckjs.github.io/huck",
   "hugorocaproyectos": "hugoroca.github.io/coleccion-proyectos",
   "human": "human-js.gitbooks.io", // noCF? (don´t add this in a new PR)
+  "humble": "humblejs.github.io",
   "hx": "hifocus.github.io/www.hxis.me",
   "hybrids": "hosting.gitbook.com", // noCF
   "hyde": "gheek.github.io/hyde", // noCF? (don´t add this in a new PR)
