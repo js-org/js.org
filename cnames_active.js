@@ -548,7 +548,7 @@ var cnames_active = {
   "evolutionland": "evolutionlandorg.github.io/js-sdk",
   "evolutions": "anshumanv.github.io/evolutions-webapp",
   "ewa": "lyfeyaj.github.io/ewa",
-  "example": "theabbie.github.io/example",
+  "example": "theabbie.github.io/example", // noCF
   "exbars": "youssefkababe.github.io/exbars", // noCF? (don´t add this in a new PR)
   "excmd": "elliottcable.github.io/excmd.js",
   "exiftool-vendored": "mceachen.github.io/exiftool-vendored.js",
