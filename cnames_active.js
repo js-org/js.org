@@ -1218,7 +1218,7 @@ var cnames_active = {
   "paul": "paul-brown.github.io", // noCF? (don´t add this in a new PR)
   "pax": "nathan.github.io/pax",
   "pdf": "iamcristye.github.io/PDF",
-  "pdf-lib": "hopding.github.io/pdf-lib",
+  "pdf-lib": "hopding.github.io/pdf-lib", // noCF
   "pdfutils": "gottox.github.io/node-pdfutils", // noCF? (don´t add this in a new PR)
   "pdp-elements": "go4cas.github.io/pdp_elements", // noCF? (don´t add this in a new PR)
   "pearl": "adamshurson.github.io/pearl",
