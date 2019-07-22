@@ -1363,7 +1363,7 @@ var cnames_active = {
   "react-toulouse": "moox.github.io/react-toulouse",
   "reactabular": "bebraw.github.io/reactabular",
   "reactdesktop": "gabrielbull.github.io/react-desktop", // noCF? (don´t add this in a new PR)
-  "reactif": "frencojobs.github.io/Reactif",
+  "reactif": "reactif.netlify.com",
   "reactour": "elrumordelaluz.github.io/reactour",
   "reactql": "leebenson.github.io/reactql-site",
   "readcolor": "keiww.github.io/readcolorhex",
