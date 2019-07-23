@@ -1304,9 +1304,9 @@ var cnames_active = {
   "pulse": "alias.zeit.co", //noCF
   "pure": "fengzilong.github.io/pure",
   "purpzie": "purpzie.github.io/site",
-  "pwapp": "nikiforov-org.github.io/pwapp",
   "pwa-cookbook": "sylvainpolletvillard.github.io/pwa-cookbook",
   "pwa-workshop": "sylvainpolletvillard.github.io/pwa-workshop",
+  "pwapp": "nikiforov-org.github.io/pwapp",
   "qbit": "fudan-mse.github.io/qbit",
   "qs": "kirjs.github.io/qs.js", // noCF? (don´t add this in a new PR)
   "quark": "smarchetti.github.io/quark",
