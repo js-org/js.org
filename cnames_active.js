@@ -593,6 +593,7 @@ var cnames_active = {
   "floffan": "floffah.github.io/floffan",
   "flowchart": "adrai.github.io/flowchart.js", // noCF? (don´t add this in a new PR)
   "flowcon": "oknosoft.github.io/flowcon",
+  "flowpainter": "sirajchokshi.github.io/FlowPainter",
   "fluid": "jottocraft.github.io/fluid",
   "fluorite": "chisel.github.io/fluorite",
   "fluxoff": "kingscott.github.io/flux-off", // noCF? (don´t add this in a new PR)
