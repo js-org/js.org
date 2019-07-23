@@ -1304,6 +1304,7 @@ var cnames_active = {
   "pulse": "alias.zeit.co", //noCF
   "pure": "fengzilong.github.io/pure",
   "purpzie": "purpzie.github.io/site",
+  "pwa": "https://nikiforov-org.github.io/pwa",
   "pwa-cookbook": "sylvainpolletvillard.github.io/pwa-cookbook",
   "pwa-workshop": "sylvainpolletvillard.github.io/pwa-workshop",
   "qbit": "fudan-mse.github.io/qbit",
