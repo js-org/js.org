@@ -1307,6 +1307,7 @@ var cnames_active = {
   "purpzie": "purpzie.github.io/site",
   "pwa-cookbook": "sylvainpolletvillard.github.io/pwa-cookbook",
   "pwa-workshop": "sylvainpolletvillard.github.io/pwa-workshop",
+  "pwapp": "nikiforov-org.github.io/pwapp",
   "qbit": "fudan-mse.github.io/qbit",
   "qs": "kirjs.github.io/qs.js", // noCF? (don´t add this in a new PR)
   "quark": "smarchetti.github.io/quark",
