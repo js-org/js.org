@@ -670,7 +670,7 @@ var cnames_active = {
   "gridiron": "noderaider.github.io/gridiron",
   "gridsplit": "assetinfo.github.io", // noCF? (don´t add this in a new PR)
   "gruft": "nikola.github.io/gruft", // noCF? (don´t add this in a new PR)
-  "grumpy": "cringiest.github.io/grumpy",
+  "grumpy": "aidenybai.github.io/grumpy",
   "gtfs": "gtfs-js.github.io/gtfs.js.org",
   "guides": "rummagedev.github.io/guides.js.org",
   "guilherme": "guilhermedelemos.github.io/guilherme",
