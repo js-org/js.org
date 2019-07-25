@@ -1048,6 +1048,7 @@ var cnames_active = {
   "mo": "mirmousaviii.github.io/mo",
   "mobx": "mobxjs.github.io/mobx",
   "mobx-react": "mobx-react.netlify.com",
+  "mock": "jeff-tian.github.io/Mock",
   "mock-middleware": "luobotang.github.io/mock-middleware",
   "mockjs-lite": "52cik.github.io/mockjs-lite", // noCF
   "mockyeah": "mockyeah.github.io/mockyeah",
