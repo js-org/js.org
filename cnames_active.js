@@ -262,7 +262,7 @@ var cnames_active = {
   "bunyan-pmx": "cchamberlain.github.io/bunyan-pmx", // noCF? (don´t add this in a new PR)
   "bunyan-serializer": "cchamberlain.github.io/bunyan-serializer", // noCF? (don´t add this in a new PR)
   "burst": "hugeen.github.io/burst", // noCF? (don´t add this in a new PR)
-  "bussola": "daymannovaes.github.io/bussola-lib", // noCF? (don´t add this in a new PR)
+  "bussola": "daymannovaes.github.io/bussola-lib",
   "bustime": "agarzola.github.io/bustime", // noCF? (don´t add this in a new PR)
   "buttermilk": "buttermilk.netlify.com",
   "c": "cocobear.github.io",
