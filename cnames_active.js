@@ -851,6 +851,7 @@ var cnames_active = {
   "karolina-and-ryan": "mockturtlesoup.github.io/karolina-and-ryan",
   "kate": "thecodesuite.github.io/katebot",
   "kawaii": "moemoesoft.github.io/kawaii", //noCF
+  "kazbot": "kazijawad.github.io/kazbot.js.org",
   "kcak11": "kcak11.github.io/js-org-web",
   "kdiacodes": "kdiacodes.github.io",
   "kea": "keajs.github.io/kea",
