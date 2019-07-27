@@ -1835,6 +1835,7 @@ var cnames_active = {
   "weeb": "jsmiith.github.io/weeb",
   "weekly": "xdimh.github.io/weekly",
   "wglt": "codyebberson.github.io/wglt",
+  "whadido": "jokester.github.io/whadido",
   "whiteboard": "yhozen.github.io/whiteboard",
   "wice": "yulioaj290.github.io/wice.js",
   "wii": "andrewplus.github.io/Wii.JS",
@@ -1843,7 +1844,6 @@ var cnames_active = {
   "willy": "willyarisky.github.io/willy",
   "with-immutable-props-to-js": "tophat.github.io/with-immutable-props-to-js",
   "within": "eric-brechemier.github.io/within", // noCF? (don´t add this in a new PR)
-  "whadido": "jokester.github.io/whadido",
   "woodsman": "haximilian.github.io/woodsman",
   "wooyun": "jiji262.github.io/wooyun_articles",
   "wordywordy": "sverweij.github.io/wordywordy",
