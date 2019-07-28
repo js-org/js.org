@@ -1492,6 +1492,7 @@ var cnames_active = {
   "sazerac": "sazeracjs.github.io/sazerac-site",
   "scene": "daybrush.github.io/scenejs-page",
   "schema": "foxifyjs.github.io/schema",
+  "scopes": "kelleyvanevert.github.io/scopes",
   "scramble": "ignatiusmb.github.io/scramble.js",
   "scrape-pages": "andykais.github.io/scrape-pages",
   "scratch": "scratch-js.github.io",
