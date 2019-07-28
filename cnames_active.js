@@ -1782,6 +1782,7 @@ var cnames_active = {
   "viperhtml": "viperhtml.github.io",
   "virtual-keyboard": "virtual-keyboard-javascript.github.io",
   "visualnovel": "selcher.github.io/visualnoveljs", // noCF? (don´t add this in a new PR)
+  "visualized-execution": "codaisseur.github.io/visualized-execution", // noCF
   "vk-x": "vk-x.github.io",
   "vncz": "xvincentx.github.io/vncz",
   "voloshins": "voloshins.github.io", // noCF? (don´t add this in a new PR)
