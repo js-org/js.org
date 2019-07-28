@@ -78,6 +78,7 @@ var cnames_active = {
   "adon988": "adon988.github.io",
   "aemp": "afexteam.github.io/aemp",
   "affiliate": "teamtofu.github.io/affiliate",
+  "afmsavage": "afmsavage.github.io",
   "agentnpm": "meetping.github.io/agentnpm",
   "aghasemi": "aghasemi.github.io",
   "agrawalnaman": "agrawalnaman.github.io",
