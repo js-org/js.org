@@ -991,6 +991,7 @@ var cnames_active = {
   "materialish": "jamesplease.github.io/materialish",
   "materialize-bootbox": "iqbalfn.github.io/materialize-bootbox",
   "matrix-rref-solver": "arisweedler.github.io/matrix-rref-solver",
+  "matters2ipfs": "contributionls.github.io/matters2ipfs",
   "matthias-schuetz": "matthias-schuetz.github.io", // noCF? (don´t add this in a new PR)
   "maxnachlinger": "maxnachlinger.github.io", // noCF? (don´t add this in a new PR)
   "maxtracking": "maxtracking.github.io", // noCF? (don´t add this in a new PR)
@@ -1900,7 +1901,6 @@ var cnames_active = {
   "zonayed": "zonayedpca.github.io/js.zonayed.me",
   "zty": "zetaoyang.github.io",
   "zyy": "zyyou.github.io/notes",
-  "matters2ipfs": "contributionls.github.io/matters2ipfs",
   /*
   * please don't add your subdomain records down here!
   * insert them in alphabetical order to help reduce merge conflicts.
