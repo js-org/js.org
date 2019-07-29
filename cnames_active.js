@@ -1841,6 +1841,7 @@ var cnames_active = {
   "weeb": "jsmiith.github.io/weeb",
   "weekly": "xdimh.github.io/weekly",
   "wglt": "codyebberson.github.io/wglt",
+  "whadido": "jokester.github.io/whadido",
   "whiteboard": "yhozen.github.io/whiteboard",
   "wice": "yulioaj290.github.io/wice.js",
   "wii": "andrewplus.github.io/Wii.JS",
