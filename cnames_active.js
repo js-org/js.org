@@ -1117,6 +1117,7 @@ var cnames_active = {
   "neo4": "janpeter.github.io/neo4js",
   "neotidev": "neotidev.github.io/website",
   "netology-group": "netology-group.github.io",
+  "neurax-api": "neurax-api.github.io",
   "neuro": "neurojs.netlify.com",
   "neutralino": "neutralinojs.github.io",
   "neutrino": "neutrinojs.netlify.com", // noCF
