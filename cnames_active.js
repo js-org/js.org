@@ -932,6 +932,7 @@ var cnames_active = {
   "lineup": "lineupjs.github.io",
   "lineupengine": "lineupjs.github.io/lineupengine.js.org",
   "ling": "wangziling.github.io",
+  "lin": "felynn.github.io",
   "linghucong": "jiji262.github.io",
   "lingui": "lingui.github.io/js-lingui",
   "litedom": "mardix.github.io/litedom", // noCF
