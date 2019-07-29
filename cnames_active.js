@@ -1115,11 +1115,11 @@ var cnames_active = {
   "neo4": "janpeter.github.io/neo4js",
   "neotidev": "neotidev.github.io/website",
   "netology-group": "netology-group.github.io",
+  "neurax-api": "neurax-api.github.io",
   "neuro": "neurojs.netlify.com",
   "neutralino": "neutralinojs.github.io",
   "neutrino": "neutrinojs.netlify.com", // noCF
   "newbyte": "newbie13xd.github.io/newbyte",
-  "neurax-api": "neurax-api.github.io",
   "next": "zeit.github.io/next-site",
   "nexus": "nexusjs.netlify.com",
   "nflow": "nflow-js.github.io", // noCF? (don´t add this in a new PR)
