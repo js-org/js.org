@@ -930,6 +930,7 @@ var cnames_active = {
   "likebeta": "likebeta.github.io/likebeta.js.org",
   "liljs": "liljs.netlify.com",
   "limitrr": "eddiejibson.github.io/limitrr",
+  "lin": "felynn.github.io",
   "lineup": "lineupjs.github.io",
   "lineupengine": "lineupjs.github.io/lineupengine.js.org",
   "ling": "wangziling.github.io",
@@ -1689,7 +1690,7 @@ var cnames_active = {
   "tina": "tinajs.github.io/tina",
   "tint": "tintjs.github.io", // noCF? (don´t add this in a new PR)
   "tinylinux": "e8johan.github.io/tiny-js", // noCF? (don´t add this in a new PR)
-  "tinyclipboard": "hycmedia.github.io/TinyClipboard"
+  "tinyclipboard": "hycmedia.github.io/TinyClipboard",
   "title": "sawyerbx.github.io/titlejs",
   "tixol": "vcxiz.github.io/tixol",
   "tiza": "pd4d10.github.io/tiza",
