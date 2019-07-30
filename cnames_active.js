@@ -1246,6 +1246,7 @@ var cnames_active = {
   "perspective": "leopoldthecoder.github.io/Perspective",
   "peter": "peterccpang.github.io",
   "pguth": "pguth.github.io",
+  "ph": "xiaomingplus.github.io/producthunt-trending",
   "ph1p": "ph1p.github.io",
   "pharaoh": "pharaoh-js.github.io", // noCF? (don´t add this in a new PR)
   "phobos": "phobosjs.github.io/phobos.js",
