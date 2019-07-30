@@ -929,10 +929,10 @@ var cnames_active = {
   "likebeta": "likebeta.github.io/likebeta.js.org",
   "liljs": "liljs.netlify.com",
   "limitrr": "eddiejibson.github.io/limitrr",
+  "lin": "felynn.github.io",
   "lineup": "lineupjs.github.io",
   "lineupengine": "lineupjs.github.io/lineupengine.js.org",
   "ling": "wangziling.github.io",
-  "lin": "felynn.github.io",
   "linghucong": "jiji262.github.io",
   "lingui": "lingui.github.io/js-lingui",
   "litedom": "mardix.github.io/litedom", // noCF
