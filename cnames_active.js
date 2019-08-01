@@ -479,6 +479,7 @@ var cnames_active = {
   "dprof": "andreasmadsen.github.io/dprof",
   "draft": "D1SC0tech.github.io/draft.js", // noCF? (don´t add this in a new PR)
   "drag": "classicoldsong.github.io/Drag.js", // noCF? (don´t add this in a new PR)
+  "dragio": "alexkratky.github.io/Dragio.js",
   "dragon": "sabertazimi.github.io/dragonjs", // noCF? (don´t add this in a new PR)
   "draw": "skillzzjesse.github.io/draw",
   "drome": "dromejs.github.io/drome.js.org",
