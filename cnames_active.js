@@ -1311,7 +1311,7 @@ var cnames_active = {
   "projects-tracker": "iamdevlinph.github.io/projects-tracker",
   "promise": "gleeny.github.io/promise-redirect",
   "proteic": "proteus-h2020.github.io/proteic",
-  "proton": "https://jonathanzzero.github.io/proton/",
+  "proton": "jonathanzzero.github.io/proton/",
   "proton-native": "kusti8.github.io/proton-native",
   "prototyped": "ardalanamini.github.io/prototyped.js",
   "protype": "arguiot.github.io/ProType",
