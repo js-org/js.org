@@ -1864,6 +1864,7 @@ var cnames_active = {
   "willy": "willyarisky.github.io/willy",
   "with-immutable-props-to-js": "tophat.github.io/with-immutable-props-to-js",
   "within": "eric-brechemier.github.io/within", // noCF? (don´t add this in a new PR)
+  "wiz": "karimsa.github.io/wiz", // noCF
   "woodsman": "haximilian.github.io/woodsman",
   "wooyun": "jiji262.github.io/wooyun_articles",
   "wordywordy": "sverweij.github.io/wordywordy",
