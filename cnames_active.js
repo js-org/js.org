@@ -640,6 +640,7 @@ var cnames_active = {
   "futch": "jfbrennan.github.io/futch",
   "fyi": "tobihrbr.github.io/fyi",
   "g": "nodebox.github.io/g.js",
+  "gamingnet": "gamingmineblox.github.io/GamingNet",
   "gal": "galmail.github.io", // noCF? (don´t add this in a new PR)
   "gamedevcontestal": "fromdenisvieira.github.io/gamedevcontestal", // noCF? (don´t add this in a new PR)
   "gazosekai": "starkblaze01.github.io/Gazo_Sekai",
