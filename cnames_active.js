@@ -1169,6 +1169,7 @@ var cnames_active = {
   "notepad": "amitmerchant1990.github.io/notepad",
   "notibar": "duyetdev.github.io/notibar.js",
   "notice": "leoriviera.github.io/notice",
+  "npkill": "voidcosmos.github.io/npkill",
   "npmer": "rumkin.github.io/npm-watch",
   "nsp": "hanul.github.io/NSP", // noCF? (don´t add this in a new PR)
   "nsptiles": "imthenachoman.github.io/nSPTiles", // noCF? (don´t add this in a new PR)
