@@ -1633,6 +1633,7 @@ var cnames_active = {
   "sticky": "fawmi.github.io/sticky-pro",
   "stino": "stinobe.github.io/Stino",
   "stockings": "kgroat.github.io/stockings",
+  "stoneyallen": "stoneyallen.github.io",
   "storage": "uzitech.github.io/storage.js",
   "storybook": "storybooks.netlify.com", //noCF
   "storybooks": "storybooks.github.io",
