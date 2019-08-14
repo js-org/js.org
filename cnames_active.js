@@ -1830,6 +1830,7 @@ var cnames_active = {
   "vue-mdc": "na-west1.surge.sh",
   "vue-minesweeper": "disjfa.github.io/vue-minesweeper",
   "vue-multiselect": "shentao.github.io/vue-multiselect",
+  "vue-polkadot": "vue-polkadot.github.io",
   "vue-roast": "kronicker.github.io/vue-roast",
   "vue-route-timeline": "disjfa.github.io/vue-route-timeline",
   "vue-showdown": "vue-showdown.netlify.com",
