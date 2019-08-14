@@ -758,6 +758,7 @@ var cnames_active = {
   "idettman": "idettman.github.io",
   "ienumerable": "mbasso.github.io/ienumerable",
   "iffe": "iffe-team.github.io",
+  "ifis": "razod.github.io/ifis",
   "iflow": "unadlib.github.io/iflow",
   "ignite": "ignitejscl.github.io",
   "iiilfaaa": "iiilfaaa.github.io",
