@@ -886,6 +886,7 @@ var cnames_active = {
   "knc": "chaituknag.github.io",
   "knowyourbundle": "enapupe.github.io/know-your-bundle",
   "ko": "ko25july.github.io/ko.js.org",
+  "koa-rest-api-boilerplate": "posquit0.github.io/koa-rest-api-boilerplate",
   "kofiloop": "norech.github.io/KofiLoop",
   "kolly": "cringiest.github.io/kolly",
   "komada": "dirigeants.github.io/komada",
