@@ -1602,6 +1602,7 @@ var cnames_active = {
   "spa": "sucom.github.io/SPA.js",
   "spaas": "pakastin.github.io/spaas",
   "spacebot": "spacebot2.github.io",
+  "spax": "crossjs.github.io/spax-site",
   "spectragram": "adrianengine.github.io/jquery-spectragram", // noCF? (don´t add this in a new PR)
   "speroxu": "speroxu.github.io",
   "spike": "spike.netlify.com",
