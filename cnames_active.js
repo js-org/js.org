@@ -1600,6 +1600,7 @@ var cnames_active = {
   "soundpad": "mcpe-pc.github.io/soundpad.js",
   "sox": "sox-team.github.io/sox", // noCF? (don´t add this in a new PR)
   "spa": "sucom.github.io/SPA.js",
+  "spax": "crossjs.github.io/spax-site",
   "spaas": "pakastin.github.io/spaas",
   "spacebot": "spacebot2.github.io",
   "spectragram": "adrianengine.github.io/jquery-spectragram", // noCF? (don´t add this in a new PR)
