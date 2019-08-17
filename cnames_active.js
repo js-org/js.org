@@ -1614,6 +1614,7 @@ var cnames_active = {
   "splitting": "shshaw.github.io/Splitting",
   "spotix": "sawyerbx.github.io/spotix",
   "spreadsheet": "chiefofgxbxl.github.io/Spreadsheet.js",
+  "spring": "spring-js.gitbook.io/docs/",
   "spritesheet": "arcadiogarcia.github.io/Spritesheet.js", // noCF? (don´t add this in a new PR)
   "spritewerk": "bildepunkt.github.io/spritewerk", // noCF? (don´t add this in a new PR)
   "squeak": "bertfreudenberg.github.io/SqueakJS",
