@@ -1070,6 +1070,7 @@ var cnames_active = {
   "mmcq": "nikola.github.io/MMCQ", // noCF? (don´t add this in a new PR)
   "mo": "mirmousaviii.github.io/mo",
   "mobx": "mobxjs.github.io/mobx",
+  "mobx-keystone": "mobx-keystone.netlify.com",
   "mobx-react": "mobx-react.netlify.com",
   "mock-middleware": "luobotang.github.io/mock-middleware",
   "mockjs-lite": "52cik.github.io/mockjs-lite", // noCF
