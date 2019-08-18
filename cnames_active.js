@@ -533,7 +533,7 @@ var cnames_active = {
   "enclave": "eanplatter.github.io/enclave", // noCF? (don´t add this in a new PR)
   "endb": "chroventer.github.io/endb",
   "energy": "energychain.github.io/energy",
-  "engine262": "engine262.github.io/engine262",
+  "engine262": "engine262.github.io",
   "engui": "engui.github.io",
   "eplayer": "132yse.github.io/eplayer",
   "epoxy": "hosting.gitbook.com",
