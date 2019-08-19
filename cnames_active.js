@@ -1935,6 +1935,7 @@ var cnames_active = {
   "zonayed": "zonayedpca.github.io/js.zonayed.me",
   "zty": "zetaoyang.github.io",
   "zyy": "zyyou.github.io/notes",
+  "ari": "arbo77.github.io/ari"
   /*
   * please don't add your subdomain records down here!
   * insert them in alphabetical order to help reduce merge conflicts.
