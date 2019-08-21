@@ -1178,6 +1178,7 @@ var cnames_active = {
   "nordesti": "nordesti.github.io",
   "noted": "carter-slade.github.io/Noted-", // noCF? (don´t add this in a new PR)
   "notepad": "amitmerchant1990.github.io/notepad",
+  "nothing": "cbtak.github.io/nothing",
   "notibar": "duyetdev.github.io/notibar.js",
   "notice": "leoriviera.github.io/notice",
   "npkill": "voidcosmos.github.io/npkill",
@@ -1193,7 +1194,6 @@ var cnames_active = {
   "nxse": "nxse.github.io",
   "nyc": "nycjsorg.github.io/nyc",
   "nyr": "suriyaakudoisc.github.io/NYR",
-  "nothing": "cbtak.github.io/nothing",
   "objectmodel": "sylvainpolletvillard.github.io/ObjectModel", // noCF? (don´t add this in a new PR)
   "octo": "baileyjm02.github.io/OctoJS",
   "odararmy": "odararmy.github.io",
