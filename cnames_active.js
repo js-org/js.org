@@ -1178,6 +1178,7 @@ var cnames_active = {
   "nordesti": "nordesti.github.io",
   "noted": "carter-slade.github.io/Noted-", // noCF? (don´t add this in a new PR)
   "notepad": "amitmerchant1990.github.io/notepad",
+  "nothing": "cbtak.github.io/nothing",
   "notibar": "duyetdev.github.io/notibar.js",
   "notice": "leoriviera.github.io/notice",
   "npkill": "voidcosmos.github.io/npkill",
