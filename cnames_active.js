@@ -607,6 +607,7 @@ var cnames_active = {
   "flexmasonry": "kavanmevada.github.io/flex_masonry", // noCF
   "floffan": "floffah.github.io/floffan",
   "flowchart": "adrai.github.io/flowchart.js", // noCF? (don´t add this in a new PR)
+  "flowcord": "flowcord.github.io",
   "flowcon": "oknosoft.github.io/flowcon",
   "flowpainter": "sirajchokshi.github.io/FlowPainter",
   "fluid": "jottocraft.github.io/fluid",
