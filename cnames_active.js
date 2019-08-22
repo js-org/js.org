@@ -385,6 +385,7 @@ var cnames_active = {
   "cqrs": "adrai.github.io/cqrs", // noCF? (don´t add this in a new PR)
   "cr": "echosoar.github.io/cr",
   "cracked": "billorcutt.github.io/Cracked",
+  "craps": "mduleone.github.io/craps",
   "create-project": "chalarangelo.github.io/create-js-project",
   "createrest": "atomixinteractions.github.io/createrest",
   "creaturegen": "ryancromebook.github.io/creaturegen",
@@ -1017,6 +1018,7 @@ var cnames_active = {
   "mc": "magicarbon.github.io/mc", // noCF? (don´t add this in a new PR)
   "mcul": "teamtofu.github.io/mcul",
   "mde": "lukehorvat.github.io/mde-soundboard",
+  "mduleone": "mduleone.github.io",
   "mechan": "dusterthefirst.github.io/mechan.js",
   "medan": "medan-js.github.io", // noCF
   "mediainfo": "buzz.github.io/mediainfo.js",
