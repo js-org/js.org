@@ -13,5 +13,6 @@
  */
  
  var ns_active = {
-  "shebang": ["dns1.p01.nsone.net", "dns2.p01.nsone.net", "dns3.p01.nsone.net", "dns4.p01.nsone.net"]
+  "shebang": ["dns1.p01.nsone.net", "dns2.p01.nsone.net", "dns3.p01.nsone.net", "dns4.p01.nsone.net"],
+  "awto": ["mx1.improvmx.com","mx2.improvmx.com"] //mx records
  }
