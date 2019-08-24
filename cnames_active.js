@@ -200,7 +200,7 @@ var cnames_active = {
   "barbagrigia": "barbagrigia.github.io",
   "base64": "licshee.github.io/base64",
   "bash": "bashjs.github.io",
-  "basic": "basicgame.github.io/basicGame.js", // noCF? (don´t add this in a new PR)
+  "basicgame": "basicgame.github.io/basicGame.js", // noCF? (don´t add this in a new PR)
   "bastion": "snkrsnkampa.github.io/Bastion-Site",
   "batch-cluster": "mceachen.github.io/batch-cluster.js",
   "battle-city": "shinima.github.io/battle-city",
