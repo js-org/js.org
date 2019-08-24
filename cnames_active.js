@@ -305,7 +305,6 @@ var cnames_active = {
   "chaaat": "chaaat.github.io",
   "chain-able": "fluents.github.io/chain-able-site",
   "chandzhang": "chandzhang.github.io",
-  "channel": "channeljs.github.io/channel",
   "charge": "charge-js.netlify.com",
   "chartconstructor": "quarksworks.github.io/chartConstructor",
   "chatexchange": "jacob-gray.github.io/ChatExchangeJS",
@@ -1455,6 +1454,7 @@ var cnames_active = {
   "rengular": "chigix.github.io/rengular",
   "renovate": "sawyerbx.github.io/renovate",
   "repackage": "cchamberlain.github.io/repackage", // noCF? (don´t add this in a new PR)
+  "repeater": "repeaterjs.github.io/repeater",
   "replace": "quales.github.io/replace.js",
   "request": "request.gitbooks.io", // noCF? (don´t add this in a new PR)
   "reshape": "reshape.netlify.com",
