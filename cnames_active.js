@@ -200,7 +200,10 @@ var cnames_active = {
   "barbagrigia": "barbagrigia.github.io",
   "base64": "licshee.github.io/base64",
   "bash": "bashjs.github.io",
-  "basicgame": "basicgame.github.io/basicGame.js", // noCF? (don´t add this in a new PR)
+  "basic
+  
+  
+  ": "basicgame.github.io/basicGame.js", // noCF? (don´t add this in a new PR)
   "bastion": "snkrsnkampa.github.io/Bastion-Site",
   "batch-cluster": "mceachen.github.io/batch-cluster.js",
   "battle-city": "shinima.github.io/battle-city",
@@ -647,6 +650,7 @@ var cnames_active = {
   "g": "nodebox.github.io/g.js",
   "gal": "galmail.github.io", // noCF? (don´t add this in a new PR)
   "gamedevcontestal": "fromdenisvieira.github.io/gamedevcontestal", // noCF? (don´t add this in a new PR)
+  "gametracker": "officialpiyush.github.io/gametracker.js"
   "gamingnet": "gamingmineblox.github.io/GamingNet",
   "gazosekai": "starkblaze01.github.io/Gazo_Sekai",
   "gcse": "abemedia.github.io/jquery-gcse",
