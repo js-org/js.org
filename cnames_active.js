@@ -811,6 +811,7 @@ var cnames_active = {
   "istanbul": "istanbuljs.github.io",
   "italia": "milano-js.github.io/italia-js", // noCF? (don´t add this in a new PR)
   "itsashis4u": "itsashis4u.github.io", // noCF? (don´t add this in a new PR)
+  "ItsMeRTXYZ": "rtxyz.netlify.com",
   "itunes-bridge": "angrykiller.github.io/iTunes-bridge",
   "j3n5en": "j3n5en.github.io",
   "jackbot": "cairo2k18.github.io/jackbot",
