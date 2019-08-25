@@ -206,7 +206,7 @@ var cnames_active = {
   "battle-city": "shinima.github.io/battle-city",
   "battlecry": "battlecry.pedrosm.com",
   "battlerite": "dragory.github.io/battlerite.js",
-  "baysonfox": "baysonfox.github.io"
+  "baysonfox": "baysonfox.github.io",
   "bbn": "jammer99.github.io/bbn",
   "bc": "mazko.github.io/bc.js",
   "bci": "pwstegman.github.io/bcijs",
