@@ -372,6 +372,7 @@ var cnames_active = {
   "coord": "itsacorn.github.io/jscoord",
   "copyer": "tsycode.github.io/copyer.js",
   "copywriting-correct": "rikakomoe.github.io/copywriting-correct",
+  "cordclient": "cordclient.github.io/stable",
   "cordova-multiplatform-template": "ckgrafico.github.io/Cordova-Multiplatform-Template", // noCF? (don´t add this in a new PR)
   "cork": "davej.github.io/CorkJS",
   "corki": "dvtate.github.io/corki",
