@@ -1519,6 +1519,7 @@ var cnames_active = {
   "samlify": "tngan.github.io/samlify",
   "samplyr": "arze1.github.io/samplyr-site",
   "sanctuary": "sanctuary-js.github.io/sanctuary-site",
+  "sanddance": "microsoft.github.io/SandDance",
   "sandeepkhandewale": "learner1024.github.io",
   "sandstone": "storehubnet.github.io/sandstone",
   "sanity-runner": "tophat.github.io/sanity-runner",
