@@ -1181,6 +1181,7 @@ var cnames_active = {
   "noo": "uyouthe.github.io/noo",
   "noobscroll": "arguiot.github.io/NoobScroll",
   "nordesti": "nordesti.github.io",
+  "nota": "baleeds.github.io/nota",
   "noted": "carter-slade.github.io/Noted-", // noCF? (don´t add this in a new PR)
   "notepad": "amitmerchant1990.github.io/notepad",
   "nothing": "cbtak.github.io/nothing",
