@@ -13,5 +13,6 @@
  */
  
  var ns_active = {
+  "awto": ["a.zeit-world.co.uk","b.zeit-world.org","c.zeit-world.net","d.zeit-world.com"],
   "shebang": ["dns1.p01.nsone.net", "dns2.p01.nsone.net", "dns3.p01.nsone.net", "dns4.p01.nsone.net"]
  }
