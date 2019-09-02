@@ -850,6 +850,7 @@ var cnames_active = {
   "jparticles": "jparticles.github.io/Documentation",
   "js-fixerr": "anujsinghwd.github.io/js-fixerr",
   "jscord": "thepoptartcrpr.github.io/jscord",
+  "jsgirlsco": "calypsobronte.github.io/jsgirlsco",
   "jsnippet": "JesseEisen.github.io/snippets", // noCF
   "json-schema-faker": "json-schema-faker.github.io/website-jsf",
   "jsonapi": "ethanresnick.github.io/json-api",
