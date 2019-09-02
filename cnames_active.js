@@ -1834,6 +1834,7 @@ var cnames_active = {
   "virtual-keyboard": "virtual-keyboard-javascript.github.io",
   "visualized-execution": "codaisseur.github.io/visualized-execution",
   "visualnovel": "selcher.github.io/visualnoveljs", // noCF? (don´t add this in a new PR)
+  "viveksharmaui" : "https://viveksharmaui.github.io/portfolio/",
   "vk-x": "vk-x.github.io",
   "vncz": "xvincentx.github.io/vncz",
   "voloshins": "voloshins.github.io", // noCF? (don´t add this in a new PR)
