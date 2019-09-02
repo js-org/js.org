@@ -1728,6 +1728,7 @@ var cnames_active = {
   "threads": "andywer.github.io/threads.js",
   "thundercats": "thundercatsjs.github.io/thundercats", // noCF? (don´t add this in a new PR)
   "tictactoe": "jeff-tian.github.io/tic-tac-toe-ai",
+  "tights": "tights.netlify.com",
   "timeout": "anshuman-verma.github.io/setTimeout",
   "timerizer": "callumacrae.github.io/timerizerJS", // noCF? (don´t add this in a new PR)
   "tina": "tinajs.github.io/tina",
