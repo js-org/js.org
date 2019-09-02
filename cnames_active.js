@@ -667,6 +667,7 @@ var cnames_active = {
   "girls": "girls-js.github.io",
   "girlscript": "girlscriptjaipur.github.io",
   "gitdown": "gc.github.io/gitdown",
+  "gitinit":"silly-shirley-8e44e3.netlify.com"
   "gitme": "gitme.netlify.com",
   "gitmoji": "jeff-tian.github.io/gitmoji",
   "gitstyle": "inKerk.github.io/git-style-guide",
