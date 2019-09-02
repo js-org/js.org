@@ -667,6 +667,7 @@ var cnames_active = {
   "girls": "girls-js.github.io",
   "girlscript": "girlscriptjaipur.github.io",
   "gitdown": "gc.github.io/gitdown",
+  "gitinit":"silly-shirley-8e44e3.netlify.com"
   "gitme": "gitme.netlify.com",
   "gitmoji": "jeff-tian.github.io/gitmoji",
   "gitstyle": "inKerk.github.io/git-style-guide",
@@ -885,7 +886,6 @@ var cnames_active = {
   "kim": "khareemnurulla.github.io/kim",
   "kiranremmarasu": "kiranremmarasu.github.io/kiranremmarasu",
   "kite": "kite-js.github.io/kite",
-  "kindavishal":"silly-shirley-8e44e3.netlify.com"
   "kiwidocs": "arguiot.github.io/KiwiDocs",
   "klasa": "dirigeants.github.io/klasa-website",
   "klasy-eris": "motiontheking.github.io/klasy-eris",
