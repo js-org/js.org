@@ -896,6 +896,7 @@ var cnames_active = {
   "ko": "ko25july.github.io/ko.js.org",
   "koa-rest-api-boilerplate": "posquit0.github.io/koa-rest-api-boilerplate",
   "kofiloop": "norech.github.io/KofiLoop",
+  "kokoro": "cool2645.github.io/kokoro",
   "kolly": "cringiest.github.io/kolly",
   "komada": "dirigeants.github.io/komada",
   "konsumer": "konsumer.github.io", // noCF? (don´t add this in a new PR)
