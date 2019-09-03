@@ -1724,7 +1724,7 @@ var cnames_active = {
   "texy": "egoist.github.io/texy",
   "thea": "idokutela.github.io/thea",
   "thegrid": "antoniandre.github.io/grid",
-  "thehorizon": "kavanmevada.github.io/the-horizon-blog"
+  "thehorizon": "kavanmevada.github.io/the-horizon-blog",
   "themoviedb": "chrisenytc.github.io/themoviedb", // noCF? (don´t add this in a new PR)
   "theorem": "arguiot.github.io/TheoremJS",
   "thi": "ngomjnhthj.github.io/thi",
