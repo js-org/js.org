@@ -1376,6 +1376,7 @@ var cnames_active = {
   "rasti": "8tentaculos.github.io/rasti",
   "rate-limiter-api": "abhisekp.github.io/rate-limiter-api",
   "rax": "alibaba.github.io/rax",
+  "rax0-6": "raxjs.github.io/site0-6",
   "rayo": "getrayo.github.io/rayo.js",
   "razod": "razod.github.io/razod",
   "rdf": "rdfjs.github.io", // noCF
