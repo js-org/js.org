@@ -525,6 +525,7 @@ var cnames_active = {
     ,"terminal": "gottox.github.io/terminal.js" //noCF? (don´t add this in a new PR)
     ,"textillate": "jschr.github.io/textillate" //noCF? (don´t add this in a new PR)
     ,"themoviedb": "chrisenytc.github.io/themoviedb" //noCF? (don´t add this in a new PR)
+    ,"thehorizon": "kavanmevada.github.io/the-horizon-blog" //noCF? (don´t add this in a new PR)
     ,"thundercats": "thundercatsjs.github.io/thundercats" //noCF? (don´t add this in a new PR)
     ,"timerizer": "callumacrae.github.io/timerizerJS" //noCF? (don´t add this in a new PR)
     ,"tint": "tintjs.github.io" //noCF? (don´t add this in a new PR)
