@@ -1425,7 +1425,7 @@ var cnames_active = {
   "recycle": "recyclejs.github.io/recycle",
   "redis": "noderedis.github.io/node_redis", // noCF? (don´t add this in a new PR)
   "redline": "abduvokhid.github.io/redline",
-  "redom": "redom.github.io/redom",
+  "redom": "redom.github.io/redom-docs",
   "reduce": "reducejs.github.io", // noCF? (don´t add this in a new PR)
   "redux": "redux-docs.netlify.com", // noCF
   "redux-actions": "hosting.gitbook.com", // noCF
