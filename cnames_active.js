@@ -180,7 +180,6 @@ var cnames_active = {
   "awesomehub": "awesomehub.netlify.com",
   "awk": "42ua.github.io/awk",
   "awoo": "awoojs.github.io/website",
-  "awto": "theabbie.github.io/awto", // noCF
   "axelgreavette": "axelgreavette.github.io",
   "azdanov": "azdanov.netlify.com", //noCF
   "aziz": "iaziz786.netlify.com",
