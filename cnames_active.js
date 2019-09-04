@@ -1789,7 +1789,6 @@ var cnames_active = {
   "ultcombo": "ultcombo.github.io",
   "umair": "mumairofficial.github.io",
   "umm": "umm233.github.io",
-  "url-pages": "url-pages.github.io",
   "underline": "brightskyz.github.io/underline",
   "uneditable": "iamcristye.github.io/Uneditable.js",
   "unexpected": "unexpectedjs.github.io", // noCF? (don´t add this in a new PR)
@@ -1804,6 +1803,7 @@ var cnames_active = {
   "upresent": "bobbybee.github.io/uPresent", // noCF? (don´t add this in a new PR)
   "uptime": "intelligo-systems.github.io/uptime.js",
   "urban": "snekjs.github.io/urban.js",
+  "url-pages": "url-pages.github.io",
   "use": "use-js.github.io/use",
   "usv": "usvformat.github.io",
   "utscrooms": "sunakujira1.github.io/UTSCRooms",
