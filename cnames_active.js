@@ -1957,6 +1957,7 @@ var cnames_active = {
   "zombie": "assaf.github.io/zombie", // noCF? (don´t add this in a new PR)
   "zonayed": "zonayedpca.github.io/js.zonayed.me",
   "zty": "zetaoyang.github.io",
+  "zyszys": "zyszys.github.io",
   "zyy": "zyyou.github.io/notes",
   /*
   * please don't add your subdomain records down here!
