@@ -1070,6 +1070,7 @@ var cnames_active = {
   "minigrid": "henriquea.github.io/minigrid", // noCF? (don´t add this in a new PR)
   "mininote": "htdt.github.io/mininote",
   "miny": "pablopunk.github.io/miny",
+  "mirrors": "jamesyangget.github.io/mirrors",
   "mis101bird": "mis101bird.github.io", // noCF? (don´t add this in a new PR)
   "miscord": "bjornskjald.github.io/miscord-website-redirect",
   "miteshtagadiya": "miteshtagadiya.github.io/miteshtagadiya",
