@@ -1752,6 +1752,7 @@ var cnames_active = {
   "tori": "boostcode.github.io/torijs",
   "torino": "torinojs.github.io", // noCF? (don´t add this in a new PR)
   "torlondev": "torlondev.github.io",
+  "torpedo": "divysrivastava.github.io/torpedo.js",
   "tp": "jottocraft.github.io/tp",
   "trace": "andreasmadsen.github.io/trace",
   "transposer": "francesco-dipi.github.io/transposer",
