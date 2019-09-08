@@ -965,6 +965,7 @@ var cnames_active = {
   "liuence": "lxyzai.github.io/liuence",
   "liveflow": "hasharray.github.io/liveflow.js",
   "livenotif": "siffreinsg.github.io/livenotif",
+  "lmajercik": "meiercheek.github.io",
   "lmk": "limengke123.github.io/newBlog",
   "localsync": "noderaider.github.io/localsync", // noCF? (don´t add this in a new PR)
   "logo": "js-org.github.io/logo",
