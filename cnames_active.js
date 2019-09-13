@@ -423,6 +423,7 @@ var cnames_active = {
   "dbar": "dbarjs.github.io",
   "dbo": "z3ta.github.io/dbo", // noCF? (don´t add this in a new PR)
   "deck-of-cards": "pakastin.github.io/deck-of-cards",
+  "declarativ": "fennifith.github.io/declarativ", // noCF
   "deepfractal": "munrocket.github.io/deep-fractal",
   "deepu": "deepu105.github.io",
   "defi": "finom.github.io/defi.js.org",
