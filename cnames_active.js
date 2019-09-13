@@ -843,8 +843,8 @@ var cnames_active = {
   "metools": "yimogit.github.io/metools-plugin",
   "meyda": "meyda.github.io",
   "mf": "awto.github.io/mfjs-compiler", // noCF? (don´t add this in a new PR)
-  "mhsupport": "thatonetqnk.github.io/MHSupport",
   "minehutsupport": "baibeebambi.github.io/minehutsupport",
+  "mhsupport": "thatonetqnk.github.io/MHSupport",
   "microfeedback": "microfeedback.github.io",
   "microlink": "microlinkhq.github.io/microlinkjs",
   "mics": "download.github.io/mics",
