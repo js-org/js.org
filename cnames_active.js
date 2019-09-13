@@ -500,6 +500,7 @@ var cnames_active = {
   "dualcyclone": "dualcyclone.github.io/postit-todo-react-redux",
   "dunedin": "dunedinjs.github.io",
   "dungeon": "youssefelshemi.github.io/dungeon.js",
+  "duniter": "duniterspec.github.io",
   "dvan": "dvan.netlify.com",
   "dynaflo": "trevorhanus.github.io/dynaflo",
   "dynamic-record": "na-west1.surge.sh",
