@@ -1540,6 +1540,7 @@ var cnames_active = {
   "santa": "codedrs.github.io/secret-santa",
   "sao": "egoist.github.io/sao",
   "sass": "medialize.github.io/playground.sass.js", // noCF? (don´t add this in a new PR)
+  "satont": "satont.github.io",
   "saulosantiago": "saulosilva.github.io", // noCF? (don´t add this in a new PR)
   "sawyer": "sawyerbx.github.io/personal",
   "sazerac": "sazeracjs.github.io/sazerac-site",
