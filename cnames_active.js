@@ -1390,7 +1390,6 @@ var cnames_active = {
   "rayo": "getrayo.github.io/rayo.js",
   "razod": "razod.github.io/razod",
   "rdf": "rdfjs.github.io", // noCF
-  "reply": "eton4446.github.io/Reply",
   "react-atomic-ui": "react-atomic.github.io/react-atomic-ui",
   "react-autosuggest": "moroshko.github.io/react-autosuggest", // noCF? (don´t add this in a new PR)
   "react-autowhatever": "moroshko.github.io/react-autowhatever", // noCF? (don´t add this in a new PR)
@@ -1478,6 +1477,7 @@ var cnames_active = {
   "repackage": "cchamberlain.github.io/repackage", // noCF? (don´t add this in a new PR)
   "repeater": "repeaterjs.github.io/repeater",
   "replace": "quales.github.io/replace.js",
+  "reply": "eton4446.github.io/Reply",
   "request": "request.gitbooks.io", // noCF? (don´t add this in a new PR)
   "reshape": "reshape.netlify.com",
   "reshift": "hasharray.github.io/reshift.js",
