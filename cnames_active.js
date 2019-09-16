@@ -1477,6 +1477,7 @@ var cnames_active = {
   "repackage": "cchamberlain.github.io/repackage", // noCF? (don´t add this in a new PR)
   "repeater": "repeaterjs.github.io/repeater",
   "replace": "quales.github.io/replace.js",
+  "reply": "eton4446.github.io/Reply",
   "request": "request.gitbooks.io", // noCF? (don´t add this in a new PR)
   "reshape": "reshape.netlify.com",
   "reshift": "hasharray.github.io/reshift.js",
