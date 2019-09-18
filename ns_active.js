@@ -13,6 +13,6 @@
  */
  
  var ns_active = {
-  "engine262": ["ns5.he.net", "ns4.he.net", "ns3.he.net", "ns2.he.net"],
+  "engine262": ["ns2.8b.io", "ns1.8b.io"],
   "shebang": ["dns1.p01.nsone.net", "dns2.p01.nsone.net", "dns3.p01.nsone.net", "dns4.p01.nsone.net"]
  }
