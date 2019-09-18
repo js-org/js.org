@@ -15,4 +15,5 @@
  var ns_active = {
   "engine262": ["ns5.he.net", "ns4.he.net", "ns3.he.net", "ns2.he.net"],
   "shebang": ["dns1.p01.nsone.net", "dns2.p01.nsone.net", "dns3.p01.nsone.net", "dns4.p01.nsone.net"]
+  "appshelf": ["coming soon - using cloudflare, so need to wait till content is here to be able to get NS servers. "]
  }
