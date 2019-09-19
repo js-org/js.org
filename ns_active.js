@@ -13,6 +13,7 @@
  */
  
  var ns_active = {
+  "appshelf": ["ns31.cloudns.net", "ns32.cloudns.net", "ns33.cloudns.net", "ns34.cloudns.net"],
   "engine262": ["ns5.he.net", "ns4.he.net", "ns3.he.net", "ns2.he.net"],
   "shebang": ["dns1.p01.nsone.net", "dns2.p01.nsone.net", "dns3.p01.nsone.net", "dns4.p01.nsone.net"]
  }
