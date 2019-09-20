@@ -593,6 +593,7 @@ var cnames_active = {
   "fem": "frani.github.io/fem",
   "feature-u": "kevinast.github.io/feature-u",
   "feeble": "feeblejs.github.io/feeble",
+  "feed": "alias.zeit.co",
   "feedback": "mubaidr.github.io/feedback.io",
   "fela": "rofrischmann.github.io/fela", // noCF? (don´t add this in a new PR)
   "festercluck": "festercluck.github.io", // noCF? (don´t add this in a new PR)
