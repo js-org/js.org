@@ -1056,6 +1056,7 @@ var cnames_active = {
   "metools": "yimogit.github.io/metools-plugin",
   "meyda": "meyda.github.io",
   "mf": "awto.github.io/mfjs-compiler", // noCF? (don´t add this in a new PR)
+  "minehutsupport": "baibeebambi.github.io/minehutsupport",
   "mhsupport": "thatonetqnk.github.io/MHSupport",
   "mhy": "hosting.gitbook.com",
   "mi": "stevenjoezhang.github.io",
