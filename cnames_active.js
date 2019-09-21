@@ -896,7 +896,7 @@ var cnames_active = {
   "klasa": "dirigeants.github.io/klasa-website",
   "klasy-eris": "motiontheking.github.io/klasy-eris",
   "klepto": "mwjaworski.github.io/klepto",
-  "klick": "klick.gitbook.io/klick",
+  "klick": "hosting.gitbook.com",
   "knacss-vue": "arnissolle.github.io/knacss-vue",
   "knc": "chaituknag.github.io",
   "knowyourbundle": "enapupe.github.io/know-your-bundle",
