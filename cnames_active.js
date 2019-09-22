@@ -333,6 +333,7 @@ var cnames_active = {
   "clark": "clarkdo.github.io/new-blog",
   "clarkdo": "clarkdo.github.io",
   "clause": "clausejs.github.io/clausejs",
+  "ClearlyElevated": "ClearlyElevated.github.io"
   "clevercord": "theanidox.github.io/Clevercord",
   "clockwork": "clockworkdev.github.io/ClockworkWebsite",
   "clusterize": "nexts.github.io/Clusterize.js",
