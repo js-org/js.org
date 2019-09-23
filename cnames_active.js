@@ -1786,6 +1786,7 @@ var cnames_active = {
   "ts-react-boilerplate": "lapanti.github.io/ts-react-boilerplate",
   "ts2jsdoc": "spatools.github.io/ts2jsdoc", // noCF? (don´t add this in a new PR)
   "tsdi": "knisterpeter.github.io/tsdi",
+  "tslib-cli": "hosting.gitbook.com",
   "ttag": "ttag-org.github.io/ttag",
   "ttgprotect": "ttgprotect.github.io",
   "tui-nuxt": "hosting.gitbook.com", // noCF
