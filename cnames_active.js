@@ -6,7 +6,6 @@
  * for the moment the following subdomains are active
  * file a pull request to add your own GitHub Page
  *
- *
  **** README
  * ***********
  *
@@ -1827,7 +1826,7 @@ var cnames_active = {
   "urban": "snekjs.github.io/urban.js",
   "url-pages": "url-pages.github.io",
   "use": "use-js.github.io/use",
-  "ushakov": "https://ushakov-igor.github.io/ushakov/"
+  "ushakov": "ushakov-igor.github.io/ushakov"
   "usv": "usvformat.github.io",
   "utscrooms": "sunakujira1.github.io/UTSCRooms",
   "uuid": "rumkin.github.io/uuid",
