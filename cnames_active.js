@@ -794,6 +794,7 @@ var cnames_active = {
   "injectify": "injectify.github.io/docs",
   "inko": "inko.netlify.com",
   "inline-style-prefixer": "rofrischmann.github.io/inline-style-prefixer",
+  "innova": "innova-fll.github.io",
   "inscriptum": "sumbad.github.io/inscriptum",
   "inset": "patlillis.github.io/inset.js",
   "instabousing": "jlbousing.github.io/instaBousing",
