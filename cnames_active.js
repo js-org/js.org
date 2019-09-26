@@ -721,6 +721,7 @@ var cnames_active = {
   "h": "makenowjust.github.io/h.js",
   "h7ml": "h7ml.github.io/web",
   "ha-store": "fed135.github.io/ha-store",
+  "hacktm": "hacktm.netlify.com",
   "hahuutin": "hahuutin.github.io",
   "halil": "hibrahimsafak.github.io", // noCF? (don´t add this in a new PR)
   "haloapi": "derflatulator.github.io/haloapi.js", // noCF? (don´t add this in a new PR)
