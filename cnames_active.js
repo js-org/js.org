@@ -683,6 +683,7 @@ var cnames_active = {
   "glize": "datamart.github.io/Glize",
   "glottologist": "arguiot.github.io/Glottologist",
   "godzm4tt3o": "godzm4tt3o.github.io",
+  "goji": "malash.github.io/goji.js.org",
   "gol": "goljs.github.io/GoL",
   "gondel": "namics.github.io/gondel",
   "gotanda": "gotandajs.github.io",
