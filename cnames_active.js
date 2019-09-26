@@ -279,6 +279,7 @@ var cnames_active = {
   "cac": "cac.netlify.com",
   "caffeine": "ccrraaiigg.github.io/caffeine",
   "cagatay": "cagataycali.github.io",
+  "cake-boss": "dannytatom.github.io/cake-boss",
   "calcy": "odevlord.github.io/Calcy", // noCF? (don´t add this in a new PR)
   "calendarios": "helpdev.github.io/Calendarios", // noCF? (don´t add this in a new PR)
   "candy": "candy02058912.github.io/portfolio",
