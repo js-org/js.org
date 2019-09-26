@@ -1969,6 +1969,7 @@ var cnames_active = {
   "yu": "yuxizhe.github.io/yu",
   "yuigahama": "project-yuigahama.github.io/docs",
   "yusril": "yusrilhs.github.io", // noCF
+  "yuye": "cyea.github.io",
   "yvm": "tophat.github.io/yvm",
   "zachmurphy": "zachify.github.io",
   "zaporizhzhia": "zaporizhzhiajs.github.io",
