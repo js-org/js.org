@@ -435,7 +435,7 @@ var cnames_active = {
   "delet": "ds-development.github.io/delet",
   "democracy": "invisible-college.github.io/democracy",
   "demoji": "chroventer.github.io/demoji",
-  "denisvieira": "fromdenisvieira.github.io", // noCF? (don´t add this in a new PR)
+  "denisvieira": "denisvieira05.github.io",
   "deox": "deox.netlify.com",
   "depo": "boltxyz.github.io/depo",
   "deputy": "ry4nolson.github.io/Deputy", // noCF? (don´t add this in a new PR)
