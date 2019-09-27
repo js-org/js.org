@@ -606,6 +606,7 @@ var cnames_active = {
   "finder": "applait.github.io/finderjs", // noCF? (don´t add this in a new PR)
   "fire-hydrant": "cchamberlain.github.io/fire-hydrant", // noCF? (don´t add this in a new PR)
   "firenze": "fahad19.github.io/firenze", // noCF? (don´t add this in a new PR)
+  "fireorm": "wovalle.github.io/fireorm",
   "five": "jackdcrawford.github.io/five",
   "flamecord": "flamexode.github.io/flamecord",
   "flameshot": "flameshotapp.github.io",
