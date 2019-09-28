@@ -1432,6 +1432,7 @@ var cnames_active = {
   "react-telegram": "appbak3r.github.io/react-telegram",
   "react-through": "hosting.gitbook.com",
   "react-toulouse": "moox.github.io/react-toulouse",
+  "react-tracked": "dai-shi.github.io/react-tracked",
   "reactabular": "bebraw.github.io/reactabular",
   "reactdesktop": "gabrielbull.github.io/react-desktop", // noCF? (don´t add this in a new PR)
   "reactif": "reactif.netlify.com",
