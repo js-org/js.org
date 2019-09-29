@@ -88,6 +88,7 @@ var cnames_restricted = [
     "event(s)",
     "exchange",
     "faq(s)",
+    "feed",
     "file(s)",
     "find",
     "foo",
