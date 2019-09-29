@@ -1702,6 +1702,7 @@ var cnames_active = {
   "styled-css-grid": "styled-css-grid.netlify.com",
   "styled-icons": "styled-icons.netlify.com",
   "stylis": "thysultan.github.io/stylis.js",
+  "subplayer": "zhw2590582.github.io/SubPlayer",
   "sudarshan": "sudarshanRaul.github.io",
   "sudoku": "andreynering.github.io/sudoku",
   "suka": "sukkaw.github.io",
