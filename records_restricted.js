@@ -11,7 +11,7 @@
  * 
  *      Some of these subdomains are reserved for JS.ORG itself (e.g.: mail.js.org, admin.js.org).
  *      Others are so generic that they should be used for community driven pages only (e.g.: blog.js.org, docs.js.org).
- *      If you are willing to use one of the restricted subdomains in a way the community can benfit and participate, you can always file an issue and start a discussion.
+ *      If you are willing to use one of the restricted subdomains in a way the community can benefit and participate, you can always file an issue and start a discussion.
  * 
  */
 
@@ -88,6 +88,7 @@ var cnames_restricted = [
     "event(s)",
     "exchange",
     "faq(s)",
+    "feed",
     "file(s)",
     "find",
     "foo",
