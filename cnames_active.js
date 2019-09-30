@@ -1549,7 +1549,7 @@ var cnames_active = {
   "salvattore": "rnmp.github.io/salvattore",
   "sam": "jdubray.github.io/sam", // noCF? (don´t add this in a new PR)
   "samlify": "tngan.github.io/samlify",
-  "samply": "https://yury-shevchenko.github.io/samply/",
+  "samply": "yury-shevchenko.github.io/samply",
   "samplyr": "arze1.github.io/samplyr-site",
   "sanctuary": "sanctuary-js.github.io/sanctuary-site",
   "sanddance": "microsoft.github.io/SandDance",
