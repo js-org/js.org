@@ -1984,6 +1984,7 @@ var cnames_active = {
   "zaporizhzhia": "zaporizhzhiajs.github.io",
   "zazu": "zazujs.github.io", // noCF? (don´t add this in a new PR)
   "zea-engine": "zeainc.github.io/zea-engine",
+  "zea-ux": "zeainc.github.io/zea-ux",
   "zeit": "urvinh.github.io",
   "zeroframe": "filips123.github.io/ZeroFrameJS",
   "zephyr": "zephyr-dh.github.io/zephyr",
