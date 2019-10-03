@@ -1357,6 +1357,7 @@ var cnames_active = {
   "producify": "jesobreira.github.io/producify",
   "producthunt-trending": "xiaomingplus.github.io/producthunt-trending",
   "profanity-finder": "gautamkrishnar.github.io/profanity-finder.js",
+  "profile": "treboryx.github.io/Profile",
   "project-ignite": "project-ignite.github.io",
   "projects-tracker": "iamdevlinph.github.io/projects-tracker",
   "promise": "gleeny.github.io/promise-redirect",
