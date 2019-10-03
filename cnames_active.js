@@ -1008,7 +1008,7 @@ var cnames_active = {
   "magnet": "magnetjs.github.io/Magnet", // noCF? (don´t add this in a new PR)
   "mahdyar": "mahdyar.github.io/mahdyar.js.org",
   "mahmoud": "mahmoud-sagharjoughi.github.io/mahmoud",
-  "mailgo": "mailgo.netlify.com",
+  "mailgo": "mailgo.netlify.com", // noCF
   "majestic": "moityjs.github.io/majestic",
   "maker": "microsoft.github.io/maker.js",
   "makes": "makesjs.github.io",
@@ -1016,6 +1016,7 @@ var cnames_active = {
   "manu": "botsdemanu.github.io/manu",
   "manual.bluelightos": "hosting.gitbook.com",
   "manytimepad": "dipanshkhandelwal.github.io/ManyTimePad",
+  "manzinello": "matteomanzinello.netlify.com", // noCF
   "mapa-cultura": "opensas.gitlab.io",
   "mappa": "cvalenzuela.github.io/Mappa",
   "marble": "jsguy.github.io/marble",
@@ -1037,6 +1038,7 @@ var cnames_active = {
   "materialish": "jamesplease.github.io/materialish",
   "materialize-bootbox": "iqbalfn.github.io/materialize-bootbox",
   "matrix-rref-solver": "arisweedler.github.io/matrix-rref-solver",
+  "matteo": "matteomanzinello.netlify.com", // noCF
   "matters2ipfs": "contributionls.github.io/matters2ipfs",
   "matthias-schuetz": "matthias-schuetz.github.io", // noCF? (don´t add this in a new PR)
   "maxnachlinger": "maxnachlinger.github.io", // noCF? (don´t add this in a new PR)
