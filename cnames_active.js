@@ -1673,6 +1673,7 @@ var cnames_active = {
   "squeak": "bertfreudenberg.github.io/SqueakJS",
   "squirrelly": "squirrellyjs.netlify.com", // noCF
   "sri": "jackub.github.io/subresource-integrity-fallback",
+  "staart": "staart.netlify.com",
   "stabs": "wnda.github.io/stabs",
   "stahlstadt": "dist1.storyblok.com",
   "stampit": "stampit-org.gitbook.io/docs",
@@ -1680,7 +1681,6 @@ var cnames_active = {
   "stapp": "tinkoffcreditsystems.github.io/stapp",
   "star": "starframework.github.io/STAR",
   "starratio": "starratio.github.io/star-ratio", // noCF
-  "staart": "staart.netlify.com",
   "start": "deepsweet.github.io/start",
   "starterbot": "starterbot.netlify.com",
   "state-machine-cat": "sverweij.github.io/state-machine-cat",
