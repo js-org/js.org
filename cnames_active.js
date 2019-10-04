@@ -1680,6 +1680,7 @@ var cnames_active = {
   "stapp": "tinkoffcreditsystems.github.io/stapp",
   "star": "starframework.github.io/STAR",
   "starratio": "starratio.github.io/star-ratio", // noCF
+  "staart": "staart.netlify.com",
   "start": "deepsweet.github.io/start",
   "starterbot": "starterbot.netlify.com",
   "state-machine-cat": "sverweij.github.io/state-machine-cat",
