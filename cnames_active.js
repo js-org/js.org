@@ -1674,6 +1674,7 @@ var cnames_active = {
   "squeak": "bertfreudenberg.github.io/SqueakJS",
   "squirrelly": "squirrellyjs.netlify.com", // noCF
   "sri": "jackub.github.io/subresource-integrity-fallback",
+  "staart": "staart.netlify.com",
   "stabs": "wnda.github.io/stabs",
   "stahlstadt": "dist1.storyblok.com",
   "stampit": "stampit-org.gitbook.io/docs",
