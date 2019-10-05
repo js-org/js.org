@@ -1572,7 +1572,7 @@ var cnames_active = {
   "scene": "daybrush.github.io/scenejs-page",
   "schema": "foxifyjs.github.io/schema",
   "scopes": "kelleyvanevert.github.io/scopes",
-  "scramble": "ignatiusmb.github.io/scramble.js",
+  "scramble": "ignatiusmb.github.io/scramble",
   "scrape-pages": "andykais.github.io/scrape-pages",
   "scratch": "scratch-js.github.io",
   "screentocodesandbox": "ckgrafico.github.io/ScreenshotToCodeSandbox",
