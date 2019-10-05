@@ -458,6 +458,7 @@ var cnames_active = {
   "discord": "discordjs.github.io/website",
   "discord4node": "mrsheldon.github.io/Discord4Node",
   "discordutil": "chroventer.github.io/discordutil",
+  "discord-sensei": "demonicious.github.io/discord-sensei",
   "discunit": "megacode18.github.io/discunit.js",
   "disode": "disode.github.io/disode",
   "display": "arguiot.github.io/DisplayJS",
