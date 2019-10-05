@@ -1987,6 +1987,7 @@ var cnames_active = {
   "zea-engine": "zeainc.github.io/zea-engine",
   "zea-ux": "zeainc.github.io/zea-ux",
   "zeit": "urvinh.github.io",
+  "zentor": "zentor.github.io",
   "zeroframe": "filips123.github.io/ZeroFrameJS",
   "zephyr": "zephyr-dh.github.io/zephyr",
   "zhaomenghuan": "zhaomenghuan.github.io",
