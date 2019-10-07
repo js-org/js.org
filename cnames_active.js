@@ -1630,6 +1630,7 @@ var cnames_active = {
   "sizle": "christoga.github.io/sizle", // noCF? (don´t add this in a new PR)
   "skeptical-coder": "rbpinheiro.github.io/skeptical-coder",
   "sketch": "keiww.github.io/sketch",
+  "skim": "muratg.github.io/skim",
   "slang": "ramadis.github.io/slang", // noCF? (don´t add this in a new PR)
   "slidemenu": "alexkratky.github.io/SlideMenu.js",
   "slideout": "mango.github.io/slideout",
