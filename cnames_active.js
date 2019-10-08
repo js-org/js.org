@@ -1006,6 +1006,7 @@ var cnames_active = {
   "lzbible": "edwinyosorahardjo.github.io/lzbible",
   "m8bot": "mapreiff.github.io/m8-bot-site",
   "ma124": "ma124.netlify.com",
+  "machinelearning": "marink.github.io/machinelearning",
   "macosnotif": "mattipv4.github.io/macOSNotifJS",
   "madankumar": "jmadankumar.github.io",
   "magnet": "magnetjs.github.io/Magnet", // noCF? (don´t add this in a new PR)
