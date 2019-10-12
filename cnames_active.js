@@ -1857,7 +1857,7 @@ var cnames_active = {
   "urban": "snekjs.github.io/urban.js",
   "url-pages": "url-pages.github.io",
   "use": "use-js.github.io/use",
-  "ushakov": "ushakov-igor.github.io/ushakov"
+  "ushakov": "ushakov-igor.github.io/ushakov",
   "usv": "usvformat.github.io",
   "utscrooms": "sunakujira1.github.io/UTSCRooms",
   "uuid": "rumkin.github.io/uuid",
