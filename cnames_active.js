@@ -1705,6 +1705,7 @@ var cnames_active = {
   "stephenmccall": "stephenmccall.github.io", // noCF? (don´t add this in a new PR)
   "steven": "stpeng.github.io",
   "sticky": "fawmi.github.io/sticky-pro",
+  "sticksy": "kovart.github.io/sticksy",
   "stino": "stinobe.github.io/Stino",
   "stockings": "kgroat.github.io/stockings",
   "stoneyallen": "stoneyallen.github.io",
@@ -2014,7 +2015,7 @@ var cnames_active = {
   "zombie": "assaf.github.io/zombie", // noCF? (don´t add this in a new PR)
   "zonayed": "zonayedpca.github.io/js.zonayed.me",
   "zty": "zetaoyang.github.io",
-  "zyy": "zyyou.github.io/notes",
+  "zyy": "zyyou.github.io/notes"
   /*
   * please don't add your subdomain records down here!
   * insert them in alphabetical order to help reduce merge conflicts.
