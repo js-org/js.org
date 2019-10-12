@@ -1945,6 +1945,7 @@ var cnames_active = {
   "wedgetail": "wedgetail.netlify.com",
   "weeb": "jsmiith.github.io/weeb",
   "weekly": "xdimh.github.io/weekly",
+  "wfplayer": "zhw2590582.github.io/WFPlayer",
   "wglt": "codyebberson.github.io/wglt",
   "whadido": "jokester.github.io/whadido",
   "whiteboard": "yhozen.github.io/whiteboard",
