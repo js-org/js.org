@@ -336,7 +336,7 @@ var cnames_active = {
   "clark": "clarkdo.github.io/new-blog",
   "clarkdo": "clarkdo.github.io",
   "clause": "clausejs.github.io/clausejs",
-  "clearlyelevated": "clearlyelevated.github.io"
+  "clearlyelevated": "clearlyelevated.github.io",
   "clevercord": "theanidox.github.io/Clevercord",
   "clockwork": "clockworkdev.github.io/ClockworkWebsite",
   "clusterize": "nexts.github.io/Clusterize.js",
@@ -1705,6 +1705,7 @@ var cnames_active = {
   "stephenmccall": "stephenmccall.github.io", // noCF? (don´t add this in a new PR)
   "steven": "stpeng.github.io",
   "sticky": "fawmi.github.io/sticky-pro",
+  "sticksy": "kovart.github.io/sticksy",
   "stino": "stinobe.github.io/Stino",
   "stockings": "kgroat.github.io/stockings",
   "stoneyallen": "stoneyallen.github.io",
@@ -1857,7 +1858,7 @@ var cnames_active = {
   "urban": "snekjs.github.io/urban.js",
   "url-pages": "url-pages.github.io",
   "use": "use-js.github.io/use",
-  "ushakov": "ushakov-igor.github.io/ushakov"
+  "ushakov": "ushakov-igor.github.io/ushakov",
   "usv": "usvformat.github.io",
   "utscrooms": "sunakujira1.github.io/UTSCRooms",
   "uuid": "rumkin.github.io/uuid",
