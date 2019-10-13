@@ -1859,6 +1859,7 @@ var cnames_active = {
   "url-pages": "url-pages.github.io",
   "use": "use-js.github.io/use",
   "ushakov": "ushakov-igor.github.io/ushakov",
+  "ushio": "ushio.netlify.com",
   "usv": "usvformat.github.io",
   "utscrooms": "sunakujira1.github.io/UTSCRooms",
   "uuid": "rumkin.github.io/uuid",
