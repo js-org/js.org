@@ -1,0 +1,343 @@
+<html>
+<head>
+<title>
+Think Digital - New Media Web Design Training SEO Liverpool Manchester London
+</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link href="https://fonts.googleapis.com/css?family=Share+Tech" rel="stylesheet">
+ <div id="particles-js"></div>  <script src="http://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script> <!-- stats.js lib --> 
+<script>
+particlesJS("particles-js", {"particles":{"number":{"value":80,"density":{"enable":true,"value_area":800}},"color":{"value":"#ffffff"},"shape":{"type":"circle","stroke":{"width":0,"color":"#000000"},"polygon":{"nb_sides":5},"image":{"src":"img/github.svg","width":100,"height":100}},"opacity":{"value":0.5,"random":false,"anim":{"enable":false,"speed":1,"opacity_min":0.1,"sync":false}},"size":{"value":3,"random":true,"anim":{"enable":false,"speed":40,"size_min":0.1,"sync":false}},"line_linked":{"enable":true,"distance":150,"color":"#ffffff","opacity":0.4,"width":1},"move":{"enable":true,"speed":6,"direction":"none","random":false,"straight":false,"out_mode":"out","bounce":false,"attract":{"enable":false,"rotateX":600,"rotateY":1200}}},"interactivity":{"detect_on":"canvas","events":{"onhover":{"enable":true,"mode":"repulse"},"onclick":{"enable":true,"mode":"push"},"resize":true},"modes":{"grab":{"distance":400,"line_linked":{"opacity":1}},"bubble":{"distance":400,"size":40,"duration":2,"opacity":8,"speed":3},"repulse":{"distance":200,"duration":0.4},"push":{"particles_nb":4},"remove":{"particles_nb":2}}},"retina_detect":true});var count_particles, stats, update; stats = new Stats; stats.setMode(0); stats.domElement.style.position = 'absolute'; stats.domElement.style.left = '0px'; stats.domElement.style.top = '0px'; document.body.appendChild(stats.domElement); count_particles = document.querySelector('.js-count-particles'); update = function() { stats.begin(); stats.end(); if (window.pJSDom[0].pJS.particles && window.pJSDom[0].pJS.particles.array) { count_particles.innerText = window.pJSDom[0].pJS.particles.array.length; } requestAnimationFrame(update); }; requestAnimationFrame(update);;
+</script>
+<style>
+/* ---- reset ---- */ body{  } canvas{ display: block; vertical-align: bottom; } /* ---- particles.js container ---- */ #particles-js{ position:absolute; width: 100%; height: 100%;  background-image: url(""); background-repeat: no-repeat; background-size: 80% cover; background-position: 50% 50%; } 
+</style>
+<style>
+html, body {
+padding:0;
+margin:0;
+  
+    background-color: rgb(255,0,22); /* For browsers that do not support gradients */
+    background-image: url('img/cluster.png');
+    background-repeat: no-repeat;
+    background-size: 100% 40%;
+/*linear-gradient(to right, #4B0082 , #FF7F50); *//* Standard syntax (must be last) */
+	font-family: 'Share Tech', sans-serif;
+
+}
+.logo{
+  height:auto;
+  width:auto;
+  margin:0 auto;
+  z-index: 3;
+ 
+}
+
+.home{
+   display: inline-block;
+    cursor: pointer;
+	float:left;
+	margin:1em;
+	font-size:2em;
+	text-decoration:none;
+	font-weight:bold;
+}
+
+.container {
+    display: inline-block;
+    cursor: pointer;
+	right: 5px;
+	margin:1em;
+	position:fixed;
+}
+
+.bar1, .bar2, .bar3 {
+    width: 35px;
+    height: 5px;
+    background-color: #FFF;
+    margin: 6px 0;
+    transition: 0.4s;
+}
+
+.change .bar1 {
+    -webkit-transform: rotate(-45deg) translate(-9px, 6px);
+    transform: rotate(-45deg) translate(-9px, 6px);
+}
+
+.change .bar2 {opacity: 0;}
+
+.change .bar3 {
+    -webkit-transform: rotate(45deg) translate(-8px, -8px);
+    transform: rotate(45deg) translate(-8px, -8px);
+}
+a{
+text-decoration:none;
+color:#FFF;
+cursor:pointer;
+}
+.topbase{
+font-size:1.5em;
+margin:1.5em;
+float:left;
+}
+.sidenav {
+    height: 100%;
+    width: 0;
+    position: fixed;
+    background-color:rgba(255,0,34,0.7);
+    top: 70px;
+    right: 0;
+    color:#000;
+    overflow-x: hidden;
+    transition: 0.5s;
+    padding-top: 60px;
+}
+
+.sidenav a {
+    padding: 8px 8px 8px 32px;
+    text-decoration: none;
+    font-size: 1.5em;
+    color: #FFF;
+    display: block;
+    transition: 0.3s;
+	    color:#000;
+}
+
+.sidenav a:hover {
+    color: #FFF;
+    background-color: red;
+}
+
+.sidenav .closebtn {
+    position: absolute;
+	padding: 8px 8px 8px 32px;
+    top:0;
+	display: block;
+	right:5px;
+    
+    
+    
+	
+}
+.maincont {
+	background-color:rgba(255,127,80,0.5);
+	padding: 25px;
+	margin: 25px;
+        font-size:1.5em;
+
+}
+.clickbox {
+	border-style: solid;
+  	border-width: 5px;
+	border-color: #FFFFFF;
+	color: FFFFFF;
+	text-align:center;
+	display: table-cell;
+	padding: 42px;
+	margin: 42px;
+	width: 30%;
+
+}
+
+
+
+#video{
+    width:100%;
+    position:absolute;
+    top:0;
+    left:0;
+   
+    /*background: linear-gradient(to right, #4B0082 , #FF7F50);*/
+}
+#main {
+    transition: margin-left .5s;
+    padding: 16px;
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
+</style>
+<script>
+function myFunction(x) {
+    x.classList.toggle("change");
+    
+}
+function openNav() {
+    document.getElementById("xbtn").setAttribute("onclick", "myFunction(this);closeNav();");
+    document.getElementById("mySidenav").style.width = "17em";
+    document.getElementById("main").style.marginRight = "17em";
+    document.body.style.backgroundColor = "rgba(255,255,255,0)";
+
+}
+
+function closeNav() {
+	document.getElementById("xbtn").setAttribute("onclick", "myFunction(this);openNav();");
+    	document.getElementById("mySidenav").style.width = "0";
+    	document.getElementById("main").style.marginRight= "0";
+    	document.body.style.backgroundColor = "white";
+    
+}
+</script>
+</head>
+<body>
+<script src="https://apps.elfsight.com/p/platform.js" defer></script>
+<div class="elfsight-app-012738ae-42e1-44da-b224-94d781e53c7d"></div>
+
+<div>
+  <div>
+   <div style="position:fixed;top:10px;left:10px;color:#FFFFFF;">
+  <table><tr><td>
+<img src="img/mobile.png" style="height:80px;width:50px;">
+  </div></td><td>
+  <div style="dispaly:table-column;">
+    <div style="dispaly:table-cell;">
+CONTACTS: 
+    </div>
+  <div style="dispaly:table-cell;background-color:rgb(221,160,221,0.5);padding:5px;">
+<a href="tel:07393454253" style="color:#FFFFFF;">0739 34 54 253</a>
+  </div>
+  <div style="dispaly:table-cell;background-color:rgb(221,160,201,0.5);padding:5px;">
+<a href="mailto:info@thinkdigital.org" style="color:#FFFFFF;">info@thinkdigital.org</a>
+  </div>
+  </div>
+</td></tr>
+</table>
+  </div>
+
+<div id="xbtn" class="container" onclick="myFunction(this);openNav();">
+  <div class="bar1"></div>
+  <div class="bar2"></div>
+  <div class="bar3"></div>
+</div>
+
+
+<div id="mySidenav" class="sidenav">
+  <!--<a href="javascript:void(0)" class="closebtn" onclick="closeNav();" title="Close Menu">X</a>-->
+  <a href="index.html" title="Home">HOME</a>
+  <a href="#web-dev" title="WEB DEV">Web Dev</a>
+  <a href="#seo-ppc" title="SEO / PPC">SEO/ PPC</a>
+  <a href="#PORTFOLIO" title="portfolio">Portfolio</a>
+  <a href="case-studies.html" title="CASE studies">Case Studies</a>
+  <a href="#seminars-and-training" title="SEMINARS">Seminars</a>
+<a href="#training-your-staff" title="Training">Learn to Code</a>
+<a href="#training-your-staff" title="Training">UpSkill your People</a>
+  <a href="#contact" title="contact web deisgners near me">Contacts</a>
+  <a href="terms.html" title="terms and condisions">T&Cs</a>
+  <a href="resources.html" title="web resources">Resources</a>
+</div>
+</div>
+
+
+<!-- cookie acceptANCE ICON -->
+<script>
+function disappear(){
+document.getElementById("cookiething").style.visibility = "hidden";
+}
+</script>
+<div class="logo">
+<img src="img/TDh1.png" style="left:200px;">
+</div>
+<div id="cookiething" style="position:fixed;bottom:50px;left:30px;background-color:white;padding:15px;" onclick="disappear();">
+This webiste DOESN'T use Cookies, <br>Ever seen that before?<br>click here to accept.
+</div>
+<!-- end -->
+<br></br>
+<div id="content" class="maincont">
+Think Digital operates across disciplines including Web Development, Search
+Engine Optimisation, Social Media Marketing and Training.<br></br>
+Think Digital draws on over 11 year industry experience to specilise in 
+large scale web development. These developments lend themselves best to projects
+where SEO is a priority.<br></br>
+Think Digital offers a range of training services. <br></br>
+Drawing on faculty level education HE level,
+ Think Digital offers seminar style mentoring sessions including learning WordPress in 24 hours, 
+learn Front End Fundamentals in less than a week, to more complex tutorial assistance.
+<br></br>
+Mr. Owens is the Prinicpal Consultant and Developer at Think.
+He has a background as an author, Webpack 4 Quick Start Guide for Packt Publishing.
+He has over 11 years industry experience in Web Design adn Development.
+Including Internet ENtrepeneurship and Operation Digital Bsuinesses.
+He has worked as a Contract Specialist FullStack adn Javascript Developer.
+Has a strng Graphic and Interactive Motion GRaphical background for coportate leaders
+like Trinity Mirror SPort Medai and Nike Tiempo.
+He has served as a University level Lecturer at a private Instituauion, SAE offering
+BA hons and BSc Hons course through Middlesx University London.
+Has worked as an IT Manger and HEad of Digital and holds a Masters of Science in
+Managment and Digital Business from Liverpool John Moore's University, a BA hons in
+Digital Arts and an FdA in Multimedia. 
+<br></br>
+<a href="#" style="display:table-cell;" class="clickbox">
+<div class="clickbox">
+WEB DEV
+</div>
+</a>
+<a href="#" style="display:table-cell;"  class="clickbox">
+<div class="clickbox">
+SEO / SOCIAL
+</div>
+</a>
+<a href="#" style="display:table-cell;" class="clickbox">
+<div class="clickbox">
+TRAINING
+</div>
+</a>
+<h1>Portfolio</h1>
+Portfolio goes here...
+<h1>SEO</h1>
+Search Engine Optimisation takes many forms and is often treated as an after thought. 
+It is better to plan you SEO requirements from tehbegining as search posion will play a part in
+any development, therefore heuristics and stadards are important to adhear to.
+We can offer a complimentary SEO review with any inquiry, please contact us to hear more.
+<h1>Social Media</h1>
+Social Media is a lot more straight forard but can get competive, especialilly if you wnat to elverage real performace. There are two sorts, organic and premium. Premium permits targetted adds, organic will enhance your premium results dramtically and need to be organised first. 
+Twitter , Facebook and Instagram, Youtube and more. All these platform trade off each otehr and depending on the competeition and style of your business and industry, the approach may differ.
+<h1>Web Dev</h1>
+Social Media is a lot more straight forard but can get competive, especialilly if you wnat to elverage real performace. There are two sorts, organic and premium. Premium permits targetted adds, organic will enhance your premium results dramtically and need to be organised first. 
+Twitter , Facebook and Instagram, Youtube and more. All these platform trade off each otehr and depending on the competeition and style of your business and industry, the approach may differ.
+<h1>Learn to Code</h1>
+Social Media is a lot more straight forard but can get competive, especialilly if you wnat to elverage real performace. There are two sorts, organic and premium. Premium permits targetted adds, organic will enhance your premium results dramtically and need to be organised first. 
+Twitter , Facebook and Instagram, Youtube and more. All these platform trade off each otehr and depending on the competeition and style of your business and industry, the approach may differ.
+<h1>Seminars</h1>
+Social Media is a lot more straight forard but can get competive, especialilly if you wnat to elverage real performace. There are two sorts, organic and premium. Premium permits targetted adds, organic will enhance your premium results dramtically and need to be organised first. 
+Twitter , Facebook and Instagram, Youtube and more. All these platform trade off each otehr and depending on the competeition and style of your business and industry, the approach may differ.
+<h1>Case Studies</h1>
+Social Media is a lot more straight forard but can get competive, especialilly if you wnat to elverage real performace. There are two sorts, organic and premium. Premium permits targetted adds, organic will enhance your premium results dramtically and need to be organised first. 
+Twitter , Facebook and Instagram, Youtube and more. All these platform trade off each otehr and depending on the competeition and style of your business and industry, the approach may differ.
+<h1>Upskill Your People</h1>
+Social Media is a lot more straight forard but can get competive, especialilly if you wnat to elverage real performace. There are two sorts, organic and premium. Premium permits targetted adds, organic will enhance your premium results dramtically and need to be organised first. 
+Twitter , Facebook and Instagram, Youtube and more. All these platform trade off each otehr and depending on the competeition and style of your business and industry, the approach may differ.
+<h1>Automation</h1>
+Outsource your Projects to use for automatic running of tedious work such as browser compatibility
+optimisation, mass image convertion to scalable graphics and beutifying code.
+We do this with Webpack Compilers who our experts have authored books about and can even 
+upgrade and migrate your software to different frameworks in an autmatic way in a mtter of hours
+ <br></br>
+ Contact us for a free quotatation and initial consultancy.
+<br></br>
+We can also consult on how other software can autmate your processes such as HR and Management errands.
+ We offer consultancy on how AI can do this for you and even optimise your social media influence.
+ <br></br>
+ Contact us for a free quotatation and initial consultancy.
+<h1>Contacts</h1>
+The Fabic District
+Liverpool 
+United Kingdom
+<h1>T&Cs</h1>
+Social Media is a lot more straight forard but can get competive, especialilly if you wnat to elverage real performace. There are two sorts, organic and premium. Premium permits targetted adds, organic will enhance your premium results dramtically and need to be organised first. 
+Twitter , Facebook and Instagram, Youtube and more. All these platform trade off each otehr and depending on the competeition and style of your business and industry, the approach may differ.
+<h1>Resources</h1>
+Social Media is a lot more straight forard but can get competive, especialilly if you wnat to elverage real performace. There are two sorts, organic and premium. Premium permits targetted adds, organic will enhance your premium results dramtically and need to be organised first. 
+Twitter , Facebook and Instagram, Youtube and more. All these platform trade off each otehr and depending on the competeition and style of your business and industry, the approach may differ.
+</div>
+
+<footer style="background-color: #323030; margin:0;padding:50px;color:#FFFFFF;width:100%;">
+HOME
+CONTACT
+| THINK DIGITAL.org
+</footer>
+</div>
+
+</body>
+</html>
