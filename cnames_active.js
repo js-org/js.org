@@ -2016,6 +2016,7 @@ var cnames_active = {
   "zoe": "zoe-js.netlify.com",
   "zombie": "assaf.github.io/zombie", // noCF? (don´t add this in a new PR)
   "zonayed": "zonayedpca.github.io/js.zonayed.me",
+  "zplugins": "zlanguage.github.io/plugin-docs"
   "zty": "zetaoyang.github.io",
   "zyy": "zyyou.github.io/notes"
   /*
