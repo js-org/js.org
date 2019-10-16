@@ -407,6 +407,7 @@ var cnames_active = {
   "cyclow": "pmros.github.io/cyclow", // noCF
   "cyliim": "cyliim.github.io",
   "cyris": "iCyris.github.io",
+  "dvd": "cdaringe.github.io/dvd-corner-bounce",
   "d4": "joelburget.github.io/d4",
   "dahlia": "dahliajs.github.io",
   "daily.tmr": "ttttmr.github.io/daily", // noCF
