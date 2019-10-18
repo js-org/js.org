@@ -872,6 +872,7 @@ var cnames_active = {
   "js-fixerr": "anujsinghwd.github.io/js-fixerr",
   "jscord": "thepoptartcrpr.github.io/jscord",
   "jsnippet": "JesseEisen.github.io/snippets", // noCF
+  "jsoboro": "jsoboro.github.io",
   "json-schema-faker": "json-schema-faker.github.io/website-jsf",
   "jsonapi": "ethanresnick.github.io/json-api",
   "jsonql": "joel-chu.github.io/jsonql-org",
