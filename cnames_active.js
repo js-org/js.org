@@ -670,6 +670,7 @@ var cnames_active = {
   "genpasswd": "exos.github.io/genpasswd", // noCF? (don´t add this in a new PR)
   "george": "georgeyue.github.io/george",
   "german": "dipanshkhandelwal.github.io/Learning-German",
+  "germanov": "germanov-dev.github.io/germanov",
   "get": "hxco.github.io/Get",
   "getdot": "enderandfiredev.github.io/getdot",
   "getlink": "ilovecode1.github.io/linkjs", // noCF? (don´t add this in a new PR)
