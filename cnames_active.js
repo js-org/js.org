@@ -1499,7 +1499,7 @@ var cnames_active = {
   "refujs": "refujs.github.io", // noCF? (don´t add this in a new PR)
   "regexly": "neeksandhu.github.io/regexly",
   "reghack": "hacker719.github.io/RegHack",
-  "regraph": "izhaki.github.io/regraph",  
+  "regraph": "izhaki.github.io/regraph",
   "rekit": "supnate.github.io/rekit", // noCF
   "relate": "jakelazaroff.github.io/relate", // noCF? (don´t add this in a new PR)
   "relaunch": "pd4d10.github.io/relaunch",
