@@ -1610,6 +1610,7 @@ var cnames_active = {
   "service-mocker": "service-mocker.github.io/service-mocker",
   "serviceberry": "bob-gray.github.io/serviceberry",
   "shd": "pro-devel.github.io",
+  "share": "jeff-tian.github.io/weshare",
   "sheet": "sheetjs.github.io/sheet.js.org",
   "shekhar": "shekharreddy4.github.io/Shekhar",
   "shermix": "shermix.github.io",
