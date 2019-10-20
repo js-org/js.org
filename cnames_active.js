@@ -661,7 +661,7 @@ var cnames_active = {
   "fyi": "tobihrbr.github.io/fyi",
   "g": "nodebox.github.io/g.js",
   "gal": "galmail.github.io", // noCF? (don´t add this in a new PR)
-  "gamedevconal": "fromdenisvieira.github.io/gamedevcontestal", // noCF? (don´t add this in a new PR)
+  "gamedevcontestal": "fromdenisvieira.github.io/gamedevcontestal", // noCF? (don´t add this in a new PR)
   "gametracker": "officialpiyush.github.io/gametracker.js",
   "gamingnet": "gamingmineblox.github.io/GamingNet",
   "gazosekai": "starkblaze01.github.io/Gazo_Sekai",
@@ -1755,7 +1755,7 @@ var cnames_active = {
   "syr": "dmikey.github.io/syr",
   "tagster": "goschevski.github.io/tagster", // noCF? (don´t add this in a new PR)
   "taha": "orcxzjeeeee.github.io/taha",
-  "taiga": "taigadiscord.github.io"
+  "taiga": "taigadiscord.github.io",
   "talk": "zonayedpca.github.io/talk.js",
   "talker": "secondstreet.github.io/talker.js", // noCF? (don´t add this in a new PR)
   "talz": "geektalz.github.io",
