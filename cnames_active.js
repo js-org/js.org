@@ -597,6 +597,7 @@ var cnames_active = {
   "faux": "fauxOS.github.io",
   "fcbosque": "cronopio.github.io/fcbosque", // noCF? (don´t add this in a new PR)
   "fe": "xcss.github.io/FE",
+  "felipe": "fealvesteixeira.github.io",
   "fem": "frani.github.io/fem",
   "feature-u": "kevinast.github.io/feature-u",
   "feeble": "feeblejs.github.io/feeble",
