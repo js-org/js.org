@@ -793,6 +793,7 @@ var cnames_active = {
   "illuxi": "razod.github.io/illuxi",
   "imask": "unmanner.github.io/imaskjs",
   "imagecapture": "googlechrome.github.io/imagecapture-polyfill",
+  "imbue": "ghosts.github.io/Imbue",
   "imcvampire": "imcvampire.github.io",
   "imeme": "svenmeister.github.io/imeme.js.org",
   "imgops": "dogancelik.github.io/imgops-multi", // noCF
