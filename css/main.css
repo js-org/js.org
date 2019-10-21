@@ -1,0 +1,32 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+.head {
+  background-image: url(../img/galaxy.jpg);
+  background-position: center center;
+  background-size: cover;
+  color: white;
+}
+
+.navbar {
+  margin-bottom: 0;
+  border-radius: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
