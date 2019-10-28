@@ -459,6 +459,7 @@ var cnames_active = {
   "dio": "thysultan.github.io/dio.js",
   "discord": "discordjs.github.io/website",
   "discord4node": "mrsheldon.github.io/Discord4Node",
+  "discordlib": "hosting.gitbook.com",
   "discordutil": "chroventer.github.io/discordutil",
   "discordutility": "chaosphoe.github.io/discordutility",
   "discord-sensei": "demonicious.github.io/discord-sensei",
