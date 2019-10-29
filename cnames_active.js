@@ -2007,6 +2007,7 @@ var cnames_active = {
   "yigit": "yigitusta.github.io",
   "yizao": "ssttii.github.io",
   "ymlair": "ymlair.github.io/TimestampHumanDemo",
+  "yolog": "jitesoft.github.io/yolog",
   "youngjuning": "youngjuning.github.io",
   "youtim": "mortonfox.github.io/YouTim", // noCF? (don´t add this in a new PR)
   "youtube-box": "lucasmonteverde.github.io/youtube-box", // noCF? (don´t add this in a new PR)
