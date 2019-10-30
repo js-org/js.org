@@ -102,7 +102,7 @@ var cnames_active = {
     , "juno-106": "stevengoldberg.github.io/juno-106"
     , "jvandyke": "jvandyke.github.io"
     , "kingdom": "clayendisk.github.io/kingdom.js"
-    , "karl": "karlcoelho.github.io/portfolio"
+    , "karl": "focused-bassi-cc0eff.netlify.com"
     , "labelauty": "fntneves.github.io/jquery-labelauty"
     , "laubstein": "laubstein.github.io"
     , "leandro": "leandrowd.github.io"
