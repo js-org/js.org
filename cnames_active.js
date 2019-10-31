@@ -711,7 +711,7 @@ var cnames_active = {
   "greylock": "datamart.github.io/Greylock",
   "gridiron": "noderaider.github.io/gridiron",
   "gridsplit": "assetinfo.github.io", // noCF? (don´t add this in a new PR)
-  "grub": "grubburg.github.io"
+  "grub": "grubburg.github.io",
   "gruft": "nikola.github.io/gruft", // noCF? (don´t add this in a new PR)
   "grumpy": "aidenybai.github.io/grumpy",
   "gtfs": "gtfs-js.github.io/gtfs.js.org",
