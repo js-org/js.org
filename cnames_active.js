@@ -1606,6 +1606,7 @@ var cnames_active = {
   "scratch": "scratch-js.github.io",
   "screentocodesandbox": "ckgrafico.github.io/ScreenshotToCodeSandbox",
   "scriptex": "scriptex.github.io",
+  "sdh": "sdh.netlify.com",
   "seatbelt": "seatbeltjs.github.io/seatbelt",
   "seatchart": "omarmahili.github.io/seatchart.js",
   "secsb": "secsb.github.io",
