@@ -1849,6 +1849,7 @@ var cnames_active = {
   "tslib-cli": "hosting.gitbook.com",
   "ttag": "ttag-org.github.io/ttag",
   "ttgprotect": "ttgprotect.github.io",
+  "ttt": "lukechu10.github.io/TicTacToe-Minimax",
   "tui-nuxt": "hosting.gitbook.com", // noCF
   "tuplerone": "slikts.github.io/tuplerone",
   "turbo": "turbo.github.io",
