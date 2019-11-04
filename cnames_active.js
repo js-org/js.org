@@ -885,6 +885,7 @@ var cnames_active = {
   "json-schema-faker": "json-schema-faker.github.io/website-jsf",
   "jsonapi": "ethanresnick.github.io/json-api",
   "jsonql": "joel-chu.github.io/jsonql-org",
+  "jsonstat": "badosa.github.io/JSON-stat",
   "jsonui": "yourtion.github.io/vue-json-ui-editor",
   "jsonuri": "aligay.github.io/jsonuri",
   "jsxcad": "jsxcad.github.io",
@@ -1920,6 +1921,7 @@ var cnames_active = {
   "vinimdocarmo": "vinimdocarmo.github.com", // noCF? (don´t add this in a new PR)
   "viperhtml": "viperhtml.github.io",
   "virtual-keyboard": "virtual-keyboard-javascript.github.io",
+  "visual": "idescat.github.io/visual",
   "visualized-execution": "codaisseur.github.io/visualized-execution",
   "visualnovel": "selcher.github.io/visualnoveljs", // noCF? (don´t add this in a new PR)
   "viveksharmaui": "viveksharmaui.github.io/portfolio",
