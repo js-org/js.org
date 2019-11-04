@@ -2049,7 +2049,7 @@ var cnames_active = {
   "zplugins": "zlanguage.github.io/plugin-docs",
   "zty": "zetaoyang.github.io",
   "zyy": "zyyou.github.io/notes",
-  "xyz": "xyzrepo.github.io/xyz"
+  "xyz": "xyzrepo.github.io/XYZ"
   /*
   * please don't add your subdomain records down here!
   * insert them in alphabetical order to help reduce merge conflicts.
