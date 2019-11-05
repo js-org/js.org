@@ -1084,6 +1084,7 @@ var cnames_active = {
   "mercury": "henryqw.github.io/mercury",
   "merkletree": "miguelmota.github.io/merkletreejs",
   "mern": "IamMohaiminul.GitHub.io/MERNjs",
+  "mert": "mert574.github.io",
   "mesh": "crcn.github.io/mesh.js.org", // noCF? (don´t add this in a new PR)
   "meshesha": "meshesha.github.io",
   "metadata": "oknosoft.github.io/metadata.js",
