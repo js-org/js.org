@@ -1923,6 +1923,7 @@ var cnames_active = {
   "viperhtml": "viperhtml.github.io",
   "virtual-keyboard": "virtual-keyboard-javascript.github.io",
   "visual": "idescat.github.io/visual",
+  "visualize-it": "kevinast.github.io/visualize-it",
   "visualized-execution": "codaisseur.github.io/visualized-execution",
   "visualnovel": "selcher.github.io/visualnoveljs", // noCF? (don´t add this in a new PR)
   "viveksharmaui": "viveksharmaui.github.io/portfolio",
