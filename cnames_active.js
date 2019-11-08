@@ -1399,6 +1399,7 @@ var cnames_active = {
   "protype": "arguiot.github.io/ProType",
   "prylaris": "prylaris.github.io",
   "ps": "spindlyskit.github.io/ps.js",
+  "ptrdo": "ptrdo.github.io",
   "pubg": "ickerio.github.io/pubg.js",
   "published": "fiverr.github.io/published",
   "pulse": "alias.zeit.co", //noCF
