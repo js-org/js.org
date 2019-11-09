@@ -1975,6 +1975,7 @@ var cnames_active = {
   "wdd": "wangduanduan.github.io",
   "wear": "cringiest.github.io/wear",
   "weaver": "maxkfranz.github.io/weaver", // noCF? (don´t add this in a new PR)
+  "web230": "paylesworth.github.io/web230",
   "webassembly": "xtuc.github.io/webassemblyjs",
   "webmetry": "comongroup.github.io/webmetry",
   "webminer": "web-miner.github.io",
