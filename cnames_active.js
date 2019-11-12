@@ -1511,7 +1511,7 @@ var cnames_active = {
   "redux-saga-in-chinese": "superRaytin.github.io/redux-saga-in-chinese",
   "redux-starter-kit": "redux-starter-kit-docs.netlify.com",
   "redux-tiles": "bloomca.github.io/redux-tiles",
-  "redux-tookit": "redux-starter-kit-docs.netlify.com",
+  "redux-toolkit": "redux-starter-kit-docs.netlify.com",
   "redux-undo": "omnidan.github.io/redux-undo", // noCF? (don´t add this in a new PR)
   "redux-webpack-boilerplate": "cchamberlain.github.io/redux-webpack-boilerplate", // noCF? (don´t add this in a new PR)
   "reduxible": "pitzcarraldo.github.io/reduxible", // noCF? (don´t add this in a new PR)
