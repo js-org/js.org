@@ -2005,9 +2005,9 @@ var cnames_active = {
   "wowufoundme": "wowufoundme.github.io",
   "writebar": "alexander-shvets.github.io/writebar",
   "wthunting": "sawyerbx.github.io/wthunting",
-  "wysc": "gitnisyl.github.io/wysc",
   "wyfe": "wangyuanstudio.github.io/WYFE", // noCF? (don´t add this in a new PR)
   "wynncraft": "frawolf.github.io/wynncraft.js",
+  "wysc": "gitnisyl.github.io/wysc",
   "xhy": "xhy.github.io",
   "xiangqiz": "xiangqiz.github.io/Hello",
   "xn--w4h": "zzyzxlab.github.io/tao.js",
