@@ -414,6 +414,7 @@ var cnames_active = {
   "dahlia": "dahliajs.github.io",
   "daily.tmr": "ttttmr.github.io/daily", // noCF
   "damo": "damodharanj.github.io",
+  "dan": "danielh-dev.netlify.com",
   "danmaku": "weizhenye.github.io/Danmaku",
   "danmol": "dan12mol.github.io", // noCF? (don´t add this in a new PR)
   "dap": "jooher.github.io/dap",
