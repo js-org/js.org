@@ -2020,9 +2020,9 @@ var cnames_active = {
   "xtype": "lucono.github.io/xtypejs", // noCF? (don´t add this in a new PR)
   "y86": "quietshu.github.io/y86", // noCF? (don´t add this in a new PR)
   "yadl": "yadljs.github.io",
-  "yakanak": "yakanaknews.netlify.com",
   "yagolopez": "yagolopez.github.io",
   "yajdbl": "yajdbl.github.io/yajdbl",
+  "yakanak": "yakanaknews.netlify.com",
   "yamdbf": "zajrik.github.io/yamdbf",
   "yamil-villarreal": "yvillarreal.github.io/index",
   "yargs": "yargs.github.io", // noCF? (don´t add this in a new PR)
