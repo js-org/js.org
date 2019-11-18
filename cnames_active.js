@@ -304,6 +304,7 @@ var cnames_active = {
   "carmi": "wix-incubator.github.io/carmi",
   "cartodb-demo": "opensas.github.io/cartodb-demo", // noCF? (don´t add this in a new PR)
   "cassie": "milesgitgud.github.io/cassie",
+  "catbox": "samsamson33.github.io/catbox.js",
   "cats": "whoisjorge.github.io/not-cat-gifs",
   "cbm": "iamnapo.github.io/cbmjs",
   "cccme": "cccme.github.io",
