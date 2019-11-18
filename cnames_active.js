@@ -1986,6 +1986,7 @@ var cnames_active = {
   "webmetry": "comongroup.github.io/webmetry",
   "webminer": "web-miner.github.io",
   "webpack": "webpack.github.io/webpack.js.org",
+  "v4.webpack": "webpack.github.io/v4.webpack.js.org",
   "webpack-config-plugins.js.org": "namics.github.io/webpack-config-plugins",
   "webpack-inspect": "alexmost.github.io/webpack-inspect",
   "wedgetail": "wedgetail.netlify.com",
