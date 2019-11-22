@@ -1756,7 +1756,7 @@ var cnames_active = {
   "stuck": "linuxenko.github.io/unstuck-webpack",
   "style": "dhilipsiva.github.io/style.js", // noCF? (don´t add this in a new PR)
   "styled-css-grid": "styled-css-grid.netlify.com",
-  "styled-icons": "styled-icons.netlify.com",
+  "styled-icons": "alias.zeit.co",
   "stylis": "thysultan.github.io/stylis.js",
   "subplayer": "zhw2590582.github.io/SubPlayer",
   "sudarshan": "sudarshanRaul.github.io",
