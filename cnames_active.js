@@ -548,7 +548,7 @@ var cnames_active = {
   "email-templates": "niftylettuce.github.io/email-templates",
   "embedlam": "wnda.github.io/embedlam",
   "ember-cli-page-object": "san650.github.io/ember-cli-page-object", // noCF? (don´t add this in a new PR)
-  "ember-electron": "felixrieseberg.github.io/ember-electron",
+  "ember-electron": "adopted-ember-addons.github.io/ember-electron",
   "emeraldcraftmc": "emeraldcraftmc.github.io", // noCF? (don´t add this in a new PR)
   "emoji": "egoist.github.io/emoji",
   "emojipanel": "danbovey.github.io/EmojiPanel",
