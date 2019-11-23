@@ -535,6 +535,7 @@ var cnames_active = {
   "ef": "classicoldsong.github.io/ef.js.org",
   "effectful": "awto.github.io/effectfuljs",
   "effector": "zerobias.github.io/effector",
+  "ejir": "ejir.github.io",
   "elastic-builder": "sudo-suhas.github.io/elastic-builder",
   "electron-react-boilerplate": "electron-react-boilerplate.github.io/site",
   "elementnet": "elementnet.github.io",
