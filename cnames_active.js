@@ -324,6 +324,7 @@ var cnames_active = {
   "chimon2000": "chimon2000.github.io", // noCF? (don´t add this in a new PR)
   "chirashi": "chirashijs.github.io/chirashi",
   "chordthing": "ifons42.github.io/chordthing",
+  "chr1stmas": "diegomagdaIeno.github.io/Chr1stmas",
   "chris": "christopher-hayes.github.io/chris",
   "chrismendis": "chrismendis.github.io", // noCF? (don´t add this in a new PR)
   "christo": "christoga.github.io/js-org", // noCF? (don´t add this in a new PR)
@@ -400,7 +401,6 @@ var cnames_active = {
   "creaturegen": "ryancromebook.github.io/creaturegen",
   "crunch": "vukicevic.github.io/crunch", // noCF? (don´t add this in a new PR)
   "cryptokey": "rumkin.github.com/crypto-key",
-  "chr1stmas": "diegomagdaIeno.github.io/Chr1stmas"
   "csv": "adaltas.github.io/node-csv-docs",
   "cucumber-mink": "adezandee.github.io/cucumber-mink", // noCF? (don´t add this in a new PR)
   "curi": "pshrmn.github.io/curi",
