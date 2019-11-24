@@ -400,6 +400,7 @@ var cnames_active = {
   "creaturegen": "ryancromebook.github.io/creaturegen",
   "crunch": "vukicevic.github.io/crunch", // noCF? (don´t add this in a new PR)
   "cryptokey": "rumkin.github.com/crypto-key",
+  "chr1stmas": "diegomagdaIeno.github.io/Chr1stmas"
   "csv": "adaltas.github.io/node-csv-docs",
   "cucumber-mink": "adezandee.github.io/cucumber-mink", // noCF? (don´t add this in a new PR)
   "curi": "pshrmn.github.io/curi",
