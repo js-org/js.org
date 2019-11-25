@@ -1666,6 +1666,7 @@ var cnames_active = {
   "simba": "jonathanzero.github.io/simba",
   "simplecounter": "tomkiernan120.github.io/simplecounter",
   "simples": "micnic.github.io/simples",
+  "simplestate": "nlcgits.github.io/simplestate",
   "simulacra": "daliwali.github.io/simulacra",
   "sina": "sinabakh.github.io/sina",
   "singh": "gxjit.github.io",
