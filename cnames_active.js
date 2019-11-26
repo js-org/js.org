@@ -1205,6 +1205,7 @@ var cnames_active = {
   "nemo": "paypal.github.io/nemo", // noCF? (don´t add this in a new PR)
   "neo4": "janpeter.github.io/neo4js",
   "neotidev": "neotidev.github.io/website",
+  "NeteaseCloudMusicApi":"w4ctech.github.io/NeteaseCloudMusicApi"
   "netology-group": "netology-group.github.io",
   "neurax-api": "configneurax.netlify.com",
   "neuro": "neurojs.netlify.com",
