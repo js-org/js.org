@@ -1730,6 +1730,7 @@ var cnames_active = {
   "sri": "jackub.github.io/subresource-integrity-fallback",
   "staart": "staart.netlify.com",
   "stabs": "wnda.github.io/stabs",
+  "stack-styled": "stack-styled.netlify.com",
   "stahlstadt": "dist1.storyblok.com",
   "stampit": "stampit-org.gitbook.io/docs",
   "standard-resource": "hosting.gitbook.com", // noCF
