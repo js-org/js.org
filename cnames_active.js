@@ -364,6 +364,7 @@ var cnames_active = {
   "collegequest": "schoolhouserock.github.io/CollegeQuest", // noCF? (don´t add this in a new PR)
   "colombo": "cmbjs.github.io/CMBJS",
   "color": "akash-joshi.github.io/neural-color-picker",
+  "colors": "xv700.github.io/colors",
   "colorlab": "signalwerk.github.io/colorlab",
   "comframe": "haydennyyy.github.io/comframe",
   "comixngn": "seun40.github.io/comix-ngn", // noCF? (don´t add this in a new PR)
