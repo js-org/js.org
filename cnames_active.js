@@ -1833,7 +1833,6 @@ var cnames_active = {
   "tictactoe": "jeff-tian.github.io/tic-tac-toe-ai",
   "tie": "tie-team.github.io",
   "tights": "tights.netlify.com",
-  "time": "xv700.github.io/time",
   "timeout": "anshuman-verma.github.io/setTimeout",
   "timerizer": "callumacrae.github.io/timerizerJS", // noCF? (don´t add this in a new PR)
   "tina": "tinajs.github.io/tina",
