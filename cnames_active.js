@@ -770,6 +770,7 @@ var cnames_active = {
   "hoa": "thehoa.github.io",
   "hoast": "hoast.github.io",
   "hois": "hoisW.github.io",
+  "hookstate": "hookstate.netlify.com", // noCF
   "hooloo": "hooloo.github.io", // noCF? (don´t add this in a new PR)
   "how-to-mithril": "stephanhoyer.github.io/how-to-mithril",
   "hpy": "happyae.github.io/www",
@@ -1206,6 +1207,7 @@ var cnames_active = {
   "nemo": "paypal.github.io/nemo", // noCF? (don´t add this in a new PR)
   "neo4": "janpeter.github.io/neo4js",
   "neotidev": "neotidev.github.io/website",
+  "neteasecloudmusicapi": "w4ctech.github.io/NeteaseCloudMusicApi",
   "netology-group": "netology-group.github.io",
   "neurax-api": "configneurax.netlify.com",
   "neuro": "neurojs.netlify.com",
@@ -1498,6 +1500,7 @@ var cnames_active = {
   "rebem": "rebem.github.io", // noCF? (don´t add this in a new PR)
   "recover": "luisvallejomohl.github.io/Recover.js",
   "recycle": "recyclejs.github.io/recycle",
+  "redfox": "kavanmevada.github.io",
   "redis": "noderedis.github.io/node_redis", // noCF? (don´t add this in a new PR)
   "redline": "abduvokhid.github.io/redline",
   "redom": "redom.github.io/redom-docs",
@@ -1729,6 +1732,7 @@ var cnames_active = {
   "sri": "jackub.github.io/subresource-integrity-fallback",
   "staart": "staart.netlify.com",
   "stabs": "wnda.github.io/stabs",
+  "stack-styled": "stack-styled.netlify.com",
   "stahlstadt": "dist1.storyblok.com",
   "stampit": "stampit-org.gitbook.io/docs",
   "standard-resource": "hosting.gitbook.com", // noCF
