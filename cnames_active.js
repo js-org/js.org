@@ -522,7 +522,6 @@ var cnames_active = {
   "dungeon": "youssefelshemi.github.io/dungeon.js",
   "duniter": "duniterspec.github.io",
   "dvan": "dvan.netlify.com",
-  "nasix": "nasixjs.netlify.com";
   "dynaflo": "trevorhanus.github.io/dynaflo",
   "dynamic-record": "na-west1.surge.sh",
   "dynamicsnode": "crisfervil.github.io/DynamicsNode",
@@ -1198,6 +1197,7 @@ var cnames_active = {
   "namelessman": "namelessman.github.io",
   "nanimation": "imthenachoman.github.io/nAnimation", // noCF? (don´t add this in a new PR)
   "nanoexpress": "dalisoft.github.io/nanoexpress",
+  "nasix": "nasixjs.netlify.com";
   "nastya-piu": "nastya-piu.github.io",
   "nativemodels": "prefinem.github.io/nativemodels",
   "naughtychecker": "gautamkrishnar.github.io/naughtychecker.js",
