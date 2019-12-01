@@ -1217,6 +1217,7 @@ var cnames_active = {
   "neutralino": "neutralinojs.github.io",
   "neutrino": "neutrinojs.netlify.com", // noCF
   "newbyte": "newbie13xd.github.io/newbyte",
+  "newyear": "dndrbots.github.io/new_year_counter",
   "next": "zeit.github.io/next-site",
   "nexus": "nexusjs.netlify.com",
   "nflow": "nflow-js.github.io", // noCF? (don´t add this in a new PR)
