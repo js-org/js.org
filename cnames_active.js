@@ -112,6 +112,7 @@ var cnames_active = {
   "alt": "goatslacker.github.io/alt", // noCF? (don´t add this in a new PR)
   "alveron": "rofrischmann.github.io/alveron",
   "alys": "rmjordas.github.io/alys",
+  "alyreza": "alyreza.github.io",
   "aman": "plug-n-play.github.io/aman",
   "amaple": "amjs-team.github.io/amaple",
   "amorphous": "ariabuckles.github.io/amorphous",
@@ -2084,7 +2085,6 @@ var cnames_active = {
   "zplugins": "zlanguage.github.io/plugin-docs",
   "zty": "zetaoyang.github.io",
   "zyy": "zyyou.github.io/notes",
-  "alyreza": "alyreza.github.io",
   /*
   * please don't add your subdomain records down here!
   * insert them in alphabetical order to help reduce merge conflicts.
