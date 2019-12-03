@@ -109,6 +109,7 @@ var cnames_active = {
   "alley": "tinyalley.github.io",
   "almin": "almin.github.io",
   "alpap": "alpap.github.io/Portfolio",
+  "alphabetify": "davidpomerenke.github.io/alphabetify",
   "alt": "goatslacker.github.io/alt", // noCF? (don´t add this in a new PR)
   "alveron": "rofrischmann.github.io/alveron",
   "alys": "rmjordas.github.io/alys",
