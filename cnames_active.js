@@ -505,7 +505,7 @@ var cnames_active = {
   "donavon": "donavon.github.io", // noCF? (don´t add this in a new PR)
   "dope": "fouad.github.io/dope", // noCF? (don´t add this in a new PR)
   "dora": "dorakit.github.io/dora.js.org",
-  "dot": "dot-microservices.github.io/dot",
+  "dot-microservices": "dot-microservices.github.io/dot",
   "doz": "dozjs.github.io/website",
   "dplayer": "diygod.github.io/DPlayer", // noCF
   "dprof": "andreasmadsen.github.io/dprof",
@@ -772,6 +772,7 @@ var cnames_active = {
   "hitesh": "hitesh-lalwani.github.io",
   "hiteshsubnani": "hiteshsubnani0128.github.io/hiteshsubnani",
   "hk": "akura-co.github.io/hk", // noCF? (don´t add this in a new PR)
+  "hltvbot": "nescabir.github.io/HLTVBot",
   "hoa": "thehoa.github.io",
   "hoast": "hoast.github.io",
   "hois": "hoisW.github.io",
