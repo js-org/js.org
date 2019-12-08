@@ -504,7 +504,7 @@ var cnames_active = {
   "domtastic": "webpro.github.io/DOMtastic",
   "donavon": "donavon.github.io", // noCF? (don´t add this in a new PR)
   "dope": "fouad.github.io/dope", // noCF? (don´t add this in a new PR)
-  "dot": "dot-microservices.github.io/dot",
+  "dot-microservices": "dot-microservices.github.io/dot",
   "doz": "dozjs.github.io/website",
   "dplayer": "diygod.github.io/DPlayer", // noCF
   "dprof": "andreasmadsen.github.io/dprof",
