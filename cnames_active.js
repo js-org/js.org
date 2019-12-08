@@ -771,6 +771,7 @@ var cnames_active = {
   "hitesh": "hitesh-lalwani.github.io",
   "hiteshsubnani": "hiteshsubnani0128.github.io/hiteshsubnani",
   "hk": "akura-co.github.io/hk", // noCF? (don´t add this in a new PR)
+  "hltvbot": "nescabir.github.io/HLTVBot",
   "hoa": "thehoa.github.io",
   "hoast": "hoast.github.io",
   "hois": "hoisW.github.io",
