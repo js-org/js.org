@@ -1797,6 +1797,7 @@ var cnames_active = {
   "sweetalert": "t4t5.github.io/sweetalert",
   "swipe": "lyfeyaj.github.io/swipe",
   "switchit": "dongryphon.github.io/switchit",
+  "switchjoy": "switchjoy.github.io/",
   "swup": "swup.github.io/docs",
   "sxw": "sxwjs.github.io",
   "sydinh": "sydinh.github.io",
