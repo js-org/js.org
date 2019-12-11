@@ -1506,6 +1506,7 @@ var cnames_active = {
   "ream": "ream.netlify.com",
   "reask": "mcsh.github.io/reask",
   "reassign": "hasharray.github.io/reassign.js",
+  "reatom": "artalar.github.io/reatom",
   "rebatov": "rebatov.github.io",
   "rebem": "rebem.github.io", // noCF? (don´t add this in a new PR)
   "recover": "luisvallejomohl.github.io/Recover.js",
