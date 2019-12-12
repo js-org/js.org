@@ -1035,6 +1035,7 @@ var cnames_active = {
   "lps": "mauris.github.io/lps.js.org",
   "lribeiro": "lmribeiro.github.io",
   "ls": "links-js.github.io",
+  "lucy": "lucy-bot.github.io",
   "luisfelipe": "luisfelip3.github.io",
   "lukks": "lukks.github.io/page",
   "lwd-db": "dreamingbot.github.io/Login-With-Discord-DB",
