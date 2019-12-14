@@ -506,6 +506,7 @@ var cnames_active = {
   "dope": "fouad.github.io/dope", // noCF? (don´t add this in a new PR)
   "dora": "dorakit.github.io/dora.js.org",
   "dot-microservices": "dot-microservices.github.io/dot",
+  "dot": "https://epoberezkin.github.io/doT/",
   "doz": "dozjs.github.io/website",
   "dplayer": "diygod.github.io/DPlayer", // noCF
   "dprof": "andreasmadsen.github.io/dprof",
