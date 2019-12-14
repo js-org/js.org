@@ -1197,6 +1197,7 @@ var cnames_active = {
   "mythbusters": "mythbustersjs.netlify.com",
   "myurl": "marvnet.github.io/myurl",
   "mzplayer": "prince3661.github.io/Mzplayer",
+  "n": "cyb.github.io/n",
   "nabin": "nabin6246.github.io",
   "naja": "jiripudil.github.io/Naja",
   "name-my-colors": "domcoleman.github.io/name-my-colors",
