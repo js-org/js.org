@@ -710,6 +710,7 @@ var cnames_active = {
   "glitterbot": "glitterbot.netlify.com", //noCF
   "glize": "datamart.github.io/Glize",
   "glottologist": "arguiot.github.io/Glottologist",
+  "god": "godow.github.io",
   "godzm4tt3o": "godzm4tt3o.github.io",
   "goji": "malash.github.io/goji.js.org",
   "gol": "goljs.github.io/GoL",
