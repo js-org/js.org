@@ -1399,6 +1399,7 @@ var cnames_active = {
   "polished": "styled-components.github.io/polished",
   "polix": "polix.netlify.com",
   "polkadot": "polkadot-js.github.io",
+  "polkadot-cn": "polkadot-js-cn.github.io/apps",
   "polygon-clipping": "mfogel.github.io/polygon-clipping",
   "polythene": "arthurclemens.github.io/Polythene", // noCF? (don´t add this in a new PR)
   "pomidorus": "tatyshev.github.io/pomidorus",
