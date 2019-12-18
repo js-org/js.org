@@ -191,7 +191,6 @@ var cnames_active = {
   "axelgreavette": "axelgreavette.github.io",
   "azdanov": "azdanov.netlify.com", //noCF
   "aziz": "iaziz786.netlify.com",
-  "bo": "www.boblog.com",
   "bachors": "bachors.github.io",
   "backlog": "backlog-js.github.io/backlog.js.org", // noCF? (don´t add this in a new PR)
   "backstage": "backstagejs.github.io/backstage",
@@ -243,6 +242,7 @@ var cnames_active = {
   "blotter": "bradley.github.io/Blotter",
   "bluelightos": "bluelightos.ddns.net",
   "blurple": "blurplejs.github.io/docs",
+  "bo": "www.boblog.com",
   "boats": "discordboats.github.io",
   "bob": "bhamblok.github.io",
   "bodybuilder": "danpaz.github.io/bodybuilder", // noCF? (don´t add this in a new PR)
