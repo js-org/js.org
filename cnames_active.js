@@ -242,6 +242,7 @@ var cnames_active = {
   "blotter": "bradley.github.io/Blotter",
   "bluelightos": "bluelightos.ddns.net",
   "blurple": "blurplejs.github.io/docs",
+  "bo": "liangfengbo.github.io/bojs",
   "boats": "discordboats.github.io",
   "bob": "bhamblok.github.io",
   "bodybuilder": "danpaz.github.io/bodybuilder", // noCF? (don´t add this in a new PR)
