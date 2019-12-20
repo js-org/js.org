@@ -1899,6 +1899,7 @@ var cnames_active = {
   "tuplerone": "slikts.github.io/tuplerone",
   "turbo": "turbo.github.io",
   "tux": "tux.gitbooks.io/docs",
+  "twcopy": "the94air.github.io/twcopy",
   "tweed": "tweedjs.github.io",
   "tweetnacl": "dchest.github.io/tweetnacl-js",
   "twentyfive": "luckyshot.github.io/twentyfive",
