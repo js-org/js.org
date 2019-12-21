@@ -1546,7 +1546,7 @@ var cnames_active = {
   "redux-starter-kit": "redux-starter-kit-docs.netlify.com",
   "redux-tiles": "bloomca.github.io/redux-tiles",
   "redux-toolkit": "redux-starter-kit-docs.netlify.com",
-  "redux-undo": "omnidan.github.io/redux-undo", // noCF? (don´t add this in a new PR)
+  "redux-undo": "hosting.gitbook.com",
   "redux-webpack-boilerplate": "cchamberlain.github.io/redux-webpack-boilerplate", // noCF? (don´t add this in a new PR)
   "reduxible": "pitzcarraldo.github.io/reduxible", // noCF? (don´t add this in a new PR)
   "refract": "hosting.gitbook.com",
