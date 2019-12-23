@@ -478,6 +478,7 @@ var cnames_active = {
   "discordlib": "hosting.gitbook.com",
   "discordutil": "chroventer.github.io/discordutil",
   "discordutility": "chaosphoe.github.io/discordutility",
+  "discord-anti-spam: "michael-j-scofield.github.io/discord-anti-spam",
   "discord-sensei": "demonicious.github.io/discord-sensei",
   "discunit": "megacode18.github.io/discunit.js",
   "disode": "disode.github.io/disode",
