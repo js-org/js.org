@@ -1686,6 +1686,7 @@ var cnames_active = {
   "shscode": "shs-coding-club-projects.github.io",
   "sidekik": "inf3cti0n95.github.io/sidekik",
   "sidntrivedi012": "sidntrivedi012.github.io",
+  "sigma": "http://rishiosaur.github.io/SigmaTS",
   "silas229": "silas229.github.io",
   "silfr": "silfr.github.io/iterativecolor",
   "silkster": "silkster.github.io",
