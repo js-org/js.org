@@ -449,6 +449,7 @@ var cnames_active = {
   "dinesh": "dineshondev.github.io/dinesh", // noCF? (don´t add this in a new PR)
   "dinos": "0xflotus.github.io/dinos",
   "discord": "discordjs.github.io/website",
+  "discord-anti-spam": "michael-j-scofield.github.io/discord-anti-spam",,
   "discord-sensei": "demonicious.github.io/discord-sensei",
   "discord4node": "mrsheldon.github.io/Discord4Node",
   "discordlib": "hosting.gitbook.com",
