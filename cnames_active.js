@@ -1941,6 +1941,7 @@ var cnames_active = {
   "wii": "andrewplus.github.io/Wii.JS",
   "wiki": "wikijs.netlify.com", // noCF
   "wikidata-elements": "lisongx.github.io/wikidata-elements",
+  "windows": "munchkinhalfling.github.io/wasm-windows",
   "wildfire": "cheng-kang.github.io/wildfire",
   "willy": "willyarisky.github.io/willy",
   "with-immutable-props-to-js": "tophat.github.io/with-immutable-props-to-js",
