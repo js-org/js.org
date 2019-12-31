@@ -398,7 +398,7 @@ var cnames_active = {
   "currency": "scurker.github.io/currency.js",
   "curseapp": "mcrocks999.github.io/curseapp.js",
   "customrpc": "realalexsss.github.io/CustomRPC",
-  "cvc": "cvc.js.org",
+  "cvc": "creio.github.io/cvc",
   "cyberflame": "cyberflameu.github.io",
   "cybernaut": "clebert.github.io/cybernaut",
   "cycle": "cyclejs.github.io",
