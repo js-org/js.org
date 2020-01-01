@@ -387,6 +387,7 @@ var cnames_active = {
   "cqrs": "adrai.github.io/cqrs", // noCF? (don´t add this in a new PR)
   "cr": "echosoar.github.io/cr",
   "cracked": "billorcutt.github.io/Cracked",
+  "craft": "prevwong.github.io/craft.js",
   "create-project": "chalarangelo.github.io/create-js-project",
   "createrest": "atomixinteractions.github.io/createrest",
   "creaturegen": "ryancromebook.github.io/creaturegen",
