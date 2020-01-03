@@ -686,6 +686,7 @@ var cnames_active = {
   "godzm4tt3o": "godzm4tt3o.github.io",
   "gol": "goljs.github.io/GoL",
   "gondel": "namics.github.io/gondel",
+  "goodshare": "koddr.github.io/goodshare.js",
   "gotanda": "gotandajs.github.io",
   "gottasurf": "jottocraft.github.io/surf",
   "graffy": "aravindet.github.io/graffy",
