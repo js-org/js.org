@@ -1911,6 +1911,7 @@ var cnames_active = {
   "vuejsindy": "vuejsindy.github.io",
   "vuelidate": "vuelidate.netlify.com",
   "vuelog": "myst729.github.io/Vuelog",
+  "vueuse": "vueuse.netlify.com",
   "vuikit": "vuikit.netlify.com",
   "vuongdothanhhuy": "vuongdothanhhuy.github.io", // noCF? (don´t add this in a new PR)
   "vxv": "vxv.netlify.com",
