@@ -683,6 +683,7 @@ var cnames_active = {
   "glize": "datamart.github.io/Glize",
   "glottologist": "arguiot.github.io/Glottologist",
   "god": "godow.github.io",
+  "goodshare": "koddr.github.io/goodshare.js",
   "godzm4tt3o": "godzm4tt3o.github.io",
   "gol": "goljs.github.io/GoL",
   "gondel": "namics.github.io/gondel",
@@ -1898,6 +1899,7 @@ var cnames_active = {
   "vue-aplayer": "sevenoutman.github.io/vue-aplayer",
   "vue-coffee": "vue-coffee-guide.netlify.com",
   "vue-core": "triotech-fr.github.io/vue-core",
+  "vue-goodshare": "koddr.github.io/vue-goodshare"
   "vue-land": "vue-land.netlify.com",
   "vue-mdc": "na-west1.surge.sh",
   "vue-minesweeper": "disjfa.github.io/vue-minesweeper",
