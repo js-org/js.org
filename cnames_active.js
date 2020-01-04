@@ -1407,6 +1407,7 @@ var cnames_active = {
   "rax": "alibaba.github.io/rax",
   "rax0-6": "raxjs.github.io/website-rax-v0.6",
   "rayo": "getrayo.github.io/rayo.js",
+  "ray-optics-demo": "lachlandk.github.io/ray-optics-demo",
   "rdf": "rdfjs.github.io", // noCF
   "react-atomic-ui": "react-atomic.github.io/react-atomic-ui",
   "react-autosuggest": "moroshko.github.io/react-autosuggest", // noCF? (don´t add this in a new PR)
