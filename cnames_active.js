@@ -1723,6 +1723,7 @@ var cnames_active = {
   "svr": "kikobeats.github.io/svr",
   "sw-yx": "sw-yx.github.io",
   "sweetalert": "t4t5.github.io/sweetalert",
+  "sweetconfirm": "koddr.github.io/sweetconfirm.js",
   "swipe": "lyfeyaj.github.io/swipe",
   "switchit": "dongryphon.github.io/switchit",
   "switchjoy": "switchjoy.github.io",
