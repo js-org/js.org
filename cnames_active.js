@@ -1110,7 +1110,7 @@ var cnames_active = {
   "mobx-state-tree": "mobxjs.github.io/mobx-state-tree",
   "mock-middleware": "luobotang.github.io/mock-middleware",
   "mockjs-lite": "52cik.github.io/mockjs-lite", // noCF
-  "mockyeah": "mockyeah.github.io/mockyeah",
+  "mockyeah": "mockyeah.netlify.com",
   "modbot": "modbotjs.github.io",
   "modofun": "modofunjs.github.io/modofun",
   "modoki": "araozu.github.io/modoki",
