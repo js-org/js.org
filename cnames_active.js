@@ -1627,6 +1627,7 @@ var cnames_active = {
   "sketch": "keiww.github.io/sketch",
   "skim": "muratg.github.io/skim",
   "slang": "ramadis.github.io/slang", // noCF? (don´t add this in a new PR)
+  "slate": "iamshouvikmitra.github.io/slate",
   "slidemenu": "alexkratky.github.io/SlideMenu.js",
   "slideout": "mango.github.io/slideout",
   "slider": "nikiforov-org.github.io/slider",
