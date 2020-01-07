@@ -14,6 +14,7 @@
  *
  * VALUE:       The regular domain provided by GitHub (e.g.: "foo.github.io" for a User-/Organization Page
  *              or "foo.github.io/bar" for a Project Page).
+
  *
  * CLOUDFLARE:  JS.ORG uses CloudFlare as its DNS. By default, CloudFlare proxies all requests to your subdomain
  *              to get SSL support (https://foo.js.org) and make use of browser caching with a TTL of 30 min.
@@ -405,6 +406,7 @@ var cnames_active = {
   "cyclow": "pmros.github.io/cyclow", // noCF
   "cyliim": "cyliim.github.io",
   "cyris": "iCyris.github.io",
+  "dog": "doramrkim.github.io",
   "d4": "joelburget.github.io/d4",
   "daily.tmr": "ttttmr.github.io/daily", // noCF
   "damo": "damodharanj.github.io",
