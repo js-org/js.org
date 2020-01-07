@@ -1354,7 +1354,7 @@ var cnames_active = {
   "pretty-print-json": "center-key.github.io/pretty-print-json",
   "prettylog": "moosecoop.github.io/PrettyLog",
   "prismarine": "prismarinejs.github.io",
-  "prismic-nuxt": "nuxt-community.github.io/prismic-nuxt",
+  "prismic-nuxt": "nuxt-community.github.io/prismic-module",
   "pristine": "sha256.github.io/Pristine", //noCF
   "producify": "jesobreira.github.io/producify",
   "producthunt-trending": "xiaomingplus.github.io/producthunt-trending",
