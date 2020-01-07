@@ -14,7 +14,6 @@
  *
  * VALUE:       The regular domain provided by GitHub (e.g.: "foo.github.io" for a User-/Organization Page
  *              or "foo.github.io/bar" for a Project Page).
-
  *
  * CLOUDFLARE:  JS.ORG uses CloudFlare as its DNS. By default, CloudFlare proxies all requests to your subdomain
  *              to get SSL support (https://foo.js.org) and make use of browser caching with a TTL of 30 min.
@@ -1986,37 +1985,4 @@ var cnames_active = {
   "yizao": "ssttii.github.io",
   "ymlair": "ymlair.github.io/TimestampHumanDemo",
   "yolog": "jitesoft.github.io/yolog",
-  "youngjuning": "youngjuning.github.io",
-  "youtim": "mortonfox.github.io/YouTim", // noCF? (don´t add this in a new PR)
-  "youtube-box": "lucasmonteverde.github.io/youtube-box", // noCF? (don´t add this in a new PR)
-  "youtube-lite": "9oelm.github.io/youtube-lite",
-  "yu": "yuxizhe.github.io/yu",
-  "yuigahama": "project-yuigahama.github.io/docs",
-  "yusril": "yusrilhs.github.io", // noCF
-  "yuye": "cyea.github.io",
-  "yvm": "tophat.github.io/yvm",
-  "zaporizhzhia": "zaporizhzhiajs.github.io",
-  "zea-engine": "zeainc.github.io/zea-engine",
-  "zea-ux": "zeainc.github.io/zea-ux",
-  "zeit": "urvinh.github.io",
-  "zentor": "zentor.github.io",
-  "zephyr": "zephyr-dh.github.io/zephyr",
-  "zeroframe": "filips123.github.io/ZeroFrameJS",
-  "zhangnew": "zhangnew.github.io",
-  "zhaomenghuan": "zhaomenghuan.github.io",
-  "zhd": "zhDmitry.github.io",
-  "zhenbang": "wzb1244.github.io",
-  "zignis": "zhike-team.github.io/zignis",
-  "zodiac": "indus.github.io/Zodiac", // noCF? (don´t add this in a new PR)
-  "zodiacsigns": "dipanshkhandelwal.github.io/my-zodiac-sign",
-  "zombie": "assaf.github.io/zombie", // noCF? (don´t add this in a new PR)
-  "zonayed": "zonayedpca.github.io/js.zonayed.me",
-  "zplugins": "zlanguage.github.io/plugin-docs",
-  "zty": "zetaoyang.github.io",
-  "zyy": "zyyou.github.io/notes"
-  /*
-  * please don't add your subdomain records down here!
-  * insert them in alphabetical order to help reduce merge conflicts.
-  * <3
-  */
-}
+  "youngjuning": "youn
