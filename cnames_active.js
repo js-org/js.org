@@ -1158,6 +1158,7 @@ var cnames_active = {
   "namelessman": "namelessman.github.io",
   "nanimation": "imthenachoman.github.io/nAnimation", // noCF? (don´t add this in a new PR)
   "nanoexpress": "dalisoft.github.io/nanoexpress",
+  "naseem": "naseemali925.github.io/about-me",
   "nasix": "nasixjs.netlify.com", // noCF
   "nastya-piu": "nastya-piu.github.io",
   "nativemodels": "prefinem.github.io/nativemodels",
