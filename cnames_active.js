@@ -105,7 +105,6 @@ var cnames_active = {
   "aligos": "aligos.github.io", // noCF? (don´t add this in a new PR)
   "all": "learnsomuch.github.io/all.js", // noCF? (don´t add this in a new PR)
   "all-contributors": "all-contributors-js-org.netlify.com",
-  "alley": "tinyalley.github.io",
   "almin": "almin.github.io",
   "alphabetify": "davidpomerenke.github.io/alphabetify",
   "alt": "goatslacker.github.io/alt", // noCF? (don´t add this in a new PR)
@@ -1003,6 +1002,7 @@ var cnames_active = {
   "lychee": "Artificial-Engineering.github.io/lycheeJS-website",
   "lyra": "amansahil.github.io/lyra.js.org",
   "lzbible": "edwinyosorahardjo.github.io/lzbible",
+  "m01i0ng": "m01i0ng.github.io",
   "m8bot": "mapreiff.github.io/m8-bot-site",
   "ma124": "ma124.netlify.com",
   "machinelearning": "marink.github.io/machinelearning",
