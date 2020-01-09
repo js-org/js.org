@@ -1317,6 +1317,7 @@ var cnames_active = {
   "piii": "piiijs.github.io/piii.js.org",
   "piling": "flekschas.github.io/piling.js",
   "pinf": "pinf.github.io", // noCF? (don´t add this in a new PR)
+  "ping":"pingbey.github.io/ping",
   "pinipig": "jmdisuanco.github.io/pinipig",
   "pipes": "pipesjs.github.io", // noCF? (don´t add this in a new PR)
   "pitermarx": "pitermarx.github.io", // noCF? (don´t add this in a new PR)
