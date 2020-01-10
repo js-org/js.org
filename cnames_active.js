@@ -462,6 +462,7 @@ var cnames_active = {
   "distri": "flarp.github.io/Distri.js",
   "distribution": "distributionjs.github.io/website",
   "div": "div-js.github.io/div.js.org",
+  "djsguide": "hosting.gitbook.com",
   "djvu": "russcoder.github.io/djvujs", // noCF
   "djzhao": "djzhao627.github.io",
   "dmitry": "dmitry-zaets.github.io",
