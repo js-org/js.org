@@ -1004,7 +1004,6 @@ var cnames_active = {
   "lychee": "Artificial-Engineering.github.io/lycheeJS-website",
   "lyra": "amansahil.github.io/lyra.js.org",
   "lzbible": "edwinyosorahardjo.github.io/lzbible",
-  "minijoshua": "joshualovescode.github.io/MiniJoshua-Website/",
   "m01i0ng": "m01i0ng.github.io",
   "m8bot": "mapreiff.github.io/m8-bot-site",
   "ma124": "ma124.netlify.com",
@@ -1095,6 +1094,7 @@ var cnames_active = {
   "mingyi": "liangmingyi.github.io", // noCF? (don´t add this in a new PR)
   "minidrone": "mechazawa.github.io/minidrone-js",
   "minigrid": "henriquea.github.io/minigrid", // noCF? (don´t add this in a new PR)
+  "minijoshua": "joshualovescode.github.io/MiniJoshua-Website",
   "mininote": "htdt.github.io/mininote",
   "miny": "pablopunk.github.io/miny",
   "mirrors": "jamesyangget.github.io/mirrors",
