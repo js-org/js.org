@@ -1838,6 +1838,7 @@ var cnames_active = {
   "typescript-play": "agentcooper.github.io/typescript-play",
   "u": "hanul.github.io/UJS", // noCF? (don´t add this in a new PR)
   "uav": "unearth-inc.github.io/uav",
+  "uber5": "uber5.github.io/js-org",
   "ubuntu-hideout": "bytecommander.github.io/ubuntu-hideout",
   "udnisap": "udnisap.github.io",
   "ulog": "download.github.io/ulog",
