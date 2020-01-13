@@ -1283,7 +1283,7 @@ var cnames_active = {
   "paraiba": "paraibajs.github.io", // noCF? (don´t add this in a new PR)
   "parallel": "parallel-js.github.io/parallel.js",
   "parametric-svg": "parametric-svg.github.io", // noCF? (don´t add this in a new PR)
-  "parkrun": "prouser123.github.io/parkrun.js"
+  "parkrun": "prouser123.github.io/parkrun.js",
   "pas-ce-soir": "oldergod.github.io/pas-ce-soir",
   "passepartout": "falkz.github.io/passepartout.js.org",
   "passwords": "sawyerbx.github.io/pw",
