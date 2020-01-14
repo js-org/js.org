@@ -375,6 +375,7 @@ var cnames_active = {
   "copywriting-correct": "rikakomoe.github.io/copywriting-correct",
   "cordclient": "cordclient.github.io/stable",
   "cordova-multiplatform-template": "ckgrafico.github.io/Cordova-Multiplatform-Template", // noCF? (don´t add this in a new PR)
+  "coreact":"coreactjs.github.io/coreact",
   "cork": "davej.github.io/CorkJS",
   "corki": "dvtate.github.io/corki",
   "corps": "copay.github.io",
