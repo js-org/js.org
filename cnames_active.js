@@ -1591,6 +1591,7 @@ var cnames_active = {
   "seatchart": "omarmahili.github.io/seatchart.js",
   "secsb": "secsb.github.io",
   "sed": "42ua.github.io/sed",
+  "seemple": "finom.github.io/seemple.js.org",
   "seesaw": "cajogos.github.io/seesaw", // noCF? (don´t add this in a new PR)
   "segoe-mdl2-css": "ckgrafico.github.io/Segoe-mdl2-assets-css", // noCF? (don´t add this in a new PR)
   "select_io": "selaromi.github.io/select_io", // noCF? (don´t add this in a new PR)
