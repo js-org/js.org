@@ -405,7 +405,6 @@ var cnames_active = {
   "cyclow": "pmros.github.io/cyclow", // noCF
   "cyliim": "cyliim.github.io",
   "cyris": "iCyris.github.io",
-  "dog": "doramrkim.github.io",
   "d4": "joelburget.github.io/d4",
   "daily.tmr": "ttttmr.github.io/daily", // noCF
   "damo": "damodharanj.github.io",
@@ -1545,6 +1544,7 @@ var cnames_active = {
   "ruwan": "rpgee.github.io",
   "rva": "fanyer.github.io/rva",
   "ryzokuken": "ryzokuken.github.io",
+  "ray": "doramrkim.github.io",
   "s3swa": "s3swa-ict-upgifter.github.io/snow-eater",
   "s4swa": "s4swa.github.io",
   "sagui": "saguijs.github.io", // noCF? (don´t add this in a new PR)
