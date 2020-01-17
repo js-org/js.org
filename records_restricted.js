@@ -17,6 +17,7 @@
 
 var cnames_restricted = [
     "(1/2/3/...)",
+    "a11y",
     "about",
     "account(s)",
     "ad(s)",
@@ -116,6 +117,7 @@ var cnames_restricted = [
     "hq",
     "html",
     "hub(s)",
+    "i18n",
     "imap",
     "index",
     "info(s)",
@@ -123,6 +125,7 @@ var cnames_restricted = [
     "io",
     "js",
     "json",
+    "l10n",
     "learn",
     "legal(s)",
     "lesson(s)",
