@@ -956,9 +956,9 @@ var cnames_active = {
   "ldf": "autplayed.github.io/ldf",
   "le": "letui.github.io",
   "leafless": "mofax.github.io/leafless",
-  "learnathon": "learn-a-thon.netlify.com"
   "lean-stack": "lean-stack.github.io", // noCF? (don´t add this in a new PR)
   "leandro": "leandrowd.github.io", // noCF? (don´t add this in a new PR)
+  "learnathon": "learn-a-thon.netlify.com",
   "learnGitBranching": "pcottle.github.io/learnGitBranching",
   "lee": "lee981265.github.io",
   "leet": "leetcodes.github.io",
