@@ -568,7 +568,7 @@ var cnames_active = {
   "escape": "licshee.github.io/Escape.js", // noCF? (don´t add this in a new PR)
   "esfx": "esfx.github.io",
   "esper": "codecombat.github.io/esper.js",
-  "eth-js": "https://eth-js.github.io/eth-dev-tools/#/",
+  "eth": "https://eth-js.github.io/eth-dev-tools/#/",
   "ethavatar": "filips123.github.io/EthAvatar.JS",
   "euc": "wnda.github.io/euc",
   "euclid": "anandthakker.github.io/euclid", // noCF? (don´t add this in a new PR)
