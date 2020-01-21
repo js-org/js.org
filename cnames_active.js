@@ -1961,6 +1961,7 @@ var cnames_active = {
   "webpack-inspect": "alexmost.github.io/webpack-inspect",
   "wedgetail": "wedgetail.netlify.com",
   "weekly": "xdimh.github.io/weekly",
+  "wepl": "obnoxiousnerd.github.io/wepl-website/",
   "wfplayer": "zhw2590582.github.io/WFPlayer",
   "wglt": "codyebberson.github.io/wglt",
   "whadido": "jokester.github.io/whadido",
