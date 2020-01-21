@@ -1555,7 +1555,7 @@ var cnames_active = {
   "rst": "rst-js.github.io/rst.js.org",
   "ru.react": "js-rus.github.io/react-ru",
   "ru.redux-saga": "hosting.gitbook.com", // noCF
-  "ruby": "https://rubybae.github.io",
+  "ruby": "rubybae.github.io",
   "ruhuman": "ruhuman.github.io", // noCF? (don´t add this in a new PR)
   "russell": "teamtofu.github.io/russelljs",
   "russia-wc": "kaykayehnn.github.io/russia-wc",
