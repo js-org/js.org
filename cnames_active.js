@@ -1525,6 +1525,7 @@ var cnames_active = {
   "resume-builder": "blopa.github.io/Resume-Builder",
   "rete": "retejs.github.io",
   "reto": "awmleer.github.io/reto",
+  "retux": "crimx.github.io/retux",
   "revaluate": "hasharray.github.io/revaluate.js",
   "rickdesantis": "rickdesantis.github.io",
   "riklewis": "riklewis.github.io",
