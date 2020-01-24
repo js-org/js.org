@@ -523,6 +523,7 @@ var cnames_active = {
   "ed2k": "sunnyli.github.io/ed2k.js",
   "ef": "classicoldsong.github.io/ef.js.org",
   "effectful": "awto.github.io/effectfuljs",
+  "eggsy": "eggsywashere.github.io",
   "eiphop": "eiphop.netlify.com",
   "ejir": "ejir.github.io",
   "elastic-builder": "sudo-suhas.github.io/elastic-builder",
