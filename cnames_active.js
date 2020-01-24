@@ -86,6 +86,7 @@ var cnames_active = {
   "afmsavage": "afmsavage.github.io",
   "agentnpm": "meetping.github.io/agentnpm",
   "aghasemi": "aghasemi.github.io",
+  "agilecards": "otaklapka.github.io/agilecards",
   "agrawalnaman": "agrawalnaman.github.io",
   "agrawalrohit": "rohit0803.github.io/agrawal.github.io",
   "ahmad": "aruzikulov.github.io/ahmad",
