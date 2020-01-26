@@ -367,6 +367,7 @@ var cnames_active = {
   "conductor": "hosting.gitbook.com",
   "conglo": "schwarzkopfb.github.io/conglo",
   "consent": "datamart.github.io/Consent",
+  "consono": "r37r0m0d3l.github.io/consono",
   "construyendotrabajo": "mteyss.github.io/construyendotrabajo", // noCF? (don´t add this in a new PR)
   "consultant": "jense5.github.io/consultant",
   "contextify": "abemedia.github.io/jquery-contextify", // noCF? (don´t add this in a new PR)
@@ -1390,6 +1391,7 @@ var cnames_active = {
   "ps": "spindlyskit.github.io/ps.js",
   "ptrdo": "ptrdo.github.io",
   "pubg": "ickerio.github.io/pubg.js",
+  "publish-subscribe": "r37r0m0d3l.github.io/publish_subscribe",
   "published": "fiverr.github.io/published",
   "pulse": "alias.zeit.co", //noCF
   "pure": "fengzilong.github.io/pure",
@@ -1900,6 +1902,7 @@ var cnames_active = {
   "verse": "druidic.github.io/verse",
   "veza": "kyranet.github.io/veza",
   "viav": "brandondyer64.github.io/viav",
+  "vicis": "r37r0m0d3l.github.io/vicis",
   "vico": "bohdantkachenko.github.io/vico", // noCF? (don´t add this in a new PR)
   "victor": "mrdatastorage.github.io/victor",
   "video-react": "video-react.github.io",
