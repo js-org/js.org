@@ -1249,6 +1249,7 @@ var cnames_active = {
   "odararmy": "odararmy.github.io",
   "odin": "foxifyjs.github.io/odin",
   "oec": "crellison.github.io/oec",
+  "of": "r37r0m0d3l.github.io/of",
   "officetohtml": "meshesha.github.io/officetohtml",
   "oguz": "okb1100.github.io",
   "ohmy": "mountainwang.github.io/ohmy",
