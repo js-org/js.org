@@ -476,6 +476,7 @@ var cnames_active = {
   "dna": "dnajs.github.io/dna.js",
   "dns": "js-org.github.io/dns.js.org",
   "docile": "teamtofu.github.io/docile",
+  "docs": "hosting.gitbook.com"
   "docs.light": "hosting.gitbook.com", // noCF
   "docsify": "docsifyjs.github.io/docsify",
   "docsify-es": "sidval.github.io/docsify-es",
