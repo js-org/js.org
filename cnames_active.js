@@ -777,6 +777,7 @@ var cnames_active = {
   "hybrids": "hosting.gitbook.com", // noCF
   "hyde": "gheek.github.io/hyde", // noCF? (don´t add this in a new PR)
   "hydrogen": "siddharthbose-codeware.github.io/hydrogen-website",
+  "hydrogenapi": "hosting.gitbook.com"
   "hyf": "yafey.github.io",
   "hyperform": "hyperform.github.io",
   "hyperhtml-styleguide": "albertosantini.github.io/hyperhtml-styleguide", // noCF
