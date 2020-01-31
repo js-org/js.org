@@ -1781,6 +1781,7 @@ var cnames_active = {
   "taylorreis": "taylorreis.github.io",
   "tead": "teadjs.github.io",
   "teddy": "obnoxiousnerd.github.io/teddytags-website",
+  "techy": "hosting.gitbook.com",
   "telaviv": "dustin-h.github.io/telaviv", // noCF? (don´t add this in a new PR)
   "telegraf": "telegraf.github.io/telegraf", // noCF? (don´t add this in a new PR)
   "teletype": "keyvank.github.io/teletype.js",
