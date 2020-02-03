@@ -1332,6 +1332,7 @@ var cnames_active = {
   "phx": "phxjs.github.io",
   "phylum": "phylumjs.github.io",
   "picsim": "mazko.github.io/picsim.js",
+  "pig-game": "dhanushp.github.io/pig-game",
   "pigeon-maps": "mariusandra.github.io/pigeon-maps",
   "piii": "piiijs.github.io/piii.js.org",
   "piling": "flekschas.github.io/piling.js",
