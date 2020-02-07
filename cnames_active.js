@@ -485,6 +485,7 @@ var cnames_active = {
   "docx": "dolanmiu.github.io/docx",
   "dodec-design": "dodec-design.github.io",
   "dogstack": "dogstack.gitbooks.io/handbook", // noCF
+  "doggie": "rd73mzg8wwe59yq0.preview.edgeapp.net"
   "dollar": "defims.github.io/dollar",
   "dolphin": "uyouthe.github.io/dolphin",
   "dominion": "dominion-framework.github.io",
