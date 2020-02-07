@@ -1798,6 +1798,7 @@ var cnames_active = {
   "thehorizon": "kavanmevada.github.io/the-horizon-blog",
   "themoviedb": "chrisenytc.github.io/themoviedb", // noCF? (don´t add this in a new PR)
   "theorem": "arguiot.github.io/TheoremJS",
+  "thepeachtimes": "thepeachtimes.github.io",
   "theshellproject": "theshellproject.github.io",
   "thi": "ngomjnhthj.github.io/thi",
   "thinkdigital": "tomowens08.github.io/thinkdigital",
