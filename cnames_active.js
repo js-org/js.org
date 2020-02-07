@@ -2037,7 +2037,7 @@ var cnames_active = {
   "zea-ux": "zeainc.github.io/zea-ux",
   "zed": "paul-browne.github.io/Zed-framework",
   "zeit": "urvinh.github.io",
-  "zeiw": "qv93yxjk9lnzdw1o.preview.edgeapp.net"
+  "zeiw": "qv93yxjk9lnzdw1o.preview.edgeapp.net",
   "zen": "tomelam.github.io/zen",
   "zentor": "zentor.github.io",
   "zephyr": "zephyr-dh.github.io/zephyr",
