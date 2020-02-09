@@ -484,6 +484,7 @@ var cnames_active = {
   "documentation": "documentationjs.github.io", // noCF? (don´t add this in a new PR)
   "docx": "dolanmiu.github.io/docx",
   "dodec-design": "dodec-design.github.io",
+  "doggie": "rd73mzg8wwe59yq0.preview.edgeapp.net",
   "dogstack": "dogstack.gitbooks.io/handbook", // noCF
   "dollar": "defims.github.io/dollar",
   "dolphin": "uyouthe.github.io/dolphin",
