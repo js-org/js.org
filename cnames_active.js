@@ -1,4 +1,3 @@
-
 /*
  ***** ACTIVE SUBDOMAINS
  * ***********************
@@ -216,6 +215,7 @@ var cnames_active = {
   "becarefulwith": "xMikee1.github.io/becarefulwith",
   "begin": "advanced-webapps-class.github.io/begin", // noCF? (don´t add this in a new PR)
   "benjick": "benjick.github.io",
+  "berk": "berkelmas.github.io",
   "bernard": "ojengwa.github.io",
   "berzan": "newbie13xd.github.io/berzan",
   "besafe": "ma124.github.io/BeSafe",
@@ -1340,7 +1340,7 @@ var cnames_active = {
   "piii": "piiijs.github.io/piii.js.org",
   "piling": "flekschas.github.io/piling.js",
   "pinf": "pinf.github.io", // noCF? (don´t add this in a new PR)
-  "ping":"pingbey.github.io/ping",
+  "ping": "pingbey.github.io/ping",
   "pinipig": "jmdisuanco.github.io/pinipig",
   "pipes": "pipesjs.github.io", // noCF? (don´t add this in a new PR)
   "pitermarx": "pitermarx.github.io", // noCF? (don´t add this in a new PR)
@@ -2055,8 +2055,8 @@ var cnames_active = {
   "zty": "zetaoyang.github.io",
   "zyy": "zyyou.github.io/notes"
   /*
-  * please don't add your subdomain records down here!
-  * insert them in alphabetical order to help reduce merge conflicts.
-  * <3
-  */
+   * please don't add your subdomain records down here!
+   * insert them in alphabetical order to help reduce merge conflicts.
+   * <3
+   */
 }
