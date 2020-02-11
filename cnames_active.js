@@ -547,10 +547,10 @@ var cnames_active = {
   "ember-cli-page-object": "san650.github.io/ember-cli-page-object", // noCF? (don´t add this in a new PR)
   "ember-electron": "adopted-ember-addons.github.io/ember-electron",
   "emeraldcraftmc": "emeraldcraftmc.github.io", // noCF? (don´t add this in a new PR)
-  "emre": "emrekara37.github.io/",
   "emoji": "egoist.github.io/emoji",
   "emojipanel": "danbovey.github.io/EmojiPanel",
   "empathy": "the94air.github.io/empathy-docs",
+  "emre": "emrekara37.github.io",
   "emulisp": "grahack.github.io/EmuLisp", // noCF? (don´t add this in a new PR)
   "enclave": "eanplatter.github.io/enclave", // noCF? (don´t add this in a new PR)
   "endb": "chroventer.github.io/endb",
