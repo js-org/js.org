@@ -1634,6 +1634,7 @@ var cnames_active = {
   "shikwasa": "jessuni.github.io/shikwasa",
   "shine": "shinenelson.github.io/shine.js.org",
   "shirajuki": "shirajuki.github.io",
+  "shop": "shopjs.netlify.com",
   "short": "shortit.netlify.com",
   "shortener": "jsmiith.github.io/shortener",
   "shortquery": "s--minecraft.gitbooks.io/shortquery-js", // noCF? (don´t add this in a new PR)
