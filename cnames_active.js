@@ -2033,6 +2033,7 @@ var cnames_active = {
   "yuigahama": "project-yuigahama.github.io/docs",
   "yusril": "yusrilhs.github.io", // noCF
   "yuye": "cyea.github.io",
+  "yves": "yvesgurcan.github.io/yves.js.org"
   "yvm": "tophat.github.io/yvm",
   "zaporizhzhia": "zaporizhzhiajs.github.io",
   "zea-cad": "zeainc.github.io/zea-cad",
