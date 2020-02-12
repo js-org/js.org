@@ -1,4 +1,3 @@
-
 /*
  ***** ACTIVE SUBDOMAINS
  * ***********************
@@ -970,8 +969,8 @@ var cnames_active = {
   "leafless": "mofax.github.io/leafless",
   "lean-stack": "lean-stack.github.io", // noCF? (don´t add this in a new PR)
   "leandro": "leandrowd.github.io", // noCF? (don´t add this in a new PR)
-  "learnGitBranching": "pcottle.github.io/learnGitBranching",
   "learnathon": "learn-a-thon.netlify.com",
+  "learngitbranching": "pcottle.github.io/learnGitBranching",
   "lee": "lee981265.github.io",
   "leet": "leetcodes.github.io",
   "lego": "polight.github.io/lego",
