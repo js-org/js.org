@@ -1198,7 +1198,7 @@ var cnames_active = {
   "neuro": "neurojs.netlify.com",
   "neutralino": "neutralinojs.github.io",
   "neutrino": "neutrinojs.netlify.com", // noCF
-  "newbyte": "newbie13xd.github.io/newbyte",
+  "newbyte": "newbytee.github.io/newbyte",
   "newyear": "dndrbots.github.io/new_year_counter",
   "next": "zeit.github.io/next-site",
   "nexus": "nexusjs.netlify.com",
