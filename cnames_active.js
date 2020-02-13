@@ -303,6 +303,7 @@ var cnames_active = {
   "cebu": "javascriptcebu.netlify.com",
   "cennznet": "cennznet.github.io/cennznet-ui",
   "ceruttimaicon": "ceruttimaicon.github.io",
+  "cezanne": "hackdoor-io.github.io/cezanne",
   "chain-able": "fluents.github.io/chain-able-site",
   "chandzhang": "chandzhang.github.io",
   "charge": "charge-js.netlify.com",
