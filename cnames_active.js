@@ -1,4 +1,3 @@
-
 /*
  ***** ACTIVE SUBDOMAINS
  * ***********************
@@ -972,7 +971,7 @@ var cnames_active = {
   "lean-stack": "lean-stack.github.io", // noCF? (don´t add this in a new PR)
   "leandro": "leandrowd.github.io", // noCF? (don´t add this in a new PR)
   "learnathon": "learn-a-thon.netlify.com",
-  "learnGitBranching": "pcottle.github.io/learnGitBranching",
+  "learngitbranching": "pcottle.github.io/learnGitBranching",
   "lee": "lee981265.github.io",
   "leet": "leetcodes.github.io",
   "lego": "polight.github.io/lego",
@@ -1343,7 +1342,7 @@ var cnames_active = {
   "piii": "piiijs.github.io/piii.js.org",
   "piling": "flekschas.github.io/piling.js",
   "pinf": "pinf.github.io", // noCF? (don´t add this in a new PR)
-  "ping":"pingbey.github.io/ping",
+  "ping": "pingbey.github.io/ping",
   "pinipig": "jmdisuanco.github.io/pinipig",
   "pipes": "pipesjs.github.io", // noCF? (don´t add this in a new PR)
   "pitermarx": "pitermarx.github.io", // noCF? (don´t add this in a new PR)
@@ -1788,8 +1787,8 @@ var cnames_active = {
   "tatsumaki": "mrjacz.github.io/tatsumaki.js",
   "taylorreis": "taylorreis.github.io",
   "tead": "teadjs.github.io",
-  "teddy": "obnoxiousnerd.github.io/teddytags-website",
   "techy": "hosting.gitbook.com",
+  "teddy": "obnoxiousnerd.github.io/teddytags-website",
   "telaviv": "dustin-h.github.io/telaviv", // noCF? (don´t add this in a new PR)
   "telegraf": "telegraf.github.io/telegraf", // noCF? (don´t add this in a new PR)
   "teletype": "keyvank.github.io/teletype.js",
@@ -1992,9 +1991,9 @@ var cnames_active = {
   "wii": "andrewplus.github.io/Wii.JS",
   "wiki": "wikijs.netlify.com", // noCF
   "wikidata-elements": "lisongx.github.io/wikidata-elements",
-  "windows": "munchkinhalfling.github.io/wasm-windows",
   "wildfire": "cheng-kang.github.io/wildfire",
   "willy": "willyarisky.github.io/willy",
+  "windows": "munchkinhalfling.github.io/wasm-windows",
   "with-immutable-props-to-js": "tophat.github.io/with-immutable-props-to-js",
   "within": "eric-brechemier.github.io/within", // noCF? (don´t add this in a new PR)
   "wiz": "karimsa.github.io/wiz", // noCF
