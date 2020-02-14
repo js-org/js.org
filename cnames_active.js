@@ -1980,7 +1980,7 @@ var cnames_active = {
   "webpack": "webpack.github.io/webpack.js.org",
   "webpack-config-plugins": "namics.github.io/webpack-config-plugins",
   "webpack-inspect": "alexmost.github.io/webpack-inspect",
-  "wechaty": "hosting.gitbook.com", // We are wechaty.github.io/wechaty.js.org
+  "wechaty": "hosting.gitbook.com",
   "wedgetail": "wedgetail.netlify.com",
   "weekly": "xdimh.github.io/weekly",
   "wepl": "obnoxiousnerd.github.io/wepl-website",
