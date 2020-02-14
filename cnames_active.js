@@ -284,6 +284,7 @@ var cnames_active = {
   "candyland": "candyland-js.github.io/candyland",
   "candyref": "bbyjins.github.io/candy",
   "cans": "djyde.github.io/cans", // noCF
+  "cantara": "cantarajs.github.io/cantara/",
   "canvas": "anshuman-verma.github.io/canvas",
   "canvasconstructor": "kyranet.github.io/canvas-constructor-website",
   "canvo": "canvojs.github.io",
