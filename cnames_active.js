@@ -217,7 +217,7 @@ var cnames_active = {
   "benjick": "benjick.github.io",
   "berk": "berkelmas.github.io",
   "bernard": "ojengwa.github.io",
-  "berzan": "newbie13xd.github.io/berzan",
+  "berzan": "newbytee.github.io/berzan",
   "besafe": "ma124.github.io/BeSafe",
   "bestof": "michaelrambeau.github.io/bestofjs",
   "between": "na-west1.surge.sh",
