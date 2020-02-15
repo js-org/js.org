@@ -2006,7 +2006,7 @@ var cnames_active = {
   "wthunting": "sawyerbx.github.io/wthunting",
   "wyfe": "wangyuanstudio.github.io/WYFE", // noCF? (don´t add this in a new PR)
   "wynncraft": "frawolf.github.io/wynncraft.js",
-  "wysc": "gitnisyl.github.io/wysc",
+  "wysc": "coffeebank.github.io/wysc-vue",
   "xen": "hosting.gitbook.com",
   "xhy": "xhy.github.io",
   "xiangqiz": "xiangqiz.github.io/Hello",
