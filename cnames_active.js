@@ -529,6 +529,7 @@ var cnames_active = {
   "echo": "licshee.github.io/echo.js",
   "ed2k": "sunnyli.github.io/ed2k.js",
   "edazpotato": "edazpotato.github.io",
+  "edsonluiz": "edsonluiz.github.io",
   "ef": "classicoldsong.github.io/ef.js.org",
   "effectful": "awto.github.io/effectfuljs",
   "eggsy": "eggsywashere.github.io",
