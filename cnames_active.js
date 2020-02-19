@@ -710,6 +710,7 @@ var cnames_active = {
   "goodshare": "koddr.github.io/goodshare.js",
   "gotanda": "gotandajs.github.io",
   "gottasurf": "jottocraft.github.io/surf",
+  "gogs": "rpgjw54g31k5yd4q.preview.edgeapp.net",
   "graffy": "aravindet.github.io/graffy",
   "gram": "gram-js.github.io/gramjs",
   "gramps": "gramps-graphql.github.io/gramps",
