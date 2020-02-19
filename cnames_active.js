@@ -1229,6 +1229,7 @@ var cnames_active = {
   "node-atlas": "haeresis.github.io/NodeAtlas",
   "node-slate": "center-key.github.io/node-slate",
   "nodegarden": "pakastin.github.io/nodegarden",
+  "nodehawk": "samrith-s.github.io/nodehawk",
   "nodeppt": "ksky521.github.io/nodeppt",
   "noderize": "cretezy.github.io/noderize",
   "noflux": "nofluxjs.gitbooks.io/noflux",
