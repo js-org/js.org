@@ -374,6 +374,7 @@ var cnames_active = {
   "consultant": "jense5.github.io/consultant",
   "contextify": "abemedia.github.io/jquery-contextify", // noCF? (don´t add this in a new PR)
   "cookiebox": "metaa.gitlab.io/cookiebox.js",
+  "cookiecord": "cookiecord.github.io/cookiecord",
   "coord": "itsacorn.github.io/jscoord",
   "copyer": "tsycode.github.io/copyer.js",
   "copywriting-correct": "rikakomoe.github.io/copywriting-correct",
