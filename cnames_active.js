@@ -466,6 +466,7 @@ var cnames_active = {
   "discordutil": "chroventer.github.io/discordutil",
   "discordutility": "chaosphoe.github.io/discordutility",
   "discunit": "megacode18.github.io/discunit.js",
+  "dislink": "relms12345.github.io/Dislink",
   "display": "arguiot.github.io/DisplayJS",
   "distillery": "achannarasappa.github.io/distillery", // noCF? (don´t add this in a new PR)
   "distri": "flarp.github.io/Distri.js",
