@@ -148,6 +148,7 @@ var cnames_active = {
   "arcn": "alexakasanjeev.github.io/arcn",
   "argo": "albertosantini.github.io/argo", // noCF? (don´t add this in a new PR)
   "ari": "arbo77.github.io/ari",
+  "ariang: "p3terx.github.io/ariang",
   "arief": "1997arief.github.io",
   "arime": "ninbryan.github.io/arime", // noCF? (don´t add this in a new PR)
   "artalk": "qwqcode.github.io/Artalk",
