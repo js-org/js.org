@@ -1586,6 +1586,7 @@ var cnames_active = {
   "rut": "jeam.github.io/rut",
   "ruwan": "rpgee.github.io",
   "rva": "fanyer.github.io/rva",
+  "ryaneldon": "rdogstyle.github.io/ryaneldon",
   "ryzokuken": "ryzokuken.github.io",
   "s3swa": "s3swa-ict-upgifter.github.io/snow-eater",
   "s4swa": "s4swa.github.io",
