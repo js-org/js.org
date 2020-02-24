@@ -1668,7 +1668,6 @@ var cnames_active = {
   "singh": "gxjit.github.io",
   "single-page-web-app": "lukejpreston.github.io/single-page-web-app",
   "single-spa": "single-spa.github.io/single-spa.js.org",
-  "zh-hans.single-spa": "single-spa.github.io/zh-hans.single-spa.js.org",
   "sirkit": "seckwei.github.io/SirKit_CircuitSim", // noCF? (don´t add this in a new PR)
   "sistersbio": "KDiaCodes.github.io/SistersBio",
   "sizle": "christoga.github.io/sizle", // noCF? (don´t add this in a new PR)
@@ -2062,6 +2061,7 @@ var cnames_active = {
   "zentor": "zentor.github.io",
   "zephyr": "zephyr-dh.github.io/zephyr",
   "zeroframe": "filips123.github.io/ZeroFrameJS",
+  "zh-hans.single-spa": "single-spa.github.io/zh-hans.single-spa.js.org",
   "zhangnew": "zhangnew.github.io",
   "zhaomenghuan": "zhaomenghuan.github.io",
   "zhd": "zhDmitry.github.io",
