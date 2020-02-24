@@ -489,7 +489,7 @@ var cnames_active = {
   "docsify-ru": "truepatch.github.io/docsify-ru",
   "docsite": "txd-team.github.io/docsite-doc-v1",
   "documentation": "documentationjs.github.io", // noCF? (don´t add this in a new PR)
-  "doc":'http://tennc.github.io/doc/',// noCF
+  "doc": 'tennc.github.io/doc',// noCF
   "docx": "dolanmiu.github.io/docx",
   "dodec-design": "dodec-design.github.io",
   "doggie": "rd73mzg8wwe59yq0.preview.edgeapp.net",
