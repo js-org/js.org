@@ -254,6 +254,7 @@ var cnames_active = {
   "bottender": "yoctol.github.io/bottender",
   "boundless": "enigma-io.github.io/boundless",
   "box": "capacitorset.github.io/box-js", // noCF
+  "boxed": "lionking27.github.io/boxed",
   "brain": "brainjs.github.io/brain.js.org",
   "brandifyjs": "greybax.github.io/brandifyjs",
   "brandonmerritt": "brandonmerritt.github.io", // noCF? (don´t add this in a new PR)
