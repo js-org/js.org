@@ -1412,6 +1412,7 @@ var cnames_active = {
   "protype": "arguiot.github.io/ProType",
   "ps": "spindlyskit.github.io/ps.js",
   "ptrdo": "ptrdo.github.io",
+  "pt-pt.single-spa": "single-spa.github.io/pt-pt.single-spa.js.org", // noCF
   "pubg": "ickerio.github.io/pubg.js",
   "publish-subscribe": "r37r0m0d3l.github.io/publish_subscribe",
   "published": "fiverr.github.io/published",
