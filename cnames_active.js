@@ -2032,6 +2032,7 @@ var cnames_active = {
   "xhy": "xhy.github.io",
   "xiangqiz": "xiangqiz.github.io/Hello",
   "xprmntl": "xprmntl.github.io", // noCF? (don´t add this in a new PR)
+  "xss": "tennc.github.io/xss",
   "xstate": "davidkpiano.github.io/xstate",
   "xto6": "mohebifar.github.io/xto6", // noCF? (don´t add this in a new PR)
   "xtype": "lucono.github.io/xtypejs", // noCF? (don´t add this in a new PR)
