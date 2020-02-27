@@ -1919,6 +1919,7 @@ var cnames_active = {
   "v4f": "v4f.netlify.com",
   "vac": "mlinquan.github.io/vue-awesome-countdown",
   "valentin": "valentinvieriu.github.io", // noCF? (don´t add this in a new PR)
+  "validarium": "lundegaard.github.io/validarium",
   "validator": "ppoffice.github.io/validator.js", // noCF? (don´t add this in a new PR)
   "valine": "xcss.github.io/valine",
   "valirator": "massive-angular.github.io/valirator",
