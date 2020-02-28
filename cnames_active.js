@@ -539,6 +539,7 @@ var cnames_active = {
   "edsonluiz": "edsonluiz.github.io",
   "ef": "classicoldsong.github.io/ef.js.org",
   "effectful": "awto.github.io/effectfuljs",
+  "effects": "effectsjs.github.io/effectsjs",
   "eggsy": "eggsywashere.github.io",
   "eiphop": "eiphop.netlify.com",
   "ejir": "ejir.github.io",
