@@ -1033,6 +1033,7 @@ var cnames_active = {
   "lucy": "lucy-bot.github.io",
   "luisfelipe": "luisfelip3.github.io",
   "lukks": "lukks.github.io/page",
+  "lvp": "luzhenqian.github.io/lvp.js",
   "lwd-db": "dreamingbot.github.io/Login-With-Discord-DB",
   "lychee": "Artificial-Engineering.github.io/lycheeJS-website",
   "lyra": "amansahil.github.io/lyra.js.org",
