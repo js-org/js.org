@@ -977,6 +977,7 @@ var cnames_active = {
   "laubstein": "laubstein.github.io", // noCF? (don´t add this in a new PR)
   "laue": "qingwei-li.github.io/laue",
   "lava": "palladium.github.io/Lava.js",
+  "lavalink": "maxcodder.github.io/lavalink-js",
   "laveesh": "laveesh.github.io",
   "lazycipher": "lazycipher.github.io",
   "lcookie": "lf112.github.io/lcookie",
