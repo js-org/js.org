@@ -426,6 +426,7 @@ var cnames_active = {
   "dap": "jooher.github.io/dap",
   "darshit": "dgupta777.github.io",
   "data-dashboard": "dnajs.github.io/data-dashboard",
+  "data-migration": "thebenforce.github.io/data-migration",
   "dataclass": "alexeyraspopov.github.io/dataclass",
   "datastructures": "deadcoder0904.github.io/datastructures",
   "date": "matthewmueller.github.io/date", // noCF? (don´t add this in a new PR)
