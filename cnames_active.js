@@ -684,6 +684,7 @@ var cnames_active = {
   "g": "nodebox.github.io/g.js",
   "gal": "galmail.github.io", // noCF? (don´t add this in a new PR)
   "gamedevcontestal": "fromdenisvieira.github.io/gamedevcontestal", // noCF? (don´t add this in a new PR)
+  "game-tracker": "endbug.github.io/game-tracker",
   "gametracker": "officialpiyush.github.io/gametracker.js",
   "gamingnet": "gamingmineblox.github.io/GamingNet",
   "gazosekai": "starkblaze01.github.io/Gazo_Sekai",
