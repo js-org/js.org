@@ -792,6 +792,7 @@ var cnames_active = {
   "hrtable": "uyouthe.github.io/hrtable",
   "hsiaoyi0504": "hsiaoyi0504.github.io",
   "htmljar": "syntacstudio.github.io/html-jar",
+  "http4ts": "http4ts.github.io/http4ts",
   "hub": "yyued.github.io/hub.js",
   "hubble": "hubble.netlify.com",
   "hugorocaproyectos": "hugoroca.github.io/coleccion-proyectos",
