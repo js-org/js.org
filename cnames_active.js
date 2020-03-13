@@ -518,6 +518,7 @@ var cnames_active = {
   "draw": "skillzzjesse.github.io/draw",
   "drome": "dromejs.github.io/drome.js.org",
   "drupi": "drupijs.github.io/website",
+  "dtdevs": "daantje1.github.io"
   "dtools": "mrsheldon.github.io/dtools.js",
   "du": "ruanyl.github.io/du", // noCF? (don´t add this in a new PR)
   "dualcyclone": "dualcyclone.github.io/postit-todo-react-redux",
