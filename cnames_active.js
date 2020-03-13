@@ -1360,13 +1360,13 @@ var cnames_active = {
   "pguth": "pguth.github.io",
   "ph1p": "ph1p.github.io",
   "pharaoh": "pharaoh-js.github.io", // noCF? (don´t add this in a new PR)
-  "phasors-demo": "lachlandk.github.io/phasors-demo",
   "phi": "phi-tools.netlify.com",
   "phobos": "phobosjs.github.io/phobos.js",
   "phoenix35": "phoenix35.github.io/js-help",
   "photo-sphere-viewer": "mistic100.github.io/Photo-Sphere-Viewer", // noCF? (don´t add this in a new PR)
   "phx": "phxjs.github.io",
   "phylum": "phylumjs.github.io",
+  "physics-demos": "lachlandk.github.io/physics-demos",
   "picsim": "mazko.github.io/picsim.js",
   "pig-game": "dhanushp.github.io/pig-game",
   "pigeon-maps": "mariusandra.github.io/pigeon-maps",
@@ -1469,7 +1469,6 @@ var cnames_active = {
   "rate-limiter-api": "abhisekp.github.io/rate-limiter-api",
   "rax": "alibaba.github.io/rax",
   "rax0-6": "raxjs.github.io/website-rax-v0.6",
-  "ray-optics-demo": "lachlandk.github.io/ray-optics-demo",
   "rayo": "getrayo.github.io/rayo.js",
   "rdf": "rdfjs.github.io", // noCF
   "react-atomic-ui": "react-atomic.github.io/react-atomic-ui",
