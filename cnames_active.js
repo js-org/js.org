@@ -1469,7 +1469,6 @@ var cnames_active = {
   "rate-limiter-api": "abhisekp.github.io/rate-limiter-api",
   "rax": "alibaba.github.io/rax",
   "rax0-6": "raxjs.github.io/website-rax-v0.6",
-  "ray-optics-demo": "lachlandk.github.io/ray-optics-demo",
   "rayo": "getrayo.github.io/rayo.js",
   "rdf": "rdfjs.github.io", // noCF
   "react-atomic-ui": "react-atomic.github.io/react-atomic-ui",
