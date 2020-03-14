@@ -1829,7 +1829,7 @@ var cnames_active = {
   "tayyab": "itayyab.github.io",
   "tead": "teadjs.github.io",
   "techy": "hosting.gitbook.com",
-  "teddy": "obnoxiousnerd.github.io/teddytags-website",
+  "teddy": "teddytags-test.netlify.com",
   "telaviv": "dustin-h.github.io/telaviv", // noCF? (don´t add this in a new PR)
   "telegraf": "telegraf.github.io/telegraf", // noCF? (don´t add this in a new PR)
   "teletype": "keyvank.github.io/teletype.js",
