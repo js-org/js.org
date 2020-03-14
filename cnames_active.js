@@ -596,6 +596,7 @@ var cnames_active = {
   "esfx": "esfx.github.io",
   "esper": "codecombat.github.io/esper.js",
   "eth": "eth-js.github.io/eth-dev-tools",
+  "ethaan": "ethaan.github.io/webpage",
   "ethavatar": "filips123.github.io/EthAvatar.JS",
   "euc": "wnda.github.io/euc",
   "euclid": "anandthakker.github.io/euclid", // noCF? (don´t add this in a new PR)
