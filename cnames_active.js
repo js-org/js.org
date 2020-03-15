@@ -1013,6 +1013,7 @@ var cnames_active = {
   "leste": "atwood-cai.github.io/leste.js", // noCF? (don´t add this in a new PR)
   "level": "xv700.github.io/level",
   "lf": "lf112.github.io",
+  "lgs": "lgsturkiye.github.io/lgs",
   "li": "mattsimmons1.github.io/li",
   "lifx": "fncxpro.github.io/lifx.js",
   "light": "lightjs.netlify.com",
