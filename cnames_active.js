@@ -1280,7 +1280,7 @@ var cnames_active = {
   "nsptiles": "imthenachoman.github.io/nSPTiles", // noCF? (don´t add this in a new PR)
   "nuclear": "nukeop.github.io/nuclear",
   "null": "false.netlify.com",
-  "numberproto": "https://vfdan.github.io/NumberProto.js"
+  "numberproto": "vfdan.github.io/NumberProto.js"
   "nut": "nut-project.netlify.com",
   "nuxt-fluent-bootstrap": "disjfa.github.io/nuxt-fluent-bootstrap",
   "nuxtdoc": "hopeful-hoover-d87dd1.netlify.com",
