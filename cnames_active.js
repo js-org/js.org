@@ -333,7 +333,7 @@ var cnames_active = {
   "city": "city.github.io",
   "civet": "civet-org.github.io",
   "cjss": "cjss-group.github.io/CJSS",
-  "ckkibet" : "ckkibet.github.io"
+  "ckkibet": "ckkibet.github.io"
   "clabe-validator": "center-key.github.io/clabe-validator",
   "clark": "clarkdo.github.io/new-blog",
   "clarkdo": "clarkdo.github.io",
@@ -541,6 +541,7 @@ var cnames_active = {
   "eatery-nod-w": "kevinast.github.io/eatery-nod-w",
   "ebnsina": "ebnsina.github.io/js.ebnsina.me",
   "echo": "licshee.github.io/echo.js",
+  "ecstar": "mouse484.github.io/Ecstar",
   "ed2k": "sunnyli.github.io/ed2k.js",
   "edazpotato": "edazpotato.github.io",
   "edsonluiz": "edsonluiz.github.io",
