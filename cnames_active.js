@@ -176,6 +176,7 @@ var cnames_active = {
   "awesome-alexa": "dolanmiu.github.io/MMM-awesome-alexa",
   "awesome-nuxt": "ansidev.github.io/awesome-nuxt",
   "awesome-vue": "rmjordas.github.io/awesome-vue",
+  "awesome-web-react": "dataformsjs.github.io/awesome-web-react",
   "awesomefeed": "arojunior.github.io/awesome-feed",
   "awesomehub": "awesomehub.netlify.com",
   "awesometech10": "awesometech10.github.io",
