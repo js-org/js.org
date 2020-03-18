@@ -396,7 +396,7 @@ var cnames_active = {
   "country": "growmies.github.io/countryjs", // noCF? (don´t add this in a new PR)
   "cp": "nestedobjects.github.io/cp",
   "cplayer": "copay.github.io/cPlayer",
-  "cppkies": "cppkies-team.github.io/Cppkies/",
+  "cppkies": "cppkies-team.github.io/Cppkies",
   "cq-websocket": "momocow.github.io/node-cq-websocket",
   "cqrs": "adrai.github.io/cqrs", // noCF? (don´t add this in a new PR)
   "cr": "echosoar.github.io/cr",
