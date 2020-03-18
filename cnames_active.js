@@ -519,6 +519,7 @@ var cnames_active = {
   "dragio": "alexkratky.github.io/Dragio.js",
   "dragonman225": "dragonman225.github.io",
   "draw": "skillzzjesse.github.io/draw",
+  "dreygur": "dreygur.github.io",
   "drome": "dromejs.github.io/drome.js.org",
   "drupi": "drupijs.github.io/website",
   "dtdevs": "daantje1.github.io"
