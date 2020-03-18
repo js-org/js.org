@@ -1341,6 +1341,7 @@ var cnames_active = {
   "parallel": "parallel-js.github.io/parallel.js",
   "parametric-svg": "parametric-svg.github.io", // noCF? (don´t add this in a new PR)
   "parkrun": "prouser123.github.io/parkrun.js",
+  "particles": "matteobruni.github.io/tsparticles,
   "pas-ce-soir": "oldergod.github.io/pas-ce-soir",
   "passepartout": "falkz.github.io/passepartout.js.org",
   "passwords": "sawyerbx.github.io/pw",
