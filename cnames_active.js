@@ -713,7 +713,7 @@ var cnames_active = {
   "giant-piano": "moroshko.github.io/giant-piano", // noCF? (don´t add this in a new PR)
   "girls": "girls-js.github.io",
   "girlscript": "girlscriptjaipur.github.io",
-  "gist": "jmas.github.io/gist",
+  "snippet": "jmas.github.io/gist",
   "gitdown": "gc.github.io/gitdown",
   "gitinit": "silly-shirley-8e44e3.netlify.com",
   "gitme": "gitme.netlify.com",
