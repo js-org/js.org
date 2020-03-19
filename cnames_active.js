@@ -713,7 +713,6 @@ var cnames_active = {
   "giant-piano": "moroshko.github.io/giant-piano", // noCF? (don´t add this in a new PR)
   "girls": "girls-js.github.io",
   "girlscript": "girlscriptjaipur.github.io",
-  "snippet": "jmas.github.io/gist",
   "gitdown": "gc.github.io/gitdown",
   "gitinit": "silly-shirley-8e44e3.netlify.com",
   "gitme": "gitme.netlify.com",
@@ -1729,6 +1728,7 @@ var cnames_active = {
   "snapshot": "vishnupsatish.github.io/snapshot",
   "snekfetch": "devsnek.github.io/snekfetch",
   "snowglobe": "3052cole.github.io/snowglobe",
+  "snippet": "jmas.github.io/gist",
   "social-likes": "sapegin.github.io/social-likes", // noCF? (don´t add this in a new PR)
   "social-likes-next": "sapegin.github.io/social-likes-next", // noCF? (don´t add this in a new PR)
   "solder": "mcrocks999.github.io/solder.js",
