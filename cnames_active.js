@@ -1184,6 +1184,7 @@ var cnames_active = {
   "mohit": "mohitgarg.github.io",
   "mohitgupta": "mohitgupta8888.github.io/mohitgupta",
   "mojiscript": "joelnet.github.io/MojiScript",
+  "mokunshao": "mokunshao.github.io",
   "mol": "eigenmethod.github.io/mol", // noCF
   "molti": "moltijs.github.io/molti",
   "mom": "momjs.github.io/mom",
