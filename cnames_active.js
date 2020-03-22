@@ -218,6 +218,7 @@ var cnames_active = {
   "begin": "advanced-webapps-class.github.io/begin", // noCF? (don´t add this in a new PR)
   "benjick": "benjick.github.io",
   "berk": "berkelmas.github.io",
+  "berun": "bestyled.github.io/berun",
   "bernard": "ojengwa.github.io",
   "berzan": "newbytee.github.io/berzan",
   "besafe": "ma124.github.io/BeSafe",
