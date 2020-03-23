@@ -2102,6 +2102,7 @@ var cnames_active = {
   "yuye": "cyea.github.io",
   "yvm": "tophat.github.io/yvm",
   "zaporizhzhia": "zaporizhzhiajs.github.io",
+  "zd": "616620131.github.io",
   "zea-cad": "zeainc.github.io/zea-cad",
   "zea-engine": "zeainc.github.io/zea-engine",
   "zea-ux": "zeainc.github.io/zea-ux",
@@ -2124,7 +2125,6 @@ var cnames_active = {
   "zplugins": "zlanguage.github.io/plugin-docs",
   "zty": "zetaoyang.github.io",
   "zyy": "zyyou.github.io/notes"
-  "zd": "616620131.github.io"
   /*
   * please don't add your subdomain records down here!
   * insert them in alphabetical order to help reduce merge conflicts.
