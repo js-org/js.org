@@ -155,7 +155,7 @@ var cnames_active = {
   "artery": "arteryjs.github.io/gh-pages", // noCF? (don´t add this in a new PR)
   "arthurmbandeira": "arthurmbandeira.github.io",
   "asdivyansh": "asdivyansh.github.io",
-  "aslamva": "aslamva.github.io"
+  "aslamva": "aslamva.github.io",
   "ass": "weizhenye.github.io/ASS",
   "ass-editor": "jeff-tian.github.io/ass",
   "ast": "kindy.github.io/ast",
