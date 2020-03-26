@@ -1683,6 +1683,7 @@ var cnames_active = {
   "service-mocker": "service-mocker.github.io/service-mocker",
   "serviceberry": "bob-gray.github.io/serviceberry",
   "share": "jeff-tian.github.io/weshare",
+  "shareon": "NickKaramoff.github.io/shareon",
   "sheet": "sheetjs.github.io/sheet.js.org",
   "shekhar": "shekharreddy4.github.io/Shekhar",
   "shermix": "shermix.github.io",
