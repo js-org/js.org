@@ -47,6 +47,7 @@ var cnames_active = {
   "21cm": "21cm.github.io",
   "23chemistrycamp": "nchuchemistry.github.io/23chemistrycamp",
   "2tube": "you2php.github.io/you2php",
+   "cron": "iguanren.github.io/sogou",
   "3d-go": "3d-go.netlify.com",
   "404": "licshee.github.io/404",
   "766": "766.github.io",
