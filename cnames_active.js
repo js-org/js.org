@@ -1796,6 +1796,7 @@ var cnames_active = {
   "str": "manelgarcia.github.io/str",
   "stratic": "straticjs.github.io",
   "stress": "julindra.github.io/stress.js",
+  "strudel": "strudeljs.netlify.com",
   "structure": "hosting.gitbook.com",
   "stuck": "linuxenko.github.io/unstuck-webpack",
   "style": "dhilipsiva.github.io/style.js", // noCF? (don´t add this in a new PR)
