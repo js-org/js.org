@@ -868,6 +868,7 @@ var cnames_active = {
   "ipv4": "licshee.github.io/IPv4-CIDR-Prefix-Merger",
   "ipynb": "jirutka.github.io/ipynb2html", // noCF
   "ir": "irjs.github.io/docs",
+  "iresume": "supremefish.github.io/iresume",
   "iro": "jaames.github.io/iro.js",
   "irouter": "alhaqhassan.github.io/irouter.js",
   "is": "arasatasaygin.github.io/is.js", // noCF? (don´t add this in a new PR)
@@ -1215,6 +1216,7 @@ var cnames_active = {
   "mysketch": "dipanshkhandelwal.github.io/MySketch",
   "mythbusters": "mythbustersjs.netlify.com",
   "myurl": "marvnet.github.io/myurl",
+  "mzaini30": "mzaini30.github.io",
   "mzplayer": "prince3661.github.io/Mzplayer",
   "n": "cyb.github.io/n",
   "nabin": "nabin6246.github.io",
@@ -1739,6 +1741,7 @@ var cnames_active = {
   "snippet": "jmas.github.io/gist",
   "social-likes": "sapegin.github.io/social-likes", // noCF? (don´t add this in a new PR)
   "social-likes-next": "sapegin.github.io/social-likes-next", // noCF? (don´t add this in a new PR)
+  "sogou": "iguanren.github.io/sogou",
   "solder": "mcrocks999.github.io/solder.js",
   "solome": "solome.github.io",
   "sonny": "sonnylazuardi.github.io", // noCF? (don´t add this in a new PR)
@@ -1797,7 +1800,7 @@ var cnames_active = {
   "stratic": "straticjs.github.io",
   "stress": "julindra.github.io/stress.js",
   "structure": "hosting.gitbook.com",
-  "sogou": "iguanren.github.io/sogou",
+  "strudel": "strudeljs.netlify.com",
   "stuck": "linuxenko.github.io/unstuck-webpack",
   "style": "dhilipsiva.github.io/style.js", // noCF? (don´t add this in a new PR)
   "styled-css-grid": "styled-css-grid.netlify.com",
