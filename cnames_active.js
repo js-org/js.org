@@ -868,6 +868,7 @@ var cnames_active = {
   "ipv4": "licshee.github.io/IPv4-CIDR-Prefix-Merger",
   "ipynb": "jirutka.github.io/ipynb2html", // noCF
   "ir": "irjs.github.io/docs",
+  "iresume": "supremefish.github.io/iresume",
   "iro": "jaames.github.io/iro.js",
   "irouter": "alhaqhassan.github.io/irouter.js",
   "is": "arasatasaygin.github.io/is.js", // noCF? (don´t add this in a new PR)
