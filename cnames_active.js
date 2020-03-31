@@ -1328,6 +1328,7 @@ var cnames_active = {
   "ongaku": "anshuman-verma.github.io/ongaku",
   "openrecord": "philwaldmann.github.io/openrecord",
   "opentype": "nodebox.github.io/opentype.js",
+  "opxop": "opxop.github.io",
   "orango": "roboncode.github.io/orango",
   "orga": "orgapp.github.io/orgajs",
   "organizeapi": "zachary-murphy.gitbooks.io/organizeapi-docs",
