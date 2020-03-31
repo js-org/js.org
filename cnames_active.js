@@ -232,6 +232,7 @@ var cnames_active = {
   "blego": "mattstypa.github.io/blego.js.org",
   "blessmyrains": "dusterthefirst.github.io/blessmyrains",
   "blockauth": "faragly.github.io/blockauth",
+  "blogzam": "zam27.github.io/blogzam",
   "blogzen": "mzaini30.github.io/blogzen",
   "bloomer": "algusdark.github.io/bloomer",
   "blotter": "bradley.github.io/Blotter",
