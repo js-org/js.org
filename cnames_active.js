@@ -105,6 +105,7 @@ var cnames_active = {
   "ali": "alibouhrouche.netlify.com",
   "alien": "pschroen.github.io/alien.js",
   "aligos": "aligos.github.io", // noCF? (don´t add this in a new PR)
+  "ali-react-table": "alibaba.github.io/ali-react-table",
   "all": "learnsomuch.github.io/all.js", // noCF? (don´t add this in a new PR)
   "all-contributors": "all-contributors-js-org.netlify.com",
   "almin": "almin.github.io",
