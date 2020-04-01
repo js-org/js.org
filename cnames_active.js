@@ -2074,6 +2074,7 @@ var cnames_active = {
   "wooyun": "jiji262.github.io/wooyun_articles",
   "wordywordy": "sverweij.github.io/wordywordy",
   "wowufoundme": "wowufoundme.github.io",
+  "wo": "iguanren.github.io/wo",
   "writebar": "alexander-shvets.github.io/writebar",
   "wthunting": "sawyerbx.github.io/wthunting",
   "wyfe": "wangyuanstudio.github.io/WYFE", // noCF? (don´t add this in a new PR)
