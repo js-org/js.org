@@ -2070,11 +2070,11 @@ var cnames_active = {
   "with-immutable-props-to-js": "tophat.github.io/with-immutable-props-to-js",
   "within": "eric-brechemier.github.io/within", // noCF? (don´t add this in a new PR)
   "wiz": "karimsa.github.io/wiz", // noCF
+  "wo": "iguanren.github.io/wo",
   "woodsman": "haximilian.github.io/woodsman",
   "wooyun": "jiji262.github.io/wooyun_articles",
   "wordywordy": "sverweij.github.io/wordywordy",
   "wowufoundme": "wowufoundme.github.io",
-  "wo": "iguanren.github.io/wo",
   "writebar": "alexander-shvets.github.io/writebar",
   "wthunting": "sawyerbx.github.io/wthunting",
   "wyfe": "wangyuanstudio.github.io/WYFE", // noCF? (don´t add this in a new PR)
