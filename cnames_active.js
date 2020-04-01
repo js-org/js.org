@@ -1220,6 +1220,7 @@ var cnames_active = {
   "muto": "booleanapp.github.io/elastic-muto",
   "mvc": "morozovsk.github.io/mvc", // noCF
   "mw": "agauniyal.github.io/mw",
+  "my-app": "nirrius.github.io/my-app",
   "mysketch": "dipanshkhandelwal.github.io/MySketch",
   "mythbusters": "mythbustersjs.netlify.com",
   "myurl": "marvnet.github.io/myurl",
