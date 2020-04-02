@@ -1221,6 +1221,7 @@ var cnames_active = {
   "mvc": "morozovsk.github.io/mvc", // noCF
   "mw": "agauniyal.github.io/mw",
   "my-app": "nirrius.github.io/my-app",
+  "my-server": "nirrius.github.io/my-server",
   "mysketch": "dipanshkhandelwal.github.io/MySketch",
   "mythbusters": "mythbustersjs.netlify.com",
   "myurl": "marvnet.github.io/myurl",
