@@ -954,6 +954,7 @@ var cnames_active = {
   "kea": "kea.netlify.com",
   "keeping-up-with-javascript": "jasperv.github.io/keeping-up-with-javascript",
   "kelvinho": "kelvin2go.github.io", // noCF? (don´t add this in a new PR)
+  "kevin": "kevinaltaf.github.io",
   "kewitz": "kewitz.github.io",
   "keypress": "rumkin.github.io/keypress.js.org",
   "kilobyte": "kilobytehq.github.io/open-js",
