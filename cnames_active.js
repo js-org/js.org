@@ -1767,6 +1767,7 @@ var cnames_active = {
   "spax": "crossjs.github.io/spax-site",
   "spectragram": "adrianengine.github.io/jquery-spectragram", // noCF? (don´t add this in a new PR)
   "speroxu": "speroxu.github.io",
+  "spider": "spider-scraper.netlify.app",
   "spike": "spike.netlify.com",
   "spin": "fgnass.github.io/spin.js", // noCF? (don´t add this in a new PR)
   "spirare": "waldenn.github.io/spirare", // noCF? (don´t add this in a new PR)
