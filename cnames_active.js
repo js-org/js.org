@@ -1847,6 +1847,7 @@ var cnames_active = {
   "sydinh": "sydinh.github.io",
   "synth": "lukehorvat.github.io/synth-mood",
   "syr": "dmikey.github.io/syr",
+  "syaauqi": "syauqizaidan.github.io",
   "tab": "gdmcc.github.io/tab",
   "tagster": "goschevski.github.io/tagster", // noCF? (don´t add this in a new PR)
   "taha": "orcxzjeeeee.github.io/taha",
