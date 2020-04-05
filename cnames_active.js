@@ -1845,6 +1845,7 @@ var cnames_active = {
   "switchjoy": "switchjoy.github.io",
   "swup": "swup.github.io/docs",
   "sxw": "sxwjs.github.io",
+   "syauqi": "syauqizaidan.github.io",
   "sydinh": "sydinh.github.io",
   "synth": "lukehorvat.github.io/synth-mood",
   "syr": "dmikey.github.io/syr",
