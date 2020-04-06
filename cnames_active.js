@@ -1178,6 +1178,7 @@ var cnames_active = {
   "mjx": "mjx-dev.github.io",
   "mm": "1ocalhost.github.io/mm",
   "mmcq": "nikola.github.io/MMCQ", // noCF? (don´t add this in a new PR)
+  "mnmlcss": "barelyhuman.github.io/mnml.css"
   "mo": "mirmousaviii.github.io/mo",
   "mobx": "mobxjs.github.io/mobx",
   "mobx-keystone": "mobx-keystone.netlify.com",
