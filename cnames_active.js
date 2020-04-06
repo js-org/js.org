@@ -1681,7 +1681,7 @@ var cnames_active = {
   "seatbelt": "seatbeltjs.github.io/seatbelt",
   "seatchart": "omarmahili.github.io/seatchart.js",
   "secsb": "secsb.github.io",
-  "security-list": "https://lissy93.github.io/personal-security-checklist",
+  "security-list": "lissy93.github.io/personal-security-checklist",
   "sed": "42ua.github.io/sed",
   "seemple": "finom.github.io/seemple.js.org",
   "seesaw": "cajogos.github.io/seesaw",
