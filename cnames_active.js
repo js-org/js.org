@@ -1879,6 +1879,7 @@ var cnames_active = {
   "teletype": "keyvank.github.io/teletype.js",
   "temme": "shinima.github.io/temme",
   "tequila": "tequila-js.github.io",
+  "term-web": "zhw2590582.github.io/term-web",
   "terminal": "gottox.github.io/terminal.js", // noCF? (don´t add this in a new PR)
   "testframe": "testingrequired.github.io/testframe",
   "textillate": "jschr.github.io/textillate", // noCF? (don´t add this in a new PR)
