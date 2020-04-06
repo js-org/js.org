@@ -1443,6 +1443,7 @@ var cnames_active = {
   "powercycle": "sarimarton.github.io/powercycle",
   "ppt": "1ocalhost.github.io/ppt",
   "pptx": "meshesha.github.io/jspptxjs.github.io",
+  "pranshuchittora": "pranshuchittora.github.io",
   "pretty-print-json": "center-key.github.io/pretty-print-json",
   "prettylog": "moosecoop.github.io/PrettyLog",
   "prismarine": "prismarinejs.github.io",
