@@ -1098,6 +1098,7 @@ var cnames_active = {
   "markdown-notepad": "jz222.github.io/markdown-notepad",
   "markdownify": "amitmerchant1990.github.io/electron-markdownify",
   "marked": "markedjs.github.io/marked",
+  "markmap": "gera2ld.github.io/markmap-lib",
   "markmsmith": "markmsmith.github.io",
   "markvis": "geekplux.github.io/markvis",
   "markvis-editor": "geekplux.github.io/markvis-editor",
