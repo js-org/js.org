@@ -450,8 +450,8 @@ var cnames_active = {
   "dbar": "dbarjs.github.io",
   "dbash": "oocydo.github.io/dbash",
   "dbo": "z3ta.github.io/dbo", // noCF? (don´t add this in a new PR)
-  "dbots": "dbots-pkg.github.io",
   "dbothook": "dbots-pkg.github.io/dbothook-website",
+  "dbots": "dbots-pkg.github.io",
   "deck-of-cards": "pakastin.github.io/deck-of-cards",
   "declarativ": "fennifith.github.io/declarativ", // noCF
   "deepfractal": "munrocket.github.io/deep-fractal",
