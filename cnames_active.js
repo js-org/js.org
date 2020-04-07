@@ -1165,6 +1165,7 @@ var cnames_active = {
   "minesweeper": "derflatulator.github.io/minesweeper",
   "mingyi": "liangmingyi.github.io", // noCF? (don´t add this in a new PR)
   "minidrone": "mechazawa.github.io/minidrone-js",
+  "minify": "minify-js.github.io",
   "minigrid": "henriquea.github.io/minigrid", // noCF? (don´t add this in a new PR)
   "minijoshua": "joshualovescode.github.io/MiniJoshua-Website",
   "mininote": "htdt.github.io/mininote",
