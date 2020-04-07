@@ -1904,6 +1904,7 @@ var cnames_active = {
   "threads": "andywer.github.io/threads.js",
   "thundercats": "thundercatsjs.github.io/thundercats", // noCF? (don´t add this in a new PR)
   "tictactoe": "jeff-tian.github.io/tic-tac-toe-ai",
+  "tidy": "tidy-js.github.io",
   "tie": "tie-team.github.io",
   "tights": "tights.netlify.com",
   "timeout": "anshuman-verma.github.io/setTimeout",
