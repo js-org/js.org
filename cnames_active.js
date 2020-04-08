@@ -1187,6 +1187,7 @@ var cnames_active = {
   "mobx-keystone": "mobx-keystone.netlify.com",
   "mobx-react": "mobx-react.netlify.com",
   "mobx-state-tree": "mobxjs.github.io/mobx-state-tree",
+  "mock-cmdr": "ncjones.github.io/mock-cmdr",
   "mock-middleware": "luobotang.github.io/mock-middleware",
   "mockjs-lite": "52cik.github.io/mockjs-lite", // noCF
   "mockyeah": "mockyeah.netlify.com",
