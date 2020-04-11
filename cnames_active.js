@@ -385,7 +385,6 @@ var cnames_active = {
   "cookiecord": "cookiecord.github.io/cookiecord",
   "coord": "itsacorn.github.io/jscoord",
   "copyer": "tsycode.github.io/copyer.js",
-   "cool": "iguanren.github.io/cool",
   "copywriting-correct": "rikakomoe.github.io/copywriting-correct",
   "cordclient": "cordclient.github.io/stable",
   "cordova-multiplatform-template": "ckgrafico.github.io/Cordova-Multiplatform-Template", // noCF? (don´t add this in a new PR)
@@ -1630,6 +1629,7 @@ var cnames_active = {
   "russia-wc": "kaykayehnn.github.io/russia-wc",
   "rut": "jeam.github.io/rut",
   "ruwan": "rpgee.github.io",
+  "rua": "iguanren.github.io/rua",
   "rva": "fanyer.github.io/rva",
   "ryaneldon": "rdogstyle.github.io/ryaneldon",
   "ryzokuken": "ryzokuken.github.io",
