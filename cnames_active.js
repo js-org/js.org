@@ -1657,6 +1657,7 @@ var cnames_active = {
   "rva": "fanyer.github.io/rva",
   "ryaneldon": "rdogstyle.github.io/ryaneldon",
   "ryzokuken": "ryzokuken.github.io",
+  "sw": "tinkwo.github.io/siwa",
   "s3swa": "s3swa-ict-upgifter.github.io/snow-eater",
   "s4swa": "s4swa.github.io",
   "sagui": "saguijs.github.io", // noCF? (don´t add this in a new PR)
