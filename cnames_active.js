@@ -385,6 +385,7 @@ var cnames_active = {
   "cookiecord": "cookiecord.github.io/cookiecord",
   "coord": "itsacorn.github.io/jscoord",
   "copyer": "tsycode.github.io/copyer.js",
+   "cool": "iguanren.github.io/cool",
   "copywriting-correct": "rikakomoe.github.io/copywriting-correct",
   "cordclient": "cordclient.github.io/stable",
   "cordova-multiplatform-template": "ckgrafico.github.io/Cordova-Multiplatform-Template", // noCF? (don´t add this in a new PR)
@@ -2070,7 +2071,7 @@ var cnames_active = {
   "with-immutable-props-to-js": "tophat.github.io/with-immutable-props-to-js",
   "within": "eric-brechemier.github.io/within", // noCF? (don´t add this in a new PR)
   "wiz": "karimsa.github.io/wiz", // noCF
-  "wo": "8ffn28.coding-pages.com",
+  "wo": "iguanren.github.io/wo",
   "woodsman": "haximilian.github.io/woodsman",
   "wooyun": "jiji262.github.io/wooyun_articles",
   "wordywordy": "sverweij.github.io/wordywordy",
