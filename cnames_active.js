@@ -1961,6 +1961,7 @@ var cnames_active = {
   "ttgprotect": "ttgprotect.github.io",
   "ttt": "lukechu10.github.io/TicTacToe-Minimax",
   "tui-nuxt": "hosting.gitbook.com", // noCF
+  "tuplet" "meleyal.github.io/tuplet",
   "turali": "caglarturali.github.io",
   "turbo": "turbo.github.io",
   "tux": "tux.gitbooks.io/docs",
