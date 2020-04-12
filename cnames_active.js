@@ -1717,6 +1717,7 @@ var cnames_active = {
   "serverest": "paulogoncalvesbh.github.io/serverest",
   "service-mocker": "service-mocker.github.io/service-mocker",
   "serviceberry": "bob-gray.github.io/serviceberry",
+  "sesam": "lennertderyck.github.io/sesam",
   "share": "jeff-tian.github.io/weshare",
   "shareon": "NickKaramoff.github.io/shareon",
   "sheet": "sheetjs.github.io/sheet.js.org",
