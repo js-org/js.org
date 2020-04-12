@@ -317,6 +317,7 @@ var cnames_active = {
   "celery-node": "actumn.github.io/celery.node",
   "cennznet": "cennznet.github.io/cennznet-ui",
   "ceruttimaicon": "ceruttimaicon.github.io",
+  "cesaralvarez": "cesaralvrz.github.io/cesaralvarez",
   "cezanne": "hackdoor-io.github.io/cezanne",
   "chain-able": "fluents.github.io/chain-able-site",
   "chandzhang": "chandzhang.github.io",
