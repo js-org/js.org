@@ -383,6 +383,7 @@ var cnames_active = {
   "community.os": "js.bydiscourse.com", // noCF? (don´t add this in a new PR)
   "concurrent-tasks": "hosting.gitbook.com",
   "concursos": "mteyss.github.io/concursos", // noCF? (don´t add this in a new PR)
+  "cndrew": "codemaster233.github.io",
   "conductor": "hosting.gitbook.com",
   "conglo": "schwarzkopfb.github.io/conglo",
   "consent": "datamart.github.io/Consent",
