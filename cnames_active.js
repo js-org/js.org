@@ -593,6 +593,7 @@ var cnames_active = {
   "emre": "emrekara37.github.io",
   "emulisp": "grahack.github.io/EmuLisp", // noCF? (don´t add this in a new PR)
   "enclave": "eanplatter.github.io/enclave", // noCF? (don´t add this in a new PR)
+  "endersquid": "endersquidjs.github.io",
   "endb": "chroventer.github.io/endb",
   "endpoint-imposter": "lukaszmakuch.github.io/endpoint-imposter",
   "energy": "energychain.github.io/energy",
