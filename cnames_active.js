@@ -1325,6 +1325,7 @@ var cnames_active = {
   "nuxtdoc": "hopeful-hoover-d87dd1.netlify.com",
   "nva": "ali322.github.io/nva",
   "nxse": "nxse.github.io",
+  "nxd": "niuxvdong.github.io",
   "nyc": "nycjsorg.github.io/nyc",
   "nyr": "suriyaakudoisc.github.io/NYR",
   "oak": "donn.github.io/Oak.js",
