@@ -1324,6 +1324,7 @@ var cnames_active = {
   "nuxt-fluent-bootstrap": "disjfa.github.io/nuxt-fluent-bootstrap",
   "nuxtdoc": "hopeful-hoover-d87dd1.netlify.com",
   "nva": "ali322.github.io/nva",
+  "nxd": "niuxvdong.github.io",
   "nxse": "nxse.github.io",
   "nyc": "nycjsorg.github.io/nyc",
   "nyr": "suriyaakudoisc.github.io/NYR",
