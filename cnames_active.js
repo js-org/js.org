@@ -414,6 +414,7 @@ var cnames_active = {
   "cr": "echosoar.github.io/cr",
   "cracked": "billorcutt.github.io/Cracked",
   "craft": "prevwong.github.io/craft.js",
+  "crank": "bikeshaving.github.io/crank",
   "crawlx": "wooddance.github.io/crawlx",
   "create-project": "chalarangelo.github.io/create-js-project",
   "createrest": "atomixinteractions.github.io/createrest",
