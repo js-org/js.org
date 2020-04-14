@@ -1721,6 +1721,7 @@ var cnames_active = {
   "serviceberry": "bob-gray.github.io/serviceberry",
   "share": "jeff-tian.github.io/weshare",
   "shareon": "NickKaramoff.github.io/shareon",
+  "sheep": "yinuxy.github.io",
   "sheet": "sheetjs.github.io/sheet.js.org",
   "shekhar": "shekharreddy4.github.io/Shekhar",
   "shermix": "shermix.github.io",
