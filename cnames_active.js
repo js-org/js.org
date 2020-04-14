@@ -194,6 +194,7 @@ var cnames_active = {
   "backwards-n": "backwards-n.github.io",
   "badger": "just-glue-it.github.io/badger", // noCF? (don´t add this in a new PR)
   "badlydrawnletters": "ql1ke5l98lm5wm0p.preview.edgeapp.net"
+  "badlymadebot": "37l9g5rwwrozyeqk.preview.edgeapp.net"
   "badrudeen": "badrudeen.github.io", // noCF? (don´t add this in a new PR)
   "bai": "abaijs.github.io",
   "bali": "balijs.github.io",
