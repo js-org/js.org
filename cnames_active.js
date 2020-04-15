@@ -720,6 +720,7 @@ var cnames_active = {
   "gazosekai": "starkblaze01.github.io/Gazo_Sekai",
   "gcse": "abemedia.github.io/jquery-gcse",
   "geekr": "ruanyl.github.io/geekr", // noCF? (don´t add this in a new PR)
+  "geniucker": "geniucker.github.io",
   "genpasswd": "exos.github.io/genpasswd", // noCF? (don´t add this in a new PR)
   "george": "georgeyue.github.io/george",
   "gerardo": "gvzq.github.io/gerardo",
