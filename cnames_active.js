@@ -554,6 +554,7 @@ var cnames_active = {
   "dynaflo": "trevorhanus.github.io/dynaflo",
   "dynamic-record": "na-west1.surge.sh",
   "dynamicsnode": "crisfervil.github.io/DynamicsNode",
+  "dynamoose": "dynamoosejs.com",
   "dynwriter": "orbitalproject.github.io/dyn-client",
   "dyo": "dyo.github.io/dyo",
   "eahmed234": "eahmed234.github.io",
