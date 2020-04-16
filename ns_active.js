@@ -19,4 +19,5 @@
   "ruby": ["ns11.cloudns.net", "ns12.cloudns.net", "ns13.cloudns.net", "ns14.cloudns.net"],
   "samplasion": ["ns31.cloudns.net", "ns32.cloudns.net", "ns33.cloudns.net", "ns34.cloudns.net"],
   "shebang": ["dns1.p01.nsone.net", "dns2.p01.nsone.net", "dns3.p01.nsone.net", "dns4.p01.nsone.net"]
+  "really-simple-server": ["ns31.cloudns.net", "ns32.cloudns.net", "ns33.cloudns.net", "ns34.cloudns.net"]
  }
