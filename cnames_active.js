@@ -1658,6 +1658,7 @@ var cnames_active = {
   "routex": "routex.netlify.com",
   "rp": "rpocklin.github.io", // noCF? (don´t add this in a new PR)
   "rplayer": "davland7.github.io/rplayer",
+  "rss": "really-simple-server.github.io" // RSS stands for Really Simple Server
   "rsshub": "diygod.github.io/RSSHub",
   "rsshub-reader": "sevenoutman.github.io/RSSHub-Reader",
   "rst": "rst-js.github.io/rst.js.org",
