@@ -788,6 +788,7 @@ var cnames_active = {
   "gyre": "wridder.github.io/GyreJS", // noCF? (don´t add this in a new PR)
   "gyx": "yourtion.github.io/gyx.js.org",
   "h": "makenowjust.github.io/h.js",
+  "h3": "h3rald.github.io/h3",
   "h7ml": "h7ml.github.io/web",
   "ha-store": "fed135.github.io/ha-store",
   "habra": "jarvis394.github.io/habra",
