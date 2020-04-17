@@ -2010,6 +2010,7 @@ var cnames_active = {
   "up": "codefeathers.github.io/up",
   "uppload": "uppload.netlify.com",
   "upresent": "bobbybee.github.io/uPresent", // noCF? (don´t add this in a new PR)
+  "upset": "upsetjs.github.io",
   "uptime": "intelligo-systems.github.io/uptime.js",
   "urban": "snekjs.github.io/urban.js",
   "url-pages": "url-pages.github.io",
