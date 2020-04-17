@@ -1789,6 +1789,7 @@ var cnames_active = {
   "sogou": "iguanren.github.io/sogou",
   "solder": "mcrocks999.github.io/solder.js",
   "solome": "solome.github.io",
+  "soniq": "fullstack-build.github.io/soniq",
   "sonny": "sonnylazuardi.github.io", // noCF? (don´t add this in a new PR)
   "soofik": "soofik.github.io",
   "sop": "kuboschek.github.io/sop",
