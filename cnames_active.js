@@ -2077,6 +2077,7 @@ var cnames_active = {
   "wordywordy": "sverweij.github.io/wordywordy",
   "wowufoundme": "wowufoundme.github.io",
   "writebar": "alexander-shvets.github.io/writebar",
+  "wss": "https://iguanren.github.io/wss",
   "wthunting": "sawyerbx.github.io/wthunting",
   "wyfe": "wangyuanstudio.github.io/WYFE", // noCF? (don´t add this in a new PR)
   "wynncraft": "frawolf.github.io/wynncraft.js",
