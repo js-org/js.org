@@ -1104,6 +1104,7 @@ var cnames_active = {
   "manic": "manicjs.github.io",
   "manu": "botsdemanu.github.io/manu",
   "manual.bluelightos": "hosting.gitbook.com",
+  "mansiart": "minaraja.github.io/mansiart", 
   "manytimepad": "dipanshkhandelwal.github.io/ManyTimePad",
   "mapa-cultura": "opensas.gitlab.io",
   "mappa": "cvalenzuela.github.io/Mappa",
