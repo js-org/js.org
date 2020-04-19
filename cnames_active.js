@@ -489,6 +489,7 @@ var cnames_active = {
   "discord": "discordjs.github.io/website",
   "discord-anti-spam": "michael-j-scofield.github.io/discord-anti-spam",
   "discord-giveaways": "androz2091.github.io/discord-giveaways",
+  "discordhy": "https://hydrogenapi.gitbook.io/discordhy/",
   "discord-kr": "discordjs-kr.github.io/website",
   "discord-logs": "androz2091.github.io/discord-logs",
   "discord-player": "androz2091.github.io/discord-player",
