@@ -905,7 +905,7 @@ var cnames_active = {
   "isic": "isic.github.io/isic-docs",
   "islisp": "ta2gch.github.io/islisp.js.org",
   "istanbul": "istanbuljs.github.io",
-  "italia": "milano-js.github.io/italia-js", // noCF? (don´t add this in a new PR)
+  "italia": "italia-js.github.io",
   "itsashis4u": "itsashis4u.github.io", // noCF? (don´t add this in a new PR)
   "itunes-bridge": "angrykiller.github.io/iTunes-bridge",
   "iutdb": "xchairs.github.io/iutdb.github.io",
