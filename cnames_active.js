@@ -287,6 +287,7 @@ var cnames_active = {
   "c-3po": "ttag-org.github.io/c-3po",
   "cable": "whatgoodisaroad.github.io/cablejs", // noCF? (don´t add this in a new PR)
   "cac": "cac.netlify.com",
+  "cachi": "https://eddiejibson.github.io/cachi",
   "caffeine": "ccrraaiigg.github.io/caffeine",
   "cagatay": "cagataycali.github.io",
   "cake-boss": "dannytatom.github.io/cake-boss",
