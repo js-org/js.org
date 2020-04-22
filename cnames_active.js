@@ -48,7 +48,7 @@ var cnames_active = {
   "23chemistrycamp": "nchuchemistry.github.io/23chemistrycamp",
   "2tube": "you2php.github.io/you2php",
   "3d-go": "3d-go.netlify.com",
-  "404": "licshee.github.io/404",
+  "404": "licshee.github.io/404",tu
   "766": "766.github.io",
   "7anshuai": "7anshuai.github.io", // noCF? (don´t add this in a new PR)
   "98": "1j01.github.io/98",
@@ -1008,6 +1008,7 @@ var cnames_active = {
   "kovart": "kovart.github.io/cv",
   "kowalski": "k0walslk1.github.io",
   "kra": "kra-framework.github.io/kra-suite", // noCF
+   "ks": "guzhou.github.io",
   "kremling": "canopytax.github.io/kremling.js.org",
   "kshitij": "kshitij98.github.io",
   "kst": "lucaelin.github.io/KST", // noCF
