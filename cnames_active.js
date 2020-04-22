@@ -49,6 +49,7 @@ var cnames_active = {
   "2tube": "you2php.github.io/you2php",
   "3d-go": "3d-go.netlify.com",
   "404": "licshee.github.io/404",
+  "588": "588.biz.st",
   "766": "766.github.io",
   "7anshuai": "7anshuai.github.io", // noCF? (don´t add this in a new PR)
   "98": "1j01.github.io/98",
@@ -1793,6 +1794,7 @@ var cnames_active = {
   "snekfetch": "devsnek.github.io/snekfetch",
   "snowglobe": "3052cole.github.io/snowglobe",
   "snippet": "jmas.github.io/gist",
+  "so": "guzhou.github.io/y86",
   "social-likes": "sapegin.github.io/social-likes", // noCF? (don´t add this in a new PR)
   "social-likes-next": "sapegin.github.io/social-likes-next", // noCF? (don´t add this in a new PR)
   "sogou": "iguanren.github.io/sogou",
