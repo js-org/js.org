@@ -1500,6 +1500,7 @@ var cnames_active = {
   "publish-subscribe": "r37r0m0d3l.github.io/publish_subscribe",
   "published": "fiverr.github.io/published",
   "pulse": "alias.zeit.co", //noCF
+  "puppet": "anandchowdhary.github.io/puppet",
   "pure": "fengzilong.github.io/pure",
   "purpzie": "purpzie.github.io/site",
   "pwa": "charistheo.github.io/pwa.js.org",
