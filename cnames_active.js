@@ -425,7 +425,7 @@ var cnames_active = {
   "cryptokey": "rumkin.github.com/crypto-key",
   "csv": "adaltas.github.io/node-csv-docs",
   "cucumber-mink": "adezandee.github.io/cucumber-mink", // noCF? (don´t add this in a new PR)
-  "cungudafa": "cungudafa.github.io/CungudafaBlog", 
+  "cungudafa": "cungudafa.github.io", 
   "curi": "pshrmn.github.io/curi",
   "currency": "scurker.github.io/currency.js",
   "curseapp": "mcrocks999.github.io/curseapp.js",
