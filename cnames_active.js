@@ -148,6 +148,7 @@ var cnames_active = {
   "arc": "diegohaz.github.io/arc",
   "arcn": "alexakasanjeev.github.io/arcn",
   "argaghulamahmad": "argaghulamahmad.github.io",
+  "arga": "argaghulamahmad.netlify.app",
   "argo": "albertosantini.github.io/argo", // noCF? (don´t add this in a new PR)
   "ari": "arbo77.github.io/ari",
   "ariang": "p3terx.github.io/ariang",
@@ -428,7 +429,7 @@ var cnames_active = {
   "cryptokey": "rumkin.github.com/crypto-key",
   "csv": "adaltas.github.io/node-csv-docs",
   "cucumber-mink": "adezandee.github.io/cucumber-mink", // noCF? (don´t add this in a new PR)
-  "cungudafa": "cungudafa.github.io", 
+  "cungudafa": "cungudafa.github.io",
   "curi": "pshrmn.github.io/curi",
   "currency": "scurker.github.io/currency.js",
   "curseapp": "mcrocks999.github.io/curseapp.js",
@@ -1112,7 +1113,7 @@ var cnames_active = {
   "makes": "makesjs.github.io",
   "mali": "malijs.github.io",
   "manic": "manicjs.github.io",
-  "mansiart": "minaraja.github.io/mansiart", 
+  "mansiart": "minaraja.github.io/mansiart",
   "manu": "botsdemanu.github.io/manu",
   "manual.bluelightos": "hosting.gitbook.com",
   "manytimepad": "dipanshkhandelwal.github.io/ManyTimePad",
