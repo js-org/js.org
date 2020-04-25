@@ -147,6 +147,7 @@ var cnames_active = {
   "aprende-react": "ptcc.github.io/aprende-react",
   "arc": "diegohaz.github.io/arc",
   "arcn": "alexakasanjeev.github.io/arcn",
+  "argaghulamahmad": "argaghulamahmad.github.io",
   "argo": "albertosantini.github.io/argo", // noCF? (don´t add this in a new PR)
   "ari": "arbo77.github.io/ari",
   "ariang": "p3terx.github.io/ariang",
@@ -238,6 +239,7 @@ var cnames_active = {
   "blockauth": "faragly.github.io/blockauth",
   "blogzam": "zam27.github.io/blogzam",
   "blogzen": "mzaini30.github.io/blogzen",
+  "blog.argaghulamahmad": "argaghulamahmad.netlify.app",
   "bloomer": "algusdark.github.io/bloomer",
   "blotter": "bradley.github.io/Blotter",
   "blueconfig": "a-312.github.io/node-blueconfig",
