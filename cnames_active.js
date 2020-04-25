@@ -239,7 +239,6 @@ var cnames_active = {
   "blockauth": "faragly.github.io/blockauth",
   "blogzam": "zam27.github.io/blogzam",
   "blogzen": "mzaini30.github.io/blogzen",
-  "blog.argaghulamahmad": "argaghulamahmad.netlify.app",
   "bloomer": "algusdark.github.io/bloomer",
   "blotter": "bradley.github.io/Blotter",
   "blueconfig": "a-312.github.io/node-blueconfig",
