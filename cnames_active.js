@@ -1902,6 +1902,7 @@ var cnames_active = {
   "sydinh": "sydinh.github.io",
   "synth": "lukehorvat.github.io/synth-mood",
   "syr": "dmikey.github.io/syr",
+  "slblog-jw": "open-super.github.io",//noCF?(don't add this in a new PR）
   "tab": "gdmcc.github.io/tab",
   "tagster": "goschevski.github.io/tagster", // noCF? (don´t add this in a new PR)
   "taha": "orcxzjeeeee.github.io/taha",
@@ -2210,7 +2211,6 @@ var cnames_active = {
   "zplugins": "zlanguage.github.io/plugin-docs",
   "zty": "zetaoyang.github.io",
   "zyy": "zyyou.github.io/notes"
-  "slblog-jw": "open-super.github.io",//noCF?(don't add this in a new PR)
   /*
   * please don't add your subdomain records down here!
   * insert them in alphabetical order to help reduce merge conflicts.
