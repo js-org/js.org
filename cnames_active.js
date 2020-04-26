@@ -410,6 +410,7 @@ var cnames_active = {
   "cracked": "billorcutt.github.io/Cracked",
   "craft": "prevwong.github.io/craft.js",
   "crawlx": "wooddance.github.io/crawlx",
+  "create-next-app": "create-next-app.github.io",
   "create-project": "chalarangelo.github.io/create-js-project",
   "createrest": "atomixinteractions.github.io/createrest",
   "creaturegen": "ryancromebook.github.io/creaturegen",
