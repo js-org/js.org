@@ -707,6 +707,7 @@ var cnames_active = {
   "foxman": "kaola-fed.github.io/foxman",
   "framework": "plasnerd.github.io/Framework.js",
   "frameworkless": "mtimofiiv.github.io/frameworkless",
+  "frankmosca": "alias.zeit.co", // noCF
   "fre": "132yse.github.io/fre",
   "freemarker": "ijse.github.io/freemarker.js", // noCF? (don´t add this in a new PR)
   "freezer": "pakastin.github.io/freezer",
@@ -1894,6 +1895,7 @@ var cnames_active = {
   "sutanlab": "sutanlab.github.io.github.io",
   "svelte-workshop": "korzio.github.io/svelte-workshop",
   "svelteui": "transpiling.github.io/svelte-flat-ui",
+  "svg-crowbar": "cy6erskunk.github.io/svg-crowbar",
   "svg-skeleton": "yyued.github.io/SVG-Skeleton",
   "svr": "kikobeats.github.io/svr",
   "sw-yx": "sw-yx.github.io",
@@ -2173,6 +2175,7 @@ var cnames_active = {
   "xstate": "davidkpiano.github.io/xstate",
   "xto6": "mohebifar.github.io/xto6", // noCF? (don´t add this in a new PR)
   "xtype": "lucono.github.io/xtypejs", // noCF? (don´t add this in a new PR)
+  "xhemj": "xhemj.github.io/books"
   "y86": "quietshu.github.io/y86", // noCF? (don´t add this in a new PR)
   "yadl": "yadljs.github.io",
   "yagolopez": "yagolopez.github.io",
