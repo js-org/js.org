@@ -479,6 +479,7 @@ var cnames_active = {
   "democracy": "invisible-college.github.io/democracy",
   "demoji": "chroventer.github.io/demoji",
   "denisvieira": "denisvieira05.github.io",
+  "deobfuscator": "densena.github.io/deobfuscator",
   "deox": "deox.netlify.com",
   "deputy": "ry4nolson.github.io/Deputy", // noCF? (don´t add this in a new PR)
   "deskn": "dk83l5qmqg6z7q9m.shw.io",
