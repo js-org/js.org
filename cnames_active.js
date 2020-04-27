@@ -1370,6 +1370,7 @@ var cnames_active = {
   "onefx": "puncsky.github.com/onefx-home",
   "ongaku": "anshuman-verma.github.io/ongaku",
   "openrecord": "philwaldmann.github.io/openrecord",
+  "open-super": "open-super.github.io",
   "opentype": "nodebox.github.io/opentype.js",
   "opxop": "opxop.github.io",
   "orango": "roboncode.github.io/orango",
@@ -1383,7 +1384,6 @@ var cnames_active = {
   "otimizacao": "jmmccota.github.io/Otimizacao",
   "outdoors": "mrdatastorage.github.io/outdoors.js",
   "overtrack": "aidant.github.io/overtrack.js",
-  "open-super": "open-super.github.io", // // noCF? (don´t add this in a new PR)
   "p2psc": "kognise.github.io/p2psc",
   "p3terx": "p3terx.github.io/P3TERX",
   "p7e4": "p7e4.github.io",
