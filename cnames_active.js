@@ -522,6 +522,7 @@ var cnames_active = {
   "docile": "teamtofu.github.io/docile",
   "docs.light": "hosting.gitbook.com", // noCF
   "docsify": "docsifyjs.github.io/docsify",
+  "docsify-cn": "sy-records.github.io/docsify-cn",
   "docsify-es": "sidval.github.io/docsify-es",
   "docsify-ru": "truepatch.github.io/docsify-ru",
   "docsite": "txd-team.github.io/docsite-doc-v1",
