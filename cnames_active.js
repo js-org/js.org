@@ -486,7 +486,7 @@ var cnames_active = {
   "detect-resize": "noderaider.github.io/detect-resize", // noCF? (don´t add this in a new PR)
   "detector": "blackmirror1980.github.io/detector-js",
   "deterministic": "nodeguy.github.io/Deterministic.js",
-  "developerFolio": "saadpasta.github.io/developerFolio",
+  "developerfolio": "saadpasta.github.io/developerFolio",
   "devsession": "lukasbach.github.io/devsession",
   "dgelong": "alexeyraspopov.github.io/dgelong", // noCF? (don´t add this in a new PR)
   "dhimasanb": "dhimasanb.github.io",
