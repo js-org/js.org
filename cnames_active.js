@@ -575,7 +575,6 @@ var cnames_active = {
   "ecstar": "mouse484.github.io/Ecstar",
   "ed2k": "sunnyli.github.io/ed2k.js",
   "edazpotato": "edazpotato.github.io",
-  "edsonluiz": "edsonluiz.github.io",
   "ef": "classicoldsong.github.io/ef.js.org",
   "effectful": "awto.github.io/effectfuljs",
   "effects": "effectsjs.github.io/effectsjs",
