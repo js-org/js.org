@@ -55,7 +55,7 @@ var cnames_active = {
   "9932": "dannyzhan.github.io",
   "a-western-story": "hotsaucefiretruck.github.io/A-Western-Story",
   "a11yslider": "mmahandev.github.io/a11y-slider",
-  "a6smile": "a6smile.github.io/a6smile",
+  "a6smile": "a6smile.github.io",
   "aalaap": "aalaap.github.io",
   "abbyz": "Abbyzhoum.github.io",
   "abc": "afexteam.github.io/abc-mobile",
