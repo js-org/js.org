@@ -1006,6 +1006,7 @@ var cnames_active = {
   "ko": "ko25july.github.io/ko.js.org",
   "koa-rest-api-boilerplate": "posquit0.github.io/koa-rest-api-boilerplate",
   "kobra": "johnsylvain.github.io/kobra",
+  "kodadot": "kodadot.github.io",
   "kofiloop": "norech.github.io/KofiLoop",
   "koishi": "koishijs.github.io",
   "kokoro": "cool2645.github.io/kokoro",
