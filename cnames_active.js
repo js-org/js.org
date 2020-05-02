@@ -308,6 +308,7 @@ var cnames_active = {
   "canvo": "canvojs.github.io",
   "caizhiyuannn": "caizhiyuannn.github.io",
   "capital": "capitaljs.github.io/capitaljs",
+  "testio": "yavrumian.github.io/test.io/",
   "capsid": "capsidjs.github.io/capsid",
   "capsule": "capsule-js-org.github.io/capsule",
   "cardtabs": "blekerfeld.github.io/CardTabs",
