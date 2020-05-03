@@ -979,6 +979,7 @@ var cnames_active = {
   "kainy": "kainy.github.io/js.org",
   "kairusds": "kairusds.github.io",
   "kalm": "fed135.github.io/kalm.github.io", // noCF? (don´t add this in a new PR)
+  "kanji": "eidoriantan.github.io/kanji.js",
   "karateblobs": "karatewumpus.github.io/karateblobs",
   "karl": "focused-bassi-cc0eff.netlify.com",
   "karolina-and-ryan": "mockturtlesoup.github.io/karolina-and-ryan",
