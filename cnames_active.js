@@ -1781,7 +1781,6 @@ var cnames_active = {
   "simba": "jonathanzero.github.io/simba",
   "simplecounter": "tomkiernan120.github.io/simplecounter",
   "simples": "micnic.github.io/simples",
-  "simpleserver": "MobSpot.github.io/Really-Simple-Server.github.io",
   "simplestate": "nlcgits.github.io/simplestate",
   "simulacra": "daliwali.github.io/simulacra",
   "sina": "sinabakh.github.io/sina",
