@@ -137,7 +137,7 @@ var cnames_active = {
   "anukul": "anukul.github.io",
   "aoang": "aoang.github.io",
   "api-spec": "api-spec.github.io", // noCF? (don´t add this in a new PR)
-  "api.kanji": "kanji-api.herokudns.com",
+  "api.kanji": "kanji-api.netlify.app",
   "apicluster": "ramsunvtech.github.io/apicluster", // noCF? (don´t add this in a new PR)
   "aping": "johnnythetank.github.io/apiNG", // noCF? (don´t add this in a new PR)
   "aplayer": "diygod.github.io/APlayer",
