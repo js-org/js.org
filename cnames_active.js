@@ -2031,6 +2031,7 @@ var cnames_active = {
   "ulog": "download.github.io/ulog",
   "ultcombo": "ultcombo.github.io",
   "umair": "mumairofficial.github.io",
+  "umentor": "umentor.github.io/umentor",
   "umm": "umm233.github.io",
   "underbase": "sundowndev.github.io/underbase",
   "undercut": "the-spyke.github.io/undercut",
