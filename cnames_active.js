@@ -1219,6 +1219,7 @@ var cnames_active = {
   "mmcq": "nikola.github.io/MMCQ", // noCF? (don´t add this in a new PR)
   "mnmlcss": "barelyhuman.github.io/mnml.css"
   "mo": "mirmousaviii.github.io/mo",
+  "mobspot": "mobspot.github.io",
   "mobx": "mobxjs.github.io/mobx",
   "mobx-keystone": "mobx-keystone.netlify.com",
   "mobx-react": "mobx-react.netlify.com",
@@ -1781,7 +1782,6 @@ var cnames_active = {
   "simba": "jonathanzero.github.io/simba",
   "simplecounter": "tomkiernan120.github.io/simplecounter",
   "simples": "micnic.github.io/simples",
-  "simpleserver": "MobSpot.github.io/Really-Simple-Server.github.io",
   "simplestate": "nlcgits.github.io/simplestate",
   "simulacra": "daliwali.github.io/simulacra",
   "sina": "sinabakh.github.io/sina",
