@@ -1492,7 +1492,6 @@ var cnames_active = {
   "porter": "ahopkins.github.io/porterjs", // noCF? (don´t add this in a new PR)
   "post-type-discovery": "twozeroone.github.io/post-type-discovery",
   "potion": "finnfiddle.github.io/potion",
-  "powercycle": "sarimarton.github.io/powercycle",
   "ppt": "1ocalhost.github.io/ppt",
   "pptx": "meshesha.github.io/jspptxjs.github.io",
   "pranshuchittora": "pranshuchittora.github.io",
