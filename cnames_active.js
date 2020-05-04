@@ -444,6 +444,7 @@ var cnames_active = {
   "cycle": "cyclejs.github.io",
   "cyclow": "pmros.github.io/cyclow", // noCF
   "cyliim": "cyliim.github.io",
+  "cyrena": "cyrenajs.github.io/cyrena",
   "cyris": "iCyris.github.io",
   "d4": "joelburget.github.io/d4",
   "daily.tmr": "ttttmr.github.io/daily", // noCF
@@ -1492,7 +1493,6 @@ var cnames_active = {
   "porter": "ahopkins.github.io/porterjs", // noCF? (don´t add this in a new PR)
   "post-type-discovery": "twozeroone.github.io/post-type-discovery",
   "potion": "finnfiddle.github.io/potion",
-  "powercycle": "sarimarton.github.io/powercycle",
   "ppt": "1ocalhost.github.io/ppt",
   "pptx": "meshesha.github.io/jspptxjs.github.io",
   "pranshuchittora": "pranshuchittora.github.io",
