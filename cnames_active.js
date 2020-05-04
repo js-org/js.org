@@ -444,6 +444,7 @@ var cnames_active = {
   "cycle": "cyclejs.github.io",
   "cyclow": "pmros.github.io/cyclow", // noCF
   "cyliim": "cyliim.github.io",
+  "cyrena": "cyrenajs.github.io/cyrena",
   "cyris": "iCyris.github.io",
   "d4": "joelburget.github.io/d4",
   "daily.tmr": "ttttmr.github.io/daily", // noCF
