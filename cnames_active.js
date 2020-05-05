@@ -1717,6 +1717,7 @@ var cnames_active = {
   "samlify": "tngan.github.io/samlify",
   "samply": "yury-shevchenko.github.io/samply",
   "samplyr": "arze1.github.io/samplyr-site",
+  "sampoder": "sampoder.github.io",
   "sanctuary": "sanctuary-js.github.io/sanctuary-site",
   "sanddance": "microsoft.github.io/SandDance",
   "sandeepkhandewale": "learner1024.github.io",
