@@ -838,7 +838,7 @@ var cnames_active = {
   "hookstate": "hookstate.netlify.com", // noCF
   "hooloo": "hooloo.github.io", // noCF? (don´t add this in a new PR)
   "how-to-mithril": "stephanhoyer.github.io/how-to-mithril",
-  "hpu": "drew233.github.io/keyboard/",
+  "hpu": "drew233.github.io/keyboard",
   "hrishi": "hrishi045.github.io",
   "hrtable": "uyouthe.github.io/hrtable",
   "hsiaoyi0504": "hsiaoyi0504.github.io",
