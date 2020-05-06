@@ -1089,6 +1089,7 @@ var cnames_active = {
   "ling": "wangziling.github.io",
   "linghucong": "jiji262.github.io",
   "lingui": "lingui.github.io/js-lingui",
+  "lister": "jpbulman.github.io/lister",
   "litedom": "mardix.github.io/litedom", // noCF
   "liuence": "lxyzai.github.io/liuence",
   "liveflow": "hasharray.github.io/liveflow.js",
