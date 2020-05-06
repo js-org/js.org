@@ -847,6 +847,7 @@ var cnames_active = {
   "hrtable": "uyouthe.github.io/hrtable",
   "hsiaoyi0504": "hsiaoyi0504.github.io",
   "htmljar": "syntacstudio.github.io/html-jar",
+  "htony": "themetony.github.io/hugo-theme-tony",
   "http4ts": "http4ts.github.io/http4ts",
   "httpunit": "samzh72.github.io/httpunit",
   "hub": "yyued.github.io/hub.js",
