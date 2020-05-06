@@ -438,6 +438,7 @@ var cnames_active = {
   "cyliim": "cyliim.github.io",
   "cyris": "iCyris.github.io",
   "d4": "joelburget.github.io/d4",
+  "daili": "guzhou.github.io/y86", // noCF
   "daily.tmr": "ttttmr.github.io/daily", // noCF
   "damo": "damodharanj.github.io",
   "dan": "danielh-dev.netlify.com",
