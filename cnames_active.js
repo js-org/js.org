@@ -1010,7 +1010,7 @@ var cnames_active = {
   "kovart": "kovart.github.io/cv",
   "kowalski": "k0walslk1.github.io",
   "kra": "kra-framework.github.io/kra-suite", // noCF
-   "ks": "guzhou.github.io",
+   "ks": "guzhou.github.io/guzhou.github.io",
   "kremling": "canopytax.github.io/kremling.js.org",
   "kshitij": "kshitij98.github.io",
   "kst": "lucaelin.github.io/KST", // noCF
@@ -1796,7 +1796,6 @@ var cnames_active = {
   "snekfetch": "devsnek.github.io/snekfetch",
   "snowglobe": "3052cole.github.io/snowglobe",
   "snippet": "jmas.github.io/gist",
-  "so": "guzhou.github.io/tk",
   "social-likes": "sapegin.github.io/social-likes", // noCF? (don´t add this in a new PR)
   "social-likes-next": "sapegin.github.io/social-likes-next", // noCF? (don´t add this in a new PR)
   "sogou": "iguanren.github.io/sogou",
@@ -1987,7 +1986,7 @@ var cnames_active = {
   "ttgprotect": "ttgprotect.github.io",
   "ttt": "lukechu10.github.io/TicTacToe-Minimax",
   "tui-nuxt": "hosting.gitbook.com", // noCF
-   "tu": "guzhou.github.io/y86",
+   "tu": "guzhou.github.io",
   "tuplet": "meleyal.github.io/tuplet",
   "turali": "caglarturali.github.io",
   "turbo": "turbo.github.io",
