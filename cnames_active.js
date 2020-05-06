@@ -1445,6 +1445,7 @@ var cnames_active = {
   "perguth": "perguth.github.io",
   "perilla": "zhangzisu.github.io/perilla",
   "permissions": "danielnewell.github.io/permissions",
+  "perspectilt": "naveen521kk.github.io/perspectilt-website",
   "perspective": "leopoldthecoder.github.io/Perspective",
   "peter": "peterccpang.github.io",
   "pguth": "pguth.github.io",
