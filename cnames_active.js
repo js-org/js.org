@@ -228,6 +228,7 @@ var cnames_active = {
   "beaga": "beagajs.github.io/beaga",
   "becarefulwith": "xMikee1.github.io/becarefulwith",
   "begin": "advanced-webapps-class.github.io/begin", // noCF? (don´t add this in a new PR)
+  "belajar": "arbo77.github.io/belajar",
   "benjick": "benjick.github.io",
   "berk": "berkelmas.github.io",
   "bernard": "ojengwa.github.io",
@@ -1059,7 +1060,6 @@ var cnames_active = {
   "leafless": "mofax.github.io/leafless",
   "lean-stack": "lean-stack.github.io", // noCF? (don´t add this in a new PR)
   "leandro": "leandrowd.github.io", // noCF? (don´t add this in a new PR)
-  "learn": "arbo77.github.io/learn",
   "learnathon": "learn-a-thon.netlify.com",
   "learngitbranching": "pcottle.github.io/learnGitBranching",
   "lee": "lee981265.github.io",
