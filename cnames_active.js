@@ -997,6 +997,7 @@ var cnames_active = {
   "kcak11": "kcak11.github.io/js-org-web",
   "kdiacodes": "kdiacodes.github.io",
   "kea": "kea.netlify.com",
+  "keelan": "keelandaye.github.io/keelan",
   "keeping-up-with-javascript": "jasperv.github.io/keeping-up-with-javascript",
   "kelvinho": "kelvin2go.github.io", // noCF? (don´t add this in a new PR)
   "kewitz": "kewitz.github.io",
