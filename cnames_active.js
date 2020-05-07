@@ -1598,6 +1598,7 @@ var cnames_active = {
   "react-toulouse": "moox.github.io/react-toulouse",
   "react-tracked": "dai-shi.github.io/react-tracked",
   "reactabular": "bebraw.github.io/reactabular",
+  "reactant": "unadlib.github.io/reactant",
   "reactdesktop": "gabrielbull.github.io/react-desktop", // noCF? (don´t add this in a new PR)
   "reactif": "reactif.netlify.com",
   "reactiflux": "reactiflux.netlify.com",
