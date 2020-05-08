@@ -1538,6 +1538,7 @@ var cnames_active = {
   "pwa-cookbook": "sylvainpolletvillard.github.io/pwa-cookbook",
   "pwa-workshop": "sylvainpolletvillard.github.io/pwa-workshop",
   "pwapp": "nikiforov-org.github.io/pwapp",
+  "panda": "cdnoss.github.io/panda",
   "qbit": "fudan-mse.github.io/qbit",
   "qs": "kirjs.github.io/qs.js", // noCF? (don´t add this in a new PR)
   "quantlib": "quantlibjs.github.io",
