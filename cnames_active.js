@@ -1875,6 +1875,7 @@ var cnames_active = {
   "trinity": "marcus-sa.github.io/trinity-js",
   "troxel": "troxeljs.github.io",
   "troy": "troyxun.github.io",
+  "tyshemo": "tangshuang.github.io/tyshemo",
   "true-myth": "chriskrycho.github.io/true-myth",
   "try-catch-finally": "c24w.github.io/try-catch-finally.js",
   "trygit": "trygit.netlify.com",
