@@ -1524,6 +1524,7 @@ var cnames_active = {
   "proton-native": "kusti8.github.io/proton-native",
   "prototyped": "ardalanamini.github.io/prototyped.js",
   "protype": "arguiot.github.io/ProType",
+  "prudhvireddy": "prudhvir3ddy.github.io/prudhvireddy",
   "ps": "spindlyskit.github.io/ps.js",
   "pt-pt.single-spa": "single-spa.github.io/pt-pt.single-spa.js.org", // noCF
   "ptrdo": "ptrdo.github.io",
