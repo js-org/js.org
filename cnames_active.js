@@ -1881,6 +1881,7 @@ var cnames_active = {
   "stapp": "tinkoffcreditsystems.github.io/stapp",
   "starratio": "starratio.github.io/star-ratio", // noCF
   "start": "deepsweet.github.io/start",
+  "startjs": "readthedocs.io",
   "state-machine-cat": "sverweij.github.io/state-machine-cat",
   "staticinstance": "staticinstance.github.io", // noCF? (don´t add this in a new PR)
   "stats": "js-org.github.io/stats.js.org",
