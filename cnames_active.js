@@ -121,7 +121,6 @@ var cnames_active = {
   "amaple": "amjs-team.github.io/amaple",
   "amorphous": "ariabuckles.github.io/amorphous",
   "amrit": "amritsrivastava.github.io",
-  "andae": "andae.github.io/id",
   "andresito": "andresitodeguzman.github.io/andresito",
   "anenth": "anenth.github.io", // noCF? (don´t add this in a new PR)
   "angular-jsf": "json-schema-faker.github.io/angular-jsf", // noCF? (don´t add this in a new PR)
@@ -871,6 +870,7 @@ var cnames_active = {
   "iagrib": "iagrib.github.io",
   "iamsurajdc": "iamsurajdc.github.io",
   "icecast": "jucrouzet.github.io/icecast.js",
+  "id": "andae.github.io/id",
   "id3": "jeff-tian.github.io/id3",
   "idettman": "idettman.github.io",
   "ienumerable": "mbasso.github.io/ienumerable",
