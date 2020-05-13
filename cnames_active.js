@@ -366,6 +366,7 @@ var cnames_active = {
   "clockwork": "clockworkdev.github.io/ClockworkWebsite",
   "clusterize": "nexts.github.io/Clusterize.js",
   "cmbhackjs2013": "cmbjs.github.io/cmbHackjs2013",
+  "cmcc": "gdmcc.github.io/cmcc",
   "cmdhub": "thatonetqnk.github.io/cmdhub",
   "cml": "didi.github.io/chameleon",
   "cn.iflow": "unadlib.github.io/iflow-docs-cn",
