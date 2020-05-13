@@ -104,7 +104,7 @@ var cnames_active = {
   "albertmolodec": "albertmolodec.github.io",
   "alfred": "amilajack.github.io/alfred",
   "algebra": "nicolewhite.github.io/algebra.js", // noCF? (don´t add this in a new PR)
-  "algninja": "algninja.github.io"
+  "algninja": "algninja.github.io",
   "ali": "alibouhrouche.netlify.com",
   "ali-react-table": "alibaba.github.io/ali-react-table",
   "alien": "pschroen.github.io/alien.js",
