@@ -117,6 +117,7 @@ var cnames_active = {
   "alveron": "rofrischmann.github.io/alveron",
   "alyreza": "alyreza.github.io",
   "alys": "rmjordas.github.io/alys",
+  "iqos": "0x77dev.github.io/iqos",
   "aman": "plug-n-play.github.io/aman",
   "amaple": "amjs-team.github.io/amaple",
   "amorphous": "ariabuckles.github.io/amorphous",
