@@ -1549,8 +1549,8 @@ var cnames_active = {
   "quark": "smarchetti.github.io/quark",
   "querybuilder": "mistic100.github.io/jQuery-QueryBuilder", // noCF? (don´t add this in a new PR)
   "question": "teamtofu.github.io/questionify",
-  "quickdb": "truexpixels.gitbooks.io/quickdb",
   "quick-crud": "kingrayhan.github.io/quick-crud",
+  "quickdb": "truexpixels.gitbooks.io/quickdb",
   "quincy": "quincyx.github.io",
   "quinten": "regyo.github.io/quinten",
   "quiz-app": "odevlord.github.io/Quiz-App", // noCF? (don´t add this in a new PR)
