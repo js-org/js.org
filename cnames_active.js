@@ -1916,7 +1916,7 @@ var cnames_active = {
   "styled-css-grid": "styled-css-grid.netlify.com",
   "styled-icons": "alias.zeit.co", // noCF
   "stylis": "thysultan.github.io/stylis.js",
-  "subeditor": "shirtiny.cn/SubEditor",
+  "subeditor": "shirtiny.github.io/SubEditor",
   "subplayer": "zhw2590582.github.io/SubPlayer",
   "sudarshan": "sudarshanRaul.github.io",
   "sudoku": "andreynering.github.io/sudoku",
