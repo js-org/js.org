@@ -302,6 +302,7 @@ var cnames_active = {
   "cachi": "eddiejibson.github.io/cachi",
   "caffeine": "ccrraaiigg.github.io/caffeine",
   "cagatay": "cagataycali.github.io",
+  "caissa": "agentx-cgn.github.io/caissa",
   "caizhiyuannn": "caizhiyuannn.github.io",
   "cake-boss": "dannytatom.github.io/cake-boss",
   "calcy": "odevlord.github.io/Calcy", // noCF? (don´t add this in a new PR)
