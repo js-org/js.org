@@ -92,6 +92,7 @@ var cnames_active = {
   "agrawalrohit": "rohit0803.github.io/agrawal.github.io",
   "ahmad": "aruzikulov.github.io/ahmad",
   "ahmeterdgn": "ahmeterdgn.github.io",
+  "ahooks": "ahooks.surge.sh",
   "airtable-plus": "victorhahn.github.io/airtable-plus",
   "ais": "yunyoujun.github.io/ais.js",
   "ajaxable": "artf.github.io/ajaxable",
