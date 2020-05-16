@@ -1223,6 +1223,7 @@ var cnames_active = {
   "minify": "minify-js.github.io",
   "minigrid": "henriquea.github.io/minigrid", // noCF? (don´t add this in a new PR)
   "minijoshua": "joshualovescode.github.io/MiniJoshua-Website",
+  "minimizedb": "acarrr.github.io/minimizedb",
   "mininote": "htdt.github.io/mininote",
   "miny": "pablopunk.github.io/miny",
   "mirrors": "jamesyangget.github.io/mirrors",
