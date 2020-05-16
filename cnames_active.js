@@ -168,6 +168,7 @@ var cnames_active = {
   "asdivyansh": "asdivyansh.github.io",
   "ass": "weizhenye.github.io/ASS",
   "ass-editor": "jeff-tian.github.io/ass",
+  "assembly-line": "rubenverg.github.io/assembly-line.js",
   "ast": "kindy.github.io/ast",
   "astral": "espinielli.github.io/astraljs", // noCF? (don´t add this in a new PR)
   "astrobench": "kupriyanenko.github.io/astrobench", // noCF? (don´t add this in a new PR)
