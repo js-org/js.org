@@ -29,6 +29,7 @@ var cnames_restricted = [
     "array(s)",
     "asm",
     "async",
+    "awesome"
     "backup(s)",
     "bar",
     "base",
