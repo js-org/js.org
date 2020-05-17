@@ -1328,7 +1328,7 @@ var cnames_active = {
   "newbyte": "newbytee.github.io/newbyte",
   "newyear": "dndrbots.github.io/new_year_counter",
   "next": "zeit.github.io/next-site",
-  "next-auth": "next-auth-docs.now.sh",
+  "next-auth": "alias.zeit.co",
   "nexus": "nexusjs.netlify.com",
   "nflow": "nflow-js.github.io", // noCF? (don´t add this in a new PR)
   "nfwyst": "nfwyst.github.io",
