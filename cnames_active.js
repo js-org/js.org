@@ -1273,6 +1273,7 @@ var cnames_active = {
   "moose": "mustpax.github.io/moose",
   "moro": "omidfi.github.io/moro",
   "morocco": "moroccojs.github.io",
+  "morse": "the-silver-project.github.io/morse",
   "mp3tag": "eidoriantan.github.io/mp3tag.js",
   "mpe": "weareroli.github.io/mpejs", // noCF? (don´t add this in a new PR)
   "mrm": "mrmjs.netlify.app",
