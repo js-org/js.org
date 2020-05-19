@@ -2025,6 +2025,7 @@ var cnames_active = {
   "torpedo": "divysrivastava.github.io/torpedo.js",
   "tp": "jottocraft.github.io/tp",
   "trace": "andreasmadsen.github.io/trace",
+  "trakas": "trakas.github.io",
   "transposer": "francesco-dipi.github.io/transposer",
   "trello": "wr1ght.github.io/trellojs",
   "treviso": "trevisojs.github.io", // noCF? (don´t add this in a new PR)
