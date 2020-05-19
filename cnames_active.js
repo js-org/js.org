@@ -104,6 +104,7 @@ var cnames_active = {
   "akatsuki": "akatsukijs.github.io/akatsuki",
   "akshaybhalotia": "akshaybhalotia.github.io",
   "alasql": "alasql.github.io", // noCF? (don´t add this in a new PR)
+  "alastor": "aidenybai.github.io/alastor",
   "albertmolodec": "albertmolodec.github.io",
   "alex": "alecs297.github.io",
   "alfred": "amilajack.github.io/alfred",
