@@ -761,6 +761,7 @@ var cnames_active = {
   "germanov": "germanov-dev.github.io",
   "get": "hxco.github.io/Get",
   "getdot": "enderandfiredev.github.io/getdot",
+  "geolocation-promise": "js-pugilist.github.io/geolocation-promise",
   "getlink": "ilovecode1.github.io/linkjs", // noCF? (don´t add this in a new PR)
   "ghapi": "haydennyyy.github.io/node-ghapi",
   "ghastly": "hkwu.github.io/ghastly",
