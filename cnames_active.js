@@ -1997,6 +1997,7 @@ var cnames_active = {
   "terminal": "gottox.github.io/terminal.js", // noCF? (don´t add this in a new PR)
   "testframe": "testingrequired.github.io/testframe",
   "textillate": "jschr.github.io/textillate", // noCF? (don´t add this in a new PR)
+  "textmark": "sahilister.github.io/textmark",
   "texy": "egoist.github.io/texy",
   "thea": "idokutela.github.io/thea",
   "thegrid": "antoniandre.github.io/grid",
