@@ -858,6 +858,7 @@ var cnames_active = {
   "hoa": "thehoa.github.io",
   "hoast": "hoast.github.io",
   "hois": "hoisW.github.io",
+  "hooked-on-redux": "harryhope.github.io/hooked-on-redux",
   "hookstate": "hookstate.netlify.com", // noCF
   "hooloo": "hooloo.github.io", // noCF? (don´t add this in a new PR)
   "how-to-mithril": "stephanhoyer.github.io/how-to-mithril",
