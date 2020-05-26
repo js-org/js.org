@@ -1829,6 +1829,7 @@ var cnames_active = {
   "simples": "micnic.github.io/simples",
   "simpleserver": "MobSpot.github.io/Really-Simple-Server.github.io",
   "simplestate": "nlcgits.github.io/simplestate",
+  "simplicity": "simplicity.github.io",
   "simulacra": "daliwali.github.io/simulacra",
   "sina": "sinabakh.github.io/sina",
   "singh": "gxjit.github.io",
