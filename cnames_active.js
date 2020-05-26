@@ -664,6 +664,7 @@ var cnames_active = {
   "ewa": "lyfeyaj.github.io/ewa",
   "exbars": "youssefkababe.github.io/exbars", // noCF? (don´t add this in a new PR)
   "excmd": "elliottcable.github.io/excmd.js",
+  "exeform": "hosting.gitbook.com", // noCF
   "exiftool-vendored": "mceachen.github.io/exiftool-vendored.js",
   "exp": "magicops.github.io/JQuery-expression-builder",
   "expressdynamichelpers": "marvnet.github.io/express-dynamic-helpers-patch",
