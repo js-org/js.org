@@ -604,6 +604,7 @@ var cnames_active = {
   "elastic-builder": "sudo-suhas.github.io/elastic-builder",
   "elasticmagic": "kindritskyimax.github.io/elasticmagic-js",
   "electron-react-boilerplate": "electron-react-boilerplate.github.io/site",
+  "electron-settings": "nathanbuchar.github.io/electron-settings",
   "elementnet": "elementnet.github.io",
   "elf": "mytharcher.github.io/elf.js.org", // noCF? (don´t add this in a new PR)
   "elixor": "hosting.gitbook.com",
