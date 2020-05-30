@@ -1898,7 +1898,7 @@ var cnames_active = {
   "split": "nathancahill.github.io/split",
   "split-ease": "split-ease.netlify.com", // noCF
   "splitting": "shshaw.github.io/Splitting",
-  "spotistats": "https://spotistats-app.netlify.app",
+  "spotistats": "spotistats-app.netlify.app",
   "spotix": "sawyerbx.github.io/spotix",
   "spreadsheet": "chiefofgxbxl.github.io/Spreadsheet.js",
   "spring": "hosting.gitbook.com",
