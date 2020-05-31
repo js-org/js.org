@@ -2005,6 +2005,7 @@ var cnames_active = {
   "term-web": "zhw2590582.github.io/term-web",
   "termi": "wearetermi.github.io/termi",
   "terminal": "gottox.github.io/terminal.js", // noCF? (don´t add this in a new PR)
+  "testable": "acip.github.io/testable",
   "testframe": "testingrequired.github.io/testframe",
   "textillate": "jschr.github.io/textillate", // noCF? (don´t add this in a new PR)
   "textmark": "sahilister.github.io/textmark",
