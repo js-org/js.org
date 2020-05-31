@@ -359,7 +359,7 @@ var cnames_active = {
   "christopher": "marekkobida.github.io/christopher",
   "chronos": "espinielli.github.io/chronos", // noCF? (don´t add this in a new PR)
   "cineasta": "cineasta-js.github.io/cineasta-docs",
-  "cip: "acip.github.io/cip",
+  "cip": "acip.github.io/cip",
   "ciphercrack": "avirut.github.io/ciphercrack",
   "citation": "citation-js.github.io/site",
   "citeapa": "natsuozawa.github.io/citeapa",
