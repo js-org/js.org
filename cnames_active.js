@@ -424,6 +424,7 @@ var cnames_active = {
   "corki": "dvtate.github.io/corki",
   "corona": "soroushchehresa.github.io/awesome-coronavirus",
   "corps": "copay.github.io",
+  "classroom: "epoxydevelopment.github.io/Classroom/",
   "cosova": "hardo.github.io/cosova",
   "cote": "dashersw.github.io/cote", // noCF? (don´t add this in a new PR)
   "countr": "gleeny.github.io/countr-redirect",
