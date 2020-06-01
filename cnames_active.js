@@ -370,6 +370,7 @@ var cnames_active = {
   "clabe-validator": "center-key.github.io/clabe-validator",
   "clark": "clarkdo.github.io/new-blog",
   "clarkdo": "clarkdo.github.io",
+  "classroom": "epoxydevelopment.github.io/Classroom",
   "clause": "clausejs.github.io/clausejs",
   "clearlyelevated": "clearlyelevated.github.io",
   "clevercord": "theanidox.github.io/Clevercord",
