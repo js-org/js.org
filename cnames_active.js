@@ -1806,6 +1806,7 @@ var cnames_active = {
   "semo": "semojs.github.io/semo",
   "sendilkumarn": "sendilkumarn.github.io",
   "seoul": "seouljs.github.io/seoul.js.org",
+  "sequel": "sequeljs.github.io",
   "sequential": "lorenzoongithub.github.io/sequential",
   "serginator": "serginator.github.io", // noCF? (don´t add this in a new PR)
   "serializer": "haircvt.github.io/serializerjs", // noCF? (don´t add this in a new PR)
