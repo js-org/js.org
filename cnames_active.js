@@ -597,7 +597,6 @@ var cnames_active = {
   "ecstar": "mouse484.github.io/Ecstar",
   "ed2k": "sunnyli.github.io/ed2k.js",
   "edazpotato": "edazpotato.github.io",
-  "editor": "geard-dev.github.io/web-based-live-code-editor",
   "ef": "classicoldsong.github.io/ef.js.org",
   "effectful": "awto.github.io/effectfuljs",
   "effects": "effectsjs.github.io/effectsjs",
@@ -1119,6 +1118,7 @@ var cnames_active = {
   "lister": "jpbulman.github.io/lister",
   "litedom": "mardix.github.io/litedom", // noCF
   "liuence": "lxyzai.github.io/liuence",
+  "live-editor": "geard-dev.github.io/web-based-live-code-editor",
   "liveflow": "hasharray.github.io/liveflow.js",
   "livenotif": "siffreinsg.github.io/livenotif",
   "lmajercik": "meiercheek.github.io",
