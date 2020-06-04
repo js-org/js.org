@@ -2173,6 +2173,7 @@ var cnames_active = {
   "vncz": "xvincentx.github.io/vncz",
   "volantis": "xaoxuu.github.io/volantis.js.org",
   "voloshins": "voloshins.github.io", // noCF? (don´t add this in a new PR)
+  "vormulir": "bramaudi.github.io/vormulir",
   "vorpal": "dthree.github.io/vorpal", // noCF? (don´t add this in a new PR)
   "voxelcss": "jhwohlgemuth.github.io/voxelcss",
   "vrv": "cloudflare-to-cloudflare.readthedocs.io",
