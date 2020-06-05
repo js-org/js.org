@@ -1915,6 +1915,7 @@ var cnames_active = {
   "sqrvival": "sawyerjs.github.io/sqrvival",
   "squeak": "bertfreudenberg.github.io/SqueakJS",
   "squirrelly": "squirrellyjs.netlify.com", // noCF
+  "sr": "samrobbins85.github.io",
   "sri": "jackub.github.io/subresource-integrity-fallback",
   "staart": "staart.netlify.com",
   "stabs": "wnda.github.io/stabs",
