@@ -707,6 +707,7 @@ var cnames_active = {
   "flamecord": "flamexode.github.io/flamecord",
   "flameshot": "flameshotapp.github.io",
   "flap": "slurmulon.github.io/flap",
+  "flash": "flashcardjs.github.io",
   "flatpickr": "flatpickr.github.io",
   "flavor": "blackmirror1980.github.io/flavor-js",
   "fld-grd": "mrksbnch.github.io/fld-grd",
