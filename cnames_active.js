@@ -557,6 +557,7 @@ var cnames_active = {
   "dollar": "defims.github.io/dollar",
   "dolphin": "uyouthe.github.io/dolphin",
   "dominion": "dominion-framework.github.io",
+  "domsprite": "micahlt.github.io/domsprite",
   "domtastic": "webpro.github.io/DOMtastic",
   "donavon": "donavon.github.io", // noCF? (don´t add this in a new PR)
   "dope": "fouad.github.io/dope", // noCF? (don´t add this in a new PR)
