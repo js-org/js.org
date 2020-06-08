@@ -2131,7 +2131,6 @@ var cnames_active = {
   "utscrooms": "sunakujira1.github.io/UTSCRooms",
   "uuid": "rumkin.github.io/uuid",
   "uvcharts": "imaginea.github.io/uvCharts", // noCF? (don´t add this in a new PR)
-  "v": "v-webpack.netlify.app",
   "v-charts": "elemefe.github.io/v-charts",
   "v-decorators": "v-decorators.netlify.com",
   "v4.webpack": "webpack.github.io/v4.webpack.js.org", // noCF
@@ -2226,6 +2225,7 @@ var cnames_active = {
   "webpack": "webpack.github.io/webpack.js.org",
   "webpack-config-plugins": "namics.github.io/webpack-config-plugins",
   "webpack-inspect": "alexmost.github.io/webpack-inspect",
+  "webpack-stats": "v-webpack.netlify.app",
   "websocket-client": "marcelcoding.github.io/websocket-client",
   "wechaty": "hosting.gitbook.com",
   "wedgetail": "wedgetail.netlify.com",
