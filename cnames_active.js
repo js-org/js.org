@@ -92,6 +92,7 @@ var cnames_active = {
   "agilecards": "otaklapka.github.io/agilecards",
   "agrawalnaman": "agrawalnaman.github.io",
   "agrawalrohit": "rohit0803.github.io/agrawal.github.io",
+  "agreytosira": "agreytosira.github.io",
   "ahmad": "aruzikulov.github.io/ahmad",
   "ahmeterdgn": "ahmeterdgn.github.io",
   "ahooks": "ahooks.surge.sh",
