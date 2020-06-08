@@ -2295,6 +2295,7 @@ var cnames_active = {
   "zen": "tomelam.github.io/zen",
   "zentor": "zentor.github.io",
   "zephyr": "zephyr-dh.github.io/zephyr",
+  "zeroclick": "studiomotio.github.io/zeroclick",
   "zeroframe": "filips123.github.io/ZeroFrameJS",
   "zh-hans.single-spa": "single-spa.github.io/zh-hans.single-spa.js.org", // noCF
   "zhangnew": "zhangnew.github.io",
