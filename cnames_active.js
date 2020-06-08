@@ -339,7 +339,6 @@ var cnames_active = {
   "ceruttimaicon": "ceruttimaicon.github.io",
   "cesaralvarez": "cesaralvrz.github.io/cesaralvarez",
   "cezanne": "hackdoor-io.github.io/cezanne",
-  "cfc": "codeforcroatia.github.io",
   "chain-able": "fluents.github.io/chain-able-site",
   "chandzhang": "chandzhang.github.io",
   "charge": "charge-js.netlify.com",
