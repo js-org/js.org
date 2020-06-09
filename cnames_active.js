@@ -1592,6 +1592,7 @@ var cnames_active = {
   "quiz-app": "odevlord.github.io/Quiz-App", // noCF? (don´t add this in a new PR)
   "quotes": "sawyerbx.github.io/quotes",
   "r": "r-js.github.io",
+  "amatganteng": "amt404.github.io",
   "ractive": "ractivejs.github.io",
   "rad": "rapid-application-development-js.github.io/RAD.JS", // noCF? (don´t add this in a new PR)
   "radi": "radi-js.github.io/radi",
