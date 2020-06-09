@@ -2230,6 +2230,7 @@ var cnames_active = {
   "webpack": "webpack.github.io/webpack.js.org",
   "webpack-config-plugins": "namics.github.io/webpack-config-plugins",
   "webpack-inspect": "alexmost.github.io/webpack-inspect",
+  "webpack-stats": "v-webpack.netlify.app",
   "websocket-client": "marcelcoding.github.io/websocket-client",
   "wechaty": "hosting.gitbook.com",
   "wedgetail": "wedgetail.netlify.com",
