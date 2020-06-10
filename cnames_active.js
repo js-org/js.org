@@ -585,6 +585,7 @@ var cnames_active = {
   "dunedin": "dunedinjs.github.io",
   "dungeon": "youssefelshemi.github.io/dungeon.js",
   "duniter": "duniterspec.github.io",
+  "dpm": "martondev.github.io/dpm",
   "dvan": "dvan.netlify.com",
   "dvd": "cdaringe.github.io/dvd-corner-bounce",
   "dynaflo": "trevorhanus.github.io/dynaflo",
