@@ -128,7 +128,6 @@ var cnames_active = {
   "amaple": "amjs-team.github.io/amaple",
   "amorphous": "ariabuckles.github.io/amorphous",
   "amrit": "amritsrivastava.github.io",
-  "amt404": "amt404.github.io",
   "amtz20": "amtz20.github.io",
   "andresito": "andresitodeguzman.github.io/andresito",
   "anenth": "anenth.github.io", // noCF? (don´t add this in a new PR)
