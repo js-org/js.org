@@ -1541,6 +1541,7 @@ var cnames_active = {
   "pomidorus": "tatyshev.github.io/pomidorus",
   "popcorn-api": "nirewen.github.io/popcorn-api",
   "popper": "fezvrasta.github.io/popper.js",
+  "portafolio": "acadeller.github.io/portafolio", 
   "portainer-update": "flweber.github.io/portainer-stack-updater",
   "porter": "ahopkins.github.io/porterjs", // noCF? (don´t add this in a new PR)
   "post-type-discovery": "twozeroone.github.io/post-type-discovery",
