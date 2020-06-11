@@ -567,6 +567,7 @@ var cnames_active = {
   "dougg0k": "dougg0k.github.io",
   "doz": "dozjs.github.io/website",
   "dplayer": "diygod.github.io/DPlayer", // noCF
+  "dpm": "martondev.github.io/dpm",
   "dprof": "andreasmadsen.github.io/dprof",
   "draft": "D1SC0tech.github.io/draft.js", // noCF? (don´t add this in a new PR)
   "drag": "classicoldsong.github.io/Drag.js", // noCF? (don´t add this in a new PR)
