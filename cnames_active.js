@@ -2321,6 +2321,7 @@ var cnames_active = {
   "zty": "zetaoyang.github.io",
   "zyh": "zyh-chopper.github.io/zyh"
   "zyy": "zyyou.github.io/notes"
+  "esg": "w.ric.im/ESG"
   /*
   * please don't add your subdomain records down here!
   * insert them in alphabetical order to help reduce merge conflicts.
