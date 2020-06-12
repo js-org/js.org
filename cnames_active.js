@@ -1639,6 +1639,7 @@ var cnames_active = {
   "react-native-track-player": "react-native-kit.github.io/react-native-track-player", // noCF
   "react-observatory": "hosting.gitbook.com",
   "react-papaparse": "react-papaparse.github.io",
+  "reactpatterns": "reactpatterns.github.io",
   "react-pivottable": "plotly.github.io/react-pivottable",
   "react-redux": "react-redux-docs.netlify.com", //noCF
   "react-responsive-carousel": "leandrowd.github.io/react-responsive-carousel", // noCF? (don´t add this in a new PR)
