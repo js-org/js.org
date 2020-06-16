@@ -465,7 +465,7 @@ var cnames_active = {
   "cyliim": "cyliim.github.io",
   "cyrena": "cyrenajs.github.io/cyrena",
   "cyris": "iCyris.github.io",
-  "Cn404": "Yssscloud.github.io/cn404",
+  "Cn404": "Yssscloud.github.io/",
   "d-patterns": "alias.zeit.co", // noCF
   "d4": "joelburget.github.io/d4",
   "daily.tmr": "ttttmr.github.io/daily", // noCF
