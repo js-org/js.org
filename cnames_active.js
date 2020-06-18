@@ -531,7 +531,7 @@ var cnames_active = {
   "discord-sensei": "demonicious.github.io/discord-sensei",
   "discord4node": "mrsheldon.github.io/Discord4Node",
   "discordeno": "skillz4killz.github.io/Discordeno",
-  "discordhy": "hydrogenapi.gitbook.io/discordhy",
+  "discordhy": "readthedocs.io",
   "discordlib": "hosting.gitbook.com",
   "discordutil": "chroventer.github.io/discordutil",
   "discordutility": "chaosphoe.github.io/discordutility",
