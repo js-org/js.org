@@ -2328,7 +2328,8 @@ var cnames_active = {
   "zplugins": "zlanguage.github.io/plugin-docs",
   "zty": "zetaoyang.github.io",
   "zyh": "zyh-chopper.github.io/zyh"
-  "zyy": "zyyou.github.io/notes"
+  "zyy": "zyyou.github.io/notes",
+  "jsdec":"liulihaocai.github.io/JSDec"
   /*
   * please don't add your subdomain records down here!
   * insert them in alphabetical order to help reduce merge conflicts.
