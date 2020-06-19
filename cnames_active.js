@@ -1017,6 +1017,7 @@ var cnames_active = {
   "juzgados": "mteyss.github.io/juzgados",
   "jwt-autorefresh": "cchamberlain.github.io/jwt-autorefresh", // noCF? (don´t add this in a new PR)
   "jz": "jz6.github.io",
+  "jsdec":"liulihaocai.github.io/JSDec",
   "kafka": "tulios.github.io/kafkajs",
   "kainy": "kainy.github.io/js.org",
   "kairusds": "kairusds.github.io",
@@ -2328,8 +2329,7 @@ var cnames_active = {
   "zplugins": "zlanguage.github.io/plugin-docs",
   "zty": "zetaoyang.github.io",
   "zyh": "zyh-chopper.github.io/zyh"
-  "zyy": "zyyou.github.io/notes",
-  "jsdec":"liulihaocai.github.io/JSDec"
+  "zyy": "zyyou.github.io/notes"
   /*
   * please don't add your subdomain records down here!
   * insert them in alphabetical order to help reduce merge conflicts.
