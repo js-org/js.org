@@ -1980,6 +1980,7 @@ var cnames_active = {
   "sulky": "shingle.github.io/sulky", // noCF? (don´t add this in a new PR)
   "sunbossrs": "sunbossrs.github.io",
   "sunsistemo": "sunsistemo.github.io/sunsistemo",
+  "sunshine": "sunshine.github.io",
   "super-controls": "thebearingedge.github.io/super-controls",
   "super-trim": "beeblebrox3.github.io/super-trim",
   "supernova": "janbiasi.github.io/supernova", // noCF? (don´t add this in a new PR)
