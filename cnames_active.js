@@ -904,6 +904,7 @@ var cnames_active = {
   "id": "andae.github.io/id",
   "id3": "jeff-tian.github.io/id3",
   "ieuan": "ieuan.tk",
+  "scrapbook.ieuan": "cname.vercel-dns.com",
   "idettman": "idettman.github.io",
   "ienumerable": "mbasso.github.io/ienumerable",
   "iffe": "iffe-team.github.io",
