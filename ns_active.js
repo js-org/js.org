@@ -16,6 +16,7 @@
   "appshelf": ["ns31.cloudns.net", "ns32.cloudns.net", "ns33.cloudns.net", "ns34.cloudns.net"],
   "castyte": ["ns31.cloudns.net", "ns32.cloudns.net", "ns33.cloudns.net", "ns34.cloudns.net"],
   "engine262": ["brad.ns.cloudflare.com", "lia.ns.cloudflare.com"],
+  "ieuan": ["jill.ns.cloudflare.com", "mario.ns.cloudflare.com"],
   "lolifamily": ["glen.ns.cloudflare.com","melany.ns.cloudflare.com"],
   "ruby": ["alexis.ns.cloudflare.com", "connie.ns.cloudflare.com"],
   "samplasion": ["ns31.cloudns.net", "ns32.cloudns.net", "ns33.cloudns.net", "ns34.cloudns.net"],
