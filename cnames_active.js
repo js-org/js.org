@@ -738,6 +738,7 @@ var cnames_active = {
   "forceify": "dalisoft.github.io/Forceify",
   "form": "the94air.github.io/form",
   "formred": "zewish.github.io/formred",
+  "formvuelatte": "formvuelatte.netlify.app",
   "fortnite": "ickerio.github.io/fortnite.js",
   "fortune": "fortunejs.github.io/fortune", // noCF? (don´t add this in a new PR)
   "foxford": "netology-group.github.io/foxford.github.io",
