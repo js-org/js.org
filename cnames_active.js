@@ -1254,6 +1254,7 @@ var cnames_active = {
   "mina": "CenturyUna.github.io/mina",
   "mindyourtime": "michaloslav.github.io/Mind-Your-Time",
   "minecraft-data.prismarine": "prismarinejs.github.io/minecraft-data",
+  "node-minecraft-protocol.prismarine": "prismarinejs.github.io/node-minecraft-protocol", // noCF
   "mineflayer.prismarine": "prismarinejs.github.io/mineflayer",
   "minehutsupport": "baibeebambi.github.io/minehutsupport",
   "minesweeper": "derflatulator.github.io/minesweeper",
