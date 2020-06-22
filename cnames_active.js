@@ -1032,6 +1032,7 @@ var cnames_active = {
   "karateblobs": "karatewumpus.github.io/karateblobs",
   "karl": "focused-bassi-cc0eff.netlify.com",
   "karolina-and-ryan": "mockturtlesoup.github.io/karolina-and-ryan",
+  "karrot": "http://kemosaf.github.io/karrot",
   "kate": "thecodesuite.github.io/katebot",
   "kavan": "kavanmevada.gitlab.io/intro",
   "kawaii": "moemoesoft.github.io/kawaii", //noCF
