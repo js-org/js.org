@@ -1075,6 +1075,7 @@ var cnames_active = {
   "koutla-swiss": "leny.github.io/koutla-swiss",
   "kovart": "kovart.github.io/cv",
   "kowalski": "k0walslk1.github.io",
+  "kucos": "kucosjs.github.io",
   "kra": "kra-framework.github.io/kra-suite", // noCF
   "kremling": "canopytax.github.io/kremling.js.org",
   "kreta-api-v3": "daaniiieel.github.io/kreta-api-v3",
