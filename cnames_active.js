@@ -261,6 +261,7 @@ var cnames_active = {
   "bloomer": "algusdark.github.io/bloomer",
   "blotter": "bradley.github.io/Blotter",
   "blueconfig": "a-312.github.io/node-blueconfig",
+  "bluesky01st": "bluesky01st.github.io",
   "blurple": "blurplejs.github.io/docs",
   "bo": "lfb.github.io/bojs",
   "boats": "discordboats.github.io",
