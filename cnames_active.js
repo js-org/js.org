@@ -1182,7 +1182,6 @@ var cnames_active = {
   "makes": "makesjs.github.io",
   "mali": "malijs.github.io",
   "manic": "manicjs.github.io",
-  "mansiart": "minaraja.github.io/mansiart",
   "manu": "botsdemanu.github.io/manu",
   "manual.bluelightos": "hosting.gitbook.com",
   "manytimepad": "dipanshkhandelwal.github.io/ManyTimePad",
