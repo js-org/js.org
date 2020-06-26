@@ -2011,6 +2011,7 @@ var cnames_active = {
   "sxw": "sxwjs.github.io",
   "syauqi": "syauqizaidan.github.io",
   "sydinh": "sydinh.github.io",
+  "synergy": "synergyaddons.github.io/synergy-addons",
   "synth": "lukehorvat.github.io/synth-mood",
   "syr": "dmikey.github.io/syr",
   "tab": "gdmcc.github.io/tab",
