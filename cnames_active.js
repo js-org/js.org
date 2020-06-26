@@ -306,6 +306,7 @@ var cnames_active = {
   "burst": "hugeen.github.io/burst", // noCF? (don´t add this in a new PR)
   "bustime": "agarzola.github.io/bustime", // noCF? (don´t add this in a new PR)
   "buttermilk": "buttermilk.netlify.com",
+  "baoshuo": "renbaoshuo.github.io",
   "c": "cocobear.github.io",
   "c-3po": "ttag-org.github.io/c-3po",
   "cable": "whatgoodisaroad.github.io/cablejs", // noCF? (don´t add this in a new PR)
