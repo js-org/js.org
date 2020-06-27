@@ -1951,6 +1951,7 @@ var cnames_active = {
   "stack-styled": "stack-styled.netlify.com",
   "stahlstadt": "dist1.storyblok.com",
   "stampit": "hosting.gitbook.com",
+  "stampy": "stampylongr.github.io"
   "standard-resource": "hosting.gitbook.com", // noCF
   "stapp": "tinkoffcreditsystems.github.io/stapp",
   "starratio": "starratio.github.io/star-ratio", // noCF
