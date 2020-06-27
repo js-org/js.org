@@ -1393,6 +1393,7 @@ var cnames_active = {
   "nikmartin": "nikmartin.github.io",
   "ninh": "reeganexe.github.io/ninh",
   "nintenbot": "nintenzone.github.io/NintenBot",
+  "njdev": "naveenjujaray.github.io/NJ-Dev",
   "nite": "manvalls.github.io/nite",
   "noblox": "suufi.github.io/noblox.js",
   "nod": "diegohaz.github.io/nod",
