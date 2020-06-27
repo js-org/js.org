@@ -2209,7 +2209,7 @@ var cnames_active = {
   "vormulir": "bramaudi.github.io/vormulir",
   "vorpal": "dthree.github.io/vorpal", // noCF? (don´t add this in a new PR)
   "voxelcss": "jhwohlgemuth.github.io/voxelcss",
-  "vrv": "cloudflare-to-cloudflare.readthedocs.io",
+  "vrv": "hosting.gitbook.com",
   "vscode-apielements": "xvincentx.github.io/vscode-apielements",
   "vssue": "vssue.netlify.com",
   "vue": "vuejs.github.io/vue.js.org",
