@@ -1887,6 +1887,7 @@ var cnames_active = {
   "skeptical-coder": "rbpinheiro.github.io/skeptical-coder",
   "sketch": "keiww.github.io/sketch",
   "skim": "muratg.github.io/skim",
+  "skratch": "websyncs.github.io/skratch",
   "slang": "ramadis.github.io/slang", // noCF? (don´t add this in a new PR)
   "slap": "slap-programming.github.io",
   "slate": "iamshouvikmitra.github.io/slate",
