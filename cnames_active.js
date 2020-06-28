@@ -1428,6 +1428,7 @@ var cnames_active = {
   "nva": "ali322.github.io/nva",
   "nxd": "niuxvdong.github.io",
   "nxse": "nxse.github.io",
+  "nyax": "springnyan.github.io/nyax",
   "nyc": "nycjsorg.github.io/nyc",
   "nyr": "suriyaakudoisc.github.io/NYR",
   "oak": "donn.github.io/Oak.js",
