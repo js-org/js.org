@@ -398,6 +398,7 @@ var cnames_active = {
   "codesurfer": "code-surfer.netlify.com", // noCF
   "codinsky": "izhaki.github.io/codinsky",
   "coffea": "caffeinery.github.io/coffea",
+  "coffstation": "coffstation.github.io",
   "coir": "channg.github.io/coir",
   "coldemo": "coldemo.github.io",
   "collect": "collectjs.netlify.com",
