@@ -1607,6 +1607,7 @@ var cnames_active = {
   "pwapp": "nikiforov-org.github.io/pwapp",
   "qbit": "fudan-mse.github.io/qbit",
   "qs": "kirjs.github.io/qs.js", // noCF? (don´t add this in a new PR)
+  "quacky": "quacky-bot.github.io",
   "quantlib": "quantlibjs.github.io",
   "quark": "smarchetti.github.io/quark",
   "querybuilder": "mistic100.github.io/jQuery-QueryBuilder", // noCF? (don´t add this in a new PR)
