@@ -1466,6 +1466,7 @@ var cnames_active = {
   "osagai": "henriquelimas.github.io/osagai",
   "oscillator": "lukehorvat.github.io/super-oscillator",
   "osom": "kikobeats.github.io/osom",
+  "oskarplyt": "oskarplyt.github.io",
   "otimizacao": "jmmccota.github.io/Otimizacao",
   "outdoors": "mrdatastorage.github.io/outdoors.js",
   "outrite": "outrite.github.io/outrite.js.org",
