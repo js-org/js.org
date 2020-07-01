@@ -413,6 +413,7 @@ var cnames_active = {
   "commitlint": "conventional-changelog.github.io/commitlint",
   "common-utils-pkg": "iamdevlinph.github.io/common-utils-pkg",
   "community.os": "js.bydiscourse.com", // noCF? (don´t add this in a new PR)
+  "computatote": "computatote.js.org", 
   "concurrent-tasks": "hosting.gitbook.com",
   "concursos": "mteyss.github.io/concursos", // noCF? (don´t add this in a new PR)
   "conductor": "hosting.gitbook.com",
