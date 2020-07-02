@@ -1655,6 +1655,7 @@ var cnames_active = {
   "react-entanglement": "react-entanglement.github.io",
   "react-form": "react-form.netlify.com",
   "react-hint": "slmgc.github.io/react-hint",
+  "react-layout-components": "kripod.github.io/react-layout-components",
   "react-leaflet": "paullecam.github.io/react-leaflet",
   "react-move": "react-move.netlify.com",
   "react-native-floating-labels": "mayank-patel.github.io/react-native-floating-labels",
