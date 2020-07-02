@@ -1345,6 +1345,7 @@ var cnames_active = {
   "myurl": "marvnet.github.io/myurl",
   "mzaini30": "mzaini30.github.io",
   "mzplayer": "prince3661.github.io/Mzplayer",
+  "mdbf-css": "more-beautiful-div-framework.github.io",
   "n": "cyb.github.io/n",
   "nabin": "nabin6246.github.io",
   "naja": "jiripudil.github.io/Naja",
