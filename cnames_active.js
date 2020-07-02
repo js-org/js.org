@@ -1549,6 +1549,7 @@ var cnames_active = {
   "planner": "openplannerteam.github.io/planner.js",
   "platz": "fylipp.github.io/platz.js",
   "player": "player.netlify.com",
+  "playground": "pixelpro15.github.io/playground",
   "plexr": "plexrbot.github.io",
   "pliers": "pliersjs.github.io", // noCF? (don´t add this in a new PR)
   "pnpm": "pnpm.github.io",
