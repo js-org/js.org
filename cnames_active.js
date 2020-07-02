@@ -923,7 +923,7 @@ var cnames_active = {
   "ilfa": "iiilfaaa.github.io/www",
   "illuxi": "razod.github.io/illuxi",
   "imagecapture": "googlechrome.github.io/imagecapture-polyfill",
-  "imansoft": "https://omer571-sys.github.io",
+  "imansoft": "omer571-sys.github.io",
   "imask": "unmanner.github.io/imaskjs",
   "imbue": "ghosts.github.io/Imbue",
   "imcvampire": "imcvampire.github.io",
