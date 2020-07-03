@@ -1065,6 +1065,7 @@ var cnames_active = {
   "knc": "chaituknag.github.io",
   "knowyourbundle": "enapupe.github.io/know-your-bundle",
   "ko": "ko25july.github.io/ko.js.org",
+  "ko.redux": "deminoth.github.io/redux",
   "koa-rest-api-boilerplate": "posquit0.github.io/koa-rest-api-boilerplate",
   "kobra": "johnsylvain.github.io/kobra",
   "kodadot": "kodadot.github.io",
@@ -1567,7 +1568,7 @@ var cnames_active = {
   "pomidorus": "tatyshev.github.io/pomidorus",
   "popcorn-api": "nirewen.github.io/popcorn-api",
   "popper": "fezvrasta.github.io/popper.js",
-  "portafolioacadeller": "acadeller.github.io/portafolioacadeller", 
+  "portafolioacadeller": "acadeller.github.io/portafolioacadeller",
   "portainer-update": "flweber.github.io/portainer-stack-updater",
   "porter": "ahopkins.github.io/porterjs", // noCF? (don´t add this in a new PR)
   "post-type-discovery": "twozeroone.github.io/post-type-discovery",
