@@ -1483,6 +1483,7 @@ var cnames_active = {
   "pad-project": "adaltas.github.io/node-pad-docs",
   "pageobject": "clebert.github.io/pageobject",
   "pagination": "superRaytin.github.io/paginationjs-site", // noCF
+  "paint": "christianliebel.github.io/paint",
   "palette": "pakastin.github.io/palette",
   "pamatcher": "pmros.github.io/pamatcher", // noCF? (don´t add this in a new PR)
   "pangkeyd": "pangkeyd.github.io",
