@@ -1336,6 +1336,7 @@ var cnames_active = {
   "murajaah": "mzaini30.github.io/murajaah-js",
   "murder": "rolandpoulter.github.io/murder", // noCF? (don´t add this in a new PR)
   "murmansk": "interfluve.github.io/Murmansk",
+  "mustaqim": "mustaqim.gitlab.io",
   "muto": "booleanapp.github.io/elastic-muto",
   "muxfm": "muxfm.github.io/docs",
   "mvc": "morozovsk.github.io/mvc", // noCF
