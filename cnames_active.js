@@ -439,6 +439,7 @@ var cnames_active = {
   "corps": "copay.github.io",
   "cosova": "hardo.github.io/cosova",
   "cote": "dashersw.github.io/cote", // noCF? (don´t add this in a new PR)
+  "countdown": "igorkowalczyk.github.io/countdown.js",
   "countr": "gleeny.github.io/countr-redirect",
   "country": "growmies.github.io/countryjs", // noCF? (don´t add this in a new PR)
   "cov19": "mixon00.github.io/cov19-cli",
