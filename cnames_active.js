@@ -2118,6 +2118,7 @@ var cnames_active = {
   "trilogy": "trilogy.netlify.com", //noCF
   "trinity": "marcus-sa.github.io/trinity-js",
   "trivia": "gubareve.github.io/triviabot-docs",
+  "tropical": "tropicaljs.netlify.app", //noCF
   "troxel": "troxeljs.github.io",
   "troy": "troyxun.github.io",
   "true-myth": "chriskrycho.github.io/true-myth",
