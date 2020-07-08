@@ -549,6 +549,7 @@ var cnames_active = {
   "distillery": "achannarasappa.github.io/distillery", // noCF? (don´t add this in a new PR)
   "distri": "flarp.github.io/Distri.js",
   "distribution": "distributionjs.github.io/website",
+  "distube": "skick1234.github.io/DisTube",
   "div": "div-js.github.io/div.js.org",
   "djsguide": "hosting.gitbook.com",
   "djvu": "russcoder.github.io/djvujs", // noCF
