@@ -974,6 +974,7 @@ var cnames_active = {
   "italia": "italia-js.github.io",
   "itsashis4u": "itsashis4u.github.io", // noCF? (don´t add this in a new PR)
   "itunes-bridge": "angrykiller.github.io/iTunes-bridge",
+  "itzik": "itzik.co",
   "iutdb": "xchairs.github.io/iutdb.github.io",
   "ivy": "sinistrecyborg.github.io/Ivy",
   "iwanttocountfromone": "realcyguy.github.io/iwanttocountfromone.js",
