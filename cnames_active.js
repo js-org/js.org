@@ -1112,6 +1112,7 @@ var cnames_active = {
   "lazycipher": "lazycipher.github.io",
   "lcookie": "lf112.github.io/lcookie",
   "ldf": "autplayed.github.io/ldf",
+  "lete": "lete114.github.io",
   "le": "letui.github.io",
   "leafless": "mofax.github.io/leafless",
   "lean-stack": "lean-stack.github.io", // noCF? (don´t add this in a new PR)
