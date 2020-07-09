@@ -2379,6 +2379,7 @@ var cnames_active = {
   "zplugins": "zlanguage.github.io/plugin-docs",
   "zty": "zetaoyang.github.io",
   "zyh": "zyh-chopper.github.io/zyh"
+  "zykj": "zykjofficial.github.io",
   "zyy": "zyyou.github.io/notes"
   /*
   * please don't add your subdomain records down here!
