@@ -2367,6 +2367,7 @@ var cnames_active = {
   "zombie": "assaf.github.io/zombie", // noCF? (don´t add this in a new PR)
   "zonayed": "zonayedpca.github.io/js.zonayed.me",
   "zplugins": "zlanguage.github.io/plugin-docs",
+  "zykj": "zykjofficial.github.io",
   "zty": "zetaoyang.github.io",
   "zyh": "zyh-chopper.github.io/zyh"
   "zyy": "zyyou.github.io/notes"
