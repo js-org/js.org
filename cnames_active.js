@@ -1772,6 +1772,7 @@ var cnames_active = {
   "retux": "crimx.github.io/retux",
   "revaluate": "hasharray.github.io/revaluate.js",
   "rgbstrip": "xrealneon.github.io/RGBStrip",
+  "rick": "vanishedvan.github.io/rick",
   "rickdesantis": "rickdesantis.github.io",
   "riklewis": "riklewis.github.io",
   "riot": "riot.github.io",
