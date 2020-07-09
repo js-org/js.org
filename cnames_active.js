@@ -1012,6 +1012,7 @@ var cnames_active = {
   "john": "jozhn.github.io",
   "jokes": "jeff-tian.github.io/jokes",
   "jonny": "shirajuki.github.io/jonny",
+  "jonnynl": "shirajuki.github.io/jonnynl",
   "jonstonchan": "jonstonchan.gitlab.io", // noCF
   "josep": "warlock.github.io",
   "jparticles": "jparticles.github.io/Documentation",
