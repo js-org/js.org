@@ -2303,6 +2303,7 @@ var cnames_active = {
   "wepl": "obnoxiousnerd.github.io/wepl-website",
   "wfplayer": "zhw2590582.github.io/WFPlayer",
   "wglt": "codyebberson.github.io/wglt",
+  "wgx": "w-gx.github.io",
   "whadido": "jokester.github.io/whadido",
   "whiteboard": "yhozen.github.io/whiteboard",
   "wice": "yulioaj290.github.io/wice.js",
