@@ -186,7 +186,6 @@ var cnames_active = {
   "async-af": "asyncaf.github.io/AsyncAF",
   "atavic": "atavic.github.io",
   "athome": "simon300000.github.io/athome",
-  "atom": "xiabo2.github.io/",
   "atombundles": "lirantal.github.io/atombundles",
   "atomgit": "sawyerbx.github.io/atom-git-docs",
   "atomicreact": "atomicreact.github.io/AtomicReact",
@@ -260,7 +259,7 @@ var cnames_active = {
   "biu": "aprilorange.github.io/biu", // noCF? (don´t add this in a new PR)
   "black-fury": "black-fury.github.io",
   "blego": "mattstypa.github.io/blego.js.org",
-  "blessmyrains": "dusterthefirst.github.io/blessmyrains",
+  "blessmyrains": "dusterthefirst.github.io/blessmys",
   "blockauth": "faragly.github.io/blockauth",
   "blogzam": "zam27.github.io/blogzam",
   "blogzen": "mzaini30.github.io/blogzen",
@@ -1660,6 +1659,7 @@ var cnames_active = {
   "rate-limiter-api": "abhisekp.github.io/rate-limiter-api",
   "rax": "alibaba.github.io/rax",
   "rax0-6": "raxjs.github.io/website-rax-v0.6",
+  "ray": "xiabo2.github.io/",
   "rayo": "getrayo.github.io/rayo.js",
   "rdf": "rdfjs.github.io", // noCF
   "react-atomic-ui": "react-atomic.github.io/react-atomic-ui",
