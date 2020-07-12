@@ -2385,6 +2385,7 @@ var cnames_active = {
   "zyh": "zyh-chopper.github.io/zyh"
   "zykj": "zykjofficial.github.io",
   "zyy": "zyyou.github.io/notes"
+  "wjy": "wjy20030407.github.io"
   /*
   * please don't add your subdomain records down here!
   * insert them in alphabetical order to help reduce merge conflicts.
