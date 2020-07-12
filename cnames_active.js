@@ -2036,6 +2036,7 @@ var cnames_active = {
   "sutanlab": "sutanlab.github.io.github.io",
   "svelte-formup": "kenoxa.github.io/svelte-formup",
   "svelte-workshop": "korzio.github.io/svelte-workshop",
+  "sveltestrap": "bestguy.github.io/sveltestrap",
   "svelteui": "transpiling.github.io/svelte-flat-ui",
   "svg-crowbar": "cy6erskunk.github.io/svg-crowbar",
   "svg-skeleton": "yyued.github.io/SVG-Skeleton",
