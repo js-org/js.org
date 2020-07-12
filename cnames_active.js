@@ -295,6 +295,7 @@ var cnames_active = {
   "brandifyjs": "greybax.github.io/brandifyjs",
   "brandonmerritt": "brandonmerritt.github.io", // noCF? (don´t add this in a new PR)
   "brasil": "javascriptbrasil.github.io",
+  "breadbot": "centralomd.github.io/breadbot", // noCF
   "bricklayer": "ademilter.github.io/bricklayer", // noCF? (don´t add this in a new PR)
   "brotat": "mariobob.github.io/brotat-website",
   "browserless": "kikobeats.github.io/browserless",
