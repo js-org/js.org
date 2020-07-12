@@ -1142,7 +1142,7 @@ var cnames_active = {
   "lgs": "lgsturkiye.github.io/lgs",
   "li": "mattsimmons1.github.io/li",
   "lifx": "fncxpro.github.io/lifx.js",
-  "lifeisyoung": "gru-lee.github.io",
+  "lifeisyoung": "lifeisyoung.github.io",
   "light": "lightjs.netlify.com",
   "light-observable": "dmitry-korolev.github.io/light-observable",
   "lightimage": "jwchan1996.github.io/lightimage.js",
