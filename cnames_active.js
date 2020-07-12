@@ -2303,6 +2303,7 @@ var cnames_active = {
   "wfplayer": "zhw2590582.github.io/WFPlayer",
   "wglt": "codyebberson.github.io/wglt",
   "wgx": "w-gx.github.io",
+  "wjy": "wjy20030407.github.io"
   "whadido": "jokester.github.io/whadido",
   "whiteboard": "yhozen.github.io/whiteboard",
   "wice": "yulioaj290.github.io/wice.js",
@@ -2385,7 +2386,6 @@ var cnames_active = {
   "zyh": "zyh-chopper.github.io/zyh"
   "zykj": "zykjofficial.github.io",
   "zyy": "zyyou.github.io/notes"
-  "wjy": "wjy20030407.github.io"
   /*
   * please don't add your subdomain records down here!
   * insert them in alphabetical order to help reduce merge conflicts.
