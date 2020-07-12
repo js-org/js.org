@@ -1,5 +1,6 @@
-# Summer break
-New subdomain requests won't be processed at the moment. https://github.com/js-org/js.org/issues/4325
+---
+### Summer break - [subdomain requests won't be processed at the moment](https://github.com/js-org/js.org/issues/4325)
+---
 
 [![JS.ORG Logo](http://logo.js.org/png/github_header.png)](http://js.org)
 
