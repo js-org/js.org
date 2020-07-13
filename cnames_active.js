@@ -517,6 +517,7 @@ var cnames_active = {
   "delet": "ds-development.github.io/delet",
   "democracy": "invisible-college.github.io/democracy",
   "demoji": "chroventer.github.io/demoji",
+  "denalon": "denalon.github.io",
   "denisvieira": "denisvieira05.github.io",
   "deno-tutorial": "hylerrix.github.io/deno-tutorial",
   "deox": "deox.netlify.com",
