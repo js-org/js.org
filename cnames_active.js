@@ -986,6 +986,7 @@ var cnames_active = {
   "ivy": "sinistrecyborg.github.io/Ivy",
   "iwanttocountfromone": "realcyguy.github.io/iwanttocountfromone.js",
   "j3n5en": "j3n5en.github.io",
+  "jacob": "jacob-marshall.github.io/jacob",
   "jackyef": "jackyef.github.io/jackyef",
   "jacob-ebey": "jacob-ebey.github.io",
   "jacques": "jacquesmarais.github.io/jacques", // noCF? (don´t add this in a new PR)
