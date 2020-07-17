@@ -1182,6 +1182,7 @@ var cnames_active = {
   "lucy": "lucy-bot.github.io",
   "luisoka": "luisoka.github.io",
   "luisself2020": "luisself2020.github.io/Portafolio-L",
+  "luisselfportafolio": "luisself2020.github.io/Portafolio-L/",
   "lukks": "lukks.github.io/page",
   "lvp": "luzhenqian.github.io/lvp.js",
   "lwd-db": "dreamingbot.github.io/Login-With-Discord-DB",
