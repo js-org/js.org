@@ -2352,6 +2352,7 @@ var cnames_active = {
   "yeisson-osorno": "yeissonosorno.github.io/portfolio",
   "yennj12": "yennanliu.github.io",
   "yf": "yafey.coding.me",
+  "yh": "hksat.github.io",
   "yiff": "codepupper.github.io/yiff",
   "yigit": "yigitusta.github.io",
   "yizao": "ssttii.github.io",
