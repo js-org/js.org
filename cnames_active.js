@@ -603,7 +603,7 @@ var cnames_active = {
   "duck": "duckmasteral.github.io",
   "dum": "castmary.github.io/dum.js.org",
   "dumber": "dumberjs.github.io",
-  "duncan": "dephraiim.github.io",
+  "duncan": "duncann.now.sh",
   "dunedin": "dunedinjs.github.io",
   "dungeon": "youssefelshemi.github.io/dungeon.js",
   "duniter": "duniterspec.github.io",
