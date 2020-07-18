@@ -1181,7 +1181,6 @@ var cnames_active = {
   "ls": "links-js.github.io",
   "lucy": "lucy-bot.github.io",
   "luisoka": "luisoka.github.io",
-  "portafolio-l": "luisself2020.github.io/Portafolio-L",
   "lukks": "lukks.github.io/page",
   "lvp": "luzhenqian.github.io/lvp.js",
   "lwd-db": "dreamingbot.github.io/Login-With-Discord-DB",
@@ -1592,6 +1591,7 @@ var cnames_active = {
   "popcorn-api": "nirewen.github.io/popcorn-api",
   "popper": "fezvrasta.github.io/popper.js",
   "portafolioacadeller": "acadeller.github.io/portafolioacadeller", 
+  "portafolio-l": "luisself2020.github.io/Portafolio-L",
   "portainer-update": "flweber.github.io/portainer-stack-updater",
   "porter": "ahopkins.github.io/porterjs", // noCF? (don´t add this in a new PR)
   "post-type-discovery": "twozeroone.github.io/post-type-discovery",
