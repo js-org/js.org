@@ -2228,6 +2228,7 @@ var cnames_active = {
   "verifyr": "arze1.github.io/verifyr-site",
   "verse": "druidic.github.io/verse",
   "veza": "kyranet.github.io/veza",
+  "vfm":"meshesha.github.io/VisualFormMaker.github.io",
   "viav": "brandondyer64.github.io/viav",
   "vicis": "r37r0m0d3l.github.io/vicis",
   "vico": "bohdantkachenko.github.io/vico", // noCF? (don´t add this in a new PR)
