@@ -1218,6 +1218,7 @@ var cnames_active = {
   "mapa-cultura": "opensas.gitlab.io",
   "mappa": "cvalenzuela.github.io/Mappa",
   "marble": "jsguy.github.io/marble",
+  "marianaportfolio": "mariana0317.github.io/portfolio",
   "marie": "marie-js.github.io/MARIE.js",
   "mark": "henry-luo.github.io/mark",
   "markbox": "markbox.netlify.com",
