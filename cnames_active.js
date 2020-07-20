@@ -1797,6 +1797,7 @@ var cnames_active = {
   "rockjins": "rockjins.github.io",
   "roger": "klopango.github.io/js-org",
   "roghib": "hosting.gitbook.com",
+  "rohan": "rohanreddych.github.io",
   "roosterapp": "roembol2000.github.io/roosterapp-mobile",
   "rosmaro": "lukaszmakuch.github.io/rosmaro",
   "router-advanced": "oldergod.github.io/router-advanced",
