@@ -2165,6 +2165,7 @@ var cnames_active = {
   "tweetnacl": "dchest.github.io/tweetnacl-js",
   "twentyfive": "luckyshot.github.io/twentyfive",
   "two": "jonobr1.github.io/two.js",
+  "twt": "koj-co.github.io/twt",
   "tydel": "fahad19.github.io/tydel", // noCF? (don´t add this in a new PR)
   "typeahead": "corejavascript.github.io/typeahead.js",
   "typed-ui": "pi-cubed.github.io/typed-ui",
