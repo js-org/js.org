@@ -1,7 +1,3 @@
----
-### Summer break - [subdomain requests won't be processed at the moment](https://github.com/js-org/js.org/issues/4325)
----
-
 [![JS.ORG Logo](http://logo.js.org/png/github_header.png)](http://js.org)
 
 [![JS.ORG](https://img.shields.io/badge/js.org-+-FFE70B.svg?style=flat-square)](http://js.org)
