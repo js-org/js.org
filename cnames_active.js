@@ -1796,7 +1796,6 @@ var cnames_active = {
   "rockjins": "rockjins.github.io",
   "roger": "klopango.github.io/js-org",
   "roghib": "hosting.gitbook.com",
-  "rohan": "rohantinna.github.io/rohan",
   "roosterapp": "roembol2000.github.io/roosterapp-mobile",
   "rosmaro": "lukaszmakuch.github.io/rosmaro",
   "router-advanced": "oldergod.github.io/router-advanced",
@@ -1807,6 +1806,7 @@ var cnames_active = {
   "rsshub": "diygod.github.io/RSSHub",
   "rsshub-reader": "sevenoutman.github.io/RSSHub-Reader",
   "rst": "rst-js.github.io/rst.js.org",
+  "rt": "rohantinna.github.io/rt",
   "ru.react": "js-rus.github.io/react-ru",
   "ru.redux-saga": "hosting.gitbook.com", // noCF
   "rub": "rubo-21.github.io",
