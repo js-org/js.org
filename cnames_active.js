@@ -2193,7 +2193,7 @@ var cnames_active = {
   "umentor": "umentor.github.io/umentor",
   "umm": "umm233.github.io",
   "underbase": "sundowndev.github.io/underbase",
-  "undercut": "the-spyke.github.io/undercut",
+  "undercut": "undercut.netlify.app",
   "underline": "brightskyz.github.io/underline",
   "uneditable": "iamcristye.github.io/Uneditable.js",
   "unexpected": "unexpectedjs.github.io", // noCF? (don´t add this in a new PR)
