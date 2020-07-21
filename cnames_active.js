@@ -1855,6 +1855,7 @@ var cnames_active = {
   "sawyer": "sawyerbx.github.io/personal",
   "sayo-bot": "sayolight.github.io/sayo-bot-web",
   "sazerac": "sazeracjs.github.io/sazerac-site",
+  "sebasvalcar": "sebasvalcar.github.io/portafolio",
   "sb": "santiaguf.github.io",
   "scancell": "teamtofu.github.io/scancell",
   "scene": "daybrush.github.io/scenejs-page",
