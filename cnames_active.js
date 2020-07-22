@@ -2328,6 +2328,7 @@ var cnames_active = {
   "wglt": "codyebberson.github.io/wglt",
   "wgx": "w-gx.github.io",
   "whadido": "jokester.github.io/whadido",
+  "whistle": "whistle-lang.github.io/whistle",
   "whiteboard": "yhozen.github.io/whiteboard",
   "wice": "yulioaj290.github.io/wice.js",
   "wii": "andrewplus.github.io/Wii.JS",
