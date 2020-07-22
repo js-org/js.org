@@ -2124,6 +2124,7 @@ var cnames_active = {
   "tights": "tights.netlify.com",
   "timeout": "anshuman-verma.github.io/setTimeout",
   "timerizer": "callumacrae.github.io/timerizerJS", // noCF? (don´t add this in a new PR)
+  "tin": "lhtin.github.io/tin",
   "tina": "tinajs.github.io/tina",
   "tint": "tintjs.github.io", // noCF? (don´t add this in a new PR)
   "tinylinux": "e8johan.github.io/tiny-js", // noCF? (don´t add this in a new PR)
@@ -2411,8 +2412,7 @@ var cnames_active = {
   "zty": "zetaoyang.github.io",
   "zyh": "zyh-chopper.github.io/zyh"
   "zykj": "zykjofficial.github.io",
-  "zyy": "zyyou.github.io/notes",
-  "tin": "lhtin.github.io/tin"
+  "zyy": "zyyou.github.io/notes"
   /*
   * please don't add your subdomain records down here!
   * insert them in alphabetical order to help reduce merge conflicts.
