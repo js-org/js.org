@@ -1517,6 +1517,7 @@ var cnames_active = {
   "pagination": "superRaytin.github.io/paginationjs-site", // noCF
   "paint": "christianliebel.github.io/paint",
   "palette": "pakastin.github.io/palette",
+  "pama": "impn.github.io",
   "pamatcher": "pmros.github.io/pamatcher", // noCF? (don´t add this in a new PR)
   "pangkeyd": "pangkeyd.github.io",
   "pantarei": "pantareijs.github.io/pantarei.js.org",
