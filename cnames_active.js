@@ -753,6 +753,7 @@ var cnames_active = {
   "flybook": "rhiokim.github.io/flybook",
   "flying-squid.prismarine": "prismarinejs.github.io/flying-squid",
   "flysoft": "minecraftsky.github.io",
+  "fnbr": "fnbrjs.github.io/docs",
   "fnx": "fnxjs.gitbooks.io/fnx-documentation",
   "focusoverlay": "mmahandev.github.io/FocusOverlay",
   "fontdragr": "ryanseddon.github.io/font-dragr",
