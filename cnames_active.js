@@ -1880,6 +1880,7 @@ var cnames_active = {
   "sed": "42ua.github.io/sed",
   "seemple": "finom.github.io/seemple.js.org",
   "seesaw": "cajogos.github.io/seesaw",
+  "segno": "keimeno.github.io/segno",
   "segoe-mdl2-css": "ckgrafico.github.io/Segoe-mdl2-assets-css", // noCF? (don´t add this in a new PR)
   "select_io": "selaromi.github.io/select_io", // noCF? (don´t add this in a new PR)
   "selectors": "selectors.github.io/selectors.js",
