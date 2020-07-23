@@ -514,6 +514,7 @@ var cnames_active = {
   "deepfractal": "munrocket.github.io/deep-fractal",
   "deepu": "deepu105.github.io",
   "defi": "finom.github.io/defi.js.org",
+  "defresh": "hello936.github.io/defresh",
   "delegacias-fortaleza": "juliosampaio.github.io/delegacias-fortaleza", // noCF? (don´t add this in a new PR)
   "delet": "ds-development.github.io/delet",
   "democracy": "invisible-college.github.io/democracy",
