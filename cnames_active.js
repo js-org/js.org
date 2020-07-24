@@ -219,7 +219,7 @@ var cnames_active = {
   "badlymadebot": "37l9g5rwwrozyeqk.preview.edgeapp.net",
   "badrudeen": "badrudeen.github.io", // noCF? (don´t add this in a new PR)
   "bai": "abaijs.github.io",
-  "baicai": "zibaicai.github.io",
+  "baicai": "zibaicai.github.io/baicaijsorg",
   "bakhtiyar": "bakszero.github.io",
   "bali": "balijs.github.io",
   "bananasplit": "diegoulloao.github.io/bananasplit-js",
