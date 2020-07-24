@@ -2009,7 +2009,7 @@ var cnames_active = {
   "stabs": "wnda.github.io/stabs",
   "stack-styled": "stack-styled.netlify.com",
   "stahlstadt": "dist1.storyblok.com",
-  "stampit": "hosting.gitbook.com",
+  "stampit": "hosting.gitbook.com", // noCF
   "stampy": "stampylongr.github.io"
   "standard-resource": "hosting.gitbook.com", // noCF
   "stapp": "tinkoffcreditsystems.github.io/stapp",
