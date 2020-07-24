@@ -2419,6 +2419,7 @@ var cnames_active = {
   "zonayed": "zonayedpca.github.io/js.zonayed.me",
   "zplugins": "zlanguage.github.io/plugin-docs",
   "zty": "zetaoyang.github.io",
+  "zygds": "zygds.github.io/zygds.js.org",
   "zyh": "zyh-chopper.github.io/zyh"
   "zykj": "zykj.now.sh", // noCF
   "zyy": "zyyou.github.io/notes"
