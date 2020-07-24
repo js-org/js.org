@@ -292,6 +292,7 @@ var cnames_active = {
   "botgram": "botgram.github.io/botgram",
   "bottender": "yoctol.github.io/bottender",
   "boundless": "enigma-io.github.io/boundless",
+  "botlist": "qpgwdz0goem541vo.preview.edgeapp.net",
   "box": "capacitorset.github.io/box-js", // noCF
   "boxed": "lionking27.github.io/boxed",
   "brain": "brainjs.github.io/brain.js.org",
