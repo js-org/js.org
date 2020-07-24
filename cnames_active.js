@@ -58,6 +58,7 @@ var cnames_active = {
   "a-western-story": "hotsaucefiretruck.github.io/A-Western-Story",
   "a11yslider": "mmahandev.github.io/a11y-slider",
   "a6smile": "a6smile.github.io",
+  "aakhilv": "blud3v.github.io/aakhilv",
   "aalaap": "aalaap.github.io",
   "aaron": "57aaron.github.io",
   "abbyz": "Abbyzhoum.github.io",
@@ -2421,8 +2422,7 @@ var cnames_active = {
   "zty": "zetaoyang.github.io",
   "zyh": "zyh-chopper.github.io/zyh",
   "zykj": "zykjofficial.github.io",
-  "zyy": "zyyou.github.io/notes",
-  "aakhilv": "blud3v.github.io/aakhilv"
+  "zyy": "zyyou.github.io/notes"
   /*
   * please don't add your subdomain records down here!
   * insert them in alphabetical order to help reduce merge conflicts.
