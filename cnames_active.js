@@ -1581,6 +1581,7 @@ var cnames_active = {
   "piling": "flekschas.github.io/piling.js",
   "pinf": "pinf.github.io", // noCF? (don´t add this in a new PR)
   "pinipig": "jmdisuanco.github.io/pinipig",
+  "pinyin": "hotoo.github.io/pinyin",
   "pipes": "pipesjs.github.io", // noCF? (don´t add this in a new PR)
   "pitermarx": "pitermarx.github.io", // noCF? (don´t add this in a new PR)
   "pivot": "wnda.github.io/pivot",
