@@ -144,6 +144,7 @@ var cnames_active = {
   "animegan": "tonylianlong.github.io/AnimeGAN.js",
   "animo": "thrivingkings.github.io/animo",
   "animorph": "claudiobmgrtnr.github.io/animorph",
+  "anki": "https://github.com/wenoif/anki",
   "anna": "anna-wro.github.io/anna",
   "annotate": "taitems.github.io/web-pdf-annotation", // noCF? (don´t add this in a new PR)
   "annoyingmouse": "annoyingmouse.github.io", // noCF? (don´t add this in a new PR)
@@ -2334,6 +2335,7 @@ var cnames_active = {
   "wechaty": "hosting.gitbook.com",
   "wedgetail": "wedgetail.netlify.com",
   "weekly": "xdimh.github.io/weekly",
+  "wenoif": "wenoif.github.io",
   "wepl": "obnoxiousnerd.github.io/wepl-website",
   "wfplayer": "zhw2590582.github.io/WFPlayer",
   "wglt": "codyebberson.github.io/wglt",
