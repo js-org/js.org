@@ -288,6 +288,7 @@ var cnames_active = {
   "bootstrap-validate": "pascalebeier.github.io/bootstrap-validate",
   "bootstrap-vue": "alias.zeit.co", // noCF
   "bootstrap-vue-arsenic": "ycs77.github.io/bootstrap-vue-arsenic",
+  "bop": "suteki90.github.io/bop",
   "bornaeon": "bornaeon.github.io",
   "botgram": "botgram.github.io/botgram",
   "bottender": "yoctol.github.io/bottender",
