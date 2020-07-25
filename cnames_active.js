@@ -290,9 +290,9 @@ var cnames_active = {
   "bootstrap-vue-arsenic": "ycs77.github.io/bootstrap-vue-arsenic",
   "bornaeon": "bornaeon.github.io",
   "botgram": "botgram.github.io/botgram",
+  "botlist": "qpgwdz0goem541vo.preview.edgeapp.net",
   "bottender": "yoctol.github.io/bottender",
   "boundless": "enigma-io.github.io/boundless",
-  "botlist": "qpgwdz0goem541vo.preview.edgeapp.net",
   "box": "capacitorset.github.io/box-js", // noCF
   "boxed": "lionking27.github.io/boxed",
   "brain": "brainjs.github.io/brain.js.org",
