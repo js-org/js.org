@@ -291,6 +291,7 @@ var cnames_active = {
   "bop": "suteki90.github.io/bop",
   "bornaeon": "bornaeon.github.io",
   "botgram": "botgram.github.io/botgram",
+  "botlist": "qpgwdz0goem541vo.preview.edgeapp.net",
   "bottender": "yoctol.github.io/bottender",
   "boundless": "enigma-io.github.io/boundless",
   "box": "capacitorset.github.io/box-js", // noCF
