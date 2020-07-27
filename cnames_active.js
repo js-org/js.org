@@ -345,6 +345,7 @@ var cnames_active = {
   "cargo": "herber.github.io/cargo",
   "carloseduardo": "karllossouza.github.io/carloseduardo.js.org",
   "carmi": "wix-incubator.github.io/carmi",
+  "carrot": "kemosaf.github.io/carrot",
   "cartodb-demo": "opensas.github.io/cartodb-demo", // noCF? (don´t add this in a new PR)
   "casl": "stalniy.github.io/casl",
   "cassie": "milesgitgud.github.io/cassie",
