@@ -1536,7 +1536,7 @@ var cnames_active = {
   "parkrun": "prouser123.github.io/parkrun.js",
   "particles": "matteobruni.github.io/tsparticles",
   "pas-ce-soir": "oldergod.github.io/pas-ce-soir",
-  "Prueba": "lucasginard.github.io/prueba",
+  "prueba": "lucasginard.github.io/prueba",
   "passepartout": "falkz.github.io/passepartout.js.org",
   "passport": "passportbot.github.io/Website",
   "passwords": "sawyerbx.github.io/pw",
