@@ -1286,7 +1286,7 @@ var cnames_active = {
   "meyda": "meyda.github.io",
   "mf": "awto.github.io/mfjs-compiler", // noCF? (don´t add this in a new PR)
   "mhsupport": "thatonetqnk.github.io/MHSupport",
-  "mhy": "hosting.gitbook.com",
+  "mhy": "hosting.gitbook.com", // noCF
   "mi": "stevenjoezhang.github.io",
   "michaelfarnik": "michaloslav.github.io/MichaelFarnik",
   "microfeedback": "microfeedback.github.io",
