@@ -1668,7 +1668,7 @@ var cnames_active = {
   "quick-crud": "kingrayhan.github.io/quick-crud",
   "quickdb": "truexpixels.gitbooks.io/quickdb",
   "quickerdb": "maniabots.github.io/QuickerDB",
-  "quickmongo": "snowflake107.github.io/quickmongo"
+  "quickmongo": "snowflake107.github.io/quickmongo",
   "quincy": "quincyx.github.io",
   "quinten": "regyo.github.io/quinten",
   "quiz-app": "odevlord.github.io/Quiz-App", // noCF? (don´t add this in a new PR)
