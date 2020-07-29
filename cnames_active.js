@@ -188,6 +188,7 @@ var cnames_active = {
   "astx-redux-util": "kevinast.github.io/astx-redux-util",
   "async-af": "asyncaf.github.io/AsyncAF",
   "atavic": "atavic.github.io",
+  "atenas": "atenasjs.netlify.app",
   "athome": "simon300000.github.io/athome",
   "atombundles": "lirantal.github.io/atombundles",
   "atomgit": "sawyerbx.github.io/atom-git-docs",
