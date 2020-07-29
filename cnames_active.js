@@ -962,6 +962,7 @@ var cnames_active = {
   "incite": "movny.github.io/it",
   "infinite-tree": "cheton.github.io/infinite-tree",
   "infinity": "dragoonzx.github.io/infinity",
+  "infodevkota": "infodevkota.github.io/infodevkota.js",
   "initial-wu": "initial-wu.github.io",
   "injectify": "injectify.github.io/docs",
   "inko": "inko.netlify.com",
