@@ -1995,6 +1995,7 @@ var cnames_active = {
   "sorting-algorithm-visualiser": "lachlandk.github.io/sorting-algorithm-visualiser",
   "soukai": "noeldemartin.github.io/soukai",
   "soundpad": "mcpe-pc.github.io/soundpad.js",
+  "socketbot": "coding-socket.glitch.me",
   "spa": "sucom.github.io/SPA.js",
   "spaas": "pakastin.github.io/spaas",
   "spacebot": "spacebot2.github.io",
