@@ -1522,6 +1522,7 @@ var cnames_active = {
   "outrite": "outrite.github.io/outrite.js.org",
   "overtrack": "aidant.github.io/overtrack.js",
   "oz": "openzagreb.github.io",
+  "mcdksr": "https://oyuncubro01.github.io/mcdksr",
   "p2psc": "kognise.github.io/p2psc",
   "p3terx": "p3terx.github.io/P3TERX",
   "p7e4": "p7e4.github.io",
