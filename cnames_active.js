@@ -2288,6 +2288,7 @@ var cnames_active = {
   "visualize-it": "kevinast.github.io/visualize-it",
   "visualized-execution": "codaisseur.github.io/visualized-execution",
   "visualnovel": "selcher.github.io/visualnoveljs", // noCF? (don´t add this in a new PR)
+  "vita": "raais.github.io/vita",
   "viveksharmaui": "viveksharmaui.github.io/portfolio",
   "vk-x": "vk-x.github.io",
   "vncz": "xvincentx.github.io/vncz",
