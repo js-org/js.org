@@ -1063,7 +1063,7 @@ var cnames_active = {
   "jwt-autorefresh": "cchamberlain.github.io/jwt-autorefresh", // noCF? (don´t add this in a new PR)
   "jwtonline": "boneyt92.github.io/jwtonline",
   "jz": "jz6.github.io",
-  "jsdec": "liulihaocai.github.io/JSDec",
+  "jsdec":"liulihaocai.github.io/JSDec",
   "kafka": "tulios.github.io/kafkajs",
   "kainy": "kainy.github.io/js.org",
   "kairusds": "kairusds.github.io",
@@ -1081,7 +1081,7 @@ var cnames_active = {
   "kdiacodes": "kdiacodes.github.io",
   "kea": "kea.netlify.com",
   "keeping-up-with-javascript": "jasperv.github.io/keeping-up-with-javascript",
-  "keerthisree": "naveenjujaray.github.io/jksblog",
+  "keerthisree": "naveenjujaray.github.io/jksblog"
   "kelvinho": "kelvin2go.github.io", // noCF? (don´t add this in a new PR)
   "kewitz": "kewitz.github.io",
   "keypress": "rumkin.github.io/keypress.js.org",
@@ -1586,7 +1586,7 @@ var cnames_active = {
   "pig-game": "dhanushp.github.io/pig-game",
   "pigeon-maps": "mariusandra.github.io/pigeon-maps",
   "piii": "piiijs.github.io/piii.js.org",
-  "pika": "xiaopika.github.io/pika.js.org",
+  "pika": "xiaopika.github.io/pika.js.org"
   "piling": "flekschas.github.io/piling.js",
   "pinf": "pinf.github.io", // noCF? (don´t add this in a new PR)
   "pinipig": "jmdisuanco.github.io/pinipig",
@@ -1620,7 +1620,7 @@ var cnames_active = {
   "pong-zh": "xiaozhu2021.github.io/javascript-pong",
   "popcorn-api": "nirewen.github.io/popcorn-api",
   "popper": "fezvrasta.github.io/popper.js",
-  "portafolioacadeller": "acadeller.github.io/portafolioacadeller",
+  "portafolioacadeller": "acadeller.github.io/portafolioacadeller", 
   "portafolioluis": "luisself2020.github.io/portafolioluis",
   "portainer-update": "flweber.github.io/portainer-stack-updater",
   "porter": "ahopkins.github.io/porterjs", // noCF? (don´t add this in a new PR)
@@ -2027,7 +2027,7 @@ var cnames_active = {
   "stack-styled": "stack-styled.netlify.com",
   "stahlstadt": "dist1.storyblok.com",
   "stampit": "hosting.gitbook.com", // noCF
-  "stampy": "stampylongr.github.io",
+  "stampy": "stampylongr.github.io"
   "standard-resource": "hosting.gitbook.com", // noCF
   "stapp": "tinkoffcreditsystems.github.io/stapp",
   "starratio": "starratio.github.io/star-ratio", // noCF
@@ -2337,7 +2337,7 @@ var cnames_active = {
   "wcfactory": "elmsln.github.io/wcfactory.js.org",
   "wdd": "wangduanduan.github.io",
   "weaver": "maxkfranz.github.io/weaver", // noCF? (don´t add this in a new PR)
-  "weather": "phanendraguptha.github.io/weather",
+  "weather":"phanendraguptha.github.io/weather"
   "web230": "paylesworth.github.io/web230",
   "webassembly": "xtuc.github.io/webassemblyjs",
   "webmetry": "comongroup.github.io/webmetry",
@@ -2438,7 +2438,7 @@ var cnames_active = {
   "zplugins": "zlanguage.github.io/plugin-docs",
   "zty": "zetaoyang.github.io",
   "zygds": "zygds.github.io/zygds.js.org",
-  "zyh": "zyh-chopper.github.io/zyh",
+  "zyh": "zyh-chopper.github.io/zyh"
   "zykj": "zykj.now.sh", // noCF
   "zyy": "zyyou.github.io/notes"
   /*
