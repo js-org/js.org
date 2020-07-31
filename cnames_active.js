@@ -1062,6 +1062,7 @@ var cnames_active = {
   "juzgados": "mteyss.github.io/juzgados",
   "jwjawa": "jwjawa.github.io",
   "jwt-autorefresh": "cchamberlain.github.io/jwt-autorefresh", // noCF? (don´t add this in a new PR)
+  "jwtonline": "boneyt92.github.io/jwtonline",
   "jz": "jz6.github.io",
   "kafka": "tulios.github.io/kafkajs",
   "kainy": "kainy.github.io/js.org",
