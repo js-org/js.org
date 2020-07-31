@@ -341,7 +341,7 @@ var cnames_active = {
   "cans": "djyde.github.io/cans", // noCF
   "cantara": "cantarajs.github.io/cantara",
   "canvas": "anshuman-verma.github.io/canvas",
-  "canvasconstructor": "kyranet.github.io/canvas-constructor-website",
+  "canvasconstructor": "kyranet.github.io/canvas-constructor",
   "canvo": "canvojs.github.io",
   "capital": "capitaljs.github.io/capitaljs",
   "capsid": "capsidjs.github.io/capsid",
