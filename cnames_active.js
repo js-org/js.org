@@ -2380,6 +2380,7 @@ var cnames_active = {
   "wyfe": "wangyuanstudio.github.io/WYFE", // noCF? (don´t add this in a new PR)
   "wynncraft": "frawolf.github.io/wynncraft.js",
   "wysc": "coffeebank.github.io/wysc-vue",
+  "x-ray": "x-ray-s.github.io",
   "xen": "hosting.gitbook.com",
   "xhemj": "xhemj.github.io/books",
   "xhy": "xhy.github.io",
