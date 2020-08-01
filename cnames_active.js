@@ -1687,7 +1687,7 @@ var cnames_active = {
   "rafaelmangolin": "rafaelMangolin.github.io", // noCF? (don´t add this in a new PR)
   "rahul": "rahulsukla.github.io/rahul", // noCF? (don´t add this in a new PR)
   "rahulbussa": "rahulbussa.github.io",
-  "rajarshi": "rajarshi07.github.io",
+  "rajarshi07": "rajarshi07.github.io",
   "ralmaz": "ralmaz.github.io",
   "ralphi": "yonjah.github.io/ralphi",
   "random-machine": "officialpiyush.github.io/random-machine",
