@@ -2272,6 +2272,7 @@ var cnames_active = {
   "vendywira": "vendywira.github.io",
   "verifyr": "arze1.github.io/verifyr-site",
   "verse": "druidic.github.io/verse",
+  "vest": "vestjs.netlify.app",
   "veza": "kyranet.github.io/veza",
   "vfm": "meshesha.github.io/VisualFormMaker.github.io",
   "viav": "brandondyer64.github.io/viav",
