@@ -313,6 +313,7 @@ var cnames_active = {
   "bt": "mldonkey.github.io/bt",
   "btgprice": "beeyev.github.io/btgprice.org",
   "bui": "kjantzer.github.io/bui",
+  "bullwinkle": "bullwinkle.github.io",
   "bun": "the94air.github.io/bun",
   "bunjil": "bunjil.netlify.com",
   "bunyan-fork": "cchamberlain.github.io/bunyan-fork", // noCF? (don´t add this in a new PR)
@@ -322,7 +323,6 @@ var cnames_active = {
   "bustime": "agarzola.github.io/bustime", // noCF? (don´t add this in a new PR)
   "butterfly": "cname.vercel-dns.com", // noCF
   "buttermilk": "buttermilk.netlify.com",
-  "bullwinkle": "bullwinkle.github.io",
   "byakugan": "rockmanvnx6.github.io/byakugan-js",
   "c": "cocobear.github.io",
   "c-3po": "ttag-org.github.io/c-3po",
