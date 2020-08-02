@@ -2352,7 +2352,7 @@ var cnames_active = {
   "webpack-inspect": "alexmost.github.io/webpack-inspect",
   "webpack-stats": "v-webpack.netlify.app",
   "websocket-client": "marcelcoding.github.io/websocket-client",
-  "wechaty": "hosting.gitbook.com",
+  "wechaty": "cdn.chatie.io",
   "wedgetail": "wedgetail.netlify.com",
   "weekly": "xdimh.github.io/weekly",
   "wepl": "obnoxiousnerd.github.io/wepl-website",
