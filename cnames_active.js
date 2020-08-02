@@ -576,6 +576,7 @@ var cnames_active = {
   "djvu": "russcoder.github.io/djvujs", // noCF
   "djzhao": "djzhao627.github.io",
   "dmitry": "dmitry-zaets.github.io",
+  "dm": "bullwinkle.github.io/dm-public",
   "dna": "dnajs.github.io/dna.js",
   "dns": "js-org.github.io/dns.js.org",
   "docile": "teamtofu.github.io/docile",
