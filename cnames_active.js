@@ -1294,7 +1294,6 @@ var cnames_active = {
   "metadata": "oknosoft.github.io/metadata.js",
   "metascraper": "microlinkhq.github.io/metascraper",
   "meth": "meth-meth-method.github.io/meth",
-  "meto": "sites.bootstrapstudio.io",
   "metools": "yimogit.github.io/metools-plugin",
   "meyda": "meyda.github.io",
   "mf": "awto.github.io/mfjs-compiler", // noCF? (don´t add this in a new PR)
