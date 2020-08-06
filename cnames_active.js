@@ -2365,6 +2365,7 @@ var cnames_active = {
   "weekly": "xdimh.github.io/weekly",
   "wepl": "obnoxiousnerd.github.io/wepl-website",
   "wfplayer": "zhw2590582.github.io/WFPlayer",
+  "wfs": "acewfdy.github.io/static",
   "wglt": "codyebberson.github.io/wglt",
   "wgp": "wgp0805.github.io",
   "wgx": "w-gx.github.io",
