@@ -1679,7 +1679,7 @@ var cnames_active = {
   "querybuilder": "mistic100.github.io/jQuery-QueryBuilder", // noCF? (don´t add this in a new PR)
   "question": "teamtofu.github.io/questionify",
   "quick-crud": "kingrayhan.github.io/quick-crud",
-  "quickdb": "truexpixels.gitbooks.io/quickdb",
+  "quickdb": "hosting.gitbook.com",
   "quickerdb": "maniabots.github.io/QuickerDB",
   "quickmongo": "snowflake107.github.io/quickmongo",
   "quincy": "quincyx.github.io",
