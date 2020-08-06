@@ -2043,7 +2043,6 @@ var cnames_active = {
   "start": "deepsweet.github.io/start",
   "startjs": "readthedocs.io",
   "state-machine-cat": "sverweij.github.io/state-machine-cat",
-  "static": "acewfdy.github.io/static",
   "staticinstance": "staticinstance.github.io", // noCF? (don´t add this in a new PR)
   "stats": "js-org.github.io/stats.js.org",
   "status": "mattipv4.github.io/status-codes",
@@ -2364,6 +2363,7 @@ var cnames_active = {
   "weekly": "xdimh.github.io/weekly",
   "wepl": "obnoxiousnerd.github.io/wepl-website",
   "wfplayer": "zhw2590582.github.io/WFPlayer",
+  "wfs": "acewfdy.github.io/static",
   "wglt": "codyebberson.github.io/wglt",
   "wgp": "wgp0805.github.io",
   "wgx": "w-gx.github.io",
