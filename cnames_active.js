@@ -575,6 +575,7 @@ var cnames_active = {
   "distri": "flarp.github.io/Distri.js",
   "distribution": "distributionjs.github.io/website",
   "districode": "districode.netlify.app",
+  "districode-p2p": "districode-p2p.netlify.app",
   "distube": "skick1234.github.io/DisTube",
   "div": "div-js.github.io/div.js.org",
   "djsguide": "hosting.gitbook.com",
