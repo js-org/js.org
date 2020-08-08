@@ -2308,7 +2308,7 @@ var cnames_active = {
   "viveksharmaui": "viveksharmaui.github.io/portfolio",
   "vk-x": "vk-x.github.io",
   "vncz": "xvincentx.github.io/vncz",
-  "volantis": "volantis-x.github.io",
+  "volantis": "cname.vercel-dns.com",
   "voloshins": "voloshins.github.io", // noCF? (don´t add this in a new PR)
   "vormulir": "bramaudi.github.io/vormulir",
   "vorpal": "dthree.github.io/vorpal", // noCF? (don´t add this in a new PR)
