@@ -176,6 +176,7 @@ var cnames_active = {
   "ariang": "p3terx.github.io/ariang",
   "arief": "1997arief.github.io",
   "arime": "ninbryan.github.io/arime", // noCF? (don´t add this in a new PR)
+  "arithmy": "arithmy.netlify.app",
   "arshad": "arshadmhabib.github.io",
   "artalk": "qwqcode.github.io/Artalk",
   "artery": "arteryjs.github.io/gh-pages", // noCF? (don´t add this in a new PR)
@@ -1043,6 +1044,7 @@ var cnames_active = {
   "jogja": "jogjajs.github.io", // noCF
   "john": "jozhn.github.io",
   "jokes": "jeff-tian.github.io/jokes",
+  "jonathangt": "jonathangt.github.io/portafolio",
   "jonny": "shirajuki.github.io/jonny",
   "jonnynl": "shirajuki.github.io/jonnynl",
   "jonstonchan": "jonstonchan.gitlab.io", // noCF
@@ -2307,7 +2309,7 @@ var cnames_active = {
   "viveksharmaui": "viveksharmaui.github.io/portfolio",
   "vk-x": "vk-x.github.io",
   "vncz": "xvincentx.github.io/vncz",
-  "volantis": "volantis-x.github.io",
+  "volantis": "cname.vercel-dns.com",
   "voloshins": "voloshins.github.io", // noCF? (don´t add this in a new PR)
   "vormulir": "bramaudi.github.io/vormulir",
   "vorpal": "dthree.github.io/vorpal", // noCF? (don´t add this in a new PR)
