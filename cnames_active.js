@@ -1198,6 +1198,7 @@ var cnames_active = {
   "lingui": "lingui.github.io/js-lingui",
   "lister": "jpbulman.github.io/lister",
   "litedom": "mardix.github.io/litedom", // noCF
+  "liudun": "haveataste.github.io/liudun",
   "liuence": "lxyzai.github.io/liuence",
   "live-editor": "geard-dev.github.io/web-based-live-code-editor",
   "liveflow": "hasharray.github.io/liveflow.js",
