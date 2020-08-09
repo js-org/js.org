@@ -1074,7 +1074,7 @@ var cnames_active = {
   "jwjawa": "jwjawa.github.io",
   "jwt-autorefresh": "cchamberlain.github.io/jwt-autorefresh", // noCF? (don´t add this in a new PR)
   "jwtonline": "boneyt92.github.io/jwtonline",
-  "jz": "jz6.github.io",",
+  "jz": "jz6.github.io",
   "kaan": "kaanmutlu17.github.io",
   "kafka": "tulios.github.io/kafkajs",
   "kainy": "kainy.github.io/js.org",
@@ -1085,7 +1085,7 @@ var cnames_active = {
   "karateblobs": "karatewumpus.github.io/karateblobs",
   "karl": "focused-bassi-cc0eff.netlify.com",
   "karolina-and-ryan": "mockturtlesoup.github.io/karolina-and-ryan",
-  "karrot": "kemosaf.github.io/karrot
+  "karrot": "kemosaf.github.io/karrot",
   "kate": "thecodesuite.github.io/katebot",
   "kavan": "kavanmevada.gitlab.io/intro",
   "kawaii": "moemoesoft.github.io/kawaii", // noCF
