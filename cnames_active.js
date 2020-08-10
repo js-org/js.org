@@ -132,6 +132,7 @@ var cnames_active = {
   "aman": "plug-n-play.github.io/aman",
   "amaple": "amjs-team.github.io/amaple",
   "amorphous": "ariabuckles.github.io/amorphous",
+  "ampn": "ampn.github.io",
   "amrit": "amritsrivastava.github.io",
   "amtz20": "amtz20.github.io",
   "ananta": "anantamishra.github.io/ananta",
