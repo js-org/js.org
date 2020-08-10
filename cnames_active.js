@@ -599,7 +599,7 @@ var cnames_active = {
   "dogstack": "dogstack.gitbooks.io/handbook", // noCF
   "dollar": "defims.github.io/dollar",
   "dolphin": "uyouthe.github.io/dolphin",
-  "domathid" : "domathid.github.io",
+  "domathid": "domathid.github.io",
   "dominion": "dominion-framework.github.io",
   "domtastic": "webpro.github.io/DOMtastic",
   "donavon": "donavon.github.io", // noCF? (don´t add this in a new PR)
