@@ -1201,6 +1201,7 @@ var cnames_active = {
   "litedom": "mardix.github.io/litedom", // noCF
   "liudun": "haveataste.github.io/liudun",
   "liuence": "lxyzai.github.io/liuence",
+  "liusai": "webwuyou.github.io",
   "live-editor": "geard-dev.github.io/web-based-live-code-editor",
   "liveflow": "hasharray.github.io/liveflow.js",
   "livenotif": "siffreinsg.github.io/livenotif",
@@ -1228,7 +1229,6 @@ var cnames_active = {
   "lychee": "Artificial-Engineering.github.io/lycheeJS-website",
   "lyra": "amansahil.github.io/lyra.js.org",
   "lzbible": "edwinyosorahardjo.github.io/lzbible",
-  "liusai": "webwuyou.github.io",
   "m01i0ng": "m01i0ng.github.io",
   "m8bot": "mapreiff.github.io/m8-bot-site",
   "ma124": "ma124.netlify.com",
