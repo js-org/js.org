@@ -1229,7 +1229,6 @@ var cnames_active = {
   "lyra": "amansahil.github.io/lyra.js.org",
   "lzbible": "edwinyosorahardjo.github.io/lzbible",
   "liusai":"webwuyou.github.io"
-  "lui":"webwuyou.github.io",
   "m01i0ng": "m01i0ng.github.io",
   "m8bot": "mapreiff.github.io/m8-bot-site",
   "ma124": "ma124.netlify.com",
@@ -2345,7 +2344,6 @@ var cnames_active = {
   "vuelidate": "vuelidate.netlify.com",
   "vuelog": "myst729.github.io/Vuelog",
   "vueuse": "vueuse.netlify.com",
-  "vue-design":"webwuyou.github.io",
   "vuikit": "vuikit.netlify.com",
   "vuongdothanhhuy": "vuongdothanhhuy.github.io", // noCF? (don´t add this in a new PR)
   "vxv": "vxv.netlify.com",
