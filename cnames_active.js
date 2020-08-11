@@ -65,7 +65,7 @@ var cnames_active = {
   "abbyz": "Abbyzhoum.github.io",
   "abc": "afexteam.github.io/abc-mobile",
   "abdalla": "the94air.github.io/abdalla",
-  "abel": "asaa19971a.github.io/portafolio1/.",
+  "abelacostaportafolio": "https://asaa19971a.github.io/AbelAcostaAcostaPortafolio/.",
   "abhishek": "rpidanny.github.io/personal-collage",
   "abhishekmittal": "abhishek-mittal.github.io/abhishekmittal",
   "abialbon": "abialbon.github.io",
