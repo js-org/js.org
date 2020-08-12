@@ -2380,7 +2380,7 @@ var cnames_active = {
   "wfs": "acewfdy.github.io/static",
   "wglt": "codyebberson.github.io/wglt",
   "wgp": "wgp0805.github.io",
-  "wgx": "w-gx.github.io",
+  "wgx": "w-gx.github.io", // noCF
   "whadido": "jokester.github.io/whadido",
   "whistle": "whistle-lang.github.io/website",
   "whiteboard": "yhozen.github.io/whiteboard",
