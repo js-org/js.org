@@ -349,7 +349,6 @@ var cnames_active = {
   "cats": "whoisjorge.github.io/not-cat-gifs",
   "cbm": "iamnapo.github.io/cbmjs",
   "cdll": "cdll.github.io",
-  "cdn": "blud3v.github.io/cdn",
   "cebu": "javascriptcebu.netlify.com",
   "celery-node": "actumn.github.io/celery.node",
   "cennznet": "cennznet.github.io/cennznet-ui",
@@ -950,6 +949,7 @@ var cnames_active = {
   "imcvampire": "imcvampire.github.io",
   "imeme": "svenmeister.github.io/imeme.js.org",
   "imgops": "dogancelik.github.io/imgops-multi", // noCF
+  "img": "blud3v.github.io/cdn",
   "immense": "immense.github.io", // noCF? (don´t add this in a new PR)
   "immybox": "immense.github.io/immybox", // noCF? (don´t add this in a new PR)
   "impress": "impress.github.io/impress.js",
