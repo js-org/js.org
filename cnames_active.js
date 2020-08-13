@@ -2113,6 +2113,7 @@ var cnames_active = {
   "switchit": "dongryphon.github.io/switchit",
   "switchjoy": "switchjoy.github.io",
   "swup": "swup.github.io/docs",
+  "sx": "screenrecx.netlify.app",
   "sxw": "sxwjs.github.io",
   "syauqi": "syauqizaidan.github.io",
   "sydinh": "sydinh.github.io",
