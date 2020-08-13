@@ -1257,7 +1257,7 @@ var cnames_active = {
   "markbox": "markbox.netlify.com",
   "markdown-notepad": "jz222.github.io/markdown-notepad",
   "markdownify": "amitmerchant1990.github.io/electron-markdownify",
-  "marked": "markedjs.github.io/marked",
+  "marked": "cname.vercel-dns.com", // noCF
   "markmap": "gera2ld.github.io/markmap-lib",
   "markmsmith": "markmsmith.github.io",
   "markvis": "geekplux.github.io/markvis",
