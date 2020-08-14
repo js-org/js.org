@@ -91,7 +91,6 @@ var cnames_active = {
   "aemp": "afexteam.github.io/aemp",
   "aeon": "flazepe.github.io/aeon-web",
   "affiliate": "teamtofu.github.io/affiliate",
-  "afif": "ilzamafif.github.io",
   "afmsavage": "afmsavage.github.io",
   "agentnpm": "meetping.github.io/agentnpm",
   "aghasemi": "aghasemi.github.io",
@@ -964,6 +963,7 @@ var cnames_active = {
   "iio": "iioinc.github.io/iio.js", // noCF? (don´t add this in a new PR)
   "ilfa": "iiilfaaa.github.io/www",
   "illuxi": "razod.github.io/illuxi",
+  "ilzamafif": "ilzamafif.github.io",
   "imagecapture": "googlechrome.github.io/imagecapture-polyfill",
   "imask": "unmanner.github.io/imaskjs",
   "imbue": "ghosts.github.io/Imbue",
