@@ -1390,8 +1390,8 @@ var cnames_active = {
   "msolers": "msolers.github.io/bloghugo",
   "msp430": "mazko.github.io/MSP430.js",
   "mubaidr": "mubaidr.github.io",
-  "mujin": "mujin669.github.io",
   "muhammadsawfollower": "gangsarswapurba.github.io",
+  "mujin": "mujin669.github.io",
   "multiple": "nexts.github.io/Multiple.js",
   "murajaah": "mzaini30.github.io/murajaah-js",
   "murder": "rolandpoulter.github.io/murder", // noCF? (don´t add this in a new PR)
