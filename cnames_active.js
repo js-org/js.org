@@ -38,7 +38,6 @@
  */
 
 var cnames_active = {
-  "muhammadsawfollower": "gangsarswapurba.github.io",
   "": "js-org.github.io",
   "01mz": "01mz.github.io",
   "100dayz": "deadcoder0904.github.io/100dayz",
@@ -1393,6 +1392,7 @@ var cnames_active = {
   "mubaidr": "mubaidr.github.io",
   "mujin": "mujin669.github.io",
   "multiple": "nexts.github.io/Multiple.js",
+  "muhammadsawfollower": "gangsarswapurba.github.io",
   "murajaah": "mzaini30.github.io/murajaah-js",
   "murder": "rolandpoulter.github.io/murder", // noCF? (don´t add this in a new PR)
   "murmansk": "interfluve.github.io/Murmansk",
