@@ -502,7 +502,6 @@ var cnames_active = {
   "d-patterns": "alias.zeit.co", // noCF
   "d4": "joelburget.github.io/d4",
   "daily.tmr": "ttttmr.github.io/daily", // noCF
-  "daystride": "mad880.github.io/DayStride"
   "daksh0225": "daksh0225.github.io",
   "damo": "damodharanj.github.io",
   "dan": "danielh-dev.netlify.com",
@@ -523,6 +522,7 @@ var cnames_active = {
   "day": "dayjs.github.io/website",
   "daybreak": "mokunshao.github.io/daybreak",
   "daysfromnow": "pedrokost.github.io/daysfromnow", // noCF? (don´t add this in a new PR)
+  "daystride": "mad880.github.io/DayStride",
   "dbar": "dbarjs.github.io",
   "dbash": "oocydo.github.io/dbash",
   "dblog": "dblog.netlify.com",
