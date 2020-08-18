@@ -290,6 +290,7 @@ var cnames_active = {
   "bolao": "ziyou3012.github.io",
   "boldom": "marcisbee.github.io/boldom",
   "bombsweeper": "pakastin.github.io/bombsweeper",
+  "bonjour": "danielwetan.github.com/bonjour-web",
   "bonzibuddy": "fardindadev.github.io/bonzibuddy",
   "bookmarklets": "novadevelopment.github.io/bookmarklets.js",
   "bool": "booljs.github.io",
