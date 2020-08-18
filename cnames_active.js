@@ -1363,6 +1363,7 @@ var cnames_active = {
   "mockjs-lite": "52cik.github.io/mockjs-lite", // noCF
   "mockyeah": "mockyeah.netlify.com",
   "modbot": "modbotjs.github.io",
+  "mobiriseto": "mobiriseto.github.io",
   "modofun": "modofunjs.github.io/modofun",
   "modoki": "araozu.github.io/modoki",
   "modulajs": "modulajs.netlify.com",
