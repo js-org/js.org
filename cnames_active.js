@@ -725,6 +725,7 @@ var cnames_active = {
   "exeform": "hosting.gitbook.com", // noCF
   "exiftool-vendored": "mceachen.github.io/exiftool-vendored.js",
   "exp": "magicops.github.io/JQuery-expression-builder",
+  "expressad": "flweber.github.io/express-ad-basicauth",
   "expressdynamichelpers": "marvnet.github.io/express-dynamic-helpers-patch",
   "extenso": "theuves.github.io/extenso.js.org",
   "extraction": "rse.github.io/extraction", // noCF? (don´t add this in a new PR)
