@@ -1353,6 +1353,7 @@ var cnames_active = {
   "mnmlcss": "barelyhuman.github.io/mnml.css",
   "mo": "mirmousaviii.github.io/mo",
   "mobi": "mobidots.github.io",
+  "mobiriseto": "mobiriseto.github.io",
   "mobspot": "mobspot.github.me/mobspot.js.org",
   "mobx": "mobxjs.github.io/mobx",
   "mobx-keystone": "mobx-keystone.netlify.com",
@@ -1363,7 +1364,6 @@ var cnames_active = {
   "mockjs-lite": "52cik.github.io/mockjs-lite", // noCF
   "mockyeah": "mockyeah.netlify.com",
   "modbot": "modbotjs.github.io",
-  "mobiriseto": "mobiriseto.github.io",
   "modofun": "modofunjs.github.io/modofun",
   "modoki": "araozu.github.io/modoki",
   "modulajs": "modulajs.netlify.com",
