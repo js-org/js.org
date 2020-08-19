@@ -1969,6 +1969,7 @@ var cnames_active = {
   "showroom": "showroom-js.herokuapp.com",
   "shscode": "shs-coding-club-projects.github.io",
   "sidekik": "inf3cti0n95.github.io/sidekik",
+  "siddharthch": "chaudhs769.github.io/siddharth.js.org",
   "sights": "sfxrescue.github.io/sights",
   "silas229": "silas229.github.io",
   "silfr": "silfr.github.io/iterativecolor",
