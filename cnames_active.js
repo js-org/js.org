@@ -2277,6 +2277,7 @@ var cnames_active = {
   "urban": "snekjs.github.io/urban.js",
   "url-pages": "url-pages.github.io",
   "use": "use-js.github.io/use",
+  "usetable-ahooks": "usetable-ahooks.surge.sh",
   "useworker": "useworker.netlify.com",
   "ushakov": "ushakov-igor.github.io/ushakov",
   "ushio": "ushio.netlify.com",
