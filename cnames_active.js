@@ -1555,7 +1555,7 @@ var cnames_active = {
   "packit": "pouya-eghbali.github.io/packit",
   "pad": "ebraminio.github.io/pad.js", // noCF? (don´t add this in a new PR)
   "pad-project": "adaltas.github.io/node-pad-docs",
-  "padmemesamidala": "https://padmemesamidala.github.io/PadmemesAmidalaWeb/",
+  "padmemesamidala": "padmemesamidala.github.io/PadmemesAmidalaWeb",
   "pageobject": "clebert.github.io/pageobject",
   "pagination": "superRaytin.github.io/paginationjs-site", // noCF
   "paint": "christianliebel.github.io/paint",
