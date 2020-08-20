@@ -2140,6 +2140,7 @@ var cnames_active = {
   "tama": "etk.gitlab.io",
   "tanmay": "tan-mayhem.github.io/tanmay",
   "tanok": "brabadu.github.io/tanok",
+  "tandwielbot": "scraayp-api.github.io/tandwielbot-website",
   "tao": "zzyzxlab.github.io/tao.js",
   "tap-flux": "technologyadvice.github.io/tap-flux", // noCF? (don´t add this in a new PR)
   "tapestry-wp": "shortlist-digital.github.io/tapestry-wp",
