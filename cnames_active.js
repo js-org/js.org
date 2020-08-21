@@ -7,6 +7,7 @@
  *
  *
  **** README
+ 
  * ***********
  *
  * KEY:         The subdomain you request (e.g.: "foo" would give the custom domain "foo.js.org").
@@ -1137,6 +1138,7 @@ var cnames_active = {
   "lister": "jpbulman.github.io/lister",
   "litedom": "mardix.github.io/litedom", // noCF
   "liuence": "lxyzai.github.io/liuence",
+  "live": "guzhou.github.io/live",
   "live-editor": "geard-dev.github.io/web-based-live-code-editor",
   "liveflow": "hasharray.github.io/liveflow.js",
   "livenotif": "siffreinsg.github.io/livenotif",
