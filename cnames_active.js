@@ -2326,6 +2326,7 @@ var cnames_active = {
   "vico": "bohdantkachenko.github.io/vico", // noCF? (don´t add this in a new PR)
   "victor": "vicdevjs.github.io/vic",
   "video-react": "video-react.github.io",
+  "viero": "vierofernando.github.io",
   "vigour": "mokunshao.github.io/vigour",
   "viki": "viki-org.github.io/viki-web-ui",
   "villain": "btzr-io.github.io/Villain",
