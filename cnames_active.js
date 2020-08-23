@@ -220,7 +220,7 @@ var cnames_active = {
   "awk": "42ua.github.io/awk",
   "awoo": "awoojs.github.io/website",
   "awto": "alias.zeit.co", // noCF
-  "azbuka-vkusa": "bullwinkle.github.io/azbuka-vkusa",
+  "azbuka-vkusa": "bullwinkle.github.io/azbuka-vkusa",  
   "azdanov": "azdanov.netlify.com", // noCF
   "aziz": "iaziz786.netlify.com",
   "bachors": "bachors.github.io",
