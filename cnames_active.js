@@ -842,6 +842,7 @@ var cnames_active = {
   "ghastly": "hkwu.github.io/ghastly",
   "ghsamm": "ghsamm.github.io", // noCF? (don´t add this in a new PR)
   "giant-piano": "moroshko.github.io/giant-piano", // noCF? (don´t add this in a new PR)
+  "girish": "chaudhs769.github.io/girish.js.org",
   "girls": "girls-js.github.io",
   "girlscript": "girlscriptjaipur.github.io",
   "gitdown": "gc.github.io/gitdown",
