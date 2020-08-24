@@ -544,6 +544,7 @@ var cnames_active = {
   "delegacias-fortaleza": "juliosampaio.github.io/delegacias-fortaleza", // noCF? (don´t add this in a new PR)
   "delet": "ds-development.github.io/delet",
   "democracy": "invisible-college.github.io/democracy",
+  "democrqblog": "crqblog.github.io/demos",
   "demoji": "chroventer.github.io/demoji",
   "denalon": "denalon.github.io",
   "denisvieira": "denisvieira05.github.io",
