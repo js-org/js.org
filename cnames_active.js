@@ -2211,7 +2211,7 @@ var cnames_active = {
   "tom": "tom-microservice.netlify.com",
   "tooling": "slikts.github.io/tooling",
   "tools-kit": "blackb1rd-development.github.io/tools-kit",
-  "toolzar": "toolzar.netlify.app"
+  "toolzar": "toolzar.netlify.app",
   "topbot": "resign05.github.io/TobWebsite",
   "tori": "boostcode.github.io/torijs",
   "torino": "torinojs.github.io", // noCF? (don´t add this in a new PR)
