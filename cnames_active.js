@@ -948,8 +948,8 @@ var cnames_active = {
   "imbue": "ghosts.github.io/Imbue",
   "imcvampire": "imcvampire.github.io",
   "imeme": "svenmeister.github.io/imeme.js.org",
+  "imgg": "f1f78987-e3d8-4cde-98b3-785ea04ea944.repl.co",
   "imgops": "dogancelik.github.io/imgops-multi", // noCF
-  "img": "blud3v.github.io/cdn",
   "immense": "immense.github.io", // noCF? (don´t add this in a new PR)
   "immybox": "immense.github.io/immybox", // noCF? (don´t add this in a new PR)
   "impress": "impress.github.io/impress.js",
