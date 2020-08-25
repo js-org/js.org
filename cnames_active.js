@@ -2252,7 +2252,7 @@ var cnames_active = {
   "turbo": "turbo.github.io",
   "tux": "tux.gitbooks.io/docs",
   "tuxsnct": "tuxsnct.vercel.app",
-  "twb": "tandwielbots.github.io/tandwielbots"
+  "twb": "tandwielbots.github.io/tandwielbots",
   "twcopy": "the94air.github.io/twcopy",
   "tweed": "tweedjs.github.io",
   "tweetnacl": "dchest.github.io/tweetnacl-js",
