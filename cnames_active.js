@@ -1712,7 +1712,7 @@ var cnames_active = {
   "pzero": "hanyaku.github.io/ProjectZERO",
   "qbit": "fudan-mse.github.io/qbit",
   "qbsz": "qbsz.github.io",
-  "blog.qbsz": "qbsz.github.io",// noCF? (don´t add this in a new PR)
+  "blog.qbsz": "aboutqbsz.github.io",// noCF? (don´t add this in a new PR)
   "qs": "kirjs.github.io/qs.js", // noCF? (don´t add this in a new PR)
   "quacky": "quacky-bot.github.io",
   "quantlib": "quantlibjs.github.io",
