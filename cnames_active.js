@@ -278,7 +278,7 @@ var cnames_active = {
   "black-fury": "black-fury.github.io",
   "blego": "mattstypa.github.io/blego.js.org",
   "blessmyrains": "dusterthefirst.github.io/blessmyrains",
-  "blu": "blu.aakhilv.repl.co",
+  "blu": "18d737f5-c00e-4f68-862d-ed08653a0f99.repl.co",
   "blockauth": "faragly.github.io/blockauth",
   "blogzam": "zam27.github.io/blogzam",
   "blogzen": "mzaini30.github.io/blogzen",
