@@ -305,7 +305,6 @@ var cnames_active = {
   "bootstrap-vue": "alias.zeit.co", // noCF
   "bootstrap-vue-arsenic": "ycs77.github.io/bootstrap-vue-arsenic",
   "bop": "suteki90.github.io/bop",
-  "boopxyz": "boopxyz.github.io",
   "bornaeon": "bornaeon.github.io",
   "botgram": "botgram.github.io/botgram",
   "botlist": "qpgwdz0goem541vo.preview.edgeapp.net",
@@ -1260,7 +1259,6 @@ var cnames_active = {
   "magnet": "magnetjs.github.io/Magnet", // noCF? (don´t add this in a new PR)
   "mahdyar": "mahdyar.github.io/mahdyar.js.org",
   "mahmoud": "mahmoud-sagharjoughi.github.io/mahmoud",
-  "mainframebot": "mainframediscordbot.github.io",
   "mailgo": "mailgo.netlify.com", // noCF
   "majestic": "moityjs.github.io/majestic",
   "maker": "microsoft.github.io/maker.js",
