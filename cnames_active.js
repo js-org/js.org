@@ -1431,6 +1431,7 @@ var cnames_active = {
   "mzaini30": "mzaini30.github.io",
   "mzplayer": "prince3661.github.io/Mzplayer",
   "n": "cyb.github.io/n",
+  "n3rd": "n3-rd.github.io"
   "nabin": "nabin6246.github.io",
   "naja": "jiripudil.github.io/Naja",
   "name-my-colors": "domcoleman.github.io/name-my-colors",
