@@ -788,6 +788,7 @@ var cnames_active = {
   "flysoft": "minecraftsky.github.io",
   "fnbr": "fnbrjs.github.io/docs",
   "fnx": "fnxjs.gitbooks.io/fnx-documentation",
+  "fmkli": "fmkli.github.io",
   "focusoverlay": "mmahandev.github.io/FocusOverlay",
   "fontdragr": "ryanseddon.github.io/font-dragr",
   "food": "teamtofu.github.io/foodweb",
