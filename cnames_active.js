@@ -513,6 +513,7 @@ var cnames_active = {
   "dakokonutboi": "dakokonutboi.github.io/portfolio",
   "daksh0225": "daksh0225.github.io",
   "damo": "damodharanj.github.io",
+  "damon233": "whatdamon.github.io", // noCF
   "dan": "danielh-dev.netlify.com",
   "danmaku": "weizhenye.github.io/Danmaku",
   "danmol": "dan12mol.github.io", // noCF? (don´t add this in a new PR)
@@ -1575,6 +1576,7 @@ var cnames_active = {
   "paint": "christianliebel.github.io/paint",
   "palette": "pakastin.github.io/palette",
   "pamatcher": "pmros.github.io/pamatcher", // noCF? (don´t add this in a new PR)
+  "passport": "passportbot.github.io/Website",
   "pangkeyd": "pangkeyd.github.io",
   "pantarei": "pantareijs.github.io/pantarei.js.org",
   "panza": "panza-org.github.io/panza-docs", // noCF
@@ -1587,7 +1589,6 @@ var cnames_active = {
   "particles": "matteobruni.github.io/tsparticles",
   "pas-ce-soir": "oldergod.github.io/pas-ce-soir",
   "passepartout": "falkz.github.io/passepartout.js.org",
-  "passport": "passportbot.github.io/Website",
   "passwords": "sawyerbx.github.io/pw",
   "pastate": "birdleescut.github.io/pastate",
   "pastebin-alert": "ramadhanamizudin.github.io/pastebin-alert.js", // noCF? (don´t add this in a new PR)
