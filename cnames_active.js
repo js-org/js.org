@@ -196,6 +196,7 @@ var cnames_active = {
   "autarky": "pranshuchittora.github.io/autarky",
   "autodocs": "bguiz.github.io/autodocs", // noCF? (don´t add this in a new PR)
   "automic": "automicjs.github.io",
+  "avblog": "https://aakhilv.github.io/blog/",
   "avi": "avinassh.github.io/avi", // noCF? (don´t add this in a new PR)
   "avner": "avnerus.github.io", // noCF? (don´t add this in a new PR)
   "avstream": "akash-joshi.github.io/avstream.js",
