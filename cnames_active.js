@@ -513,7 +513,7 @@ var cnames_active = {
   "dakokonutboi": "dakokonutboi.github.io/portfolio",
   "daksh0225": "daksh0225.github.io",
   "damo": "damodharanj.github.io",
-  "damon233": "whatdamon.github.io", // noCF
+  "damon233": "whatdamon.github.io",
   "dan": "danielh-dev.netlify.com",
   "danmaku": "weizhenye.github.io/Danmaku",
   "danmol": "dan12mol.github.io", // noCF? (don´t add this in a new PR)
