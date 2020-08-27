@@ -1427,6 +1427,7 @@ var cnames_active = {
   "muto": "booleanapp.github.io/elastic-muto",
   "muxfm": "muxfm.github.io/docs",
   "mvc": "morozovsk.github.io/mvc", // noCF
+  "mmzdupz": "mmzdupz.github.io",
   "mw": "agauniyal.github.io/mw",
   "my-app": "nirrius.github.io/my-app",
   "my-server": "nirrius.github.io/my-server",
