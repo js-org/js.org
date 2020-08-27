@@ -1730,6 +1730,7 @@ var cnames_active = {
   "quick-crud": "kingrayhan.github.io/quick-crud",
   "quickdb": "hosting.gitbook.com",
   "quickerdb": "maniabots.github.io/QuickerDB",
+  "quickeco": "http://quickeco.github.io/",
   "quickmongo": "snowflake107.github.io/quickmongo",
   "quincy": "quincyx.github.io",
   "quinten": "regyo.github.io/quinten",
