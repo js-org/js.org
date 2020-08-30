@@ -1246,6 +1246,7 @@ var cnames_active = {
   "lribeiro": "lmribeiro.github.io",
   "ls": "links-js.github.io",
   "lucy": "lucy-bot.github.io",
+  "luis": "luiscloud.github.io",
   "lukks": "lukks.github.io/page",
   "luzc": "lucianing.github.io/notes",
   "lvp": "luzhenqian.github.io/lvp.js",
