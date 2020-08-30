@@ -302,6 +302,7 @@ var cnames_active = {
   "bookmarklets": "novadevelopment.github.io/bookmarklets.js",
   "bool": "booljs.github.io",
   "booru": "atlasthebot.github.io/booru",
+  "bootstrap": "https://techboyg5.github.io/bootstrap/",
   "bootstrap-confirmation": "mistic100.github.io/Bootstrap-Confirmation", // noCF? (don´t add this in a new PR)
   "bootstrap-validate": "pascalebeier.github.io/bootstrap-validate",
   "bootstrap-vue": "alias.zeit.co", // noCF
