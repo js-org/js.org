@@ -1769,6 +1769,7 @@ var cnames_active = {
   "react-entanglement": "react-entanglement.github.io",
   "react-form": "react-form.netlify.com",
   "react-hint": "slmgc.github.io/react-hint",
+  "react-jewish-datepicker": "shmulik-kravitz.github.io/react-jewish-datepicker",
   "react-layout-components": "kripod.github.io/react-layout-components",
   "react-leaflet": "paullecam.github.io/react-leaflet",
   "react-move": "react-move.netlify.com",
