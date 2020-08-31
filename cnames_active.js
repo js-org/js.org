@@ -1111,6 +1111,7 @@ var cnames_active = {
   "karl": "focused-bassi-cc0eff.netlify.com",
   "karolina-and-ryan": "mockturtlesoup.github.io/karolina-and-ryan",
   "karrot": "kemosaf.github.io/karrot",
+  "kasfy": "kasfy.github.io/kasfy.js.org",
   "kate": "thecodesuite.github.io/katebot",
   "katheesh": "katheesh.github.io/katheesh.js"
   "kavan": "kavanmevada.gitlab.io/intro",
