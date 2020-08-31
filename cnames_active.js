@@ -2234,7 +2234,7 @@ var cnames_active = {
   "vue-showdown": "vue-showdown.netlify.com",
   "vue-svg-loader": "vue-svg-loader.netlify.com",
   "vue-treeselect": "riophae.github.io/vue-treeselect",
-  "vuepress": "wangdabaoqq.github.io/vuepress",
+  "vue-blog": "wangdabaoqq.github.io/vuepress",
   "vuejsindy": "vuejsindy.github.io",
   "vuelidate": "vuelidate.netlify.com",
   "vuelog": "myst729.github.io/Vuelog",
