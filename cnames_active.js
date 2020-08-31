@@ -1112,7 +1112,7 @@ var cnames_active = {
   "karrot": "kemosaf.github.io/karrot",
   "kasfy": "kasfy.github.io/kasfy.js.org",
   "kate": "thecodesuite.github.io/katebot",
-  "katheesh": "katheesh.github.io/katheesh.js"
+  "katheesh": "katheesh.github.io/katheesh.js",
   "kavan": "kavanmevada.gitlab.io/intro",
   "kawaii": "moemoesoft.github.io/kawaii", // noCF
   "kcak11": "kcak11.github.io/js-org-web",
