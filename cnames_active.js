@@ -700,6 +700,7 @@ var cnames_active = {
   "endpoint-imposter": "lukaszmakuch.github.io/endpoint-imposter",
   "energy": "energychain.github.io/energy",
   "engui": "engui.github.io",
+  "eon": "eon-web.github.io/eon",
   "eplayer": "132yse.github.io/eplayer",
   "epoxy": "hosting.gitbook.com",
   "eq8": "eq8.github.io",
