@@ -1114,7 +1114,7 @@ var cnames_active = {
   "karrot": "kemosaf.github.io/karrot",
   "kasfy": "kasfy.github.io/kasfy.js.org",
   "kate": "thecodesuite.github.io/katebot",
-  "katheesh": "katheesh.github.io/katheesh.js",
+  "katheesh": "katheesh.github.io/katheesh.js"
   "kavan": "kavanmevada.gitlab.io/intro",
   "kawaii": "moemoesoft.github.io/kawaii", // noCF
   "kcak11": "kcak11.github.io/js-org-web",
@@ -1442,7 +1442,7 @@ var cnames_active = {
   "mzaini30": "mzaini30.github.io",
   "mzplayer": "prince3661.github.io/Mzplayer",
   "n": "cyb.github.io/n",
-  "n3-rd": "n3-rd.github.io",
+  "n3-rd": "n3-rd.github.io"
   "nabin": "nabin6246.github.io",
   "naja": "jiripudil.github.io/Naja",
   "name-my-colors": "domcoleman.github.io/name-my-colors",
