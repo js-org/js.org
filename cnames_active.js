@@ -183,7 +183,7 @@ var cnames_active = {
   "async-af": "asyncaf.github.io/AsyncAF",
   "atavic": "atavic.github.io",
   "athome": "simon300000.github.io/athome",
-  "atombundles": "lirantal.github.io/atombbundles",
+  "atombundles": "lirantal.github.io/atombundles",
   "atomgit": "sawyerbx.github.io/atom-git-docs",
   "atomicreact": "atomicreact.github.io/AtomicReact",
   "atx": "aktarytech.github.io/atx",
