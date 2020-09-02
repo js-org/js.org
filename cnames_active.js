@@ -2050,6 +2050,7 @@ var cnames_active = {
   "smoove": "abemedia.github.io/jquery-smoove",
   "smox": "132yse.github.io/smox",
   "snake": "pakastin.github.io/snake",
+  "snakes": "crqblog.github.io/snake",
   "snapshot": "vishnupsatish.github.io/snapshot",
   "snekfetch": "devsnek.github.io/snekfetch",
   "snippet": "jmas.github.io/gist",
