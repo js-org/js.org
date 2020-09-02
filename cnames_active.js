@@ -80,6 +80,7 @@ var cnames_active = {
   "acho": "achojs.github.io/acho",
   "acm": "drew233.github.io/calander",
   "acme": "makepost.github.io/acme-commander",
+  "acta": "fabien-h.github.io/acta",
   "action-u": "kevinast.github.io/action-u",
   "active-resource": "nicklandgrebe.github.io/activeresource.js",
   "acyort": "acyortjs.github.io/site",
