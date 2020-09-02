@@ -1730,6 +1730,7 @@ var cnames_active = {
   "qbit": "fudan-mse.github.io/qbit",
   "qbsz": "qbsz.github.io",
   "qs": "kirjs.github.io/qs.js", // noCF? (don´t add this in a new PR)
+  "qpie": "qpie-git.github.io"
   "quacky": "quacky-bot.github.io",
   "quantlib": "quantlibjs.github.io",
   "quark": "smarchetti.github.io/quark",
