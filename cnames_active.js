@@ -1169,6 +1169,7 @@ var cnames_active = {
   "kst": "lucaelin.github.io/KST", // noCF
   "ktm": "developers-nepal.github.io/ktmjs",
   "kucos": "kucosjs.github.io",
+  "kunal": "kunalghosh02.github.io"
   "kyoto": "kyotojs.github.io",
   "l2dwidget": "xiazeyu.github.io/live2d-widget.js-doc",
   "lab": "labjs.netlify.com",
