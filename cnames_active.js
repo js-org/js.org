@@ -65,7 +65,7 @@ var cnames_active = {
   "abbw": "abbw.github.io",
   "abbyz": "Abbyzhoum.github.io",
   "abc": "afexteam.github.io/abc-mobile",
-  "abcdb": "hosting.gitbook.com", //noCF
+  "abcdb": "hosting.gitbook.com", // noCF
   "abdalla": "the94air.github.io/abdalla",
   "abelacostaportafolio": "asaa19971a.github.io/AbelAcostaAcostaPortafolio",
   "abhishek": "rpidanny.github.io/personal-collage",
@@ -221,7 +221,7 @@ var cnames_active = {
   "awk": "42ua.github.io/awk",
   "awoo": "awoojs.github.io/website",
   "awto": "alias.zeit.co", // noCF
-  "azbuka-vkusa": "bullwinkle.github.io/azbuka-vkusa",  
+  "azbuka-vkusa": "bullwinkle.github.io/azbuka-vkusa",
   "azdanov": "azdanov.netlify.com", // noCF
   "aziz": "iaziz786.netlify.com",
   "bachors": "bachors.github.io",
@@ -278,7 +278,6 @@ var cnames_active = {
   "black-fury": "black-fury.github.io",
   "blego": "mattstypa.github.io/blego.js.org",
   "blessmyrains": "dusterthefirst.github.io/blessmyrains",
-  "blu": "18d737f5-c00e-4f68-862d-ed08653a0f99.repl.co",
   "blockauth": "faragly.github.io/blockauth",
   "blog.qbsz": "aboutqbsz.github.io", // noCF
   "blogzam": "zam27.github.io/blogzam",
@@ -286,6 +285,7 @@ var cnames_active = {
   "bloomer": "algusdark.github.io/bloomer",
   "blotter": "bradley.github.io/Blotter",
   "bloxy": "visualizememe.github.io/bloxy",
+  "blu": "18d737f5-c00e-4f68-862d-ed08653a0f99.repl.co",
   "blueconfig": "a-312.github.io/node-blueconfig",
   "bluesky01st": "bluesky01st.github.io",
   "blurple": "blurplejs.github.io/docs",
@@ -716,7 +716,7 @@ var cnames_active = {
   "ero": "mst-2.github.io/ero",
   "erpeel": "fikriks.github.io/erpeel",
   "es.redux": "sergiodxa.github.io/redux-in-spanish", // noCF? (don´t add this in a new PR)
-  "es.single-spa": "single-spa.github.io/es.single-spa.js.org", // noCF 
+  "es.single-spa": "single-spa.github.io/es.single-spa.js.org", // noCF
   "es2015-node": "martinheidegger.github.io/es6modules-nodejs", // noCF? (don´t add this in a new PR)
   "es6-module-seed": "blackmirror1980.github.io/es6-module-seed",
   "es6-tween": "tweenjs.github.io/es6-tween",
@@ -1117,7 +1117,7 @@ var cnames_active = {
   "karrot": "kemosaf.github.io/karrot",
   "kasfy": "kasfy.github.io/kasfy.js.org",
   "kate": "thecodesuite.github.io/katebot",
-  "katheesh": "katheesh.github.io/katheesh.js"
+  "katheesh": "katheesh.github.io/katheesh.js",
   "kavan": "kavanmevada.gitlab.io/intro",
   "kawaii": "moemoesoft.github.io/kawaii", // noCF
   "kcak11": "kcak11.github.io/js-org-web",
@@ -1378,6 +1378,7 @@ var cnames_active = {
   "mjx": "mjx-dev.github.io",
   "mm": "1ocalhost.github.io/mm",
   "mmcq": "nikola.github.io/MMCQ", // noCF? (don´t add this in a new PR)
+  "mmzdupz": "mmzdupz.github.io",
   "mnmlcss": "barelyhuman.github.io/mnml.css",
   "mo": "mirmousaviii.github.io/mo",
   "mobi": "mobidots.github.io",
@@ -1435,7 +1436,6 @@ var cnames_active = {
   "muto": "booleanapp.github.io/elastic-muto",
   "muxfm": "muxfm.github.io/docs",
   "mvc": "morozovsk.github.io/mvc", // noCF
-  "mmzdupz": "mmzdupz.github.io",
   "mw": "agauniyal.github.io/mw",
   "my-app": "nirrius.github.io/my-app",
   "my-server": "nirrius.github.io/my-server",
@@ -1446,7 +1446,7 @@ var cnames_active = {
   "mzaini30": "mzaini30.github.io",
   "mzplayer": "prince3661.github.io/Mzplayer",
   "n": "cyb.github.io/n",
-  "n3-rd": "n3-rd.github.io"
+  "n3-rd": "n3-rd.github.io",
   "nabin": "nabin6246.github.io",
   "naja": "jiripudil.github.io/Naja",
   "name-my-colors": "domcoleman.github.io/name-my-colors",
@@ -2497,7 +2497,7 @@ var cnames_active = {
   "youtube-box": "lucasmonteverde.github.io/youtube-box", // noCF? (don´t add this in a new PR)
   "youtube-lite": "9oelm.github.io/youtube-lite",
   "yu": "yuxizhe.github.io/yu",
-  "yuanchi": "b07902048.github.io/yuanchi",//noCF
+  "yuanchi": "b07902048.github.io/yuanchi", // noCF
   "yup-phone": "abhisekp.github.io/yup-phone",
   "yusril": "yusrilhs.github.io", // noCF
   "yuye": "cyea.github.io",
