@@ -2269,6 +2269,7 @@ var cnames_active = {
   "ts-creator": "ts-creator.netlify.com",
   "ts-react-boilerplate": "lapanti.github.io/ts-react-boilerplate",
   "ts2jsdoc": "spatools.github.io/ts2jsdoc", // noCF? (don´t add this in a new PR)
+  "tsc": "type-challenges.netlify.app",
   "tsdi": "knisterpeter.github.io/tsdi",
   "tslib-cli": "hosting.gitbook.com",
   "tslog": "fullstack-build.github.io/tslog",
