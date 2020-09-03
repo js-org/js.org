@@ -1970,6 +1970,7 @@ var cnames_active = {
   "secsb": "secsb.github.io",
   "security-list": "lissy93.github.io/personal-security-checklist",
   "sed": "42ua.github.io/sed",
+  "see-more-demo": "wangdabaoqq.github.io/vuepress",
   "seemple": "finom.github.io/seemple.js.org",
   "seesaw": "cajogos.github.io/seesaw",
   "segno": "keimeno.github.io/segno",
