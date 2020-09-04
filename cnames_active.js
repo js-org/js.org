@@ -2436,7 +2436,6 @@ var cnames_active = {
   "webpack-config-plugins": "namics.github.io/webpack-config-plugins",
   "webpack-inspect": "alexmost.github.io/webpack-inspect",
   "webpack-stats": "v-webpack.netlify.app",
-  "websocket-client": "marcelcoding.github.io/websocket-client",
   "wechaty": "cdn.chatie.io", // noCF
   "wedgetail": "wedgetail.netlify.com",
   "weekly": "xdimh.github.io/weekly",
