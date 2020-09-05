@@ -988,6 +988,7 @@ var cnames_active = {
   "iflow": "unadlib.github.io/iflow",
   "ignite": "ignitejscl.github.io",
   "iiilfaaa": "iiilfaaa.github.io",
+  "iiimix": "iiimix.github.io/iiimixjsorg",
   "iio": "iioinc.github.io/iio.js", // noCF? (don´t add this in a new PR)
   "ilfa": "iiilfaaa.github.io/www",
   "illuxi": "razod.github.io/illuxi",
