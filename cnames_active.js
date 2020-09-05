@@ -1984,6 +1984,7 @@ var cnames_active = {
   "selectric": "lcdsantos.github.io/jQuery-Selectric", // noCF? (don´t add this in a new PR)
   "semo": "semojs.github.io/semo",
   "sendilkumarn": "sendilkumarn.github.io",
+  "senil": "mrfarhad.github.io/senilwebsite",
   "seoul": "seouljs.github.io/seoul.js.org",
   "sequel": "sequeljs.github.io",
   "sequential": "lorenzoongithub.github.io/sequential",
