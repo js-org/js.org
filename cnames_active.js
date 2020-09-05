@@ -778,7 +778,7 @@ var cnames_active = {
   "fireorm": "wovalle.github.io/fireorm",
   "five": "jackdcrawford.github.io/five",
   "flamecord": "flamexode.github.io/flamecord",
-  "flameshot": "flameshotapp.github.io",
+  "flameshot": "flameshot-org.github.io",
   "flap": "slurmulon.github.io/flap",
   "flash": "flashcardjs.github.io",
   "flatpickr": "flatpickr.github.io",
