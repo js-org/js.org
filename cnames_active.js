@@ -2089,7 +2089,6 @@ var cnames_active = {
   "vicis": "r37r0m0d3l.github.io/vicis",
   "vico": "bohdantkachenko.github.io/vico", // noCF? (don´t add this in a new PR)
   "victor": "mrdatastorage.github.io/victor",
-  "video": "iguanren.github.io/video",
   "video-react": "video-react.github.io",
   "vigour": "mokunshao.github.io/vigour",
   "viki": "viki-org.github.io/viki-web-ui",
@@ -2173,7 +2172,6 @@ var cnames_active = {
   "with-immutable-props-to-js": "tophat.github.io/with-immutable-props-to-js",
   "within": "eric-brechemier.github.io/within", // noCF? (don´t add this in a new PR)
   "wiz": "karimsa.github.io/wiz", // noCF
-  "wo": "iguanren.github.io/wo",
   "woodsman": "haximilian.github.io/woodsman",
   "wooyun": "jiji262.github.io/wooyun_articles",
   "wordywordy": "sverweij.github.io/wordywordy",
