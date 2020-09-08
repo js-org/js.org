@@ -1762,6 +1762,7 @@ var cnames_active = {
   "rahulbussa": "rahulbussa.github.io",
   "ralmaz": "ralmaz.github.io",
   "ralphi": "yonjah.github.io/ralphi",
+  "randoizer": "cname.vercel-dns.com",
   "random-machine": "officialpiyush.github.io/random-machine",
   "randy": "randyviandaputra.github.io",
   "rangeslider": "andreruffert.github.io/rangeslider.js", // noCF? (don´t add this in a new PR)
