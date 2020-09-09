@@ -1138,6 +1138,7 @@ var cnames_active = {
   "kewitz": "kewitz.github.io",
   "keypress": "rumkin.github.io/keypress.js.org",
   "keystone": "keystone-ssg.netlify.app",
+  "kilic": "kiliczsh.github.io",
   "kilobyte": "kilobytehq.github.io/open-js",
   "kilvin": "rofrischmann.github.io/kilvin",
   "kim": "khareemnurulla.github.io/kim",
