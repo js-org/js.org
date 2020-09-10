@@ -152,7 +152,6 @@ var cnames_active = {
   "animegan": "tonylianlong.github.io/AnimeGAN.js",
   "animo": "thrivingkings.github.io/animo",
   "animorph": "claudiobmgrtnr.github.io/animorph",
-  "anki": "wenoif.github.io/anki",
   "anna": "anna-wro.github.io/anna",
   "annotate": "taitems.github.io/web-pdf-annotation", // noCF? (don´t add this in a new PR)
   "annoyingmouse": "annoyingmouse.github.io", // noCF? (don´t add this in a new PR)
