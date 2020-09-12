@@ -790,6 +790,7 @@ var cnames_active = {
   "fld-grd": "mrksbnch.github.io/fld-grd",
   "flexmasonry": "kavanmevada.github.io/flex_masonry", // noCF
   "flood": "flood.jesec.io", // noCF
+  "flot": "flottant.github.io",
   "flowchart": "adrai.github.io/flowchart.js", // noCF? (don´t add this in a new PR)
   "flowcon": "oknosoft.github.io/flowcon",
   "flowpainter": "sirajchokshi.github.io/FlowPainter",
