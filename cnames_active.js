@@ -2139,6 +2139,7 @@ var cnames_active = {
   "stego": "zeruniverse.github.io/CryptoStego", // noCF? (don´t add this in a new PR)
   "stepan": "stevermeister.github.io", // noCF? (don´t add this in a new PR)
   "stephenmccall": "stephenmccall.github.io", // noCF? (don´t add this in a new PR)
+  "stethoscope": "stethoscope-js.github.io/stethoscope.js.org",
   "steven": "stpeng.github.io",
   "sticksy": "kovart.github.io/sticksy",
   "stino": "stinobe.github.io/Stino",
