@@ -562,7 +562,7 @@ var cnames_active = {
   "denisvieira": "denisvieira05.github.io",
   "deno-tutorial": "hylerrix.github.io/deno-tutorial",
   "deox": "deox.netlify.com",
-  "deportes": "andreapins.github.io/Deportes-Gacetis" ,
+  "deportes": "andreapins.github.io/Deportes-Gacetis",
   "deputy": "ry4nolson.github.io/Deputy", // noCF? (don´t add this in a new PR)
   "deskn": "dk83l5qmqg6z7q9m.shw.io",
   "detect-resize": "noderaider.github.io/detect-resize", // noCF? (don´t add this in a new PR)
