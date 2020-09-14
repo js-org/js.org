@@ -1436,11 +1436,11 @@ var cnames_active = {
   "mp3tag": "eidoriantan.github.io/mp3tag.js",
   "mpe": "weareroli.github.io/mpejs", // noCF? (don´t add this in a new PR)
   "mrinjamul": "mrinjamul.github.io/mrinjamul.js.org",
+  "mrkayjaydee": "mr-kayjaydee.github.io",
   "mrm": "mrmjs.netlify.app",
   "mrn": "binggg.github.io/mrn", // noCF? (don´t add this in a new PR)
   "mrpluto": "mrpluto.github.io",
   "mrwanashraf": "mrwanashraf.github.io",
-  "mrkayjaydee": "mr-kayjaydee.github.io",
   "mscgen": "sverweij.github.io/mscgen_js",
   "msolers": "msolers.github.io/bloghugo",
   "msp430": "mazko.github.io/MSP430.js",
