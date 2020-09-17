@@ -1690,6 +1690,7 @@ var cnames_active = {
   "poegems": "max-arias.github.io/poeGems", // noCF? (don´t add this in a new PR)
   "pogo": "aaronduino.github.io/pogo",
   "poi": "poi.onrender.com", // noCF
+  "poka": "Krchip.github.io",
   "poke": "gregjw.github.io/poke",
   "polished": "styled-components.github.io/polished",
   "polix": "polix.netlify.com",
