@@ -1730,6 +1730,7 @@ var cnames_active = {
   "proton-native": "kusti8.github.io/proton-native",
   "prototyped": "ardalanamini.github.io/prototyped.js",
   "protype": "arguiot.github.io/ProType",
+  "proyecto-estadistica-2020": "eduardodevop.github.io/proyecto-estadistica-2020",
   "prudhvireddy": "prudhvir3ddy.github.io/prudhvireddy",
   "pruthvisoni": "pruthvisooni.github.io",
   "ps": "spindlyskit.github.io/ps.js",
