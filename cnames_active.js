@@ -746,6 +746,7 @@ var cnames_active = {
   "everything": "ajays97.github.io/Everything.js",
   "evolutionland": "evolutionlandorg.github.io/js-sdk",
   "evolutions": "anshumanv.github.io/evolutions-webapp",
+  "evolve": "evolvejs.github.io",
   "ewa": "lyfeyaj.github.io/ewa",
   "exbars": "youssefkababe.github.io/exbars", // noCF? (don´t add this in a new PR)
   "excmd": "elliottcable.github.io/excmd.js",
