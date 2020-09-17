@@ -2443,6 +2443,7 @@ var cnames_active = {
   "wargamer": "hkwu.github.io/wargamer",
   "warrior": "olistic.github.io/warriorjs",
   "warship": "vflopes.github.io/warship",
+  "waseel": "https://waseeld.github.io/waseeld",
   "watch": "ducin.github.io/watchjs.org", // noCF? (don´t add this in a new PR)
   "watchfs": "prateekkumarweb.github.io/watchfs",
   "watermark": "fredy.github.io/watermark",
@@ -2560,7 +2561,6 @@ var cnames_active = {
   "zyh": "zyh-chopper.github.io/zyh",
   "zykj": "zykj.now.sh", // noCF
   "zyy": "zyyou.github.io/notes"
-  "waseel": "https://waseeld.github.io/waseeld"
   /*
   * please don't add your subdomain records down here!
   * insert them in alphabetical order to help reduce merge conflicts.
