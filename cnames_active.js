@@ -1388,7 +1388,7 @@ var cnames_active = {
   "minimizedb": "acarrr.github.io/minimizedb",
   "mininote": "htdt.github.io/mininote",
   "miny": "pablopunk.github.io/miny",
-  "mirrors": "jamesyangget.github.io/mirrors",
+  "mirrors": "llxlr.github.io/mirrors",
   "mis101bird": "mis101bird.github.io", // noCF? (don´t add this in a new PR)
   "miscord": "bjornskjald.github.io/miscord-website-redirect",
   "miteshtagadiya": "miteshtagadiya.github.io/miteshtagadiya",
