@@ -1289,6 +1289,7 @@ var cnames_active = {
   "machinelearning": "marink.github.io/machinelearning",
   "macosnotif": "mattipv4.github.io/macOSNotifJS",
   "madankumar": "jmadankumar.github.io",
+  "madebyzen": "mzaini30.github.io/madebyzen",
   "magnet": "magnetjs.github.io/Magnet", // noCF? (don´t add this in a new PR)
   "mahdyar": "mahdyar.github.io/mahdyar.js.org",
   "mahmoud": "mahmoud-sagharjoughi.github.io/mahmoud",
