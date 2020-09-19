@@ -2502,7 +2502,7 @@ var cnames_active = {
   "wysc": "coffeebank.github.io/wysc-vue",
   "x": "nikhiljohn10.github.io/x.js",
   "xen": "hosting.gitbook.com",
-  "xhemj": "xhemj.github.io/books",
+  "xhemj": "xhemj.now.sh", //noCF
   "xhy": "xhy.github.io",
   "xiangqiz": "xiangqiz.github.io/Hello",
   "xprmntl": "xprmntl.github.io", // noCF? (don´t add this in a new PR)
