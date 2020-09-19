@@ -853,6 +853,7 @@ var cnames_active = {
   "gatsby-source-pixiv": "poipoii.github.io/gatsby-source-pixiv",
   "gazosekai": "starkblaze01.github.io/Gazo_Sekai",
   "gcse": "abemedia.github.io/jquery-gcse",
+  "gdi": "ParveenBhadooOfficial.github.io/Google-Drive-Index",
   "geekr": "ruanyl.github.io/geekr", // noCF? (don´t add this in a new PR)
   "geniucker": "geniucker.github.io",
   "genpasswd": "exos.github.io/genpasswd", // noCF? (don´t add this in a new PR)
