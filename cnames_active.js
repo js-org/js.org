@@ -1984,7 +1984,7 @@ var cnames_active = {
   "sb": "santiaguf.github.io",
   "scancell": "teamtofu.github.io/scancell",
   "scene": "daybrush.github.io/scenejs-page",
-  "schema": "foxifyjs.github.io/schema",
+  "schema": "hosting.gitbook.com",
   "scopes": "kelleyvanevert.github.io/scopes",
   "scraayp": "scraayp.github.io/website",
   "scramble": "ignatiusmb.github.io/scramble",
