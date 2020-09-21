@@ -276,6 +276,7 @@ var cnames_active = {
   "bestof": "michaelrambeau.github.io/bestofjs",
   "between": "na-west1.surge.sh",
   "bfd": "mrsheldon.github.io/bfd.js",
+  "bhadoo-cloud": "ParveenBhadooOfficial.github.io/Bhadoo-Cloud",
   "bigbrainbot": "112batman.github.io/bigbrainbot-website",
   "bind-action-dispatchers": "cchamberlain.github.io/bind-action-dispatchers", // noCF? (don´t add this in a new PR)
   "birb": "purpzie.github.io/birb.js.org",
