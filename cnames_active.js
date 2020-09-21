@@ -364,6 +364,7 @@ var cnames_active = {
   "canvacord": "snowflake107.github.io/canvacord",
   "canvas": "anshuman-verma.github.io/canvas",
   "canvasconstructor": "kyranet.github.io/canvas-constructor",
+  "canvas-datagrid": "tonygermaneri.github.io/canvas-datagrid",
   "canvo": "canvojs.github.io",
   "capital": "capitaljs.github.io/capitaljs",
   "capsid": "capsidjs.github.io/capsid",
