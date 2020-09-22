@@ -1030,6 +1030,7 @@ var cnames_active = {
   "inko": "inko.netlify.com",
   "inline-style-prefixer": "rofrischmann.github.io/inline-style-prefixer",
   "innova": "innova-fll.github.io",
+  "ipe": "wjghj-project.github.io/InPageEdit-Document",
   "inscriptum": "sumbad.github.io/inscriptum",
   "inset": "patlillis.github.io/inset.js",
   "insta": "androz2091.github.io/instajs-website",
