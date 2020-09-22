@@ -679,7 +679,7 @@ var cnames_active = {
   "ed2k": "sunnyli.github.io/ed2k.js",
   "edazpotato": "edazpotato.github.io",
   "ef": "classicoldsong.github.io/ef.js.org",
-  "efemerides": "andreapins.github.io/Efemerides",
+  "efemerides": "vivianapin.github.io/efemerides",
   "effectful": "awto.github.io/effectfuljs",
   "effects": "effectsjs.github.io/effectsjs",
   "eggsy": "eggsywashere.github.io",
