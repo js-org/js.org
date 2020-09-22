@@ -1030,7 +1030,6 @@ var cnames_active = {
   "inko": "inko.netlify.com",
   "inline-style-prefixer": "rofrischmann.github.io/inline-style-prefixer",
   "innova": "innova-fll.github.io",
-  "ipe": "wjghj-project.github.io/InPageEdit-Document",
   "inscriptum": "sumbad.github.io/inscriptum",
   "inset": "patlillis.github.io/inset.js",
   "insta": "androz2091.github.io/instajs-website",
@@ -1047,6 +1046,7 @@ var cnames_active = {
   "iot": "product-engineer.github.io/iot.js.org", // noCF
   "ip-address": "beaugunderson.github.io/ip-address", // noCF? (don´t add this in a new PR)
   "ipang": "ipang-dwi.github.io/ipang",
+  "ipe": "wjghj-project.github.io/InPageEdit-Document",
   "ipv4": "licshee.github.io/IPv4-CIDR-Prefix-Merger",
   "ipynb": "jirutka.github.io/ipynb2html", // noCF
   "ir": "irjs.github.io/docs",
