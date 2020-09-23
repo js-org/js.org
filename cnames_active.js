@@ -327,6 +327,7 @@ var cnames_active = {
   "brasil": "javascriptbrasil.github.io",
   "breadbot": "centralomd.github.io/breadbot",
   "bricklayer": "ademilter.github.io/bricklayer", // noCF? (don´t add this in a new PR)
+  "brizusan": "blackmyab.github.io/brizusan",
   "brotat": "mariobob.github.io/brotat-website",
   "browserless": "kikobeats.github.io/browserless",
   "brum": "brumjs.github.io", // noCF? (don´t add this in a new PR)
