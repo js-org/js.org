@@ -598,6 +598,7 @@ var cnames_active = {
   "discordlib": "hosting.gitbook.com",
   "discordutil": "chroventer.github.io/discordutil",
   "discordutility": "chaosphoe.github.io/discordutility",
+  "discordos": "axindev.github.io/Discordos",
   "discunit": "megacode18.github.io/discunit.js",
   "dislink": "relms12345.github.io/Dislink",
   "display": "arguiot.github.io/DisplayJS",
