@@ -851,7 +851,7 @@ var cnames_active = {
   "futch": "jfbrennan.github.io/futch",
   "fyi": "tobihrbr.github.io/fyi",
   "g": "nodebox.github.io/g.js",
-  "gafemerides": "vivianapin.github.io/GacetisE/Efemerides.html",
+  "gafemerides": "vivianapin.github.io/GacetisE",
   "gal": "galmail.github.io", // noCF? (don´t add this in a new PR)
   "game-tracker": "endbug.github.io/game-tracker",
   "gamedevcontestal": "fromdenisvieira.github.io/gamedevcontestal", // noCF? (don´t add this in a new PR)
