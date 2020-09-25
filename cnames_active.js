@@ -286,6 +286,7 @@ var cnames_active = {
   "blessmyrains": "dusterthefirst.github.io/blessmyrains",
   "blockauth": "faragly.github.io/blockauth",
   "blog.qbsz": "aboutqbsz.github.io", // noCF
+  "blogtheme": "crqblog.github.io/clean-blog-2.0",
   "blogzam": "zam27.github.io/blogzam",
   "blogzen": "mzaini30.github.io/blogzen",
   "bloomer": "algusdark.github.io/bloomer",
