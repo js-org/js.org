@@ -286,7 +286,6 @@ var cnames_active = {
   "blessmyrains": "dusterthefirst.github.io/blessmyrains",
   "blockauth": "faragly.github.io/blockauth",
   "blog.qbsz": "aboutqbsz.github.io", // noCF
-  "blogtheme": "crqblog.github.io/clean-blog-2.0",
   "blogzam": "zam27.github.io/blogzam",
   "blogzen": "mzaini30.github.io/blogzen",
   "bloomer": "algusdark.github.io/bloomer",
@@ -425,6 +424,7 @@ var cnames_active = {
   "classroom": "epoxydevelopment.github.io/Classroom",
   "clause": "clausejs.github.io/clausejs",
   "cleanblog": "cleanblog.github.io",
+  "cleanblog2": "crqblog.github.io/clean-blog-2.0",
   "clearlyelevated": "clearlyelevated.github.io",
   "clevercord": "theanidox.github.io/Clevercord",
   "clockwork": "clockworkdev.github.io/ClockworkWebsite",
