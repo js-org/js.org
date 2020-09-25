@@ -1778,6 +1778,7 @@ var cnames_active = {
   "quincy": "quincyx.github.io",
   "quinten": "regyo.github.io/quinten",
   "quiz-app": "odevlord.github.io/Quiz-App", // noCF? (don´t add this in a new PR)
+  "quizizz": "zaida04.github.io/Quizizz.js",
   "quotes": "sawyerbx.github.io/quotes",
   "quotobot": "team-gigabyte.github.io/quotobot",
   "r": "r-js.github.io",
