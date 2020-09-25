@@ -364,8 +364,8 @@ var cnames_active = {
   "cantara": "cantarajs.github.io/cantara",
   "canvacord": "snowflake107.github.io/canvacord",
   "canvas": "anshuman-verma.github.io/canvas",
-  "canvasconstructor": "kyranet.github.io/canvas-constructor",
   "canvas-datagrid": "tonygermaneri.github.io/canvas-datagrid",
+  "canvasconstructor": "kyranet.github.io/canvas-constructor",
   "canvo": "canvojs.github.io",
   "capital": "capitaljs.github.io/capitaljs",
   "capsid": "capsidjs.github.io/capsid",
@@ -583,8 +583,8 @@ var cnames_active = {
   "diffract": "ameyms.github.io/diffract", // noCF? (don´t add this in a new PR)
   "dinesh": "dineshondev.github.io/dinesh", // noCF? (don´t add this in a new PR)
   "dinos": "0xflotus.github.io/dinos",
-  "discord": "discordjs.github.io/website",
   "discodo": "sirubot.github.io/discodo.js",
+  "discord": "discordjs.github.io/website",
   "discord-anti-spam": "michael-j-scofield.github.io/discord-anti-spam",
   "discord-bio": "assfugil.github.io/discord.bio",
   "discord-giveaways": "androz2091.github.io/discord-giveaways",
@@ -699,8 +699,8 @@ var cnames_active = {
   "elock": "yourtion.github.io/node-elock",
   "emage": "douglasjunior.github.io/emage",
   "email-templates": "niftylettuce.github.io/email-templates",
-  "embedlam": "wnda.github.io/embedlam",
   "embarrassed-themes": "kbothub.github.io/Embarrassed-Themes",
+  "embedlam": "wnda.github.io/embedlam",
   "ember-cli-page-object": "san650.github.io/ember-cli-page-object", // noCF? (don´t add this in a new PR)
   "ember-electron": "adopted-ember-addons.github.io/ember-electron",
   "emeraldcraftmc": "emeraldcraftmc.github.io", // noCF? (don´t add this in a new PR)
@@ -1197,7 +1197,7 @@ var cnames_active = {
   "kst": "lucaelin.github.io/KST", // noCF
   "ktm": "developers-nepal.github.io/ktmjs",
   "kucos": "kucosjs.github.io",
-  "kunal": "kunalghosh02.github.io"
+  "kunal": "kunalghosh02.github.io",
   "kyoto": "kyotojs.github.io",
   "l2dwidget": "xiazeyu.github.io/live2d-widget.js-doc",
   "lab": "labjs.netlify.com",
@@ -1764,8 +1764,8 @@ var cnames_active = {
   "pzero": "hanyaku.github.io/ProjectZERO",
   "qbit": "fudan-mse.github.io/qbit",
   "qbsz": "qbsz.github.io",
+  "qpie": "qpie-git.github.io",
   "qs": "kirjs.github.io/qs.js", // noCF? (don´t add this in a new PR)
-  "qpie": "qpie-git.github.io"
   "quacky": "quacky-bot.github.io",
   "quantlib": "quantlibjs.github.io",
   "quark": "smarchetti.github.io/quark",
@@ -2517,7 +2517,7 @@ var cnames_active = {
   "wysc": "coffeebank.github.io/wysc-vue",
   "x": "nikhiljohn10.github.io/x.js",
   "xen": "hosting.gitbook.com",
-  "xhemj": "xhemj.now.sh", //noCF
+  "xhemj": "xhemj.now.sh", // noCF
   "xhy": "xhy.github.io",
   "xi102": "xi102.github.io",
   "xiangqiz": "xiangqiz.github.io/Hello",
