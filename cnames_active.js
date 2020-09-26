@@ -2531,7 +2531,7 @@ var cnames_active = {
   "yadl": "yadljs.github.io",
   "yagolopez": "yagolopez.github.io",
   "yakanak": "yakanaknews.netlify.com",
-  "yakeing": "yakeing.github.io/HexoBlog",
+  "yake": "yakeing.github.io/HexoBlog",
   "yamdbf": "zajrik.github.io/yamdbf",
   "yargs": "yargs.github.io", // noCF? (don´t add this in a new PR)
   "yeisson-osorno": "yeissonosorno.github.io/portfolio",
