@@ -1284,7 +1284,7 @@ var cnames_active = {
   "lps": "mauris.github.io/lps.js.org",
   "lribeiro": "lmribeiro.github.io",
   "ls": "links-js.github.io",
-  "lucia": "luciadotjs.github.io/lucia",
+  "lucia": "aidenybai.github.io/lucia",
   "lucy": "lucy-bot.github.io",
   "luis": "luiscloud.github.io",
   "lukks": "lukks.github.io/page",
