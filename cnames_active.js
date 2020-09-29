@@ -1893,6 +1893,7 @@ var cnames_active = {
   "refract": "hosting.gitbook.com",
   "refraction": "mbasso.github.io/refraction", // noCF? (don´t add this in a new PR)
   "refujs": "refujs.github.io", // noCF? (don´t add this in a new PR)
+  "refun": "gears233.github.io/refun",
   "regexly": "neeksandhu.github.io/regexly",
   "reghack": "hacker719.github.io/RegHack",
   "regraph": "izhaki.github.io/regraph",
