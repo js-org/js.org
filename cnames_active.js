@@ -1405,6 +1405,7 @@ var cnames_active = {
   "minijoshua": "joshualovescode.github.io/MiniJoshua-Website",
   "minimizedb": "acarrr.github.io/minimizedb",
   "mininote": "htdt.github.io/mininote",
+  "mingyan": "mingyan.now.sh", //noCF
   "miny": "pablopunk.github.io/miny",
   "mirrors": "llxlr.github.io/mirrors",
   "mis101bird": "mis101bird.github.io", // noCF? (don´t add this in a new PR)
