@@ -1710,7 +1710,7 @@ var cnames_active = {
   "podivilov": "podivilov.github.io",
   "poegems": "max-arias.github.io/poeGems", // noCF? (don´t add this in a new PR)
   "pogo": "aaronduino.github.io/pogo",
-  "pogtopia": "alexander9673.github.io/Pogtopia"
+  "pogtopia": "alexander9673.github.io/Pogtopia",
   "poi": "poi.onrender.com", // noCF
   "poke": "gregjw.github.io/poke",
   "polished": "styled-components.github.io/polished",
