@@ -1579,6 +1579,7 @@ var cnames_active = {
   "nyc": "nycjsorg.github.io/nyc",
   "nyr": "suriyaakudoisc.github.io/NYR",
   "oak": "donn.github.io/Oak.js",
+  "object-gui": "matteobruni.github.io/object-gui",
   "objectid": "the-silver-project.github.io/objectid",
   "objectmodel": "sylvainpolletvillard.github.io/ObjectModel", // noCF? (don´t add this in a new PR)
   "observable-hooks": "crimx.github.io/observable-hooks",
