@@ -1958,6 +1958,7 @@ var cnames_active = {
   "ru.redux-saga": "hosting.gitbook.com", // noCF
   "rub": "rubo-21.github.io",
   "ruhuman": "ruhuman.github.io", // noCF? (don´t add this in a new PR)
+  "runty": "nderscore.github.io/runty",
   "russell": "teamtofu.github.io/russelljs",
   "russia-wc": "kaykayehnn.github.io/russia-wc",
   "rut": "jeam.github.io/rut",
