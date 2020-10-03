@@ -1512,6 +1512,7 @@ var cnames_active = {
   "nemo": "paypal.github.io/nemo", // noCF? (don´t add this in a new PR)
   "neo4": "janpeter.github.io/neo4js",
   "neox": "neoxn3il.netlify.app",
+  "nests.jwjawa": "jwjawa.github.io/nests"
   "neteasecloudmusicapi": "w4ctech.github.io/NeteaseCloudMusicApi",
   "netology-group": "netology-group.github.io",
   "neurax-api": "configneurax.netlify.com",
@@ -1958,6 +1959,7 @@ var cnames_active = {
   "rt": "rohantinna.github.io/rt",
   "ru.react": "js-rus.github.io/react-ru",
   "ru.redux-saga": "hosting.gitbook.com", // noCF
+  "ruanx": "jwjawa.github.io/ruanx", //noCF
   "rub": "rubo-21.github.io",
   "ruhuman": "ruhuman.github.io", // noCF? (don´t add this in a new PR)
   "runty": "nderscore.github.io/runty",
