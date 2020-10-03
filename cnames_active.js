@@ -176,7 +176,7 @@ var cnames_active = {
   "aptrinh": "aptrinh.github.io",
   "arc": "diegohaz.github.io/arc",
   "arcn": "alexakasanjeev.github.io/arcn",
-  "arda": "ardasoyturk.github.io",
+  "arda": "ardasoyturk-portfolio.netlify.app",
   "arga": "argaghulamahmad.netlify.app",
   "argaghulamahmad": "argaghulamahmad.github.io",
   "argo": "albertosantini.github.io/argo", // noCF? (don´t add this in a new PR)
