@@ -1002,6 +1002,7 @@ var cnames_active = {
   "iagrib": "iagrib.github.io",
   "iamsurajdc": "iamsurajdc.github.io",
   "icecast": "jucrouzet.github.io/icecast.js",
+  "ices": "icesjs.github.io/ices",
   "icones": "icones.netlify.app",
   "id": "andae.github.io/id",
   "id3": "jeff-tian.github.io/id3",
