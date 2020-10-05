@@ -178,7 +178,8 @@ var cnames_active = {
   "arc": "diegohaz.github.io/arc",
   "arcn": "alexakasanjeev.github.io/arcn",
   "arda": "ardasoyturk-portfolio.netlify.app",
-  "arga": "argaghulamahmad.netlify.app",
+  "arga": "cname.vercel-dns.com",
+  "blog.arga": "argaghulamahmad.netlify.app",
   "argaghulamahmad": "argaghulamahmad.github.io",
   "argo": "albertosantini.github.io/argo", // noCF? (don´t add this in a new PR)
   "ari": "arbo77.github.io/ari",
