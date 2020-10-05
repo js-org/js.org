@@ -178,6 +178,7 @@ var cnames_active = {
   "arcn": "alexakasanjeev.github.io/arcn",
   "arda": "ardasoyturk-portfolio.netlify.app",
   "arga": "argaghulamahmad.netlify.app",
+  "blog.arga": "argaghulamahmad.netlify.app",
   "argaghulamahmad": "argaghulamahmad.github.io",
   "argo": "albertosantini.github.io/argo", // noCF? (don´t add this in a new PR)
   "ari": "arbo77.github.io/ari",
@@ -1111,7 +1112,7 @@ var cnames_active = {
   "jonathangt": "jonathangt.github.io/portafolio",
   "jonny": "shirajuki.github.io/jonny",
   "jonnynl": "shirajuki.github.io/jonnynl",
-  "jomb": "mrtampan.github.io/jomb-music", 
+  "jomb": "mrtampan.github.io/jomb-music",
   "jonstonchan": "jonstonchan.gitlab.io", // noCF
   "josep": "warlock.github.io",
   "jparticles": "jparticles.github.io/Documentation",
