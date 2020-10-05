@@ -612,6 +612,7 @@ var cnames_active = {
   "districode": "districode.netlify.app",
   "districode-p2p": "districode-p2p.netlify.app",
   "distube": "skick1234.github.io/DisTube",
+  "diswrap": "payload-developers.github.io/diswrap.js",
   "div": "div-js.github.io/div.js.org",
   "djsguide": "hosting.gitbook.com",
   "djvu": "russcoder.github.io/djvujs", // noCF
