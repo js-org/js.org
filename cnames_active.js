@@ -2292,6 +2292,7 @@ var cnames_active = {
   "tights": "tights.netlify.com",
   "timeout": "anshuman-verma.github.io/setTimeout",
   "timerizer": "callumacrae.github.io/timerizerJS", // noCF? (don´t add this in a new PR)
+  "timesheet": "nishantpainter.github.io/timesheet",
   "tin": "lhtin.github.io/tin",
   "tina": "tinajs.github.io/tina",
   "tint": "tintjs.github.io", // noCF? (don´t add this in a new PR)
