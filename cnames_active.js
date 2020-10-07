@@ -1026,6 +1026,7 @@ var cnames_active = {
   "imbue": "ghosts.github.io/Imbue",
   "imcvampire": "imcvampire.github.io",
   "imeme": "svenmeister.github.io/imeme.js.org",
+  "iminfinity": "js-org-test.netlify.app",
   "imgops": "dogancelik.github.io/imgops-multi", // noCF
   "immense": "immense.github.io", // noCF? (don´t add this in a new PR)
   "immybox": "immense.github.io/immybox", // noCF? (don´t add this in a new PR)
