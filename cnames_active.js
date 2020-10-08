@@ -276,6 +276,7 @@ var cnames_active = {
   "besafe": "ma124.github.io/BeSafe",
   "bestof": "michaelrambeau.github.io/bestofjs",
   "between": "na-west1.surge.sh",
+  "besx": "cadox8.github.io/besx",
   "bfd": "mrsheldon.github.io/bfd.js",
   "bhadoo-cloud": "ParveenBhadooOfficial.github.io/Bhadoo-Cloud",
   "bigbrainbot": "112batman.github.io/bigbrainbot-website",
