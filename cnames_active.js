@@ -293,7 +293,6 @@ var cnames_active = {
   "bloomer": "algusdark.github.io/bloomer",
   "blotter": "bradley.github.io/Blotter",
   "bloxy": "visualizememe.github.io/bloxy",
-  "blu": "18d737f5-c00e-4f68-862d-ed08653a0f99.repl.co",
   "blueconfig": "a-312.github.io/node-blueconfig",
   "bluesky01st": "bluesky01st.github.io",
   "blurple": "blurplejs.github.io/docs",
