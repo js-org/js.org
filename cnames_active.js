@@ -2449,6 +2449,7 @@ var cnames_active = {
   "viveksharmaui": "viveksharmaui.github.io/portfolio",
   "vk-x": "vk-x.github.io",
   "vncz": "xvincentx.github.io/vncz",
+  "voicer": "flucts-voicer.netlify.app",
   "volantis": "cname.vercel-dns.com", // noCF
   "voloshins": "voloshins.github.io", // noCF? (don´t add this in a new PR)
   "vormulir": "bramaudi.github.io/vormulir",
