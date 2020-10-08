@@ -158,6 +158,7 @@ var cnames_active = {
   "anna": "anna-wro.github.io/anna",
   "annotate": "taitems.github.io/web-pdf-annotation", // noCF? (don´t add this in a new PR)
   "annoyingmouse": "annoyingmouse.github.io", // noCF? (don´t add this in a new PR)
+  "anonymdev": "anonym-anonym.github.io/ANONYM-ANONYM",
   "antalya": "jsantalya.github.io",
   "antropodigital": "antropodigital.github.io/CirculodeEstudio",
   "antwar": "antwarjs.github.io/antwar",
