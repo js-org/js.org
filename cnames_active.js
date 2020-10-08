@@ -437,6 +437,7 @@ var cnames_active = {
   "cml": "didi.github.io/chameleon",
   "cn.history": "doodlewind.github.io/jshistory-cn", // noCF
   "cn.iflow": "unadlib.github.io/iflow-docs-cn",
+  "cn.mingyan": "lehs8n.coding-pages.com", //noCF
   "cn.mobx": "sangka.github.io/mobx-docs-cn", // noCF
   "cn.redux": "camsong.github.io/redux-in-chinese", // noCF? (don´t add this in a new PR)
   "cn.rx": "rxjs-cn.github.io/RxJS-Docs-CN", // noCF
