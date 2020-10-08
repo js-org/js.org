@@ -1349,7 +1349,7 @@ var cnames_active = {
   "martingollogly": "martingollogly.github.io", // noCF? (don´t add this in a new PR)
   "marxist": "wuz.github.io/marxistjs",
   "masha": "smarttelemax.github.io/MaSha",
-  "master-portfolio": "https://vimalverma558.github.io/Master-Portfolio/",
+  "master-portfolio": "vimalverma558.github.io/Master-Portfolio",
   "materialish": "jamesplease.github.io/materialish",
   "materialize-bootbox": "iqbalfn.github.io/materialize-bootbox",
   "matrix-rref-solver": "arisweedler.github.io/matrix-rref-solver",
