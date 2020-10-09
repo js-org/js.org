@@ -1353,7 +1353,7 @@ var cnames_active = {
   "marxist": "wuz.github.io/marxistjs",
   "masha": "smarttelemax.github.io/MaSha",
   "master-portfolio": "vimalverma558.github.io/Master-Portfolio",
-  "matocontenla": "taconeomental.github.io/mateocontenla",
+  "mateocontenla": "taconeomental.github.io/mateocontenla",
   "materialish": "jamesplease.github.io/materialish",
   "materialize-bootbox": "iqbalfn.github.io/materialize-bootbox",
   "matrix-rref-solver": "arisweedler.github.io/matrix-rref-solver",
