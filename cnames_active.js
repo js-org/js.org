@@ -1519,6 +1519,7 @@ var cnames_active = {
   "neaps": "neaps.github.io",
   "nearley": "kach.github.io/nearley",
   "nectar": "nectarjs.github.io/nectarjs",
+  "nector": "cname.vercel-dns.com",
   "nefter": "nefter.github.io",
   "nemaniarjun": "nemaniarjun.github.io",
   "nemo": "paypal.github.io/nemo", // noCF? (don´t add this in a new PR)
