@@ -2375,6 +2375,7 @@ var cnames_active = {
   "uav": "unearth-inc.github.io/uav",
   "ubuntu-hideout": "bytecommander.github.io/ubuntu-hideout",
   "udnisap": "udnisap.github.io",
+  "ulferno": "ulferno.github.io/Ulferno"
   "ulog": "download.github.io/ulog",
   "ultcombo": "ultcombo.github.io",
   "umair": "mumairofficial.github.io",
