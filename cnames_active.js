@@ -585,6 +585,7 @@ var cnames_active = {
   "developerfolio": "saadpasta.github.io/developerFolio",
   "devsession": "lukasbach.github.io/devsession",
   "dgelong": "alexeyraspopov.github.io/dgelong", // noCF? (don´t add this in a new PR)
+  "dgold": "hosting.gitbook.com",
   "dhimasanb": "dhimasanb.github.io",
   "dhruvdutt": "dhruvdutt.github.io",
   "diamond": "diamondpkg.github.io/website",
