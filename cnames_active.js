@@ -2394,7 +2394,7 @@ var cnames_active = {
   "unsafe": "unsafely.github.io/unsafe.js",
   "up": "codefeathers.github.io/up",
   "uppload": "uppload.netlify.com",
-  "upptime": "koj-co.github.io/upptime",
+  "upptime": "upptime.github.io",
   "upresent": "bobbybee.github.io/uPresent", // noCF? (don´t add this in a new PR)
   "upset": "upsetjs.github.io",
   "uptime": "intelligo-systems.github.io/uptime.js",
