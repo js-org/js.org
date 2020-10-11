@@ -2163,6 +2163,7 @@ var cnames_active = {
   "spring": "hosting.gitbook.com",
   "spritesheet": "arcadiogarcia.github.io/Spritesheet.js", // noCF? (don´t add this in a new PR)
   "spritewerk": "bildepunkt.github.io/spritewerk", // noCF? (don´t add this in a new PR)
+  "sql": "sql-js.github.io/sql.js",
   "sqrvival": "sawyerjs.github.io/sqrvival",
   "squeak": "bertfreudenberg.github.io/SqueakJS",
   "squirrelly": "squirrellyjs.netlify.com", // noCF
