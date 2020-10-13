@@ -999,7 +999,7 @@ var cnames_active = {
   "hugorocaproyectos": "hugoroca.github.io/coleccion-proyectos",
   "human": "human-js.gitbooks.io", // noCF? (don´t add this in a new PR)
   "humble": "humblejs.github.io",
-  "hx": "hifocus.github.io/www.hxis.me",
+  "hx": "hx-js-org.d53923.flexbalancer.net",
   "hybrids": "hybridsjs.github.io/hybrids",
   "hyde": "gheek.github.io/hyde", // noCF? (don´t add this in a new PR)
   "hydro": "hydro-dev.github.io",
