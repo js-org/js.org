@@ -2083,6 +2083,7 @@ var cnames_active = {
   "shuwan9": "shuwan9.github.io",
   "siddharth": "chaudhs769.github.io/siddharth.js.org",
   "sidekik": "inf3cti0n95.github.io/sidekik",
+  "sidewind": "sidewind.now.sh",
   "sights": "sfxrescue.github.io/sights",
   "silas229": "silas229.github.io",
   "silfr": "silfr.github.io/iterativecolor",
