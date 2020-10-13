@@ -955,6 +955,7 @@ var cnames_active = {
   "hale": "haleshaw.github.io/hale",
   "halil": "hibrahimsafak.github.io", // noCF? (don´t add this in a new PR)
   "haloapi": "derflatulator.github.io/haloapi.js", // noCF? (don´t add this in a new PR)
+  "ham": "militia21.github.io/ham"
   "hamburger-menu": "center-key.github.io/hamburger-menu",
   "hamed": "phpniki.github.io/hamed",
   "hanan": "hanandito.github.io/teddypicker",
