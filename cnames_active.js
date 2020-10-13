@@ -1441,7 +1441,7 @@ var cnames_active = {
   "mobi": "mobidots.github.io",
   "mobiriseto": "mobiriseto.github.io",
   "mobspot": "mobspot.github.me/mobspot.js.org",
-  "mobx": "mobx-js-org.onrender.com",
+  "mobx": "mobx-js-org.onrender.com", // noCF
   "mobx-keystone": "mobx-keystone.netlify.com",
   "mobx-react": "mobx-react.netlify.com",
   "mobx-state-tree": "mobxjs.github.io/mobx-state-tree",
