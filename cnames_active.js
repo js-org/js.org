@@ -623,6 +623,7 @@ var cnames_active = {
   "djsguide": "hosting.gitbook.com",
   "djvu": "russcoder.github.io/djvujs", // noCF
   "djzhao": "djzhao627.github.io",
+  "dlite": "hosting.gitbook.com",
   "dm": "bullwinkle.github.io/dm-public",
   "dmitry": "dmitry-zaets.github.io",
   "dna": "dnajs.github.io/dna.js",
