@@ -704,6 +704,7 @@ var cnames_active = {
   "electron-react-boilerplate": "electron-react-boilerplate.github.io/site",
   "electron-settings": "nathanbuchar.github.io/electron-settings",
   "elementnet": "elementnet.github.io",
+  "eleven": "11washere.github.io",
   "elf": "mytharcher.github.io/elf.js.org", // noCF? (don´t add this in a new PR)
   "elixor": "hosting.gitbook.com",
   "eliza": "chigix.github.io/eliza-instrumentality",
