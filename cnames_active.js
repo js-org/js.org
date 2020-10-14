@@ -2549,6 +2549,7 @@ var cnames_active = {
   "within": "eric-brechemier.github.io/within", // noCF? (don´t add this in a new PR)
   "wiz": "karimsa.github.io/wiz", // noCF
   "wjy": "wjy20030407.github.io",
+  "wonderest": "wonderest.github.io",
   "woodsman": "haximilian.github.io/woodsman",
   "wooyun": "jiji262.github.io/wooyun_articles",
   "wordywordy": "sverweij.github.io/wordywordy",
@@ -2628,8 +2629,8 @@ var cnames_active = {
   "zykj": "zykj.now.sh", // noCF
   "zyy": "zyyou.github.io/notes"
   /*
-  * please don't add your subdomain records down here!
-  * insert them in alphabetical order to help reduce merge conflicts.
-  * <3
-  */
+   * please don't add your subdomain records down here!
+   * insert them in alphabetical order to help reduce merge conflicts.
+   * <3
+   */
 }
