@@ -1953,6 +1953,7 @@ var cnames_active = {
   "reviewbuku": "mzaini30.github.io/reviewbuku",
   "reyes": "michaelbreyes.github.io/reyes",
   "rgbstrip": "xrealneon.github.io/RGBStrip",
+  "riastri" : "nandarsigma06.gitlab.io/blog",
   "rickdesantis": "rickdesantis.github.io",
   "riklewis": "riklewis.github.io",
   "riot": "riot.github.io",
