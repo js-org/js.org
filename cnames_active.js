@@ -2062,7 +2062,6 @@ var cnames_active = {
   "serializer": "haircvt.github.io/serializerjs", // noCF? (don´t add this in a new PR)
   "serlina": "djyde.github.io/serlina",
   "servercore": "mayerdev.github.io/md-server-core",
-  "serverest": "paulogoncalvesbh.github.io/ServeRest",
   "service-mocker": "service-mocker.github.io/service-mocker",
   "serviceberry": "bob-gray.github.io/serviceberry",
   "sesam": "lennertderyck.github.io/sesam",
