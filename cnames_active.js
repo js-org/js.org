@@ -620,7 +620,7 @@ var cnames_active = {
   "distube": "skick1234.github.io/DisTube",
   "diswrap": "payload-developers.github.io/diswrap.js",
   "div": "div-js.github.io/div.js.org",
-  "diysay": "diysay.github.io/diysay-js-org"
+  "diysay": "diysay.github.io/diysay-js-org",
   "djsguide": "hosting.gitbook.com",
   "djvu": "russcoder.github.io/djvujs", // noCF
   "djzhao": "djzhao627.github.io",
