@@ -1497,6 +1497,7 @@ var cnames_active = {
   "mujin": "mujin669.github.io",
   "multiple": "nexts.github.io/Multiple.js",
   "murajaah": "mzaini30.github.io/murajaah-js",
+  "munhumutapa-wallet": "munhumutapaalpha.github.io/munhumutapa-wallet", 
   "murder": "rolandpoulter.github.io/murder", // noCF? (don´t add this in a new PR)
   "murmansk": "interfluve.github.io/Murmansk",
   "mustaqim": "mustaqim.gitlab.io",
