@@ -1755,6 +1755,7 @@ var cnames_active = {
   "pong-zh": "xiaozhu2021.github.io/javascript-pong",
   "popcorn-api": "nirewen.github.io/popcorn-api",
   "popper": "fezvrasta.github.io/popper.js",
+  "portafolio":"arielandriel30.github.io/portafolio/",
   "portafolioacadeller": "acadeller.github.io/portafolioacadeller",
   "portafolioarnulfo": "arpior.github.io/Portafolio",
   "portafolioluis": "luisself2020.github.io/portafolioluis",
