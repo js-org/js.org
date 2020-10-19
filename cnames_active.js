@@ -2462,7 +2462,7 @@ var cnames_active = {
   "viki": "viki-org.github.io/viki-web-ui",
   "villain": "btzr-io.github.io/Villain",
   "vinimdocarmo": "vinimdocarmo.github.com", // noCF? (don´t add this in a new PR)
-  "vinton": "vinton.js.org/website",
+  "vinton": "vinton.github.io/website",
   "viperhtml": "viperhtml.github.io",
   "virtual-clock": "dvdgiessen.github.io/virtual-clock",
   "virtual-keyboard": "virtual-keyboard-javascript.github.io",
