@@ -965,7 +965,7 @@ var cnames_active = {
   "hale": "haleshaw.github.io/hale",
   "halil": "hibrahimsafak.github.io", // noCF? (don´t add this in a new PR)
   "haloapi": "derflatulator.github.io/haloapi.js", // noCF? (don´t add this in a new PR)
-  "ham": "militia21.github.io/ham"
+  "ham": "militia21.github.io/ham",
   "hamburger-menu": "center-key.github.io/hamburger-menu",
   "hamed": "phpniki.github.io/hamed",
   "hanan": "hanandito.github.io/teddypicker",
@@ -1229,7 +1229,7 @@ var cnames_active = {
   "ktm": "developers-nepal.github.io/ktmjs",
   "kucos": "kucosjs.github.io",
   "kunal": "kunalghosh02.github.io",
-  "kunkun": "smallkunkun.github.io"
+  "kunkun": "smallkunkun.github.io",
   "kyoto": "kyotojs.github.io",
   "l2dwidget": "xiazeyu.github.io/live2d-widget.js-doc",
   "lab": "labjs.netlify.com",
@@ -1793,6 +1793,7 @@ var cnames_active = {
   "pruthvisoni": "pruthvisooni.github.io",
   "ps": "spindlyskit.github.io/ps.js",
   "pt-pt.single-spa": "single-spa.github.io/pt-pt.single-spa.js.org", // noCF
+  "ptero": "pterojs.github.io/ptero.js-docs",
   "ptrdo": "ptrdo.github.io",
   "pubg": "ickerio.github.io/pubg.js",
   "publish-subscribe": "r37r0m0d3l.github.io/publish_subscribe",
