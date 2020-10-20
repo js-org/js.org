@@ -2020,7 +2020,7 @@ var cnames_active = {
   "samplyr": "arze1.github.io/samplyr-site",
   "sampoder": "sampoder.github.io",
   "sanctuary": "sanctuary-js.github.io/sanctuary-site",
-  "sanddance": "microsoft.github.io/SandDance",
+  "sanddance": "danmarshall.github.io/SandDance",
   "sandeepkhandewale": "learner1024.github.io",
   "sanity-runner": "tophat.github.io/sanity-runner",
   "sanohin": "sanohin.github.io",
