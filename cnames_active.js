@@ -2225,7 +2225,7 @@ var cnames_active = {
   "style": "dhilipsiva.github.io/style.js", // noCF? (don´t add this in a new PR)
   "styled-css-grid": "styled-css-grid.netlify.com",
   "styled-icons": "alias.zeit.co", // noCF
-  "styli": "styli.vercel.app",
+  "styli": "cname.vercel-dns.com", // noCF
   "stylis": "thysultan.github.io/stylis.js",
   "subeditor": "shirtiny.github.io/SubEditor",
   "subplayer": "zhw2590582.github.io/SubPlayer",
