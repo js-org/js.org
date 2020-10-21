@@ -1814,7 +1814,6 @@ var cnames_active = {
   "quickerdb": "maniabots.github.io/QuickerDB",
   "quickmongo": "snowflake107.github.io/quickmongo",
   "quincy": "quincyx.github.io",
-  "qinxuege": "zhangs.github.id/qinxuege-js-org",
   "quinten": "regyo.github.io/quinten",
   "quiz-app": "odevlord.github.io/Quiz-App", // noCF? (don´t add this in a new PR)
   "quizizz": "zaida04.github.io/Quizizz.js",
@@ -2621,6 +2620,7 @@ var cnames_active = {
   "zhd": "zhDmitry.github.io",
   "zhenbang": "wzb1244.github.io",
   "zhy": "niaoyu233.github.io/homework",
+   "zhangshuai": "zxqxg.github.id/qinxuege-js-org",
   "zignis": "zhike-team.github.io/zignis",
   "zjy": "crqblog.github.io/zjy",
   "zodiac": "indus.github.io/Zodiac", // noCF? (don´t add this in a new PR)
