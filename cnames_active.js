@@ -1084,7 +1084,7 @@ var cnames_active = {
   "iro": "jaames.github.io/iro.js",
   "irouter": "alhaqhassan.github.io/irouter.js",
   "is": "arasatasaygin.github.io/is.js", // noCF? (don´t add this in a new PR)
-  "isbot": "gorangajic.github.io/isbot",
+  "isbot": "omrilotan.github.io/isbot",
   "iscaptive": "marvnet.github.io/iscaptive",
   "isfa": "isfaaghyth.github.io",
   "ishan": "ishanthukral.github.io/ishan.js", // noCF? (don´t add this in a new PR)
