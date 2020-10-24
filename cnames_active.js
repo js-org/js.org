@@ -1184,7 +1184,7 @@ var cnames_active = {
   "kawaii": "moemoesoft.github.io/kawaii", // noCF
   "kcak11": "kcak11.github.io/js-org-web",
   "kdiacodes": "kdiacodes.github.io",
-  "kea": "kea.netlify.com",
+  "kea": "kea.netlify.app",
   "keeping-up-with-javascript": "jasperv.github.io/keeping-up-with-javascript",
   "keerthisree": "naveenjujaray.github.io/jksblog",
   "kelvinho": "kelvin2go.github.io", // noCF? (don´t add this in a new PR)
