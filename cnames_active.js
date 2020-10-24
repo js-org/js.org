@@ -1230,6 +1230,7 @@ var cnames_active = {
   "kreta-cli": "daaniiieel.github.io/kreta-cli",
   "kshitij": "kshitij98.github.io",
   "kst": "lucaelin.github.io/KST", // noCF
+  "ksp": "keepsobp.github.io",
   "ktm": "developers-nepal.github.io/ktmjs",
   "kucos": "kucosjs.github.io",
   "kunal": "kunalghosh02.github.io",
@@ -1657,6 +1658,7 @@ var cnames_active = {
   "osagai": "henriquelimas.github.io/osagai",
   "oscillator": "lukehorvat.github.io/super-oscillator",
   "oskarplyt": "oskarplyt.github.io",
+  "oskin": "keepsobp.github.io/oskin",
   "osom": "kikobeats.github.io/osom",
   "otimizacao": "jmmccota.github.io/Otimizacao",
   "outdoors": "mrdatastorage.github.io/outdoors.js",
