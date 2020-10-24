@@ -1725,7 +1725,7 @@ var cnames_active = {
   "physics-demos": "lachlandk.github.io/physics-demos",
   "picsim": "mazko.github.io/picsim.js",
   "pig-game": "dhanushp.github.io/pig-game",
-  "pigeon-maps": "mariusandra.github.io/pigeon-maps",
+  "pigeon-maps": "pigeon-maps.netlify.app",
   "piii": "piiijs.github.io/piii.js.org",
   "pika": "xiaopika.github.io/pika.js.org",
   "piling": "flekschas.github.io/piling.js",
