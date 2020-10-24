@@ -1507,11 +1507,11 @@ var cnames_active = {
   "mujin": "mujin669.github.io",
   "multiple": "nexts.github.io/Multiple.js",
   "murajaah": "mzaini30.github.io/murajaah-js",
+  "murathalitsever": "murathalitsever.github.io",
   "murder": "rolandpoulter.github.io/murder", // noCF? (don´t add this in a new PR)
   "murmansk": "interfluve.github.io/Murmansk",
   "mustaqim": "mustaqim.gitlab.io",
   "muto": "booleanapp.github.io/elastic-muto",
-  "murathalitsever": "murathalitsever.github.io",
   "muxfm": "muxfm.github.io/docs",
   "mvc": "morozovsk.github.io/mvc", // noCF
   "mw": "agauniyal.github.io/mw",
