@@ -1511,6 +1511,7 @@ var cnames_active = {
   "murmansk": "interfluve.github.io/Murmansk",
   "mustaqim": "mustaqim.gitlab.io",
   "muto": "booleanapp.github.io/elastic-muto",
+  "murathalitsever": "murathalitsever.github.io",
   "muxfm": "muxfm.github.io/docs",
   "mvc": "morozovsk.github.io/mvc", // noCF
   "mw": "agauniyal.github.io/mw",
