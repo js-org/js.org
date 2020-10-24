@@ -1980,6 +1980,7 @@ var cnames_active = {
   "rmodal": "zewish.github.io/rmodal.js",
   "roadmafia": "roadmafia.github.io",
   "roalia": "roaliia.github.io",
+  "roam": "roam-cn.github.io",
   "robo-wizard": "hipsterbrown.github.io/robo-wizard",
   "rock": "w3core.github.io/RockJS",
   "rocket": "KevinOfNeu.github.io/rocket",
