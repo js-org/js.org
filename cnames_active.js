@@ -1229,8 +1229,8 @@ var cnames_active = {
   "kreta-api-v3": "daaniiieel.github.io/kreta-api-v3",
   "kreta-cli": "daaniiieel.github.io/kreta-cli",
   "kshitij": "kshitij98.github.io",
-  "kst": "lucaelin.github.io/KST", // noCF
   "ksp": "keepsobp.github.io",
+  "kst": "lucaelin.github.io/KST", // noCF
   "ktm": "developers-nepal.github.io/ktmjs",
   "kucos": "kucosjs.github.io",
   "kunal": "kunalghosh02.github.io",
