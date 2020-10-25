@@ -2412,6 +2412,7 @@ var cnames_active = {
   "ubuntu-hideout": "bytecommander.github.io/ubuntu-hideout",
   "udnisap": "udnisap.github.io",
   "ulferno": "ulferno.github.io/Ulferno",
+  "ulka": "ulkajs.github.io", // noCF
   "ulog": "download.github.io/ulog",
   "ultcombo": "ultcombo.github.io",
   "umair": "mumairofficial.github.io",
