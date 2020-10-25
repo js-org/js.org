@@ -1055,6 +1055,7 @@ var cnames_active = {
   "impress": "impress.github.io/impress.js",
   "imrc-datetime-picker": "smrsan76.github.io/imrc-datetime-picker",
   "incite": "movny.github.io/it",
+  "inert": "codemaster138.github.io/inert",
   "infinite-tree": "cheton.github.io/infinite-tree",
   "infinity": "dragoonzx.github.io/infinity",
   "inig": "inig.github.io",
