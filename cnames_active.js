@@ -353,6 +353,7 @@ var cnames_active = {
   "bustime": "agarzola.github.io/bustime", // noCF? (don´t add this in a new PR)
   "butterfly": "cname.vercel-dns.com", // noCF
   "buttermilk": "buttermilk.netlify.com",
+  "bwb": "crqblog.github.io/bwb",
   "byakugan": "rockmanvnx6.github.io/byakugan-js",
   "c": "cocobear.github.io",
   "c1200": "c1200.github.io",
