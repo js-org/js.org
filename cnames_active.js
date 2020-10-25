@@ -1671,6 +1671,7 @@ var cnames_active = {
   "pad-project": "adaltas.github.io/node-pad-docs",
   "padmemesamidala": "padmemesamidala.github.io/PadmemesAmidalaWeb",
   "pageobject": "clebert.github.io/pageobject",
+  "pagetalk": "seatwork.github.io/pagetalk",
   "pagination": "superRaytin.github.io/paginationjs-site", // noCF
   "paint": "christianliebel.github.io/paint",
   "palette": "pakastin.github.io/palette",
@@ -1822,6 +1823,7 @@ var cnames_active = {
   "quacky": "quacky-bot.github.io",
   "quantlib": "quantlibjs.github.io",
   "quark": "smarchetti.github.io/quark",
+  "que": "seatwork.github.io/que.js",
   "querybuilder": "mistic100.github.io/jQuery-QueryBuilder", // noCF? (don´t add this in a new PR)
   "question": "teamtofu.github.io/questionify",
   "quick-crud": "kingrayhan.github.io/quick-crud",
