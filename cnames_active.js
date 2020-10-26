@@ -1169,7 +1169,7 @@ var cnames_active = {
   "jwtonline": "boneyt92.github.io/jwtonline",
   "jz": "jz6.github.io",
   "kafka": "tulios.github.io/kafkajs",
-  "kahoot": "theusaf.github.io/kahoot-api-docs",
+  "kahoot": "na-west1.surge.sh",
   "kahoot-js": "theusaf.github.io/kahoot.js-updated",
   "kainy": "kainy.github.io/js.org",
   "kairusds": "kairusds.github.io",
