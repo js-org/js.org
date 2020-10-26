@@ -2642,6 +2642,7 @@ var cnames_active = {
   "zeroframe": "filips123.github.io/ZeroFrameJS",
   "zh-hans.single-spa": "single-spa.github.io/zh-hans.single-spa.js.org", // noCF
   "zhangnew": "zhangnew.github.io",
+  "zhangshuai": "501681885.github.io/qinxuege-js-org",
   "zhaomenghuan": "zhaomenghuan.github.io",
   "zhd": "zhDmitry.github.io",
   "zhenbang": "wzb1244.github.io",
