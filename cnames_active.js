@@ -353,7 +353,7 @@ var cnames_active = {
   "bustime": "agarzola.github.io/bustime", // noCF? (don´t add this in a new PR)
   "butterfly": "cname.vercel-dns.com", // noCF
   "buttermilk": "buttermilk.netlify.com",
-  "bwb": "crqblog.github.io/bwb",
+  "bwb": "shbwb.github.io/bwb",
   "byakugan": "rockmanvnx6.github.io/byakugan-js",
   "c": "cocobear.github.io",
   "c1200": "c1200.github.io",
@@ -521,7 +521,7 @@ var cnames_active = {
   "create-project": "chalarangelo.github.io/create-js-project",
   "createrest": "atomixinteractions.github.io/createrest",
   "creaturegen": "ryancromebook.github.io/creaturegen",
-  "crq": "crqblog.github.io",
+  "crq": "shbwb.github.io",
   "crunch": "vukicevic.github.io/crunch", // noCF? (don´t add this in a new PR)
   "cryptokey": "rumkin.github.com/crypto-key",
   "crystaldb": "erikmcm.github.io/CrystalDB",
@@ -2154,7 +2154,7 @@ var cnames_active = {
   "smoove": "abemedia.github.io/jquery-smoove",
   "smox": "132yse.github.io/smox",
   "snake": "pakastin.github.io/snake",
-  "snakes": "crqblog.github.io/snake",
+  "snakes": "shbwb.github.io/snake",
   "snapshot": "vishnupsatish.github.io/snapshot",
   "snekfetch": "devsnek.github.io/snekfetch",
   "snippet": "jmas.github.io/gist",
@@ -2647,7 +2647,7 @@ var cnames_active = {
   "zhenbang": "wzb1244.github.io",
   "zhy": "niaoyu233.github.io/homework",
   "zignis": "zhike-team.github.io/zignis",
-  "zjy": "crqblog.github.io/zjy",
+  "zjy": "shbwb.github.io/zjy",
   "zodiac": "indus.github.io/Zodiac", // noCF? (don´t add this in a new PR)
   "zodiacsigns": "dipanshkhandelwal.github.io/my-zodiac-sign",
   "zombie": "assaf.github.io/zombie", // noCF? (don´t add this in a new PR)
