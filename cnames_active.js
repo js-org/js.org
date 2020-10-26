@@ -1675,6 +1675,7 @@ var cnames_active = {
   "pad-project": "adaltas.github.io/node-pad-docs",
   "padmemesamidala": "padmemesamidala.github.io/PadmemesAmidalaWeb",
   "pageobject": "clebert.github.io/pageobject",
+  "pagetalk": "seatwork.github.io/pagetalk",
   "pagination": "superRaytin.github.io/paginationjs-site", // noCF
   "paint": "christianliebel.github.io/paint",
   "palette": "pakastin.github.io/palette",
