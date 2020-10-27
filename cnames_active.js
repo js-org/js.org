@@ -353,7 +353,7 @@ var cnames_active = {
   "bustime": "agarzola.github.io/bustime", // noCF? (don´t add this in a new PR)
   "butterfly": "cname.vercel-dns.com", // noCF
   "buttermilk": "buttermilk.netlify.com",
-  "bwb": "shbwb.github.io/bwb",
+  "bwb": "crqblog.github.io/bwb",
   "byakugan": "rockmanvnx6.github.io/byakugan-js",
   "c": "cocobear.github.io",
   "c1200": "c1200.github.io",
@@ -440,7 +440,7 @@ var cnames_active = {
   "classroom": "epoxydevelopment.github.io/Classroom",
   "clause": "clausejs.github.io/clausejs",
   "cleanblog": "cleanblog.github.io",
-  "cleanblog2": "shbwb.github.io/clean-blog-2.0",
+  "cleanblog2": "crqblog.github.io/clean-blog-2.0",
   "clearlyelevated": "clearlyelevated.github.io",
   "clevercord": "theanidox.github.io/Clevercord",
   "clockwork": "clockworkdev.github.io/ClockworkWebsite",
@@ -469,7 +469,6 @@ var cnames_active = {
   "collegequest": "schoolhouserock.github.io/CollegeQuest", // noCF? (don´t add this in a new PR)
   "colombo": "cmbjs.github.io/CMBJS",
   "color": "akash-joshi.github.io/neural-color-picker",
-  "color-ts": "tomas-wrobel.github.io/color-ts",
   "colorise": "mayuraitavadekar.github.io/colorise",
   "colorlab": "signalwerk.github.io/colorlab",
   "colors": "xv700.github.io/colors",
@@ -522,7 +521,7 @@ var cnames_active = {
   "create-project": "chalarangelo.github.io/create-js-project",
   "createrest": "atomixinteractions.github.io/createrest",
   "creaturegen": "ryancromebook.github.io/creaturegen",
-  "crq": "shbwb.github.io",
+  "crq": "crqblog.github.io",
   "crunch": "vukicevic.github.io/crunch", // noCF? (don´t add this in a new PR)
   "cryptokey": "rumkin.github.com/crypto-key",
   "crystaldb": "erikmcm.github.io/CrystalDB",
@@ -573,7 +572,6 @@ var cnames_active = {
   "dbo": "z3ta.github.io/dbo", // noCF? (don´t add this in a new PR)
   "dbothook": "dbots-pkg.github.io/dbothook-website",
   "dbots": "dbots-pkg.github.io",
-  "dbt": "aakhilv.github.io/dbt",
   "deck-of-cards": "pakastin.github.io/deck-of-cards",
   "declarativ": "fennifith.github.io/declarativ", // noCF
   "deepcodes": "deepduggal.github.io/deepcodes",
@@ -935,6 +933,7 @@ var cnames_active = {
   "graffy": "aravindet.github.io/graffy",
   "gram": "gram-js.github.io/gramjs",
   "gramps": "gramps-graphql.github.io/gramps",
+  "graph": "tomas-wrobel.github.io/graph",
   "graphene": "graphene-react.netlify.com",
   "graphics2d": "keyten.github.io/Graphics2D", // noCF? (don´t add this in a new PR)
   "graphstore": "besync.github.io/graphstore",
@@ -1170,7 +1169,7 @@ var cnames_active = {
   "jwtonline": "boneyt92.github.io/jwtonline",
   "jz": "jz6.github.io",
   "kafka": "tulios.github.io/kafkajs",
-  "kahoot": "na-west1.surge.sh",
+  "kahoot": "theusaf.github.io/kahoot-api-docs",
   "kahoot-js": "theusaf.github.io/kahoot.js-updated",
   "kainy": "kainy.github.io/js.org",
   "kairusds": "kairusds.github.io",
@@ -2122,7 +2121,6 @@ var cnames_active = {
   "silky": "wvv8oo.github.com/silky", // noCF? (don´t add this in a new PR)
   "siluna": "pahund.github.io/siluna", // noCF? (don´t add this in a new PR)
   "simba": "jonathanzero.github.io/simba",
-  "simonhans": "simonhans.github.io",
   "simplecounter": "tomkiernan120.github.io/simplecounter",
   "simplecrypto": "danang-id.github.io/simple-crypto-js",
   "simples": "micnic.github.io/simples",
@@ -2158,7 +2156,7 @@ var cnames_active = {
   "smoove": "abemedia.github.io/jquery-smoove",
   "smox": "132yse.github.io/smox",
   "snake": "pakastin.github.io/snake",
-  "snakes": "shbwb.github.io/snake",
+  "snakes": "crqblog.github.io/snake",
   "snapshot": "vishnupsatish.github.io/snapshot",
   "snekfetch": "devsnek.github.io/snekfetch",
   "snippet": "jmas.github.io/gist",
@@ -2386,7 +2384,6 @@ var cnames_active = {
   "try-catch-finally": "c24w.github.io/try-catch-finally.js",
   "trygit": "trygit.netlify.com",
   "ts-creator": "ts-creator.netlify.com",
-  "ts-generator": "cholewka.github.io/typescript-generator",
   "ts-react-boilerplate": "lapanti.github.io/ts-react-boilerplate",
   "ts2jsdoc": "spatools.github.io/ts2jsdoc", // noCF? (don´t add this in a new PR)
   "tsch": "type-challenges.netlify.app",
@@ -2441,7 +2438,7 @@ var cnames_active = {
   "unsafe": "unsafely.github.io/unsafe.js",
   "up": "codefeathers.github.io/up",
   "uppload": "uppload.netlify.com",
-  "upptime": "upptime.github.io/upptime.js.org",
+  "upptime": "upptime.github.io",
   "upresent": "bobbybee.github.io/uPresent", // noCF? (don´t add this in a new PR)
   "upset": "upsetjs.github.io",
   "uptime": "intelligo-systems.github.io/uptime.js",
@@ -2652,7 +2649,7 @@ var cnames_active = {
   "zhenbang": "wzb1244.github.io",
   "zhy": "niaoyu233.github.io/homework",
   "zignis": "zhike-team.github.io/zignis",
-  "zjy": "shbwb.github.io/zjy",
+  "zjy": "crqblog.github.io/zjy",
   "zodiac": "indus.github.io/Zodiac", // noCF? (don´t add this in a new PR)
   "zodiacsigns": "dipanshkhandelwal.github.io/my-zodiac-sign",
   "zombie": "assaf.github.io/zombie", // noCF? (don´t add this in a new PR)
