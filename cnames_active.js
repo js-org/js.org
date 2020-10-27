@@ -2249,6 +2249,7 @@ var cnames_active = {
   "stylis": "thysultan.github.io/stylis.js",
   "subeditor": "shirtiny.github.io/SubEditor",
   "subplayer": "zhw2590582.github.io/SubPlayer",
+  "suchary": "skorotkiewicz.github.io/suchary",
   "sudarshan": "sudarshanRaul.github.io",
   "sudoku": "andreynering.github.io/sudoku",
   "sug": "opensug.github.io/sug.js.org",
