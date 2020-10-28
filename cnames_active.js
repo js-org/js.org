@@ -355,6 +355,7 @@ var cnames_active = {
   "buttermilk": "buttermilk.netlify.com",
   "bwb": "shbwb.github.io/bwb",
   "byakugan": "rockmanvnx6.github.io/byakugan-js",
+  "boycode": "ehsanfox.github.io",
   "c": "cocobear.github.io",
   "c1200": "c1200.github.io",
   "c-3po": "ttag-org.github.io/c-3po",
