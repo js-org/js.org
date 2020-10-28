@@ -384,7 +384,7 @@ var cnames_active = {
   "capsule": "capsule-js-org.github.io/capsule",
   "captcha-canvas": "shashank3736.github.io/captcha-canvas",
   "cardtabs": "blekerfeld.github.io/CardTabs",
-  "cargo": "herber.github.io/cargo",
+  "Cargando": "github.com/Ghabox1985/Loading",
   "carloseduardo": "karllossouza.github.io/carloseduardo.js.org",
   "carmi": "wix-incubator.github.io/carmi",
   "carrot": "kemosaf.github.io/carrot",
