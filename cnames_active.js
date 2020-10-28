@@ -1,4 +1,4 @@
-/*
+/*"tyosh": "tyosh.github.io/tyosh-js-org",
  ***** ACTIVE SUBDOMAINS
  * ***********************
  *
