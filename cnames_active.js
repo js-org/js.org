@@ -2444,7 +2444,7 @@ var cnames_active = {
   "up": "codefeathers.github.io/up",
   "uppload": "uppload.netlify.com",
   "upptime": "upptime.github.io/upptime.js.org",
-  "demo.upptime": "upptime.github.io/upptime",
+  "demo.upptime": "upptime.github.io/upptime", // noCF
   "upresent": "bobbybee.github.io/uPresent", // noCF? (don´t add this in a new PR)
   "upset": "upsetjs.github.io",
   "uptime": "intelligo-systems.github.io/uptime.js",
