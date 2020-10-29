@@ -711,6 +711,7 @@ var cnames_active = {
   "effectful": "awto.github.io/effectfuljs",
   "effects": "effectsjs.github.io/effectsjs",
   "eggsy": "eggsywashere.github.io",
+  "ehsan": "ehsanfox.github.io",
   "eiphop": "eiphop.netlify.com",
   "ejir": "ejir.github.io",
   "elastic-builder": "sudo-suhas.github.io/elastic-builder",
