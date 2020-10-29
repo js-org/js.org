@@ -526,6 +526,7 @@ var cnames_active = {
   "crunch": "vukicevic.github.io/crunch", // noCF? (don´t add this in a new PR)
   "cryptokey": "rumkin.github.com/crypto-key",
   "crystaldb": "erikmcm.github.io/CrystalDB",
+  "css": "falkz.github.io/css.js",
   "csv": "adaltas.github.io/node-csv-docs",
   "cubing": "the-silver-project.github.io/cubing",
   "cucumber-mink": "adezandee.github.io/cucumber-mink", // noCF? (don´t add this in a new PR)
