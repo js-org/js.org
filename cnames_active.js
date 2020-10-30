@@ -891,6 +891,7 @@ var cnames_active = {
   "gametracker": "officialpiyush.github.io/gametracker.js",
   "gamingnet": "gamingmineblox.github.io/GamingNet",
   "gatsby-source-pixiv": "poipoii.github.io/gatsby-source-pixiv",
+  "gatewolf": "gatewolf.github.io",
   "gazosekai": "starkblaze01.github.io/Gazo_Sekai",
   "gcse": "abemedia.github.io/jquery-gcse",
   "gdi": "ParveenBhadooOfficial.github.io/Google-Drive-Index",
