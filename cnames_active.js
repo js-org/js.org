@@ -1453,6 +1453,7 @@ var cnames_active = {
   "minijoshua": "joshualovescode.github.io/MiniJoshua-Website",
   "minimizedb": "acarrr.github.io/minimizedb",
   "mininote": "htdt.github.io/mininote",
+  "minivaline": "minivaline.github.io",
   "mingyan": "mingyan.now.sh", //noCF
   "miny": "pablopunk.github.io/miny",
   "mirror": "hmsjy2017.github.io/Google-Mirrors",
