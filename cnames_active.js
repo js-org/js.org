@@ -1308,7 +1308,7 @@ var cnames_active = {
   "lineupengine": "lineupjs.github.io/lineupengine.js.org",
   "ling": "wangziling.github.io",
   "linghucong": "jiji262.github.io",
-  "lingui": "cname.vercel-dns.com",
+  "lingui": "cname.vercel-dns.com",  // noCF
   "lister": "jpbulman.github.io/lister",
   "litedom": "mardix.github.io/litedom", // noCF
   "liudun": "haveataste.github.io/liudun",
