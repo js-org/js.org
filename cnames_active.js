@@ -2185,7 +2185,7 @@ var cnames_active = {
   "soroush": "soroushchehresa.github.io/soroush",
   "sorting-algorithm-visualiser": "lachlandk.github.io/sorting-algorithm-visualiser",
   "soukai": "noeldemartin.github.io/soukai",
-  "soundcloud-scraper": "devsnowflake.github.io/soundcloud-scraper-docs",
+  "soundcloud-scraper": "soundcloud-scraper.netlify.app",
   "soundpad": "mcpe-pc.github.io/soundpad.js",
   "spa": "sucom.github.io/SPA.js",
   "spaas": "pakastin.github.io/spaas",
