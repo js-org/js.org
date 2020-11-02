@@ -813,6 +813,7 @@ var cnames_active = {
   "feeble": "feeblejs.github.io/feeble",
   "feedback": "mubaidr.github.io/feedback.io",
   "fela": "rofrischmann.github.io/fela", // noCF? (don´t add this in a new PR)
+  "felipelevinir": "felipelevinir.github.io/Portafolio",
   "fem": "frani.github.io/fem",
   "festercluck": "festercluck.github.io", // noCF? (don´t add this in a new PR)
   "fetch-json": "center-key.github.io/fetch-json",
