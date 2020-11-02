@@ -609,6 +609,7 @@ var cnames_active = {
   "dinos": "0xflotus.github.io/dinos",
   "discodo": "sirubot.github.io/discodo.js",
   "discord": "discordjs.github.io/website",
+  "discordapi": "dscapi.github.io",
   "discord-anti-spam": "michael-j-scofield.github.io/discord-anti-spam",
   "discord-bio": "assfugil.github.io/discord.bio",
   "discord-extras": "documentation-html-template.onyx6227.repl.co",
