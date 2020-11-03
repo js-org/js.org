@@ -1843,6 +1843,7 @@ var cnames_active = {
   "reto": "awmleer.github.io/reto",
   "retux": "crimx.github.io/retux",
   "revaluate": "hasharray.github.io/revaluate.js",
+  "RevengeofTheSIMP": "padmemesamidala.github.io/RevengeOfTheSIMP",
   "reyes": "michaelbreyes.github.io/reyes",
   "rgbstrip": "xrealneon.github.io/RGBStrip",
   "rickdesantis": "rickdesantis.github.io",
