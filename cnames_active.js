@@ -1310,6 +1310,7 @@ var cnames_active = {
   "ling": "wangziling.github.io",
   "linghucong": "jiji262.github.io",
   "lingui": "cname.vercel-dns.com",  // noCF
+  "lips": "jcubic.github.io/lips",
   "lister": "jpbulman.github.io/lister",
   "litedom": "mardix.github.io/litedom", // noCF
   "liudun": "haveataste.github.io/liudun",
