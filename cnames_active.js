@@ -2250,7 +2250,7 @@ var cnames_active = {
   "storage": "uzitech.github.io/storage.js",
   "storybook": "storybooks.netlify.com", // noCF
   "storybooks": "storybooks.github.io",
-  "str": "manelgarcia.github.io/str",
+  "str": "manelet.github.io/str",
   "stratic": "straticjs.github.io",
   "stress": "julindra.github.io/stress.js",
   "structure": "hosting.gitbook.com",
