@@ -412,7 +412,7 @@ var cnames_active = {
   "chatexchange": "jacob-gray.github.io/ChatExchangeJS",
   "checkers": "davidpomerenke.github.io/checkers",
   "cheerio": "cheeriojs.github.io/cheerio",
-  "chenlonghao":"15238381693.github.io/chenlonghao.github.io/",
+  "chenlonghao": "15238381693.github.io/chenlonghao.github.io",
   "chenyuhu": "chenyuhu.github.io",
   "chenkun": "ck123-rgb.github.io/chenkun-js-org",
   "chernivtsi": "chernivtsijs.github.io",
