@@ -1348,7 +1348,6 @@ var cnames_active = {
   "lyertia": "lyertia.github.io",
   "lyra": "amansahil.github.io/lyra.js.org",
   "lzbible": "edwinyosorahardjo.github.io/lzbible",
-  "mcxiaolan": "mcxiaolan.github.io"
   "m01i0ng": "m01i0ng.github.io",
   "m8bot": "mapreiff.github.io/m8-bot-site",
   "ma124": "ma124.netlify.com",
@@ -2624,6 +2623,7 @@ var cnames_active = {
   "xhy": "xhy.github.io",
   "xi102": "xi102.github.io",
   "xiangqiz": "xiangqiz.github.io/Hello",
+  "xiaolan": "mcxiaolan.github.io"
   "xprmntl": "xprmntl.github.io", // noCF? (don´t add this in a new PR)
   "xss": "tennc.github.io/xss",
   "xstate": "davidkpiano.github.io/xstate",
