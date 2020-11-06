@@ -1133,6 +1133,7 @@ var cnames_active = {
   "jdc": "jdceeb.github.io",
   "jds": "alimanman.github.io/jds",
   "jena": "javascript-in-jena.github.io", // noCF
+  "jetaimetantquetuestoi": "dakokonutboi.github.io/jetaimetantquetuestoi",
   "jets": "nexts.github.io/Jets.js",
   "jinya": "chenjinya.github.io",
   "jjlc": "k-yak.github.io/JJLC", // noCF? (don´t add this in a new PR)
