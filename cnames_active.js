@@ -1082,7 +1082,6 @@ var cnames_active = {
   "instant": "instant.github.io",
   "integreat": "hosting.gitbook.com",
   "intelligo": "intelligo.netlify.com",
-  "intertwinestaff": "0b91836f-00a9-4df3-bef4-d20310daf93d.repl.co",
   "interview": "fengzilong.github.io/interview-101",
   "invoicing": "vahe.github.io/InvoicingJs",
   "ion": "ionjs-dev.github.io",
