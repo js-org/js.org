@@ -1763,7 +1763,7 @@ var cnames_active = {
   "pixelart": "meriadec.github.io/PixelartJS", // noCF? (don´t add this in a new PR)
   "pixelminecraft": "pixelminecraft.github.io",
   "pixxel": "pixxel.github.io",
-  "pixelws": "jianmsky.github.io"
+  "pixelws": "jianmsky.github.io",
   "plait": "wildlyinaccurate.github.io/plait",
   "plan": "agauniyal.github.io/plan",
   "planisphere": "dai-shi.github.io/planisphere-site", // noCF? (don´t add this in a new PR)
