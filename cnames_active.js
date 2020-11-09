@@ -520,6 +520,7 @@ var cnames_active = {
   "craft": "prevwong.github.io/craft.js",
   "crank": "bikeshaving.github.io/crank",
   "crawlx": "wind2sing.github.io/crawlx",
+  "create": "create-js.github.io",
   "create-next-app": "create-next-app.github.io",
   "create-project": "chalarangelo.github.io/create-js-project",
   "createrest": "atomixinteractions.github.io/createrest",
