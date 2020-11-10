@@ -2527,6 +2527,7 @@ var cnames_active = {
   "visualnovel": "selcher.github.io/visualnoveljs", // noCF? (don´t add this in a new PR)
   "vita": "raais.github.io/vita",
   "viveksharmaui": "viveksharmaui.github.io/portfolio",
+  "vivpro": "vivpro.github.io",
   "vk-x": "vk-x.github.io",
   "vncz": "xvincentx.github.io/vncz",
   "volantis": "cname.vercel-dns.com", // noCF
