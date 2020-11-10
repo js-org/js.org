@@ -354,6 +354,7 @@ var cnames_active = {
   "butterfly": "cname.vercel-dns.com", // noCF
   "buttermilk": "buttermilk.netlify.com",
   "bwb": "shbwb.github.io/bwb",
+  "bwb-docs": "shbwb.github.io/bwb-docs",
   "byakugan": "rockmanvnx6.github.io/byakugan-js",
   "byteasier": "kagurain.github.io/ByteasierIndex",
   "c": "cocobear.github.io",
@@ -646,7 +647,6 @@ var cnames_active = {
   "dns": "js-org.github.io/dns.js.org",
   "docile": "teamtofu.github.io/docile",
   "docs.light": "hosting.gitbook.com", // noCF
-  "bwb-docs": "shbwb.github.io/bwb-docs",
   "docsify": "docsifyjs.github.io/docsify",
   "docsify-es": "sidval.github.io/docsify-es",
   "docsify-ru": "truepatch.github.io/docsify-ru",
