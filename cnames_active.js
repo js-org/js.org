@@ -354,6 +354,7 @@ var cnames_active = {
   "butterfly": "cname.vercel-dns.com", // noCF
   "buttermilk": "buttermilk.netlify.com",
   "bwb": "shbwb.github.io/bwb",
+  "bwb-docs": "shbwb.github.io/bwb-docs",
   "byakugan": "rockmanvnx6.github.io/byakugan-js",
   "byteasier": "kagurain.github.io/ByteasierIndex",
   "c": "cocobear.github.io",
