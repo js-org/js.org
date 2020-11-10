@@ -2692,7 +2692,8 @@ var cnames_active = {
   "zygds": "zygds.github.io/zygds.js.org",
   "zyh": "zyh-chopper.github.io/zyh",
   "zykj": "zykj.now.sh", // noCF
-  "zyy": "zyyou.github.io/notes"
+  "zyy": "zyyou.github.io/notes",
+  "jiba": "yigekaifa.github.io"
   /*
    * please don't add your subdomain records down here!
    * insert them in alphabetical order to help reduce merge conflicts.
