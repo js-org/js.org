@@ -1880,6 +1880,7 @@ var cnames_active = {
   "rangeslider": "andreruffert.github.io/rangeslider.js", // noCF? (don´t add this in a new PR)
   "rasti": "8tentaculos.github.io/rasti",
   "rate-limiter-api": "abhisekp.github.io/rate-limiter-api",
+  "ravelloh": "ravello-h.github.io",
   "rax": "alibaba.github.io/rax",
   "rax0-6": "raxjs.github.io/website-rax-v0.6",
   "rayo": "getrayo.github.io/rayo.js",
