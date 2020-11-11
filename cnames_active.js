@@ -887,6 +887,7 @@ var cnames_active = {
   "fusilli": "anthemaker.github.io/Fusilli.js",
   "futch": "jfbrennan.github.io/futch",
   "fyi": "tobihrbr.github.io/fyi",
+  "fdl": "fdljs.now.sh",
   "g": "nodebox.github.io/g.js",
   "gal": "galmail.github.io", // noCF? (don´t add this in a new PR)
   "game-tracker": "endbug.github.io/game-tracker",
