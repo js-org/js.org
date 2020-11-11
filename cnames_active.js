@@ -612,7 +612,7 @@ var cnames_active = {
   "discodo": "sirubot.github.io/discodo.js",
   "discord": "discordjs.github.io/website",
   "discord-anti-spam": "michael-j-scofield.github.io/discord-anti-spam",
-  "discord-bio": "assfugil.github.io/discord.bio",
+  "discord-bio": "asdfugil.github.io/discord.bio",
   "discord-extras": "documentation-html-template.onyx6227.repl.co",
   "discord-giveaways": "androz2091.github.io/discord-giveaways",
   "discord-kr": "discordjs-kr.github.io/website",
