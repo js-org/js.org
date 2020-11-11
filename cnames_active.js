@@ -403,6 +403,7 @@ var cnames_active = {
   "cennznet": "cennznet.github.io/cennznet-ui",
   "ceruttimaicon": "ceruttimaicon.github.io",
   "cesaralvarez": "cesaralvrz.github.io/cesaralvarez",
+  "ceyhun": "ceyhunmelek.github.io/ceyhun",
   "cezanne": "hackdoor-io.github.io/cezanne",
   "cgoatone": "cgoatone.github.io",
   "chain-able": "fluents.github.io/chain-able-site",
