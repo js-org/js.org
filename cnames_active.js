@@ -2302,6 +2302,7 @@ var cnames_active = {
   "svg-skeleton": "yyued.github.io/SVG-Skeleton",
   "svr": "kikobeats.github.io/svr",
   "sw-yx": "sw-yx.github.io",
+  "swordcss": "swordcss-docs.vercel.app",
   "sweetalert": "t4t5.github.io/sweetalert",
   "sweetconfirm": "koddr.github.io/sweetconfirm.js",
   "swipe": "lyfeyaj.github.io/swipe",
