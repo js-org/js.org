@@ -2309,6 +2309,7 @@ var cnames_active = {
   "swipe": "lyfeyaj.github.io/swipe",
   "switchit": "dongryphon.github.io/switchit",
   "switchjoy": "switchjoy.github.io",
+  "swordcss": "swordcss.netlify.app",
   "swup": "swup.github.io/docs",
   "sx": "screenrecx.netlify.app",
   "sxw": "sxwjs.github.io",
