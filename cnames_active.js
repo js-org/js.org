@@ -890,8 +890,8 @@ var cnames_active = {
   "fdl": "fdljs.now.sh",
   "g": "nodebox.github.io/g.js",
   "gal": "galmail.github.io", // noCF? (don´t add this in a new PR)
-  "gamecord": "gamecord.lazyowl.repl.co",
   "game-tracker": "endbug.github.io/game-tracker",
+  "gamecord": "gamecord.lazyowl.repl.co",
   "gamedevcontestal": "fromdenisvieira.github.io/gamedevcontestal", // noCF? (don´t add this in a new PR)
   "gameitout": "gameitout.github.io",
   "gametracker": "officialpiyush.github.io/gametracker.js",
