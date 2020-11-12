@@ -2548,6 +2548,7 @@ var cnames_active = {
   "vrv": "cloudflare-to-cloudflare.readthedocs.io",
   "vscode-apielements": "xvincentx.github.io/vscode-apielements",
   "vssue": "vssue.netlify.com",
+  "vuapix": "rwaness.github.io/vuapix",
   "vue": "vuejs.github.io/vue.js.org",
   "vue-admin": "mingdev123.github.io/vue-admin",
   "vue-aplayer": "sevenoutman.github.io/vue-aplayer",
