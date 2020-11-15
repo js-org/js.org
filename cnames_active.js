@@ -578,7 +578,7 @@ var cnames_active = {
   "dblog": "dblog.netlify.com",
   "dbo": "z3ta.github.io/dbo", // noCF? (don´t add this in a new PR)
   "dbothook": "dbots-pkg.github.io/dbothook-website",
-  "dbots": "dbots-pkg.github.io",
+  "dbots": "dbots-pkg.github.io/dbots-website",
   "dbt": "aakhilv.github.io/dbt",
   "deck-of-cards": "pakastin.github.io/deck-of-cards",
   "declarativ": "fennifith.github.io/declarativ", // noCF
