@@ -185,6 +185,7 @@ var cnames_active = {
   "arga": "cname.vercel-dns.com",
   "argaghulamahmad": "argaghulamahmad.github.io",
   "argo": "albertosantini.github.io/argo", // noCF? (don´t add this in a new PR)
+  "argon": "argondiscordbot.herokuapp.com",
   "ari": "arbo77.github.io/ari",
   "ariang": "p3terx.github.io/ariang", // noCF
   "arief": "1997arief.github.io",
