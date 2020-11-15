@@ -1119,6 +1119,7 @@ var cnames_active = {
   "iutdb": "xchairs.github.io/iutdb.github.io",
   "ivy": "sinistrecyborg.github.io/Ivy",
   "iwanttocountfromone": "realcyguy.github.io/iwanttocountfromone.js",
+  "jintao": "jintao.github.io",
   "j3n5en": "j3n5en.github.io",
   "jackyef": "jackyef.github.io/jackyef",
   "jacob": "jacob-marshall.github.io/jacob",
