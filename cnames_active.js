@@ -2252,6 +2252,7 @@ var cnames_active = {
   "stapp": "tinkoffcreditsystems.github.io/stapp",
   "starratio": "starratio.github.io/star-ratio", // noCF
   "start": "deepsweet.github.io/start",
+  "starterpk": "starterpk.github.io",
   "startjs": "readthedocs.io",
   "startup": "startup-js.github.io/startup",
   "state-machine-cat": "sverweij.github.io/state-machine-cat",
