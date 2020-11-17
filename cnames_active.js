@@ -586,7 +586,6 @@ var cnames_active = {
   "deck-of-cards": "pakastin.github.io/deck-of-cards",
   "declarativ": "fennifith.github.io/declarativ", // noCF
   "deepcodes": "deepduggal.github.io/deepcodes",
-  "deepfractal": "munrocket.github.io/deep-fractal",
   "deepu": "deepu105.github.io",
   "defi": "finom.github.io/defi.js.org",
   "defresh": "hello936.github.io/defresh",
