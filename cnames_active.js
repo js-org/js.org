@@ -1829,7 +1829,7 @@ var cnames_active = {
   "promise": "gleeny.github.io/promise-redirect",
   "proteic": "proteus-h2020.github.io/proteic",
   "proton": "jonathanzzero.github.io/proton",
-  "protonio": "aktilacengiz.github.io/protonio/",
+  "protonio": "aktilacengiz.github.io/protonio",
   "proton-native": "kusti8.github.io/proton-native",
   "prototyped": "ardalanamini.github.io/prototyped.js",
   "protype": "arguiot.github.io/ProType",
