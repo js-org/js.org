@@ -1827,6 +1827,7 @@ var cnames_active = {
   "profanity-finder": "gautamkrishnar.github.io/profanity-finder.js",
   "profile": "treboryx.github.io/Profile",
   "program-builder": "program-builder.netlify.com",
+  "progressbars": "josephabbey.github.io/progressbars",
   "project-ignite": "project-ignite.github.io",
   "projects-tracker": "iamdevlinph.github.io/projects-tracker",
   "promise": "gleeny.github.io/promise-redirect",
