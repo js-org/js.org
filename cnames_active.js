@@ -38,6 +38,7 @@
  */
 
 var cnames_active = {
+
   "": "js-org.github.io",
   "01mz": "01mz.github.io",
   "100dayz": "deadcoder0904.github.io/100dayz",
@@ -2096,6 +2097,7 @@ var cnames_active = {
   "scene": "daybrush.github.io/scenejs-page",
   "schema": "hosting.gitbook.com",
   "scopes": "kelleyvanevert.github.io/scopes",
+  "scrap": "nab138.github.io/scrap",
   "scraayp": "scraayp.github.io/website",
   "scramble": "ignatiusmb.github.io/scramble",
   "scrapbook.ieuan": "cname.vercel-dns.com", // noCF
