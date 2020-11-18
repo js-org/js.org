@@ -276,6 +276,7 @@ var cnames_active = {
   "bcklib": "zyyou.github.io/npm-modules",
   "be": "davidep87.github.io/bejs.github.io",
   "beaga": "beagajs.github.io/beaga",
+  "beatzoid": "beatzoid.github.io",
   "becarefulwith": "xMikee1.github.io/becarefulwith",
   "begin": "advanced-webapps-class.github.io/begin", // noCF? (don´t add this in a new PR)
   "benjick": "benjick.github.io",
