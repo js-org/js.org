@@ -2022,7 +2022,7 @@ var cnames_active = {
   "reyes": "michaelbreyes.github.io/reyes",
   "rgbstrip": "xrealneon.github.io/RGBStrip",
   "rickdesantis": "rickdesantis.github.io",
-  "right-click":"dluxy.github.io/right-click",
+  "right-click": "dluxy.github.io/right-click",
   "riklewis": "riklewis.github.io",
   "riot": "riot.github.io",
   "riotgear": "riotgear.github.io",
