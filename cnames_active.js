@@ -14,7 +14,7 @@
  * VALUE:       The regular domain provided by GitHub (e.g.: "foo.github.io" for a User-/Organization Page
  *              or "foo.github.io/bar" for a Project Page).
  *
- * CLOUDFLARE:  JS.ORG uses CloudFlare as its DNS. By default, CloudFlare proxies all requests to your subdomainf
+ * CLOUDFLARE:  JS.ORG uses CloudFlare as its DNS. By default, CloudFlare proxies all requests to your subdomain
  *              to get SSL support (https://foo.js.org) and make use of browser caching with a TTL of 30 min.
  *              But you can opt-out from this and make Cloudflare forward all requests directly to GitHub.
  *              Just add '//noCF' in the line of your requested subdomain to give us a hint.
