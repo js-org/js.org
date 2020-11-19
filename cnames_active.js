@@ -114,6 +114,7 @@ var cnames_active = {
   "ajaxable": "artf.github.io/ajaxable",
   "ajinkya": "steelx.github.io/ajinkyaxjs",
   "ajv": "epoberezkin.github.io/ajv",
+  "akala": "npenin.github.io/akala",
   "akase": "cedmax.github.io/akase", // noCF? (don´t add this in a new PR)
   "akatsuki": "akatsukijs.github.io/akatsuki",
   "akhyar": "akhyarrh.github.io",
