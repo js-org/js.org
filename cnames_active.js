@@ -668,7 +668,7 @@ var cnames_active = {
   "dominion": "dominion-framework.github.io",
   "domtastic": "webpro.github.io/DOMtastic",
   "donavon": "donavon.github.io", // noCF? (don´t add this in a new PR)
-  "donut": "kemosaf.github.io/donut",
+  "donut": "665c97b7-c1b8-473c-b6b8-48006bfae344.repl.co",
   "dope": "fouad.github.io/dope", // noCF? (don´t add this in a new PR)
   "dora": "dorakit.github.io/dora.js.org",
   "dot-microservices": "dot-microservices.github.io/dot",
