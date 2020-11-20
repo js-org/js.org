@@ -2098,6 +2098,7 @@ var cnames_active = {
   "scene": "daybrush.github.io/scenejs-page",
   "schema": "hosting.gitbook.com",
   "scopes": "kelleyvanevert.github.io/scopes",
+  "scrap": "nab138.github.io/scrap",
   "scraayp": "scraayp.github.io/website",
   "scramble": "ignatiusmb.github.io/scramble",
   "scrapbook.ieuan": "cname.vercel-dns.com", // noCF
