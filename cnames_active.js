@@ -1393,6 +1393,7 @@ var cnames_active = {
   "mappa": "cvalenzuela.github.io/Mappa",
   "marble": "jsguy.github.io/marble",
   "marcelo": "marcelooggero.github.io/bootstrap",
+  "maridreycupcakes": "danyflores.github.io/MariDrey-CupCakes",
   "marie": "marie-js.github.io/MARIE.js",
   "mark": "henry-luo.github.io/mark",
   "markbox": "markbox.netlify.com",
