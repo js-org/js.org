@@ -2034,6 +2034,7 @@ var cnames_active = {
   "rickdesantis": "rickdesantis.github.io",
   "right-click": "dluxy.github.io/right-click",
   "riklewis": "riklewis.github.io",
+  "rinzler": "gitsquared.github.io/rinzler",
   "riot": "riot.github.io",
   "riotgear": "riotgear.github.io",
   "rishi": "rishiosaur.github.io",
