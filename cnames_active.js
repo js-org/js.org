@@ -2488,6 +2488,7 @@ var cnames_active = {
   "ulka": "ulkajs.github.io", // noCF
   "ulog": "download.github.io/ulog",
   "ultcombo": "ultcombo.github.io",
+  "ultimatemedia": "ultimatemediaorg.github.io",
   "umair": "mumairofficial.github.io",
   "umentor": "umentor.github.io/umentor",
   "umm": "umm233.github.io",
