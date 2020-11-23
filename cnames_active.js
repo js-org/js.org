@@ -1323,6 +1323,7 @@ var cnames_active = {
   "lifx": "fncxpro.github.io/lifx.js",
   "light": "lightjs.netlify.com",
   "light-observable": "dmitry-korolev.github.io/light-observable",
+  "lightcord": "snazzah.github.io/Lightcord",
   "lightimage": "jwchan1996.github.io/lightimage.js",
   "liguori": "liguori.github.io", // noCF? (don´t add this in a new PR)
   "liike": "liikejs.github.io/Liike",
