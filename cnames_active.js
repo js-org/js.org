@@ -1861,6 +1861,7 @@ var cnames_active = {
   "pubg": "ickerio.github.io/pubg.js",
   "publish-subscribe": "r37r0m0d3l.github.io/publish_subscribe",
   "published": "fiverr.github.io/published",
+  "puebi": "puebi.netlify.app", // noCF
   "pulse": "alias.zeit.co", // noCF
   "puppet": "anandchowdhary.github.io/puppet",
   "pure": "fengzilong.github.io/pure",
