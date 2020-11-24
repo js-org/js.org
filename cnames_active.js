@@ -1173,6 +1173,7 @@ var cnames_active = {
   "jonstonchan": "jonstonchan.gitlab.io", // noCF
   "jose-qs": "jose-qs.github.io/Portafolio",
   "josep": "warlock.github.io",
+  "JoseCarlosZamoraGomezPortfolio": "josecarloszamoragomez.github.io/Portfolio",
   "jparticles": "jparticles.github.io/Documentation",
   "js-fixerr": "anujsinghwd.github.io/js-fixerr",
   "jscord": "thepoptartcrpr.github.io/jscord",
