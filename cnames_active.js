@@ -2327,6 +2327,7 @@ var cnames_active = {
   "super-trim": "beeblebrox3.github.io/super-trim",
   "supernova": "janbiasi.github.io/supernova", // noCF? (don´t add this in a new PR)
   "surgio": "cname.vercel-dns.com", // noCF
+  "suroadb": "nicamoq.github.io/SuroADB-Lite"
   "sutanlab": "sutanlab.github.io.github.io",
   "svelkit": "kenoxa.github.io/svelkit",
   "svelte-formup": "kenoxa.github.io/svelte-formup",
@@ -2662,6 +2663,7 @@ var cnames_active = {
   "wonderest": "wonderest.github.io",
   "woodsman": "haximilian.github.io/woodsman",
   "wooyun": "jiji262.github.io/wooyun_articles",
+  "woq": "nicamoq.github.io/WoqHentai",
   "wordywordy": "sverweij.github.io/wordywordy",
   "wowufoundme": "wowufoundme.github.io",
   "writebar": "alexander-shvets.github.io/writebar",
