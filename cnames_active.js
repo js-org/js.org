@@ -2327,7 +2327,6 @@ var cnames_active = {
   "super-trim": "beeblebrox3.github.io/super-trim",
   "supernova": "janbiasi.github.io/supernova", // noCF? (don´t add this in a new PR)
   "surgio": "cname.vercel-dns.com", // noCF
-  "suroadb": "nicamoq.github.io/SuroADB-Lite"
   "sutanlab": "sutanlab.github.io.github.io",
   "svelkit": "kenoxa.github.io/svelkit",
   "svelte-formup": "kenoxa.github.io/svelte-formup",
