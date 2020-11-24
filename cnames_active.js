@@ -2058,6 +2058,7 @@ var cnames_active = {
   "roghib": "hosting.gitbook.com",
   "rohan": "rohanreddych.github.io",
   "room": "atercerosb.github.io/roomHomepage",
+  "rookie":"https://github.com/Rookie-Chen/studygit",
   "roosterapp": "roembol2000.github.io/roosterapp-mobile",
   "rosmaro": "lukaszmakuch.github.io/rosmaro",
   "router-advanced": "oldergod.github.io/router-advanced",
