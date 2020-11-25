@@ -1177,6 +1177,7 @@ var cnames_active = {
   "jose-qs": "jose-qs.github.io/Portafolio",
   "josep": "warlock.github.io",
   "JoseCarlosZamoraGomezPortfolio": "josecarloszamoragomez.github.io/Portfolio",
+  "JoseCarlosZamoraGomezCV": "josecarloszamoragomez.github.io/CV",
   "jparticles": "jparticles.github.io/Documentation",
   "js-fixerr": "anujsinghwd.github.io/js-fixerr",
   "jscord": "thepoptartcrpr.github.io/jscord",
