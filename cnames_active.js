@@ -2094,6 +2094,7 @@ var cnames_active = {
   "sakiv": "sakiv.github.io",
   "salvacam": "salvacam.github.io",
   "salvattore": "rnmp.github.io/salvattore",
+  "salim": "frsalim.github.io",
   "sam": "jdubray.github.io/sam", // noCF? (don´t add this in a new PR)
   "samlify": "tngan.github.io/samlify",
   "samply": "yury-shevchenko.github.io/samply",
