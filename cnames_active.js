@@ -991,6 +991,7 @@ var cnames_active = {
   "h": "makenowjust.github.io/h.js",
   "h3": "h3rald.github.io/h3",
   "h7ml": "h7ml.github.io/web",
+"haoxihuan": "haoxihuan.github.io/haoxihuan-js-org",
   "ha-store": "fed135.github.io/ha-store",
   "habra": "jarvis394.github.io/habra",
   "hacktm": "hacktm.netlify.com",
