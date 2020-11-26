@@ -252,7 +252,6 @@ var cnames_active = {
   "bakhtiyar": "bakszero.github.io",
   "bali": "balijs.github.io",
   "balm": "balmjs.github.io/balm.js.org",
-  "beamwind": "kenoxa.github.io/beamwind",
   "bananasplit": "diegoulloao.github.io/bananasplit-js",
   "bancho": "thepoon.github.io/bancho.js",
   "bandicoot": "canopytax.github.io/bandicoot.js.org",
@@ -278,6 +277,7 @@ var cnames_active = {
   "bcklib": "zyyou.github.io/npm-modules",
   "be": "davidep87.github.io/bejs.github.io",
   "beaga": "beagajs.github.io/beaga",
+  "beamwind": "kenoxa.github.io/beamwind",
   "beatzoid": "beatzoid.github.io",
   "becarefulwith": "xMikee1.github.io/becarefulwith",
   "begin": "advanced-webapps-class.github.io/begin", // noCF? (don´t add this in a new PR)
