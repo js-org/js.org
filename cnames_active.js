@@ -252,6 +252,7 @@ var cnames_active = {
   "bakhtiyar": "bakszero.github.io",
   "bali": "balijs.github.io",
   "balm": "balmjs.github.io/balm.js.org",
+  "beamwind": "kenoxa.github.io/beamwind",
   "bananasplit": "diegoulloao.github.io/bananasplit-js",
   "bancho": "thepoon.github.io/bancho.js",
   "bandicoot": "canopytax.github.io/bandicoot.js.org",
