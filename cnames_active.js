@@ -1192,6 +1192,7 @@ var cnames_active = {
   "jsonapi": "ethanresnick.github.io/json-api",
   "jsoning": "khalby786.github.io/jsoning",
   "jsonql": "joel-chu.github.io/jsonql-org",
+  "jsonsite": "cname.vercel.com",
   "jsonui": "yourtion.github.io/vue-json-ui-editor",
   "jsonuri": "aligay.github.io/jsonuri",
   "jsxcad": "jsxcad.github.io",
