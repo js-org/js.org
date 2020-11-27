@@ -2620,6 +2620,7 @@ var cnames_active = {
   "vuongdothanhhuy": "vuongdothanhhuy.github.io", // noCF? (don´t add this in a new PR)
   "vxv": "vxv.netlify.com",
   "w4ctech": "w4ctech.github.io",
+  "w4j1e": "w4j1e.github.io"
   "wahtson": "wahtson.github.io",
   "waline": "waline.netlify.app",
   "wangdabao": "wangdabaoqq.github.io/me",
