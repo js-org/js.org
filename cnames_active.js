@@ -1385,6 +1385,7 @@ var cnames_active = {
   "lyf": "shbwb.github.io/lyf",
   "lyra": "amansahil.github.io/lyra.js.org",
   "lzbible": "edwinyosorahardjo.github.io/lzbible",
+  "m": "madindx.github.io/m",
   "m01i0ng": "m01i0ng.github.io",
   "m8bot": "mapreiff.github.io/m8-bot-site",
   "ma124": "ma124.netlify.com",
