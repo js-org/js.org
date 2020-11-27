@@ -2559,6 +2559,7 @@ var cnames_active = {
   "vecxode": "vecxode.github.io",
   "vendywira": "vendywira.github.io",
   "verifyr": "arze1.github.io/verifyr-site",
+  "vergeapi": "gabriele73.github.io/vergeapi"
   "verse": "druidic.github.io/verse",
   "vest": "vestjs.netlify.app",
   "veza": "kyranet.github.io/veza",
