@@ -42,6 +42,7 @@ var cnames_active = {
   "01mz": "01mz.github.io",
   "100dayz": "deadcoder0904.github.io/100dayz",
   "101": "7anshuai.github.io/js101", // noCF? (don´t add this in a new PR)
+  "random-stuff-api": "pgamerxstudio.github.io/Random-stuff-api/",
   "131": "netrvin.github.io",
   "140513": "140513.github.io",
   "1c": "oknosoft.github.io/1c",
