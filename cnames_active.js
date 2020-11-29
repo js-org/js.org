@@ -1732,6 +1732,7 @@ var cnames_active = {
   "p3terx": "p3terx.github.io/P3TERX",
   "p7e4": "p7e4.github.io",
   "packit": "pouya-eghbali.github.io/packit",
+  "pacman": "8tentaculos.github.io/jsPacman",
   "pad": "ebraminio.github.io/pad.js", // noCF? (don´t add this in a new PR)
   "pad-project": "adaltas.github.io/node-pad-docs",
   "padmemesamidala": "padmemesamidala.github.io/PadmemesAmidalaWeb",
