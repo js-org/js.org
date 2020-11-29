@@ -1374,6 +1374,7 @@ var cnames_active = {
   "lribeiro": "lmribeiro.github.io",
   "ls": "links-js.github.io",
   "lucia": "lucia.netlify.app",
+  "luciascript": "luciascript.netlify.app",
   "lucy": "lucy-bot.github.io",
   "luis": "luiscloud.github.io",
   "lukemetoki": "lukemetoki.netlify.app",
