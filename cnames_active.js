@@ -1168,6 +1168,7 @@ var cnames_active = {
   "jk": "joname1.github.io",
   "jl": "crusj.github.io",
   "jobs": "alias.zeit.co", // noCF
+  "joe": "joeleeofficial.github.io/joe",
   "joelmathew": "Rec0iL99.github.io/joelmathew",
   "jogja": "jogjajs.github.io", // noCF
   "john": "jozhn.github.io",
