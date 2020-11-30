@@ -393,6 +393,7 @@ var cnames_active = {
   "capsid": "capsidjs.github.io/capsid",
   "capsule": "capsule-js-org.github.io/capsule",
   "captcha-canvas": "shashank3736.github.io/captcha-canvas",
+  "car": "pakastin.github.io/car",
   "cardtabs": "blekerfeld.github.io/CardTabs",
   "cargo": "herber.github.io/cargo",
   "carloseduardo": "karllossouza.github.io/carloseduardo.js.org",
