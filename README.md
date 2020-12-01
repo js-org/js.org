@@ -1,26 +1,112 @@
-[![JS.ORG Logo](http://logo.js.org/png/github_header.png)](http://js.org)
+# Landscape
 
-[![JS.ORG](https://img.shields.io/badge/js.org-+-FFE70B.svg?style=flat-square)](http://js.org)
-[![PRs](https://img.shields.io/github/issues-pr-closed-raw/js-org/js.org.svg?style=flat-square&colorB=FFE70B&label=pull%20requests)](https://github.com/js-org/js.org/pulls?q=is%3Apr+is%3Aclosed+label%3Aadd)
-[![Contributors](https://img.shields.io/github/contributors-anon/js-org/js.org?color=FFE70B&style=flat-square)](https://github.com/js-org/js.org/graphs/contributors)
-[![Activity](https://img.shields.io/github/commit-activity/m/js-org/js.org?color=FFE70B&style=flat-square)](https://github.com/js-org/js.org/pulse/monthly)
-[![Donate](https://img.shields.io/badge/Donate-for_registrar_fees-1F87FF.svg?style=flat-square&logo=open-collective&logoColor=fff)](https://opencollective.com/js-org)
+A brand new default theme for [Hexo].
 
-**To get a short and sleek subdomain for your own GitHub Pages site follow these 4 Steps:**
+- [Preview](http://hexo.io/hexo-theme-landscape/)
 
-### Step 1
-If you haven't already, now it's time to log in to your GitHub account and set up your GitHub Pages site following the instructions [here](https://pages.github.com/). To get a head start you can simply use the generator with one of the provided themes and **add some reasonable content to your new page**.
+## Installation
 
-### Step 2
-Now determine your js.org subdomain: either choose your username or the name of your repo according to the existing GitHub Pages URL (for ```http://foo.github.io/bar```, either ```foo.js.org``` or ```bar.js.org``` would be possible). More details in the [wiki](https://github.com/js-org/js.org/wiki).
+### Install
 
-### Step 3
-Add a file named ```CNAME``` to your repo (in the ```gh-pages``` branch for project pages) with a single line matching the domain you have chosen (e.g. ```foo.js.org```). If you prefer a webinterface form, have a look at [GitHub Pages Help](https://help.github.com/articles/adding-or-removing-a-custom-domain-for-your-github-pages-site/).
+``` bash
+$ git clone https://github.com/hexojs/hexo-theme-landscape.git themes/landscape
+```
 
-### Step 4
-To finish the procedure, make a pull request in this GitHub repository that adds your subdomain to the [list](https://github.com/js-org/js.org/blob/master/cnames_active.js) of existing JS.ORG domains. Your new URL should go live within 24 hours (keep an eye on your pull request in case of a naming conflict).
- 
-# 
+**Landscape requires Hexo 2.4 and above.** If you would like to enable the RSS, the [hexo-generate-feed] plugin is also required.
 
-### Thanks
-... to **[Cloudflare](https://www.cloudflare.com)** for their superb DNS service that makes this possible. While JS.ORG is using their free plan - to a shameless extent - they helped us more than once with some flexible solutions and extended quotas. Many thanks!
+### Enable
+
+Modify `theme` setting in `_config.yml` to `landscape`.
+
+### Update
+
+``` bash
+cd themes/landscape
+git pull
+```
+
+## Configuration
+
+``` yml
+# Header
+menu:
+  Home: /
+  Archives: /archives
+rss: /atom.xml
+
+# Content
+excerpt_link: Read More
+fancybox: true
+
+# Sidebar
+sidebar: right
+widgets:
+- category
+- tag
+- tagcloud
+- archives
+- recent_posts
+
+# Miscellaneous
+google_analytics:
+favicon: /favicon.png
+twitter:
+google_plus:
+```
+
+- **menu** - Navigation menu
+- **rss** - RSS link
+- **excerpt_link** - "Read More" link at the bottom of excerpted articles. `false` to hide the link.
+- **fancybox** - Enable [Fancybox]
+- **sidebar** - Sidebar style. You can choose `left`, `right`, `bottom` or `false`.
+- **widgets** - Widgets displaying in sidebar
+- **google_analytics** - Google Analytics ID
+- **favicon** - Favicon path
+- **twitter** - Twiiter ID
+- **google_plus** - Google+ ID
+
+## Features
+
+### Fancybox
+
+Landscape uses [Fancybox] to showcase your photos. You can use Markdown syntax or fancybox tag plugin to add your photos.
+
+```
+![img caption](img url)
+
+{% fancybox img_url [img_thumbnail] [img_caption] %}
+```
+
+### Sidebar
+
+You can put your sidebar in left side, right side or bottom of your site by editing `sidebar` setting.
+
+Landscape provides 5 built-in widgets:
+
+- category
+- tag
+- tagcloud
+- archives
+- recent_posts
+
+All of them are enabled by default. You can edit them in `widget` setting.
+
+## Development
+
+### Requirements
+
+- [Grunt] 0.4+
+- Hexo 2.4+
+
+### Grunt tasks
+
+- **default** - Download [Fancybox] and [Font Awesome].
+- **fontawesome** - Only download [Font Awesome].
+- **fancybox** - Only download [Fancybox].
+- **clean** - Clean temporarily files and downloaded files.
+
+[Hexo]: https://hexo.io/
+[Fancybox]: http://fancyapps.com/fancybox/
+[Font Awesome]: http://fontawesome.io/
+[Grunt]: http://gruntjs.com/
+[hexo-generate-feed]: https://github.com/hexojs/hexo-generator-feed
