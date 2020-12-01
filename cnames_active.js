@@ -1044,6 +1044,7 @@ var cnames_active = {
   "httpunit": "samzh72.github.io/httpunit",
   "hub": "yyued.github.io/hub.js",
   "hubble": "hubble.netlify.com",
+  "haoxihuan": "haoxihuan.github.io/haoxihuan.js.org",
   "hugorocaproyectos": "hugoroca.github.io/coleccion-proyectos",
   "human": "human-js.gitbooks.io", // noCF? (don´t add this in a new PR)
   "humble": "humblejs.github.io",
