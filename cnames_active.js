@@ -1838,6 +1838,7 @@ var cnames_active = {
   "portafolio": "erikaaldana.github.io/Portafolio/",
   "portafolioacadeller": "acadeller.github.io/portafolioacadeller",
   "portafolioarnulfo": "arpior.github.io/Portafolio",
+  "Portafolioerika": "erikaaldana.github.io/Portafolio/"
   "portafolioluis": "luisself2020.github.io/portafolioluis",
   "portafoliorufino": "Rufino-Hdez.github.io/portafolio",
   "portainer-update": "flweber.github.io/portainer-stack-updater",
