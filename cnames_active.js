@@ -1925,6 +1925,7 @@ var cnames_active = {
   "randoizer": "cname.vercel-dns.com",
   "random": "yuu0007.github.io/random.api",
   "random-machine": "officialpiyush.github.io/random-machine",
+  "random-stuff-api": "pgamerxstudio.github.io/Random-stuff-api",
   "randy": "randyviandaputra.github.io",
   "rangeslider": "andreruffert.github.io/rangeslider.js", // noCF? (don´t add this in a new PR)
   "rasti": "8tentaculos.github.io/rasti",
