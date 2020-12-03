@@ -596,6 +596,7 @@ var cnames_active = {
   "declarativ": "fennifith.github.io/declarativ", // noCF
   "deep-mandelbrot": "munsocket.github.io/deep-mandelbrot",
   "deepcodes": "deepduggal.github.io/deepcodes",
+  "deepintr": "deepintr.github.io",
   "deepu": "deepu105.github.io",
   "defi": "finom.github.io/defi.js.org",
   "defresh": "hello936.github.io/defresh",
