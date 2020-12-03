@@ -1996,6 +1996,7 @@ var cnames_active = {
   "rebatov": "rebatov.github.io",
   "rebem": "rebem.github.io", // noCF? (don´t add this in a new PR)
   "recon": "reconlx.github.io",
+  "reconlx" : "reconlx.github.io/rweb",
   "recover": "luisvallejomohl.github.io/Recover.js",
   "recycle": "recyclejs.github.io/recycle",
   "redfox": "kavanmevada.github.io",
