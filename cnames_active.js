@@ -1720,6 +1720,7 @@ var cnames_active = {
   "onefx": "puncsky.github.com/onefx-home",
   "ongaku": "anshuman-verma.github.io/ongaku",
   "openrecord": "philwaldmann.github.io/openrecord",
+  "open-study-website": "open-study-website.github.io",
   "opentype": "nodebox.github.io/opentype.js",
   "operatio": "furioustsunami.github.io/Operatio",
   "opxop": "opxop.github.io",
