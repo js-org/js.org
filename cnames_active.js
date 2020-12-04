@@ -1504,6 +1504,7 @@ var cnames_active = {
   "minecraft-data.prismarine": "prismarinejs.github.io/minecraft-data",
   "mineflayer.prismarine": "prismarinejs.github.io/mineflayer",
   "minehutsupport": "baibeebambi.github.io/minehutsupport",
+  "minerva-ui": "minerva-ui-docs.vercel.app",
   "minesweeper": "derflatulator.github.io/minesweeper",
   "mingyan": "mingyan.now.sh", // noCF
   "mingyi": "liangmingyi.github.io", // noCF? (don´t add this in a new PR)
