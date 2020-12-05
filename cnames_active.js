@@ -1361,6 +1361,7 @@ var cnames_active = {
   "lips": "jcubic.github.io/lips",
   "lister": "jpbulman.github.io/lister",
   "litedom": "mardix.github.io/litedom", // noCF
+  "listore": "crazy-white.github.io/Listore",
   "liudun": "haveataste.github.io/liudun",
   "liuence": "lxyzai.github.io/liuence",
   "liunian": "asdjgfr.github.io",
