@@ -2251,7 +2251,7 @@ var cnames_active = {
   "sogou": "iguanren.github.io/sogou",
   "solder": "mcrocks999.github.io/solder.js",
   "solome": "solome.github.io",
-  "somerandomcat": "hosting.gitbook.io", // noCF
+  "somerandomcat": "hosting.gitbook.com", // noCF
   "soniq": "fullstack-build.github.io/soniq",
   "sonny": "sonnylazuardi.github.io", // noCF? (don´t add this in a new PR)
   "soofik": "soofik.github.io",
