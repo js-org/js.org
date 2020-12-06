@@ -1263,6 +1263,7 @@ var cnames_active = {
   "kmeans": "jeff-tian.github.io/k-means",
   "knacss-vue": "arnissolle.github.io/knacss-vue",
   "knc": "chaituknag.github.io",
+  "knuck": "knuck.js.org",
   "knowyourbundle": "enapupe.github.io/know-your-bundle",
   "ko": "ko25july.github.io/ko.js.org",
   "ko.redux": "deminoth.github.io/redux", // noCF
