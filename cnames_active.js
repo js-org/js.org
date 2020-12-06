@@ -594,7 +594,6 @@ var cnames_active = {
   "deck-of-cards": "pakastin.github.io/deck-of-cards",
   "declarativ": "fennifith.github.io/declarativ", // noCF
   "deepcodes": "deepduggal.github.io/deepcodes",
-  "devtr": "zmorcy.github.io/devtr.github.io",
   "deepu": "deepu105.github.io",
   "defi": "finom.github.io/defi.js.org",
   "defresh": "hello936.github.io/defresh",
@@ -614,6 +613,7 @@ var cnames_active = {
   "deterministic": "nodeguy.github.io/Deterministic.js",
   "developerfolio": "saadpasta.github.io/developerFolio",
   "devsession": "lukasbach.github.io/devsession",
+  "devtr": "zmorcy.github.io/devtr.github.io",
   "dgelong": "alexeyraspopov.github.io/dgelong", // noCF? (don´t add this in a new PR)
   "dhimasanb": "dhimasanb.github.io",
   "dhruvdutt": "dhruvdutt.github.io",
