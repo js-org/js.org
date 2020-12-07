@@ -1628,7 +1628,7 @@ var cnames_active = {
   "ncub8": "ncub8.github.io", // noCF? (don´t add this in a new PR)
   "neaps": "neaps.github.io",
   "nearley": "kach.github.io/nearley",
-  "nectar": "nectar-js-org.vercel.app",
+  "nectar": "cname.vercel-dns.com",
   "nector": "cname.vercel-dns.com",
   "nefter": "nefter.github.io",
   "nemaniarjun": "nemaniarjun.github.io",
