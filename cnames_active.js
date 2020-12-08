@@ -1263,6 +1263,7 @@ var cnames_active = {
   "klasy-eris": "motiontheking.github.io/klasy-eris",
   "klepto": "mwjaworski.github.io/klepto",
   "klick": "hosting.gitbook.com",
+  "klok": "sujalgoel.github.io/klok"
   "kmeans": "jeff-tian.github.io/k-means",
   "knacss-vue": "arnissolle.github.io/knacss-vue",
   "knc": "chaituknag.github.io",
