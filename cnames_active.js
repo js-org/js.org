@@ -2678,6 +2678,7 @@ var cnames_active = {
   "webpack-config-plugins": "namics.github.io/webpack-config-plugins",
   "webpack-inspect": "alexmost.github.io/webpack-inspect",
   "webpack-stats": "v-webpack.netlify.app",
+  "web-sandbox": "web-sandbox-js.github.io/web-sandbox-website",
   "wechaty": "cdn.chatie.io", // noCF
   "wedgetail": "wedgetail.netlify.com",
   "weekly": "xdimh.github.io/weekly",
