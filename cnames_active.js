@@ -1803,6 +1803,7 @@ var cnames_active = {
   "perle": "kaisteinke.github.io/perle",
   "permissions": "danielnewell.github.io/permissions",
   "perspective": "leopoldthecoder.github.io/Perspective",
+  "personalkanban": "nishantpainter.github.io/personal-kanban",
   "peter": "peterccpang.github.io",
   "pguth": "pguth.github.io",
   "ph1p": "ph1p.github.io",
