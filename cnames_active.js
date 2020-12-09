@@ -471,6 +471,7 @@ var cnames_active = {
   "cn.redux": "camsong.github.io/redux-in-chinese", // noCF? (don´t add this in a new PR)
   "cn.rx": "rxjs-cn.github.io/RxJS-Docs-CN", // noCF
   "cnc": "cncjs.github.io/cncjs.org",
+  "cnchar": "theajack.github.io/cnchar",
   "cndrew": "codemaster233.github.io",
   "codebooky": "hiteshsubnani0128.github.io/codebooky",
   "codemade": "codemade.github.io", // noCF? (don´t add this in a new PR)
