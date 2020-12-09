@@ -2200,6 +2200,7 @@ var cnames_active = {
   "share": "jeff-tian.github.io/weshare",
   "sharec": "lamartire.github.io/sharec",
   "shareon": "NickKaramoff.github.io/shareon",
+  "shell": "adaltas.github.io/node-shell",
   "sheet": "sheetjs.github.io/sheet.js.org",
   "shekhar": "shekharreddy4.github.io/Shekhar",
   "shermix": "shermix.github.io",
