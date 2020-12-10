@@ -832,7 +832,7 @@ var cnames_active = {
   "fantas": "fantastiser.github.io",
   "farfetchd": "achannarasappa.github.io/farfetchd", // noCF? (don´t add this in a new PR)
   "farzad": "wikiweb.github.io/farzad",
-  "fasteer": "fasteerjs.github.io/website",
+  "fasteer": "fasteerjs.github.io",
   "faux": "fauxOS.github.io",
   "fcbosque": "cronopio.github.io/fcbosque", // noCF? (don´t add this in a new PR)
   "fdl": "fdljs.now.sh",
