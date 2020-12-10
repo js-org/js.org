@@ -38,7 +38,6 @@
  */
 
 var cnames_active = {
-  "xtra": "hexxx-cmd.github.io/Hexxx"
   "": "js-org.github.io",
   "01mz": "01mz.github.io",
   "100dayz": "deadcoder0904.github.io/100dayz",
@@ -2740,6 +2739,7 @@ var cnames_active = {
   "xss": "tennc.github.io/xss",
   "xstate": "davidkpiano.github.io/xstate",
   "xto6": "mohebifar.github.io/xto6", // noCF? (don´t add this in a new PR)
+  "xtra": "hexxx-cmd.github.io/Hexxx"
   "xtype": "lucono.github.io/xtypejs", // noCF? (don´t add this in a new PR)
   "y86": "quietshu.github.io/y86", // noCF? (don´t add this in a new PR)
   "yadl": "yadljs.github.io",
