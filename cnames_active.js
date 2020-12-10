@@ -956,6 +956,7 @@ var cnames_active = {
   "gitstyle": "inKerk.github.io/git-style-guide",
   "gka": "gkajs.github.io/gka",
   "glaze": "kripod.github.io/glaze",
+  "glitchapi": "cname.vercel-dns.com",
   "glitterbot": "glitterbot.netlify.com", // noCF
   "glize": "datamart.github.io/Glize",
   "glottologist": "arguiot.github.io/Glottologist",
