@@ -797,7 +797,7 @@ var cnames_active = {
   "es6-tween": "tweenjs.github.io/es6-tween",
   "escape": "licshee.github.io/Escape.js", // noCF? (don´t add this in a new PR)
   "esfx": "esfx.github.io",
-  "esg": "faystart.github.io/ESG",
+  "esg": "cname.vercel-dns.com",// noCF
   "esper": "codecombat.github.io/esper.js",
   "estudiantil": "milersant.github.io/estudiantil",
   "eta": "alias.zeit.co", // noCF
