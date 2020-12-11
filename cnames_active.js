@@ -1327,6 +1327,7 @@ var cnames_active = {
   "lava": "palladium.github.io/Lava.js",
   "lavaclient": "lavaclient.github.io",
   "laveesh": "laveesh.github.io",
+  "lazyapi": "https://lazyapi.kazult.repl.co",
   "lazycipher": "lazycipher.github.io",
   "lcookie": "lf112.github.io/lcookie",
   "ldf": "autplayed.github.io/ldf",
