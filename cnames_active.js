@@ -2457,6 +2457,7 @@ var cnames_active = {
   "theshellproject": "theshellproject.github.io",
   "thi": "ngomjnhthj.github.io/thi",
   "thinkdigital": "tomowens08.github.io/thinkdigital",
+  "thinnakrit": "thinnakrit.github.io",
   "threads": "andywer.github.io/threads.js",
   "ths": "ths-fe.github.io",
   "thundercats": "thundercatsjs.github.io/thundercats", // noCF? (don´t add this in a new PR)
