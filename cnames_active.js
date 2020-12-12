@@ -1803,6 +1803,7 @@ var cnames_active = {
   "pdp-elements": "go4cas.github.io/pdp_elements", // noCF? (don´t add this in a new PR)
   "pea": "pea-team.github.io",
   "pearl": "adamshurson.github.io/pearl",
+  "pecis": "techpot-studio.github.io/Pecis",
   "peekaboo": "nadavspi.github.io/peekaboo.js",
   "pegboard": "mplewis.github.io/pegboard",
   "pekanbaru": "pekanbarujs.github.io",
