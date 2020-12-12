@@ -1331,6 +1331,7 @@ var cnames_active = {
   "laveesh": "laveesh.github.io",
   "lazyapi": "lazyapi.kazult.repl.co",
   "lazycipher": "lazycipher.github.io",
+  "lazysatus": "https://stats.uptimerobot.com/1BLGkip1j0",
   "lcookie": "lf112.github.io/lcookie",
   "ldf": "autplayed.github.io/ldf",
   "le": "letui.github.io",
