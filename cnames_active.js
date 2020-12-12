@@ -1656,6 +1656,7 @@ var cnames_active = {
   "netology-group": "netology-group.github.io",
   "neurax-api": "configneurax.netlify.com",
   "neuro": "neurojs.netlify.com",
+  "neuron": "hosting.gitbook.io",
   "neutralino": "neutralinojs.github.io",
   "neutrino": "neutrinojs.netlify.com", // noCF
   "newbyte": "newbytee.github.io/newbyte",
