@@ -2093,6 +2093,7 @@ var cnames_active = {
   "reyes": "michaelbreyes.github.io/reyes",
   "rgbstrip": "xrealneon.github.io/RGBStrip",
   "rickdesantis": "rickdesantis.github.io",
+  "riiickyy": "riiickkyy.github.io:,
   "riklewis": "riklewis.github.io",
   "rinzler": "gitsquared.github.io/rinzler",
   "riot": "riot.github.io",
@@ -2808,6 +2809,7 @@ var cnames_active = {
   "zyh": "zyh-chopper.github.io/zyh",
   "zykj": "zykj.now.sh", // noCF
   "zyy": "zyyou.github.io/notes"
+  
   /*
    * please don't add your subdomain records down here!
    * insert them in alphabetical order to help reduce merge conflicts.
