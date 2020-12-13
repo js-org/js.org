@@ -1811,7 +1811,7 @@ var cnames_active = {
   "pencil": "pencil-js.github.io/website",
   "penguins": "luisvallejomohl.github.io/Penguins.js",
   "penn-sdk": "pennlabs.github.io/penn-sdk-node", // noCF? (don´t add this in a new PR)
-  "penpow": "penpow.github.io
+  "penpow": "penpow.github.io",
   "pentris": "justinjc.github.io/pentris2", // noCF? (don´t add this in a new PR)
   "perguth": "perguth.github.io",
   "perilla": "zhangzisu.github.io/perilla",
