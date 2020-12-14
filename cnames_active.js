@@ -1355,6 +1355,7 @@ var cnames_active = {
   "lessmd": "linuxenko.github.io/lessmd",
   "leste": "atwood-cai.github.io/leste.js", // noCF? (don´t add this in a new PR)
   "lete": "cname.vercel-dns.com",
+   "lev": "lev-savranskiy.github.io",
   "level": "xv700.github.io/level",
   "lf": "lf112.github.io",
   "lgs": "lgsturkiye.github.io/lgs",
