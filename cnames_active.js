@@ -1184,7 +1184,7 @@ var cnames_active = {
   "jdc": "jdceeb.github.io",
   "jds": "alimanman.github.io/jds",
   "jena": "javascript-in-jena.github.io", // noCF
-  "jessicam": "jessicam.github.io",
+  "jessicam": "jessi-mhernandez.github.io/JessicaM",
   "jetaimetantquetuestoi": "dakokonutboi.github.io/jetaimetantquetuestoi",
   "jets": "nexts.github.io/Jets.js",
   "jinya": "chenjinya.github.io",
