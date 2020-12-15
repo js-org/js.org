@@ -2673,6 +2673,7 @@ var cnames_active = {
   "vulcandocs": "hosting.gitbook.com",
   "vuongdothanhhuy": "vuongdothanhhuy.github.io", // noCF? (don´t add this in a new PR)
   "vxv": "vxv.netlify.com",
+  "wz": "wangzhen-CHN.github.io/wz",
   "w4ctech": "w4ctech.github.io",
   "w4j1e": "w4j1e.github.io",
   "wahtson": "wahtson.github.io",
