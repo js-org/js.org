@@ -2673,7 +2673,6 @@ var cnames_active = {
   "vulcandocs": "hosting.gitbook.com",
   "vuongdothanhhuy": "vuongdothanhhuy.github.io", // noCF? (don´t add this in a new PR)
   "vxv": "vxv.netlify.com",
-  "wz": "wangzhen-CHN.github.io/wz",
   "w4ctech": "w4ctech.github.io",
   "w4j1e": "w4j1e.github.io",
   "wahtson": "wahtson.github.io",
@@ -2743,6 +2742,7 @@ var cnames_active = {
   "wyfe": "wangyuanstudio.github.io/WYFE", // noCF? (don´t add this in a new PR)
   "wynncraft": "frawolf.github.io/wynncraft.js",
   "wysc": "coffeebank.github.io/wysc-vue",
+  "wz": "wangzhen-CHN.github.io/wz",
   "x": "nikhiljohn10.github.io/x.js",
   "xen": "hosting.gitbook.com",
   "xhemj": "xhemj.now.sh", // noCF
