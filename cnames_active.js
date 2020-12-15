@@ -2272,6 +2272,7 @@ var cnames_active = {
   "slidey": "thegreatrazz.github.io/slidey",
   "slim": "eavichay.github.io/slim.js",
   "slinky": "alizahid.github.io/slinky",
+  "slimcoders": "slimcoders.github.io/Portfolio",
   "smartquotes": "kellym.github.io/smartquotes.js",
   "smiley": "Smiley422.github.io",
   "smoke": "hxgf.github.io/smoke",
