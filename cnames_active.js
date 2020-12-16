@@ -2487,6 +2487,7 @@ var cnames_active = {
   "tixol": "vcxiz.github.io/tixol",
   "tixy": "e366c17a-7fc8-4237-b01f-fe27cd41da7a.repl.co",
   "tiza": "pd4d10.github.io/tiza",
+  "tjys": "qikaile.github.io/tjys-notes",
   "tmr": "ttttmr.github.io",
   "toad": "wnda.github.io/toad",
   "tom": "tom-microservice.netlify.com",
