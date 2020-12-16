@@ -108,6 +108,7 @@ var cnames_restricted = [
     "get",
     "git",
     "global(s)",
+    "yushungong",
     "group(s)",
     "guide(s)",
     "headquarter",
