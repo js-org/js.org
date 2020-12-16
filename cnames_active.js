@@ -1782,7 +1782,7 @@ var cnames_active = {
   "palette": "pakastin.github.io/palette",
   "pamatcher": "pmros.github.io/pamatcher", // noCF? (don´t add this in a new PR)
   "pam": "pambot.netlify.app",
-  "pancake": "zaida04.github.io/pancake/"
+  "pancake": "zaida04.github.io/pancake",
   "pangkeyd": "pangkeyd.github.io",
   "pantarei": "pantareijs.github.io/pantarei.js.org",
   "panza": "panza-org.github.io/panza-docs", // noCF
