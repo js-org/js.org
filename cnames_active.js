@@ -1589,6 +1589,7 @@ var cnames_active = {
   "mom": "momjs.github.io/mom",
   "momentum": "wemakeweb.github.io/momentum", // noCF? (don´t add this in a new PR)
   "monkberry": "monkberry.github.io",
+  "mongochrome": "raflymln.github.io/mongochrome",
   "mono": "mono-js.github.io/mono",
   "montage": "montagejs.github.io",
   "moose": "mustpax.github.io/moose",
