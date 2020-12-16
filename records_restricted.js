@@ -108,7 +108,6 @@ var cnames_restricted = [
     "get",
     "git",
     "global(s)",
-    "yushungong",
     "group(s)",
     "guide(s)",
     "headquarter",
@@ -249,5 +248,6 @@ var cnames_restricted = [
     "world",
     "ww(1/2/3/42)",
     "www(1/2/3/42)",
-    "xml"
+    "xml",
+    "yushungong"
 ]
