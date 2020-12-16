@@ -453,7 +453,7 @@ var cnames_active = {
   "clabe-validator": "center-key.github.io/clabe-validator",
   "clark": "clarkdo.github.io/new-blog",
   "clarkdo": "clarkdo.github.io",
-  "clash": "powerbox1000.github.io/clash"
+  "clash": "powerbox1000.github.io/clash",
   "classic": "joeleeofficial.github.io/Classic",
   "classroom": "epoxydevelopment.github.io/Classroom",
   "clause": "clausejs.github.io/clausejs",
