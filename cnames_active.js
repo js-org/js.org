@@ -979,6 +979,7 @@ var cnames_active = {
   "gottasurf": "jottocraft.github.io/surf",
   "govind": "emgk.github.io",
   "g-point": "bdvela.github.io/g-point",
+  "grafeo": "woopen.github.io/grafeo",
   "graffy": "aravindet.github.io/graffy",
   "gram": "gram-js.github.io/gramjs",
   "gramps": "gramps-graphql.github.io/gramps",
