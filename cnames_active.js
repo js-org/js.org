@@ -2719,6 +2719,7 @@ var cnames_active = {
   "wglt": "codyebberson.github.io/wglt",
   "wgp": "wgp0805.github.io",
   "wgx": "w-gx.github.io", // noCF
+  "wwcache": "wwcache.github.io",
   "www.siddharth": "chaudhs769.github.io/siddharth.js.org", // noCF
   "whadido": "jokester.github.io/whadido",
   "whistle": "whistle-lang.github.io/website",
