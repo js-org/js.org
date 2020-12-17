@@ -962,6 +962,7 @@ var cnames_active = {
   "gka": "gkajs.github.io/gka",
   "glaze": "kripod.github.io/glaze",
   "glitchapi": "cname.vercel-dns.com",
+  "glitchy-scratch": "glitchy-scratch.github.io",
   "glitterbot": "glitterbot.netlify.com", // noCF
   "glize": "datamart.github.io/Glize",
   "glottologist": "arguiot.github.io/Glottologist",
