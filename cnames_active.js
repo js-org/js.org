@@ -919,7 +919,7 @@ var cnames_active = {
   "futch": "jfbrennan.github.io/futch",
   "fxrmer": "fxrmer.github.io",
   "fyi": "tobihrbr.github.io/fyi",
-  "fzweb": "https://code-forever-com.github.io",
+  "fzweb": "code-forever-com.github.io",
   "g": "nodebox.github.io/g.js",
   "gal": "galmail.github.io", // noCF? (don´t add this in a new PR)
   "game-tracker": "endbug.github.io/game-tracker",
