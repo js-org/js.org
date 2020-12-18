@@ -258,6 +258,7 @@ var cnames_active = {
   "bandicoot": "canopytax.github.io/bandicoot.js.org",
   "bandung": "zufrizalyordan.github.io/bandungjs",
   "bane": "kemosaf.github.io/bane",
+  "bangle": "bangle-io.github.io/banglejs",
   "baoqi": "baoqi-zhong.github.io",
   "bara": "barajs.github.io/bara",
   "barba": "barbajs.github.io/barba",
