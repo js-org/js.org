@@ -2150,6 +2150,7 @@ var cnames_active = {
   "rva": "fanyer.github.io/rva",
   "ryaneldon": "rdogstyle.github.io/ryaneldon",
   "ryzokuken": "ryzokuken.github.io",
+  "sixcord": "zennv.github.io/sixcord",
   "s3swa": "s3swa-ict-upgifter.github.io/snow-eater",
   "s4swa": "s4swa.github.io",
   "saeed": "mrsaeeddev.github.io",
