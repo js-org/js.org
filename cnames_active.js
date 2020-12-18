@@ -1121,6 +1121,7 @@ var cnames_active = {
   "inig": "inig.github.io",
   "initial-wu": "initial-wu.github.io",
   "injectify": "injectify.github.io/docs",
+  "it": "it.github.io",
   "inko": "inko.netlify.com",
   "inline-style-prefixer": "rofrischmann.github.io/inline-style-prefixer",
   "innova": "innova-fll.github.io",
