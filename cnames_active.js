@@ -2178,7 +2178,7 @@ var cnames_active = {
   "sazerac": "sazeracjs.github.io/sazerac-site",
   "sb": "santiaguf.github.io",
   "scancell": "teamtofu.github.io/scancell",
-  "scathach": "sinkaroid.github.io/scathach",
+  "scathach": "sinkaroid.github.io",
   "scene": "daybrush.github.io/scenejs-page",
   "schema": "hosting.gitbook.com",
   "scopes": "kelleyvanevert.github.io/scopes",
