@@ -2419,6 +2419,7 @@ var cnames_active = {
   "sw-yx": "sw-yx.github.io",
   "sweetalert": "t4t5.github.io/sweetalert",
   "sweetconfirm": "koddr.github.io/sweetconfirm.js",
+  "swearoo": "codeswithjames.github.io/swearoo",
   "swipe": "lyfeyaj.github.io/swipe",
   "switchit": "dongryphon.github.io/switchit",
   "switchjoy": "switchjoy.github.io",
