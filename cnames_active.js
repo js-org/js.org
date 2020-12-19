@@ -2297,6 +2297,7 @@ var cnames_active = {
   "snekfetch": "devsnek.github.io/snekfetch",
   "snippet": "jmas.github.io/gist",
   "snow": "cname.vercel-dns.com", // noCF
+  "snowflake-api": "udit2303.github.io/snowflake-api-docs",
   "snowglobe": "3052cole.github.io/snowglobe",
   "social-likes": "sapegin.github.io/social-likes", // noCF? (don´t add this in a new PR)
   "social-likes-next": "sapegin.github.io/social-likes-next", // noCF? (don´t add this in a new PR)
