@@ -2781,6 +2781,7 @@ var cnames_active = {
   "yu": "yuxizhe.github.io/yu",
   "yuanchi": "b07902048.github.io/yuanchi", // noCF
   "yup-phone": "abhisekp.github.io/yup-phone",
+  "yushungong": "yushungong.github.io/my-io",
   "yusril": "yusrilhs.github.io", // noCF
   "yuye": "cyea.github.io",
   "yvm": "tophat.github.io/yvm",
