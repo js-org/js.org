@@ -1767,6 +1767,7 @@ var cnames_active = {
   "oskarplyt": "oskarplyt.github.io",
   "osom": "kikobeats.github.io/osom",
   "otimizacao": "jmmccota.github.io/Otimizacao",
+  "ourcord": "ourcord.netlify.app",
   "outdoors": "mrdatastorage.github.io/outdoors.js",
   "outrite": "outrite.github.io/outrite.js.org",
   "overtrack": "aidant.github.io/overtrack.js",
