@@ -1718,6 +1718,7 @@ var cnames_active = {
   "nsw-coronavirus": "maxgherman.github.io/nsw-coronavirus",
   "nuclear": "nukeop.github.io/nuclear",
   "null": "false.netlify.com",
+  "num2words": "mcnagynorbi.github.io/num2words",
   "numberproto": "vfdan.github.io/NumberProto.js",
   "nut": "nut-project.netlify.com",
   "nuxt-fluent-bootstrap": "disjfa.github.io/nuxt-fluent-bootstrap",
