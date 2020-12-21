@@ -407,6 +407,7 @@ var cnames_active = {
   "cats": "whoisjorge.github.io/not-cat-gifs",
   "cbm": "iamnapo.github.io/cbmjs",
   "cdi": "kiprox.github.io/Candro-Drive-Index",
+  "cdn": "cncdn.github.io/cdn.js.org",
   "cdll": "cdll.github.io",
   "cebu": "javascriptcebu.netlify.com",
   "celery-node": "actumn.github.io/celery.node",
