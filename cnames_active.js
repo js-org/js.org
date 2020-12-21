@@ -2134,6 +2134,7 @@ var cnames_active = {
   "router-advanced": "oldergod.github.io/router-advanced",
   "router5": "hosting.gitbook.com",
   "routex": "routex.netlify.com",
+  "rovel": "rovelstars.github.io",
   "rp": "rpocklin.github.io", // noCF? (don´t add this in a new PR)
   "rplayer": "davland7.github.io/rplayer",
   "rsshub": "diygod.github.io/RSSHub",
