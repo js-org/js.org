@@ -1601,6 +1601,7 @@ var cnames_active = {
   "morse": "the-silver-project.github.io/morse",
   "moviedex": "calm-squash-zqh3z3dg2s83u9gopkkeg10d.herokudns.com",
   "mp3tag": "eidoriantan.github.io/mp3tag.js",
+  "mp": "cncdn.github.io/js.org",
   "mpe": "weareroli.github.io/mpejs", // noCF? (don´t add this in a new PR)
   "mrinjamul": "mrinjamul.github.io/mrinjamul.js.org",
   "mrm": "mrmjs.netlify.app",
@@ -2153,7 +2154,6 @@ var cnames_active = {
   "rva": "fanyer.github.io/rva",
   "ryaneldon": "rdogstyle.github.io/ryaneldon",
   "ryzokuken": "ryzokuken.github.io",
-  "s": "cncdn.github.io/js.org",
   "sixcord": "zennv.github.io/sixcord",
   "s3swa": "s3swa-ict-upgifter.github.io/snow-eater",
   "s4swa": "s4swa.github.io",
