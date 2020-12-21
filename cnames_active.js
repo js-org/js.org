@@ -72,7 +72,6 @@ var cnames_active = {
   "abhishek": "rpidanny.github.io/personal-collage",
   "abhishekmittal": "abhishek-mittal.github.io/abhishekmittal",
   "abialbon": "abialbon.github.io",
-  "ae": "itwxx.vercel.app",
   "aby": "icoldplayer.github.io/aby",
   "acarsy": "acarsy.github.io",
   "accessibility": "guilhermedelemos.github.io/accessibility",
@@ -1163,6 +1162,7 @@ var cnames_active = {
   "itsashis4u": "itsashis4u.github.io", // noCF? (don´t add this in a new PR)
   "itunes-bridge": "angrykiller.github.io/iTunes-bridge",
   "itzik": "itzik.netlify.app",
+  "itwxx": "itwxx.vercel.app",
   "iutdb": "xchairs.github.io/iutdb.github.io",
   "ivy": "sinistrecyborg.github.io/Ivy",
   "iwanttocountfromone": "realcyguy.github.io/iwanttocountfromone.js",
