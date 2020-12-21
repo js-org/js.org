@@ -1250,7 +1250,7 @@ var cnames_active = {
   "karateblobs": "karatewumpus.github.io/karateblobs",
   "karl": "focused-bassi-cc0eff.netlify.com",
   "karolina-and-ryan": "mockturtlesoup.github.io/karolina-and-ryan",
-  "karrot": "peyk2z90qmqzvm93.preview.edgeapp.net",
+  "karrot": "665c97b7-c1b8-473c-b6b8-48006bfae344.repl.co",
   "kasfy": "kasfy.github.io/kasfy.js.org",
   "kate": "thecodesuite.github.io/katebot",
   "katheesh": "katheesh.github.io/katheesh.js",
