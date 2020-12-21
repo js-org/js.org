@@ -2153,7 +2153,7 @@ var cnames_active = {
   "rva": "fanyer.github.io/rva",
   "ryaneldon": "rdogstyle.github.io/ryaneldon",
   "ryzokuken": "ryzokuken.github.io",
-  "s": "cncdn.github.io/cdn.js.org",
+  "s": "cncdn.github.io/js.org",
   "sixcord": "zennv.github.io/sixcord",
   "s3swa": "s3swa-ict-upgifter.github.io/snow-eater",
   "s4swa": "s4swa.github.io",
