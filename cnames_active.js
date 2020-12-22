@@ -1414,6 +1414,7 @@ var cnames_active = {
   "luis": "luiscloud.github.io",
   "lukemetoki": "lukemetoki.netlify.app",
   "lukks": "lukks.github.io/page",
+  "lumi": "furioustsunami.github.io/lumijs",
   "luzc": "lucianing.github.io/notes",
   "lvp": "luzhenqian.github.io/lvp.js",
   "lwd-db": "dreamingbot.github.io/Login-With-Discord-DB",
