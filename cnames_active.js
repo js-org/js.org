@@ -1601,7 +1601,7 @@ var cnames_active = {
   "morse": "the-silver-project.github.io/morse",
   "moviedex": "calm-squash-zqh3z3dg2s83u9gopkkeg10d.herokudns.com",
   "mp3tag": "eidoriantan.github.io/mp3tag.js",
-  "mp": "cncdn.github.io/js.org",
+  "mp": "cncdn.github.io",
   "mpe": "weareroli.github.io/mpejs", // noCF? (don´t add this in a new PR)
   "mrinjamul": "mrinjamul.github.io/mrinjamul.js.org",
   "mrm": "mrmjs.netlify.app",
