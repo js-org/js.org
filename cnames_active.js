@@ -108,6 +108,7 @@ var cnames_active = {
   "ahmad": "aruzikulov.github.io/ahmad",
   "ahmeterdgn": "ahmeterdgn.github.io",
   "ahooks": "ahooks.surge.sh",
+  "aiden": "aidenybai.netlify.app",
   "aider": "tjz101.github.io/aider-js-pages",
   "airtable-plus": "victorhahn.github.io/airtable-plus",
   "ais": "yunyoujun.github.io/ais.js",
