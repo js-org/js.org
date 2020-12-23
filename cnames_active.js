@@ -2324,7 +2324,7 @@ var cnames_active = {
   "spacebot": "spacebot2.github.io",
   "spax": "crossjs.github.io/spax-site",
   "spectragram": "adrianengine.github.io/jquery-spectragram", // noCF? (don´t add this in a new PR)
-  "speedrun": "speedrunjs.readthedocs.io",
+  "speedrun": "hosting.gitbook.io",
   "speroxu": "speroxu.github.io",
   "spider": "spider-scraper.netlify.app",
   "spike": "spike.netlify.com",
