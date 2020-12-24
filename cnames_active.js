@@ -181,6 +181,7 @@ var cnames_active = {
   "aprende-react": "ptcc.github.io/aprende-react",
   "aptrinh": "aptrinh.github.io",
   "arc": "diegohaz.github.io/arc",
+  "arclight": "aproxthethat.github.io/arclight-site",
   "arcn": "alexakasanjeev.github.io/arcn",
   "arda": "ardasoyturk-portfolio.netlify.app",
   "arga": "cname.vercel-dns.com",
