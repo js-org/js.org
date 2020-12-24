@@ -2488,6 +2488,7 @@ var cnames_active = {
   "thepeachtimes": "thepeachtimes.github.io",
   "theshellproject": "theshellproject.github.io",
   "thi": "ngomjnhthj.github.io/thi",
+  "thickets": "codeswithjames.github.io/thickets.js.org",
   "thinkdigital": "tomowens08.github.io/thinkdigital",
   "threads": "andywer.github.io/threads.js",
   "ths": "ths-fe.github.io",
