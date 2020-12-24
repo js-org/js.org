@@ -2364,6 +2364,7 @@ var cnames_active = {
   "start": "deepsweet.github.io/start",
   "starterpk": "starterpk.github.io",
   "startjs": "readthedocs.io",
+  "stratus": "https://stratusbotteam.github.io",
   "startup": "startup-js.github.io/startup",
   "state-machine-cat": "sverweij.github.io/state-machine-cat",
   "staticinstance": "staticinstance.github.io", // noCF? (don´t add this in a new PR)
