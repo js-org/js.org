@@ -352,7 +352,7 @@ var cnames_active = {
   "bt": "mldonkey.github.io/bt",
   "btgprice": "beeyev.github.io/btgprice.org",
   "bui": "kjantzer.github.io/bui",
-  "buildsite" "sjl511.github.io",
+  "buildsite": "sjl511.github.io",
   "bullwinkle": "bullwinkle.github.io",
   "bun": "the94air.github.io/bun",
   "bunjil": "bunjil.netlify.com",
