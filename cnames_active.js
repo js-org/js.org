@@ -294,7 +294,7 @@ var cnames_active = {
   "bfd": "mrsheldon.github.io/bfd.js",
   "bhadoo-cloud": "ParveenBhadooOfficial.github.io/Bhadoo-Cloud",
   "bigbrainbot": "112batman.github.io/bigbrainbot-website",
-  "bin": "sujalgoel.github.io/impostor-bin",
+  "bin": "sujalgoel.github.io/impostor-bin"
   "bind-action-dispatchers": "cchamberlain.github.io/bind-action-dispatchers", // noCF? (don´t add this in a new PR)
   "biu": "aprilorange.github.io/biu", // noCF? (don´t add this in a new PR)
   "black-fury": "black-fury.github.io",
@@ -1282,7 +1282,7 @@ var cnames_active = {
   "klasy-eris": "motiontheking.github.io/klasy-eris",
   "klepto": "mwjaworski.github.io/klepto",
   "klick": "hosting.gitbook.com",
-  "klok": "sujalgoel.github.io/klok",
+  "klok": "sujalgoel.github.io/klok"
   "kmeans": "jeff-tian.github.io/k-means",
   "knacss-vue": "arnissolle.github.io/knacss-vue",
   "knc": "chaituknag.github.io",
@@ -1894,7 +1894,7 @@ var cnames_active = {
   "portafolioarnulfo": "arpior.github.io/Portafolio",
   "portafolioluis": "luisself2020.github.io/portafolioluis",
   "portafoliorufino": "Rufino-Hdez.github.io/portafolio",
-  "portafolio-web": "velazquezadrian.github.io/Portafolio-web",
+  "portafolio-web"; "velazquezadrian.github.io/Portafolio-web",
   "portainer-update": "flweber.github.io/portainer-stack-updater",
   "porter": "ahopkins.github.io/porterjs", // noCF? (don´t add this in a new PR)
   "post-type-discovery": "twozeroone.github.io/post-type-discovery",
