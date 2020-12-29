@@ -21,3 +21,7 @@
   "samplasion": ["ns31.cloudns.net", "ns32.cloudns.net", "ns33.cloudns.net", "ns34.cloudns.net"],
   "shebang": ["dns1.p01.nsone.net", "dns2.p01.nsone.net", "dns3.p01.nsone.net", "dns4.p01.nsone.net"]
  }
+
+/*
+* The allocation of new ns records is discontinued (at the moment)
+*/
