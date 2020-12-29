@@ -1627,6 +1627,7 @@ var cnames_active = {
   "myurl": "marvnet.github.io/myurl",
   "mzaini30": "mzaini30.github.io",
   "mzplayer": "prince3661.github.io/Mzplayer",
+  "mzhren": "mzhren.github.io",
   "n": "cyb.github.io/n",
   "n3-rd": "n3-rd.github.io",
   "nabin": "nabin6246.github.io",
@@ -2814,8 +2815,7 @@ var cnames_active = {
   "zygds": "zygds.github.io/zygds.js.org",
   "zyh": "zyh-chopper.github.io/zyh",
   "zykj": "zykj.now.sh", // noCF
-  "zyy": "zyyou.github.io/notes",
-  "mzhren": "mzhren.github.io"
+  "zyy": "zyyou.github.io/notes"
   /*
    * please don't add your subdomain records down here!
    * insert them in alphabetical order to help reduce merge conflicts.
