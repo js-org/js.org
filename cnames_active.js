@@ -660,7 +660,7 @@ var cnames_active = {
   "distribution": "distributionjs.github.io/website",
   "districode": "districode.netlify.app",
   "districode-p2p": "districode-p2p.netlify.app",
-  "distube": "skick1234.github.io/DisTube",
+  "distube": "distubejs.github.io",
   "diswrap": "payload-developers.github.io/diswrap.js",
   "div": "div-js.github.io/div.js.org",
   "diysay": "diysay.github.io/diysay-js-org",
