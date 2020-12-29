@@ -2245,6 +2245,7 @@ var cnames_active = {
   "w4ctech": "w4ctech.github.io",
   "wahtson": "wahtson.github.io",
   "wangdabao": "wangdabaoqq.github.io/me",
+  "wangdabao-doc": "wangdabaoqq.github.io/documents",
   "wanna": "mkermani144.github.io/wanna",
   "wargamer": "hkwu.github.io/wargamer",
   "warrior": "olistic.github.io/warriorjs",
