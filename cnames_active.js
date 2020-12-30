@@ -854,6 +854,7 @@ var cnames_active = {
   "fidel": "fidelxyz.github.io",
   "fikri": "ikrydev.github.io/fikri.js.org",
   "filer": "filerjs.github.io/filer",
+  "financial": "financialjsorg.netlify.app",
   "finder": "applait.github.io/finderjs", // noCF? (don´t add this in a new PR)
   "fini": "janovekj.github.io/fini",
   "fire-hydrant": "cchamberlain.github.io/fire-hydrant", // noCF? (don´t add this in a new PR)
