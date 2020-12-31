@@ -2771,6 +2771,7 @@ var cnames_active = {
   "writebar": "alexander-shvets.github.io/writebar",
   "wss": "iguanren.github.io/wss",
   "wstool": "sy-records.github.io/wstool", // noCF
+  "wsyear": "wsyear.github.io",
   "wthunting": "sawyerbx.github.io/wthunting",
   "wugenqiang": "wugenqiang.github.io/wugenqiang.js.org",
   "wyfe": "wangyuanstudio.github.io/WYFE", // noCF? (don´t add this in a new PR)
