@@ -2280,7 +2280,6 @@ var cnames_active = {
   "single-spa": "single-spa.github.io/single-spa.js.org",
   "sirkit": "seckwei.github.io/SirKit_CircuitSim", // noCF? (don´t add this in a new PR)
   "sistersbio": "KDiaCodes.github.io/SistersBio",
-  "sixcord": "zennv.github.io/sixcord",
   "sizle": "christoga.github.io/sizle", // noCF? (don´t add this in a new PR)
   "sjy": "cname.vercel-dns.com",
   "skeptical-coder": "rbpinheiro.github.io/skeptical-coder",
