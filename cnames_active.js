@@ -902,6 +902,7 @@ var cnames_active = {
   "foxford": "netology-group.github.io/foxford.github.io",
   "foxify": "foxifyjs.github.io/foxify",
   "foxman": "kaola-fed.github.io/foxman",
+  "fp": "iotcat.github.io/fp",
   "frame-depth": "nwong212.github.io/frame-wizard",
   "framework": "plasnerd.github.io/Framework.js",
   "frameworkless": "mtimofiiv.github.io/frameworkless",
