@@ -1732,6 +1732,7 @@ var cnames_active = {
   "null": "false.netlify.com",
   "num2words": "mcnagynorbi.github.io/num2words",
   "numberproto": "vfdan.github.io/NumberProto.js",
+  "nurman": "nurmantg.github.io/nurman",
   "nut": "nut-project.netlify.com",
   "nuxt-fluent-bootstrap": "disjfa.github.io/nuxt-fluent-bootstrap",
   "nuxtdoc": "hopeful-hoover-d87dd1.netlify.com",
