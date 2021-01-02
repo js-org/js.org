@@ -2621,6 +2621,7 @@ var cnames_active = {
   "ushio": "ushio.netlify.com",
   "usv": "usvformat.github.io",
   "utscrooms": "sunakujira1.github.io/UTSCRooms",
+  "urmom": "urmomjs.github.io/urmom.js",
   "uuid": "rumkin.github.io/uuid",
   "uvcharts": "imaginea.github.io/uvCharts", // noCF? (don´t add this in a new PR)
   "v-charts": "elemefe.github.io/v-charts",
