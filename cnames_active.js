@@ -624,6 +624,7 @@ var cnames_active = {
   "detector": "blackmirror1980.github.io/detector-js",
   "deterministic": "nodeguy.github.io/Deterministic.js",
   "developerfolio": "saadpasta.github.io/developerFolio",
+  "devilapi": "devilapi.kazult.repl.co",
   "devsession": "lukasbach.github.io/devsession",
   "devtr": "zmorcy.github.io/devtr.github.io",
   "dgelong": "alexeyraspopov.github.io/dgelong", // noCF? (don´t add this in a new PR)
@@ -1344,7 +1345,6 @@ var cnames_active = {
   "lava": "palladium.github.io/Lava.js",
   "lavaclient": "lavaclient.github.io",
   "laveesh": "laveesh.github.io",
-  "lazyapi": "lazyapi.kazult.repl.co",
   "lazycipher": "lazycipher.github.io",
   "lcookie": "lf112.github.io/lcookie",
   "ldf": "autplayed.github.io/ldf",
