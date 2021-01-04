@@ -2274,6 +2274,7 @@ var cnames_active = {
   "simplecrypto": "danang-id.github.io/simple-crypto-js",
   "simples": "micnic.github.io/simples",
   "simpleserver": "MobSpot.github.io/Really-Simple-Server.github.io",
+  "simplesnake": "aktindo.github.io/Simple_Snake_Game",
   "simplestate": "nlcgits.github.io/simplestate",
   "simplicity": "simplicity.github.io",
   "simulacra": "daliwali.github.io/simulacra",
