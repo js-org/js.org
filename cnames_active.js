@@ -1603,6 +1603,7 @@ var cnames_active = {
   "mol": "eigenmethod.github.io/mol", // noCF
   "molti": "moltijs.github.io/molti",
   "mom": "momjs.github.io/mom",
+  "mcdksr": "mcdksr.github.io/mcdksrr",
   "momentum": "wemakeweb.github.io/momentum", // noCF? (don´t add this in a new PR)
   "monkberry": "monkberry.github.io",
   "mono": "mono-js.github.io/mono",
