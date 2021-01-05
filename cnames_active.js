@@ -811,6 +811,7 @@ var cnames_active = {
   "eth": "eth-js.github.io/eth-dev-tools",
   "ethaan": "ethaan.github.io/webpage",
   "ethavatar": "filips123.github.io/EthAvatar.JS",
+  "etsx": "etsx.github.io",
   "euc": "wnda.github.io/euc",
   "euclid": "anandthakker.github.io/euclid", // noCF? (don´t add this in a new PR)
   "eval": "jshawl.github.io/eval", // noCF? (don´t add this in a new PR)
