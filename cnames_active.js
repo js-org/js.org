@@ -1844,6 +1844,7 @@ var cnames_active = {
   "perilla": "zhangzisu.github.io/perilla",
   "perle": "kaisteinke.github.io/perle",
   "permissions": "danielnewell.github.io/permissions",
+  "persian-tools": "persian-tools.github.io/persian-tools",
   "personalkanban": "nishantpainter.github.io/personal-kanban",
   "perspective": "leopoldthecoder.github.io/Perspective",
   "peter": "peterccpang.github.io",
