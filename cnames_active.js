@@ -2514,6 +2514,7 @@ var cnames_active = {
   "tie": "tie-team.github.io",
   "tights": "tights.netlify.com",
   "timeout": "anshuman-verma.github.io/setTimeout",
+  "timer": "timerjsorg.netlify.app",
   "timerizer": "callumacrae.github.io/timerizerJS", // noCF? (don´t add this in a new PR)
   "timesheet": "nishantpainter.github.io/timesheet",
   "tin": "lhtin.github.io/tin",
