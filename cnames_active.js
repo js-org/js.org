@@ -1842,6 +1842,7 @@ var cnames_active = {
   "perilla": "zhangzisu.github.io/perilla",
   "perle": "kaisteinke.github.io/perle",
   "permissions": "danielnewell.github.io/permissions",
+  "persian-tools": "persian-tools.github.io/persian-tools",
   "personalkanban": "nishantpainter.github.io/personal-kanban",
   "perspective": "leopoldthecoder.github.io/Perspective",
   "peter": "peterccpang.github.io",
@@ -2854,8 +2855,7 @@ var cnames_active = {
   "zygds": "zygds.github.io/zygds.js.org",
   "zyh": "zyh-chopper.github.io/zyh",
   "zykj": "zykj.now.sh", // noCF
-  "zyy": "zyyou.github.io/notes",
-  "persian-tools": "persian-tools.github.io/persian-tools"
+  "zyy": "zyyou.github.io/notes"
   /*
    * please don't add your subdomain records down here!
    * insert them in alphabetical order to help reduce merge conflicts.
