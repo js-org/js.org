@@ -2274,6 +2274,7 @@ var cnames_active = {
   "simonhans": "simonhans.github.io",
   "simplecounter": "tomkiernan120.github.io/simplecounter",
   "simplecrypto": "danang-id.github.io/simple-crypto-js",
+  "simple": "lescinskiscom.github.io/simple-js",
   "simples": "micnic.github.io/simples",
   "simpleserver": "MobSpot.github.io/Really-Simple-Server.github.io",
   "simplesnake": "aktindo.github.io/Simple_Snake_Game",
