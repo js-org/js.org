@@ -2847,7 +2847,6 @@ var cnames_active = {
   "zhenbang": "wzb1244.github.io",
   "zhy": "niaoyu233.github.io/homework",
   "zignis": "zhike-team.github.io/zignis",
-  "zjy": "shbwb.github.io/zjy",
   "zodiac": "indus.github.io/Zodiac", // noCF? (don´t add this in a new PR)
   "zodiacsigns": "dipanshkhandelwal.github.io/my-zodiac-sign",
   "zombie": "assaf.github.io/zombie", // noCF? (don´t add this in a new PR)
