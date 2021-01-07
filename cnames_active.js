@@ -2846,6 +2846,7 @@ var cnames_active = {
   "zhaomenghuan": "zhaomenghuan.github.io",
   "zhd": "zhDmitry.github.io",
   "zhenbang": "wzb1244.github.io",
+  "zizhujy": "jeff-tian.github.io/zizhujy",
   "zhy": "niaoyu233.github.io/homework",
   "zignis": "zhike-team.github.io/zignis",
   "zjy": "shbwb.github.io/zjy",
