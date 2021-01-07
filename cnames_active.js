@@ -681,6 +681,7 @@ var cnames_active = {
   "docsify-es": "sidval.github.io/docsify-es",
   "docsify-ru": "truepatch.github.io/docsify-ru",
   "docsite": "txd-team.github.io/docsite-doc-v1",
+  "docs.quickonline": "d71413bb-114b-44b9-88e2-464e035736b2.repl.co",
   "documentation": "documentationjs.github.io", // noCF? (don´t add this in a new PR)
   "docx": "dolanmiu.github.io/docx",
   "dodec-design": "dodec-design.github.io",
