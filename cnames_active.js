@@ -1994,6 +1994,7 @@ var cnames_active = {
   "rasti": "8tentaculos.github.io/rasti",
   "rate-limiter-api": "abhisekp.github.io/rate-limiter-api",
   "ravelloh": "ravello-h.github.io",
+  "universal-api": "raxjs.github.io/universal-api",
   "rax": "alibaba.github.io/rax",
   "rax0-6": "raxjs.github.io/website-rax-v0.6",
   "rayo": "getrayo.github.io/rayo.js",
