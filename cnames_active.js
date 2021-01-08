@@ -1162,6 +1162,7 @@ var cnames_active = {
   "ipe-plugins": "inpageedit.github.io/Plugins",
   "ipv4": "licshee.github.io/IPv4-CIDR-Prefix-Merger",
   "ipynb": "jirutka.github.io/ipynb2html", // noCF
+  "iq": "cname.vercel-dns.com",
   "ir": "irjs.github.io/docs",
   "iresume": "supremefish.github.io/iresume",
   "iro": "jaames.github.io/iro.js",
