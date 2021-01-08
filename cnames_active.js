@@ -1640,7 +1640,7 @@ var cnames_active = {
   "mustaqim": "mustaqim.gitlab.io",
   "muto": "booleanapp.github.io/elastic-muto",
   "muxfm": "muxfm.github.io/docs",
-  "muiplayer":"muiplayer.github.io",
+  "muiplayer": "muiplayer.github.io",
   "mvc": "morozovsk.github.io/mvc", // noCF
   "mw": "agauniyal.github.io/mw",
   "my-app": "nirrius.github.io/my-app",
