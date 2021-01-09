@@ -1541,6 +1541,7 @@ var cnames_active = {
   "middy": "plnt9.github.io/middy",
   "miguelsr": "miguelsr.github.io", // noCF? (don´t add this in a new PR)
   "mikado": "nextapps-de.github.io/mikado",
+  "mike": "mikebars.github.io",
   "milesgitgud": "milesgitgud.github.io/homepage",
   "militia": "militia21.github.io/militia",
   "militia21": "militia21.github.io/militia21",
