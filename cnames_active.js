@@ -1154,7 +1154,7 @@ var cnames_active = {
   "intertwinestaff": "10edddac-f638-4b01-be83-90301467e7f6.repl.co",
   "interview": "fengzilong.github.io/interview-101",
   "invoicing": "vahe.github.io/InvoicingJs",
-  "ironeye": "https://blue-devil1134.github.io/IronEyeDocs/",
+  "ironeye": "blue-devil1134.github.io/IronEyeDocs",
   "ion": "ionjs-dev.github.io",
   "iori": "iori20091101.github.io",
   "iot": "product-engineer.github.io/iot.js.org", // noCF
