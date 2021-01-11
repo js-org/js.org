@@ -2490,6 +2490,7 @@ var cnames_active = {
   "teddy": "alias.zeit.co", // noCF
   "telaviv": "dustin-h.github.io/telaviv", // noCF? (don´t add this in a new PR)
   "telegraf": "telegraf.github.io/telegraf", // noCF? (don´t add this in a new PR)
+  "telegraf-old": "murka.github.io/telegraf-old",
   "teletype": "keyvank.github.io/teletype.js",
   "temme": "shinima.github.io/temme",
   "tequila": "tequila-js.github.io",
