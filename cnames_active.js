@@ -1982,6 +1982,7 @@ var cnames_active = {
   "quizizz": "zaida04.github.io/Quizizz.js",
   "quotes": "sawyerbx.github.io/quotes",
   "quotobot": "team-gigabyte.github.io/quotobot",
+  "quickuptime": "lebyy.github.io/quickuptimedocs",
   "r": "r-js.github.io",
   "ractive": "ractivejs.github.io",
   "rad": "rapid-application-development-js.github.io/RAD.JS", // noCF? (don´t add this in a new PR)
