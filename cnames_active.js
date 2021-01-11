@@ -2460,6 +2460,7 @@ var cnames_active = {
   "synergy": "synergyaddons.github.io/synergy-addons",
   "synth": "lukehorvat.github.io/synth-mood",
   "syr": "dmikey.github.io/syr",
+  "smartestchatbot": "lebyy.github.io/smartestchatbotdocs".
   "t": "l-js.mydevapp.tfuture.eu.org", // noCF
   "tab": "gdmcc.github.io/tab",
   "tagster": "goschevski.github.io/tagster", // noCF? (don´t add this in a new PR)
@@ -2862,8 +2863,7 @@ var cnames_active = {
   "zygds": "zygds.github.io/zygds.js.org",
   "zyh": "zyh-chopper.github.io/zyh",
   "zykj": "zykj.now.sh", // noCF
-  "zyy": "zyyou.github.io/notes",
-  "smartestchatbot": "lebyy.github.io/smartestchatbotdocs"
+  "zyy": "zyyou.github.io/notes"
   /*
    * please don't add your subdomain records down here!
    * insert them in alphabetical order to help reduce merge conflicts.
