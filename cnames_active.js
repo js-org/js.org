@@ -1905,7 +1905,7 @@ var cnames_active = {
   "popcorn-api": "nirewen.github.io/popcorn-api",
   "popper": "fezvrasta.github.io/popper.js",
   "portafolio-web": "velazquezadrian.github.io/Portafolio-web",
-  "portafolio2":"https://saforero65.github.io/portafolio2/",
+  "portafolio2": "saforero65.github.io/portafolio2",
   "portafolioacadeller": "acadeller.github.io/portafolioacadeller",
   "portafolioalejandrarobles": "alerobles3.github.io/portafolioalejandrarobles",
   "portafolioarnulfo": "arpior.github.io/Portafolio",
