@@ -1982,6 +1982,7 @@ var cnames_active = {
   "quizizz": "zaida04.github.io/Quizizz.js",
   "quotes": "sawyerbx.github.io/quotes",
   "quotobot": "team-gigabyte.github.io/quotobot",
+  "quickuptime": "lebyy.github.io/quickuptimedocs",
   "r": "r-js.github.io",
   "ractive": "ractivejs.github.io",
   "rad": "rapid-application-development-js.github.io/RAD.JS", // noCF? (don´t add this in a new PR)
@@ -2460,6 +2461,7 @@ var cnames_active = {
   "synergy": "synergyaddons.github.io/synergy-addons",
   "synth": "lukehorvat.github.io/synth-mood",
   "syr": "dmikey.github.io/syr",
+  "smartestchatbot": "lebyy.github.io/smartestchatbotdocs".
   "t": "l-js.mydevapp.tfuture.eu.org", // noCF
   "tab": "gdmcc.github.io/tab",
   "tagster": "goschevski.github.io/tagster", // noCF? (don´t add this in a new PR)
