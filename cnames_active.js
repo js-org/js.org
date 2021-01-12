@@ -2461,7 +2461,7 @@ var cnames_active = {
   "synergy": "synergyaddons.github.io/synergy-addons",
   "synth": "lukehorvat.github.io/synth-mood",
   "syr": "dmikey.github.io/syr",
-  "smartestchatbot": "lebyy.github.io/smartestchatbotdocs".
+  "smartestchatbot": "lebyy.github.io/smartestchatbotdocs",
   "t": "l-js.mydevapp.tfuture.eu.org", // noCF
   "tab": "gdmcc.github.io/tab",
   "tagster": "goschevski.github.io/tagster", // noCF? (don´t add this in a new PR)
