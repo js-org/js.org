@@ -1114,6 +1114,7 @@ var cnames_active = {
   "iffe": "iffe-team.github.io",
   "ifis": "razod.github.io/ifis",
   "iflow": "unadlib.github.io/iflow",
+  "igbot": "igrohan.github.io/igbot",
   "ignite": "ignitejscl.github.io",
   "iiilfaaa": "iiilfaaa.github.io",
   "iiimix": "iiimix.github.io/iiimixjsorg",
