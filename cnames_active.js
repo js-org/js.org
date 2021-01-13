@@ -479,7 +479,7 @@ var cnames_active = {
   "cnchar": "theajack.github.io/cnchar",
   "cndrew": "codemaster233.github.io",
   "codebooky": "hiteshsubnani0128.github.io/codebooky",
-  "codekajadoo" : "codekajadoo.github.io",
+  "codekajadoo": "codekajadoo.github.io",
   "codemade": "codemade.github.io", // noCF? (don´t add this in a new PR)
   "codepan": "egoist.github.io/codepan",
   "codesurfer": "code-surfer.netlify.com", // noCF
