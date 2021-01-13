@@ -710,6 +710,7 @@ var cnames_active = {
   "dream": "joeleeofficial.github.io/dream",
   "dreygur": "dreygur.github.io",
   "drome": "dromejs.github.io/drome.js.org",
+  "drop": "drop-org.github.io/website",
   "drupi": "drupijs.github.io/website",
   "dtdevs": "daantje1.github.io",
   "dtools": "mrsheldon.github.io/dtools.js",
