@@ -2779,6 +2779,7 @@ var cnames_active = {
   "within": "eric-brechemier.github.io/within", // noCF? (don´t add this in a new PR)
   "wiz": "karimsa.github.io/wiz", // noCF
   "wjy": "wjy20030407.github.io",
+  "wol": "woleo-z.github.io",
   "wonderest": "wonderest.github.io",
   "woodsman": "haximilian.github.io/woodsman",
   "wooyun": "jiji262.github.io/wooyun_articles",
