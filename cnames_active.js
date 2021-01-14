@@ -1919,6 +1919,7 @@ var cnames_active = {
   "pptx": "meshesha.github.io/jspptxjs.github.io",
   "pranshuchittora": "pranshuchittora.github.io",
   "pratyay": "neilblaze-v2.netlify.app",
+  "pcarvajalr": "github.com/pcarvajalr/miPortafolio",
   "precision": "jaiko86.github.io/precisionjs-home",
   "pretty-print-json": "center-key.github.io/pretty-print-json",
   "prettylog": "moosecoop.github.io/PrettyLog",
