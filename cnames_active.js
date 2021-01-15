@@ -2169,6 +2169,7 @@ var cnames_active = {
   "ru.single-spa": "single-spa.github.io/ru.single-spa.js.org", // noCF
   "rub": "rubo-21.github.io",
   "ruhuman": "ruhuman.github.io", // noCF? (don´t add this in a new PR)
+  "run": "woleo-z.github.io/js.run",
   "runty": "nderscore.github.io/runty",
   "russell": "teamtofu.github.io/russelljs",
   "russia-wc": "kaykayehnn.github.io/russia-wc",
