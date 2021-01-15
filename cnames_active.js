@@ -1676,7 +1676,6 @@ var cnames_active = {
   "nectar": "cname.vercel-dns.com",
   "nector": "cname.vercel-dns.com",
   "nefter": "nefter.github.io",
-  "nekoyasui": "nekoyasui.github.io/NekoYasui",
   "nemaniarjun": "nemaniarjun.github.io",
   "nemo": "paypal.github.io/nemo", // noCF? (don´t add this in a new PR)
   "neo4": "janpeter.github.io/neo4js",
