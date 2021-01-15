@@ -1985,6 +1985,7 @@ var cnames_active = {
   "quickuptime": "lebyy.github.io/quickuptimedocs",
   "r": "r-js.github.io",
   "ractive": "ractivejs.github.io",
+  "ractix": "ractix-demo.netlify.app",
   "rad": "rapid-application-development-js.github.io/RAD.JS", // noCF? (don´t add this in a new PR)
   "radi": "radi-js.github.io/radi",
   "radial": "ckgrafico.github.io/radial.js", // noCF? (don´t add this in a new PR)
