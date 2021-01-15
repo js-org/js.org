@@ -840,6 +840,7 @@ var cnames_active = {
   "facepalm": "santiagogil.github.io/facepalm",
   "facreative": "facreative.github.io",
   "fairy": "fairymeee.github.io",
+  "fakenote": "lunaisnotaboy.github.io/fakenote",
   "fallr": "faisalman.github.io/fallr-js",
   "fan": "garychamberlain.github.io/fan",
   "fancy-pants": "sukima.github.io/fancy-pants",
