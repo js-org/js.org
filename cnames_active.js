@@ -1733,6 +1733,7 @@ var cnames_active = {
   "notepad": "amitmerchant1990.github.io/notepad",
   "nothing": "cbtak.github.io/nothing",
   "notibar": "duyetdev.github.io/notibar.js",
+  "novasheets": "novasheets.github.io/website",
   "npkill": "voidcosmos.github.io/npkill",
   "npmer": "rumkin.github.io/npm-watch",
   "nsp": "hanul.github.io/NSP", // noCF? (don´t add this in a new PR)
