@@ -930,7 +930,7 @@ var cnames_active = {
   "fullscreen": "motyar.github.io/fullscreen",
   "funbook": "egoist.github.io/funbook",
   "funbot": "jch-notprogram.github.io/funbot-website",
-  "fungit": "kroyoo.github.io/js",
+  "fungit": "kroyoo.github.io/fungit.js.org/",
   "fusilli": "anthemaker.github.io/Fusilli.js",
   "futch": "jfbrennan.github.io/futch",
   "fxrmer": "fxrmer.github.io",
