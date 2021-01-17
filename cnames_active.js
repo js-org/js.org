@@ -2595,7 +2595,7 @@ var cnames_active = {
   "two": "jonobr1.github.io/two.js",
   "twt": "koj-co.github.io/twt",
   "tydel": "fahad19.github.io/tydel", // noCF? (don´t add this in a new PR)
-  "tylermwise": "tylermwise.github.io",
+  "tylermwise": "tylermwise.github.io/tylermwise",
   "typeahead": "corejavascript.github.io/typeahead.js",
   "typed-ui": "pi-cubed.github.io/typed-ui",
   "typeless": "typeless.netlify.com",
