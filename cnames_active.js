@@ -1977,6 +1977,7 @@ var cnames_active = {
   "quickdb": "hosting.gitbook.com",
   "quickerdb": "maniabots.github.io/QuickerDB",
   "quickmongo": "quickmongo.netlify.app",
+  "quickredis": "hosting.gitbook.io",
   "quincy": "quincyx.github.io",
   "quinten": "regyo.github.io/quinten",
   "quiz-app": "odevlord.github.io/Quiz-App", // noCF? (don´t add this in a new PR)
