@@ -2596,12 +2596,10 @@ var cnames_active = {
   "twt": "koj-co.github.io/twt",
   "tydel": "fahad19.github.io/tydel", // noCF? (don´t add this in a new PR)
   "tylermwise": "tylermwise.github.io",
-  "tmblox": "tylermwise.eu.org",
   "typeahead": "corejavascript.github.io/typeahead.js",
   "typed-ui": "pi-cubed.github.io/typed-ui",
   "typeless": "typeless.netlify.com",
   "typescript-play": "agentcooper.github.io/typescript-play",
-  "tylermwise": "tylermwise.github.io",
   "tyshemo": "tangshuang.github.io/tyshemo",
   "u": "hanul.github.io/UJS", // noCF? (don´t add this in a new PR)
   "uav": "unearth-inc.github.io/uav",
