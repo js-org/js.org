@@ -2601,6 +2601,7 @@ var cnames_active = {
   "typed-ui": "pi-cubed.github.io/typed-ui",
   "typeless": "typeless.netlify.com",
   "typescript-play": "agentcooper.github.io/typescript-play",
+  "tylermwise": "tylermwise.github.io",
   "tyshemo": "tangshuang.github.io/tyshemo",
   "u": "hanul.github.io/UJS", // noCF? (don´t add this in a new PR)
   "uav": "unearth-inc.github.io/uav",
