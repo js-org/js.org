@@ -628,6 +628,7 @@ var cnames_active = {
   "deterministic": "nodeguy.github.io/Deterministic.js",
   "developerfolio": "saadpasta.github.io/developerFolio",
   "devilapi": "devilapi.kazult.repl.co",
+  "devilowl": "website.kazult.repl.co",
   "devsession": "lukasbach.github.io/devsession",
   "devtr": "zmorcy.github.io/devtr.github.io",
   "dgelong": "alexeyraspopov.github.io/dgelong", // noCF? (don´t add this in a new PR)
