@@ -1199,7 +1199,7 @@ var cnames_active = {
   "james": "jamesrowen.github.io/james", // noCF? (don´t add this in a new PR)
   "jameshrx": "sawyerbx.github.io/james",
   "jargon": "hugogiraudel.github.io/SJSJ", // noCF? (don´t add this in a new PR)
-  "jasonliang": "jasonliang-dev.github.io",
+  "jasonliang": "jasonliang-deCNAMEv.github.io",
   "javali": "diogomoretti.github.io/javali",
   "javascript-kitchen": "jskitchen.github.io",
   "jayzou": "jayzou.github.io",
@@ -2176,6 +2176,7 @@ var cnames_active = {
   "rub": "rubo-21.github.io",
   "ruhuman": "ruhuman.github.io", // noCF? (don´t add this in a new PR)
   "runty": "nderscore.github.io/runty",
+  "rusbent":"nulltu.github.io/rusbent.matta",
   "russell": "teamtofu.github.io/russelljs",
   "russia-wc": "kaykayehnn.github.io/russia-wc",
   "rut": "jeam.github.io/rut",
