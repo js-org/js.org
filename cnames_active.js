@@ -1055,7 +1055,7 @@ var cnames_active = {
   "hegel": "jsmonk.github.io/hegel",
   "hello": "hello-js-org.github.io", // noCF? (don´t add this in a new PR)
   "helper": "tbnritzdoge.github.io/helperweb",
-  "hepsiburada": "berkaltiok.github.io/hepsiburada"
+  "hepsiburada": "berkaltiok.github.io/hepsiburada",
   "hexoplusplus": "hexoplusplus.github.io/docs",
   "hfsyun": "hfsyun.github.io",
   "hgs-quotes": "hgs-quotes.loseyourip.com",
