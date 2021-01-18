@@ -494,7 +494,7 @@ var cnames_active = {
   "common-utils-pkg": "iamdevlinph.github.io/common-utils-pkg",
   "community.os": "js.bydiscourse.com", // noCF? (don´t add this in a new PR)
   "compass": "glitch.edgeapp.net",
-  "connor"; "zerotwodevs.github.io/connor.github.io",
+  "connor": "zerotwodevs.github.io/connor.github.io",
   "compoundinterest": "nategiraudeau.github.io/compound-interest-calculator",
   "concurrent-tasks": "hosting.gitbook.com",
   "concursos": "mteyss.github.io/concursos", // noCF? (don´t add this in a new PR)
