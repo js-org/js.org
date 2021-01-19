@@ -2079,6 +2079,7 @@ var cnames_active = {
   "reduce": "reducejs.github.io", // noCF? (don´t add this in a new PR)
   "redux": "redux-docs.netlify.com", // noCF
   "redux-actions": "hosting.gitbook.com", // noCF
+  "redux-agent": "bard.github.io/redux-agent",
   "redux-aggregate": "redux-aggregate.netlify.com",
   "redux-arc": "viniciusdacal.github.io/redux-arc",
   "redux-data-structures": "adrienjt.github.io/redux-data-structures",
