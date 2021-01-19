@@ -2461,7 +2461,7 @@ var cnames_active = {
   "switchit": "dongryphon.github.io/switchit",
   "switchjoy": "switchjoy.github.io",
   "swordcss": "swordcss.netlify.app",
-  "swot": "swot-node.netlify.app", // noCF
+  "swot": "swot-node.netlify.app", //noCF
   "swup": "swup.github.io/docs",
   "sx": "screenrecx.netlify.app",
   "sxw": "sxwjs.github.io",
