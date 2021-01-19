@@ -629,7 +629,7 @@ var cnames_active = {
   "developerfolio": "saadpasta.github.io/developerFolio",
   "devilapi": "devilapi.kazult.repl.co",
   "devilowl": "website.kazult.repl.co",
-  "dev-panel": "https://github.com/Involve-Digital/dev-panel",
+  "dev-panel": "Involve-Digital.github.io/dev-panel",
   "devsession": "lukasbach.github.io/devsession",
   "devtr": "zmorcy.github.io/devtr.github.io",
   "dgelong": "alexeyraspopov.github.io/dgelong", // noCF? (don´t add this in a new PR)
