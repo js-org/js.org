@@ -2419,7 +2419,7 @@ var cnames_active = {
   "structure": "hosting.gitbook.com",
   "strudel": "strudeljs.netlify.com",
   "stuck": "linuxenko.github.io/unstuck-webpack",
-  "studquiz": "studsoul.github.io/studquiz"
+  "studquiz": "studsoul.github.io/studquiz",
   "studios": "botstudios.github.io/Studios",
   "style": "dhilipsiva.github.io/style.js", // noCF? (don´t add this in a new PR)
   "styled-css-grid": "styled-css-grid.netlify.com",
