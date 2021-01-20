@@ -2178,6 +2178,7 @@ var cnames_active = {
   "rub": "rubo-21.github.io",
   "ruhuman": "ruhuman.github.io", // noCF? (don´t add this in a new PR)
   "runty": "nderscore.github.io/runty",
+  "rusbent-matta": "https://nulltu.github.io/rusbent-matta",
   "russell": "teamtofu.github.io/russelljs",
   "russia-wc": "kaykayehnn.github.io/russia-wc",
   "rut": "jeam.github.io/rut",
