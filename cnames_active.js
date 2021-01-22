@@ -2798,6 +2798,7 @@ var cnames_active = {
   "wooyun": "jiji262.github.io/wooyun_articles",
   "woq": "nicamoq.github.io/WoqHentai",
   "wordywordy": "sverweij.github.io/wordywordy",
+  "workers": "worker-tools.github.io/workers.js.org",
   "worksnake": "worksnake.github.io",
   "wowufoundme": "wowufoundme.github.io",
   "writebar": "alexander-shvets.github.io/writebar",
