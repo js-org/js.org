@@ -175,12 +175,17 @@ a:hover {
 .hf .gh:hover {
   color: rgba(44, 37, 27, 0.6); }
 
-#err404 {
-  text-align: center; }
-  #err404 span {
-    font-size: 5.5em;
-    line-height: 1em;
-    font-weight: 700; }
+#err404, #err302 {
+  text-align: center;
+  margin:20vh 0;
+}
+#err404 span, #err302 span {
+  line-height: 1em;
+  font-weight: 700; }
+#err404 span {
+  font-size: 5.5em; }
+#err302 span {
+  font-size: 3.5em; }
 
 #typewriter {
   font-size: 2.5em;
