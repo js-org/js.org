@@ -643,6 +643,7 @@ var cnames_active = {
   "dinos": "0xflotus.github.io/dinos",
   "discodo": "sirubot.github.io/discodo.js",
   "discord": "discordjs.github.io/website",
+  "discords": "botstudios.github.io/discords.js.org",
   "discord-addons": "freiikdev.github.io/discord-addons",
   "discord-anti-spam": "michael-j-scofield.github.io/discord-anti-spam",
   "discord-bio": "asdfugil.github.io/discord.bio",
