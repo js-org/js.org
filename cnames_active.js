@@ -1076,6 +1076,7 @@ var cnames_active = {
   "hilo3d": "hiloteam.github.io/Hilo3d",
   "hippy": "zoomchan-cxj.github.io/Hippy",
   "hiteshsubnani": "hiteshsubnani0128.github.io/hiteshsubnani",
+  "hitung": "munajatibnu.github.io",
   "hiven": "hivenapp.github.io/hiven.js",
   "hk": "akura-co.github.io/hk", // noCF? (don´t add this in a new PR)
   "hltvbot": "nescabir.github.io/HLTVBot",
