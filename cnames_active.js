@@ -424,7 +424,7 @@ var cnames_active = {
   "cezanne": "hackdoor-io.github.io/cezanne",
   "cgoatone": "cgoatone.github.io",
   "chain-able": "fluents.github.io/chain-able-site",
-  "chameleon": "hosting.gitbook.com",
+  "chameleon": "glitch.edgeapp.net",
   "chandzhang": "chandzhang.github.io",
   "charge": "charge-js.netlify.com",
   "chariot": "riyacchi.github.io/chariot.js",
