@@ -499,6 +499,7 @@ var cnames_active = {
   "colors": "xv700.github.io/colors",
   "comixngn": "seun40.github.io/comix-ngn", // noCF? (don´t add this in a new PR)
   "command": "satoqz.github.io/command.ts",
+  "commandcord": "commandcord.github.io",
   "commandfox": "commandfox.github.io/mc-tools", // noCF? (don´t add this in a new PR)
   "commitlint": "conventional-changelog.github.io/commitlint",
   "common-utils-pkg": "iamdevlinph.github.io/common-utils-pkg",
