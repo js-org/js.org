@@ -2861,6 +2861,7 @@ var cnames_active = {
   "yusril": "yusrilhs.github.io", // noCF
   "yuye": "cyea.github.io",
   "yvm": "tophat.github.io/yvm",
+  "zaihua": "loli-sb.github.io/navigate/"
   "zaimu": "zaimu.netlify.app", // noCF
   "zaporizhzhia": "zaporizhzhiajs.github.io",
   "zea-cad": "zeainc.github.io/zea-cad",
@@ -2892,7 +2893,6 @@ var cnames_active = {
   "zyh": "zyh-chopper.github.io/zyh",
   "zykj": "zykj.now.sh", // noCF
   "zyy": "zyyou.github.io/notes"
-  "zaihua": "loli-sb.github.io/navigate/"
   /*
    * please don't add your subdomain records down here!
    * insert them in alphabetical order to help reduce merge conflicts.
