@@ -551,6 +551,7 @@ var cnames_active = {
   "create-project": "chalarangelo.github.io/create-js-project",
   "createrest": "atomixinteractions.github.io/createrest",
   "creaturegen": "ryancromebook.github.io/creaturegen",
+  "cristiangt9": "cristiangt9.github.io",
   "crq": "shbwb.github.io",
   "crunch": "vukicevic.github.io/crunch", // noCF? (don´t add this in a new PR)
   "cryptokey": "rumkin.github.com/crypto-key",
@@ -2636,7 +2637,7 @@ var cnames_active = {
   "underbase": "sundowndev.github.io/underbase",
   "undercut": "undercut.netlify.app",
   "underline": "brightskyz.github.io/underline",
-  "uneditable": "iamcristye.github.io/Uneditable.js",
+  "uneditable": "iamttye.github.io/Uneditable.js",
   "unexpected": "unexpectedjs.github.io", // noCF? (don´t add this in a new PR)
   "uni": "arcadiogarcia.github.io/UNIJS", // noCF? (don´t add this in a new PR)
   "unicorn": "mirai-explorer.github.io/unicorn",
