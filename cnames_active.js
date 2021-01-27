@@ -257,7 +257,7 @@ var cnames_active = {
   "balm": "balmjs.github.io/balm.js.org",
   "bananasplit": "diegoulloao.github.io/bananasplit-js",
   "bancho": "thepoon.github.io/bancho.js",
-  "bandicoot": "canopytax.github.io/bandicoot.js.org",
+  "bandimot": "canopytax.github.io/bandicoot.js.org",
   "bandung": "zufrizalyordan.github.io/bandungjs",
   "bane": "kemosaf.github.io/bane",
   "baoqi": "baoqi-zhong.github.io",
@@ -499,6 +499,7 @@ var cnames_active = {
   "colors": "xv700.github.io/colors",
   "comixngn": "seun40.github.io/comix-ngn", // noCF? (don´t add this in a new PR)
   "command": "satoqz.github.io/command.ts",
+  "commandcord": "commandcord.github.io",
   "commandfox": "commandfox.github.io/mc-tools", // noCF? (don´t add this in a new PR)
   "commitlint": "conventional-changelog.github.io/commitlint",
   "common-utils-pkg": "iamdevlinph.github.io/common-utils-pkg",
