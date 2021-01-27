@@ -1803,6 +1803,7 @@ var cnames_active = {
   "os": "91.247.228.125", // noCF
   "osagai": "henriquelimas.github.io/osagai",
   "oscillator": "lukehorvat.github.io/super-oscillator",
+  "oskar": "oskarkarpinski.github.io",
   "osom": "kikobeats.github.io/osom",
   "otimizacao": "jmmccota.github.io/Otimizacao",
   "ourcord": "ourcord.netlify.app",
