@@ -257,7 +257,7 @@ var cnames_active = {
   "balm": "balmjs.github.io/balm.js.org",
   "bananasplit": "diegoulloao.github.io/bananasplit-js",
   "bancho": "thepoon.github.io/bancho.js",
-  "bandimot": "canopytax.github.io/bandicoot.js.org",
+  "bandicoot": "canopytax.github.io/bandicoot.js.org",
   "bandung": "zufrizalyordan.github.io/bandungjs",
   "bane": "kemosaf.github.io/bane",
   "baoqi": "baoqi-zhong.github.io",
