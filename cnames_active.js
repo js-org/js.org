@@ -1846,7 +1846,7 @@ var cnames_active = {
   "pathtrace": "kovacsv.github.io/WebGLPathTrace", // noCF? (don´t add this in a new PR)
   "patrick": "patrick-jun.github.io",
   "pax": "nathan.github.io/pax",
-  "pdf": "iamcristye.github.io/PDF",
+  "pdf": "iamtye.github.io/PDF",
   "pdf-lib": "hopding.github.io/pdf-lib", // noCF
   "pdfutils": "gottox.github.io/node-pdfutils", // noCF? (don´t add this in a new PR)
   "pdp-elements": "go4cas.github.io/pdp_elements", // noCF? (don´t add this in a new PR)
@@ -2637,7 +2637,7 @@ var cnames_active = {
   "underbase": "sundowndev.github.io/underbase",
   "undercut": "undercut.netlify.app",
   "underline": "brightskyz.github.io/underline",
-  "uneditable": "iamcristye.github.io/Uneditable.js",
+  "uneditable": "iamttye.github.io/Uneditable.js",
   "unexpected": "unexpectedjs.github.io", // noCF? (don´t add this in a new PR)
   "uni": "arcadiogarcia.github.io/UNIJS", // noCF? (don´t add this in a new PR)
   "unicorn": "mirai-explorer.github.io/unicorn",
