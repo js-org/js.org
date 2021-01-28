@@ -1396,6 +1396,7 @@ var cnames_active = {
   "lgs": "lgsturkiye.github.io/lgs",
   "li": "mattsimmons1.github.io/li",
   "libphonenumbers": "libphonenumbers.github.io",
+  "lib": "https://libraryjs.github.io/LibJS-Website",
   "lifeisyoung": "lifeisyoung.github.io",
   "lifx": "fncxpro.github.io/lifx.js",
   "light": "lightjs.netlify.com",
