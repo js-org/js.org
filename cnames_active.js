@@ -1217,6 +1217,7 @@ var cnames_active = {
   "jcord": "discord-jcord.github.io/jcord",
   "jdc": "jdceeb.github.io",
   "jds": "alimanman.github.io/jds",
+  "je": "cname.vercel-dns.com", // noCF
   "jena": "javascript-in-jena.github.io", // noCF
   "jessm": "jessi-mhernandez.github.io/JessicaM",
   "jetaimetantquetuestoi": "dakokonutboi.github.io/jetaimetantquetuestoi",
@@ -1516,6 +1517,7 @@ var cnames_active = {
   "maxtracking": "maxtracking.github.io", // noCF? (don´t add this in a new PR)
   "mc": "magicarbon.github.io/mc", // noCF? (don´t add this in a new PR)
   "mcul": "teamtofu.github.io/mcul",
+  "md": "cname.vercel-dns.com", // noCF
   "mdbf-css": "more-beautiful-div-framework.github.io",
   "mde": "lukehorvat.github.io/mde-soundboard",
   "mechan": "dusterthefirst.github.io/mechan.js",
