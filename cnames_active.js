@@ -38,6 +38,7 @@
  */
 
 var cnames_active = {
+  "wheater-app": "daxas-boop.github.io/weather-app"
   "": "js-org.github.io",
   "01mz": "01mz.github.io",
   "100dayz": "deadcoder0904.github.io/100dayz",
