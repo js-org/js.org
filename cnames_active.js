@@ -316,6 +316,7 @@ var cnames_active = {
   "blotter": "bradley.github.io/Blotter",
   "bloxy": "visualizememe.github.io/bloxy",
   "blueconfig": "a-312.github.io/node-blueconfig",
+  "blueprint": "xpyxel.github.io/blueprint",
   "bluesky01st": "bluesky01st.github.io",
   "blurple": "blurplejs.github.io/docs",
   "bo": "lfb.github.io/bojs",
