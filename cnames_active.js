@@ -2527,6 +2527,7 @@ var cnames_active = {
   "textmark": "sahilister.github.io/textmark",
   "texy": "egoist.github.io/texy",
   "thea": "idokutela.github.io/thea",
+  "theapilist": "https://theapilist.github.io/website",
   "thegrid": "antoniandre.github.io/grid",
   "thehorizon": "kavanmevada.github.io/the-horizon-blog",
   "theme-next": "hexo-theme-next.netlify.app",
