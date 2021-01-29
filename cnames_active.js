@@ -1005,6 +1005,7 @@ var cnames_active = {
   "goober": "cristianbote.github.io/goober",
   "good": "amirhossein693.github.io/good",
   "goodshare": "koddr.github.io/goodshare.js",
+  "gosling": "gosling-lang.github.io/gosling.js",
   "gotanda": "gotandajs.github.io",
   "gottasurf": "jottocraft.github.io/surf",
   "govind": "emgk.github.io",
