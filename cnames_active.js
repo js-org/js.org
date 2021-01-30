@@ -97,6 +97,7 @@ var cnames_active = {
   "aemp": "afexteam.github.io/aemp",
   "aeon": "flazepe.github.io/aeon-web",
   "affiliate": "teamtofu.github.io/affiliate",
+  "afilters": "dmytrohoi.github.io/afilters.js",
   "afmsavage": "afmsavage.github.io",
   "agentnpm": "meetping.github.io/agentnpm",
   "aghasemi": "aghasemi.github.io",
