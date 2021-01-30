@@ -1516,7 +1516,8 @@ var cnames_active = {
   "max": "toorusr.github.io/max.js.org",
   "maxnachlinger": "maxnachlinger.github.io", // noCF? (don´t add this in a new PR)
   "maxtracking": "maxtracking.github.io", // noCF? (don´t add this in a new PR)
-  "mc": "magicarbon.github.io/mc", // noCF? (don´t add this in a new PR)
+  "mc": "magicarbon.github.io/mc",
+  "mcdate": "mcdksr.github.io/mcddate",
   "mcul": "teamtofu.github.io/mcul",
   "md": "cname.vercel-dns.com", // noCF
   "mdbf-css": "more-beautiful-div-framework.github.io",
