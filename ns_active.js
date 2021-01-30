@@ -19,8 +19,8 @@
   "lolifamily": ["glen.ns.cloudflare.com","melany.ns.cloudflare.com"],
   "ruby": ["alexis.ns.cloudflare.com", "connie.ns.cloudflare.com"],
   "samplasion": ["ns31.cloudns.net", "ns32.cloudns.net", "ns33.cloudns.net", "ns34.cloudns.net"],
-  "shebang": ["dns1.p01.nsone.net", "dns2.p01.nsone.net", "dns3.p01.nsone.net", "dns4.p01.nsone.net"],
-  "scionsic": ["lia.ns.cloudflare.com", "tadeo.ns.cloudflare.com"]
+  "scionsic": ["lia.ns.cloudflare.com", "tadeo.ns.cloudflare.com"],
+  "shebang": ["dns1.p01.nsone.net", "dns2.p01.nsone.net", "dns3.p01.nsone.net", "dns4.p01.nsone.net"]
  }
 
 /*
