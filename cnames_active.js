@@ -608,7 +608,6 @@ var cnames_active = {
   "dbo": "z3ta.github.io/dbo", // noCF? (don´t add this in a new PR)
   "dbothook": "dbots-pkg.github.io/dbothook-website",
   "dbots": "dbots-pkg.github.io/dbots-website",
-  "dbt": "aakhilv.github.io/dbt",
   "deck-of-cards": "pakastin.github.io/deck-of-cards",
   "declarativ": "fennifith.github.io/declarativ", // noCF
   "deep-mandelbrot": "munsocket.github.io/deep-mandelbrot",
