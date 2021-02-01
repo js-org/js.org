@@ -915,6 +915,7 @@ var cnames_active = {
   "food": "teamtofu.github.io/foodweb",
   "forceify": "dalisoft.github.io/Forceify",
   "form": "the94air.github.io/form",
+  "former": "fxrmer.js.org",
   "formred": "zewish.github.io/formred",
   "formvuelate": "formvuelate.netlify.app",
   "fortnite": "ickerio.github.io/fortnite.js",
