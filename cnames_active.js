@@ -988,6 +988,7 @@ var cnames_active = {
   "gitmoji": "jeff-tian.github.io/gitmoji",
   "gitstyle": "inKerk.github.io/git-style-guide",
   "gka": "gkajs.github.io/gka",
+  "glass": "fxrmer.github.io/glass",
   "glaze": "kripod.github.io/glaze",
   "glitchapi": "cname.vercel-dns.com",
   "glitchy-scratch": "glitchy-scratch.github.io",
