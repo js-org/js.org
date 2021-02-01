@@ -945,6 +945,7 @@ var cnames_active = {
   "funbot": "jch-notprogram.github.io/funbot-website",
   "fusilli": "anthemaker.github.io/Fusilli.js",
   "futch": "jfbrennan.github.io/futch",
+  "fxrmer": "fxrmer.github.io",
   "fyi": "tobihrbr.github.io/fyi",
   "g": "nodebox.github.io/g.js",
   "g-point": "bdvela.github.io/g-point",
