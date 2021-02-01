@@ -2078,6 +2078,7 @@ var cnames_active = {
   "readit": "teebu.github.io/readit",
   "realt": "vnkitaev.github.io/realt",
   "realtime": "datamcfly.github.io/realtimejs", // noCF? (don´t add this in a new PR)
+  "realyulin": "realyulin.github.io",
   "ream": "ream.netlify.com",
   "reask": "mcsh.github.io/reask",
   "reassign": "hasharray.github.io/reassign.js",
