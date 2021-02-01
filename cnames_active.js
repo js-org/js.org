@@ -377,7 +377,7 @@ var cnames_active = {
   "caissa": "agentx-cgn.github.io/caissa",
   "caizhiyuannn": "caizhiyuannn.github.io",
   "cake-boss": "dannytatom.github.io/cake-boss",
-  "calc": "fxrmer.js.org/calculator",
+  "calc": "fxrmer.js.org/calc",
   "calculator": "fxrmer.js.org/calculator",
   "calcy": "odevlord.github.io/Calcy", // noCF? (don´t add this in a new PR)
   "calendarios": "helpdev.github.io/Calendarios", // noCF? (don´t add this in a new PR)
@@ -953,7 +953,6 @@ var cnames_active = {
   "gitstyle": "inKerk.github.io/git-style-guide",
   "gka": "gkajs.github.io/gka",
   "glass": "fxrmer.github.io/glass",
-  "glassui": "fxrmer.github.io/glass",
   "glaze": "kripod.github.io/glaze",
   "glitterbot": "glitterbot.netlify.com", // noCF
   "glize": "datamart.github.io/Glize",
