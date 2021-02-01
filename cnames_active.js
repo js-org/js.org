@@ -420,6 +420,7 @@ var cnames_active = {
   "cebu": "javascriptcebu.netlify.com",
   "celery-node": "actumn.github.io/celery.node",
   "cenap": "cenapyuce.github.io",
+  "cem": "cemicyz.github.io",
   "cennznet": "cennznet.github.io/cennznet-ui",
   "ceruttimaicon": "ceruttimaicon.github.io",
   "cesaralvarez": "cesaralvrz.github.io/cesaralvarez",
