@@ -388,6 +388,7 @@ var cnames_active = {
   "caizhiyuannn": "caizhiyuannn.github.io",
   "cake-boss": "dannytatom.github.io/cake-boss",
   "calcy": "odevlord.github.io/Calcy", // noCF? (don´t add this in a new PR)
+  "calc": "fxrmer.github.io/calc"
   "calendarios": "helpdev.github.io/Calendarios", // noCF? (don´t add this in a new PR)
   "candy": "candy02058912.github.io/portfolio",
   "candyland": "candyland-js.github.io/candyland",
