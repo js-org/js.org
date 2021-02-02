@@ -2335,6 +2335,7 @@ var cnames_active = {
   "slides": "deadcoder0904.github.io/slides-official-website",
   "slidey": "thegreatrazz.github.io/slidey",
   "slim": "eavichay.github.io/slim.js",
+  "slingex": "slingexdev.github.io",
   "slinky": "alizahid.github.io/slinky",
   "smart-text-editor": "smart-text-editor-official.github.io/ste",
   "smartquotes": "kellym.github.io/smartquotes.js",
