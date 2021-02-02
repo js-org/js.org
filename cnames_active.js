@@ -2680,6 +2680,7 @@ var cnames_active = {
   "v4f": "v4f.netlify.com",
   "vac": "mlinquan.github.io/vue-awesome-countdown",
   "vagus": "thevagus.github.io",
+  "valence-native": "valence-native.github.io/valence-native"
   "valentin": "valentinvieriu.github.io", // noCF? (don´t add this in a new PR)
   "validarium": "lundegaard.github.io/validarium",
   "validator": "ppoffice.github.io/validator.js", // noCF? (don´t add this in a new PR)
