@@ -1537,6 +1537,7 @@ var cnames_active = {
   "melies-hugo": "cristinafsanz.github.io/melies-hugo",
   "melody": "trivago.github.io/melody-web",
   "memento": "jeanfortheweb.gitbooks.io/memento",
+  "mengd": "cname.vercel-dns.com",
   "menghafalquran": "mzaini30.github.io/menghafal-quran",
   "mercury": "henryqw.github.io/mercury",
   "merkletree": "miguelmota.github.io/merkletreejs",
