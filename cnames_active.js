@@ -2328,6 +2328,7 @@ var cnames_active = {
   "sksamim": "esksamim.github.io/sksamim",
   "slang": "ramadis.github.io/slang", // noCF? (don´t add this in a new PR)
   "slap": "slap-programming.github.io",
+  "slash": "slash-labs.github.io",
   "slash-create": "snazzah.github.io/slash-create-website",
   "slate": "iamshouvikmitra.github.io/slate",
   "slidemenu": "alexkratky.github.io/SlideMenu.js",
