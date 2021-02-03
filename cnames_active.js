@@ -1076,7 +1076,7 @@ var cnames_active = {
   "hibiki": "claritymoe.github.io/hibiki",
   "hickacou": "hickacou.github.io",
   "hifun": "cname.vercel-dns.com",
-  "highfive": "react-highfive.netlify.app",
+  "highfive": "react-highfive.netlify.app", // noCF
   "highway": "dogstudio.github.io/highway",
   "hijiangtao": "hijiangtao.github.io/hijiangtao.js.org",
   "hilo": "erikroyall.github.io/hilo", // noCF? (don´t add this in a new PR)
