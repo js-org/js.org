@@ -1416,6 +1416,7 @@ var cnames_active = {
   "limitrr": "eddiejibson.github.io/limitrr",
   "lineup": "lineupjs.github.io",
   "lineupengine": "lineupjs.github.io/lineupengine.js.org",
+  "lineup-lite": "lineup-lite.netlify.app",
   "ling": "wangziling.github.io",
   "linghucong": "jiji262.github.io",
   "lingui": "cname.vercel-dns.com", // noCF
