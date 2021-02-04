@@ -2834,6 +2834,7 @@ var cnames_active = {
   "wwcache": "wwcache.github.io",
   "www.siddharth": "chaudhs769.github.io/siddharth.js.org", // noCF
   "wyfe": "wangyuanstudio.github.io/WYFE", // noCF? (don´t add this in a new PR)
+  "wyjzc": "nivalsoul.github.io/wyjzc",
   "wynncraft": "frawolf.github.io/wynncraft.js",
   "wysc": "coffeebank.github.io/wysc-vue",
   "wz": "wangzhen-CHN.github.io/wz",
