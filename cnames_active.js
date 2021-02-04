@@ -2908,6 +2908,7 @@ var cnames_active = {
   "zygds": "zygds.github.io/zygds.js.org",
   "zyh": "zyh-chopper.github.io/zyh",
   "zykj": "zykj.now.sh", // noCF
+  "pagic": "hu-qi.github.io/pagic_template", // noCF
   "zyy": "zyyou.github.io/notes"
   /*
    * please don't add your subdomain records down here!
