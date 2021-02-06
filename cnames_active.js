@@ -1914,6 +1914,7 @@ var cnames_active = {
   "plexr": "plexrbot.github.io",
   "pliers": "pliersjs.github.io", // noCF? (don´t add this in a new PR)
   "pnpm": "pnpm.github.io",
+  "pegasusdb": "tatsumaki-coderr.github.io/pegasus.db",
   "pod": "mileallen.github.io/pod",
   "podivilov": "podivilov.github.io",
   "poegems": "max-arias.github.io/poeGems", // noCF? (don´t add this in a new PR)
