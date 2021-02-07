@@ -38,6 +38,7 @@
  */
 
 var cnames_active = {
+  "nodsu": "ethamitc.github.io/nodsu",
   "": "js-org.github.io",
   "01mz": "01mz.github.io",
   "100dayz": "deadcoder0904.github.io/100dayz",
