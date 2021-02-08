@@ -1248,6 +1248,7 @@ var cnames_active = {
   "josep": "warlock.github.io",
   "jparticles": "jparticles.github.io/Documentation",
   "js-fixerr": "anujsinghwd.github.io/js-fixerr",
+  "jsbattle": "hiteshsubnani0128.github.io/jsbattle",
   "jscord": "thepoptartcrpr.github.io/jscord",
   "jsdec": "liulihaocai.github.io/JSDec",
   "jslabs": "cname.vercel-dns.com", // noCF
