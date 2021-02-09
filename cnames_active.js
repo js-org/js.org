@@ -1111,6 +1111,7 @@ var cnames_active = {
   "hugorocaproyectos": "hugoroca.github.io/coleccion-proyectos",
   "human": "human-js.gitbooks.io", // noCF? (don´t add this in a new PR)
   "humble": "humblejs.github.io",
+  "huqi": "hu-qi.github.io",
   "hx": "hx-js-org.d53923.flexbalancer.net",
   "hybrids": "hybridsjs.github.io/hybrids",
   "hyde": "gheek.github.io/hyde", // noCF? (don´t add this in a new PR)
@@ -2911,7 +2912,6 @@ var cnames_active = {
   "zygds": "zygds.github.io/zygds.js.org",
   "zyh": "zyh-chopper.github.io/zyh",
   "zykj": "zykj.now.sh", // noCF
-  "huqi": "hu-qi.github.io",
   "zyy": "zyyou.github.io/notes"
   /*
    * please don't add your subdomain records down here!
