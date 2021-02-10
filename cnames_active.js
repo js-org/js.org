@@ -1517,6 +1517,7 @@ var cnames_active = {
   "matrix-rref-solver": "arisweedler.github.io/matrix-rref-solver",
   "matters2ipfs": "contributionls.github.io/matters2ipfs",
   "matthias-schuetz": "matthias-schuetz.github.io", // noCF? (don´t add this in a new PR)
+  "matthewsoft": "matthew-soft.github.io/matthewsoft.js.org",
   "mauricio": "mauricionobrega.github.io/www",
   "max": "toorusr.github.io/max.js.org",
   "maxnachlinger": "maxnachlinger.github.io", // noCF? (don´t add this in a new PR)
