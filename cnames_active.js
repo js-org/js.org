@@ -314,6 +314,7 @@ var cnames_active = {
   "blog543": "saepulfariz.github.io/blog543",
   "blogzam": "zam27.github.io/blogzam",
   "blogzen": "mzaini30.github.io/blogzen",
+  "blooket": "redyetidev.github.io/blooket.js"
   "bloomer": "algusdark.github.io/bloomer",
   "blotter": "bradley.github.io/Blotter",
   "bloxy": "visualizememe.github.io/bloxy",
