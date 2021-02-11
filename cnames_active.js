@@ -2528,6 +2528,7 @@ var cnames_active = {
   "telegraf": "telegraf.github.io/telegraf", // noCF? (don´t add this in a new PR)
   "telegraf-old": "murka.github.io/telegraf-old",
   "telegram": "yuvapoojary.github.io/telegram.js-website",
+  "telegramweb": "telegramweb.github.io",
   "teletype": "keyvank.github.io/teletype.js",
   "temme": "shinima.github.io/temme",
   "tequila": "tequila-js.github.io",
