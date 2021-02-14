@@ -871,6 +871,7 @@ var cnames_active = {
   "feeble": "feeblejs.github.io/feeble",
   "feedback": "mubaidr.github.io/feedback.io",
   "fela": "felajs.vercel.app",
+  "ferdi-dev": "ferdiwardiyan.github.io",
   "felipelevinir": "felipelevinir.github.io/Portafolio",
   "fem": "frani.github.io/fem",
   "festercluck": "festercluck.github.io", // noCF? (don´t add this in a new PR)
