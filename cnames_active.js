@@ -301,6 +301,7 @@ var cnames_active = {
   "bijou": "explosion-scratch.github.io/bijou.js",
   "bin": "sujalgoel.github.io/impostor-bin",
   "bind-action-dispatchers": "cchamberlain.github.io/bind-action-dispatchers", // noCF? (don´t add this in a new PR)
+  "bingsu": "bingsu-js.gitlab.io",
   "bionic": "1c183932-46a9-45d7-9080-4738a7d432c7.repl.co",
   "biu": "aprilorange.github.io/biu", // noCF? (don´t add this in a new PR)
   "black-fury": "black-fury.github.io",
