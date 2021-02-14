@@ -78,6 +78,7 @@ var cnames_active = {
   "accordion": "awps.github.io/Accordion.JS",
   "acebooks": "mohamed0group.github.io/acebooks",
   "acegroup": "mohamed0group.github.io/acegroup",
+  "ferdiwardiyan": "ferdiwardiyan.github.io",
   "acho": "achojs.github.io/acho",
   "acm": "drew233.github.io/calander",
   "acme": "makepost.github.io/acme-commander",
