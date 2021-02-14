@@ -867,6 +867,7 @@ var cnames_active = {
   "fcbosque": "cronopio.github.io/fcbosque", // noCF? (don´t add this in a new PR)
   "fdl": "fdljs.now.sh",
   "fe": "xcss.github.io/FE",
+  "ferdi-dev": "ferdiwardiyan.github.io",
   "feature-u": "kevinast.github.io/feature-u",
   "feeble": "feeblejs.github.io/feeble",
   "feedback": "mubaidr.github.io/feedback.io",
