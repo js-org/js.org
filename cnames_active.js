@@ -1935,6 +1935,7 @@ var cnames_active = {
   "polythene": "arthurclemens.github.io/Polythene", // noCF? (don´t add this in a new PR)
   "pomidorus": "tatyshev.github.io/pomidorus",
   "pong-zh": "xiaozhu2021.github.io/javascript-pong",
+  "poornaprag": "poornaprag.github.io",
   "popcorn-api": "nirewen.github.io/popcorn-api",
   "popper": "fezvrasta.github.io/popper.js",
   "portafolio-web": "velazquezadrian.github.io/Portafolio-web",
