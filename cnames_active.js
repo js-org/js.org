@@ -2502,6 +2502,7 @@ var cnames_active = {
   "synergy": "synergyaddons.github.io/synergy-addons",
   "synth": "lukehorvat.github.io/synth-mood",
   "syr": "dmikey.github.io/syr",
+  "sxcu": "m-phoenix852.github.io/sxcu.js-docs"
   "smartestchatbot": "lebyy.github.io/smartestchatbotdocs".
   "t": "l-js.mydevapp.tfuture.eu.org", // noCF
   "tab": "gdmcc.github.io/tab",
