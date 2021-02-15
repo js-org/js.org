@@ -47,6 +47,7 @@ var cnames_active = {
   "1c": "oknosoft.github.io/1c",
   "1diaboliko84": "1diaboliko84.github.io",
   "21cm": "21cm.github.io",
+  "2500dog100": "2500dog100.github.io"
   "23chemistrycamp": "nchuchemistry.github.io/23chemistrycamp",
   "2tube": "you2php.github.io/you2php",
   "360": "360daili.github.io/360daili",
