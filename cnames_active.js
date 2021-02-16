@@ -1001,7 +1001,6 @@ var cnames_active = {
   "glottologist": "arguiot.github.io/Glottologist",
   "gnatale": "giosooul.github.io/gnatale.github.io",
   "god": "godow.github.io",
-  "godzm4tt3o": "godzm4tt3o.github.io",
   "gogs": "rpgjw54g31k5yd4q.preview.edgeapp.net",
   "goji": "airbnb.github.io/goji-js",
   "gol": "goljs.github.io/GoL",
