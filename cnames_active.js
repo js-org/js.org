@@ -943,6 +943,7 @@ var cnames_active = {
   "gnatale": "giosooul.github.io/gnatale.github.io",
   "god": "godow.github.io",
   "godzm4tt3o": "godzm4tt3o.github.io",
+  "gogs": "rpgjw54g31k5yd4q.preview.edgeapp.net",
   "goji": "airbnb.github.io/goji-js",
   "gol": "goljs.github.io/GoL",
   "gondel": "namics.github.io/gondel",
@@ -2304,7 +2305,7 @@ var cnames_active = {
   "str": "manelet.github.io/str",
   "stratic": "straticjs.github.io",
   "stress": "julindra.github.io/stress.js",
-  "structure": "hosting.gitbook.com",
+  "structure": "hosting.gitbook.io", //noCF
   "strudel": "strudeljs.netlify.com",
   "stuck": "linuxenko.github.io/unstuck-webpack",
   "studios": "botstudios.github.io/Studios",
@@ -2358,6 +2359,8 @@ var cnames_active = {
   "synergy": "synergyaddons.github.io/synergy-addons",
   "synth": "lukehorvat.github.io/synth-mood",
   "syr": "dmikey.github.io/syr",
+  "sxcu": "m-phoenix852.github.io/sxcu.js-docs",
+  "smartestchatbot": "lebyy.github.io/smartestchatbotdocs",
   "t": "l-js.mydevapp.tfuture.eu.org", // noCF
   "tab": "gdmcc.github.io/tab",
   "tagster": "goschevski.github.io/tagster", // noCF? (don´t add this in a new PR)
