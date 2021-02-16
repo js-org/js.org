@@ -1484,7 +1484,7 @@ var cnames_active = {
   "maker": "microsoft.github.io/maker.js",
   "makes": "makesjs.github.io",
   "mali": "malijs.github.io",
-  "mamun":"abdullahalmamun17.github.io/portfolio",
+  "mamun": "abdullahalmamun17.github.io/portfolio",
   "manic": "manicjs.github.io",
   "mansiart": "mansiart.github.io/mansiart",
   "manu": "botsdemanu.github.io/manu",
