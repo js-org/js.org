@@ -1287,6 +1287,7 @@ var cnames_active = {
   "kaiya": "k.kaiya.vercel.app", // noCF
   "kali": "kali65536.github.io",
   "kalm": "fed135.github.io/kalm.github.io", // noCF? (don´t add this in a new PR)
+  "kalmbot": "kalmbot.github.io",
   "kampala": "javascriptkampala.github.io/kampala",
   "kanji": "eidoriantan.github.io/kanji.js",
   "karateblobs": "karatewumpus.github.io/karateblobs",
