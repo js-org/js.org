@@ -2448,7 +2448,7 @@ var cnames_active = {
   "str": "manelet.github.io/str",
   "stratic": "straticjs.github.io",
   "stress": "julindra.github.io/stress.js",
-  "structure": "hosting.gitbook.com",
+  "structure": "hosting.gitbook.com", //noCF
   "strudel": "strudeljs.netlify.com",
   "stuck": "linuxenko.github.io/unstuck-webpack",
   "studios": "botstudios.github.io/Studios",
