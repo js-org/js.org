@@ -80,7 +80,8 @@ a {
 .hf {
   margin: 1.5em -4px;
   border-collapse: separate;
-  border-spacing: 4px; }
+  border-spacing: 4px;
+  clear:both;}
   .hf td {
     vertical-align: bottom;
     margin: 0;
@@ -177,7 +178,7 @@ a:hover {
 
 #err404, #err302 {
   text-align: center;
-  margin:20vh 0;
+  margin:15vh 0 2vh;
 }
 #err404 span, #err302 span {
   line-height: 1em;
