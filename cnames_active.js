@@ -708,6 +708,7 @@ var cnames_active = {
   "ebnsina": "ebnsina.github.io/js.ebnsina.me",
   "echo": "licshee.github.io/echo.js",
   "eco": "quick-eco.netlify.app",
+  "ecomycr": "https://ecomycr.github.io"
   "ecstar": "mouse484.github.io/Ecstar",
   "ed2k": "sunnyli.github.io/ed2k.js",
   "ef": "classicoldsong.github.io/ef.js.org",
