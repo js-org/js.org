@@ -2660,6 +2660,7 @@ var cnames_active = {
   "wind": "windium.herokuapp.com",
   "windows": "munchkinhalfling.github.io/wasm-windows",
   "wiot": "iotcat.github.io/wIoT",
+  "wire": "wire-ts.github.io",
   "wired": "mattx8y.github.io/wired-js",
   "with-immutable-props-to-js": "tophat.github.io/with-immutable-props-to-js",
   "within": "eric-brechemier.github.io/within", // noCF? (don´t add this in a new PR)
