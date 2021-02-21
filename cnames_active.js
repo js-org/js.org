@@ -552,6 +552,7 @@ var cnames_active = {
   "cyris": "iCyris.github.io",
   "d-patterns": "alias.zeit.co", // noCF
   "d4": "joelburget.github.io/d4",
+  "danielflorescv": "danyflores.github.io/portafolio_daniel/#home",
   "daily.tmr": "ttttmr.github.io/daily", // noCF
   "daisy": "saadeghi.github.io/daisyui-demo",
   "dakokonutboi": "dakokonutboi.github.io/portfolio",
