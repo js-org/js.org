@@ -1554,7 +1554,7 @@ var cnames_active = {
   "moro": "omidfi.github.io/moro",
   "morocco": "moroccojs.github.io",
   "morse": "the-silver-project.github.io/morse",
-  "motion.vueuse": "vueuse-motion.netlify.app",
+  "motion.vueuse": "vueuse-motion.netlify.app", // noCF
   "moviedex": "calm-squash-zqh3z3dg2s83u9gopkkeg10d.herokudns.com",
   "mp": "cncdn.github.io",
   "mp3tag": "eidoriantan.github.io/mp3tag.js",
