@@ -552,7 +552,7 @@ var cnames_active = {
   "cyliim": "cyliim.github.io",
   "cyrena": "cyrenajs.github.io/cyrena",
   "cyris": "iCyris.github.io",
-  "danielflores":"danyflores.github.io/portafolio_daniel",
+  "danielflores": "danyflores.github.io/portafolio_daniel",
   "d-patterns": "alias.zeit.co", // noCF
   "d4": "joelburget.github.io/d4",
   "daily.tmr": "ttttmr.github.io/daily", // noCF
