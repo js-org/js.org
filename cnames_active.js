@@ -1911,6 +1911,7 @@ var cnames_active = {
   "rahulbussa": "rahulbussa.github.io",
   "ralmaz": "ralmaz.github.io",
   "ralphi": "yonjah.github.io/ralphi",
+  "randomer": "kzacharski.github.io/randomer",
   "random-machine": "officialpiyush.github.io/random-machine",
   "random-stuff-api": "pgamerxstudio.github.io/Random-stuff-api",
   "randy": "randyviandaputra.github.io",
