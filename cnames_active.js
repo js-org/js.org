@@ -2239,6 +2239,7 @@ var cnames_active = {
   "sop": "kuboschek.github.io/sop",
   "soroush": "soroushchehresa.github.io/soroush",
   "soukai": "noeldemartin.github.io/soukai",
+  "sound.vueuse": "vueuse-sound.netlify.app", // noCF
   "soundcloud-scraper": "soundcloud-scraper.netlify.app",
   "soundpad": "mcpe-pc.github.io/soundpad.js",
   "spa": "sucom.github.io/SPA.js",
