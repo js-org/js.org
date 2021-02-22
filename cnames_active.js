@@ -120,6 +120,7 @@ var cnames_active = {
   "aksara": "sajenid.github.io/aksara.js",
   "alasql": "alasql.github.io", // noCF? (don´t add this in a new PR)
   "alastor": "aidenybai.github.io/alastor",
+  "aldiskatel": "aldiskatel.github.io",
   "ale": "alecefe.github.io",
   "alex": "alecs297.github.io",
   "alexanderalvarez": "alexanderalvarez9.github.io",
