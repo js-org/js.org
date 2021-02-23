@@ -1,3 +1,2 @@
+- [x] There is reasonable content on the page (see: [No Content](https://github.com/js-org/js.org/wiki/No-Content))
 - [x] I have read and accepted the [Terms and Conditions](http://js.org/terms.html)
-- [x] There is reasonable content on the page
-- [x] I have added a CNAME file to my repo: ***https://github.com/aldiskatel/aldiskatel.github.io/blob/master/CNAME***
