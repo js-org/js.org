@@ -2631,6 +2631,7 @@ var cnames_active = {
   "wcfactory": "elmsln.github.io/wcfactory.js.org",
   "wdd": "wangduanduan.github.io",
   "weather": "phanendraguptha.github.io/weather",
+  "weather-app": "daxas-boop.github.io/weather-app",
   "weaver": "maxkfranz.github.io/weaver", // noCF? (don´t add this in a new PR)
   "web-sandbox": "web-sandbox-js.github.io/web-sandbox-website",
   "web230": "paylesworth.github.io/web230",
