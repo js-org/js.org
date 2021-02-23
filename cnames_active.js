@@ -750,6 +750,7 @@ var cnames_active = {
   "energy": "energychain.github.io/energy",
   "eon": "eon-web.github.io/eon",
   "eplayer": "132yse.github.io/eplayer",
+  "epicker": "eling486.github.io/EPicker-docs",
   "epoxy": "hosting.gitbook.com",
   "eq8": "eq8.github.io",
   "eqeq": "slikts.github.io/js-equality-game",
@@ -769,7 +770,6 @@ var cnames_active = {
   "es6-module-seed": "blackmirror1980.github.io/es6-module-seed",
   "esbin": "esbin.netlify.com",
   "escape": "licshee.github.io/Escape.js", // noCF? (don´t add this in a new PR)
-  "eselector": "eling486.github.io/ESelector-docs",
   "esfx": "esfx.github.io",
   "esg": "cname.vercel-dns.com", // noCF
   "esper": "codecombat.github.io/esper.js",
