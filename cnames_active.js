@@ -343,6 +343,7 @@ var cnames_active = {
   "brotat": "mariobob.github.io/brotat-website",
   "browserless": "kikobeats.github.io/browserless",
   "brum": "brumjs.github.io", // noCF? (don´t add this in a new PR)
+  "bs", "2d4f40a1-f11f-4a3f-8da4-0c5692651e02.repl.co",
   "bt": "mldonkey.github.io/bt",
   "bui": "kjantzer.github.io/bui",
   "bullwinkle": "bullwinkle.github.io",
