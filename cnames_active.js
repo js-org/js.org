@@ -1645,6 +1645,7 @@ var cnames_active = {
   "ninh": "reeganexe.github.io/ninh",
   "nintenbot": "nintenzone.github.io/NintenBot",
   "nite": "manvalls.github.io/nite",
+  "nnmap": "marzavec.github.io/nnmap.js",
   "noblox": "suufi.github.io/noblox.js",
   "nod": "diegohaz.github.io/nod",
   "node": "nodejs.github.io/node.js.org",
