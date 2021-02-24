@@ -736,6 +736,7 @@ var cnames_active = {
   "ember-cli-page-object": "san650.github.io/ember-cli-page-object", // noCF? (don´t add this in a new PR)
   "ember-electron": "adopted-ember-addons.github.io/ember-electron",
   "emeraldcraftmc": "emeraldcraftmc.github.io", // noCF? (don´t add this in a new PR)
+  "emin": "eminlin.github.io/js.org",
   "emoji": "egoist.github.io/emoji",
   "emoji-button": "joeattardi.github.io/emoji-button",
   "emojifier": "badlydrawnletters.github.io/emojifier-docs",
