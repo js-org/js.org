@@ -2368,6 +2368,7 @@ var cnames_active = {
   "sxcu": "m-phoenix852.github.io/sxcu.js-docs",
   "smartestchatbot": "lebyy.github.io/smartestchatbotdocs",
   "t": "l-js.mydevapp.tfuture.eu.org", // noCF
+  "t6tg": "t6tg.github.io/t6tg-js",
   "tab": "gdmcc.github.io/tab",
   "tagster": "goschevski.github.io/tagster", // noCF? (don´t add this in a new PR)
   "taha": "orcxzjeeeee.github.io/taha",
@@ -2495,7 +2496,6 @@ var cnames_active = {
   "typescript-play": "agentcooper.github.io/typescript-play",
   "tyshemo": "tangshuang.github.io/tyshemo",
   "tyvn": "milo123459.github.io/tyvn",
-  "t6tg": "t6tg.github.io/t6tg-js",
   "u": "hanul.github.io/UJS", // noCF? (don´t add this in a new PR)
   "uav": "unearth-inc.github.io/uav",
   "ubuntu-hideout": "bytecommander.github.io/ubuntu-hideout",
