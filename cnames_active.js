@@ -2634,7 +2634,7 @@ var cnames_active = {
   "wdd": "wangduanduan.github.io",
   "weather": "phanendraguptha.github.io/weather",
   "weaver": "maxkfranz.github.io/weaver", // noCF? (don´t add this in a new PR)
-  "web.blooket":"redyetidev.github/blooket.js-web",
+  "web.blooket": "redyetidev.github/blooket.js-web",
   "web-sandbox": "web-sandbox-js.github.io/web-sandbox-website",
   "web230": "paylesworth.github.io/web230",
   "webassembly": "xtuc.github.io/webassemblyjs",
