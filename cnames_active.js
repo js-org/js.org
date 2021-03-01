@@ -2051,6 +2051,7 @@ var cnames_active = {
   "reviewbuku": "mzaini30.github.io/reviewbuku",
   "reyes": "michaelbreyes.github.io/reyes",
   "rgbstrip": "xrealneon.github.io/RGBStrip",
+  "rhm": "gsongsong.github.io/rhm",
   "rickdesantis": "rickdesantis.github.io",
   "riiickyy": "riiickyy.github.io",
   "riklewis": "riklewis.github.io",
