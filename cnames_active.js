@@ -2053,6 +2053,7 @@ var cnames_active = {
   "rgbstrip": "xrealneon.github.io/RGBStrip",
   "rhm": "gsongsong.github.io/rhm",
   "rickdesantis": "rickdesantis.github.io",
+  "ricos": "wix.github.io/ricos",
   "riiickyy": "riiickyy.github.io",
   "riklewis": "riklewis.github.io",
   "rinzler": "gitsquared.github.io/rinzler",
