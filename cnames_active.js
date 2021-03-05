@@ -9,10 +9,9 @@
  **** README
  * ***********
  *
- * KEY:         The subdomain you request (e.g.: "foo" would give the custom domain "foo.js.org").
+ * KEY:         bar
  *
- * VALUE:       The regular domain provided by GitHub (e.g.: "foo.github.io" for a User-/Organization Page
- *              or "foo.github.io/bar" for a Project Page).
+ * VALUE:       foo.github.io/bar
  *
  * CLOUDFLARE:  JS.ORG uses CloudFlare as its DNS. By default, CloudFlare proxies all requests to your subdomain
  *              to get SSL support (https://foo.js.org) and make use of browser caching with a TTL of 30 min.
