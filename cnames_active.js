@@ -920,6 +920,7 @@ var cnames_active = {
   "genpasswd": "exos.github.io/genpasswd", // noCF? (don´t add this in a new PR)
   "geolocation-promise": "js-pugilist.github.io/geolocation-promise",
   "george": "georgeyue.github.io/george",
+  "geotargeting": "sntran.github.io/geotargeting",
   "geralcr": "geralcr.github.io/Portafolio",
   "gerardo": "gvzq.github.io/gerardo",
   "german": "dipanshkhandelwal.github.io/Learning-German",
