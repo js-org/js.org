@@ -292,7 +292,7 @@ var cnames_active = {
   "bin": "sujalgoel.github.io/impostor-bin",
   "bind-action-dispatchers": "cchamberlain.github.io/bind-action-dispatchers", // noCF? (don´t add this in a new PR)
   "bingsu": "bingsu-js.gitlab.io",
-  "bionic": "1c183932-46a9-45d7-9080-4738a7d432c7.repl.co",
+  "bionic": "1c183932-46a9-45d7-9080-4738a7d432c7.repl.co", // noCF
   "biu": "aprilorange.github.io/biu", // noCF? (don´t add this in a new PR)
   "blego": "mattstypa.github.io/blego.js.org",
   "blessmyrains": "dusterthefirst.github.io/blessmyrains",
@@ -514,7 +514,7 @@ var cnames_active = {
   "corki": "dvtate.github.io/corki",
   "corona": "soroushchehresa.github.io/awesome-coronavirus",
   "corps": "copay.github.io",
-  "corx": "corx.kazult.repl.co",
+  "corx": "corx.kazult.repl.co", // noCF
   "cosova": "hardo.github.io/cosova",
   "cote": "dashersw.github.io/cote", // noCF? (don´t add this in a new PR)
   "countr": "gleeny.github.io/countr-redirect",
@@ -611,8 +611,8 @@ var cnames_active = {
   "deterministic": "nodeguy.github.io/Deterministic.js",
   "dev-panel": "Involve-Digital.github.io/dev-panel",
   "developerfolio": "saadpasta.github.io/developerFolio",
-  "devilapi": "devilapi.kazult.repl.co",
-  "devilowl": "website.kazult.repl.co",
+  "devilapi": "devilapi.kazult.repl.co", // noCF
+  "devilowl": "website.kazult.repl.co", // noCF
   "devsession": "lukasbach.github.io/devsession",
   "devtr": "zmorcy.github.io/devtr.github.io",
   "dgelong": "alexeyraspopov.github.io/dgelong", // noCF? (don´t add this in a new PR)
@@ -671,7 +671,7 @@ var cnames_active = {
   "domtastic": "webpro.github.io/DOMtastic",
   "domutils": "fb55.github.io/domutils",
   "donavon": "donavon.github.io", // noCF? (don´t add this in a new PR)
-  "donut": "665c97b7-c1b8-473c-b6b8-48006bfae344.repl.co",
+  "donut": "665c97b7-c1b8-473c-b6b8-48006bfae344.repl.co", // noCF
   "dope": "fouad.github.io/dope", // noCF? (don´t add this in a new PR)
   "dot-microservices": "dot-microservices.github.io/dot",
   "doz": "dozjs.github.io/website",
@@ -904,7 +904,7 @@ var cnames_active = {
   "g-point": "bdvela.github.io/g-point",
   "gal": "galmail.github.io", // noCF? (don´t add this in a new PR)
   "game-tracker": "endbug.github.io/game-tracker",
-  "gamecord": "gamecord.lazyowl.repl.co",
+  "gamecord": "gamecord.lazyowl.repl.co", // noCF
   "gamedevcontestal": "fromdenisvieira.github.io/gamedevcontestal", // noCF? (don´t add this in a new PR)
   "gametracker": "officialpiyush.github.io/gametracker.js",
   "gamingnet": "gamingmineblox.github.io/GamingNet",
@@ -1109,7 +1109,7 @@ var cnames_active = {
   "instasaver": "instasaver-heroku.herokuapp.com",
   "integreat": "hosting.gitbook.com",
   "intelligo": "intelligo.netlify.com",
-  "intertwinestaff": "10edddac-f638-4b01-be83-90301467e7f6.repl.co",
+  "intertwinestaff": "10edddac-f638-4b01-be83-90301467e7f6.repl.co", // noCF
   "interview": "fengzilong.github.io/interview-101",
   "invoicing": "vahe.github.io/InvoicingJs",
   "iori": "iori20091101.github.io",
@@ -1221,7 +1221,7 @@ var cnames_active = {
   "karateblobs": "karatewumpus.github.io/karateblobs",
   "karl": "focused-bassi-cc0eff.netlify.com",
   "karolina-and-ryan": "mockturtlesoup.github.io/karolina-and-ryan",
-  "karrot": "665c97b7-c1b8-473c-b6b8-48006bfae344.repl.co",
+  "karrot": "665c97b7-c1b8-473c-b6b8-48006bfae344.repl.co", // noCF
   "kasfy": "kasfy.github.io/kasfy.js.org",
   "katheesh": "katheesh.github.io/katheesh.js",
   "kavan": "kavanmevada.gitlab.io/intro",
