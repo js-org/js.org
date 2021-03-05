@@ -403,6 +403,7 @@ var cnames_active = {
   "cbm": "iamnapo.github.io/cbmjs",
   "cdi": "kiprox.github.io/Candro-Drive-Index",
   "cdll": "cdll.github.io",
+  "cdoor": "cdoor.github.io",
   "cebu": "javascriptcebu.netlify.com",
   "celery-node": "actumn.github.io/celery.node",
   "cenap": "cenapyuce.github.io",
