@@ -2696,6 +2696,7 @@ var cnames_active = {
   "workers": "worker-tools.github.io/workers.js.org",
   "worksnake": "worksnake.github.io",
   "wowufoundme": "wowufoundme.github.io",
+  "wpwebpack": "https://oblakstudio.github.io/wpwebpack",
   "writebar": "alexander-shvets.github.io/writebar",
   "wss": "iguanren.github.io/wss",
   "wstool": "sy-records.github.io/wstool", // noCF
