@@ -1936,6 +1936,7 @@ var cnames_active = {
   "rax": "alibaba.github.io/rax",
   "rax0-6": "raxjs.github.io/website-rax-v0.6",
   "rayo": "getrayo.github.io/rayo.js",
+  "rclone": "sntran.github.io/rclone.js",
   "rdf": "rdfjs.github.io", // noCF
   "rdpmovy": "rdp-studio.github.io/rdpmovy.js",
   "react-atomic-ui": "react-atomic.github.io/react-atomic-ui",
