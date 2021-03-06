@@ -299,6 +299,7 @@ var cnames_active = {
   "blizzard": "benweier.github.io/blizzard.js",
   "blockauth": "faragly.github.io/blockauth",
   "blog.arga": "argaghulamahmad.netlify.app", // noCF
+  "blog.c1200": "c1200.github.io/blog",
   "blog.qbsz": "aboutqbsz.github.io", // noCF
   "blog543": "saepulfariz.github.io/blog543",
   "blogzam": "zam27.github.io/blogzam",
