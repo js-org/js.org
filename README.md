@@ -32,3 +32,5 @@ To finish the procedure, make a pull request in this GitHub repository that adds
 
 ### Thanks
 ... to **[Cloudflare](https://www.cloudflare.com)** for their superb DNS service that makes this possible. While JS.ORG is using their free plan - to a shameless extent - they helped us more than once with some flexible solutions and extended quotas. Many thanks!
+
+Redirect service provided by [redirect.pizza](https://redirect.pizza?utm_source=partner&utm_medium=link&utm_campaign=js.org)
