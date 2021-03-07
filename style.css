@@ -160,6 +160,8 @@ a {
   color: #FFE70B;
   background: #2c251b; }
 
+
+
 em {
   letter-spacing: .1em;
   font-style: normal;
@@ -167,6 +169,23 @@ em {
   color: #FFE70B;
   padding: 0 5px 1px 5px;
   margin: 0 6px 0 1px; }
+
+.em {
+  background: #2c251b;
+  color: #FFE70B;
+  margin: 0 6px 0 1px;
+  padding: 0.6em 1.2em;
+  font-size: 1.4em;
+  
+}
+
+.em a {
+  color: #FFE70B;
+}
+
+.em a:hover {
+  color: rgba(255, 231, 11, 0.5);
+}
 
 a:hover {
   color: rgba(44, 37, 27, 0.6);
