@@ -1189,6 +1189,7 @@ var cnames_active = {
   "jscord": "thepoptartcrpr.github.io/jscord",
   "jsdec": "liulihaocai.github.io/JSDec",
   "jslabs": "cname.vercel-dns.com", // noCF
+  "js-labs": "js-labs.vercel.app"
   "jsnippet": "JesseEisen.github.io/snippets", // noCF
   "jsoboro": "jsoboro.github.io",
   "json-e": "taskcluster.github.io/json-e",
