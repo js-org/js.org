@@ -2616,6 +2616,7 @@ var cnames_active = {
   "vue-aplayer": "sevenoutman.github.io/vue-aplayer",
   "vue-coffee": "vue-coffee-guide.netlify.com",
   "vue-core": "triotech-fr.github.io/vue-core",
+  "vue-diagram-editor": "max-kut.github.io/vue-diagram-editor",
   "vue-goodshare": "koddr.github.io/vue-goodshare",
   "vue-land": "vue-land.netlify.com",
   "vue-mdc": "na-west1.surge.sh",
