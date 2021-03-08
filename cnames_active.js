@@ -1128,6 +1128,7 @@ var cnames_active = {
   "ir": "irjs.github.io/docs",
   "iresume": "supremefish.github.io/iresume",
   "iro": "jaames.github.io/iro.js",
+  "iron-oxide": "carsonmckinstry.github.io/iron-oxide-documentation",
   "irouter": "alhaqhassan.github.io/irouter.js",
   "is": "arasatasaygin.github.io/is.js", // noCF? (don´t add this in a new PR)
   "isbot": "omrilotan.github.io/isbot",
