@@ -2199,7 +2199,7 @@ var cnames_active = {
   "siddharth": "chaudhs769.github.io/siddharth.js.org",
   "sidekik": "inf3cti0n95.github.io/sidekik",
   "sidewind": "cname.vercel-dns.com", // noCF
-  "sigareng": "sigreng.github.io",
+  "sigareng": "sigareng.github.io",
   "sights": "sfxrescue.github.io/sights",
   "silfr": "silfr.github.io/iterativecolor",
   "silkster": "silkster.github.io",
