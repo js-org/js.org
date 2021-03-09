@@ -756,8 +756,8 @@ var cnames_active = {
   "endpoint-imposter": "lukaszmakuch.github.io/endpoint-imposter",
   "energy": "energychain.github.io/energy",
   "eon": "eon-web.github.io/eon",
-  "eplayer": "132yse.github.io/eplayer",
   "epicker": "eling486.github.io/EPicker-docs",
+  "eplayer": "132yse.github.io/eplayer",
   "epoxy": "hosting.gitbook.com",
   "eq8": "eq8.github.io",
   "eqeq": "slikts.github.io/js-equality-game",
@@ -1188,10 +1188,10 @@ var cnames_active = {
   "josep": "warlock.github.io",
   "jparticles": "jparticles.github.io/Documentation",
   "js-fixerr": "anujsinghwd.github.io/js-fixerr",
+  "js-labs": "js-labs.vercel.app",
   "jscord": "thepoptartcrpr.github.io/jscord",
   "jsdec": "liulihaocai.github.io/JSDec",
   "jslabs": "cname.vercel-dns.com", // noCF
-  "js-labs": "js-labs.vercel.app"
   "jsnippet": "JesseEisen.github.io/snippets", // noCF
   "jsoboro": "jsoboro.github.io",
   "json-e": "taskcluster.github.io/json-e",
@@ -1499,10 +1499,10 @@ var cnames_active = {
   "mine": "minenode.github.io",
   "minecraft-data.prismarine": "prismarinejs.github.io/minecraft-data",
   "mineflayer.prismarine": "prismarinejs.github.io/mineflayer",
-  "mineweb": "prismarine-web-client.us.to",
   "minehutsupport": "baibeebambi.github.io/minehutsupport",
   "minerva-ui": "minerva-ui-docs.vercel.app",
   "minesweeper": "derflatulator.github.io/minesweeper",
+  "mineweb": "prismarine-web-client.us.to",
   "mingyan": "mingyan.now.sh", // noCF
   "mingyi": "liangmingyi.github.io", // noCF? (don´t add this in a new PR)
   "minidrone": "mechazawa.github.io/minidrone-js",
@@ -1706,7 +1706,7 @@ var cnames_active = {
   "objectid": "the-silver-project.github.io/objectid",
   "objectmodel": "sylvainpolletvillard.github.io/ObjectModel", // noCF? (don´t add this in a new PR)
   "observable-hooks": "crimx.github.io/observable-hooks",
-  "octofetch": "maartenvn.github.io/OctoFetch"
+  "octofetch": "maartenvn.github.io/OctoFetch",
   "odararmy": "odararmy.github.io",
   "odin": "foxifyjs.github.io/odin",
   "oec": "crellison.github.io/oec",
@@ -1930,9 +1930,9 @@ var cnames_active = {
   "rahulbussa": "rahulbussa.github.io",
   "ralmaz": "ralmaz.github.io",
   "ralphi": "yonjah.github.io/ralphi",
-  "randomer": "kzacharski.github.io/randomer",
   "random-machine": "officialpiyush.github.io/random-machine",
   "random-stuff-api": "pgamerxstudio.github.io/Random-stuff-api",
+  "randomer": "kzacharski.github.io/randomer",
   "randy": "randyviandaputra.github.io",
   "rangeslider": "andreruffert.github.io/rangeslider.js", // noCF? (don´t add this in a new PR)
   "rasti": "8tentaculos.github.io/rasti",
@@ -2239,6 +2239,7 @@ var cnames_active = {
   "slidey": "thegreatrazz.github.io/slidey",
   "slim": "eavichay.github.io/slim.js",
   "slinky": "alizahid.github.io/slinky",
+  "smartestchatbot": "lebyy.github.io/smartestchatbotdocs",
   "smartquotes": "kellym.github.io/smartquotes.js",
   "smiley": "Smiley422.github.io",
   "smoke": "hxgf.github.io/smoke",
@@ -2329,7 +2330,7 @@ var cnames_active = {
   "str": "manelet.github.io/str",
   "stratic": "straticjs.github.io",
   "stress": "julindra.github.io/stress.js",
-  "structure": "hosting.gitbook.io", //noCF
+  "structure": "hosting.gitbook.io", // noCF
   "strudel": "strudeljs.netlify.com",
   "stuck": "linuxenko.github.io/unstuck-webpack",
   "studios": "botstudios.github.io/Studios",
@@ -2379,13 +2380,12 @@ var cnames_active = {
   "swot": "swot-node.netlify.app", // noCF
   "swup": "swup.github.io/docs",
   "sx": "screenrecx.netlify.app",
+  "sxcu": "m-phoenix852.github.io/sxcu.js-docs",
   "sxw": "sxwjs.github.io",
   "sydinh": "sydinh.github.io",
   "synergy": "synergyaddons.github.io/synergy-addons",
   "synth": "lukehorvat.github.io/synth-mood",
   "syr": "dmikey.github.io/syr",
-  "sxcu": "m-phoenix852.github.io/sxcu.js-docs",
-  "smartestchatbot": "lebyy.github.io/smartestchatbotdocs",
   "t": "l-js.mydevapp.tfuture.eu.org", // noCF
   "tab": "gdmcc.github.io/tab",
   "tagster": "goschevski.github.io/tagster", // noCF? (don´t add this in a new PR)
@@ -2549,7 +2549,7 @@ var cnames_active = {
   "urban": "snekjs.github.io/urban.js",
   "urmom": "urmomjs.github.io/urmom.js",
   "useful-apis": "yuu0007.github.io/useful-apis",
-  "userapi": "2e5412da-43b0-45fd-b2cf-6dbdb92e5c13.repl.co", //noCF
+  "userapi": "2e5412da-43b0-45fd-b2cf-6dbdb92e5c13.repl.co", // noCF
   "usetable-ahooks": "usetable-ahooks.surge.sh",
   "useworker": "useworker.netlify.com",
   "ushakov": "ushakov-igor.github.io/ushakov",
@@ -2656,8 +2656,8 @@ var cnames_active = {
   "wdd": "wangduanduan.github.io",
   "weather": "phanendraguptha.github.io/weather",
   "weaver": "maxkfranz.github.io/weaver", // noCF? (don´t add this in a new PR)
-  "web.blooket": "redyetidev.github.io/blooket.js-web", //noCF
   "web-sandbox": "web-sandbox-js.github.io/web-sandbox-website",
+  "web.blooket": "redyetidev.github.io/blooket.js-web", // noCF
   "web230": "paylesworth.github.io/web230",
   "webassembly": "xtuc.github.io/webassemblyjs",
   "webmetry": "comongroup.github.io/webmetry",
@@ -2760,8 +2760,8 @@ var cnames_active = {
   "zephyr": "zephyr-dh.github.io/zephyr",
   "zeroclick": "studiomotio.github.io/zeroclick",
   "zeroframe": "filips123.github.io/ZeroFrameJS",
-  "zh.mobx": "zh-mobx-js-org.vercel.app", // noCF
   "zh-hans.single-spa": "single-spa.github.io/zh-hans.single-spa.js.org", // noCF
+  "zh.mobx": "zh-mobx-js-org.vercel.app", // noCF
   "zhangnew": "zhangnew.github.io",
   "zhaomenghuan": "zhaomenghuan.github.io",
   "zhd": "zhDmitry.github.io",
