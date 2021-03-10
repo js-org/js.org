@@ -1305,7 +1305,6 @@ var cnames_active = {
   "lcookie": "lf112.github.io/lcookie",
   "ldf": "autplayed.github.io/ldf",
   "le": "letui.github.io",
-  "lys": "LeeYonAS.github.io/LeeYonAS.github.io",
   "leafless": "mofax.github.io/leafless",
   "lean-stack": "lean-stack.github.io", // noCF? (don´t add this in a new PR)
   "leandro": "leandrowd.github.io", // noCF? (don´t add this in a new PR)
@@ -1389,7 +1388,7 @@ var cnames_active = {
   "lychee": "Artificial-Engineering.github.io/lycheeJS-website",
   "lyertia": "lyertia.github.io",
   "lyf": "shbwb.github.io/lyf",
-  "lyf": "LeeYonAs.github.io",
+  "lys": "LeeYonAs.github.io",
   "lyra": "amansahil.github.io/lyra.js.org",
   "lzbible": "edwinyosorahardjo.github.io/lzbible",
   "m01i0ng": "m01i0ng.github.io",
