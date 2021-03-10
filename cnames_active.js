@@ -1529,6 +1529,7 @@ var cnames_active = {
   "mmcq": "nikola.github.io/MMCQ", // noCF? (don´t add this in a new PR)
   "mmzdupz": "mmzdupz.github.io",
   "mnmlcss": "barelyhuman.github.io/mnml.css",
+  "mn": "https://mnjs.netlify.app",
   "mo": "mirmousaviii.github.io/mo",
   "mobi": "mobidots.github.io",
   "mobiriseto": "mobiriseto.github.io",
