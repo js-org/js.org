@@ -2465,6 +2465,7 @@ var cnames_active = {
   "tom": "tom-microservice.netlify.com",
   "tom-select": "orchidjs.github.io/tom-select",
   "tooling": "slikts.github.io/tooling",
+  "tools": "redyetidev.github.io/terminaltools",
   "tools-kit": "blackb1rd-development.github.io/tools-kit",
   "toolzar": "toolzar.netlify.app",
   "topbot": "resign05.github.io/TobWebsite",
@@ -2663,7 +2664,6 @@ var cnames_active = {
   "weather": "phanendraguptha.github.io/weather",
   "weaver": "maxkfranz.github.io/weaver", // noCF? (don´t add this in a new PR)
   "web-sandbox": "web-sandbox-js.github.io/web-sandbox-website",
-  "web.blooket": "redyetidev.github.io/blooket.js-web", // noCF
   "web230": "paylesworth.github.io/web230",
   "webassembly": "xtuc.github.io/webassemblyjs",
   "webclient.prismarine": "prismarinejs.github.io/prismarine-web-client", // noCF
