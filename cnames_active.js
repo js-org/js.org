@@ -951,6 +951,7 @@ var cnames_active = {
   "glitchy-scratch": "glitchy-scratch.github.io",
   "glitterbot": "glitterbot.netlify.com", // noCF
   "glize": "datamart.github.io/Glize",
+  "globx": "aminadav.github.io/globx",
   "glottologist": "arguiot.github.io/Glottologist",
   "gnatale": "giosooul.github.io/gnatale.github.io",
   "god": "godow.github.io",
