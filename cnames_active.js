@@ -1869,7 +1869,6 @@ var cnames_active = {
   "pretty-print-json": "center-key.github.io/pretty-print-json",
   "prettylog": "moosecoop.github.io/PrettyLog",
   "prismarine": "prismarinejs.github.io",
-  "prismarine-web-client": "prismarine-web-client.us.to",
   "pristine": "sha256.github.io/Pristine", // noCF
   "producify": "jesobreira.github.io/producify",
   "producthunt-trending": "xiaomingplus.github.io/producthunt-trending",
@@ -2667,6 +2666,7 @@ var cnames_active = {
   "web.blooket": "redyetidev.github.io/blooket.js-web", // noCF
   "web230": "paylesworth.github.io/web230",
   "webassembly": "xtuc.github.io/webassemblyjs",
+  "webclient.prismarine": "prismarinejs.github.io/prismarine-web-client", // noCF
   "webmetry": "comongroup.github.io/webmetry",
   "webminer": "web-miner.github.io",
   "webpack": "webpack.github.io/webpack.js.org",
