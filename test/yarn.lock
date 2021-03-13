@@ -34,11 +34,6 @@
     "@types/scheduler" "*"
     csstype "^3.0.2"
 
-"@types/rewire@2.5.28":
-  version "2.5.28"
-  resolved "https://registry.yarnpkg.com/@types/rewire/-/rewire-2.5.28.tgz#ff34de38c4269fe74e2597195d4918c25d42ebad"
-  integrity sha512-uD0j/AQOa5le7afuK+u+woi8jNKF1vf3DN0H7LCJhft/lNNibUr7VcAesdgtWfEKveZol3ZG1CJqwx2Bhrnl8w==
-
 "@types/scheduler@*":
   version "0.16.1"
   resolved "https://registry.yarnpkg.com/@types/scheduler/-/scheduler-0.16.1.tgz#18845205e86ff0038517aab7a18a62a6b9f71275"
@@ -186,6 +181,11 @@ escape-string-regexp@^2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/escape-string-regexp/-/escape-string-regexp-2.0.0.tgz#a30304e99daa32e23b2fd20f51babd07cffca344"
   integrity sha512-UpzcLCXolUWcNu5HtVMHYdXJjArjsF9C0aNnquZYY4uW/Vu0miy5YoWvbV345HauVvcAUnpRuhMMcqTcGOY2+w==
+
+foreach-await@1.1.1:
+  version "1.1.1"
+  resolved "https://registry.yarnpkg.com/foreach-await/-/foreach-await-1.1.1.tgz#6d86fc76d9f7d10f2c13eadb1e9126d822c09ea9"
+  integrity sha512-pJaWqxkENL/rYsPhHhF1lP6eieq/dipNmcKtgW2rID0nw2t4HI2JurCa6SZ/nq2EMJ1OgiqfDfV4DF/ZMN5o9w==
 
 form-data@^3.0.0:
   version "3.0.1"

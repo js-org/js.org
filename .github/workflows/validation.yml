@@ -1,75 +1,85 @@
 name: Validation
 
 on:
-    push:
-        branches: [master]
-    pull_request_target:
+  push:
+    branches: [master]
+  pull_request_target:
 
 jobs:
-    validate:
-        runs-on: ubuntu-latest
+  validate:
+    runs-on: ubuntu-latest
 
-        steps:
-            - uses: actions/checkout@v2
-            - name: Clean directories
-              if: github.event_name == 'pull_request_target'
-              run: rm -rf __fork
-            - name: Clean files
-              run: rm -f pull_request_comment.md commit_comment.md annotations.json
-            - uses: actions/checkout@v2
-              if: github.event_name == 'pull_request_target'
-              with:
-                  ref: ${{github.event.pull_request.head.ref}}
-                  repository: ${{github.event.pull_request.head.repo.full_name}}
-                  path: "__fork"
-            - name: Use Node.js 15
-              uses: actions/setup-node@v1
-              with:
-                  node-version: "15"
-            - name: Build validator
-              run: |
-                cd test &&
-                yarn install &&
-                yarn build &&
-                chmod +x dist/bin.js &&
-                cd $GITHUB_WORKSPACE
-            - name: Validate PR
-              if: github.event_name == 'pull_request_target'
-              run: |
-                cd __fork &&
-                ./../test/dist/bin.js &&
-                cd $GITHUB_WORKSPACE
-            - name: Validate commit
-              if: github.event_name == 'push'
-              run: |
-                ./test/dist/bin.js 
-            - name: "Comment PR"
-              uses: actions/github-script@v3
-              if: always() && github.event_name == 'pull_request_target'
-              with:
-                  github-token: ${{ secrets.GITHUB_TOKEN }}
-                  script: |
-                      const fs = require("fs");
-                      const { issue: { number: issue_number }, repo: { owner, repo }  } = context;
-                      github.issues.createComment(
-                        { 
-                          issue_number,
-                          owner,
-                          repo,
-                          body: await fs.promises.readFile(`${process.env.GITHUB_WORKSPACE}/__fork/pull_request_comment.md`, "utf-8") 
-                        }
-                      );
-            - name: "Comment commit"
-              uses: actions/github-script@v3
-              if: always() && github.event_name == 'push'
-              with:
-                  github-token: ${{ secrets.GITHUB_TOKEN }}
-                  script: |
-                      const fs = require("fs");
-                      const { sha, repo: { owner, repo }  } = context;
-                      github.repos.createCommitComment({
-                        owner,
-                        repo,
-                        commit_sha: sha,
-                        body: await fs.promises.readFile(`${process.env.GITHUB_WORKSPACE}/commit_comment.md`, "utf-8") 
-                      })
+    steps:
+      - uses: actions/checkout@v2
+      - name: Clean directories
+        if: github.event_name == 'pull_request_target'
+        run: rm -rf __fork
+      - name: Clean files
+        run: rm -f pull_request_comment.md commit_comment.md annotations.json
+      - uses: actions/checkout@v2
+        if: github.event_name == 'pull_request_target'
+        with:
+          ref: ${{github.event.pull_request.head.ref}}
+          repository: ${{github.event.pull_request.head.repo.full_name}}
+          path: "__fork"
+      - name: Use Node.js 15
+        uses: actions/setup-node@v1
+        with:
+          node-version: "15"
+      - name: Get yarn cache directory path
+        id: yarn-cache-dir-path
+        run: echo "::set-output name=dir::$(yarn cache dir)"
+      - uses: actions/cache@v2
+        id: yarn-cache
+        with:
+          path: ${{ steps.yarn-cache-dir-path.outputs.dir }}
+          key: ${{ runner.os }}-yarn-${{ hashFiles('**/yarn.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-yarn-
+      - name: Build validator
+        run: |
+          cd test &&
+          yarn install &&
+          yarn build &&
+          chmod +x dist/bin.js &&
+          cd $GITHUB_WORKSPACE
+      - name: Validate PR
+        if: github.event_name == 'pull_request_target'
+        run: |
+          cd __fork &&
+          ./../test/dist/bin.js &&
+          cd $GITHUB_WORKSPACE
+      - name: Validate commit
+        if: github.event_name == 'push'
+        run: |
+          ./test/dist/bin.js
+      - name: "Comment PR"
+        uses: actions/github-script@v3
+        if: always() && github.event_name == 'pull_request_target'
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const fs = require("fs");
+            const { issue: { number: issue_number }, repo: { owner, repo }  } = context;
+            github.issues.createComment(
+              { 
+                issue_number,
+                owner,
+                repo,
+                body: await fs.promises.readFile(`${process.env.GITHUB_WORKSPACE}/__fork/pull_request_comment.md`, "utf-8") 
+              }
+            );
+      - name: "Comment commit"
+        uses: actions/github-script@v3
+        if: always() && github.event_name == 'push'
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const fs = require("fs");
+            const { sha, repo: { owner, repo }  } = context;
+            github.repos.createCommitComment({
+              owner,
+              repo,
+              commit_sha: sha,
+              body: await fs.promises.readFile(`${process.env.GITHUB_WORKSPACE}/commit_comment.md`, "utf-8") 
+            })

@@ -9,11 +9,11 @@
 		"@types/node-fetch": "2.5.8",
 		"@types/prettier": "2.2.2",
 		"@types/react": "17.0.3",
-		"@types/rewire": "2.5.28",
 		"@types/validator": "13.1.3",
 		"typescript": "4.2.3"
 	},
 	"dependencies": {
+		"foreach-await": "1.1.1",
 		"ink": "3.0.8",
 		"ink-spinner": "4.0.1",
 		"node-fetch": "2.6.1",
@@ -23,7 +23,7 @@
 	},
 	"scripts": {
 		"build": "tsc",
-		"style:fix": "prettier --write **/*.tsx **/*.ts **/*.json **/*.md"
+		"style:fix": "prettier --write **/*.tsx **/*.ts **/*.json **/*.md src/ ../.github/workflows"
 	},
 	"prettier": {
 		"useTabs": true,

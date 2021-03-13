@@ -20,73 +20,38 @@
  * @author Marvin Schopf <marvin@schopf.biz>
  *
  */
-
-import isURL from "validator/lib/isURL";
-import { resolve } from "path";
-import { getCNAMEs, getCNAMEsFile, Cname } from "./cnames";
-import fs from "fs";
-
-import fetch from "node-fetch";
-
-import React, { Fragment, ReactNode } from "react";
-import { render, Text, Box } from "ink";
-import Spinner from "ink-spinner";
-import prettier from "prettier";
-
+import { getCNAMEs, getCNAMEsFile } from "./cnames";
+import React, { ReactNode } from "react";
+import { render, Box } from "ink";
 import { identify } from "./providers";
+import { asyncForEach } from "foreach-await";
+import checks from "./checks";
+import { MessageList } from "./components/MessageList";
+import { BR } from "./components/BR";
+import { Success } from "./components/Success";
+import { Status } from "./components/Status";
+import { saveComments } from "./markdown";
+import { saveAnnotations } from "./annotations";
+import Summary from "./components/Summary";
+import { getKeyProperties } from "./util";
 
-async function asyncForEach(array: any, callback: Function) {
-	for (let index: number = 0; index < array.length; index++) {
-		await callback(array[index], index, array);
+class App extends React.Component<
+	{},
+	{
+		status: string;
+		messages: Message[];
+		errors: string[];
+		warnings: string[];
+		success: boolean;
+		errorCount: number;
+		warningCount: number;
+		summary: ReactNode;
+		done: boolean;
+		providersMap: { provider: string; count: number }[];
+		noCF: number;
 	}
-}
-
-async function getKeyProperties(cnames: Cname[]): Promise<string[]> {
-	let keys: string[] = [];
-	await asyncForEach(cnames, (cname: Cname) => {
-		keys.push(cname.key);
-	});
-	return keys;
-}
-
-function error(message: string, exit?: boolean) {
-	console.log(`❌ ${message}`);
-	if (exit) process.exit(1);
-}
-
-type Props = {};
-
-type Message = { type: "error" | "warning"; message: string; line?: number };
-
-type State = {
-	status: string;
-	messages: Message[];
-	errors: string[];
-	warnings: string[];
-	success: boolean;
-	errorCount: number;
-	warningCount: number;
-	summary: ReactNode;
-	done: boolean;
-	providersMap: { provider: string; count: number }[];
-	noCF: number;
-};
-
-type Provider = {
-	provider: string;
-	count: number;
-};
-
-type Annotation = {
-	file: string;
-	line: number;
-	title: string;
-	message: string;
-	annotation_level: "notice" | "warning" | "failure";
-};
-
-class App extends React.Component<Props, State> {
-	constructor(props: Props) {
+> {
+	constructor(props: {}) {
 		super(props);
 		this.state = {
 			status: "Starting...",
@@ -124,15 +89,7 @@ class App extends React.Component<Props, State> {
 		});
 	}
 
-	getEmoji(emoji: string): string {
-		if (!process.env.CI) {
-			return emoji;
-		}
-		return "";
-	}
-
 	end(withCode = 0) {
-		let providers: ReactNode[] = [];
 		let totalElements: number = 0;
 		this.state.providersMap.forEach((provider: Provider, index: number) => {
 			totalElements = totalElements + provider.count;
@@ -143,282 +100,30 @@ class App extends React.Component<Props, State> {
 			if (a.count < b.count) return 1;
 			return 0;
 		});
-		let othersCount: number = 0;
-		providersMap.forEach((provider) => {
-			if (
-				provider.provider !== "Others" &&
-				provider.provider !== "Other"
-			) {
-				providers.push(
-					<Box key={`provider-${provider.provider}`}>
-						<Text color="whiteBright" bold>
-							{provider.provider}:{" "}
-						</Text>
-						<Text color="whiteBright">
-							{((provider.count / totalElements) * 100).toFixed(
-								2
-							)}
-							% <Text color="gray">({provider.count})</Text>
-						</Text>
-					</Box>
-				);
-			} else {
-				othersCount = provider.count;
-			}
-		});
 		if (process.env.CI) {
-			this.setStatus("Creating annotations...");
-			let annotations: Annotation[] = [];
-			let warningsString: string = "";
-			let errorsString: string = "";
-			this.state.messages.forEach((message: Message) => {
-				annotations.push({
-					file: "cnames_active.js",
-					line: message.line ? message.line : 1,
-					title: message.type,
-					annotation_level:
-						message.type === "error" ? "failure" : "warning",
-					message: message.message,
-				});
-				if (message.type === "error") {
-					errorsString =
-						errorsString +
-						`- ${message.message.replaceAll("'", "`")}\n`;
-				}
-				if (message.type === "warning") {
-					warningsString =
-						warningsString +
-						`- ${message.message.replaceAll("'", "`")}\n`;
-				}
-			});
-			if (warningsString === "")
-				warningsString = "No warnings have occurred.";
-			if (errorsString === "") errorsString = "No errors have occurred.";
-			fs.writeFileSync(
-				resolve(process.cwd(), "annotations.json"),
-				JSON.stringify(annotations)
-			);
-			["pull request", "commit"].map((commentType: string) => {
-				fs.writeFileSync(
-					resolve(
-						process.cwd(),
-						`${commentType.replaceAll(" ", "_")}_comment.md`
-					),
-					`
-**Hello! 👋**${"  "}
-The validation of your ${commentType} has been completed. ✅${"  "}
-
-### Status
-${
-	this.state.errors.length === 0 ? "🎉 **Success!**" : "❌ **Failure!**"
-} Done with **${this.state.errors.length} error${
-						this.state.errors.length === 0 ||
-						this.state.errors.length >= 2
-							? "s"
-							: ""
-					}** and **${this.state.warnings.length} warning${
-						this.state.warnings.length === 0 ||
-						this.state.warnings.length >= 2
-							? "s"
-							: ""
-					}**.
-
-### Details
-<details>
-		<summary>${this.state.errors.length} error${
-						this.state.errors.length === 0 ||
-						this.state.errors.length >= 2
-							? "s"
-							: ""
-					}</summary>
-	<br />
-
-${errorsString}
-</details>
-<details>
-	<summary>${this.state.warnings.length} warning${
-						this.state.warnings.length === 0 ||
-						this.state.warnings.length >= 2
-							? "s"
-							: ""
-					}</summary>
-	<br />
-
-${warningsString}
-</details>
-<details>
-	<summary>Statistics</summary>
-	<br />
-${
-	this.state.errors.length >= 1
-		? "As errors occurred, no statistics were calculated."
-		: ""
-}
-${
-	this.state.errors.length === 0
-		? "#### Services  \n\n| Provider | Share |\n| ------------- | -----:|\n" +
-		  providersMap
-				.map((provider) => {
-					return `| **${provider.provider}** | **${(
-						(provider.count / totalElements) *
-						100
-					).toFixed(2)}%** (${provider.count}) |\n`;
-				})
-				.join("")
-		: ""
-}
-${
-	this.state.errors.length === 0
-		? `
-#### Cloudflare${"  "}
-
-| Status               | Rate |
-|----------------------|------|
-| **Sites using Cloudflare**     | **${(
-				((totalElements - this.state.noCF) / totalElements) *
-				100
-		  ).toFixed(2)}%** (${totalElements - this.state.noCF})  |
-| **Sites not using Cloudflare** | **${(
-				(this.state.noCF / totalElements) *
-				100
-		  ).toFixed(2)}%**  (${this.state.noCF}) |
-`
-		: ""
-}
-</details>
-`
-				);
+			this.setStatus("Saving annotations...");
+			saveAnnotations(this.state.messages);
+			this.setStatus("Saving comments...");
+			saveComments({
+				errors: this.state.errors,
+				warnings: this.state.warnings,
+				messages: this.state.messages,
+				providers: providersMap,
+				totalElements: totalElements,
+				noCF: this.state.noCF,
 			});
 			this.setStatus("Done.");
 		}
 		this.setState({
 			summary: (
-				<Fragment>
-					<Box>
-						<Text> </Text>
-					</Box>
-					{this.state.errors.length === 0 && (
-						<Fragment>
-							<Box>
-								<Text color="magenta" bold>
-									Breakdown of services used:
-								</Text>
-							</Box>
-							{providers}
-							<Box>
-								<Text color="gray">
-									----------------------------
-								</Text>
-							</Box>
-							<Box>
-								<Text color="whiteBright" bold>
-									Others:{" "}
-								</Text>
-								<Text color="whiteBright">
-									{(
-										(othersCount / totalElements) *
-										100
-									).toFixed(2)}
-									% <Text color="gray">({othersCount})</Text>
-								</Text>
-							</Box>
-							<Box>
-								<Text color="whiteBright" bold>
-									Total:{" "}
-								</Text>
-								<Text color="whiteBright">{totalElements}</Text>
-							</Box>
-							<Box>
-								<Text> </Text>
-							</Box>
-							<Box>
-								<Text color="magenta" bold>
-									Cloudflare statistics:
-								</Text>
-							</Box>
-							<Box>
-								<Text color="whiteBright" bold>
-									Sites using Cloudflare:{" "}
-								</Text>
-								<Text color="whiteBright">
-									{(
-										((totalElements - this.state.noCF) /
-											totalElements) *
-										100
-									).toFixed(2)}
-									%{" "}
-									<Text color="gray">
-										({totalElements - this.state.noCF})
-									</Text>
-								</Text>
-							</Box>
-							<Box>
-								<Text color="whiteBright" bold>
-									Sites not using Cloudflare:{" "}
-								</Text>
-								<Text color="whiteBright">
-									{(
-										(this.state.noCF / totalElements) *
-										100
-									).toFixed(2)}
-									%{" "}
-									<Text color="gray">
-										({this.state.noCF})
-									</Text>
-								</Text>
-							</Box>
-							<Box>
-								<Text> </Text>
-							</Box>
-						</Fragment>
-					)}
-					{this.state.errors.length >= 1 && (
-						<Fragment>
-							<Box>
-								<Text> </Text>
-							</Box>
-							<Box>
-								<Text color="red" bold>
-									Not showing statistics because errors have
-									occurred.
-								</Text>
-							</Box>
-							<Box>
-								<Text> </Text>
-							</Box>
-						</Fragment>
-					)}
-					<Box>
-						<Text color="gray">
-							{withCode === 0 ? (
-								<Text color="green" bold>
-									{this.getEmoji("🎉") + " "}Success!{" "}
-								</Text>
-							) : (
-								<Text color="red" bold>
-									{this.getEmoji("😞") + " "}Failure!{" "}
-								</Text>
-							)}
-							Done with{" "}
-							<Text color="red">
-								{this.state.errorCount} error
-								{this.state.errorCount === 0 ||
-								this.state.errorCount >= 2
-									? "s"
-									: ""}{" "}
-							</Text>
-							and{" "}
-							<Text color="yellow">
-								{this.state.warningCount} warning
-								{this.state.warningCount === 0 ||
-								this.state.warningCount >= 2
-									? "s"
-									: ""}
-							</Text>
-							.
-						</Text>
-					</Box>
-				</Fragment>
+				<Summary
+					exitCode={withCode}
+					errors={this.state.errors}
+					warnings={this.state.warnings}
+					providers={providersMap}
+					totalElements={totalElements}
+					noCF={this.state.noCF}
+				/>
 			),
 			status: "Done.",
 			done: true,
@@ -427,26 +132,10 @@ ${
 	}
 
 	async componentDidMount() {
-		try {
-			await fs.promises.access(
-				resolve(process.cwd(), "cnames_active.js")
-			);
-		} catch (e) {
+		if (!(await checks.cnamesFileExists()))
 			this.error("The file 'cnames_active.js' does not exist.", true);
-		}
-		try {
-			prettier.check(
-				await fs.promises.readFile(
-					resolve(process.cwd(), "cnames_active.js"),
-					"utf-8"
-				),
-				{
-					parser: "babel",
-				}
-			);
-		} catch (e) {
+		if (!(await checks.validSyntax()))
 			this.error("File 'cnames_active.js' has an invalid syntax.", true);
-		}
 		this.setStatus("Parsing...");
 		let cnames: Cname[] = [];
 		try {
@@ -459,25 +148,22 @@ ${
 		}
 		let failSorting: boolean = false;
 		const sortedItems: string[] = (await getKeyProperties(cnames)).sort();
-		await asyncForEach(cnames, (cname: Cname, index: number) => {
+		await asyncForEach(cnames, async (cname: Cname, index: number) => {
 			this.setStatus(`Validating '${cname.key}'...`);
-			if (!isURL(`${cname.key}${cname.key === "" ? "" : "."}js.org`)) {
-				if (
-					!cname.key.startsWith("_") &&
-					!cname.key.endsWith("_") &&
-					cname.key.includes("_")
-				) {
-					// ph
-				} else {
-					this.error(
-						`CNAME would not be a valid URL: '${cname.key}' => '${
-							cname.key
-						}${cname.key === "" ? "" : "."}js.org'`,
-						true
-					);
-				}
+			if (
+				!(await checks.isValidURL(
+					`${cname.key}${cname.key === "" ? "" : "."}js.org`,
+					true
+				))
+			) {
+				this.error(
+					`CNAME would not be a valid URL: '${cname.key}' => '${
+						cname.key
+					}${cname.key === "" ? "" : "."}js.org'`,
+					true
+				);
 			}
-			if (!isURL(cname.target)) {
+			if (!(await checks.isValidURL(cname.target))) {
 				this.error(
 					`CNAME target is not a valid url: '${cname.key}' => '${cname.target}'`,
 					true
@@ -549,100 +235,18 @@ ${
 					providersMap: providersMap,
 				});
 			}
-			let cnameTarget: string = cname.target;
-			if (
-				!cnameTarget.startsWith("http://") &&
-				!cnameTarget.startsWith("https://")
-			) {
-				cnameTarget = "http://" + cnameTarget;
-			}
 			this.setStatus(
-				`Pinging '${cname.key}' (${new URL(cnameTarget).hostname})...`
+				`Pinging '${cname.key}' (${
+					new URL(
+						cname.target.startsWith("http://") ||
+						cname.target.startsWith("https://")
+							? cname.target
+							: `http://${cname.target}`
+					).hostname
+				})...`
 			);
-			try {
-				const response = await fetch(
-					`http://${new URL(cnameTarget).hostname}`,
-					{
-						timeout: 20000,
-						headers: {
-							host: `${
-								cname.key != "" ? cname.key + "." : ""
-							}js.org`,
-						},
-						redirect: "manual",
-					}
-				);
-				if (!(response.status >= 200 && response.status <= 400)) {
-					if (
-						response.status === 301 ||
-						response.status === 302 ||
-						response.status === 307 ||
-						response.status === 308
-					) {
-						if (
-							response.headers.get("location") != null ||
-							response.headers.get("Location") != null
-						) {
-							let location: string | null = response.headers.get(
-								"location"
-							)
-								? response.headers.get("location")
-								: response.headers.get("Location")
-								? response.headers.get("Location")
-								: "";
-							location =
-								location?.slice(-1) === "/"
-									? location?.slice(-1)
-									: location;
-							if (
-								location ==
-								`https://${new URL(cnameTarget).hostname}`
-							) {
-								try {
-									const response = await fetch(
-										`https://${
-											new URL(cnameTarget).hostname
-										}`,
-										{
-											timeout: 20000,
-											headers: {
-												host: `${
-													cname.key != ""
-														? cname.key + "."
-														: ""
-												}js.org`,
-											},
-											redirect: "manual",
-										}
-									);
-									if (
-										!(
-											response.status >= 200 &&
-											response.status <= 400
-										)
-									) {
-										this.warn(
-											`Unreachable: '${cname.key}' => '${cname.target}' (${response.status} ${response.statusText})`
-										);
-									}
-								} catch (e) {
-									this.warn(
-										`Unreachable: '${cname.key}' => '${cname.target}' (${e.message})`
-									);
-								}
-							}
-						}
-					} else {
-						this.warn(
-							`Unreachable: '${cname.key}' => '${cname.target}' (${response.status} ${response.statusText})`
-						);
-					}
-				}
-			} catch (e) {
-				this.warn(
-					`Unreachable: '${cname.key}' => '${cname.target}' (${e.message})`
-				);
-			}
+			if (!(await checks.isReachable(cname.key, cname.target)))
+				this.warn(`Unreachable: '${cname.key}' => '${cname.target}'`);
 		});
 		this.end(this.state.errorCount >= 1 ? 1 : 0);
 	}
@@ -665,53 +269,12 @@ ${
 	render() {
 		return (
 			<React.Fragment>
-				<Box>
-					<Text> </Text>
-				</Box>
-				{this.state.messages.map((message: Message) => {
-					if (message.type === "warning") {
-						return (
-							<Box key={`message-warning-${message.message}`}>
-								<Text color="yellow">
-									{this.getEmoji("⚠️") + "  "}
-									<Text bold>Warning:</Text> {message.message}
-								</Text>
-							</Box>
-						);
-					} else if (message.type === "error") {
-						return (
-							<Box key={`message-error-${message.message}`}>
-								<Text color="red">
-									{this.getEmoji("❌") + " "}
-									<Text bold>Error:</Text> {message.message}
-								</Text>
-							</Box>
-						);
-					}
-				})}
-				<Box>
-					<Text> </Text>
-				</Box>
-				<Box>
-					<Text color="cyan" bold>
-						{!this.state.done && (
-							<Fragment>
-								<Spinner type="dots" />{" "}
-							</Fragment>
-						)}
-						Status: {this.state.status}
-					</Text>
-				</Box>
-				<Box>
-					<Text> </Text>
-				</Box>
-				{this.state.success && (
-					<Box>
-						<Text color="green" bold>
-							🎉 Success! Everything looks good.
-						</Text>
-					</Box>
-				)}
+				<BR />
+				<MessageList messages={this.state.messages} />
+				<BR />
+				<Status loading={!this.state.done} status={this.state.status} />
+				<BR />
+				{this.state.success && <Success />}
 				{this.state.summary}
 			</React.Fragment>
 		);

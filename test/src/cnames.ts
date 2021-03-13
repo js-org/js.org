@@ -10,15 +10,6 @@
 import fs from "fs";
 import { resolve } from "path";
 
-export type Cname = {
-	target: string;
-	noCF?: string;
-	http?: string;
-	https?: string;
-	failed?: boolean;
-	key: string;
-};
-
 /**
  * Fetches the raw cnames_active file from the configured repository
  * @returns {Promise<string>}
