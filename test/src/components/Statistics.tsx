@@ -39,6 +39,13 @@ export class Statistics extends React.Component<
 		this.state = {
 			othersCount: 0,
 		};
+		props.providers.forEach((provider) => {
+			if (provider.provider.includes("Other")) {
+				this.setState({
+					othersCount: provider.count,
+				});
+			}
+		});
 	}
 
 	render() {
@@ -70,10 +77,6 @@ export class Statistics extends React.Component<
 								</Text>
 							</Box>
 						);
-					} else {
-						this.setState({
-							othersCount: provider.count,
-						});
 					}
 				})}
 				<Box>
