@@ -34,6 +34,18 @@ export const isReachable = async (
 				host: host,
 			},
 		});
+		if (response.status >= 300 && response.status <= 308) {
+			return (
+				(
+					await fetch(url.replaceAll("http://", "https://"), {
+						redirect: "manual",
+						headers: {
+							host: host,
+						},
+					})
+				).status === 200
+			);
+		}
 		if (response.status >= 200 && response.status <= 400) {
 			return true;
 		}

@@ -80,19 +80,10 @@ export const isReachable = async (
 		url = `http://${url}`;
 	}
 	url = `http://${new URL(url).hostname}`;
-	if (
-		!(await net.isReachable(url, `${cname != "" ? cname + "." : ""}js.org`))
-	) {
-		if (_url.startsWith("https://")) {
-			return false;
-		} else {
-			return await net.isReachable(
-				`${url.replaceAll("http://", "https://")}`,
-				`${cname != "" ? cname + "." : ""}js.org`
-			);
-		}
-	}
-	return true;
+	return await net.isReachable(
+		url,
+		`${cname != "" ? cname + "." : ""}js.org`
+	);
 };
 
 export default {
