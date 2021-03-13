@@ -28,6 +28,9 @@ export const isReachable = async (
 	host = new URL(url).hostname
 ): Promise<boolean> => {
 	try {
+		if (url.startsWith("http://") || url.startsWith("https://")) {
+			url = `http://${new URL(url).hostname}`;
+		}
 		const response = await fetch(url, {
 			redirect: "manual",
 			headers: {
