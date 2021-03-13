@@ -34,6 +34,13 @@ export class Statistics extends React.Component<
 	Props,
 	{ othersCount: number }
 > {
+	constructor(props: Props) {
+		super(props);
+		this.state = {
+			othersCount: 0,
+		};
+	}
+
 	render() {
 		return (
 			<React.Fragment>
