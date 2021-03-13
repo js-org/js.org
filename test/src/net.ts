@@ -35,16 +35,32 @@ export const isReachable = async (
 			},
 		});
 		if (response.status >= 300 && response.status <= 308) {
-			return (
-				(
-					await fetch(url.replaceAll("http://", "https://"), {
-						redirect: "manual",
-						headers: {
-							host: host,
-						},
-					})
-				).status === 200
-			);
+			if (
+				response.headers.get("location") ||
+				response.headers.get("Location")
+			) {
+				let location = response.headers.get("location")
+					? response.headers.get("location")
+					: response.headers.get("Location")
+					? response.headers.get("Location")
+					: "";
+				if (location?.endsWith("/")) {
+					location = location.slice(0, -1);
+				}
+				let __url: string = url.endsWith("/") ? url.slice(0, -1) : url;
+				if (location === __url.replaceAll("http://", "https://")) {
+					return (
+						(
+							await fetch(url.replaceAll("http://", "https://"), {
+								redirect: "manual",
+								headers: {
+									host: host,
+								},
+							})
+						).status === 200
+					);
+				}
+			}
 		}
 		if (response.status >= 200 && response.status <= 400) {
 			return true;
