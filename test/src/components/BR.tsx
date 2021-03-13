@@ -24,12 +24,14 @@
 import { Box, Text } from "ink";
 import React from "react";
 
-export const BR: React.FunctionComponent = () => {
-	return (
-		<Box>
-			<Text> </Text>
-		</Box>
-	);
-};
+export class BR extends React.Component {
+	render() {
+		return (
+			<Box>
+				<Text> </Text>
+			</Box>
+		);
+	}
+}
 
 export default BR;

@@ -30,95 +30,109 @@ type Props = {
 	noCF: number;
 };
 
-export const Statistics: React.FunctionComponent<Props> = (props: Props) => {
-	const [othersCount, setOthersCount] = React.useState(0);
-
-	return (
-		<React.Fragment>
-			<Box>
-				<Text color="magenta" bold>
-					Breakdown of services used:
-				</Text>
-			</Box>
-			{props.providers.map((provider: Provider) => {
-				if (
-					provider.provider !== "Others" &&
-					provider.provider !== "Other"
-				) {
-					return (
-						<Box key={`provider-${provider.provider}`}>
-							<Text color="whiteBright" bold>
-								{provider.provider}:{" "}
-							</Text>
-							<Text color="whiteBright">
-								{(
-									(provider.count / props.totalElements) *
-									100
-								).toFixed(2)}
-								% <Text color="gray">({provider.count})</Text>
-							</Text>
-						</Box>
-					);
-				} else {
-					setOthersCount(provider.count);
-				}
-			})}
-			<Box>
-				<Text color="gray">----------------------------</Text>
-			</Box>
-			<Box>
-				<Text color="whiteBright" bold>
-					Others:{" "}
-				</Text>
-				<Text color="whiteBright">
-					{((othersCount / props.totalElements) * 100).toFixed(2)}%{" "}
-					<Text color="gray">({othersCount})</Text>
-				</Text>
-			</Box>
-			<Box>
-				<Text color="whiteBright" bold>
-					Total:{" "}
-				</Text>
-				<Text color="whiteBright">{props.totalElements}</Text>
-			</Box>
-			<Box>
-				<Text> </Text>
-			</Box>
-			<Box>
-				<Text color="magenta" bold>
-					Cloudflare statistics:
-				</Text>
-			</Box>
-			<Box>
-				<Text color="whiteBright" bold>
-					Sites using Cloudflare:{" "}
-				</Text>
-				<Text color="whiteBright">
-					{(
-						((props.totalElements - props.noCF) /
-							props.totalElements) *
-						100
-					).toFixed(2)}
-					%{" "}
-					<Text color="gray">
-						({props.totalElements - props.noCF})
+export class Statistics extends React.Component<
+	Props,
+	{ othersCount: number }
+> {
+	render() {
+		return (
+			<React.Fragment>
+				<Box>
+					<Text color="magenta" bold>
+						Breakdown of services used:
 					</Text>
-				</Text>
-			</Box>
-			<Box>
-				<Text color="whiteBright" bold>
-					Sites not using Cloudflare:{" "}
-				</Text>
-				<Text color="whiteBright">
-					{((props.noCF / props.totalElements) * 100).toFixed(2)}%{" "}
-					<Text color="gray">({props.noCF})</Text>
-				</Text>
-			</Box>
-			<Box>
-				<Text> </Text>
-			</Box>
-		</React.Fragment>
-	);
-};
+				</Box>
+				{this.props.providers.map((provider: Provider) => {
+					if (
+						provider.provider !== "Others" &&
+						provider.provider !== "Other"
+					) {
+						return (
+							<Box key={`provider-${provider.provider}`}>
+								<Text color="whiteBright" bold>
+									{provider.provider}:{" "}
+								</Text>
+								<Text color="whiteBright">
+									{(
+										(provider.count /
+											this.props.totalElements) *
+										100
+									).toFixed(2)}
+									%{" "}
+									<Text color="gray">({provider.count})</Text>
+								</Text>
+							</Box>
+						);
+					} else {
+						this.setState({
+							othersCount: provider.count,
+						});
+					}
+				})}
+				<Box>
+					<Text color="gray">----------------------------</Text>
+				</Box>
+				<Box>
+					<Text color="whiteBright" bold>
+						Others:{" "}
+					</Text>
+					<Text color="whiteBright">
+						{(
+							(this.state.othersCount /
+								this.props.totalElements) *
+							100
+						).toFixed(2)}
+						% <Text color="gray">({this.state.othersCount})</Text>
+					</Text>
+				</Box>
+				<Box>
+					<Text color="whiteBright" bold>
+						Total:{" "}
+					</Text>
+					<Text color="whiteBright">{this.props.totalElements}</Text>
+				</Box>
+				<Box>
+					<Text> </Text>
+				</Box>
+				<Box>
+					<Text color="magenta" bold>
+						Cloudflare statistics:
+					</Text>
+				</Box>
+				<Box>
+					<Text color="whiteBright" bold>
+						Sites using Cloudflare:{" "}
+					</Text>
+					<Text color="whiteBright">
+						{(
+							((this.props.totalElements - this.props.noCF) /
+								this.props.totalElements) *
+							100
+						).toFixed(2)}
+						%{" "}
+						<Text color="gray">
+							({this.props.totalElements - this.props.noCF})
+						</Text>
+					</Text>
+				</Box>
+				<Box>
+					<Text color="whiteBright" bold>
+						Sites not using Cloudflare:{" "}
+					</Text>
+					<Text color="whiteBright">
+						{(
+							(this.props.noCF / this.props.totalElements) *
+							100
+						).toFixed(2)}
+						% <Text color="gray">({this.props.noCF})</Text>
+					</Text>
+				</Box>
+				<Box>
+					<Text> </Text>
+				</Box>
+			</React.Fragment>
+		);
+	}
+}
 
 export default Statistics;

@@ -35,59 +35,63 @@ type Props = {
 	noCF: number;
 };
 
-export const Summary: React.FunctionComponent<Props> = (props: Props) => {
-	return (
-		<React.Fragment>
-			<BR />
-			{props.errors.length === 0 && (
-				<Statistics
-					providers={props.providers}
-					totalElements={props.totalElements}
-					noCF={props.noCF}
-				/>
-			)}
-			{props.errors.length >= 1 && (
-				<React.Fragment>
-					<BR />
-					<Box>
-						<Text color="red" bold>
-							Not showing statistics because errors have occurred.
+export class Summary extends React.Component<Props> {
+	render() {
+		return (
+			<React.Fragment>
+				<BR />
+				{this.props.errors.length === 0 && (
+					<Statistics
+						providers={this.props.providers}
+						totalElements={this.props.totalElements}
+						noCF={this.props.noCF}
+					/>
+				)}
+				{this.props.errors.length >= 1 && (
+					<React.Fragment>
+						<BR />
+						<Box>
+							<Text color="red" bold>
+								Not showing statistics because errors have
+								occurred.
+							</Text>
+						</Box>
+						<BR />
+					</React.Fragment>
+				)}
+				<Box>
+					<Text color="gray">
+						{this.props.exitCode === 0 ? (
+							<Text color="green" bold>
+								Success!{" "}
+							</Text>
+						) : (
+							<Text color="red" bold>
+								Failure!{" "}
+							</Text>
+						)}
+						Done with{" "}
+						<Text color="red">
+							{this.props.errors.length} error
+							{this.props.errors.length === 0 ||
+							this.props.errors.length >= 2
+								? "s"
+								: ""}{" "}
 						</Text>
-					</Box>
-					<BR />
-				</React.Fragment>
-			)}
-			<Box>
-				<Text color="gray">
-					{props.exitCode === 0 ? (
-						<Text color="green" bold>
-							Success!{" "}
+						and{" "}
+						<Text color="yellow">
+							{this.props.warnings.length} warning
+							{this.props.warnings.length === 0 ||
+							this.props.warnings.length >= 2
+								? "s"
+								: ""}
 						</Text>
-					) : (
-						<Text color="red" bold>
-							Failure!{" "}
-						</Text>
-					)}
-					Done with{" "}
-					<Text color="red">
-						{props.errors.length} error
-						{props.errors.length === 0 || props.errors.length >= 2
-							? "s"
-							: ""}{" "}
+						.
 					</Text>
-					and{" "}
-					<Text color="yellow">
-						{props.warnings.length} warning
-						{props.warnings.length === 0 ||
-						props.warnings.length >= 2
-							? "s"
-							: ""}
-					</Text>
-					.
-				</Text>
-			</Box>
-		</React.Fragment>
-	);
-};
+				</Box>
+			</React.Fragment>
+		);
+	}
+}
 
 export default Summary;

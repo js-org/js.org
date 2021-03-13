@@ -30,19 +30,21 @@ type Props = {
 	loading: boolean;
 };
 
-export const Status: React.FunctionComponent<Props> = (props: Props) => {
-	return (
-		<Box>
-			<Text color="cyan" bold>
-				{props.loading && (
-					<React.Fragment>
-						<Spinner type="dots" />{" "}
-					</React.Fragment>
-				)}
-				Status: {props.status}
-			</Text>
-		</Box>
-	);
-};
+export class Status extends React.Component<Props> {
+	render() {
+		return (
+			<Box>
+				<Text color="cyan" bold>
+					{this.props.loading && (
+						<React.Fragment>
+							<Spinner type="dots" />{" "}
+						</React.Fragment>
+					)}
+					Status: {this.props.status}
+				</Text>
+			</Box>
+		);
+	}
+}
 
 export default Status;

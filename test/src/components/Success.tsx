@@ -24,14 +24,16 @@
 import React from "react";
 import { Box, Text } from "ink";
 
-export const Success: React.FunctionComponent = () => {
-	return (
-		<Box>
-			<Text color="green" bold>
-				🎉 Success! Everything looks good.
-			</Text>
-		</Box>
-	);
-};
+export class Success extends React.Component {
+	render() {
+		return (
+			<Box>
+				<Text color="green" bold>
+					🎉 Success! Everything looks good.
+				</Text>
+			</Box>
+		);
+	}
+}
 
 export default Success;
