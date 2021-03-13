@@ -2260,6 +2260,7 @@ var cnames_active = {
   "social-likes": "sapegin.github.io/social-likes", // noCF? (don´t add this in a new PR)
   "social-likes-next": "sapegin.github.io/social-likes-next", // noCF? (don´t add this in a new PR)
   "softdoc": "hilderonny.github.io/softdoc",
+  "solar": "cutiecat6778.github.io/the_solar_system",
   "solder": "mcrocks999.github.io/solder.js",
   "solome": "solome.github.io",
   "somerandomcat": "hosting.gitbook.io", // noCF
