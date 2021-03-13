@@ -11,20 +11,36 @@ jobs:
 
         steps:
             - uses: actions/checkout@v2
-              if: github.event_name == 'push'
+            - name: Clean directories
+              if: github.event_name == 'pull_request_target'
+              run: rm -rf __fork
             - uses: actions/checkout@v2
               if: github.event_name == 'pull_request_target'
               with:
                   ref: ${{github.event.pull_request.head.ref}}
                   repository: ${{github.event.pull_request.head.repo.full_name}}
+                  path: "__fork"
             - name: Use Node.js 15
               uses: actions/setup-node@v1
               with:
                   node-version: "15"
-            - name: Use yarn 2
-              run: yarn set version berry
-            - name: Validate
-              run: yarn dlx --quiet js-org-validate
+            - name: Build validator
+              run: |
+                cd test &&
+                yarn install &&
+                yarn build &&
+                chmod +x dist/bin.js &&
+                cd $GITHUB_WORKSPACE
+            - name: Validate PR
+              if: github.event_name == 'pull_request_target'
+              run: |
+                cd __fork &&
+                ./../test/dist/bin.js &&
+                cd $GITHUB_WORKSPACE
+            - name: Validate commit
+              if: github.event_name == 'push'
+              run: |
+                ./test/dist/bin.js 
             - name: "Comment PR"
               uses: actions/github-script@v3
               if: always() && github.event_name == 'pull_request_target'
@@ -38,7 +54,7 @@ jobs:
                           issue_number,
                           owner,
                           repo,
-                          body: await fs.promises.readFile(`${process.env.GITHUB_WORKSPACE}/pull_request_comment.md`, "utf-8") 
+                          body: await fs.promises.readFile(`${process.env.GITHUB_WORKSPACE}/__fork/pull_request_comment.md`, "utf-8") 
                         }
                       );
             - name: "Comment commit"
