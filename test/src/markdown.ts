@@ -138,7 +138,7 @@ export const saveComments = (options: {
 		})
 	);
 	writeFileSync(
-		resolve(process.cwd(), "pull_request_comment.md"),
+		resolve(process.cwd(), "commit_comment.md"),
 		getMarkdown({
 			context: "commit",
 			...options,
