@@ -2466,6 +2466,7 @@ var cnames_active = {
   "tom": "tom-microservice.netlify.com",
   "tom-select": "orchidjs.github.io/tom-select",
   "tooling": "slikts.github.io/tooling",
+  "tools": "redyetidev.github.io/terminaltools",
   "tools-kit": "blackb1rd-development.github.io/tools-kit",
   "toolzar": "toolzar.netlify.app",
   "topbot": "resign05.github.io/TobWebsite",
