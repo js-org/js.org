@@ -18,7 +18,7 @@
  *              to get SSL support (https://foo.js.org) and make use of browser caching with a TTL of 30 min.
  *              But you can opt-out from this and make Cloudflare forward all requests directly to GitHub.
  *              Just add '//noCF' in the line of your requested subdomain to give us a hint.
- *              (all the lines marked awith '//noCF?' are from a time when a requester had to explicitly opt-in;
+ *              (all the lines marked with '//noCF?' are from a time when a requester had to explicitly opt-in;
  *              see: https://github.com/js-org/js.org/issues/554)
  *
  * IMPORTANT:   To authorize yourself as the owner of the GitHub Page you must have added a valid CNAME file
