@@ -637,6 +637,7 @@ var cnames_active = {
   "discord-giveaways": "androz2091.github.io/discord-giveaways",
   "discord-kr": "discordjs-kr.github.io/website",
   "discord-logs": "androz2091.github.io/discord-logs",
+  "discord-messages": "lebyy.github.io/discord-messages",
   "discord-player": "androz2091.github.io/discord-player",
   "discord-sensei": "demonicious.github.io/discord-sensei",
   "discord-webhook": "evrifaessa.github.io/discord-webhook",
