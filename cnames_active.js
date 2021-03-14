@@ -123,7 +123,9 @@ var cnames_active = {
   "alastor": "aidenybai.github.io/alastor",
   "ale": "alecefe.github.io",
   "alex": "alecs297.github.io",
-  "alexanderalvarez": "alexanderalvarez9.github.io",
+  "alexanderal
+  
+ "arez": "alexanderalvarez9.github.io",
   "alfred": "amilajack.github.io/alfred",
   "algebra": "nicolewhite.github.io/algebra.js", // noCF? (don´t add this in a new PR)
   "ali": "alibouhrouche.netlify.com",
@@ -2597,6 +2599,7 @@ var cnames_active = {
   "verse": "druidic.github.io/verse",
   "vesselize": "vesselize.github.io/docs",
   "vest": "vestjs.netlify.app",
+  "velt": "veltjs.github.io",
   "veza": "kyranet.github.io/veza",
   "vfm": "meshesha.github.io/VisualFormMaker.github.io",
   "viav": "brandondyer64.github.io/viav",
