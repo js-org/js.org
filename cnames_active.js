@@ -333,6 +333,7 @@ var cnames_active = {
   "botgram": "botgram.github.io/botgram",
   "bottender": "yoctol.github.io/bottender",
   "bottlecap": "rwbeast.github.io/bottlecap",
+  "botui-cn": "botui-docs-cn.netlify.app",
   "boundless": "enigma-io.github.io/boundless",
   "box": "capacitorset.github.io/box-js", // noCF
   "boxed": "lionking27.github.io/boxed",
