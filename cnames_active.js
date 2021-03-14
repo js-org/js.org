@@ -709,6 +709,7 @@ var cnames_active = {
   "dynamic-record": "na-west1.surge.sh",
   "dynamicsnode": "crisfervil.github.io/DynamicsNode",
   "dyo": "dyo.github.io/dyo",
+  "discord-messages": "lebyy.github.io/discord-messages",
   "eahmed234": "eahmed234.github.io",
   "ease": "chisel.github.io/ease",
   "easy-bot": "bigaston.github.io/easy-bot",
