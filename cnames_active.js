@@ -640,6 +640,7 @@ var cnames_active = {
   "discord-messages": "lebyy.github.io/discord-messages",
   "discord-player": "androz2091.github.io/discord-player",
   "discord-sensei": "demonicious.github.io/discord-sensei",
+  "discord-voice": "lebyy.github.io/discord-voice",
   "discord-webhook": "evrifaessa.github.io/discord-webhook",
   "discord4node": "mrsheldon.github.io/Discord4Node",
   "discordhy": "readthedocs.io",
