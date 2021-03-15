@@ -2597,6 +2597,7 @@ var cnames_active = {
   "verse": "druidic.github.io/verse",
   "vesselize": "vesselize.github.io/docs",
   "vest": "vestjs.netlify.app",
+  "velt": "veltjs.github.io",
   "veza": "kyranet.github.io/veza",
   "vfm": "meshesha.github.io/VisualFormMaker.github.io",
   "viav": "brandondyer64.github.io/viav",
