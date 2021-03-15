@@ -1301,6 +1301,7 @@ var cnames_active = {
   "lad": "ladjs.github.io/lad",
   "lambda": "lambdajs.github.io", // noCF? (don´t add this in a new PR)
   "lance": "lancepioch.com",
+  "landing-starter": "liwalt.github.io/landing-starter",
   "landrielportafolio": "arielandriel30.github.io/landrielportafolio",
   "languages": "rsamaium.github.io/Languages",
   "lanye": "lanye.github.io",
