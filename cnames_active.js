@@ -454,6 +454,7 @@ var cnames_active = {
   "classroom": "epoxydevelopment.github.io/Classroom",
   "clause": "clausejs.github.io/clausejs",
   "cleanblog": "cleanblog.github.io",
+  "cleaners": "swansontec.github.io/cleaners",
   "clearlyelevated": "clearlyelevated.github.io",
   "clevercord": "theanidox.github.io/Clevercord",
   "clickforhelp": "clickforhelp.netlify.app",
