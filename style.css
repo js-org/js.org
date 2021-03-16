@@ -301,3 +301,16 @@ section {
   #typewriter {
     font-size: 1.5em;
     font-weight: 700; } }
+
+.first {
+  white-space: nowrap;
+  font-size: 1.5em;
+  margin-right: 2em;
+  font-weight: bold;
+}
+
+.second {
+  white-space: nowrap;
+  padding-left: 1em;
+  font-size: 1.5em;
+}
