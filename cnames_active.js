@@ -46,6 +46,7 @@ var cnames_active = {
   "140513": "140513.github.io",
   "1c": "oknosoft.github.io/1c",
   "1diaboliko84": "1diaboliko84.github.io",
+  "1host": "1host.github.io",
   "21cm": "21cm.github.io",
   "23chemistrycamp": "nchuchemistry.github.io/23chemistrycamp",
   "2tube": "you2php.github.io/you2php",
@@ -2566,7 +2567,6 @@ var cnames_active = {
   "urmom": "urmomjs.github.io/urmom.js",
   "useful-apis": "yuu0007.github.io/useful-apis",
   "userapi": "2e5412da-43b0-45fd-b2cf-6dbdb92e5c13.repl.co", // noCF
-  "usernamegen": "aryan02420.github.io/usernamegen",
   "usetable-ahooks": "usetable-ahooks.surge.sh",
   "useworker": "useworker.netlify.com",
   "ushakov": "ushakov-igor.github.io/ushakov",
