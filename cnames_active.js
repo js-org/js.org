@@ -101,6 +101,7 @@ var cnames_active = {
   "afilters": "dmytrohoi.github.io/afilters.js",
   "afmsavage": "afmsavage.github.io",
   "agentnpm": "meetping.github.io/agentnpm",
+  "agensbobet":"idnpokeer.github.io/agensbobet/",
   "aghasemi": "aghasemi.github.io",
   "agilecards": "otaklapka.github.io/agilecards",
   "agma": "uwynell.github.io/agma.js",
@@ -2796,8 +2797,7 @@ var cnames_active = {
   "zxy": "ZXYFrank.github.io",
   "zyh": "zyh-chopper.github.io/zyh",
   "zykj": "zykj.now.sh", // noCF
-  "zyy": "zyyou.github.io/notes",
-  "agensbobet":"idnpokeer.github.io/agensbobet/"
+  "zyy": "zyyou.github.io/notes"
   /*
    * please don't add your subdomain records down here!
    * insert them in alphabetical order to help reduce merge conflicts.
