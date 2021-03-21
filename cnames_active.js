@@ -1966,6 +1966,7 @@ var cnames_active = {
   "react-character-map": "vpukhanov.github.io/react-character-map",
   "react-chart": "react-charts.netlify.com",
   "react-charts": "react-charts.netlify.com",
+  "react-chef": "web-slate.github.io/react-chef",
   "react-command-palette": "react-command-palette.netlify.com",
   "react-controlled-form": "rofrischmann.github.io/react-controlled-form",
   "react-coroutine": "alexeyraspopov.github.io/react-coroutine",
