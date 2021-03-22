@@ -2341,6 +2341,7 @@ var cnames_active = {
   "stino": "stinobe.github.io/Stino",
   "stockings": "kgroat.github.io/stockings",
   "stoneyallen": "stoneyallen.github.io",
+  "stone": "shimengfei.github.io",
   "storage": "uzitech.github.io/storage.js",
   "storybook": "storybooks.netlify.com", // noCF
   "storybook-addon-paddings": "storybook-addon-paddings.netlify.app",
