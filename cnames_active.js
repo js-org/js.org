@@ -610,6 +610,7 @@ var cnames_active = {
   "democracy": "invisible-college.github.io/democracy",
   "denalon": "denalon.github.io",
   "denisvieira": "denisvieira05.github.io",
+  "deno-algorithm": "hylerrix.github.io/deno-algorithm",
   "deno-tutorial": "hylerrix.github.io/deno-tutorial",
   "deox": "deox.netlify.com",
   "deportes": "andreapins.github.io/Deportes-Gacetis",
