@@ -1614,7 +1614,7 @@ var cnames_active = {
   "myetyet": "e9wdur.coding-pages.com",
   "mylas": "raouldeheer.github.io/Mylas",
   "mysketch": "dipanshkhandelwal.github.io/MySketch",
-  "mythbusters": "mythbustersjs.netlify.com",
+  "mythbusters": "cname.vercel-dns.com",
   "myurl": "marvnet.github.io/myurl",
   "mzaini30": "mzaini30.github.io",
   "mzplayer": "prince3661.github.io/Mzplayer",
