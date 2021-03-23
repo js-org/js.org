@@ -2480,7 +2480,7 @@ var cnames_active = {
   "tjys": "qikaile.github.io/tjys-notes",
   "tmr": "ttttmr.github.io",
   "toad": "wnda.github.io/toad",
-  "tom": "tom-microservice.netlify.com",
+  "tom": "cname.vercel-dns.com",
   "tom-select": "orchidjs.github.io/tom-select",
   "tooling": "slikts.github.io/tooling",
   "tools-kit": "blackb1rd-development.github.io/tools-kit",
