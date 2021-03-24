@@ -2371,7 +2371,7 @@ var cnames_active = {
   "sudoku": "andreynering.github.io/sudoku",
   "sug": "opensug.github.io/sug.js.org",
   "suggestcord": "suggestcord.github.io/docs",
-  "suggester": "suggester-bot.github.io/Documentation",
+  "suggester": "suggester.github.io/Documentation",
   "suka": "sukkaw.github.io",
   "sulky": "shingle.github.io/sulky", // noCF? (don´t add this in a new PR)
   "suman": "devsumanmdn.github.io",
