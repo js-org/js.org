@@ -730,7 +730,7 @@ var cnames_active = {
   "eco": "quick-eco.netlify.app",
   "ecstar": "mouse484.github.io/Ecstar",
   "ed2k": "sunnyli.github.io/ed2k.js",
-  "ee": "https://gleatd01.github.io/ee",
+  "ee": "gleatd01.github.io/ee",
   "ef": "classicoldsong.github.io/ef.js.org",
   "effectful": "awto.github.io/effectfuljs",
   "effects": "effectsjs.github.io/effectsjs",
