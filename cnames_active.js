@@ -650,6 +650,7 @@ var cnames_active = {
   "discord4node": "mrsheldon.github.io/Discord4Node",
   "discordhy": "readthedocs.io",
   "discordlib": "hosting.gitbook.com",
+  "parsa": "im-parsa.github.io",
   "discords": "botstudios.github.io/discords.js.org",
   "discordutility": "chaosphoe.github.io/discordutility",
   "display": "arguiot.github.io/DisplayJS",
