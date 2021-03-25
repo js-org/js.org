@@ -2738,6 +2738,7 @@ var cnames_active = {
   "wowufoundme": "wowufoundme.github.io",
   "wpwebpack": "oblakstudio.github.io/wpwebpack",
   "writebar": "alexander-shvets.github.io/writebar",
+  "wshunli": "wshunli.github.io/wshunli.js.org",
   "wss": "iguanren.github.io/wss",
   "wstool": "sy-records.github.io/wstool", // noCF
   "wugenqiang": "wugenqiang.github.io/wugenqiang.js.org",
