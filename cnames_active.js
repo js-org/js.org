@@ -1410,7 +1410,6 @@ var cnames_active = {
   "lyertia": "lyertia.github.io",
   "lyf": "shbwb.github.io/lyf",
   "lyra": "amansahil.github.io/lyra.js.org",
-  "lyrics": "wztlink1013.github.io/lyrics",
   "lzbible": "edwinyosorahardjo.github.io/lzbible",
   "m01i0ng": "m01i0ng.github.io",
   "m8bot": "mapreiff.github.io/m8-bot-site",
