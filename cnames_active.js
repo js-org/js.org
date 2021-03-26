@@ -933,6 +933,7 @@ var cnames_active = {
   "gem": "gem-docs.netlify.app",
   "gem-book": "gem-book.netlify.app",
   "geniucker": "geniucker.github.io",
+  "genius-lyrics": "zyrouge.github.io/genius-lyrics",
   "genpasswd": "exos.github.io/genpasswd", // noCF? (don´t add this in a new PR)
   "geolocation-promise": "js-pugilist.github.io/geolocation-promise",
   "george": "georgeyue.github.io/george",
