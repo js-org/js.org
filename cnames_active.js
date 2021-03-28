@@ -2669,6 +2669,7 @@ var cnames_active = {
   "vuelidate": "vuelidate.netlify.com",
   "vuelog": "myst729.github.io/Vuelog",
   "vueuse": "vueuse.netlify.com",
+  "vue-utterances": "glitch.edgeapp.net",
   "vuikit": "vuikit.netlify.com",
   "vulcandocs": "hosting.gitbook.com",
   "vxv": "vxv.netlify.com",
