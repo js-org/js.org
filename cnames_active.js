@@ -2014,6 +2014,7 @@ var cnames_active = {
   "reactql": "leebenson.github.io/reactql-site",
   "readcolor": "keiww.github.io/readcolorhex",
   "readit": "teebu.github.io/readit",
+  "realbooru": "redsplit.github.io/realbooru",
   "realt": "vnkitaev.github.io/realt",
   "realtime": "datamcfly.github.io/realtimejs", // noCF? (don´t add this in a new PR)
   "ream": "ream.netlify.com",
