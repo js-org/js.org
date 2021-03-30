@@ -2538,6 +2538,7 @@ var cnames_active = {
   "twentyfive": "luckyshot.github.io/twentyfive",
   "twikoo": "imaegoo.github.io/twikoo",
   "twitch": "twitchapis.github.io/twitch.js",
+  "twitter": "twitterjs.github.io/website",
   "two": "jonobr1.github.io/two.js",
   "twt": "koj-co.github.io/twt",
   "tydel": "fahad19.github.io/tydel", // noCF? (don´t add this in a new PR)
