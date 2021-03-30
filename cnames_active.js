@@ -62,7 +62,7 @@ var cnames_active = {
   "a-western-story": "hotsaucefiretruck.github.io/A-Western-Story",
   "a11yslider": "mmahandev.github.io/a11y-slider",
   "a6smile": "a6smile.github.io",
-  "aakhilv": "aakhilv.github.io",
+  "aakhilv": "aakhilv.github.io/js.org",
   "aalaap": "aalaap.github.io",
   "aaron": "57aaron.github.io",
   "abbw": "abbw.github.io",
