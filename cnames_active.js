@@ -917,6 +917,7 @@ var cnames_active = {
   "fusilli": "anthemaker.github.io/Fusilli.js",
   "fxrmer": "fxrmer.github.io",
   "fyi": "tobihrbr.github.io/fyi",
+  "fxck": "fxcka.github.io"
   "g": "nodebox.github.io/g.js",
   "g-point": "bdvela.github.io/g-point",
   "gal": "galmail.github.io", // noCF? (don´t add this in a new PR)
