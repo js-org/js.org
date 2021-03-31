@@ -2680,6 +2680,8 @@ var cnames_active = {
   "wahtson": "wahtson.github.io",
   "waline": "waline.netlify.app",
   "wangdabao": "wangdabaoqq.github.io/me",
+  "wangdabao-doc": "wangdabaoqq.github.io/documents",
+  "wangdabao-map": "wangdabaoqq.github.io/map-transform",
   "wanna": "mkermani144.github.io/wanna",
   "warrior": "olistic.github.io/warriorjs",
   "warship": "vflopes.github.io/warship",
