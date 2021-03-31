@@ -2360,6 +2360,7 @@ var cnames_active = {
   "stress": "julindra.github.io/stress.js",
   "structure": "hosting.gitbook.io", // noCF
   "strudel": "strudeljs.netlify.com",
+  "strygwyr": "sinkaroid.github.io/strygwyr",
   "stuck": "linuxenko.github.io/unstuck-webpack",
   "studios": "botstudios.github.io/Studios",
   "style": "dhilipsiva.github.io/style.js", // noCF? (don´t add this in a new PR)
