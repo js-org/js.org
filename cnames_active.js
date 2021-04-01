@@ -2487,6 +2487,7 @@ var cnames_active = {
   "tinylinux": "e8johan.github.io/tiny-js", // noCF? (don´t add this in a new PR)
   "tit": "wenjiasen.github.io/tit",
   "tixol": "vcxiz.github.io/tixol",
+  "tixte": "macedonga.github.io/tixte.js",
   "tiza": "pd4d10.github.io/tiza",
   "tjys": "qikaile.github.io/tjys-notes",
   "tmr": "ttttmr.github.io",
