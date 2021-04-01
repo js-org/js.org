@@ -2259,6 +2259,7 @@ var cnames_active = {
   "skim": "muratg.github.io/skim",
   "skratch": "websyncs.github.io/skratch",
   "sksamim": "esksamim.github.io/sksamim",
+  "skylershu": "skylershu.github.io",
   "slang": "ramadis.github.io/slang", // noCF? (don´t add this in a new PR)
   "slash-create": "snazzah.github.io/slash-create-website",
   "slate": "iamshouvikmitra.github.io/slate",
