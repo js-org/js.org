@@ -2239,6 +2239,7 @@ var cnames_active = {
   "simba": "jonathanzero.github.io/simba",
   "simonhans": "simonhans.github.io",
   "simple": "lescinskiscom.github.io/simple-js",
+  "simple-pip": "sleepiie.github.io/simple-pip",
   "simplecounter": "tomkiernan120.github.io/simplecounter",
   "simplecrypto": "danang-id.github.io/simple-crypto-js",
   "simpler-state": "arnelenero.github.io/simpler-state",
