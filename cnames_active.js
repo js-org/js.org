@@ -396,6 +396,7 @@ var cnames_active = {
   "captcha-canvas": "shashank3736.github.io/captcha-canvas",
   "car": "pakastin.github.io/car",
   "cardtabs": "blekerfeld.github.io/CardTabs",
+  "careteen": "careteenl.github.io/blog",
   "cargo": "herber.github.io/cargo",
   "carloseduardo": "karllossouza.github.io/carloseduardo.js.org",
   "carmi": "wix-incubator.github.io/carmi",
