@@ -1517,6 +1517,7 @@ var cnames_active = {
   "mina": "CenturyUna.github.io/mina",
   "mindyourtime": "michaloslav.github.io/Mind-Your-Time",
   "mine": "minenode.github.io",
+  "minecraft": "michaljaz.github.io/web-minecraft",
   "minecraft-data.prismarine": "prismarinejs.github.io/minecraft-data",
   "mineflayer.prismarine": "prismarinejs.github.io/mineflayer",
   "minehutsupport": "baibeebambi.github.io/minehutsupport",
