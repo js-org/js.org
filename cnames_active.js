@@ -188,6 +188,7 @@ var cnames_active = {
   "argon": "suspicious-thompson-8ecfb9.netlify.app",
   "ari": "arbo77.github.io/ari",
   "ariang": "p3terx.github.io/ariang", // noCF
+  "ariana": "logicapples.github.io/arianajs",
   "arief": "1997arief.github.io",
   "arime": "ninbryan.github.io/arime", // noCF? (don´t add this in a new PR)
   "arithmy": "arithmy.netlify.app",
