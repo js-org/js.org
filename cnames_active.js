@@ -2459,7 +2459,7 @@ var cnames_active = {
   "termi": "wearetermi.github.io/termi",
   "terminal": "gottox.github.io/terminal.js", // noCF? (don´t add this in a new PR)
   "testframe": "testingrequired.github.io/testframe",
-  "tetr.js": "proximitynow.me/TETR.JS/",
+  "tetr": "proximitynow.me/TETR.JS/",
   "textillate": "jschr.github.io/textillate", // noCF? (don´t add this in a new PR)
   "textmark": "sahilister.github.io/textmark",
   "thea": "idokutela.github.io/thea",
