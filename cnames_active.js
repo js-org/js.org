@@ -406,6 +406,7 @@ var cnames_active = {
   "catbox": "samsamson33.github.io/catbox.js",
   "cats": "whoisjorge.github.io/not-cat-gifs",
   "cbm": "iamnapo.github.io/cbmjs",
+  "cc": "aika107.github.io/jsorg",
   "cdi": "kiprox.github.io/Candro-Drive-Index",
   "cdll": "cdll.github.io",
   "cdoor": "cdoor.github.io",
