@@ -534,6 +534,7 @@ var cnames_active = {
   "cover": "cover-ui.github.io",
   "covid": "offpe.github.io/react-covid19-stats",
   "cp": "nestedobjects.github.io/cp",
+  "cpd": "log-legendx.github.io/Codexpoint-Development",
   "cplayer": "copay.github.io/cPlayer",
   "cppkies": "cppkies-team.github.io/Cppkies",
   "cq-websocket": "momocow.github.io/node-cq-websocket",
