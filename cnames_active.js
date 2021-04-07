@@ -78,6 +78,7 @@ var cnames_active = {
   "acarsy": "acarsy.github.io",
   "accessibility": "guilhermedelemos.github.io/accessibility",
   "accordion": "awps.github.io/Accordion.JS",
+  "arya": "aryasarukkai.github.io"
   "acebooks": "mohamed0group.github.io/acebooks",
   "acegroup": "mohamed0group.github.io/acegroup",
   "acho": "achojs.github.io/acho",
