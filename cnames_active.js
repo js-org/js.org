@@ -2121,6 +2121,7 @@ var cnames_active = {
   "room": "atercerosb.github.io/roomHomepage",
   "roosterapp": "roembol2000.github.io/roosterapp-mobile",
   "rosmaro": "lukaszmakuch.github.io/rosmaro",
+  "rose": "discord-rose.github.io/discord-rose",
   "router-advanced": "oldergod.github.io/router-advanced",
   "router5": "hosting.gitbook.com",
   "routex": "routex.netlify.com",
