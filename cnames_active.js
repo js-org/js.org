@@ -59,6 +59,7 @@ var cnames_active = {
   "8log": "8log.netlify.app",
   "98": "1j01.github.io/98",
   "9932": "dannyzhan.github.io",
+  "a": "left11.github.io/a",
   "a-western-story": "hotsaucefiretruck.github.io/A-Western-Story",
   "a11yslider": "mmahandev.github.io/a11y-slider",
   "a6smile": "a6smile.github.io",
