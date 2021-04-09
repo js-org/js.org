@@ -673,7 +673,7 @@ var cnames_active = {
   "dns": "js-org.github.io/dns.js.org",
   "docile": "teamtofu.github.io/docile",
   "docs.light": "hosting.gitbook.com", // noCF
-  "docs.mosaic": "scandipwa.gitbook.io/mosaic", // noCF
+  "docs.mosaic": "hosting.gitbook.io", // noCF
   "docsify": "docsifyjs.github.io/docsify",
   "docsify-es": "sidval.github.io/docsify-es",
   "docsify-ru": "truepatch.github.io/docsify-ru",
