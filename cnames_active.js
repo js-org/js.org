@@ -1351,7 +1351,7 @@ var cnames_active = {
   "lev": "lev-savranskiy.github.io",
   "level": "xv700.github.io/level",
   "lf": "lf112.github.io",
-  "lgmportafolio": "https://luisgerezm.github.io/Portafolio/",
+  "lgmportafolio": "luisgerezm.github.io/lgmportafolio",
   "lgs": "lgsturkiye.github.io/lgs",
   "li": "mattsimmons1.github.io/li",
   "libphonenumbers": "libphonenumbers.github.io",
