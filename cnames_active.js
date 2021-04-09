@@ -347,6 +347,7 @@ var cnames_active = {
   "breadbot": "centralomd.github.io/breadbot",
   "brawley": "brawlie.github.io/brawley",
   "bricklayer": "ademilter.github.io/bricklayer", // noCF? (don´t add this in a new PR)
+  "Briefcase":"clog10.github.io/Briefcase/",
   "brizusan": "blackmyab.github.io/brizusan",
   "brotat": "mariobob.github.io/brotat-website",
   "browserless": "kikobeats.github.io/browserless",
