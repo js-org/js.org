@@ -158,9 +158,9 @@
 
     <script src="/main.js" defer></script>
     <script>
-        document.getElementById("sd").innerText = window.location.search.slice(1);
+        document.getElementById("sd").innerText = window.location.search.slice(1).replace(/.js$/,"");
         setTimeout(function () {
-            window.location.href = 'https://js.org/' + window.location.search;
+            window.location.href = 'https://js.org/' + window.location.search.replace(/.js$/,"");
         }, 10000);
     </script>
 
