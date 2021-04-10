@@ -2270,6 +2270,7 @@ var cnames_active = {
   "sksamim": "esksamim.github.io/sksamim",
   "slang": "ramadis.github.io/slang", // noCF? (don´t add this in a new PR)
   "slash-create": "snazzah.github.io/slash-create-website",
+  "slashdeno": "hosting.gitbook.io",
   "slate": "iamshouvikmitra.github.io/slate",
   "slidemenu": "alexkratky.github.io/SlideMenu.js",
   "slideout": "mango.github.io/slideout",
