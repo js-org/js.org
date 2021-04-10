@@ -1,22 +1,23 @@
 /*
  **** RESTRICTED SUBDOMAINS
  * **************************
- * 
+ *
  * for the moment the following subdomains are restricted
  * the list is not necessarily complete and could be extend at some point
- * 
- * 
+ *
+ *
  **** EXPLANATION
  * ****************
- * 
+ *
  *      Some of these subdomains are reserved for JS.ORG itself (e.g.: mail.js.org, admin.js.org).
  *      Others are so generic that they should be used for community driven pages only (e.g.: blog.js.org, docs.js.org).
  *      If you are willing to use one of the restricted subdomains in a way the community can benefit and participate, you can always file an issue and start a discussion.
- * 
+ *
  */
 
 var cnames_restricted = [
-    "(1/2/3/...)"
+    "(1/2/3/...)",
+    "a11y",
     "about",
     "account(s)",
     "ad(s)",
@@ -28,6 +29,7 @@ var cnames_restricted = [
     "array(s)",
     "asm",
     "async",
+    "awesome",
     "backup(s)",
     "bar",
     "base",
@@ -88,6 +90,7 @@ var cnames_restricted = [
     "event(s)",
     "exchange",
     "faq(s)",
+    "feed",
     "file(s)",
     "find",
     "foo",
@@ -115,6 +118,7 @@ var cnames_restricted = [
     "hq",
     "html",
     "hub(s)",
+    "i18n",
     "imap",
     "index",
     "info(s)",
@@ -122,6 +126,7 @@ var cnames_restricted = [
     "io",
     "js",
     "json",
+    "l10n",
     "learn",
     "legal(s)",
     "lesson(s)",
@@ -193,7 +198,7 @@ var cnames_restricted = [
     "serv",
     "server(s)",
     "service(s)",
-    "shop(s)"
+    "shop(s)",
     "site(s)",
     "smtp",
     "socket(s)",
