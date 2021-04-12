@@ -1716,6 +1716,7 @@ var cnames_active = {
   "notibar": "duyetdev.github.io/notibar.js",
   "novasheets": "novasheets.netlify.app",
   "npkill": "voidcosmos.github.io/npkill",
+  "nplayer": "woopen.github.io/nplayer",
   "npmer": "rumkin.github.io/npm-watch",
   "npmgraph": "npmgraph.github.io",
   "nsp": "hanul.github.io/NSP", // noCF? (don´t add this in a new PR)
