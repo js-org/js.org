@@ -1141,6 +1141,7 @@ var cnames_active = {
   "intelligo": "intelligo.netlify.com",
   "intertwinestaff": "10edddac-f638-4b01-be83-90301467e7f6.repl.co", // noCF
   "interview": "fengzilong.github.io/interview-101",
+  "invryan": "invryan.github.io"
   "invoicing": "vahe.github.io/InvoicingJs",
   "iori": "iori20091101.github.io",
   "iot": "product-engineer.github.io/iot.js.org", // noCF
