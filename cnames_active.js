@@ -1974,6 +1974,7 @@ var cnames_active = {
   "randomer": "kzacharski.github.io/randomer",
   "randy": "randyviandaputra.github.io",
   "rangeslider": "andreruffert.github.io/rangeslider.js", // noCF? (don´t add this in a new PR)
+  "rantemma": "rantemma.github.io",
   "rasti": "8tentaculos.github.io/rasti",
   "rate-limiter-api": "abhisekp.github.io/rate-limiter-api",
   "ravelloh": "ravello-h.github.io",
