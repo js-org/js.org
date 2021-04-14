@@ -944,6 +944,7 @@ var cnames_active = {
   "geolocation-promise": "js-pugilist.github.io/geolocation-promise",
   "george": "georgeyue.github.io/george",
   "geotargeting": "sntran.github.io/geotargeting",
+  "geppetto": "matthijsgroen.github.io/geppetto",
   "geralcr": "geralcr.github.io/Portafolio",
   "gerardo": "gvzq.github.io/gerardo",
   "german": "dipanshkhandelwal.github.io/Learning-German",
