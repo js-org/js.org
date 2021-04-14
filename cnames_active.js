@@ -1418,6 +1418,7 @@ var cnames_active = {
   "lyertia": "lyertia.github.io",
   "lyf": "shbwb.github.io/lyf",
   "lyra": "amansahil.github.io/lyra.js.org",
+  "lyrics": "wztlink1013.github.io/lyrics",
   "lzbible": "edwinyosorahardjo.github.io/lzbible",
   "memer-api": "shinchanop.github.io/memerapi-docs",
   "m01i0ng": "m01i0ng.github.io",
