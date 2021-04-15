@@ -2625,6 +2625,7 @@ var cnames_active = {
   "v4.webpack": "webpack.github.io/v4.webpack.js.org", // noCF
   "v4f": "v4f.netlify.com",
   "vac": "mlinquan.github.io/vue-awesome-countdown",
+  "vademecum-rrg": "ruxo-rod.github.io/portafolio",
   "vagus": "thevagus.github.io",
   "valence-native": "valence-native.github.io/valence-native",
   "valentin": "valentinvieriu.github.io", // noCF? (don´t add this in a new PR)
