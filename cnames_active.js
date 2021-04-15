@@ -1141,7 +1141,7 @@ var cnames_active = {
   "intelligo": "intelligo.netlify.com",
   "intertwinestaff": "10edddac-f638-4b01-be83-90301467e7f6.repl.co", // noCF
   "interview": "fengzilong.github.io/interview-101",
-  "invidiousup": "https://alefvanoon.github.io/invidious-uptime",
+  "invidiousup": "alefvanoon.github.io/invidious-uptime",
   "invoicing": "vahe.github.io/InvoicingJs",
   "iori": "iori20091101.github.io",
   "iot": "product-engineer.github.io/iot.js.org", // noCF
@@ -1692,7 +1692,7 @@ var cnames_active = {
   "ninh": "reeganexe.github.io/ninh",
   "nintenbot": "nintenzone.github.io/NintenBot",
   "nite": "manvalls.github.io/nite",
-  "nitterup": "https://alefvanoon.github.io/nitter-uptime",
+  "nitterup": "alefvanoon.github.io/nitter-uptime",
   "nnmap": "marzavec.github.io/nnmap.js",
   "nobelium": "cname.vercel-dns.com", // noCF
   "noblox": "suufi.github.io/noblox.js",
