@@ -2792,6 +2792,7 @@ var cnames_active = {
   "xhy": "xhy.github.io",
   "xi102": "xi102.github.io",
   "xiangqiz": "xiangqiz.github.io/Hello",
+  "devlunch": "https://superzackx.github.io/DevLunch",
   "xiaolan": "mcxiaolan.github.io",
   "xprmntl": "xprmntl.github.io", // noCF? (don´t add this in a new PR)
   "xss": "tennc.github.io/xss",
