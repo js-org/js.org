@@ -628,9 +628,10 @@ var cnames_active = {
   "device": "vpodk.github.io/device",
   "dev-panel": "Involve-Digital.github.io/dev-panel",
   "developerfolio": "saadpasta.github.io/developerFolio",
+  "devfolio": "anilseervi.github.io/DevFolio",
   "devilapi": "devilapi.kazult.repl.co", // noCF
   "devilowl": "website.kazult.repl.co", // noCF
-  "devfolio": "anilseervi.github.io/DevFolio",
+  "devlunch": "superzackx.github.io/DevLunch",
   "devsession": "lukasbach.github.io/devsession",
   "devtr": "zmorcy.github.io/devtr.github.io",
   "dgelong": "alexeyraspopov.github.io/dgelong", // noCF? (don´t add this in a new PR)
