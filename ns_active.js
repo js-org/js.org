@@ -15,8 +15,13 @@
  var ns_active = {
   "appshelf": ["ns31.cloudns.net", "ns32.cloudns.net", "ns33.cloudns.net", "ns34.cloudns.net"],
   "castyte": ["ns31.cloudns.net", "ns32.cloudns.net", "ns33.cloudns.net", "ns34.cloudns.net"],
-  "engine262": ["ns5.he.net", "ns4.he.net", "ns3.he.net", "ns2.he.net"],
-  "ruby": ["ns11.cloudns.net", "ns12.cloudns.net", "ns13.cloudns.net", "ns14.cloudns.net"],
+  "engine262": ["brad.ns.cloudflare.com", "lia.ns.cloudflare.com"],
+  "lolifamily": ["glen.ns.cloudflare.com","melany.ns.cloudflare.com"],
+  "ruby": ["alexis.ns.cloudflare.com", "connie.ns.cloudflare.com"],
   "samplasion": ["ns31.cloudns.net", "ns32.cloudns.net", "ns33.cloudns.net", "ns34.cloudns.net"],
   "shebang": ["dns1.p01.nsone.net", "dns2.p01.nsone.net", "dns3.p01.nsone.net", "dns4.p01.nsone.net"]
  }
+
+/*
+* The allocation of new ns records is discontinued (at the moment)
+*/
