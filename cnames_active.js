@@ -779,6 +779,7 @@ var cnames_active = {
   "energy": "energychain.github.io/energy",
   "eon": "eon-web.github.io/eon",
   "epicker": "eling486.github.io/EPicker-docs",
+  "epi": "quantalabs.github.io/EpiJS",
   "eplayer": "132yse.github.io/eplayer",
   "epoxy": "hosting.gitbook.com",
   "eq8": "eq8.github.io",
