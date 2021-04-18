@@ -2058,6 +2058,7 @@ var cnames_active = {
   "redux-agent": "bard.github.io/redux-agent",
   "redux-aggregate": "redux-aggregate.netlify.com",
   "redux-arc": "viniciusdacal.github.io/redux-arc",
+  "redux-cool": "redux-cool.github.io/redux-cool",
   "redux-data-structures": "adrienjt.github.io/redux-data-structures",
   "redux-dynamic-modules": "microsoft.github.io/redux-dynamic-modules",
   "redux-leaves": "redux-leaves.netlify.com",
