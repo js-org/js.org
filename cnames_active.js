@@ -1528,6 +1528,7 @@ var cnames_active = {
   "react-leaflet": "paullecam.github.io/react-leaflet",
   "react-move": "react-move.netlify.com",
   "react-native-floating-labels": "mayank-patel.github.io/react-native-floating-labels",
+  "react-native-csv": "react-native-csv.github.io",
   "react-observatory": "hosting.gitbook.com",
   "react-papaparse": "react-papaparse.github.io",
   "reactpatterns": "reactpatterns.github.io",
