@@ -1725,7 +1725,7 @@ var cnames_active = {
   "npkill": "voidcosmos.github.io/npkill",
   "nplayer": "woopen.github.io/nplayer",
   "npmer": "rumkin.github.io/npm-watch",
-  "npmgraph": "npmgraph.github.io",
+  "npmgraph": "cname.vercel-dns.com",
   "nsp": "hanul.github.io/NSP", // noCF? (don´t add this in a new PR)
   "nsptiles": "imthenachoman.github.io/nSPTiles", // noCF? (don´t add this in a new PR)
   "nsw-coronavirus": "maxgherman.github.io/nsw-coronavirus",
