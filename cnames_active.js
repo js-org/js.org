@@ -2854,6 +2854,7 @@ var cnames_active = {
   "zxy": "ZXYFrank.github.io",
   "zyh": "zyh-chopper.github.io/zyh",
   "zykj": "zykj.now.sh", // noCF
+  "ikro": "wujiops.github.io",
   "zyy": "zyyou.github.io/notes"
   /*
    * please don't add your subdomain records down here!
