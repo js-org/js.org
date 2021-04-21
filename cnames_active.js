@@ -1651,6 +1651,7 @@ var cnames_active = {
   "naseem": "naseemali925.github.io/about-me",
   "nasix": "nasixjs.imfast.io", // noCF
   "nastya-piu": "nastya-piu.github.io",
+  "natan": "mascheroninatan.github.io"
   "nativemodels": "prefinem.github.io/nativemodels",
   "naughtychecker": "gautamkrishnar.github.io/naughtychecker.js",
   "nautil": "tangshuang.github.io/nautil",
