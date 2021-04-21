@@ -2857,6 +2857,7 @@ var cnames_active = {
   "zyh": "zyh-chopper.github.io/zyh",
   "zykj": "zykj.now.sh", // noCF
   "zyy": "zyyou.github.io/notes"
+  "willsight": "wearehere8.github.io",
   /*
    * please don't add your subdomain records down here!
    * insert them in alphabetical order to help reduce merge conflicts.
