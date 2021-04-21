@@ -318,7 +318,7 @@ var cnames_active = {
   "blurple": "blurplejs.github.io/docs",
   "bo": "lfb.github.io/bojs",
   "boats": "discordboats.github.io",
-  "bob16077777": "bob16077777.github.io/website",
+  "bob16077777": "bob16077.github.io/website",
   "bodybuilder": "danpaz.github.io/bodybuilder", // noCF? (don´t add this in a new PR)
   "boiler": "ro0t.github.com/Boiler",
   "boilerplates": "ckgrafico.github.io/frontend-boilerplates",
