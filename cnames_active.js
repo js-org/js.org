@@ -291,6 +291,7 @@ var cnames_active = {
   "between": "na-west1.surge.sh",
   "bfd": "mrsheldon.github.io/bfd.js",
   "bhadoo-cloud": "ParveenBhadooOfficial.github.io/Bhadoo-Cloud",
+  "bhattcodes" : "bhattcodes.github.io",
   "bigbrainbot": "112batman.github.io/bigbrainbot-website",
   "bijou": "explosion-scratch.github.io/bijou.js",
   "bin": "sujalgoel.github.io/impostor-bin",
