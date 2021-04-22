@@ -2269,7 +2269,7 @@ var cnames_active = {
   "simple-pip": "sleepiie.github.io/simple-pip",
   "simplecounter": "tomkiernan120.github.io/simplecounter",
   "simplecrypto": "danang-id.github.io/simple-crypto-js",
-  "simpleedit": "simpleedit.github.io",
+  "simpleedit": "simpleedit.github.io/website",
   "simpler-state": "arnelenero.github.io/simpler-state",
   "simples": "micnic.github.io/simples",
   "simplesnake": "aktindo.github.io/Simple_Snake_Game",
