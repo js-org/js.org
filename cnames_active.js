@@ -1056,6 +1056,7 @@ var cnames_active = {
   "highfive": "hosting.gitbook.io", // noCF
   "highway": "dogstudio.github.io/highway",
   "hijiangtao": "hijiangtao.github.io/hijiangtao.js.org",
+  "hikidashi": "kaihodev.github.io/hikidashi",
   "hilo": "erikroyall.github.io/hilo", // noCF? (don´t add this in a new PR)
   "hilo3d": "hiloteam.github.io/Hilo3d",
   "hippy": "zoomchan-cxj.github.io/Hippy",
