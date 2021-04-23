@@ -298,6 +298,7 @@ var cnames_active = {
   "bind-action-dispatchers": "cchamberlain.github.io/bind-action-dispatchers", // noCF? (don´t add this in a new PR)
   "bingsu": "bingsu-js.gitlab.io",
   "bionic": "1c183932-46a9-45d7-9080-4738a7d432c7.repl.co", // noCF
+  "bingus": "bingusjs.github.io", 
   "biu": "aprilorange.github.io/biu", // noCF? (don´t add this in a new PR)
   "blego": "mattstypa.github.io/blego.js.org",
   "blessmyrains": "dusterthefirst.github.io/blessmyrains",
