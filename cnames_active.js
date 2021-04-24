@@ -1811,6 +1811,7 @@ var cnames_active = {
   "parametric-svg": "parametric-svg.github.io", // noCF? (don´t add this in a new PR)
   "parkrun": "prouser123.github.io/parkrun.js",
   "particles": "matteobruni.github.io/tsparticles",
+  "party": "yiliansource.github.io/party-js",
   "pas-ce-soir": "oldergod.github.io/pas-ce-soir",
   "passepartout": "falkz.github.io/passepartout.js.org",
   "pastate": "birdleescut.github.io/pastate",
