@@ -401,7 +401,6 @@ var cnames_active = {
   "captcha-canvas": "shashank3736.github.io/captcha-canvas",
   "car": "pakastin.github.io/car",
   "cardtabs": "blekerfeld.github.io/CardTabs",
-  "careteen": "careteenl.github.io/blog",
   "cargo": "herber.github.io/cargo",
   "carloseduardo": "karllossouza.github.io/carloseduardo.js.org",
   "carmi": "wix-incubator.github.io/carmi",
@@ -1326,6 +1325,7 @@ var cnames_active = {
   "lad": "ladjs.github.io/lad",
   "lambda": "lambdajs.github.io", // noCF? (don´t add this in a new PR)
   "lambdalog": "kyleross.github.io/node-lambda-log",
+  "lan": "careteenl.github.io/lan",
   "lance": "lancepioch.com",
   "landrielportafolio": "arielandriel30.github.io/landrielportafolio",
   "languages": "rsamaium.github.io/Languages",
