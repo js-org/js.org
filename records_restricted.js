@@ -184,6 +184,7 @@ var cnames_restricted = [
     "raw",
     "readme(s)",
     "regex(p)",
+    "regist(er/ration/ered)",
     "remote",
     "require",
     "rest",
