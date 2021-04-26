@@ -1628,6 +1628,7 @@ var cnames_active = {
   "munhumutapaalpha": "munhumutapaalpha.github.io/wallet",
   "murajaah": "mzaini30.github.io/murajaah-js",
   "murathalitsever": "murathalitsever.github.io",
+  "murbyte": "paisendevmc.github.io"
   "murder": "rolandpoulter.github.io/murder", // noCF? (don´t add this in a new PR)
   "murmansk": "interfluve.github.io/Murmansk",
   "muto": "booleanapp.github.io/elastic-muto",
@@ -2865,7 +2866,6 @@ var cnames_active = {
   "zyh": "zyh-chopper.github.io/zyh",
   "zykj": "zykj.now.sh", // noCF
   "zyy": "zyyou.github.io/notes"
-  "murbyte": "paisendevmc.github.io
   /*
    * please don't add your subdomain records down here!
    * insert them in alphabetical order to help reduce merge conflicts.
