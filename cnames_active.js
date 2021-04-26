@@ -959,6 +959,7 @@ var cnames_active = {
   "get": "hxco.github.io/Get",
   "getdot": "enderandfiredev.github.io/getdot",
   "getlink": "ilovecode1.github.io/linkjs", // noCF? (don´t add this in a new PR)
+  "gcommands": "garlic-team.github.io/GCommands",
   "ghapi": "haydennyyy.github.io/node-ghapi",
   "ghastly": "hkwu.github.io/ghastly",
   "ghsamm": "ghsamm.github.io", // noCF? (don´t add this in a new PR)
@@ -2864,8 +2865,7 @@ var cnames_active = {
   "zxy": "ZXYFrank.github.io",
   "zyh": "zyh-chopper.github.io/zyh",
   "zykj": "zykj.now.sh", // noCF
-  "zyy": "zyyou.github.io/notes",
-  "gcommands": "garlic-team.github.io/GCommands"
+  "zyy": "zyyou.github.io/notes"
   /*
    * please don't add your subdomain records down here!
    * insert them in alphabetical order to help reduce merge conflicts.
