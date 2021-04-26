@@ -1,4 +1,4 @@
-[![JS.ORG Logo](http://logo.js.org/png/github_header.png)](http://js.org)
+ЪУЪ![![JS.ORG Logo](http://logo.js.org/png/github_header.png)](http://js.org)
 
 [![JS.ORG](https://img.shields.io/badge/js.org-+-FFE70B.svg?style=flat-square)](http://js.org)
 [![PRs](https://img.shields.io/github/issues-pr-closed-raw/js-org/js.org.svg?style=flat-square&colorB=FFE70B&label=pull%20requests)](https://github.com/js-org/js.org/pulls?q=is%3Apr+is%3Aclosed+label%3Aadd)
