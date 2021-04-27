@@ -2511,6 +2511,7 @@ var cnames_active = {
   "threads": "andywer.github.io/threads.js",
   "ths": "ths-fe.github.io",
   "thundercats": "thundercatsjs.github.io/thundercats", // noCF? (don´t add this in a new PR)
+  "tiandev-portfolio": "tiancamilo01.github.io/MyPortfolio",
   "tictactoe": "jeff-tian.github.io/tic-tac-toe-ai",
   "tiden": "tidenjs.github.io/tiden",
   "tidy": "tidy-js.github.io",
