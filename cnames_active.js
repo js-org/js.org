@@ -343,6 +343,7 @@ var cnames_active = {
   "bottlecap": "rwbeast.github.io/bottlecap",
   "botui-cn": "botui-docs-cn.netlify.app",
   "boundless": "enigma-io.github.io/boundless",
+  "boger": "boger.netlify.app",
   "box": "capacitorset.github.io/box-js", // noCF
   "boxed": "lionking27.github.io/boxed",
   "brain": "brainjs.github.io/brain.js.org",
