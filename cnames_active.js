@@ -364,6 +364,7 @@ var cnames_active = {
   "bynote": "bynotes.github.io",
   "byteasier": "kagurain.github.io/ByteasierIndex",
   "c": "cocobear.github.io",
+  "cc": "OldChenGit.github.io/",
   "c-3po": "ttag-org.github.io/c-3po",
   "c-installer": "llenax.github.io/c-installer",
   "c1200": "c1200.github.io",
@@ -2781,7 +2782,7 @@ var cnames_active = {
   "zyh": "zyh-chopper.github.io/zyh",
   "zykj": "zykj.now.sh", // noCF
   "zyy": "zyyou.github.io/notes"
-   "cc": "OldChenGit.github.io/",
+
   /*
    * please don't add your subdomain records down here!
    * insert them in alphabetical order to help reduce merge conflicts.
