@@ -508,6 +508,7 @@ var cnames_active = {
   "common-utils-pkg": "iamdevlinph.github.io/common-utils-pkg",
   "compass": "glitch.edgeapp.net",
   "compoundinterest": "nategiraudeau.github.io/compound-interest-calculator",
+  "computed": "krmax44.github.io/rollup-plugin-computed",
   "concurrent-tasks": "hosting.gitbook.com",
   "concursos": "mteyss.github.io/concursos", // noCF? (don´t add this in a new PR)
   "conductor": "hosting.gitbook.com",
