@@ -376,6 +376,7 @@ var cnames_active = {
   "bynote": "bynotes.github.io",
   "byteasier": "kagurain.github.io/ByteasierIndex",
   "c": "cocobear.github.io",
+  "cc": "OldChenGit.github.io/",
   "c-3po": "ttag-org.github.io/c-3po",
   "c-installer": "llenax.github.io/c-installer",
   "c1200": "c1200.github.io",
