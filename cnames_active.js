@@ -2212,6 +2212,7 @@ var cnames_active = {
   "scathach": "sinkaroid.github.io/scathach",
   "scene": "daybrush.github.io/scenejs-page",
   "schema": "hosting.gitbook.com",
+  "scioly": "d9d50124-b297-4d36-bf21-b7c67fba4523.repl.co", // noCF
   "scopes": "kelleyvanevert.github.io/scopes",
   "scramble": "ignatiusmb.github.io/scramble",
   "scrap": "nab138.github.io/scrap",
