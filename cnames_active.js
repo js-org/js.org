@@ -305,6 +305,7 @@ var cnames_active = {
   "blessmyrains": "dusterthefirst.github.io/blessmyrains",
   "blitzjs-tutorial": "hylerrix.github.io/blitzjs-tutorial",
   "blizzard": "benweier.github.io/blizzard.js",
+  "blob": "blob.codeberg.page",
   "blockauth": "faragly.github.io/blockauth",
   "blog.arga": "argaghulamahmad.netlify.app", // noCF
   "blog.qbsz": "aboutqbsz.github.io", // noCF
