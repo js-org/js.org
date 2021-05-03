@@ -1705,6 +1705,7 @@ var cnames_active = {
   "nic": "nic.github.io",
   "nikita": "adaltas.github.io/node-nikita-docs",
   "nikmartin": "nikmartin.github.io",
+  "niles": "niles-bot.github.io/niles",
   "nima": "NimaW.github.io",
   "ninh": "reeganexe.github.io/ninh",
   "nintenbot": "nintenzone.github.io/NintenBot",
