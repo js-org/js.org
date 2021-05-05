@@ -985,6 +985,7 @@ var cnames_active = {
   "glize": "datamart.github.io/Glize",
   "globx": "aminadav.github.io/globx",
   "glottologist": "arguiot.github.io/Glottologist",
+  "glyph": "zyrouge.github.io/glyph.css",
   "gnatale": "giosooul.github.io/gnatale.github.io",
   "god": "godow.github.io",
   "godzm4tt3o": "godzm4tt3o.github.io",
