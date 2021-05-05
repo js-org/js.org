@@ -1161,6 +1161,7 @@ var cnames_active = {
   "iot": "product-engineer.github.io/iot.js.org", // noCF
   "ip-address": "beaugunderson.github.io/ip-address", // noCF? (don´t add this in a new PR)
   "ipang": "ipang-dwi.github.io/ipang",
+  "ipc": "alperr.github.io/ipc",
   "ipe": "inpageedit.github.io/Documentation",
   "ipe-plugins": "inpageedit.github.io/Plugins",
   "ipv4": "licshee.github.io/IPv4-CIDR-Prefix-Merger",
