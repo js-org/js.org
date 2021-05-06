@@ -2533,7 +2533,7 @@ var cnames_active = {
   "tinier": "elitedamyth.github.io/Tinier-JS",
   "tint": "tintjs.github.io", // noCF? (don´t add this in a new PR)
   "tinylinux": "e8johan.github.io/tiny-js", // noCF? (don´t add this in a new PR)
-  "tinymanager": "nishantpainter.github.io/tinymanager",
+  "tinymanager": "nishantpainter.github.io/tiny-manager",
   "tit": "wenjiasen.github.io/tit",
   "tixol": "vcxiz.github.io/tixol",
   "tixte": "macedonga.github.io/tixte.js",
