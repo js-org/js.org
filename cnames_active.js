@@ -1970,6 +1970,7 @@ var cnames_active = {
   "quickdb": "hosting.gitbook.com",
   "quickerdb": "maniabots.github.io/QuickerDB",
   "quickmongo": "quickmongo.netlify.app",
+  "quickpterodactyl": "condescending-haibt-c79013.netlify.app"
   "quickredis": "hosting.gitbook.io", // noCF
   "quickuptime": "lebyy.github.io/quickuptimedocs",
   "quicli": "thecodeah.github.io/quicli",
