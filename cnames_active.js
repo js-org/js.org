@@ -1644,7 +1644,7 @@ var cnames_active = {
   "muiplayer":"muiplayer.github.io",
   "mvc": "morozovsk.github.io/mvc", // noCF
   "mw": "agauniyal.github.io/mw",
-  "mwap": "mwap.github.io",
+  "mwap": "jacob-ebey.github.io/mwap",
   "my-app": "nirrius.github.io/my-app",
   "my-server": "nirrius.github.io/my-server",
   "myetyet": "e9wdur.coding-pages.com",
