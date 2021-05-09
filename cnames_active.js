@@ -2119,6 +2119,7 @@ var cnames_active = {
   "rengular": "chigix.github.io/rengular",
   "repackage": "cchamberlain.github.io/repackage", // noCF? (don´t add this in a new PR)
   "repeater": "repeaterjs.github.io/repeater",
+  "replapi-it": "replapi-it-docs.vercel.app",
   "replay": "edbentley.github.io/replay",
   "request": "request.gitbooks.io", // noCF? (don´t add this in a new PR)
   "reshape": "reshape.netlify.com",
