@@ -788,6 +788,7 @@ var cnames_active = {
   "endpoint-imposter": "lukaszmakuch.github.io/endpoint-imposter",
   "energy": "energychain.github.io/energy",
   "eon": "eon-web.github.io/eon",
+  "epack": "transparent-dilophosaurus-d0z0nyrn79irf17c2hbbz9li.herokudns.com",
   "epicker": "eling486.github.io/EPicker-docs",
   "epi": "quantalabs.github.io/EpiJS",
   "eplayer": "132yse.github.io/eplayer",
