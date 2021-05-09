@@ -2044,6 +2044,7 @@ var cnames_active = {
   "react-static": "nozzle-react-static.netlify.com",
   "react-story": "react-story.netlify.com",
   "react-styleguidist": "styleguidist.netlify.com",
+  "react-table-ui": "guptasiddhant.github.io/react-table-ui",
   "react-telegram": "appbak3r.github.io/react-telegram",
   "react-through": "hosting.gitbook.com", // noCF
   "react-toulouse": "moox.github.io/react-toulouse",
