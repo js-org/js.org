@@ -1099,6 +1099,7 @@ var cnames_active = {
   "hubo": "huvboo.github.io",
   "hugorocaproyectos": "hugoroca.github.io/coleccion-proyectos",
   "humble": "humblejs.github.io",
+  "hwa": "drhwa.github.io",
   "hx": "hx-js-org.d53923.flexbalancer.net",
   "hybrids": "hybridsjs.github.io/hybrids",
   "hyde": "gheek.github.io/hyde", // noCF? (don´t add this in a new PR)
