@@ -95,6 +95,7 @@ var cnames_active = {
   "aditya": "aditya81070.github.io",
   "adnanbabakan": "adnanbabakan.github.io",
   "adon988": "adon988.github.io",
+  "adoums": "adoums.github.io",
   "adv": "advjs.github.io",
   "advancedrpc": "advancedrpc.github.io",
   "aeon": "flazepe.github.io/aeon-web",
