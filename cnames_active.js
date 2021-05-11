@@ -2708,6 +2708,7 @@ var cnames_active = {
   "wangdabao": "wangdabaoqq.github.io/me",
   "wangdabao-doc": "wangdabaoqq.github.io/documents",
   "wangdabao-map": "wangdabaoqq.github.io/map-transform",
+  "wangdabao-resume": "wangdabaoqq.github.io/resume-new",
   "wanna": "mkermani144.github.io/wanna",
   "wargamer": "hkwu.github.io/wargamer",
   "warrior": "olistic.github.io/warriorjs",
