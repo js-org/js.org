@@ -23,8 +23,7 @@ section {
   input {
     position: absolute;
     opacity: 0;
-    top: 0;
-    left: -999px;
+    left: -99px;
     &:checked + article {
       display: inline-block;
     }
