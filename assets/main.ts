@@ -7,7 +7,7 @@ const search = window.location.search.slice(1, 20);
 
 (function (el: any) {
     if (search && (el = document.getElementById(el))) {
-        let s = search.slice(1, -3)
+        let s = search.slice(0, -3)
         el.innerHTML = s;
         setTimeout(function () {window.location.href = 'https://js.org/?' + s;}, 5000);
     }
