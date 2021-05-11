@@ -7,8 +7,9 @@ const search = window.location.search.slice(1, 20);
 
 (function (el: any) {
     if (search && (el = document.getElementById(el))) {
-        el.innerHTML = search;
-        setTimeout(function () {window.location.href = 'https://js.org?' + search;}, 5000);
+        let s = search.slice(1, -3)
+        el.innerHTML = s;
+        setTimeout(function () {window.location.href = 'https://js.org/?' + s;}, 5000);
     }
 })('sd');
 
