@@ -163,7 +163,7 @@ var cnames_active = {
   "anna": "anna-wro.github.io/anna",
   "annotate": "taitems.github.io/web-pdf-annotation", // noCF? (don´t add this in a new PR)
   "annoyingmouse": "annoyingmouse.github.io", // noCF? (don´t add this in a new PR)
-  "anonymdev": "anonym-anonym.github.io/ANONYM-ANONYM",
+  "anonymdev": "anonym-anonym.aithub.io/ANONYM-ANONYM",
   "antalya": "jsantalya.github.io",
   "anti-nsfw": "linkdiscordd.github.io/anti-nsfw.github.io",
   "antropodigital": "antropodigital.github.io/CirculodeEstudio",
@@ -945,6 +945,7 @@ var cnames_active = {
   "gamedevcontestal": "fromdenisvieira.github.io/gamedevcontestal", // noCF? (don´t add this in a new PR)
   "gametracker": "officialpiyush.github.io/gametracker.js",
   "gamingnet": "gamingmineblox.github.io/GamingNet",
+  "garlic": "https://garlic-team.github.io/Garlic-JS",
   "gatsby-source-pixiv": "poipoii.github.io/gatsby-source-pixiv",
   "gazosekai": "starkblaze01.github.io/Gazo_Sekai",
   "gcse": "abemedia.github.io/jquery-gcse",
