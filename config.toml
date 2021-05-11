@@ -1,0 +1,16 @@
+baseURL = "https://js.org/"
+title = "JS.ORG"
+
+disableKinds = ["taxonomy","term","RSS"]
+disableHugoGeneratorInject = true
+uglyURLs = true
+
+resourceDir = "_cache"
+assetDir = "assets"
+contentDir = "pages"
+staticDir = "static"
+layoutDir = "layouts"
+publishDir = "docs"
+
+[params]
+  description= "Dedicated to JavaScript and its awesome community since 2015"
