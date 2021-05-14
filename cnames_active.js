@@ -1006,7 +1006,7 @@ var cnames_active = {
   "gottasurf": "jottocraft.github.io/surf",
   "govind": "emgk.github.io",
   "graffy": "aravindet.github.io/graffy",
-  "gram": "gram-js.github.io/gramjs",
+  "gram": "gram-js.github.io/docs",
   "gramps": "gramps-graphql.github.io/gramps",
   "graph": "tomas-wrobel.github.io/graph",
   "graphene": "graphene-react.netlify.com",
