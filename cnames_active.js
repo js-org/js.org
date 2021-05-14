@@ -953,6 +953,7 @@ var cnames_active = {
   "geekr": "ruanyl.github.io/geekr", // noCF? (don´t add this in a new PR)
   "gem": "gem-docs.netlify.app",
   "gem-book": "gem-book.netlify.app",
+  "gem-panel": "gem-panel.vercel.app",
   "geniucker": "geniucker.github.io",
   "genius-lyrics": "zyrouge.github.io/genius-lyrics",
   "genpasswd": "exos.github.io/genpasswd", // noCF? (don´t add this in a new PR)
