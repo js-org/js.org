@@ -1637,6 +1637,7 @@ var cnames_active = {
   "msp430": "mazko.github.io/MSP430.js",
   "mtproto-core": "alik0211.github.io/mtproto-core-website",
   "mubaidr": "mubaidr.github.io",
+  "muhammad": "masudalamih.github.io/muhammad",
   "mujin": "mujin669.github.io",
   "multiple": "nexts.github.io/Multiple.js",
   "munhumutapaalpha": "munhumutapaalpha.github.io/wallet",
