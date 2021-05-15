@@ -2102,6 +2102,7 @@ var cnames_active = {
   "redux-saga-firebase": "alias.zeit.co", // noCF
   "redux-saga-in-chinese": "superRaytin.github.io/redux-saga-in-chinese",
   "redux-starter-kit": "redux-starter-kit-docs.netlify.com",
+  "redux-syringe": "wafflepie.github.io/redux-syringe",
   "redux-tiles": "bloomca.github.io/redux-tiles",
   "redux-toolkit": "redux-starter-kit-docs.netlify.com",
   "redux-tools": "lundegaard.github.io/redux-tools",
