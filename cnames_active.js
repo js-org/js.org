@@ -1445,7 +1445,7 @@ var cnames_active = {
   "lyf": "shbwb.github.io/lyf",
   "lyra": "amansahil.github.io/lyra.js.org",
   "lzbible": "edwinyosorahardjo.github.io/lzbible",
-  "memer-api": "shinchanop.github.io/memerapi-docs",
+  "memer-api": "cname.vercel-dns.com",
   "m01i0ng": "m01i0ng.github.io",
   "m8bot": "mapreiff.github.io/m8-bot-site",
   "ma124": "ma124.netlify.com",
