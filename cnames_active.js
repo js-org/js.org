@@ -1793,7 +1793,7 @@ var cnames_active = {
   "ongaku": "anshuman-verma.github.io/ongaku",
   "openrecord": "philwaldmann.github.io/openrecord",
   "opentype": "nodebox.github.io/opentype.js",
-  "opmongo":"https://sanikava.github.io/OpMongo",
+  "opmongo":"sanikava.github.io/OpMongo",
   "operatio": "furioustsunami.github.io/Operatio",
   "orango": "roboncode.github.io/orango",
   "orga": "orgapp.github.io/orgajs",
