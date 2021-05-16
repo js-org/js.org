@@ -1105,7 +1105,7 @@ var cnames_active = {
   "hx": "hx-js-org.d53923.flexbalancer.net",
   "hybrids": "hybridsjs.github.io/hybrids",
   "hyde": "gheek.github.io/hyde", // noCF? (don´t add this in a new PR)
-  "hyder": "imprakashraghu.github.io/hyderjsweb/",
+  "hyder": "imprakashraghu.github.io/hyderjsweb",
   "hydro": "hydro-dev.github.io",
   "hydrogen": "siddharthbose-codeware.github.io/hydrogen-website",
   "hyf": "yafey.github.io",
