@@ -1537,6 +1537,7 @@ var cnames_active = {
   "mhy": "hosting.gitbook.com", // noCF
   "mi": "stevenjoezhang.github.io",
   "michaelfarnik": "michaloslav.github.io/MichaelFarnik",
+  "microdoc": "maxmilton.github.io/microdoc",
   "microfeedback": "microfeedback.github.io",
   "microlink": "microlinkhq.github.io/microlinkjs",
   "mics": "download.github.io/mics",
