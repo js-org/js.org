@@ -2826,6 +2826,7 @@ var cnames_active = {
   "wysc": "coffeebank.github.io/wysc-vue",
   "wz": "wangzhen-CHN.github.io/wz",
   "x": "nikhiljohn10.github.io/x.js",
+  "xendb": "notmarx.github.io/Xen.db"
   "xen": "hosting.gitbook.com",
   "xhemj": "xhemj.now.sh", // noCF
   "xhy": "xhy.github.io",
