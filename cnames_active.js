@@ -249,7 +249,7 @@ var cnames_active = {
   "bestof": "michaelrambeau.github.io/bestofjs",
   "between": "na-west1.surge.sh",
   "bfd": "mrsheldon.github.io/bfd.js",
-  "bizhi": "https://guzhou.github.io/bizhi",
+  "bizhi":"guzhou.github.io/bizhi",
   "bind-action-dispatchers": "cchamberlain.github.io/bind-action-dispatchers", // noCF? (don´t add this in a new PR)
   "birb": "purpzie.github.io/birb.js.org",
   "biu": "aprilorange.github.io/biu", // noCF? (don´t add this in a new PR)
