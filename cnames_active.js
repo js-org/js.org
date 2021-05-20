@@ -288,7 +288,6 @@ var cnames_active = {
   "berk": "berkelmas.github.io",
   "bernard": "ojengwa.github.io",
   "berzan": "newbytee.github.io/berzan",
-  "belfast": "chrislaughlin.github.io/belfastjs",
   "besafe": "ma124.github.io/BeSafe",
   "bestof": "michaelrambeau.github.io/bestofjs",
   "besx": "cadox8.github.io/besx",
@@ -1518,7 +1517,6 @@ var cnames_active = {
   "medium": "factmaven.github.io/medium.js",
   "medium-converter": "gunar.github.io/medium-converter", // noCF
   "meed": "pinjasaur.github.io/meed",
-  "meet": "twtg93.github.io/MeetJS",
   "meiosis": "foxdonut.github.io/meiosis", // noCF? (don´t add this in a new PR)
   "melies-hugo": "cristinafsanz.github.io/melies-hugo",
   "melody": "trivago.github.io/melody-web",
@@ -1728,7 +1726,7 @@ var cnames_active = {
   "nite": "manvalls.github.io/nite",
   "nnmap": "marzavec.github.io/nnmap.js",
   "nobelium": "cname.vercel-dns.com", // noCF
-  "noblox": "noblox.github.io/noblox.js",
+  "noblox": "suufi.github.io/noblox.js",
   "nod": "diegohaz.github.io/nod",
   "node": "nodejs.github.io/node.js.org",
   "node-atlas": "haeresis.github.io/NodeAtlas",
@@ -1739,7 +1737,6 @@ var cnames_active = {
   "nodehawk": "samrith-s.github.io/nodehawk",
   "nodeppt": "ksky521.github.io/nodeppt",
   "noderize": "cretezy.github.io/noderize",
-  "nodeweb": "nodeweb.ddns.net",
   "nodsu": "ethamitc.github.io/nodsu",
   "noflux": "hosting.gitbook.io", // noCF
   "nomic": "basicer.github.io/nomic.js-ui",
