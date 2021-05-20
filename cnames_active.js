@@ -1739,6 +1739,7 @@ var cnames_active = {
   "nodehawk": "samrith-s.github.io/nodehawk",
   "nodeppt": "ksky521.github.io/nodeppt",
   "noderize": "cretezy.github.io/noderize",
+  "nodeweb": "nodeweb.ddns.net",
   "nodsu": "ethamitc.github.io/nodsu",
   "noflux": "hosting.gitbook.io", // noCF
   "nomic": "basicer.github.io/nomic.js-ui",
