@@ -1728,7 +1728,7 @@ var cnames_active = {
   "nite": "manvalls.github.io/nite",
   "nnmap": "marzavec.github.io/nnmap.js",
   "nobelium": "cname.vercel-dns.com", // noCF
-  "noblox": "suufi.github.io/noblox.js",
+  "noblox": "noblox.github.io/noblox.js",
   "nod": "diegohaz.github.io/nod",
   "node": "nodejs.github.io/node.js.org",
   "node-atlas": "haeresis.github.io/NodeAtlas",
