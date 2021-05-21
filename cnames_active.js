@@ -1707,6 +1707,7 @@ var cnames_active = {
   "next": "zeit.github.io/next-site",
   "next-auth": "alias.zeit.co", // noCF
   "next-crud": "next-crud.netlify.app",
+  "next-redux-cookie-wrapper": "bjoluc.github.io/next-redux-cookie-wrapper",
   "nexus": "nexusjs.netlify.com",
   "nflow": "nflow-js.github.io", // noCF? (don´t add this in a new PR)
   "nfui": "no-frills-ui.netlify.app",
