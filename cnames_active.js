@@ -1407,6 +1407,7 @@ var cnames_active = {
   "linghucong": "jiji262.github.io",
   "lingui": "cname.vercel-dns.com", // noCF
   "lips": "jcubic.github.io/lips",
+  "lipsum": "llxlr.github.io/lipsum.js",
   "lister": "jpbulman.github.io/lister",
   "listore": "crazy-white.github.io/Listore",
   "litedom": "mardix.github.io/litedom", // noCF
