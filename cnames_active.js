@@ -970,7 +970,7 @@ var cnames_active = {
   "gerardo": "gvzq.github.io/gerardo",
   "german": "dipanshkhandelwal.github.io/Learning-German",
   "germanov": "germanov-dev.github.io",
-  "get": "hxco.github.io/Get",
+  "get": "get-js-org.dns.hxis.top",
   "getdot": "enderandfiredev.github.io/getdot",
   "getlink": "ilovecode1.github.io/linkjs", // noCF? (don´t add this in a new PR)
   "ghapi": "haydennyyy.github.io/node-ghapi",
@@ -1106,7 +1106,7 @@ var cnames_active = {
   "hubo": "huvboo.github.io",
   "hugorocaproyectos": "hugoroca.github.io/coleccion-proyectos",
   "humble": "humblejs.github.io",
-  "hx": "hx-js-org.d53923.flexbalancer.net",
+  "hx": "hx-js-org.dns.hxis.top",
   "hybrids": "hybridsjs.github.io/hybrids",
   "hyde": "gheek.github.io/hyde", // noCF? (don´t add this in a new PR)
   "hyder": "imprakashraghu.github.io/hyderjsweb",
@@ -2410,7 +2410,7 @@ var cnames_active = {
   "staticinstance": "staticinstance.github.io", // noCF? (don´t add this in a new PR)
   "stats": "js-org.github.io/stats.js.org",
   "status": "mattipv4.github.io/status-codes",
-  "status-hx": "status-hx-js-org.d53923.flexbalancer.net",
+  "status-hx": "status-hx-js-org.dns.hxis.top",
   "steemsites": "yhozen.github.io/steemsites",
   "stego": "zeruniverse.github.io/CryptoStego", // noCF? (don´t add this in a new PR)
   "stepan": "stevermeister.github.io", // noCF? (don´t add this in a new PR)
