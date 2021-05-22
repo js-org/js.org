@@ -547,6 +547,7 @@ var cnames_active = {
   "cov19": "mixon00.github.io/cov19-cli",
   "cover": "cover-ui.github.io",
   "covid": "offpe.github.io/react-covid19-stats",
+  "covid19": "martin-sit.github.io/covid19-tracker",
   "cp": "nestedobjects.github.io/cp",
   "cplayer": "copay.github.io/cPlayer",
   "cppkies": "cppkies-team.github.io/Cppkies",
