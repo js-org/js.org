@@ -881,6 +881,7 @@ var cnames_active = {
   "fireblast": "thefireblast.github.io",
   "firenze": "fahad19.github.io/firenze", // noCF? (don´t add this in a new PR)
   "fireorm": "wovalle.github.io/fireorm",
+  "fish": "cdaringe.github.io/fish",
   "five": "jackdcrawford.github.io/five",
   "flamecord": "flamexode.github.io/flamecord",
   "flap": "slurmulon.github.io/flap",
