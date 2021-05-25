@@ -2762,7 +2762,7 @@ var cnames_active = {
   "w4ctech": "w4ctech.github.io",
   "w4j1e": "w4j1e.github.io",
   "wahtson": "wahtson.github.io",
-  "waline": "waline.netlify.app",
+  "waline": "walinejs.github.io",
   "wangdabao": "wangdabaoqq.github.io/me",
   "wangdabao-doc": "wangdabaoqq.github.io/documents",
   "wangdabao-map": "wangdabaoqq.github.io/map-transform",
