@@ -65,6 +65,10 @@ body {
   background: $txt;
 }
 
+svg {
+  fill: currentColor;
+}
+
 p {
   margin-top: 0.5em;
   line-height: 1.6em;
@@ -158,8 +162,6 @@ em {
     height: $d !important;
     right: -$d/2 !important;
   }
-
-  background: $txt;
 }
 
 header,
@@ -181,7 +183,7 @@ footer {
     border: none;
     flex-basis: 100%;
     height: 1.5px;
-    background: rgba(0, 0, 0, 1);
+    background: $txt;
   }
   font-size: 0.8rem;
   line-height: 1em;
@@ -349,5 +351,65 @@ footer {
     border-radius: 0;
     border-top-left-radius: 3px;
     text-align: center;
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  html {
+    scrollbar-color: fade-out($key, 0.5) fade-out($key, 0.8);
+    background: $txt;
+    color: $key;
+  }
+
+  ::selection {
+    background: $key;
+    color: $txt;
+  }
+
+  ::-webkit-scrollbar-track {
+    background: fade-out($key, 0.8);
+  }
+
+  ::-webkit-scrollbar-thumb {
+    background: fade-out($key, 0.5);
+  }
+
+  ::-webkit-scrollbar-thumb:active {
+    background: $key;
+  }
+
+  em {
+    background: $key;
+    color: $txt;
+  }
+
+  .badge {
+    background: $key;
+
+    span, a {
+      color: $txt;
+    }
+
+    .blue {
+      color: $alt;
+    }
+  }
+
+  .tri,
+  .badge :first-child {
+    background: $key;
+  }
+
+  footer {
+    hr {
+      background: $key;
+    }
+  }
+
+  @media only screen and (min-width: $break-m) {
+    #cad {
+      background-image: repeating-linear-gradient(0deg, $key, $key 1.4em, transparent 1.4em, transparent 2.2em, $key 2.2em), repeating-linear-gradient(90deg, $key, $key 1.4em, transparent 1.4em, transparent 2.2em, $key 2.2em),
+      repeating-linear-gradient(180deg, $key, $key 1.4em, transparent 1.4em, transparent 2.2em, $key 2.2em), repeating-linear-gradient(270deg, $key, $key 1.4em, transparent 1.4em, transparent 2.2em, $key 2.2em);
+    }
   }
 }

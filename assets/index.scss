@@ -102,7 +102,7 @@ section {
     text-shadow: 1px 1px $txt, 1px -1px $txt, -1px 1px $txt, -1px -1px $txt;
 
     &:hover {
-      color: rgba(255, 231, 11, 0.5);
+      color: rgba($key, 0.5);
     }
   }
 }
@@ -135,5 +135,51 @@ section {
   #typewriter {
     font-size: 3.5em;
   }
+}
 
+@media (prefers-color-scheme: dark) {
+  section {
+    color: $txt;
+
+    input {
+      &#s1I:checked ~ nav #s1L,
+      &#s2I:checked ~ nav #s2L,
+      &#s3I:checked ~ nav #s3L,
+      &#s4I:checked ~ nav #s4L {
+        background: $key;
+      }
+    }
+
+    nav {
+      label {
+        color: $key;
+        border-color: $key;
+
+        &:hover {
+          background: fade-out($key, .7);
+          color: $key;
+        }
+      }
+    }
+
+    article {
+      background: $key;
+    }
+  }
+
+  em,
+  section {
+    ::selection {
+      color: $key;
+      background: $txt;
+    }
+
+    a {
+      text-shadow: 1px 1px $key, 1px -1px $key, -1px 1px $key, -1px -1px $key;
+
+      &:hover {
+        color: rgba($txt, 0.5);
+      }
+    }
+  }
 }
