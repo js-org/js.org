@@ -138,6 +138,11 @@ section {
 }
 
 @media (prefers-color-scheme: dark) {
+  #typewriter {
+    .active {
+      border-right-color: $txt;
+    }
+  }
   section {
     color: $txt;
 
