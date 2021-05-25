@@ -2665,6 +2665,7 @@ var cnames_active = {
   "urban": "snekjs.github.io/urban.js",
   "urmom": "urmomjs.github.io/urmom.js",
   "useful-apis": "yuu0007.github.io/useful-apis",
+  "useful-interfaces": "soupcodez.github.io/useful-interfaces",
   "usernamegen": "aryan02420.github.io/usernamegen",
   "usetable-ahooks": "usetable-ahooks.surge.sh",
   "useworker": "useworker.netlify.com",
