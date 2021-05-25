@@ -39,7 +39,6 @@
 
 var cnames_active = {
   "": "js-org.github.io",
-  "immutable": "abhyuday-tripathi.github.io/immutable"
   "01mz": "01mz.github.io",
   "100dayz": "deadcoder0904.github.io/100dayz",
   "101": "7anshuai.github.io/js101", // noCF? (don´t add this in a new PR)
@@ -1141,6 +1140,7 @@ var cnames_active = {
   "imask": "unmanner.github.io/imaskjs",
   "imbue": "ghosts.github.io/Imbue",
   "imcvampire": "imcvampire.github.io",
+  "immutable": "abhyuday-tripathi.github.io/immutable",
   "imeme": "svenmeister.github.io/imeme.js.org",
   "imgops": "dogancelik.github.io/imgops-multi", // noCF
   "iminfinity": "js-org-test.netlify.app",
