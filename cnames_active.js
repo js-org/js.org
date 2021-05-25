@@ -2514,7 +2514,7 @@ var cnames_active = {
   "tayyab": "itayyab.github.io",
   "tead": "teadjs.github.io",
   "techthinker": "tech-thinker.github.io",
-  "techxuexi": "techxuexi.vercel.app", // noCF
+  "techxuexi": "cname.vercel-dns.com", // noCF
   "techy": "hosting.gitbook.com",
   "teddy": "alias.zeit.co", // noCF
   "telaviv": "dustin-h.github.io/telaviv", // noCF? (don´t add this in a new PR)
