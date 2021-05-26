@@ -2232,6 +2232,7 @@ var cnames_active = {
   "sandeepkhandewale": "learner1024.github.io",
   "sanity-runner": "tophat.github.io/sanity-runner",
   "sanohin": "sanohin.github.io",
+  "sardor01": "sardor01.github.io",
   "saso": "huruji.github.io/saso",
   "sass": "medialize.github.io/playground.sass.js", // noCF? (don´t add this in a new PR)
   "satont": "satont.github.io",
