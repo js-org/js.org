@@ -2156,7 +2156,6 @@ var cnames_active = {
   "rinzler": "gitsquared.github.io/rinzler",
   "riot": "riot.github.io",
   "riotgear": "riotgear.github.io",
-  "rise": "lipingruan.github.io/rise",
   "rishi": "rishiosaur.github.io",
   "risingstars": "cname.vercel-dns.com",
   "risingstars2016": "michaelrambeau.github.io/risingstars2016",
