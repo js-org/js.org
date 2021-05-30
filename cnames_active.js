@@ -2055,7 +2055,7 @@ var cnames_active = {
   "react-native-csv": "react-native-csv.github.io",
   "react-native-elements": "react-native-elements.github.io/playground",
   "react-native-floating-labels": "mayank-patel.github.io/react-native-floating-labels",
-  "react-native-track-player": "react-native-kit.github.io/react-native-track-player", // noCF
+  "react-native-track-player": "doublesymmetry.github.io/react-native-track-player", // noCF
   "react-observatory": "hosting.gitbook.com",
   "react-papaparse": "react-papaparse.github.io",
   "react-pivottable": "plotly.github.io/react-pivottable",
