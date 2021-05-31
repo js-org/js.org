@@ -2519,6 +2519,7 @@ var cnames_active = {
   "tauris": "codemaster138.github.io/tauris",
   "tayyab": "itayyab.github.io",
   "tead": "teadjs.github.io",
+  "teamslowki": "teamslowki.github.io",
   "techthinker": "tech-thinker.github.io",
   "techxuexi": "cname.vercel-dns.com", // noCF
   "techy": "hosting.gitbook.com",
