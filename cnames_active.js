@@ -1815,6 +1815,7 @@ var cnames_active = {
   "origami": "origami-cms.github.io/cms",
   "osagai": "henriquelimas.github.io/osagai",
   "oscillator": "lukehorvat.github.io/super-oscillator",
+  "oscargw": "oscargw.github.io",
   "osom": "kikobeats.github.io/osom",
   "otimizacao": "jmmccota.github.io/Otimizacao",
   "ourcord": "ourcord.netlify.app",
