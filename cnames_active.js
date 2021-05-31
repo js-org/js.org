@@ -2729,6 +2729,7 @@ var cnames_active = {
   "vitedge": "vitedge.netlify.app",
   "vk-x": "vk-x.github.io",
   "vncz": "xvincentx.github.io/vncz",
+  "vocab": "battleofplassey.github.io/ministry-of-vocabulary",
   "volantis": "cname.vercel-dns.com", // noCF
   "volantis-x": "volantis-x.github.io",
   "voloshins": "voloshins.github.io", // noCF? (don´t add this in a new PR)
