@@ -966,6 +966,7 @@ var cnames_active = {
   "geniucker": "geniucker.github.io",
   "genius-lyrics": "zyrouge.github.io/genius-lyrics",
   "genpasswd": "exos.github.io/genpasswd", // noCF? (don´t add this in a new PR)
+  "GentleScreamer7": "gentlescreamer7.github.io/mythicalsouls",
   "geolocation-promise": "js-pugilist.github.io/geolocation-promise",
   "george": "georgeyue.github.io/george",
   "geotargeting": "sntran.github.io/geotargeting",
