@@ -2320,7 +2320,7 @@ var cnames_active = {
   "simples": "micnic.github.io/simples",
   "simplesnake": "aktindo.github.io/Simple_Snake_Game",
   "simplestate": "nlcgits.github.io/simplestate",
-  "simpldb": "simpldb.gitbook.io", // noCF
+  "simpldb": "hosting.gitbook.io", // noCF
   "simulacra": "daliwali.github.io/simulacra",
   "sina": "sinabakh.github.io/sina",
   "singh": "gxjit.github.io",
