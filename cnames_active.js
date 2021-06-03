@@ -186,7 +186,7 @@ var cnames_active = {
   "aptrinh": "aptrinh.github.io",
   "arc": "diegohaz.github.io/arc",
   "arcn": "alexakasanjeev.github.io/arcn",
-  "arcscord": "arcoz0308.github.io/arcscord.github.io/",
+  "arcscord": "arcoz0308.github.io/arcscord.github.io",
   "arda": "ardasoyturk-portfolio.netlify.app",
   "arga": "cname.vercel-dns.com",
   "argaghulamahmad": "argaghulamahmad.github.io",
