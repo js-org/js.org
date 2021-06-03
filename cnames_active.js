@@ -896,6 +896,7 @@ var cnames_active = {
   "flipnote": "jaames.github.io/flipnote.js",
   "flood": "flood.jesec.io", // noCF
   "flor": "florplayer.github.io",
+  "florin":"alirezamires.github.io/florin",
   "flowchart": "adrai.github.io/flowchart.js", // noCF? (don´t add this in a new PR)
   "flowcon": "oknosoft.github.io/flowcon",
   "flowjv": "pkishorez.github.io/flowjv",
