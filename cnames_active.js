@@ -754,6 +754,7 @@ var cnames_active = {
   "eatery-nod-w": "kevinast.github.io/eatery-nod-w",
   "ebnsina": "ebnsina.github.io/js.ebnsina.me",
   "echo": "licshee.github.io/echo.js",
+  "echo-bot": "iapg.gitbook.io/echo"
   "eco": "quick-eco.netlify.app",
   "ecstar": "ecstar-js.github.io/Ecstar",
   "ed2k": "sunnyli.github.io/ed2k.js",
