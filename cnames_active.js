@@ -186,6 +186,7 @@ var cnames_active = {
   "aptrinh": "aptrinh.github.io",
   "arc": "diegohaz.github.io/arc",
   "arcn": "alexakasanjeev.github.io/arcn",
+  "arcscord": "arcoz0308.github.io/arcscord",
   "arda": "ardasoyturk-portfolio.netlify.app",
   "arga": "cname.vercel-dns.com",
   "argaghulamahmad": "argaghulamahmad.github.io",
@@ -451,7 +452,7 @@ var cnames_active = {
   "chrismendis": "chrismendis.github.io", // noCF? (don´t add this in a new PR)
   "christo": "christoga.github.io/js-org", // noCF? (don´t add this in a new PR)
   "christopher": "marekkobida.github.io/christopher",
-  "chromatography": "teamtofu.github.io/chromatography",
+  "chromatography": "catalent.github.io/chromatography",
   "chronos": "espinielli.github.io/chronos", // noCF? (don´t add this in a new PR)
   "ciphercrack": "avirut.github.io/ciphercrack",
   "citation": "citation-js.github.io/site",
@@ -1332,7 +1333,6 @@ var cnames_active = {
   "kowalski": "k0walslk1.github.io",
   "kra": "kra-framework.github.io/kra-suite", // noCF
   "kremling": "canopytax.github.io/kremling.js.org",
-  "krowa": "colenh.github.io/krowa",
   "kshitij": "kshitij98.github.io",
   "ksp": "keepsobp.github.io",
   "kst": "lucaelin.github.io/KST", // noCF
@@ -2284,7 +2284,7 @@ var cnames_active = {
   "serviceberry": "bob-gray.github.io/serviceberry",
   "sesam": "lennertderyck.github.io/sesam",
   "setheum": "setheum-js.github.io",
-  "shandler": "gmbodhi.github.io/shandler",
+  "shandler": "hosting.gitbook.io", // noCF
   "share": "jeff-tian.github.io/weshare",
   "sharec": "lamartire.github.io/sharec",
   "shareon": "NickKaramoff.github.io/shareon",
@@ -2320,6 +2320,7 @@ var cnames_active = {
   "simples": "micnic.github.io/simples",
   "simplesnake": "aktindo.github.io/Simple_Snake_Game",
   "simplestate": "nlcgits.github.io/simplestate",
+  "simpldb": "hosting.gitbook.io", // noCF
   "simulacra": "daliwali.github.io/simulacra",
   "sina": "sinabakh.github.io/sina",
   "singh": "gxjit.github.io",
@@ -2401,6 +2402,7 @@ var cnames_active = {
   "squid": "squidjs.github.io/squid",
   "squirrelly": "squirrellyjs.netlify.com", // noCF
   "sr": "samrobbins85.github.io",
+  "sreeram": "sreeramofficial.github.io/sreeram",
   "sri": "jackub.github.io/subresource-integrity-fallback",
   "ss": "cname.vercel-dns.com", // noCF
   "staart": "staart.netlify.com",
