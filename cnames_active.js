@@ -572,6 +572,7 @@ var cnames_active = {
   "cucumber-mink": "adezandee.github.io/cucumber-mink", // noCF? (don´t add this in a new PR)
   "cungudafa": "cungudafa.github.io",
   "curd": "yourtion.github.io/SimpleCURD",
+  "currency-system": "https://bintelligent.github.io/currency-system/",
   "curi": "pshrmn.github.io/curi",
   "currency": "scurker.github.io/currency.js",
   "curseapp": "mcrocks999.github.io/curseapp.js",
