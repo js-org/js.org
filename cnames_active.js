@@ -1118,6 +1118,7 @@ var cnames_active = {
   "hydro": "hydro-dev.github.io",
   "hydrogen": "siddharthbose-codeware.github.io/hydrogen-website",
   "hyf": "yafey.github.io",
+  "hymity": "sarveshmrao.github.io/hymity",
   "hyperform": "hyperform.github.io",
   "hyperhtml-styleguide": "albertosantini.github.io/hyperhtml-styleguide", // noCF
   "i18n4v": "shibukawa.github.io/i18n4v",
