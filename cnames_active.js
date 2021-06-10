@@ -1610,6 +1610,7 @@ var cnames_active = {
   "modbot": "modbotjs.github.io",
   "moddy": "cutiecat6778.github.io/moddy",
   "modjool": "cname.vercel-dns.com", // noCF
+  "modmail": "botstudios.github.io/modmail.js",
   "modofun": "modofunjs.github.io/modofun",
   "modoki": "araozu.github.io/modoki",
   "modrinth": "rubybb.github.io/modrinth.js.org",
