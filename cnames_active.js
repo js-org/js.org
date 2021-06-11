@@ -2408,7 +2408,7 @@ var cnames_active = {
   "sr": "samrobbins85.github.io",
   "sreeram": "sreeramofficial.github.io/sreeram",
   "sri": "jackub.github.io/subresource-integrity-fallback",
-  "ss": "cname.vercel-dns.com", // noCF
+  "ss": "netnr-ss.netlify.app",
   "staart": "staart.netlify.com",
   "stabs": "wnda.github.io/stabs",
   "stack-styled": "stack-styled.netlify.com",
