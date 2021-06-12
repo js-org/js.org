@@ -928,7 +928,7 @@ var cnames_active = {
   "foxman": "kaola-fed.github.io/foxman",
   "fp": "iotcat.github.io/fp",
   "frame-depth": "nwong212.github.io/frame-wizard",
-  "framework": "plasnerd.github.io/Framework.js",
+  "framework": "framework.github.io/framework",
   "frameworkless": "mtimofiiv.github.io/frameworkless",
   "frankmosca": "alias.zeit.co", // noCF
   "fre": "132yse.github.io/fre",
