@@ -2500,6 +2500,7 @@ var cnames_active = {
   "switchjoy": "switchjoy.github.io",
   "swordcss": "swordcss.netlify.app",
   "swot": "swot-node.netlify.app", // noCF
+  "swoth": "swoth.vercel.app",
   "swup": "swup.github.io/docs",
   "sx": "screenrecx.netlify.app",
   "sxcu": "m-phoenix852.github.io/sxcu.js-docs",
@@ -2919,8 +2920,7 @@ var cnames_active = {
   "zxy": "ZXYFrank.github.io",
   "zyh": "zyh-chopper.github.io/zyh",
   "zykj": "cname.vercel-dns.com", // noCF
-  "zyy": "zyyou.github.io/notes",
-  "swoth": "swoth.vercel.app"
+  "zyy": "zyyou.github.io/notes"
   /*
    * please don't add your subdomain records down here!
    * insert them in alphabetical order to help reduce merge conflicts.
