@@ -1335,6 +1335,7 @@ var cnames_active = {
   "lemn": "lemnjs.github.io/lemn",
   "leo": "leo66123.github.io",
   "leoj": "leoaj.github.io", // noCF? (don´t add this in a new PR)
+  "leoric": "cyjake.github.io/leoric",
   "lerna": "lerna.github.io/website",
   "lessmd": "linuxenko.github.io/lessmd",
   "leste": "atwood-cai.github.io/leste.js", // noCF? (don´t add this in a new PR)
