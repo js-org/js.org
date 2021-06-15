@@ -559,6 +559,7 @@ var cnames_active = {
   "craft": "prevwong.github.io/craft.js",
   "crank": "bikeshaving.github.io/crank",
   "crawlx": "wind2sing.github.io/crawlx",
+  "create-coffee-app": "legolovergo.github.io/create-coffee-app",
   "create-next-app": "create-next-app.github.io",
   "create-project": "chalarangelo.github.io/create-js-project",
   "createrest": "atomixinteractions.github.io/createrest",
@@ -1317,7 +1318,7 @@ var cnames_active = {
   "knowyourbundle": "enapupe.github.io/know-your-bundle",
   "ko": "ko25july.github.io/ko.js.org",
   "ko.redux": "deminoth.github.io/redux", // noCF
-  "kruto": "planetgurk.github.io/kruto-docs"
+  "kruto": "planetgurk.github.io/kruto-docs",
   "koa-rest-api-boilerplate": "posquit0.github.io/koa-rest-api-boilerplate",
   "kobra": "johnsylvain.github.io/kobra",
   "kodadot": "kodadot.github.io",
