@@ -1144,7 +1144,7 @@ var cnames_active = {
   "imagecapture": "googlechrome.github.io/imagecapture-polyfill",
   "imask": "unmanner.github.io/imaskjs",
   "imbue": "ghosts.github.io/Imbue",
-  "imcvampire": "imcvampire.github.io",
+  "imcvampire": "cname.vercel-dns.com",
   "imeme": "svenmeister.github.io/imeme.js.org",
   "imgops": "dogancelik.github.io/imgops-multi", // noCF
   "iminfinity": "js-org-test.netlify.app",
