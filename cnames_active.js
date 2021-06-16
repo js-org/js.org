@@ -1513,7 +1513,7 @@ var cnames_active = {
   "maxtracking": "maxtracking.github.io", // noCF? (don´t add this in a new PR)
   "mc": "magicarbon.github.io/mc", // noCF? (don´t add this in a new PR)
   "mcul": "teamtofu.github.io/mcul",
-  "md": "netnr-md.pages.dev",
+  "md": "netnr.github.io/netnrmd",
   "mdbf-css": "more-beautiful-div-framework.github.io",
   "mde": "lukehorvat.github.io/mde-soundboard",
   "mechan": "dusterthefirst.github.io/mechan.js",
