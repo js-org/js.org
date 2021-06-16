@@ -1752,6 +1752,7 @@ var cnames_active = {
   "noderize": "cretezy.github.io/noderize",
   "nodeweb": "nodeweb.ddns.net",
   "nodsu": "ethamitc.github.io/nodsu",
+  "nofated": "nofated095.github.io",
   "noflux": "hosting.gitbook.io", // noCF
   "nomic": "basicer.github.io/nomic.js-ui",
   "noo": "uyouthe.github.io/noo",
