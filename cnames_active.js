@@ -2312,7 +2312,7 @@ var cnames_active = {
   "short": "shortit.netlify.com",
   "shortener": "jsmiith.github.io/shortener",
   "shortio": "ichiidev.github.io/short.io-docs",
-  "shuwan9": "shuwan9.github.io",
+  "shuwan9": "shuwan9.github.io", // noCF
   "siddharth": "chaudhs769.github.io/siddharth.js.org",
   "sidekik": "inf3cti0n95.github.io/sidekik",
   "sidewind": "cname.vercel-dns.com", // noCF
