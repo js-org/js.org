@@ -93,6 +93,7 @@ var cnames_active = {
   "aderemi": "aderemi.github.io",
   "adil": "adilzeshan.github.io/adil",
   "aditya": "aditya81070.github.io",
+  "DerGoogler": "dergoogler.github.io",
   "adnanbabakan": "adnanbabakan.github.io",
   "adon988": "adon988.github.io",
   "adv": "advjs.github.io",
