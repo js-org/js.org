@@ -2312,12 +2312,12 @@ var cnames_active = {
   "short": "shortit.netlify.com",
   "shortener": "jsmiith.github.io/shortener",
   "shortio": "ichiidev.github.io/short.io-docs",
-  "shuwan9": "shuwan9.github.io", // noCF
+  "shuwan9": "shuwan9.github.io", 
   "siddharth": "chaudhs769.github.io/siddharth.js.org",
   "sidekik": "inf3cti0n95.github.io/sidekik",
   "sidewind": "cname.vercel-dns.com", // noCF
   "sights": "sfxrescue.github.io/sights",
-  "signalz": "hosting.gitbook.io",
+  "signalz": "hosting.gitbook.io", // noCF
   "silfr": "silfr.github.io/iterativecolor",
   "silkster": "silkster.github.io",
   "silky": "wvv8oo.github.com/silky", // noCF? (don´t add this in a new PR)
