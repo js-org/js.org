@@ -950,6 +950,7 @@ var cnames_active = {
   "funbook": "egoist.github.io/funbook",
   "fusilli": "anthemaker.github.io/Fusilli.js",
   "fxrmer": "fxrmer.github.io",
+  "fy":"iseeorg.github.io",
   "fyi": "tobihrbr.github.io/fyi",
   "g": "nodebox.github.io/g.js",
   "g-point": "bdvela.github.io/g-point",
