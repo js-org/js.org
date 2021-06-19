@@ -362,7 +362,7 @@ var cnames_active = {
   "brizusan": "blackmyab.github.io/brizusan",
   "brotat": "mariobob.github.io/brotat-website",
   "browserless": "kikobeats.github.io/browserless",
-  "brum": "brumjs.github.io", // noCF? (don´t add this in a new PR)
+  "brum": "romantic-noyce-67d6ee.netlify.app",
   "bt": "mldonkey.github.io/bt",
   "bui": "kjantzer.github.io/bui",
   "bullwinkle": "bullwinkle.github.io",
