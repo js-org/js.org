@@ -2016,7 +2016,7 @@ var cnames_active = {
   "quincy": "quincyx.github.io",
   "quiz-app": "odevlord.github.io/Quiz-App", // noCF? (don´t add this in a new PR)
   "quizizz": "zaida04.github.io/Quizizz.js",
-  "quickshadow": "quickshadowjs-web.pages.dev", // Please don't add it for yourself in a new PR, this is for my new NPM library
+  "quickshadow": "quickshadowjs-web.pages.dev", 
   "quotobot": "team-gigabyte.github.io/quotobot",
   "r": "r-js.github.io",
   "ractive": "ractivejs.github.io",
