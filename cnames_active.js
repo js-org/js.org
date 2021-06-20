@@ -2840,6 +2840,7 @@ var cnames_active = {
   "wire": "wire-ts.github.io",
   "wired": "mattx8y.github.io/wired-js",
   "with-immutable-props-to-js": "tophat.github.io/with-immutable-props-to-js",
+  "wwhite": "wwhitel.github.io/whiteweb",
   "within": "eric-brechemier.github.io/within", // noCF? (don´t add this in a new PR)
   "wiz": "karimsa.github.io/wiz", // noCF
   "wjy": "wjy20030407.github.io",
