@@ -2256,7 +2256,7 @@ var cnames_active = {
   "sb": "santiaguf.github.io",
   "scancell": "teamtofu.github.io/scancell",
   "scathach": "sinkaroid.github.io/scathach",
-  "scar": "https://scarvite.github.io/scar-doc/",
+  "scar": "scarvite.github.io/scar-doc",
   "scene": "daybrush.github.io/scenejs-page",
   "schema": "hosting.gitbook.com",
   "scopes": "kelleyvanevert.github.io/scopes",
