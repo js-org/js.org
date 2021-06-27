@@ -2788,6 +2788,7 @@ var cnames_active = {
   "vxv": "vxv.netlify.com",
   "w4ctech": "w4ctech.github.io",
   "w4j1e": "w4j1e.github.io",
+  "waffle": "wafflecodez.github.io/main",
   "wahtson": "wahtson.github.io",
   "waline": "walinejs.github.io",
   "wangdabao": "wangdabaoqq.github.io/me",
