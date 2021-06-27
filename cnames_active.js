@@ -783,6 +783,7 @@ var cnames_active = {
   "elliot": "elliotboney.github.io", // noCF? (don´t add this in a new PR)
   "elmo": "lap00zza.github.io/elmo",
   "elock": "yourtion.github.io/node-elock",
+  "elttayman": "elttayman.github.io",
   "emage": "douglasjunior.github.io/emage",
   "email-templates": "niftylettuce.github.io/email-templates",
   "embarrassed-themes": "kbothub.github.io/Embarrassed-Themes",
@@ -1324,7 +1325,7 @@ var cnames_active = {
   "knowyourbundle": "enapupe.github.io/know-your-bundle",
   "ko": "ko25july.github.io/ko.js.org",
   "ko.redux": "deminoth.github.io/redux", // noCF
-  "kruto": "planetgurk.github.io/kruto-docs"
+  "kruto": "planetgurk.github.io/kruto-docs",
   "koa-rest-api-boilerplate": "posquit0.github.io/koa-rest-api-boilerplate",
   "kobra": "johnsylvain.github.io/kobra",
   "kodadot": "kodadot.github.io",
