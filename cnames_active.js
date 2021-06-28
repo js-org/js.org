@@ -2291,7 +2291,7 @@ var cnames_active = {
   "semo": "semojs.github.io/semo",
   "senil": "mrfarhad.github.io/senilwebsite",
   "seoul": "seouljs.github.io/seoul.js.org",
-  "savior": "https://savior.cf"
+  "savior": "savior.cf",
   "sequel": "sequeljs.github.io",
   "sequential": "lorenzoongithub.github.io/sequential",
   "serginator": "serginator.github.io", // noCF? (don´t add this in a new PR)
