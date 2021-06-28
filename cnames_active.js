@@ -167,6 +167,7 @@ var cnames_active = {
   "anonymdev": "anonym-anonym.github.io/ANONYM-ANONYM",
   "antalya": "jsantalya.github.io",
   "anti-nsfw": "linkdiscordd.github.io/anti-nsfw.github.io",
+  "antonycabeza": "ajcrauseo.github.io/antonycabeza",
   "antropodigital": "antropodigital.github.io/CirculodeEstudio",
   "antwar": "antwarjs.github.io/antwar",
   "anukul": "anukul.github.io",
