@@ -587,6 +587,7 @@ var cnames_active = {
   "cyrena": "cyrenajs.github.io/cyrena",
   "cyris": "iCyris.github.io",
   "d-patterns": "alias.zeit.co", // noCF
+  "dd": "mechenik.github.io",
   "d4": "joelburget.github.io/d4",
   "daily.tmr": "ttttmr.github.io/daily", // noCF
   "daisy": "saadeghi.github.io/daisyui-demo",
