@@ -1739,7 +1739,7 @@ var cnames_active = {
   "ngspice": "42ua.github.io/ngspice.js",
   "ni": "js-ni.github.io/ni",
   "nic": "nic.github.io",
-  "nikita": "adaltas.github.io/node-nikita-docs",
+  "nikita": "adaltas.github.io/node-nikita",
   "nikmartin": "nikmartin.github.io",
   "nima": "NimaW.github.io",
   "ninh": "reeganexe.github.io/ninh",
