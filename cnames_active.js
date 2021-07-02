@@ -2008,7 +2008,6 @@ var cnames_active = {
   "quark": "smarchetti.github.io/quark",
   "que": "seatwork.github.io/que.js",
   "querybuilder": "mistic100.github.io/jQuery-QueryBuilder", // noCF? (don´t add this in a new PR)
-  "question": "russellsteadman.github.io/questionify",
   "quick-crud": "kingrayhan.github.io/quick-crud",
   "quickdb": "hosting.gitbook.com",
   "quickerdb": "maniabots.github.io/QuickerDB",
