@@ -2644,7 +2644,7 @@ var cnames_active = {
   "ubuntu-hideout": "bytecommander.github.io/ubuntu-hideout",
   "udnisap": "udnisap.github.io",
   "ui-pack": "ui-pack.netlify.app",
-  "ultrax": "karimx32.github.io/UltraX-Package"
+  "ultrax": "karimx32.github.io/UltraX-Package",
   "ulka": "ulkajs.github.io", // noCF
   "ulog": "download.github.io/ulog",
   "ultcombo": "ultcombo.github.io",
