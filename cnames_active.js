@@ -985,6 +985,7 @@ var cnames_active = {
   "get": "get-js-org.dns.hxis.top",
   "getdot": "enderandfiredev.github.io/getdot",
   "getlink": "ilovecode1.github.io/linkjs", // noCF? (don´t add this in a new PR)
+  "getlost": "cname.vercel-dns.com",
   "ghapi": "haydennyyy.github.io/node-ghapi",
   "ghastly": "hkwu.github.io/ghastly",
   "ghsamm": "ghsamm.github.io", // noCF? (don´t add this in a new PR)
