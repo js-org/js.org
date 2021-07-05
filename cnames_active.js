@@ -1959,6 +1959,7 @@ var cnames_active = {
   "pplayer": "m4tec.github.io/PenguinPlayer",
   "ppt": "1ocalhost.github.io/ppt",
   "pptx": "meshesha.github.io/jspptxjs.github.io",
+  "pranab": "pranabdas.github.io/pranab",
   "pranshuchittora": "pranshuchittora.github.io",
   "pratyay": "neilblaze-v2.netlify.app",
   "praveen": "praveenscience.github.io/praveen.js.org",
