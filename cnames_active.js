@@ -1383,6 +1383,7 @@ var cnames_active = {
   "leandro": "leandrowd.github.io", // noCF? (don´t add this in a new PR)
   "learnathon": "learn-a-thon.netlify.com",
   "learngitbranching": "pcottle.github.io/learnGitBranching",
+  "learning": "pranabdas.github.io/learning.js.org",
   "learningenglish": "guilhermedelemos.github.io/Learning-English",
   "lee": "lee981265.github.io",
   "leeks": "ohlookitsderpy.github.io/leeks.js",
@@ -1959,7 +1960,6 @@ var cnames_active = {
   "pplayer": "m4tec.github.io/PenguinPlayer",
   "ppt": "1ocalhost.github.io/ppt",
   "pptx": "meshesha.github.io/jspptxjs.github.io",
-  "pranab": "pranabdas.github.io/pranab",
   "pranshuchittora": "pranshuchittora.github.io",
   "pratyay": "neilblaze-v2.netlify.app",
   "praveen": "praveenscience.github.io/praveen.js.org",
