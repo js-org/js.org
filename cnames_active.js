@@ -306,6 +306,7 @@ var cnames_active = {
   "bingus": "bingusjs.github.io",
   "bionic": "1c183932-46a9-45d7-9080-4738a7d432c7.repl.co", // noCF
   "biu": "aprilorange.github.io/biu", // noCF? (don´t add this in a new PR)
+  "blagues": "mmdeveloppement.github.io/blagues.js",
   "blego": "mattstypa.github.io/blego.js.org",
   "blessmyrains": "dusterthefirst.github.io/blessmyrains",
   "blitzjs-tutorial": "hylerrix.github.io/blitzjs-tutorial",
