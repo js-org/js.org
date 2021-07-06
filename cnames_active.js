@@ -38,7 +38,6 @@
  */
 
 var cnames_active = {
-  "easy-d": "easy-djs.github.io/easy-djs"
   "": "js-org.github.io",
   "01mz": "01mz.github.io",
   "100dayz": "deadcoder0904.github.io/100dayz",
@@ -759,6 +758,7 @@ var cnames_active = {
   "eahmed234": "eahmed234.github.io",
   "ease": "chisel.github.io/ease",
   "easy-bot": "bigaston.github.io/easy-bot",
+  "easy-d": "easy-djs.github.io/easy-djs",
   "easybuy": "danielwetan.github.io/easybuy",
   "easyht": "yellowface233.github.io/easyht-website",
   "eatery-nod-w": "kevinast.github.io/eatery-nod-w",
