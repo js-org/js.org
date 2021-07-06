@@ -1542,6 +1542,7 @@ var cnames_active = {
   "melody": "trivago.github.io/melody-web",
   "meow": "meow-js.github.io",
   "memer-api": "cname.vercel-dns.com",
+  "mongo-eco": "admiring-heisenberg-ca9862.netlify.app",
   "mengd": "cname.vercel-dns.com",
   "menghafalquran": "mzaini30.github.io/menghafal-quran",
   "mercury": "henryqw.github.io/mercury",
