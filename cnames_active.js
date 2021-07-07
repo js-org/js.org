@@ -2425,6 +2425,7 @@ var cnames_active = {
   "spritewerk": "bildepunkt.github.io/spritewerk", // noCF? (don´t add this in a new PR)
   "sql": "sql-js.github.io/sql.js",
   "sql2struct": "ymlair.github.io/sql2struct",
+  "sqlchart": "sqlchart.github.io/sqlchart",
   "squeak": "bertfreudenberg.github.io/SqueakJS",
   "squid": "squidjs.github.io/squid",
   "squirrelly": "squirrellyjs.netlify.com", // noCF
