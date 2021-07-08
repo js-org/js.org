@@ -1235,6 +1235,7 @@ var cnames_active = {
   "je": "netnr-json.netlify.app",
   "jena": "javascript-in-jena.github.io", // noCF
   "jessm": "jessi-mhernandez.github.io/JessicaM",
+  "jesusmontess": "jesusmontess.github.io/Portafolio/",
   "jetaimetantquetuestoi": "dakokonutboi.github.io/jetaimetantquetuestoi",
   "jets": "nexts.github.io/Jets.js",
   "jinada": "redsplit.github.io/jinada",
