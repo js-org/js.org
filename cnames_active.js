@@ -1220,6 +1220,7 @@ var cnames_active = {
   "jacques": "jacquesmarais.github.io/jacques", // noCF? (don´t add this in a new PR)
   "jaibascript": "vasco3.github.io/jaibascript",
   "jaipur": "jaipurjs-website-7b695.netlify.com",
+  "jairprada":"https://jairprada.github.io/Portafolio",
   "jakarta": "jakartajs.github.io/jakartajs", // noCF? (don´t add this in a new PR)
   "jamal": "jamaljs.github.io/jamaljs",
   "james": "jamesrowen.github.io/james", // noCF? (don´t add this in a new PR)
