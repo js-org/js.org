@@ -2235,7 +2235,7 @@ var cnames_active = {
   "ruwan": "rpgee.github.io",
   "rva": "fanyer.github.io/rva",
   "ryaneldon": "rdogstyle.github.io/ryaneldon",
-  "rupom": "rupomchowdhury.github.io/rupom-js",
+  "rupom": "rupomchowdhury.github.io/RUPOM-JS",
   "s3swa": "s3swa-ict-upgifter.github.io/snow-eater",
   "s4swa": "s4swa.github.io",
   "saeed": "mrsaeeddev.github.io",
