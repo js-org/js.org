@@ -1599,6 +1599,7 @@ var cnames_active = {
   "miny": "pablopunk.github.io/miny",
   "mirror": "hmsjy2017.github.io/Google-Mirrors",
   "mirrors": "llxlr.github.io/mirrors",
+  "mirkoczat": "musing-bell-f6f75b.netlify.app",
   "mis101bird": "mis101bird.github.io", // noCF? (don´t add this in a new PR)
   "miscord": "bjornskjald.github.io/miscord-website-redirect",
   "mission-control": "capevace.github.io/mission-control",
