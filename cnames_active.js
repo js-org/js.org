@@ -2286,6 +2286,7 @@ var cnames_active = {
   "searchconfig": "tomchen.github.io/searchconfig",
   "seatbelt": "seatbeltjs.github.io/seatbelt",
   "seatchart": "omarmahili.github.io/seatchart.js",
+  "season":"seasonjs.github.io/tools/",
   "sebasvalcar": "sebasvalcar.github.io/portafolio",
   "secrethitler": "infinite-mackerel-4zz34kczst0ie7gxb1m4kqi0.herokudns.com",
   "secsb": "secsb.github.io",
