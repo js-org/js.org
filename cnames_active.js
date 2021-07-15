@@ -1664,6 +1664,7 @@ var cnames_active = {
   "mp": "cncdn.github.io",
   "mp3tag": "eidoriantan.github.io/mp3tag.js",
   "mpe": "weareroli.github.io/mpejs", // noCF? (don´t add this in a new PR)
+  "mqtt": "tennessine.github.io/mqtt",
   "mrinjamul": "mrinjamul.github.io/mrinjamul.js.org",
   "mrm": "mrmjs.netlify.app",
   "mrn": "binggg.github.io/mrn", // noCF? (don´t add this in a new PR)
