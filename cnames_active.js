@@ -1258,7 +1258,6 @@ var cnames_active = {
   "josecarloszamoragomezcv": "josecarloszamoragomez.github.io/CV",
   "josecarloszamoragomezportfolio": "josecarloszamoragomez.github.io/Portfolio",
   "josep": "warlock.github.io",
-  "jspaeza": "jspaeza.github.io/Portafolio",
   "jparticles": "jparticles.github.io/Documentation",
   "js-fixerr": "anujsinghwd.github.io/js-fixerr",
   "js-labs": "js-labs.vercel.app",
@@ -1266,6 +1265,7 @@ var cnames_active = {
   "jsdec": "liulihaocai.github.io/JSDec",
   "jslabs": "cname.vercel-dns.com", // noCF
   "jsnippet": "JesseEisen.github.io/snippets", // noCF
+  "jspaeza": "jspaeza.github.io/Portafolio",
   "jsoboro": "jsoboro.github.io",
   "json-e": "taskcluster.github.io/json-e",
   "json-schema-faker": "json-schema-faker.github.io/website-jsf",
