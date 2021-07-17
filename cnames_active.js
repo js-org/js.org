@@ -1330,7 +1330,7 @@ var cnames_active = {
   "kmeans": "jeff-tian.github.io/k-means",
   "knc": "chaituknag.github.io",
   "knowyourbundle": "enapupe.github.io/know-your-bundle",
-  "kmc": "https://knowminecraft.github.io/KnowMinecraft/",
+  "kmc": "knowminecraft.github.io/KnowMinecraft",
   "ko": "ko25july.github.io/ko.js.org",
   "ko.mobx": "ko-mobx-js-org.vercel.app", // noCF
   "ko.redux": "deminoth.github.io/redux", // noCF
