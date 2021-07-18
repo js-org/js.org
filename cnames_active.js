@@ -1521,6 +1521,7 @@ var cnames_active = {
   "mateocontenla": "taconeomental.github.io/mateocontenla",
   "materialish": "jamesplease.github.io/materialish",
   "materialize-bootbox": "iqbalfn.github.io/materialize-bootbox",
+  "materium": "materium.github.io",
   "math": "hegartycalculator.github.io/math.js",
   "matrix-rref-solver": "arisweedler.github.io/matrix-rref-solver",
   "matters2ipfs": "contributionls.github.io/matters2ipfs",
