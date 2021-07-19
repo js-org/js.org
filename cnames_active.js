@@ -2267,6 +2267,7 @@ var cnames_active = {
   "satont": "satont.github.io",
   "saulosantiago": "saulosilva.github.io", // noCF? (don´t add this in a new PR)
   "sawyer": "sqwwy.github.io/sawyer.js.org",
+  "sayua": "hidden-umbrella.github.io/sayua"
   "sazerac": "sazeracjs.github.io/sazerac-site",
   "sb": "santiaguf.github.io",
   "scancell": "russellsteadman.github.io/scancell",
