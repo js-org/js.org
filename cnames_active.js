@@ -1036,7 +1036,7 @@ var cnames_active = {
   "graphene": "graphene-react.netlify.com",
   "graphics2d": "keyten.github.io/Graphics2D", // noCF? (don´t add this in a new PR)
   "graphstore": "besync.github.io/graphstore",
-    "greenhandzdl": " ftp6470759.host119.sanfengyun.cn"
+  "greenhandzdl": "greenhandzdl.github.io"
   "gregory": "f3z0.github.io",
   "grep": "42ua.github.io/grep",
   "greylock": "datamart.github.io/Greylock",
