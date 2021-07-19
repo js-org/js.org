@@ -1846,6 +1846,7 @@ var cnames_active = {
   "outdoors": "mrdatastorage.github.io/outdoors.js",
   "outrite": "outrite.github.io/outrite.js.org",
   "overtrack": "aidant.github.io/overtrack.js",
+  "ovo": "ovojs.github.io/OvO",
   "oz": "openzagreb.github.io",
   "p2psc": "kognise.github.io/p2psc",
   "p3terx": "p3terx.github.io/P3TERX",
