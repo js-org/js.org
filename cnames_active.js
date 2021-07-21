@@ -1419,7 +1419,6 @@ var cnames_active = {
   "linghucong": "jiji262.github.io",
   "lingui": "cname.vercel-dns.com", // noCF
   "lips": "jcubic.github.io/lips",
-  "lirui": "lem0nb.github.io/lblog"
   "lister": "jpbulman.github.io/lister",
   "listore": "crazy-white.github.io/Listore",
   "litedom": "mardix.github.io/litedom", // noCF
@@ -1520,6 +1519,7 @@ var cnames_active = {
   "maxnachlinger": "maxnachlinger.github.io", // noCF? (don´t add this in a new PR)
   "maxtracking": "maxtracking.github.io", // noCF? (don´t add this in a new PR)
   "mc": "magicarbon.github.io/mc", // noCF? (don´t add this in a new PR)
+  "mca": "lem0nb.github.io/Minecraft_Auto_Builder"
   "mcul": "teamtofu.github.io/mcul",
   "md": "cname.vercel-dns.com", // noCF
   "mdbf-css": "more-beautiful-div-framework.github.io",
