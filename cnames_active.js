@@ -1419,6 +1419,7 @@ var cnames_active = {
   "linghucong": "jiji262.github.io",
   "lingui": "cname.vercel-dns.com", // noCF
   "lips": "jcubic.github.io/lips",
+  "lirui": "lem0nb.github.io/lblog"
   "lister": "jpbulman.github.io/lister",
   "listore": "crazy-white.github.io/Listore",
   "litedom": "mardix.github.io/litedom", // noCF
@@ -2904,7 +2905,6 @@ var cnames_active = {
   "zyh": "zyh-chopper.github.io/zyh",
   "zykj": "zykj.now.sh", // noCF
   "zyy": "zyyou.github.io/notes"
-  "lirui": "lem0nb.github.io/lblog"
   /*
    * please don't add your subdomain records down here!
    * insert them in alphabetical order to help reduce merge conflicts.
