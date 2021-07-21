@@ -1531,7 +1531,7 @@ var cnames_active = {
   "maxnachlinger": "maxnachlinger.github.io", // noCF? (don´t add this in a new PR)
   "maxtracking": "maxtracking.github.io", // noCF? (don´t add this in a new PR)
   "mc": "magicarbon.github.io/mc", // noCF? (don´t add this in a new PR)
-  "mca": "lem0nb.github.io/Minecraft_Auto_Builder",
+  "mca": "lem0nb.github.io/Minecraft_Auto_Builder"
   "mcul": "russellsteadman.github.io/mcul",
   "md": "netnr.github.io/netnrmd",
   "mdbf-css": "more-beautiful-div-framework.github.io",
