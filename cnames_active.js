@@ -811,7 +811,7 @@ var cnames_active = {
   "energy": "energychain.github.io/energy",
   "eon": "eon-web.github.io/eon",
   "epack": "transparent-dilophosaurus-d0z0nyrn79irf17c2hbbz9li.herokudns.com",
-  "epi": "quantalabs.github.io/EpiJS",
+  "epi": "epispot.github.io/EpiJS",
   "epicker": "eling486.github.io/EPicker-docs",
   "eplayer": "132yse.github.io/eplayer",
   "epoxy": "hosting.gitbook.com",
