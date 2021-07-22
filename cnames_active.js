@@ -1053,6 +1053,7 @@ var cnames_active = {
   "gully": "nmabhinandan.github.io/gully", // noCF? (don´t add this in a new PR)
   "gulpkit": "gulpkit.github.io/GulpKit",
   "gun": "gundb.github.io", // noCF? (don´t add this in a new PR)
+  "guobg": "guobg.github.io/peach-design",
   "guppy": "daniel3735928559.github.io/guppy",
   "gylidian": "gylidian.github.io",
   "gyps": "huijari.github.io/Gyps",
@@ -2957,8 +2958,7 @@ var cnames_active = {
   "zxy": "ZXYFrank.github.io",
   "zyh": "zyh-chopper.github.io/zyh",
   "zykj": "cname.vercel-dns.com", // noCF
-  "zyy": "zyyou.github.io/notes",
-  "guobg": "guobg.github.io/peach-design"
+  "zyy": "zyyou.github.io/notes"
   /*
    * please don't add your subdomain records down here!
    * insert them in alphabetical order to help reduce merge conflicts.
