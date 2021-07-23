@@ -1435,7 +1435,7 @@ var cnames_active = {
   "lipsum": "llxlr.github.io/lipsum.js",
   "lister": "jpbulman.github.io/lister",
   "listore": "crazy-white.github.io/Listore",
-  "list-of-learning-resources": "https://jobream.github.io/List-of-Learning-Resources",
+  "list-of-learning-resources": "jobream.github.io/List-of-Learning-Resources",
   "litedom": "mardix.github.io/litedom", // noCF
   "littlefoot": "goblindegook.github.io/littlefoot",
   "liudun": "haveataste.github.io/liudun",
