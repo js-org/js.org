@@ -2263,7 +2263,7 @@ var cnames_active = {
   "sandbox": "twtg93.github.io/sandbox",
   "sanddance": "danmarshall.github.io/SandDance",
   "sandeepkhandewale": "learner1024.github.io",
-  "sandy": "5ffc2f69-8054-4d5a-91b8-6a787901ed3d.repl.co",
+  "sandy": "5ffc2f69-8054-4d5a-91b8-6a787901ed3d.repl.co", //noCF
   "sanity-runner": "tophat.github.io/sanity-runner",
   "sanohin": "sanohin.github.io",
   "saso": "huruji.github.io/saso",
