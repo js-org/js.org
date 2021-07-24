@@ -54,7 +54,7 @@ var cnames_active = {
   "360": "360daili.github.io/360daili",
   "3d-go": "3d-go.netlify.com",
   "404": "licshee.github.io/404",
-  "47o": "47o.github.io",
+  "47o": "47o.github.io/47o",
   "766": "766.github.io",
   "7anshuai": "7anshuai.github.io", // noCF? (don´t add this in a new PR)
   "8085sim": "ahmedazhar05.github.io/8085sim",
