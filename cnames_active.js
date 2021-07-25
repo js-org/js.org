@@ -1340,7 +1340,6 @@ var cnames_active = {
   "koa-rest-api-boilerplate": "posquit0.github.io/koa-rest-api-boilerplate",
   "kobra": "johnsylvain.github.io/kobra",
   "kodadot": "kodadot.github.io",
-  "kode": "zenyanle.github.io/node-unblocker",
   "kody": "thomasbrueggemann.github.io/kody",
   "kofiloop": "norech.github.io/KofiLoop",
   "koishi": "koishijs.github.io",
@@ -1762,6 +1761,7 @@ var cnames_active = {
   "nintenbot": "nintenzone.github.io/NintenBot",
   "nite": "manvalls.github.io/nite",
   "nnmap": "marzavec.github.io/nnmap.js",
+  "no-pry": "zenyanle.github.io/node-unblocker",
   "nobelium": "cname.vercel-dns.com", // noCF
   "noblox": "noblox.github.io/noblox.js",
   "nod": "diegohaz.github.io/nod",
