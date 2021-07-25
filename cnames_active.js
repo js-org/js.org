@@ -682,6 +682,7 @@ var cnames_active = {
   "discord-voice": "lebyy.github.io/discord-voice",
   "discord-webhook": "evrifaessa.github.io/discord-webhook",
   "discord-vr": "hosting.gitbook.io", // noCF
+  "discord-twitch": "tovade.github.io/discord-twitch",
   "discord4node": "mrsheldon.github.io/Discord4Node",
   "discordhy": "readthedocs.io",
   "discordlib": "hosting.gitbook.com",
