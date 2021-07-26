@@ -1624,7 +1624,7 @@ var cnames_active = {
   "mo": "mirmousaviii.github.io/mo",
   "mobi": "mobidots.github.io",
   "mobiriseto": "mobiriseto.github.io",
-  "moblox": "imacodr.github.io/moblox",
+  "romanager": "imacodr.github.io/romanager",
   "mobspot": "mobspot.github.me/mobspot.js.org",
   "mobx": "mobx-js-org.onrender.com", // noCF
   "mobx-keystone": "mobx-keystone.netlify.com",
