@@ -1175,7 +1175,7 @@ var cnames_active = {
   "inig": "inig.github.io",
   "initial-wu": "initial-wu.github.io",
   "injectify": "injectify.github.io/docs",
-  "ink": "https://coolprofessor.github.io/ink.js",
+  "ink": "coolprofessor.github.io/ink.js",
   "inko": "inko.netlify.com",
   "inkstats": "lucaslah.github.io/InkStats-v2",
   "inline-style-prefixer": "rofrischmann.github.io/inline-style-prefixer",
