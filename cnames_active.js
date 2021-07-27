@@ -1810,6 +1810,7 @@ var cnames_active = {
   "nyax": "springnyan.github.io/nyax",
   "nyc": "nycjsorg.github.io/nyc",
   "nyr": "suriyaakudoisc.github.io/NYR",
+  "nawrassedahman": "nawrassedahman.github.io",
   "oak": "donn.github.io/Oak.js",
   "object-gui": "matteobruni.github.io/object-gui",
   "objectid": "the-silver-project.github.io/objectid",
