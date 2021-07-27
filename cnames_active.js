@@ -2967,7 +2967,8 @@ var cnames_active = {
   "zxy": "ZXYFrank.github.io",
   "zyh": "zyh-chopper.github.io/zyh",
   "zykj": "cname.vercel-dns.com", // noCF
-  "zyy": "zyyou.github.io/notes"
+  "zyy": "zyyou.github.io/notes",
+  "guildcord": "guildcord.github.io/guildcord"
   /*
    * please don't add your subdomain records down here!
    * insert them in alphabetical order to help reduce merge conflicts.
