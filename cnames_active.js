@@ -2572,6 +2572,7 @@ var cnames_active = {
   "teddy": "alias.zeit.co", // noCF
   "telaviv": "dustin-h.github.io/telaviv", // noCF? (don´t add this in a new PR)
   "telegraf": "telegraf.github.io/telegraf", // noCF? (don´t add this in a new PR)
+  "telegram-bot": "tele-bot-api.github.io",
   "telegram": "yuvapoojary.github.io/telegram.js-website",
   "telegramweb": "telegramweb.github.io",
   "teletype": "keyvank.github.io/teletype.js",
