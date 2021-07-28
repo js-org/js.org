@@ -1054,7 +1054,7 @@ var cnames_active = {
   "guilherme": "guilhermedelemos.github.io/guilherme",
   "guillotine": "matiasgagliano.github.io/guillotine", // noCF? (don´t add this in a new PR)
   "guineapigbot": "guineapigbot.github.io",
-  "guildcord": "guildcord.github.io/guildcord",
+  "guildcord": "guildcord.github.io/docs",
   "gully": "nmabhinandan.github.io/gully", // noCF? (don´t add this in a new PR)
   "gulpkit": "gulpkit.github.io/GulpKit",
   "gun": "gundb.github.io", // noCF? (don´t add this in a new PR)
