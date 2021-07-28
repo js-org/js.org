@@ -736,7 +736,7 @@ var cnames_active = {
   "draft": "D1SC0tech.github.io/draft.js", // noCF? (don´t add this in a new PR)
   "drag": "classicoldsong.github.io/Drag.js", // noCF? (don´t add this in a new PR)
   "dragio": "alexkratky.github.io/Dragio.js",
-  "drago": "samolo-h3ll0.github.io/dragojs"
+  "drago": "samolo-h3ll0.github.io/dragojs",
   "dragonizedpizza": "dragonizedpizza.github.io/ImageEditor",
   "dragonman225": "dragonman225.github.io",
   "draw": "skillzzjesse.github.io/draw",
@@ -1341,7 +1341,7 @@ var cnames_active = {
   "ko": "ko25july.github.io/ko.js.org",
   "ko.mobx": "ko-mobx-js-org.vercel.app", // noCF
   "ko.redux": "deminoth.github.io/redux", // noCF
-  "kruto": "planetgurk.github.io/kruto-docs"
+  "kruto": "planetgurk.github.io/kruto-docs",
   "koa-rest-api-boilerplate": "posquit0.github.io/koa-rest-api-boilerplate",
   "kobra": "johnsylvain.github.io/kobra",
   "kodadot": "kodadot.github.io",
@@ -2042,7 +2042,7 @@ var cnames_active = {
   "quincy": "quincyx.github.io",
   "quiz-app": "odevlord.github.io/Quiz-App", // noCF? (don´t add this in a new PR)
   "quizizz": "zaida04.github.io/Quizizz.js",
-  "quickshadow": "quickshadowjs-web.vercel.app",  // noCF
+  "quickshadow": "quickshadowjs-web.vercel.app", // noCF
   "quotobot": "team-gigabyte.github.io/quotobot",
   "r": "r-js.github.io",
   "ractive": "ractivejs.github.io",
@@ -2716,7 +2716,7 @@ var cnames_active = {
   "units": "stak-digital.github.io/units",
   "universal-api": "raxjs.github.io/universal-api",
   "unoconv": "blog.ryanwu.me/Unoconv-Promise",
-  "unreal": "sprayxe.github.io/unreal.js.org"
+  "unreal": "sprayxe.github.io/unreal.js.org",
   "unsafe": "unsafely.github.io/unsafe.js",
   "up": "codefeathers.github.io/up",
   "uppload": "uppload.netlify.com",
