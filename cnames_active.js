@@ -310,6 +310,7 @@ var cnames_active = {
   "blagues": "mmdeveloppement.github.io/blagues.js",
   "blego": "mattstypa.github.io/blego.js.org",
   "blessmyrains": "dusterthefirst.github.io/blessmyrains",
+  "bliss": "beyondcodebootcamp.github.io/bliss",
   "blitzjs-tutorial": "hylerrix.github.io/blitzjs-tutorial",
   "blizzard": "benweier.github.io/blizzard.js",
   "blockauth": "faragly.github.io/blockauth",
