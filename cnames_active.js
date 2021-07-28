@@ -1600,6 +1600,7 @@ var cnames_active = {
   "mineweb": "prismarine-web-client.us.to",
   "mingyan": "mingyan.now.sh", // noCF
   "mingyi": "liangmingyi.github.io", // noCF? (don´t add this in a new PR)
+  "minhtml": "r4356th.github.io/minhtml",
   "minidrone": "mechazawa.github.io/minidrone-js",
   "minify": "minify-js.github.io",
   "minigrid": "henriquea.github.io/minigrid", // noCF? (don´t add this in a new PR)
