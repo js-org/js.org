@@ -673,6 +673,7 @@ var cnames_active = {
   "discord": "discordjs.github.io/website",
   "discord-addons": "freiikdev.github.io/discord-addons",
   "discord-anti-spam": "michael-j-scofield.github.io/discord-anti-spam",
+  "discord-antiraid": "derpinou.github.io/discord-antiraid"
   "discord-bio": "asdfugil.github.io/discord.bio",
   "discord-buttons": "discord-buttons.github.io/docs", //noCF
   "discord-giveaways": "androz2091.github.io/discord-giveaways",
