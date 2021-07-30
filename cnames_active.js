@@ -2863,6 +2863,7 @@ var cnames_active = {
   "weky-docs": "7eb46102-c415-4a88-beb9-6d9da4fd6831.repl.co", // noCF
   "welcome": "edapm.github.io/welcomejs",
   "wepl": "obnoxiousnerd.github.io/wepl-website",
+  "wes": "wes337.github.io",
   "wfplayer": "zhw2590582.github.io/WFPlayer",
   "wfs": "acewfdy.github.io/static",
   "wglt": "codyebberson.github.io/wglt",
