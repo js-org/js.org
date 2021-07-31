@@ -114,6 +114,7 @@ var cnames_active = {
   "aider": "tjz101.github.io/aider-js-pages",
   "airtable-plus": "victorhahn.github.io/airtable-plus",
   "ais": "yunyoujun.github.io/ais.js",
+  "astroide": "umut-ozkan.github.io/astroide",
   "ajaxable": "artf.github.io/ajaxable",
   "ajinkya": "steelx.github.io/ajinkyaxjs",
   "ajv": "epoberezkin.github.io/ajv",
@@ -1052,6 +1053,7 @@ var cnames_active = {
   "gruft": "nikola.github.io/gruft", // noCF? (don´t add this in a new PR)
   "grumpy": "aidenybai.github.io/grumpy",
   "gtfs": "gtfs-js.github.io/gtfs.js.org",
+  "guild": "guild-js.github.io/guild.js",
   "guilded": "guildedjs.github.io/guilded.js",
   "guilherme": "guilhermedelemos.github.io/guilherme",
   "guillotine": "matiasgagliano.github.io/guillotine", // noCF? (don´t add this in a new PR)
@@ -2410,6 +2412,7 @@ var cnames_active = {
   "social-likes-next": "sapegin.github.io/social-likes-next", // noCF? (don´t add this in a new PR)
   "softdoc": "hilderonny.github.io/softdoc",
   "solder": "mcrocks999.github.io/solder.js",
+  "soloalert": "arnav-kr.github.io/soloalert",
   "solome": "solome.github.io",
   "solu": "soiu.github.io/solu",
   "somerandomcat": "hosting.gitbook.io", // noCF
