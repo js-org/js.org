@@ -287,6 +287,7 @@ var cnames_active = {
   "beatzoid": "beatzoid.github.io",
   "bee": "beejsdev.github.io",
   "becarefulwith": "xMikee1.github.io/becarefulwith",
+  "beforbad": "patrick60814/beforbad.github.io", // noCF
   "begin": "advanced-webapps-class.github.io/begin", // noCF? (don´t add this in a new PR)
   "benjick": "benjick.github.io",
   "berk": "berkelmas.github.io",
