@@ -2916,7 +2916,7 @@ var cnames_active = {
   "x": "nikhiljohn10.github.io/x.js",
   "xen": "hosting.gitbook.com",
   "xendb": "notmarx.github.io/Xen.db",
-  "xenon": "https://xenon-labs.vercel.app/",
+  "xenon": "xenon-labs.vercel.app",
   "xhemj": "xhemj.now.sh", // noCF
   "xhy": "xhy.github.io",
   "xi102": "xi102.github.io",
