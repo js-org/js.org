@@ -2457,6 +2457,7 @@ var cnames_active = {
   "sr": "samrobbins85.github.io",
   "sreeram": "sreeramofficial.github.io/sreeram",
   "sri": "jackub.github.io/subresource-integrity-fallback",
+  "sribalaji": "iamthecloverly.github.io",
   "ss": "netnr-ss.netlify.app",
   "staart": "staart.netlify.com",
   "stabs": "wnda.github.io/stabs",
