@@ -846,6 +846,7 @@ var cnames_active = {
   "esg": "cname.vercel-dns.com", // noCF
   "esper": "codecombat.github.io/esper.js",
   "estudiantil": "milersant.github.io/estudiantil",
+  "estadoort": "luqaska.github.io/ort",
   "eta": "alias.zeit.co", // noCF
   "eth": "eth-js.github.io/eth-dev-tools",
   "ethaan": "ethaan.github.io/webpage",
