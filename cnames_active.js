@@ -685,7 +685,7 @@ var cnames_active = {
   "discord-messages": "lebyy.github.io/discord-messages",
   "discord-player": "discord-player-docs.netlify.app",
   "discord-sensei": "demonicious.github.io/discord-sensei",
-  "discord-voice": "lebyy.github.io/discord-voice",
+  "discord-voice": "c71abc0d-1101-4d2b-ab7b-9f30b379f68b.repl.co", // noCF
   "discord-webhook": "evrifaessa.github.io/discord-webhook",
   "discord-vr": "hosting.gitbook.io", // noCF
   "discord-twitch": "tovade.github.io/discord-twitch",
