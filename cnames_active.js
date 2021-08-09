@@ -371,7 +371,7 @@ var cnames_active = {
   "brotat": "mariobob.github.io/brotat-website",
   "browserless": "kikobeats.github.io/browserless",
   "brum": "romantic-noyce-67d6ee.netlify.app",
-  "bs": "e8e0d0fb-0c7e-422a-9742-cbb1f4f96692.repl.co", // noCF
+  "bs": "brawlie.github.io/bsapi.js",
   "bt": "mldonkey.github.io/bt",
   "bui": "kjantzer.github.io/bui",
   "bullwinkle": "bullwinkle.github.io",
