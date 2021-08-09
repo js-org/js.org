@@ -2538,6 +2538,7 @@ var cnames_active = {
   "tinier": "elitedamyth.github.io/Tinier-JS",
   "tint": "tintjs.github.io", // noCF? (don´t add this in a new PR)
   "tinylinux": "e8johan.github.io/tiny-js", // noCF? (don´t add this in a new PR)
+  "tiny-swiper": "joe223.github.io/tiny-swiper",
   "tit": "wenjiasen.github.io/tit",
   "title": "sawyerbx.github.io/titlejs",
   "tixol": "vcxiz.github.io/tixol",
