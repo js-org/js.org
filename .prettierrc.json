@@ -1,0 +1,16 @@
+{
+  "printWidth": 1000,
+  "quoteProps": "preserve",
+  "semi": false,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "none",
+  "overrides": [
+    {
+      "files": "records_restricted.js",
+      "options": {
+        "tabWidth": 4
+      }
+    }
+  ]
+}
