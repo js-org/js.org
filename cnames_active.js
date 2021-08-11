@@ -774,6 +774,7 @@ var cnames_active = {
   "easy-bot": "bigaston.github.io/easy-bot",
   "easy-d": "easy-djs.github.io/easy-djs",
   "easybuy": "danielwetan.github.io/easybuy",
+  "easyeyes": "easyeyes.github.io/website",
   "easyht": "yellowface233.github.io/easyht-website",
   "eatery-nod-w": "kevinast.github.io/eatery-nod-w",
   "ebnsina": "ebnsina.github.io/js.ebnsina.me",
