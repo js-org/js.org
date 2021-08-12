@@ -1621,6 +1621,7 @@ var cnames_active = {
   "mininote": "htdt.github.io/mininote",
   "minivaline": "minivaline.github.io",
   "miny": "pablopunk.github.io/miny",
+  "mirage": "camwang.github.io/mirage",
   "mirror": "hmsjy2017.github.io/Google-Mirrors",
   "mirrors": "llxlr.github.io/mirrors",
   "mis101bird": "mis101bird.github.io", // noCF? (don´t add this in a new PR)
