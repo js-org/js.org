@@ -598,7 +598,7 @@ var cnames_active = {
   "cyris": "iCyris.github.io",
   "d-patterns": "alias.zeit.co", // noCF
   "d4": "joelburget.github.io/d4",
-  "daily.tmr": "ttttmr.github.io/daily", // noCF
+  "daily.tmr": "tmr-daily.netlify.app", // noCF
   "daisy": "saadeghi.github.io/daisyui-demo",
   "dakokonutboi": "dakokonutboi.github.io/portfolio",
   "daksh0225": "daksh0225.github.io",
@@ -2638,7 +2638,7 @@ var cnames_active = {
   "tixte": "macedonga.github.io/tixte.js",
   "tiza": "pd4d10.github.io/tiza",
   "tjys": "qikaile.github.io/tjys-notes",
-  "tmr": "ttttmr.github.io",
+  "tmr": "tmr-blog.netlify.app",
   "toad": "wnda.github.io/toad",
   "tom": "cname.vercel-dns.com",
   "tom-select": "orchidjs.github.io/tom-select",
