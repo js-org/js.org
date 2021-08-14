@@ -1785,7 +1785,7 @@ var cnames_active = {
   "node": "nodejs.github.io/node.js.org",
   "node-atlas": "haeresis.github.io/NodeAtlas",
   "node-minecraft-protocol.prismarine": "prismarinejs.github.io/node-minecraft-protocol", // noCF
-  "node-pgn-parser": "https://ashp116.github.io/node-pgn-parser/"
+  "node-pgn-parser": "ashp116.github.io/node-pgn-parser",
   "node-slate": "center-key.github.io/node-slate",
   "nodebook": "hosting.gitbook.io",
   "nodegarden": "pakastin.github.io/nodegarden",
