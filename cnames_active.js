@@ -1490,7 +1490,7 @@ var cnames_active = {
   "lviv": "lvivjs.github.io/lviv",
   "lvp": "luzhenqian.github.io/lvp.js",
   "lwjerri": "lwjerri.github.io",
-  "lx": "blleng.github.io/lx",
+  "lx": "blleng.github.io/lx-test",
   "lychee": "Artificial-Engineering.github.io/lycheeJS-website",
   "lyertia": "lyertia.github.io",
   "lyf": "shbwb.github.io/lyf",
