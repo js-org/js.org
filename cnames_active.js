@@ -578,6 +578,7 @@ var cnames_active = {
   "creaturegen": "ryancromebook.github.io/creaturegen",
   "crq": "shbwb.github.io",
   "crunch": "vukicevic.github.io/crunch", // noCF? (don´t add this in a new PR)
+  "cryptons-api": "https://github.com/AgentHackerYT/cryptons-api",
   "cryptokey": "rumkin.github.com/crypto-key",
   "crystaldb": "erikmcm.github.io/CrystalDB",
   "csv": "adaltas.github.io/node-csv-docs",
