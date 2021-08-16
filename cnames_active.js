@@ -1781,6 +1781,7 @@ var cnames_active = {
   "ninh": "reeganexe.github.io/ninh",
   "nintenbot": "nintenzone.github.io/NintenBot",
   "nite": "manvalls.github.io/nite",
+  "nitrate": "ranjithrd.github.io/nitrate",
   "nnmap": "marzavec.github.io/nnmap.js",
   "no-pry": "zenyanle.github.io/node-unblocker",
   "nobelium": "cname.vercel-dns.com", // noCF
