@@ -2817,6 +2817,7 @@ var cnames_active = {
   "vortex": "puntillol59.github.io/vortex",
   "voxelcss": "jhwohlgemuth.github.io/voxelcss",
   "vscode-apielements": "xvincentx.github.io/vscode-apielements",
+  "vscode-api-cn": "youngjuning.github.io/vscode-api-cn",
   "vssue": "vssue.netlify.com",
   "vuapix": "rwaness.github.io/vuapix",
   "vue": "vuejs.github.io/vue.js.org",
