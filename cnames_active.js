@@ -683,6 +683,7 @@ var cnames_active = {
   "discord-antiraid": "derpinou.github.io/discord-antiraid",
   "discord-bio": "asdfugil.github.io/discord.bio",
   "discord-buttons": "discord-buttons.github.io/docs", //noCF
+  "discord-cmds": "hosting.gitbook.io",
   "discord-epagination": "azawat7.github.io/discord-pagination",
   "discord-giveaways": "androz2091.github.io/discord-giveaways",
   "discord-kr": "discordjs-kr.github.io/website",
