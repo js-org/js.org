@@ -1097,6 +1097,7 @@ var cnames_active = {
   "hapi-sol": "yonjah.github.io/hapi-sol",
   "happy": "e24.github.io/happy", // noCF? (don´t add this in a new PR)
   "harry": "Harry-Yep.github.io",
+  "haru": "luminaxi.github.io/haru",
   "hashchat": "hashchat-js.netlify.app",
   "hay": "hayjs.github.io/hay.js.org",
   "hbase": "adaltas.github.io/node-hbase-docs",
@@ -1154,7 +1155,6 @@ var cnames_active = {
   "hymity": "sarveshmrao.github.io/hymity",
   "hyperform": "hyperform.github.io",
   "hyperhtml-styleguide": "albertosantini.github.io/hyperhtml-styleguide", // noCF
-  "haru": "luminaxi.github.io/haru"
   "i18n4v": "shibukawa.github.io/i18n4v",
   "iagrib": "iagrib.github.io",
   "iamsurajdc": "iamsurajdc.github.io",
