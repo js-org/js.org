@@ -1242,6 +1242,7 @@ var cnames_active = {
   "jacob": "jacob-marshall.github.io/jacob",
   "jacob-ebey": "jacob-ebey.github.io",
   "jacques": "jacquesmarais.github.io/jacques", // noCF? (don´t add this in a new PR)
+  "jadl": "jadl.netlify.app",
   "jaibascript": "vasco3.github.io/jaibascript",
   "jaipur": "jaipurjs-website-7b695.netlify.com",
   "jakarta": "jakartajs.github.io/jakartajs", // noCF? (don´t add this in a new PR)
