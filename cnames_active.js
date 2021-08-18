@@ -1556,7 +1556,7 @@ var cnames_active = {
   "mc": "magicarbon.github.io/mc", // noCF? (don´t add this in a new PR)
   "mca": "lem0nb.github.io/Minecraft_Auto_Builder",
   "mcul": "russellsteadman.github.io/mcul",
-  "md": "netnr.github.io/netnrmd",
+  "md": "netnrmd.onrender.com", // noCF
   "mdbf-css": "more-beautiful-div-framework.github.io",
   "mde": "lukehorvat.github.io/mde-soundboard",
   "mechan": "dusterthefirst.github.io/mechan.js",
