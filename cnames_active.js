@@ -2258,7 +2258,6 @@ var cnames_active = {
   "rplayer": "davland7.github.io/rplayer",
   "rsshub": "diygod.github.io/RSSHub",
   "rsshub-reader": "sevenoutman.github.io/RSSHub-Reader",
-  "rst": "rst-js.github.io/rst.js.org",
   "rt": "rohantinna.github.io/rt",
   "ru.react": "js-rus.github.io/react-ru",
   "ru.redux-saga": "hosting.gitbook.com", // noCF
