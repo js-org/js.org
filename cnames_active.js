@@ -1219,6 +1219,7 @@ var cnames_active = {
   "jdc": "jdceeb.github.io",
   "jds": "alimanman.github.io/jds",
   "je": "cname.vercel-dns.com", // noCF
+  "jelly": "https://mistermemer.github.io/jelly-web",
   "jena": "javascript-in-jena.github.io", // noCF
   "jessm": "jessi-mhernandez.github.io/JessicaM",
   "jetaimetantquetuestoi": "dakokonutboi.github.io/jetaimetantquetuestoi",
