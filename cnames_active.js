@@ -620,6 +620,7 @@ var cnames_active = {
   "dataclass": "alexeyraspopov.github.io/dataclass",
   "datastructures": "deadcoder0904.github.io/datastructures",
   "date": "matthewmueller.github.io/date", // noCF? (don´t add this in a new PR)
+  "dativejs": "dativejs.github.io",
   "davet": "egecelikci.github.io/davet",
   "dawn": "dawnelixir.github.io/dawn.js.org",
   "dawood": "mohamedawood.github.io/Dawood",
