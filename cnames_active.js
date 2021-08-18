@@ -1066,6 +1066,7 @@ var cnames_active = {
   "guild": "guild-js.github.io/guild.js",
   "guilded": "guildedjs.github.io/guilded.js",
   "guilherme": "guilhermedelemos.github.io/guilherme",
+  "guillermoa": "ggustavoap.github.io/LandingPage",
   "guillotine": "matiasgagliano.github.io/guillotine", // noCF? (don´t add this in a new PR)
   "guineapigbot": "guineapigbot.github.io",
   "guildcord": "guildcord.github.io/docs",
