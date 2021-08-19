@@ -1433,7 +1433,7 @@ var cnames_active = {
   "lev": "lev-savranskiy.github.io",
   "level": "xv700.github.io/level",
   "lf": "lf112.github.io",
-  "lgk": "xiaoyanseya.github.io,
+  "lgk": "xiaoyanseya.github.io",
   "lgs": "lgsturkiye.github.io/lgs",
   "li": "mattsimmons1.github.io/li",
   "libphonenumbers": "libphonenumbers.github.io",
