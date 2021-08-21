@@ -2683,6 +2683,7 @@ var cnames_active = {
   "trygit": "trygit.netlify.com",
   "ts-creator": "ts-creator.netlify.com",
   "ts-generator": "cholewka.github.io/typescript-generator",
+  "ts-module-browser": "iam-medvedev.github.io/ts-module-browser",
   "ts-react-boilerplate": "lapanti.github.io/ts-react-boilerplate",
   "ts2jsdoc": "spatools.github.io/ts2jsdoc", // noCF? (don´t add this in a new PR)
   "tsch": "type-challenges.netlify.app",
