@@ -1499,6 +1499,7 @@ var cnames_active = {
   "lychee": "Artificial-Engineering.github.io/lycheeJS-website",
   "lyertia": "lyertia.github.io",
   "lyf": "shbwb.github.io/lyf",
+  "lyle": "lyleshaw.github.io/lyle",
   "lyra": "amansahil.github.io/lyra.js.org",
   "lzbible": "edwinyosorahardjo.github.io/lzbible",
   "m01i0ng": "m01i0ng.github.io",
