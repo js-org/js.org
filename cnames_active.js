@@ -1367,6 +1367,7 @@ var cnames_active = {
   "kody": "thomasbrueggemann.github.io/kody",
   "kofiloop": "norech.github.io/KofiLoop",
   "koishi": "koishijs.github.io",
+  "kokkoro": "dcyuki.github.io/kokkoro",
   "kokoro": "cool2645.github.io/kokoro",
   "kokoro-player": "cool2645.github.io/kokoro-player",
   "komada": "dirigeants.github.io/komada",
