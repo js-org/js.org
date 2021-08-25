@@ -353,6 +353,7 @@ var cnames_active = {
   "bootstrap-vue-arsenic": "ycs77.github.io/bootstrap-vue-arsenic",
   "bornaeon": "bornaeon.github.io",
   "botgram": "botgram.github.io/botgram",
+  "boticord": "hosting.gitbook.io",
   "bottender": "yoctol.github.io/bottender",
   "bottlecap": "rwbeast.github.io/bottlecap",
   "botui-cn": "botui-docs-cn.netlify.app",
