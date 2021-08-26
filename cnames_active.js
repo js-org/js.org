@@ -2211,6 +2211,7 @@ var cnames_active = {
   "remark": "remarkjs.github.io/remark",
   "remote-faces": "dai-shi.github.io/remote-faces",
   "rengular": "chigix.github.io/rengular",
+  "renovar":"Enrique213-VP/RenoVar",
   "repackage": "cchamberlain.github.io/repackage", // noCF? (don´t add this in a new PR)
   "repeater": "repeaterjs.github.io/repeater",
   "replapi-it": "cname.vercel-dns.com",
