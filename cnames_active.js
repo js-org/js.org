@@ -697,6 +697,7 @@ var cnames_active = {
   "discord-voice": "c71abc0d-1101-4d2b-ab7b-9f30b379f68b.repl.co", // noCF
   "discord-webhook": "evrifaessa.github.io/discord-webhook",
   "discord-vr": "hosting.gitbook.io", // noCF
+  "discord-tickets": "derpinou.github.io/discord-tickets",
   "discord-twitch": "tovade.github.io/discord-twitch",
   "discord4node": "mrsheldon.github.io/Discord4Node",
   "discordhy": "readthedocs.io",
