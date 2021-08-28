@@ -50,6 +50,7 @@ var cnames_active = {
   "1ib": "1ib.github.io",
   "21cm": "21cm.github.io",
   "23chemistrycamp": "nchuchemistry.github.io/23chemistrycamp",
+  "2funny": "2funny.github.io"
   "2tube": "you2php.github.io/you2php",
   "360": "360daili.github.io/360daili",
   "3d-go": "3d-go.netlify.com",
@@ -3010,7 +3011,6 @@ var cnames_active = {
   "zyh": "zyh-chopper.github.io/zyh",
   "zykj": "cname.vercel-dns.com", // noCF
   "zyy": "zyyou.github.io/notes"
-  "2funny": "2funny.github.io"
   /*
    * please don't add your subdomain records down here!
    * insert them in alphabetical order to help reduce merge conflicts.
