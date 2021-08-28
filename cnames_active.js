@@ -50,7 +50,7 @@ var cnames_active = {
   "1ib": "1ib.github.io",
   "21cm": "21cm.github.io",
   "23chemistrycamp": "nchuchemistry.github.io/23chemistrycamp",
-  "2funny": "2funny.github.io"
+  "2funny": "2funny.github.io",
   "2tube": "you2php.github.io/you2php",
   "360": "360daili.github.io/360daili",
   "3d-go": "3d-go.netlify.com",
