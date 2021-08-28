@@ -2980,6 +2980,7 @@ var cnames_active = {
   "youtube-ext": "zyrouge.github.io/youtube-ext",
   "youtube-lite": "9oelm.github.io/youtube-lite",
   "yu": "yuxizhe.github.io/yu",
+  "yuki": "godlikeanyone.github.io",
   "yup-phone": "abhisekp.github.io/yup-phone",
   "yusril": "yusrilhs.github.io", // noCF
   "yuye": "cyea.github.io",
