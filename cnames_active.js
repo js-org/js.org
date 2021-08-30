@@ -1839,6 +1839,7 @@ var cnames_active = {
   "nut": "nut-project.netlify.com",
   "nuxt-fluent-bootstrap": "disjfa.github.io/nuxt-fluent-bootstrap",
   "nuxtdoc": "hopeful-hoover-d87dd1.netlify.com",
+  "nuyoah-l": "nuyoah-l.github.io/nyal",
   "nva": "ali322.github.io/nva",
   "nxd": "niuxvdong.github.io",
   "nxse": "nxse.github.io",
