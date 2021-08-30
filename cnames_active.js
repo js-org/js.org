@@ -1679,6 +1679,7 @@ var cnames_active = {
   "modv": "2xaa.github.io/modV",
   "moeditor": "moeditor.github.io",
   "mog-script": "mog-script.github.io",
+  "mohammad": "https://asmanp2012.github.io/mohammad.js/",
   "mohamad": "imohamad.github.io",
   "mohi": "mohijalili.github.io",
   "mohit": "mohitgarg.github.io",
