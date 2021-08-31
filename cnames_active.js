@@ -482,6 +482,7 @@ var cnames_active = {
   "classic": "joeleeofficial.github.io/Classic",
   "classroom": "epoxydevelopment.github.io/Classroom",
   "clause": "clausejs.github.io/clausejs",
+  "clean-front-end-reference": "jdevcron.github.io/Clean-Front-End-Reference",
   "cleanblog": "cleanblog.github.io",
   "cleaners": "swansontec.github.io/cleaners",
   "clearlyelevated": "clearlyelevated.github.io",
@@ -3012,8 +3013,7 @@ var cnames_active = {
   "zxy": "ZXYFrank.github.io",
   "zyh": "zyh-chopper.github.io/zyh",
   "zykj": "cname.vercel-dns.com", // noCF
-  "zyy": "zyyou.github.io/notes",
-  "clean-front-end-reference": "jdevcron.github.io/Clean-Front-End-Reference"
+  "zyy": "zyyou.github.io/notes"
   /*
    * please don't add your subdomain records down here!
    * insert them in alphabetical order to help reduce merge conflicts.
