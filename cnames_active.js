@@ -2398,6 +2398,7 @@ var cnames_active = {
   "simplecrypto": "danang-id.github.io/simple-crypto-js",
   "simpler-state": "arnelenero.github.io/simpler-state",
   "simples": "micnic.github.io/simples",
+  "simplyd": "simplyd.netlify.app"
   "simplesnake": "aktindo.github.io/Simple_Snake_Game",
   "simplestate": "nlcgits.github.io/simplestate",
   "simpldb": "hosting.gitbook.io", // noCF
