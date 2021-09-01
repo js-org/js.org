@@ -1267,6 +1267,7 @@ var cnames_active = {
   "jbone": "kupriyanenko.github.io/jbone", // noCF? (don´t add this in a new PR)
   "jcord": "discord-jcord.github.io/jcord",
   "jdc": "jdceeb.github.io",
+  "jdevcron": "jdevcron.github.io",
   "jds": "alimanman.github.io/jds",
   "je": "netnr-json.onrender.com", // noCF
   "jelly": "hosting.gitbook.io", // noCF
