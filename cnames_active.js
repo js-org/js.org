@@ -147,7 +147,7 @@ var cnames_active = {
   "alys": "rmjordas.github.io/alys",
   "aman": "plug-n-play.github.io/aman",
   "amaple": "amjs-team.github.io/amaple",
-  "amaribot": "amaribot-js.github.io/docs",
+  "amaribot": "amaribot.github.io/amaribot.js",
   "amine": "am-77.github.io/amine",
   "amorphous": "ariabuckles.github.io/amorphous",
   "ampn": "ampn.github.io",
