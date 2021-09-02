@@ -1848,7 +1848,7 @@ var cnames_active = {
   "nyax": "springnyan.github.io/nyax",
   "nyc": "nycjsorg.github.io/nyc",
   "nyr": "suriyaakudoisc.github.io/NYR",
-  "nightcord": "rellylegend.github.io/nightcord/",
+  "nightcord": "rellylegend.github.io/nightcord",
   "oak": "donn.github.io/Oak.js",
   "object-gui": "matteobruni.github.io/object-gui",
   "objectid": "the-silver-project.github.io/objectid",
