@@ -2154,6 +2154,7 @@ var cnames_active = {
   "reactour": "elrumordelaluz.github.io/reactour",
   "reactpatterns": "reactpatterns.github.io",
   "reactql": "leebenson.github.io/reactql-site",
+  "reactsearch": "anujsharma141.github.io/reactsearch",
   "readcolor": "keiww.github.io/readcolorhex",
   "readit": "teebu.github.io/readit",
   "realt": "vnkitaev.github.io/realt",
