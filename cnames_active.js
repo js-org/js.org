@@ -1672,6 +1672,7 @@ var cnames_active = {
   "mockjs-lite": "52cik.github.io/mockjs-lite", // noCF
   "mockyeah": "mockyeah.netlify.com",
   "modbot": "modbotjs.github.io",
+  "modern": "modern-js-dev.github.io",
   "moddy": "cutiecat6778.github.io/moddy",
   "modjool": "cname.vercel-dns.com", // noCF
   "modmail": "botstudios.github.io/modmail.js",
