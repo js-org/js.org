@@ -1635,6 +1635,7 @@ var cnames_active = {
   "mingyi": "liangmingyi.github.io", // noCF? (don´t add this in a new PR)
   "minhtml": "r4356th.github.io/minhtml",
   "minidrone": "mechazawa.github.io/minidrone-js",
+  "minich": "anventech.github.io/minich-docs",
   "minify": "minify-js.github.io",
   "minigrid": "henriquea.github.io/minigrid", // noCF? (don´t add this in a new PR)
   "minijoshua": "joshualovescode.github.io/MiniJoshua-Website",
