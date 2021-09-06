@@ -930,6 +930,7 @@ var cnames_active = {
   "five": "jackdcrawford.github.io/five",
   "flamecord": "flamexode.github.io/flamecord",
   "flap": "slurmulon.github.io/flap",
+  "flare": "nsaunders.github.io/flare",
   "flash": "flashcardjs.github.io",
   "flatpickr": "flatpickr.github.io",
   "flavor": "blackmirror1980.github.io/flavor-js",
