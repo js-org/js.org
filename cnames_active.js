@@ -394,6 +394,7 @@ var cnames_active = {
   "byakugan": "rockmanvnx6.github.io/byakugan-js",
   "bynote": "bynotes.github.io",
   "byteasier": "kagurain.github.io/ByteasierIndex",
+  "beauti-raws": "http://madewgn.github.io/subs",
   "c": "cocobear.github.io",
   "c-3po": "ttag-org.github.io/c-3po",
   "c-installer": "llenax.github.io/c-installer",
@@ -2065,7 +2066,6 @@ var cnames_active = {
   "pwa-workshop": "sylvainpolletvillard.github.io/pwa-workshop",
   "pwapp": "nikiforov-org.github.io/pwapp",
   "pzero": "hanyaku.github.io/ProjectZERO",
-  "pendekarsub": "http://madewgn.github.io/subs",
   "qbit": "fudan-mse.github.io/qbit",
   "qbsz": "qbsz.github.io",
   "qs": "kirjs.github.io/qs.js", // noCF? (don´t add this in a new PR)
