@@ -710,6 +710,7 @@ var cnames_active = {
   "discords": "botstudios.github.io/discords.js.org",
   "discordutility": "chaosphoe.github.io/discordutility",
   "discord-moderation": "discord-moderation.github.io/website",
+  "discordjs-handler": "discordjs-handler.github.io/website",
   "display": "arguiot.github.io/DisplayJS",
   "distillery": "achannarasappa.github.io/distillery", // noCF? (don´t add this in a new PR)
   "distri": "flarp.github.io/Distri.js",
