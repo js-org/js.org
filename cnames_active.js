@@ -2630,6 +2630,7 @@ var cnames_active = {
   "techxuexi": "cname.vercel-dns.com", // noCF
   "techy": "hosting.gitbook.com",
   "teddy": "alias.zeit.co", // noCF
+  "tejas": "harshsinghdev.github.io/tejas",
   "telaviv": "dustin-h.github.io/telaviv", // noCF? (don´t add this in a new PR)
   "telegraf": "telegraf.github.io/telegraf", // noCF? (don´t add this in a new PR)
   "telegram": "yuvapoojary.github.io/telegram.js-website",
