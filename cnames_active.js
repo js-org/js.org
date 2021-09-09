@@ -665,6 +665,7 @@ var cnames_active = {
   "dev-panel": "Involve-Digital.github.io/dev-panel",
   "dev-sandbox": "iam-medvedev.github.io/dev-sandbox",
   "developerfolio": "saadpasta.github.io/developerFolio",
+  "developer-portfolio": "developer-portfolio-1hanzla100.vercel.app",
   "devfolio": "anilseervi.github.io/DevFolio",
   "device": "vpodk.github.io/device",
   "devilapi": "devilapi.kazult.repl.co", // noCF
