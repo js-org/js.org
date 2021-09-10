@@ -645,6 +645,7 @@ var cnames_active = {
   "deepintr": "deepintr.github.io",
   "deepu": "deepu105.github.io",
   "defi": "finom.github.io/defi.js.org",
+  "dictionary": "dictionary-api-docs.gamercoder215.repl.co", // noCF
   "delegacias-fortaleza": "juliosampaio.github.io/delegacias-fortaleza", // noCF? (don´t add this in a new PR)
   "delet": "ds-development.github.io/delet",
   "demirdb": "demir09.github.io/demirdb",
