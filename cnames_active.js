@@ -2850,6 +2850,7 @@ var cnames_active = {
   "vocab": "battleofplassey.github.io/ministry-of-vocabulary",
   "volantis": "cname-china.vercel-dns.com", // noCF
   "volantis-x": "volantis-x.github.io",
+  "volcareso": "volcareso.vercel.app",
   "voloshins": "voloshins.github.io", // noCF? (don´t add this in a new PR)
   "vormulir": "bramaudi.github.io/vormulir",
   "vorpal": "dthree.github.io/vorpal", // noCF? (don´t add this in a new PR)
