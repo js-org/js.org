@@ -432,7 +432,7 @@ var cnames_active = {
   "catbox": "samsamson33.github.io/catbox.js",
   "cats": "whoisjorge.github.io/not-cat-gifs",
   "cbm": "cbmjs.github.io/cbm-website",
-  "cdc-bot": "https://cdc-bot-js-npm.github.io/website",
+  "cdc-bot": "cdc-bot-js-npm.github.io/website",
   "cdi": "kiprox.github.io/Candro-Drive-Index",
   "cdll": "cdll.github.io",
   "cdoor": "cdoor.github.io",
