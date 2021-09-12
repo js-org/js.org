@@ -587,6 +587,7 @@ var cnames_active = {
   "cryptons-api": "agenthackeryt.github.io/cryptons-api",
   "cryptokey": "rumkin.github.com/crypto-key",
   "crystaldb": "erikmcm.github.io/CrystalDB",
+  "css-variable": "jantimon.github.io/css-variable",
   "csv": "adaltas.github.io/node-csv-docs",
   "cubing": "the-silver-project.github.io/cubing",
   "cucumber-mink": "adezandee.github.io/cucumber-mink", // noCF? (don´t add this in a new PR)
