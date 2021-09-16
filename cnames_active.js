@@ -1671,6 +1671,7 @@ var cnames_active = {
   "mm": "1ocalhost.github.io/mm",
   "mmcq": "nikola.github.io/MMCQ", // noCF? (don´t add this in a new PR)
   "mmzdupz": "mmzdupz.github.io",
+  "mmiranda": "ticoxz.github.io/portfolio/",
   "mnmlcss": "barelyhuman.github.io/mnml.css",
   "mo": "mirmousaviii.github.io/mo",
   "mobi": "mobidots.github.io",
