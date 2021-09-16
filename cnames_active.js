@@ -1075,7 +1075,6 @@ var cnames_active = {
   "gregory": "f3z0.github.io",
   "grep": "42ua.github.io/grep",
   "greylock": "datamart.github.io/Greylock",
-  "greymesa": "greymesa.github.io/greymesa/greymesasite2",
   "gridiron": "noderaider.github.io/gridiron",
   "gridsplit": "assetinfo.github.io", // noCF? (don´t add this in a new PR)
   "grub": "grubburg.github.io/blog",
@@ -2996,6 +2995,7 @@ var cnames_active = {
   "yan": "yvesyc.github.io/yan-js-org",
   "yana": "lukasbach.github.io/yana-homepage",
   "yargs": "yargs.github.io", // noCF? (don´t add this in a new PR)
+  "yeetedmeme": "greymesa.github.io/greymesa/greymesasite2",
   "yeisson-osorno": "yeissonosorno.github.io/portfolio",
   "yennj12": "yennanliu.github.io",
   "yh": "hksat.github.io",
