@@ -879,6 +879,7 @@ var cnames_active = {
   "eva": "eva-engine.github.io",
   "eval": "jshawl.github.io/eval", // noCF? (don´t add this in a new PR)
   "event-storage": "albe.github.io/node-event-storage",
+  "eventrix": "rstgroup.github.io/eventrix",
   "eventstore": "adrai.github.io/node-eventstore", // noCF? (don´t add this in a new PR)
   "everything": "ajays97.github.io/Everything.js",
   "evolutionland": "evolutionlandorg.github.io/js-sdk",
