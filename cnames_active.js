@@ -1008,7 +1008,7 @@ var cnames_active = {
   "gazosekai": "starkblaze01.github.io/Gazo_Sekai",
   "gcommands": "garlic-team.github.io/GCommands",
   "gcse": "abemedia.github.io/jquery-gcse",
-  "gdi": "ParveenBhadooOfficial.github.io/Google-Drive-Index",
+  "gdi": "katehra-brc.github.io/gdi.js.org",
   "geekr": "ruanyl.github.io/geekr", // noCF? (don´t add this in a new PR)
   "gem": "gem-docs.netlify.app",
   "gem-book": "gem-book.netlify.app",
