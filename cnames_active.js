@@ -303,7 +303,6 @@ var cnames_active = {
   "bettertests": "bettertests.github.io",
   "between": "na-west1.surge.sh",
   "bfd": "mrsheldon.github.io/bfd.js",
-  "bhadoo-cloud": "ParveenBhadooOfficial.github.io/Bhadoo-Cloud",
   "bigbrainbot": "112batman.github.io/bigbrainbot-website",
   "bijou": "explosion-scratch.github.io/bijou.js",
   "bin": "sujalgoel.github.io/impostor-bin",
@@ -2642,7 +2641,6 @@ var cnames_active = {
   "telaviv": "dustin-h.github.io/telaviv", // noCF? (don´t add this in a new PR)
   "telegraf": "telegraf.github.io/telegraf", // noCF? (don´t add this in a new PR)
   "telegram": "yuvapoojary.github.io/telegram.js-website",
-  "telegramweb": "telegramweb.github.io",
   "teletype": "keyvank.github.io/teletype.js",
   "temme": "shinima.github.io/temme",
   "tequila": "tequila-js.github.io",
