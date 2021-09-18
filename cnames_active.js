@@ -2151,7 +2151,7 @@ var cnames_active = {
   "react-pivottable": "plotly.github.io/react-pivottable",
   "react-redux": "react-redux-docs.netlify.com", // noCF
   "react-responsive-carousel": "leandrowd.github.io/react-responsive-carousel", // noCF? (don´t add this in a new PR)
-  "react-showroom": "https://react-showroom.netlify.app",
+  "react-showroom": "react-showroom.netlify.app",
   "react-static": "nozzle-react-static.netlify.com",
   "react-story": "react-story.netlify.com",
   "react-styleguidist": "styleguidist.netlify.com",
