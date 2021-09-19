@@ -2036,6 +2036,7 @@ var cnames_active = {
   "precision": "jaiko86.github.io/precisionjs-home",
   "pretty-print-json": "center-key.github.io/pretty-print-json",
   "prettylog": "moosecoop.github.io/PrettyLog",
+  "preview": "cname.vercel-dns.com", // noCF
   "prismarine": "prismarinejs.github.io",
   "pristine": "sha256.github.io/Pristine", // noCF
   "probsims": "o-mono.github.io/theprobsims",
@@ -2121,6 +2122,7 @@ var cnames_active = {
   "rclone": "sntran.github.io/rclone.js",
   "rdf": "rdfjs.github.io", // noCF
   "rdpmovy": "rdp-studio.github.io/rdpmovy.js",
+  "react.preview": "cname.vercel-dns.com", // noCF
   "react-atomic-ui": "react-atomic.github.io/react-atomic-ui",
   "react-autosuggest": "moroshko.github.io/react-autosuggest", // noCF? (don´t add this in a new PR)
   "react-autowhatever": "moroshko.github.io/react-autowhatever", // noCF? (don´t add this in a new PR)
