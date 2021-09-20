@@ -430,6 +430,7 @@ var cnames_active = {
   "casl": "stalniy.github.io/casl",
   "cassie": "milesgitgud.github.io/cassie",
   "catbox": "samsamson33.github.io/catbox.js",
+  "cath": "night0721.github.io",
   "cats": "whoisjorge.github.io/not-cat-gifs",
   "cbm": "cbmjs.github.io/cbm-website",
   "cdc-bot": "cdc-bot-js-npm.github.io/website",
