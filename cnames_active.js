@@ -606,7 +606,6 @@ var cnames_active = {
   "cyliim": "cyliim.github.io",
   "cyrena": "cyrenajs.github.io/cyrena",
   "cyris": "iCyris.github.io",
-  "nawrassedahman": "notepadapp.vercel.app",
   "d-patterns": "alias.zeit.co", // noCF
   "d4": "joelburget.github.io/d4",
   "daily.tmr": "tmr-daily.netlify.app", // noCF
@@ -1870,6 +1869,7 @@ var cnames_active = {
   "nyc": "nycjsorg.github.io/nyc",
   "nyr": "suriyaakudoisc.github.io/NYR",
   "nightcord": "rellylegend.github.io/nightcord",
+  "nawrassedahman": "notepadapp.vercel.app",
   "oak": "donn.github.io/Oak.js",
   "object-gui": "matteobruni.github.io/object-gui",
   "objectid": "the-silver-project.github.io/objectid",
