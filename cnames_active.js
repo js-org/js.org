@@ -1869,6 +1869,7 @@ var cnames_active = {
   "nyc": "nycjsorg.github.io/nyc",
   "nyr": "suriyaakudoisc.github.io/NYR",
   "nightcord": "rellylegend.github.io/nightcord",
+  "NawrasseDahman": "nawrassehimself.vercel.app",
   "oak": "donn.github.io/Oak.js",
   "object-gui": "matteobruni.github.io/object-gui",
   "objectid": "the-silver-project.github.io/objectid",
