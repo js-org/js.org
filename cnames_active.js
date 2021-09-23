@@ -543,6 +543,7 @@ var cnames_active = {
   "construyendotrabajo": "mteyss.github.io/construyendotrabajo", // noCF? (don´t add this in a new PR)
   "consultant": "jense5.github.io/consultant",
   "contextify": "abemedia.github.io/jquery-contextify", // noCF? (don´t add this in a new PR)
+  "convert": "convertjs.netlify.app",
   "cookiebox": "metaa.gitlab.io/cookiebox.js",
   "cookiecord": "cookiecord.github.io/cookiecord",
   "cookieguard": "tobiasthaden.github.io/cookieguard",
