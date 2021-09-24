@@ -1233,6 +1233,7 @@ var cnames_active = {
   "internetmarke": "schaechinger.github.io/internetmarke",
   "intertwinestaff": "10edddac-f638-4b01-be83-90301467e7f6.repl.co", // noCF
   "interview": "fengzilong.github.io/interview-101",
+  "invent": "isaiahpatton.github.io/InventJS",
   "invoicing": "vahe.github.io/InvoicingJs",
   "iori": "iori20091101.github.io",
   "iot": "product-engineer.github.io/iot.js.org", // noCF
