@@ -1599,7 +1599,7 @@ var cnames_active = {
   "media": "tobiasthaden.github.io/media.js",
   "media-style-palette": "rikakomoe.github.io/Media-Style-Palette",
   "mediainfo": "buzz.github.io/mediainfo.js",
-  "madewiguna":"https://madewgn.github.io/web",
+  "madewiguna": "madewgn.github.io/web",
   "medit": "echosoar.github.io/medit",
   "medium": "factmaven.github.io/medium.js",
   "medium-converter": "gunar.github.io/medium-converter", // noCF
