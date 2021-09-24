@@ -1079,6 +1079,7 @@ var cnames_active = {
   "graphstore": "besync.github.io/graphstore",
   "gregory": "f3z0.github.io",
   "grep": "42ua.github.io/grep",
+  "greycode": "greycodee.github.io",
   "greylock": "datamart.github.io/Greylock",
   "gridiron": "noderaider.github.io/gridiron",
   "gridsplit": "assetinfo.github.io", // noCF? (don´t add this in a new PR)
