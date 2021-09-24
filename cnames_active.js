@@ -1872,6 +1872,7 @@ var cnames_active = {
   "nyr": "suriyaakudoisc.github.io/NYR",
   "nightcord": "rellylegend.github.io/nightcord",
   "oak": "donn.github.io/Oak.js",
+  "oasc14": "oasc14.github.io/portfolio",
   "object-gui": "matteobruni.github.io/object-gui",
   "objectid": "the-silver-project.github.io/objectid",
   "objectmodel": "sylvainpolletvillard.github.io/ObjectModel", // noCF? (don´t add this in a new PR)
