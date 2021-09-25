@@ -2087,7 +2087,6 @@ var cnames_active = {
   "quacky": "quacky-bot.github.io",
   "quantlib": "quantlibjs.github.io",
   "quantum": "militia21.github.io/quantum",
-  "quark": "smarchetti.github.io/quark",
   "que": "seatwork.github.io/que.js",
   "querybuilder": "mistic100.github.io/jQuery-QueryBuilder", // noCF? (don´t add this in a new PR)
   "quick-crud": "kingrayhan.github.io/quick-crud",
