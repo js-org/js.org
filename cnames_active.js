@@ -247,6 +247,7 @@ var cnames_active = {
   "awesometech10": "awesometech10.github.io",
   "awk": "42ua.github.io/awk",
   "awoo": "awoojs.github.io/website",
+  "aws-auth": "iamarkadyt.github.io/aws-auth",
   "axii": "ariesate.github.io/axii-site",
   "azbuka-vkusa": "bullwinkle.github.io/azbuka-vkusa",
   "azdanov": "azdanov.netlify.com", // noCF
