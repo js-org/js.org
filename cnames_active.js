@@ -3023,6 +3023,7 @@ var cnames_active = {
   "yusril": "yusrilhs.github.io", // noCF
   "yuye": "cyea.github.io",
   "yvm": "tophat.github.io/yvm",
+  "minesweeper": "yourminesweeper.vercel.app",
   "zaimu": "zaimu.netlify.app", // noCF
   "zaman": "demir09.github.io/zaman",
   "zaporizhzhia": "zaporizhzhiajs.github.io",
