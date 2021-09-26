@@ -1073,6 +1073,7 @@ var cnames_active = {
   "gotanda": "gotandajs.github.io",
   "gottasurf": "jottocraft.github.io/surf",
   "govind": "emgk.github.io",
+  "gost": "gost.martiaforoud.repl.co",
   "graffy": "aravindet.github.io/graffy",
   "gram": "gram-js.github.io/docs",
   "gramps": "gramps-graphql.github.io/gramps",
