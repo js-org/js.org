@@ -1120,6 +1120,7 @@ var cnames_active = {
   "hamed": "phpniki.github.io/hamed",
   "hana": "hanacaraka.netlify.app",
   "hanan": "hanandito.github.io/teddypicker",
+  "hancao": "hancao97.github.io",
   "handsfree": "handsfreejs.github.io/handsfree",
   "hapi-sol": "yonjah.github.io/hapi-sol",
   "happy": "e24.github.io/happy", // noCF? (don´t add this in a new PR)
