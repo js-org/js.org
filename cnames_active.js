@@ -2107,6 +2107,7 @@ var cnames_active = {
   "quickshadow": "quickshadowjs-web.vercel.app", // noCF
   "quotobot": "team-gigabyte.github.io/quotobot",
   "r": "r-js.github.io",
+  "rant":"79E.github.io/rant",
   "ractive": "ractivejs.github.io",
   "ractix": "ractix-demo.netlify.app",
   "rad": "rapid-application-development-js.github.io/RAD.JS", // noCF? (don´t add this in a new PR)
