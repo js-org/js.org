@@ -2646,7 +2646,7 @@ var cnames_active = {
   "tayyab": "itayyab.github.io",
   "tead": "teadjs.github.io",
   "techthinker": "tech-thinker.github.io",
-  "techxuexi": "techxuexi.pages.dev", // noCF
+  "techxuexi": "techxuexi.netlify.app", 
   "techy": "hosting.gitbook.com",
   "teddy": "alias.zeit.co", // noCF
   "tejas": "harshsinghdev.github.io/tejas",
