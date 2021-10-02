@@ -2557,7 +2557,7 @@ var cnames_active = {
   "tetr": "proximitynow19.github.io/TETR.JS",
   "textillate": "jschr.github.io/textillate", // noCF? (don´t add this in a new PR)
   "textmark": "sahilister.github.io/textmark",
-  "tgsnake": "butthx.github.io/tgsnake",
+  "tgsnake": "https://tgsnake.vercel.app/",
   "thea": "idokutela.github.io/thea",
   "thegrid": "antoniandre.github.io/grid",
   "thehorizon": "kavanmevada.github.io/the-horizon-blog",
