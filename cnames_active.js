@@ -635,6 +635,7 @@ var cnames_active = {
   "dawood": "mohamedawood.github.io/Dawood",
   "day": "dayjs.github.io/website",
   "daybreak": "mokunshao.github.io/daybreak",
+  "discord-gamecord": "https://gamecord-docs.vercel.app",
   "daysfromnow": "pedrokost.github.io/daysfromnow", // noCF? (don´t add this in a new PR)
   "dbar": "dbarjs.github.io",
   "dbash": "oocydo.github.io/dbash",
