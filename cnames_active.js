@@ -1526,6 +1526,7 @@ var cnames_active = {
   "lukks": "lukks.github.io/page",
   "lumi": "furioustsunami.github.io/lumijs",
   "lumpia": "lumpiajs.netlify.app",
+  "luohao": "luohao518.github.io",
   "luzc": "lucianing.github.io/notes",
   "lviv": "lvivjs.github.io/lviv",
   "lvp": "luzhenqian.github.io/lvp.js",
