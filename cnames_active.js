@@ -2295,6 +2295,7 @@ var cnames_active = {
   "romanager": "imacodr.github.io/romanager",
   "roger": "klopango.github.io/js-org",
   "roghib": "hosting.gitbook.com",
+  "romcal": "romcal.github.io",
   "room": "atercerosb.github.io/roomHomepage",
   "roosterapp": "roembol2000.github.io/roosterapp-mobile",
   "rose": "discord-rose.github.io/discord-rose",
