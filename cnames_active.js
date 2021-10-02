@@ -2897,6 +2897,7 @@ var cnames_active = {
   "vue-route-timeline": "disjfa.github.io/vue-route-timeline",
   "vue-showdown": "vue-showdown.netlify.com",
   "vue-svg-loader": "vue-svg-loader.netlify.com",
+  "vue-tiny-validate": "vue-tiny-validate.netlify.app",
   "vue-treeselect": "riophae.github.io/vue-treeselect",
   "vue-utterances": "glitch.edgeapp.net",
   "vuejsindy": "vuejsindy.github.io",
