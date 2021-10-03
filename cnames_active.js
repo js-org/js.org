@@ -803,7 +803,7 @@ var cnames_active = {
   "easybuy": "danielwetan.github.io/easybuy",
   "easyeyes": "easyeyes.github.io/website",
   "easyht": "yellowface233.github.io/easyht-website",
-  "easystart": "hosting.gitbook.io",
+  "easystart": "hosting.gitbook.io", // noCF
   "eatery-nod-w": "kevinast.github.io/eatery-nod-w",
   "ebnsina": "ebnsina.github.io/js.ebnsina.me",
   "echo": "licshee.github.io/echo.js",
