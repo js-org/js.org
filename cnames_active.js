@@ -1495,6 +1495,7 @@ var cnames_active = {
   "linkify": "hypercontext.github.io/linkifyjs",
   "lips": "jcubic.github.io/lips",
   "lipsum": "llxlr.github.io/lipsum.js",
+  "liquid-ajax-cart": "evgeniymukhamedjanov.github.io/liquid-ajax-cart",
   "lister": "jpbulman.github.io/lister",
   "listore": "yieldray.github.io/listore",
   "lite-web-server": "lite-web-server.github.io",
