@@ -1130,7 +1130,7 @@ var cnames_active = {
   "hashchat": "hashchat-js.netlify.app",
   "hay": "hayjs.github.io/hay.js.org",
   "hbase": "adaltas.github.io/node-hbase-docs",
-  "headunit": "riipandi.github.io/headunit", // noCF? (don´t add this in a new PR)
+  "headunit": "riipandi.github.io/headunit",
   "heartseekers": "rajington.github.io/heartseekers", // noCF? (don´t add this in a new PR)
   "hegel": "jsmonk.github.io/hegel",
   "hello": "hello-js-org.github.io", // noCF? (don´t add this in a new PR)
