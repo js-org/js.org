@@ -2940,6 +2940,7 @@ var cnames_active = {
   "web230": "paylesworth.github.io/web230",
   "webassembly": "xtuc.github.io/webassemblyjs",
   "webclient.prismarine": "prismarinejs.github.io/prismarine-web-client", // noCF
+  "webfetch": "c1tizen.github.io/webfetch",
   "webmetry": "comongroup.github.io/webmetry",
   "webminer": "web-miner.github.io",
   "webpack": "webpack.github.io/webpack.js.org",
