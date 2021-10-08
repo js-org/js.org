@@ -1763,6 +1763,7 @@ var cnames_active = {
   "mwap": "jacob-ebey.github.io/mwap",
   "my-app": "nirrius.github.io/my-app",
   "my-server": "nirrius.github.io/my-server",
+  "myanmar": "thespringcms.github.io",
   "myetyet": "e9wdur.coding-pages.com",
   "mylas": "raouldeheer.github.io/Mylas",
   "mysketch": "dipanshkhandelwal.github.io/MySketch",
