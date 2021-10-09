@@ -1053,6 +1053,7 @@ var cnames_active = {
   "gitstyle": "inKerk.github.io/git-style-guide",
   "gka": "gkajs.github.io/gka",
   "glaze": "kripod.github.io/glaze",
+  "glicko2": "animafps.github.io/glicko2.ts",
   "glitchapi": "cname.vercel-dns.com",
   "glitchy-scratch": "glitchy-scratch.github.io",
   "glitterbot": "glitterbot.netlify.com", // noCF
