@@ -802,6 +802,7 @@ var cnames_active = {
   "easy-bot": "bigaston.github.io/easy-bot",
   "easy-d": "easy-djs.github.io/easy-djs",
   "easybuy": "danielwetan.github.io/easybuy",
+  "easier": "zlures.github.io/easier.js.org"
   "easyeyes": "easyeyes.github.io/website",
   "easyht": "yellowface233.github.io/easyht-website",
   "easystart": "hosting.gitbook.io", // noCF
