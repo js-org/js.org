@@ -852,6 +852,7 @@ var cnames_active = {
   "endersquid": "endersquidjs.github.io",
   "endpoint-imposter": "lukaszmakuch.github.io/endpoint-imposter",
   "energy": "energychain.github.io/energy",
+  "engelber-amaya": "engelberamaya.github.io/engelber-amaya",
   "eon": "eon-web.github.io/eon",
   "epack": "transparent-dilophosaurus-d0z0nyrn79irf17c2hbbz9li.herokudns.com",
   "epi": "epispot.github.io/EpiJS",
