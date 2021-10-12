@@ -2803,7 +2803,7 @@ var cnames_active = {
   "unicornly": "unicornly.github.io/unicornly",
   "unifi3d": "joemcrainbow.github.io/Unifi3d",
   "unique-session": "molaga.github.io/unique-session",
-  "unit": "unit-network.github.io/",  
+  "unit": "unit-network.github.io",  
   "units": "stak-digital.github.io/units",
   "universal-api": "raxjs.github.io/universal-api",
   "unoconv": "blog.ryanwu.me/Unoconv-Promise",
