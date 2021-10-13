@@ -2818,6 +2818,7 @@ var cnames_active = {
   "uptime": "intelligo-systems.github.io/uptime.js",
   "urban": "snekjs.github.io/urban.js",
   "urmom": "urmomjs.github.io/urmom.js",
+  "url": "dylanbai8.github.io/url",
   "useful-apis": "yuu0007.github.io/useful-apis",
   "useful-interfaces": "soupcodez.github.io/useful-interfaces",
   "usernamegen": "aryan02420.github.io/usernamegen",
