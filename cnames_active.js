@@ -2279,6 +2279,7 @@ var cnames_active = {
   "reyes": "michaelbreyes.github.io/reyes",
   "rgbstrip": "xrealneon.github.io/RGBStrip",
   "rhm": "gsongsong.github.io/rhm",
+  "rickandmorty-smiles": "jonma0107.github.io/rickandmorty-smiles",
   "rickdesantis": "rickdesantis.github.io",
   "ricos": "wix.github.io/ricos",
   "riiickyy": "riiickyy.github.io",
