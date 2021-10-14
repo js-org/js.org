@@ -1924,6 +1924,7 @@ var cnames_active = {
   "orga": "orgapp.github.io/orgajs",
   "origami": "origami-cms.github.io/cms",
   "osagai": "henriquelimas.github.io/osagai",
+  "OscarAndresMP": "oscarandresmp.github.io/PotafolioOscarMorales",
   "oscillator": "lukehorvat.github.io/super-oscillator",
   "osom": "kikobeats.github.io/osom",
   "otimizacao": "jmmccota.github.io/Otimizacao",
