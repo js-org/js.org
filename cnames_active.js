@@ -1901,6 +1901,7 @@ var cnames_active = {
   "officetohtml": "meshesha.github.io/officetohtml",
   "offreddit": "pantheonlbs.github.io/offreddit",
   "oguz": "okb1100.github.io",
+  "oh-vue-icons": "oh-vue-icons.netlify.app",
   "ohmy": "mountainwang.github.io/ohmy",
   "oib": "andreicek.github.io/oib.js",
   "oktay": "98oktay.github.io/oktaybaskus",
