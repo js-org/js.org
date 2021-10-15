@@ -2042,10 +2042,10 @@ var cnames_active = {
   "popper": "fezvrasta.github.io/popper.js",
   "portafolio-web": "velazquezadrian.github.io/Portafolio-web",
   "portafolioacadeller": "acadeller.github.io/portafolioacadeller",
+  "portafolio": "josephdouglas.github.io/Portaforlios",
   "portafolioalejandrarobles": "alerobles3.github.io/portafolioalejandrarobles",
   "portafolioarnulfo": "arpior.github.io/Portafolio",
   "portafolioluis": "luisself2020.github.io/portafolioluis",
-  "portaforlios": "josephdouglas.github.io/Portaforlios",
   "portafoliorufino": "Rufino-Hdez.github.io/portafolio",
   "portainer-update": "flweber.github.io/portainer-stack-updater",
   "porter": "ahopkins.github.io/porterjs", // noCF? (don´t add this in a new PR)
