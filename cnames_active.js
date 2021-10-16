@@ -2272,7 +2272,7 @@ var cnames_active = {
   "rest-client": "foxifyjs.github.io/rest-client",
   "restjs": "daviesgeek.github.io/restjs", // noCF? (don´t add this in a new PR)
   "reststops": "thomasbrueggemann.github.io/reststops",
-  "resume": "xaoxuu.github.io/resume.js.org",-fot
+  "resume": "xaoxuu.github.io/resume.js.org",
   "resume-builder": "blopa.github.io/Resume-Builder",
   "rete": "retejs.github.io",
   "reto": "awmleer.github.io/reto",
