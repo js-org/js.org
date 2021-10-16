@@ -1252,6 +1252,7 @@ var cnames_active = {
   "iot": "product-engineer.github.io/iot.js.org", // noCF
   "ip-address": "beaugunderson.github.io/ip-address", // noCF? (don´t add this in a new PR)
   "ipang": "ipang-dwi.github.io/ipang",
+  "ipaperclip": "cname.vercel-dns.com"
   "ipc": "alperr.github.io/ipc",
   "ipe": "ipe.netlify.app",
   "ipe-plugins": "inpageedit.github.io/Plugins",
