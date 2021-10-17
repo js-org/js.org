@@ -66,6 +66,7 @@ var cnames_restricted = [
     "crew(s)",
     "css",
     "data",
+    "db",
     "ddns",
     "deal",
     "debug",
