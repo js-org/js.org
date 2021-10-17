@@ -2269,6 +2269,7 @@ var cnames_active = {
   "reshape": "reshape.netlify.com",
   "reshift": "hasharray.github.io/reshift.js",
   "resources": "vicdevjs.github.io/resources.js",
+  "resources-for": "e1c62a33-d2a5-4a81-9e7e-78fe221e17bb.id.repl.co", // noCF
   "rest-client": "foxifyjs.github.io/rest-client",
   "restjs": "daviesgeek.github.io/restjs", // noCF? (don´t add this in a new PR)
   "reststops": "thomasbrueggemann.github.io/reststops",
