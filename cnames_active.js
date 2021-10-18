@@ -1718,6 +1718,7 @@ var cnames_active = {
   "modoki": "araozu.github.io/modoki",
   "modrinth": "rubybb.github.io/modrinth.js.org",
   "modulajs": "modulajs.netlify.com",
+  "modular": "jpmorganchase.github.io/modular",
   "modv": "2xaa.github.io/modV",
   "moeditor": "moeditor.github.io",
   "mog-script": "mog-script.github.io",
