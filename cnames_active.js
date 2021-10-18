@@ -614,6 +614,7 @@ var cnames_active = {
   "daisy": "saadeghi.github.io/daisyui-demo",
   "dakokonutboi": "dakokonutboi.github.io/portfolio",
   "daksh0225": "daksh0225.github.io",
+  "dam2398": "github.com/dam2398/portafolio.git",
   "damo": "damodharanj.github.io",
   "damon233": "whatdamon.github.io",
   "dan": "danielh-dev.netlify.com",
