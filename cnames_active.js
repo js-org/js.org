@@ -430,6 +430,7 @@ var cnames_active = {
   "cartodb-demo": "opensas.github.io/cartodb-demo", // noCF? (don´t add this in a new PR)
   "casl": "stalniy.github.io/casl",
   "cassie": "milesgitgud.github.io/cassie",
+  "castelimpicos": "sports21.github.io/castelimpicos"
   "catbox": "samsamson33.github.io/catbox.js",
   "cath": "night0721.github.io/cath",
   "cats": "whoisjorge.github.io/not-cat-gifs",
@@ -2529,7 +2530,6 @@ var cnames_active = {
   "split": "nathancahill.github.io/split",
   "split-ease": "split-ease.netlify.com", // noCF
   "splitting": "shshaw.github.io/Splitting",
-  "sports21": "castelimpicos.js.org"
   "spotify-api": "spotifyapidocs.netlify.app",
   "spotistats": "spotistats-app.netlify.app",
   "spreadsheet": "chiefofgxbxl.github.io/Spreadsheet.js",
