@@ -2191,6 +2191,7 @@ var cnames_active = {
   "react-toulouse": "moox.github.io/react-toulouse",
   "react-tracked": "dai-shi.github.io/react-tracked",
   "react-uicomp": "dipeshrai123.github.io/React-UIComp-Docs",
+  "react-ui-animate": "dipeshrai123.github.io/react-ui-animate-docs",
   "reactabular": "bebraw.github.io/reactabular",
   "reactant": "unadlib.github.io/reactant",
   "reactdesktop": "gabrielbull.github.io/react-desktop", // noCF? (don´t add this in a new PR)
