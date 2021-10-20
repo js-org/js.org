@@ -2164,7 +2164,7 @@ var cnames_active = {
   "react-dropzone-uploader": "fortana-co.github.io/react-dropzone-uploader",
   "react-easy-swipe": "leandrowd.github.io/react-easy-swipe", // noCF? (don´t add this in a new PR)
   "react-entanglement": "react-entanglement.github.io",
-  "react-facet": "jolly-stone-0d2f00e03.azurestaticapps.net",
+  "react-facet": "jolly-stone-0d2f00e03.azurestaticapps.net", // noCF
   "react-form": "react-form.netlify.com",
   "react-hint": "slmgc.github.io/react-hint",
   "react-jewish-datepicker": "shmulik-kravitz.github.io/react-jewish-datepicker",
