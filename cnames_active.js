@@ -732,6 +732,7 @@ var cnames_active = {
   "distube": "distubejs.github.io",
   "div": "div-js.github.io/div.js.org",
   "diysay": "diysay.github.io/diysay-js-org",
+  "djs-tickets": "pgamerx.github.io/djs-tickets",
   "djs-tools": "fhgdev.github.io/djs-tools",
   "djs-addon": "hosting.gitbook.io", // noC"
   "djsframe": "vypal.github.io/djsframe",
