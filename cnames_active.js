@@ -2812,6 +2812,7 @@ var cnames_active = {
   "ultimatemedia": "ultimatemediaorg.github.io",
   "ultrax": "karimx32.github.io/UltraX-Package",
   "umair": "mumairofficial.github.io",
+  "usbo": "usbokirishima.github.io/usbo.js.org",
   "umentor": "umentor.github.io/umentor",
   "umm": "umm233.github.io",
   "underbase": "sundowndev.github.io/underbase",
