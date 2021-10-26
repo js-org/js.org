@@ -1348,6 +1348,7 @@ var cnames_active = {
   "jsonuri": "aligay.github.io/jsonuri",
   "jsxcad": "jsxcad.github.io",
   "juancarlosqr": "juancarlosqr.github.io", // noCF? (don´t add this in a new PR)
+  "juanvalencia":"juanv1997.github.io/juanvalencia",
   "julianflancheros": "julianflancheros.github.io/Prueba",
   "julien": "julien.github.io", // noCF? (don´t add this in a new PR)
   "july": "onlyjuly.github.io",
