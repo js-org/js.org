@@ -1489,6 +1489,7 @@ var cnames_active = {
   "li": "mattsimmons1.github.io/li",
   "libcord": "tovade.github.io/libcord",
   "libphonenumbers": "libphonenumbers.github.io",
+  "library": "llib-sh.github.io/library/",
   "lifeisyoung": "lifeisyoung.github.io",
   "lifx": "fncxpro.github.io/lifx.js",
   "light": "lightjs.netlify.com",
