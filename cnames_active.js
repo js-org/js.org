@@ -2870,6 +2870,7 @@ var cnames_active = {
   "vansul": "vansul.github.io",
   "vant-react-native": "youngjuning.github.io/vant-react-native",
   "vapory": "vaporyjs.github.io",
+  "various": "variousjs.github.io/website",
   "vavilon": "vavilon-js.github.io",
   "vayne": "vaynejs.github.io",
   "vbuild": "egoist.github.io/vbuild",
