@@ -2539,7 +2539,7 @@ var cnames_active = {
   "split": "nathancahill.github.io/split",
   "split-ease": "split-ease.netlify.com", // noCF
   "splitting": "shshaw.github.io/Splitting",
-  "spotify": "backtrackapp.github.io",
+  "spotify": "backtrackapp.github.io/spotify.js",
   "spotify-api": "spotifyapidocs.netlify.app",
   "spotistats": "spotistats-app.netlify.app",
   "spreadsheet": "chiefofgxbxl.github.io/Spreadsheet.js",
