@@ -2948,6 +2948,7 @@ var cnames_active = {
   "w4j1e": "w4j1e.github.io",
   "wahtson": "wahtson.github.io",
   "waline": "walinejs.github.io",
+  "eraxdb": "emirhanbaltas34.github.io/erax.db-website",
   "wangdabao": "wangdabaoqq.github.io/me",
   "wangdabao-doc": "wangdabaoqq.github.io/documents",
   "wangdabao-map": "wangdabaoqq.github.io/map-transform",
@@ -3094,8 +3095,7 @@ var cnames_active = {
   "zxy": "ZXYFrank.github.io",
   "zyh": "zyh-chopper.github.io/zyh",
   "zykj": "cname.vercel-dns.com", // noCF
-  "zyy": "zyyou.github.io/notes",
-  "eraxdb": "emirhanbaltas34.github.io/erax.db-website"
+  "zyy": "zyyou.github.io/notes"
   /*
    * please don't add your subdomain records down here!
    * insert them in alphabetical order to help reduce merge conflicts.
