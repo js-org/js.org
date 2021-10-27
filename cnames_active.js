@@ -1721,6 +1721,7 @@ var cnames_active = {
   "mockyeah": "mockyeah.netlify.com",
   "modbot": "modbotjs.github.io",
   "moddy": "cutiecat6778.github.io/moddy",
+  "modern": "modern-js-dev.github.io",
   "modjool": "cname.vercel-dns.com", // noCF
   "modmail": "botstudios.github.io/modmail.js",
   "modofun": "modofunjs.github.io/modofun",
