@@ -1762,6 +1762,7 @@ var cnames_active = {
   "mrpluto": "mrpluto.github.io",
   "mrwanashraf": "mrwanashraf.github.io",
   "mscgen": "sverweij.github.io/mscgen_js",
+  "mscrist": "ms-crist.github.io/Portafolio", 
   "msolers": "msolers.github.io/bloghugo",
   "msp430": "mazko.github.io/MSP430.js",
   "mtproto-core": "alik0211.github.io/mtproto-core-website",
