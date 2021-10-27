@@ -2968,6 +2968,7 @@ var cnames_active = {
   "weather": "phanendraguptha.github.io/weather",
   "weaver": "maxkfranz.github.io/weaver", // noCF? (don´t add this in a new PR)
   "web-sandbox": "web-sandbox-js.github.io/web-sandbox-website",
+  "web-widget": "web-widget.github.io",
   "web230": "paylesworth.github.io/web230",
   "webassembly": "xtuc.github.io/webassemblyjs",
   "webclient.prismarine": "prismarinejs.github.io/prismarine-web-client", // noCF
