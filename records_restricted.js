@@ -131,6 +131,8 @@ var cnames_restricted = [
     "learn(ing)",
     "legal(s)",
     "lesson(s)",
+    "libraries",
+    "lib(rary)",
     "license(s)",
     "like(s)",
     "link(s)",
