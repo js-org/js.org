@@ -874,6 +874,7 @@ var cnames_active = {
   "erikng": "eriknguyen.github.io",
   "ero": "mst-2.github.io/ero",
   "erpeel": "fikriks.github.io/erpeel",
+  "eraxdb": "emirhanbaltas34.github.io/erax.db-website",
   "es-interview": "hylerrix.github.io/es-interview",
   "es.redux": "sergiodxa.github.io/redux-in-spanish", // noCF? (don´t add this in a new PR)
   "es.single-spa": "single-spa.github.io/es.single-spa.js.org", // noCF
@@ -2948,7 +2949,6 @@ var cnames_active = {
   "w4j1e": "w4j1e.github.io",
   "wahtson": "wahtson.github.io",
   "waline": "walinejs.github.io",
-  "eraxdb": "emirhanbaltas34.github.io/erax.db-website",
   "wangdabao": "wangdabaoqq.github.io/me",
   "wangdabao-doc": "wangdabaoqq.github.io/documents",
   "wangdabao-map": "wangdabaoqq.github.io/map-transform",
