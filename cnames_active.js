@@ -2888,6 +2888,7 @@ var cnames_active = {
   "vesselize": "vesselize.github.io/docs",
   "vest": "vestjs.netlify.app",
   "veza": "kyranet.github.io/veza",
+  "venomframework":"venom-development.github.io/docs",
   "vfm": "meshesha.github.io/VisualFormMaker.github.io",
   "viav": "brandondyer64.github.io/viav",
   "vicis": "r37r0m0d3l.github.io/vicis",
