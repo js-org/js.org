@@ -1652,7 +1652,7 @@ var cnames_active = {
   "meth": "meth-meth-method.github.io/meth",
   "metho": "jonrandy.github.io/metho",
   "metools": "yimogit.github.io/metools-plugin",
-  "meyda": "meyda.github.io",
+  "meyda": "meyda.github.io", // noCF
   "mf": "awto.github.io/mfjs-compiler", // noCF? (don´t add this in a new PR)
   "mhsupport": "thatonetqnk.github.io/MHSupport",
   "mhy": "hosting.gitbook.com", // noCF
