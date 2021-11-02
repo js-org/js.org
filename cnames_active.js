@@ -1794,6 +1794,7 @@ var cnames_active = {
   "mzplayer": "prince3661.github.io/Mzplayer",
   "n": "cyb.github.io/n",
   "nabin": "nabin6246.github.io",
+  "nadia-pisarello": "nadia-pisarello.js.org",
   "naja": "jiripudil.github.io/Naja",
   "namaste": "namaste-duniya.github.io/js",
   "name-my-colors": "domcoleman.github.io/name-my-colors",
