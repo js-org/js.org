@@ -1025,6 +1025,7 @@ var cnames_active = {
   "gamedevcontestal": "fromdenisvieira.github.io/gamedevcontestal", // noCF? (don´t add this in a new PR)
   "gametracker": "officialpiyush.github.io/gametracker.js",
   "gamingnet": "gamingmineblox.github.io/GamingNet",
+  "gathertown": "warengonzaga.github.io/gathertown.js",
   "gatsby-source-pixiv": "poipoii.github.io/gatsby-source-pixiv",
   "gazosekai": "starkblaze01.github.io/Gazo_Sekai",
   "gcommands": "garlic-team.github.io/GCommands",
