@@ -645,6 +645,7 @@ var cnames_active = {
   "dbothook": "dbots-pkg.github.io/dbothook-website",
   "dbots": "dbots-pkg.github.io/dbots-website",
   "dbotsgg": "valredstone.github.io/dbots.gg",
+  "dc": "d60a9765-dcf7-45e0-ac27-2280a8aff26f.id.repl.co", // noCF
   "decimalsystem": "uellenberg.github.io/DecimalSystem",
   "deck-of-cards": "pakastin.github.io/deck-of-cards",
   "declarativ": "fennifith.github.io/declarativ", // noCF
