@@ -3019,6 +3019,7 @@ var cnames_active = {
   "wk": "alperr.github.io/wk",
   "wog": "wog-js.github.io",
   "wonderest": "wonderest.github.io",
+  "code": "code.github.io",
   "wonderfulcv": "wonderfulcv.netlify.app",
   "woodsman": "haximilian.github.io/woodsman",
   "wooyun": "jiji262.github.io/wooyun_articles",
