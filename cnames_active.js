@@ -249,6 +249,7 @@ var cnames_active = {
   "awoo": "awoojs.github.io/website",
   "aws-auth": "iamarkadyt.github.io/aws-auth",
   "axii": "ariesate.github.io/axii-site",
+  "axon": "caracal7.github.io/axon.js",
   "azbuka-vkusa": "bullwinkle.github.io/azbuka-vkusa",
   "azdanov": "azdanov.netlify.com", // noCF
   "aziz": "iaziz786.netlify.com",
