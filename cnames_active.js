@@ -630,6 +630,7 @@ var cnames_active = {
   "data-dashboard": "dnajs.github.io/data-dashboard",
   "data-migration": "thebenforce.github.io/data-migration",
   "dataclass": "alexeyraspopov.github.io/dataclass",
+  "datacord": "d60a9765-dcf7-45e0-ac27-2280a8aff26f.id.repl.co", // noCF
   "datastructures": "deadcoder0904.github.io/datastructures",
   "date": "matthewmueller.github.io/date", // noCF? (don´t add this in a new PR)
   "dativejs": "dativejs.github.io",
