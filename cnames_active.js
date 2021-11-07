@@ -994,6 +994,7 @@ var cnames_active = {
   "fortune": "fortunejs.github.io/fortune", // noCF? (don´t add this in a new PR)
   "fosspwa": "foss-pwa.github.io/app-store",
   "foxford": "netology-group.github.io/foxford.github.io",
+  "foxhole-client": "foxhole-clientjs.netlify.app",
   "foxify": "foxifyjs.github.io/foxify",
   "foxman": "kaola-fed.github.io/foxman",
   "fp": "iotcat.github.io/fp",
