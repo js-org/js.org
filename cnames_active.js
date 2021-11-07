@@ -2981,6 +2981,7 @@ var cnames_active = {
   "web-widget": "web-widget.github.io",
   "web230": "paylesworth.github.io/web230",
   "webassembly": "xtuc.github.io/webassemblyjs",
+  "web.quizlet": "redyetidev.github.io/Quizlet.JS-Web", // noCF
   "webclient.prismarine": "prismarinejs.github.io/prismarine-web-client", // noCF
   "webfetch": "c1tizen.github.io/webfetch",
   "webmetry": "comongroup.github.io/webmetry",
