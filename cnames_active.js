@@ -2863,7 +2863,7 @@ var cnames_active = {
   "usv": "usvformat.github.io",
   "utscrooms": "sunakujira1.github.io/UTSCRooms",
   "uuid": "rumkin.github.io/uuid",
-  "uiv": "uiv.wxsm.space",
+  "uiv": "uiv-lib.github.io/website",
   "uvcharts": "imaginea.github.io/uvCharts", // noCF? (don´t add this in a new PR)
   "v-charts": "elemefe.github.io/v-charts",
   "v-decorators": "v-decorators.netlify.com",
