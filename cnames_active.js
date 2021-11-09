@@ -1885,6 +1885,7 @@ var cnames_active = {
   "notebook": "wugenqiang.github.io/NoteBook",
   "noted": "carter-slade.github.io/Noted-", // noCF? (don´t add this in a new PR)
   "notepad": "amitmerchant1990.github.io/notepad",
+  "notepad98": "vocalnutria9174.github.io/notepad/",
   "nothing": "cbtak.github.io/nothing",
   "notibar": "duyetdev.github.io/notibar.js",
   "novasheets": "novasheets.netlify.app",
