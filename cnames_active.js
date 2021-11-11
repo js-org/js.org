@@ -1593,6 +1593,7 @@ var cnames_active = {
   "mapsrc": "indus.github.io/mapsrc",
   "marble": "jsguy.github.io/marble",
   "marcelo": "marcelooggero.github.io/bootstrap",
+  "marcelo-due": "duemarfra.github.io/marcelo/",
   "mareact": "ipudu.github.io/mareact",
   "mariateresazamoragomez": "JoseCarlosZamoraGomez.github.io/Maria-Teresa-Zamora-G-mez",
   "maridreycupcakes": "danyflores.github.io/MariDrey-CupCakes",
