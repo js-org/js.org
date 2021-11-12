@@ -271,6 +271,7 @@ var cnames_active = {
   "bandung": "zufrizalyordan.github.io/bandungjs",
   "bane": "kemosaf.github.io/bane",
   "baoqi": "baoqi-zhong.github.io",
+  "baoshuo": "renbaoshuo.github.io/baoshuo.css",
   "bara": "barajs.github.io/bara",
   "barba": "barbajs.github.io/barba",
   "barbagrigia": "barbagrigia.github.io",
