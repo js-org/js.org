@@ -2384,6 +2384,7 @@ var cnames_active = {
   "sanctuary": "sanctuary-js.github.io/sanctuary-site",
   "sandbox": "twtg93.github.io/sandbox",
   "sanddance": "danmarshall.github.io/SandDance",
+  "sandmine": "spreehertz.github.io/Sandmine.js",
   "sandeepkhandewale": "learner1024.github.io",
   "sandy": "5ffc2f69-8054-4d5a-91b8-6a787901ed3d.repl.co", // noCF
   "sanity-runner": "tophat.github.io/sanity-runner",
