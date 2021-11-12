@@ -1349,7 +1349,7 @@ var cnames_active = {
   "jsnippet": "JesseEisen.github.io/snippets", // noCF
   "jsoboro": "jsoboro.github.io",
   "json": "arnav-kr.github.io/json-formatter",
-  "json-e": "taskcluster.github.io/json-e",
+  "json-e": "json-e.github.io/json-e",
   "json-schema-faker": "json-schema-faker.github.io/website-jsf",
   "jsonapi": "ethanresnick.github.io/json-api",
   "jsoning": "khalby786.github.io/jsoning",
