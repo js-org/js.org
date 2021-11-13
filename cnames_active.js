@@ -1547,6 +1547,7 @@ var cnames_active = {
   "lostyle": "rtsao.github.io/lostyle",
   "lottiefy": "pd4d10.github.io/lottiefy",
   "lps": "mauris.github.io/lps.js.org",
+  "lqxx": "lqxx4u.github.io/lqxx",
   "lribeiro": "lmribeiro.github.io",
   "ls": "links-js.github.io",
   "lucia": "lucia.netlify.app",
