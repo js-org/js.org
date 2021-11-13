@@ -1216,6 +1216,7 @@ var cnames_active = {
   "id": "andae.github.io/id",
   "id.single-spa": "single-spa.github.io/id.single-spa.js.org", // noCF
   "id3": "jeff-tian.github.io/id3",
+  "ide": "slip-box.github.io",
   "idettman": "idettman.github.io",
   "idraw": "idrawjs.github.io",
   "ienumerable": "mbasso.github.io/ienumerable",
@@ -3111,8 +3112,7 @@ var cnames_active = {
   "zxy": "ZXYFrank.github.io",
   "zyh": "zyh-chopper.github.io/zyh",
   "zykj": "cname.vercel-dns.com", // noCF
-  "zyy": "zyyou.github.io/notes",
-  "ide": "slip-box.github.io"
+  "zyy": "zyyou.github.io/notes"
   /*
    * please don't add your subdomain records down here!
    * insert them in alphabetical order to help reduce merge conflicts.
