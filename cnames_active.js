@@ -2580,7 +2580,7 @@ var cnames_active = {
   "standard-resource": "hosting.gitbook.com", // noCF
   "stapp": "tinkoffcreditsystems.github.io/stapp",
   "starratio": "starratio.github.io/star-ratio", // noCF
-  "starify-discord": "dastormer.me/starify-discord",
+  "starify-discord": "dastormer.github.io/starify-discord",
   "start": "deepsweet.github.io/start",
   "starterpk": "starterpk.github.io",
   "startjs": "readthedocs.io",
