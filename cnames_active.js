@@ -564,7 +564,7 @@ var cnames_active = {
   "corki": "dvtate.github.io/corki",
   "corona": "soroushchehresa.github.io/awesome-coronavirus",
   "corps": "copay.github.io",
-  "cord": "github.com/lukadev-0/cord.js",
+  "cord": "lukadev-0.github.io/cord",
   "corx": "corx.kazult.repl.co", // noCF
   "cosova": "hardo.github.io/cosova",
   "cote": "dashersw.github.io/cote", // noCF? (don´t add this in a new PR)
