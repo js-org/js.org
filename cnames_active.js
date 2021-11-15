@@ -580,7 +580,7 @@ var cnames_active = {
   "cqrs": "adrai.github.io/cqrs", // noCF? (don´t add this in a new PR)
   "cr": "echosoar.github.io/cr",
   "cracked": "billorcutt.github.io/Cracked",
-  "craft": "prevwong.github.io/craft.js",
+  "craft": "craftjs.netlify.app",
   "crank": "bikeshaving.github.io/crank",
   "crawlx": "wind2sing.github.io/crawlx",
   "creamcrop": "creamcropdev.github.io",
