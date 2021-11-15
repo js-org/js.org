@@ -2860,6 +2860,7 @@ var cnames_active = {
   "urmom": "urmomjs.github.io/urmom.js",
   "useful-apis": "yuu0007.github.io/useful-apis",
   "useful-interfaces": "soupcodez.github.io/useful-interfaces",
+  "useless-machine": "pakastin.github.io/useless-machine",
   "userfetch": "userfetch.github.io",
   "usernamegen": "aryan02420.github.io/usernamegen",
   "usestatemachine": "cassiozen.github.io/useStateMachine",
