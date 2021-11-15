@@ -2026,6 +2026,7 @@ var cnames_active = {
   "phylum": "phylumjs.github.io",
   "physics-demos": "lachlandk.github.io/physics-demos",
   "picsim": "mazko.github.io/picsim.js",
+  "pidoc": "smapiot.github.io/pidoc",
   "pig-game": "dhanushp.github.io/pig-game",
   "pigeon-maps": "pigeon-maps.netlify.app",
   "piii": "piiijs.github.io/piii.js.org",
