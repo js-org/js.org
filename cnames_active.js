@@ -1991,6 +1991,7 @@ var cnames_active = {
   "pastebin-alert": "ramadhanamizudin.github.io/pastebin-alert.js", // noCF? (don´t add this in a new PR)
   "pathtrace": "kovacsv.github.io/WebGLPathTrace", // noCF? (don´t add this in a new PR)
   "patrick": "patrick-jun.github.io",
+  "pavantest": "euphoria99.github.io/pavantest/",
   "pax": "nathan.github.io/pax",
   "pdf": "iamcristye.github.io/PDF",
   "pdf-lib": "hopding.github.io/pdf-lib", // noCF
