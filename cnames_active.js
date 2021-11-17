@@ -736,6 +736,7 @@ var cnames_active = {
   "districode": "districode.netlify.app",
   "districode-p2p": "districode-p2p.netlify.app",
   "distube": "distubejs.github.io",
+  "dthings": "hosting.gitbook.io", // noCF
   "dipole": "zheksoon.github.io/dipole",
   "div": "div-js.github.io/div.js.org",
   "diysay": "diysay.github.io/diysay-js-org",
