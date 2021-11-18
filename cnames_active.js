@@ -599,6 +599,7 @@ var cnames_active = {
   "csv": "adaltas.github.io/node-csv-docs",
   "cubing": "the-silver-project.github.io/cubing",
   "cucumber-mink": "adezandee.github.io/cucumber-mink", // noCF? (don´t add this in a new PR)
+  "cumfx": "lilleandersen.github.io/cumfx",
   "cungudafa": "cungudafa.github.io",
   "curd": "yourtion.github.io/SimpleCURD",
   "curi": "pshrmn.github.io/curi",
