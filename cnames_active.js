@@ -1527,7 +1527,7 @@ var cnames_active = {
   "liquid-ajax-cart": "evgeniymukhamedjanov.github.io/liquid-ajax-cart",
   "lister": "jpbulman.github.io/lister",
   "listore": "yieldray.github.io/listore",
-  "lite-web-server": "lite-web-server.github.io",
+  "lite-web-server": "chasyumen.github.io/lite-web-server",
   "litedom": "mardix.github.io/litedom", // noCF
   "lithium": "ranjithrd.github.io/lithium",
   "littlefoot": "goblindegook.github.io/littlefoot",
