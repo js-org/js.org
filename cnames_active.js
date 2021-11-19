@@ -1991,6 +1991,7 @@ var cnames_active = {
   "pastate": "birdleescut.github.io/pastate",
   "pastebin-alert": "ramadhanamizudin.github.io/pastebin-alert.js", // noCF? (don´t add this in a new PR)
   "pathtrace": "kovacsv.github.io/WebGLPathTrace", // noCF? (don´t add this in a new PR)
+  "pastib": "fikriks.github.io/pastib",
   "patrick": "patrick-jun.github.io",
   "pax": "nathan.github.io/pax",
   "pdf": "iamcristye.github.io/PDF",
