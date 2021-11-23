@@ -1944,7 +1944,6 @@ var cnames_active = {
   "onefx": "puncsky.github.com/onefx-home",
   "ongaku": "anshuman-verma.github.io/ongaku",
   "oox": "lipingruan.github.io/oox",
-  "openge": "open-game-engine.github.io/Website",
   "openrecord": "philwaldmann.github.io/openrecord",
   "opentype": "nodebox.github.io/opentype.js",
   "operatio": "furioustsunami.github.io/Operatio",
