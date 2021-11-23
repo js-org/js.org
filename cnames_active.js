@@ -504,7 +504,6 @@ var cnames_active = {
   "cmbhackjs2013": "cmbjs.github.io/cmbHackjs2013",
   "cmdhub": "thatonetqnk.github.io/cmdhub",
   "cml": "didi.github.io/chameleon",
-  "cn": "BaoChn.github.io",
   "cn.history": "doodlewind.github.io/jshistory-cn", // noCF
   "cn.iflow": "unadlib.github.io/iflow-docs-cn",
   "cn.mingyan": "lehs8n.coding-pages.com", // noCF
@@ -3052,6 +3051,7 @@ var cnames_active = {
   "wstool": "sy-records.github.io/wstool", // noCF
   "wugenqiang": "wugenqiang.github.io/wugenqiang.js.org",
   "wwcache": "wwcache.github.io",
+  "www": "BaoChn.github.io",
   "www.siddharth": "chaudhs769.github.io/siddharth.js.org", // noCF
   "www.next-auth": "cname.vercel-dns.com", // noCF
   "wyfe": "wangyuanstudio.github.io/WYFE", // noCF? (don´t add this in a new PR)
