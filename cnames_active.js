@@ -213,6 +213,7 @@ var cnames_active = {
   "ast": "kindy.github.io/ast",
   "astolfo": "sinkaroid.github.io/astolfo",
   "astral": "espinielli.github.io/astraljs", // noCF? (don´t add this in a new PR)
+  "astro": "withastro.github.io",
   "astrobench": "kupriyanenko.github.io/astrobench", // noCF? (don´t add this in a new PR)
   "astroide": "umut-ozkan.github.io/astroide",
   "astx-redux-util": "kevinast.github.io/astx-redux-util",
