@@ -3009,7 +3009,7 @@ var cnames_active = {
   "wechaty": "cdn.chatie.io", // noCF
   "wedgetail": "wedgetail.netlify.com",
   "weekly": "xdimh.github.io/weekly",
-  "weky-docs": "7eb46102-c415-4a88-beb9-6d9da4fd6831.repl.co", // noCF
+  "weky": "sujalgoel.github.io/weky-docs",
   "welcome": "edapm.github.io/welcomejs",
   "wellington": "wellington-js.github.io/website",
   "wepl": "obnoxiousnerd.github.io/wepl-website",
