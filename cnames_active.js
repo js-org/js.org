@@ -1200,6 +1200,7 @@ var cnames_active = {
   "http4ts": "http4ts.github.io/http4ts",
   "https": "yakeing.github.com/https.js", // noCF
   "httpunit": "samzh72.github.io/httpunit",
+  "hu": "henmeng.github.io",
   "hub": "yyued.github.io/hub.js",
   "hubble": "hubble.netlify.com",
   "hubo": "huvboo.github.io",
