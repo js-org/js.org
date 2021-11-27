@@ -169,8 +169,8 @@ var cnames_active = {
   "annoyingmouse": "annoyingmouse.github.io", // noCF? (don´t add this in a new PR)
   "anonymdev": "anonym-anonym.github.io/ANONYM-ANONYM",
   "antalya": "jsantalya.github.io",
-  "anti-nsfw": "linkdiscordd.github.io/anti-nsfw.github.io",
   "antijggzyxt": "natsumi520.github.io/AntiTiebauser-G7GM15K"
+  "anti-nsfw": "linkdiscordd.github.io/anti-nsfw.github.io",
   "antropodigital": "antropodigital.github.io/CirculodeEstudio",
   "antwar": "antwarjs.github.io/antwar",
   "anukul": "anukul.github.io",
