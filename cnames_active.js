@@ -304,6 +304,7 @@ var cnames_active = {
   "bernard": "ojengwa.github.io",
   "berzan": "newbytee.github.io/berzan",
   "besafe": "ma124.github.io/BeSafe",
+  "bestlist": "andrelucaas.github.io",
   "bestof": "michaelrambeau.github.io/bestofjs",
   "besx": "cadox8.github.io/besx",
   "bettertests": "bettertests.github.io",
@@ -3132,8 +3133,7 @@ var cnames_active = {
   "zxy": "ZXYFrank.github.io",
   "zyh": "zyh-chopper.github.io/zyh",
   "zykj": "cname.vercel-dns.com", // noCF
-  "zyy": "zyyou.github.io/notes",
-  "bestlist": "andrelucaas.github.io"
+  "zyy": "zyyou.github.io/notes"
   /*
    * please don't add your subdomain records down here!
    * insert them in alphabetical order to help reduce merge conflicts.
