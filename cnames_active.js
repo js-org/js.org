@@ -304,6 +304,7 @@ var cnames_active = {
   "bernard": "ojengwa.github.io",
   "berzan": "newbytee.github.io/berzan",
   "besafe": "ma124.github.io/BeSafe",
+  "bestlist": "andrelucaas.github.io/bestlist",
   "bestof": "michaelrambeau.github.io/bestofjs",
   "besx": "cadox8.github.io/besx",
   "bettertests": "bettertests.github.io",
