@@ -730,6 +730,7 @@ var cnames_active = {
   "discordjs-handler": "discordjs-handler.github.io/website",
   "discordlib": "hosting.gitbook.com",
   "discords": "botstudios.github.io/discords.js.org",
+  "discuss": "cname.vercel-dns.com",
   "discordutility": "chaosphoe.github.io/discordutility",
   "djs-economy": "discordjs-economy.github.io/website",
   "disdai": "daimond113.github.io/disdai-website",
