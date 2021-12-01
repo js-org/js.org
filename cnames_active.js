@@ -168,6 +168,7 @@ var cnames_active = {
   "annotate": "taitems.github.io/web-pdf-annotation", // noCF? (don´t add this in a new PR)
   "annoyingmouse": "annoyingmouse.github.io", // noCF? (don´t add this in a new PR)
   "anonymdev": "anonym-anonym.github.io/ANONYM-ANONYM",
+  "anonymity": "anonymity-production.up.railway.app",
   "antalya": "jsantalya.github.io",
   "anti-nsfw": "linkdiscordd.github.io/anti-nsfw.github.io",
   "antropodigital": "antropodigital.github.io/CirculodeEstudio",
