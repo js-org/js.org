@@ -2930,6 +2930,7 @@ var cnames_active = {
   "vigour": "mokunshao.github.io/vigour",
   "villain": "btzr-io.github.io/Villain",
   "vinimdocarmo": "vinimdocarmo.github.com", // noCF? (don´t add this in a new PR)
+  "vinoca": "www.vinoca.org",
   "vinton": "vinton.github.io/website",
   "viperhtml": "viperhtml.github.io",
   "virtual-clock": "dvdgiessen.github.io/virtual-clock",
