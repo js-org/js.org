@@ -1046,6 +1046,7 @@ var cnames_active = {
   "gathertown": "warengonzaga.github.io/gathertown.js",
   "gatsby-source-pixiv": "poipoii.github.io/gatsby-source-pixiv",
   "gazosekai": "starkblaze01.github.io/Gazo_Sekai",
+  "gba": "frogweezer.github.io/gba",
   "gcommands": "garlic-team.github.io/GCommands",
   "gcse": "abemedia.github.io/jquery-gcse",
   "gdi": "katehra-brc.github.io/gdi.js.org",
@@ -2493,7 +2494,7 @@ var cnames_active = {
   "simonhans": "simonhans.github.io",
   "simpldb": "hosting.gitbook.io", // noCF
   "simple": "lescinskiscom.github.io/simple-js",
-  "simple-pip": "sleepiie.github.io/simple-pip",
+  "simple-pip": "frogweezer.github.io/simple-pip",
   "simplecounter": "tomkiernan120.github.io/simplecounter",
   "simplecrypto": "danang-id.github.io/simple-crypto-js",
   "simpler-state": "arnelenero.github.io/simpler-state",
