@@ -1046,6 +1046,7 @@ var cnames_active = {
   "gathertown": "warengonzaga.github.io/gathertown.js",
   "gatsby-source-pixiv": "poipoii.github.io/gatsby-source-pixiv",
   "gazosekai": "starkblaze01.github.io/Gazo_Sekai",
+  "gba": "frogweezer.github.io/gba",
   "gcommands": "garlic-team.github.io/GCommands",
   "gcse": "abemedia.github.io/jquery-gcse",
   "gdi": "katehra-brc.github.io/gdi.js.org",
