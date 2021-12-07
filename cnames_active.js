@@ -352,6 +352,7 @@ var cnames_active = {
   "bonzibuddy": "fardindadev.github.io/bonzibuddy",
   "bookmarklet": "tamoghnak13.github.io/bookmarklet",
   "bookmarklets": "novadevelopment.github.io/bookmarklets.js",
+  "bookmarks": "pinball3d.github.io/bookmarks",
   "bool": "booljs.github.io",
   "booru": "atlasthebot.github.io/booru",
   "booster": "xiaoyang-liu-cs.github.io/booster.js",
