@@ -1222,6 +1222,7 @@ var cnames_active = {
   "hymity": "sarveshmrao.github.io/hymity",
   "hyperform": "hyperform.github.io",
   "hyperhtml-styleguide": "albertosantini.github.io/hyperhtml-styleguide", // noCF
+  "i": "i.field.show",
   "i18n4v": "shibukawa.github.io/i18n4v",
   "iagrib": "iagrib.github.io",
   "iamsurajdc": "iamsurajdc.github.io",
