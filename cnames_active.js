@@ -462,7 +462,7 @@ var cnames_active = {
   "chandzhang": "chandzhang.github.io",
   "charge": "charge-js.netlify.com",
   "chariot": "riyacchi.github.io/chariot.js",
-  "charliez0": "charliez0.ml", // noCF
+  "charliez0": "charliez0sp.ml", // noCF
   "chatexchange": "jacob-gray.github.io/ChatExchangeJS",
   "checkers": "davidpomerenke.github.io/checkers",
   "cheerio": "cheeriojs.github.io/cheerio",
