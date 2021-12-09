@@ -2,22 +2,25 @@ const search = window.location.search.slice(1, 20);
 
 (function (el: any) {
     if (search && (el = document.getElementById(el)))
-        el.style="display:block";
+        el.style = "display:block";
 })('redir');
 
 (function (el: any) {
     if (search && (el = document.getElementById(el))) {
         let s = search.slice(0, -3)
         el.innerHTML = s;
-        setTimeout(function () {window.location.href = 'https://js.org/?' + s;}, 5000);
+        setTimeout(function () { window.location.href = 'https://js.org/?' + s; }, 5000);
     }
 })('sd');
 
 (function (el: any) {
-    window.onload = ()=>{
-        if(!document.getElementById('_carbonads_projs')){
-            if (el = document.getElementById(el))
-            el.classList.add('blocked');
+    window.onload = () => {
+        if (el = document.getElementById(el)) {
+            if (!document.getElementById('_carbonads_projs')) {
+                el.classList.add('blocked');
+                fetch("https://api.countapi.xyz/hit/jsorg/nocad")
+            } else
+                fetch("https://api.countapi.xyz/hit/jsorg/cad")
         }
     }
 })('cad');

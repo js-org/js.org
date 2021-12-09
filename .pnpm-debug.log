@@ -1,0 +1,14 @@
+{
+  "0 debug pnpm:scope": {
+    "selected": 1
+  },
+  "1 error pnpm": {
+    "code": "ERR_PNPM_NO_IMPORTER_MANIFEST_FOUND",
+    "err": {
+      "name": "pnpm",
+      "message": "No package.json (or package.yaml, or package.json5) was found in \"D:\\User\\Documents\\privat\\JS.ORG\\js.org\".",
+      "code": "ERR_PNPM_NO_IMPORTER_MANIFEST_FOUND",
+      "stack": "pnpm: No package.json (or package.yaml, or package.json5) was found in \"D:\\User\\Documents\\privat\\JS.ORG\\js.org\".\n    at readProjectManifest (C:\\Users\\keim_se\\AppData\\Roaming\\npm\\node_modules\\pnpm\\dist\\pnpm.cjs:41090:13)\n    at async Object.readProjectManifestOnly (C:\\Users\\keim_se\\AppData\\Roaming\\npm\\node_modules\\pnpm\\dist\\pnpm.cjs:41094:28)\n    at async readProjectManifestOnly (C:\\Users\\keim_se\\AppData\\Roaming\\npm\\node_modules\\pnpm\\dist\\pnpm.cjs:41313:24)\n    at async Object.handler (C:\\Users\\keim_se\\AppData\\Roaming\\npm\\node_modules\\pnpm\\dist\\pnpm.cjs:129562:24)\n    at async C:\\Users\\keim_se\\AppData\\Roaming\\npm\\node_modules\\pnpm\\dist\\pnpm.cjs:133754:20\n    at async run (C:\\Users\\keim_se\\AppData\\Roaming\\npm\\node_modules\\pnpm\\dist\\pnpm.cjs:133729:34)\n    at async runPnpm (C:\\Users\\keim_se\\AppData\\Roaming\\npm\\node_modules\\pnpm\\dist\\pnpm.cjs:133940:5)\n    at async C:\\Users\\keim_se\\AppData\\Roaming\\npm\\node_modules\\pnpm\\dist\\pnpm.cjs:133932:7"
+    }
+  }
+}
