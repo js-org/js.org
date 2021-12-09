@@ -1945,6 +1945,7 @@ var cnames_active = {
   "oh-vue-icons": "oh-vue-icons.netlify.app",
   "ohmy": "mountainwang.github.io/ohmy",
   "oib": "andreicek.github.io/oib.js",
+  "oier-start": "arlenwkx.github.io/oier-start",
   "oktay": "98oktay.github.io/oktaybaskus",
   "olaindex": "wangningkai.github.io/OLAINDEX",
   "olivia": "oliviachang29.github.io",
