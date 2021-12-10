@@ -2304,6 +2304,7 @@ var cnames_active = {
   "rekit": "supnate.github.io/rekit", // noCF
   "relate": "jakelazaroff.github.io/relate", // noCF? (don´t add this in a new PR)
   "relaunch": "pd4d10.github.io/relaunch",
+  "relic": "relicjs.github.io",
   "reloaded": "reloadedjs.github.io/website",
   "remark": "remarkjs.github.io/remark",
   "remote-faces": "dai-shi.github.io/remote-faces",
