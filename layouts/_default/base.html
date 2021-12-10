@@ -37,8 +37,8 @@
     <meta http-equiv="refresh" content="6; URL=/">
     {{end}}
 
-    <link rel="preload" as="font" crossorigin href="/fnt/source-sans-pro-v14-latin-regular.woff2">
-    <link rel="preload" as="font" crossorigin href="/fnt/source-sans-pro-v14-latin-600.woff2">
+    <link rel="preload" as="font" type="font/woff2" crossorigin href="/fnt/source-sans-pro-v14-latin-regular.woff2">
+    <link rel="preload" as="font" type="font/woff2" crossorigin href="/fnt/source-sans-pro-v14-latin-600.woff2">
 
     {{if $main := resources.Get "main.scss" }}
     {{$options := dict "outputStyle" "compressed"}}

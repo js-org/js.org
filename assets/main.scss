@@ -88,6 +88,8 @@ a {
   color: currentColor;
   text-decoration: none;
   font-weight: 600;
+  text-decoration-thickness: 1.4px;
+  text-underline-offset: 1px;
 }
 
 .badge {
@@ -230,9 +232,12 @@ footer {
   }
 
   &.blocked {
-    opacity: 0.5;
+    opacity: 0.6;
     #cad-blocked {
       display: block;
+      a {
+        text-decoration: underline;
+      }
     }
   }
 }

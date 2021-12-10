@@ -1,7 +1,7 @@
 @import "vars";
 
 p {
-    margin: 2em 0;
+  margin: 2em 0;
 }
 
 #typewriter {
@@ -62,7 +62,7 @@ section {
       -webkit-transition: all 0.3s;
       transition: all 0.3s;
       &:hover {
-        background: fade-out($txt, .8);
+        background: fade-out($txt, 0.8);
         color: $txt;
       }
     }
@@ -96,10 +96,7 @@ section {
 
   a {
     font-weight: 600;
-    border-bottom: 1.5px solid currentColor;
-    display: inline-block;
-    line-height: 1;
-    text-shadow: 1px 1px $txt, 1px -1px $txt, -1px 1px $txt, -1px -1px $txt;
+    text-decoration: underline;
 
     &:hover {
       color: rgba($key, 0.5);
@@ -123,13 +120,11 @@ section {
   }
 }
 
-
 @media only screen and (min-width: $break_s) {
   #typewriter {
     font-size: 2em;
   }
 }
-
 
 @media only screen and (min-width: $break_l) {
   #typewriter {
@@ -161,7 +156,7 @@ section {
         border-color: $key;
 
         &:hover {
-          background: fade-out($key, .7);
+          background: fade-out($key, 0.7);
           color: $key;
         }
       }
@@ -179,12 +174,8 @@ section {
       background: $txt;
     }
 
-    a {
-      text-shadow: 1px 1px $key, 1px -1px $key, -1px 1px $key, -1px -1px $key;
-
-      &:hover {
-        color: rgba($txt, 0.5);
-      }
+    a:hover {
+      color: rgba($txt, 0.5);
     }
   }
 }

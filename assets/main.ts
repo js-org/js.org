@@ -16,11 +16,8 @@ const search = window.location.search.slice(1, 20);
 (function (el: any) {
     window.onload = () => {
         if (el = document.getElementById(el)) {
-            if (!document.getElementById('_carbonads_projs')) {
+            if (!document.getElementById('_carbonads_projs'))
                 el.classList.add('blocked');
-                fetch("https://api.countapi.xyz/hit/jsorg/nocad")
-            } else
-                fetch("https://api.countapi.xyz/hit/jsorg/cad")
         }
     }
 })('cad');
@@ -28,7 +25,7 @@ const search = window.location.search.slice(1, 20);
 (function (el: any) {
     if (!(el = document.getElementById(el))) return;
     const h = document.getElementsByTagName('head')[0],
-        id = 'cb_' + Math.random().toString(36).substr(2, 16),
+        id = 'cb_' + Math.random().toString(36).substring(2, 16),
         req = document.createElement('script');
 
     window[id] = obj => {
