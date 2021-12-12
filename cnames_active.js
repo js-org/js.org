@@ -228,6 +228,7 @@ var cnames_active = {
   "atomicreact": "atomicreact.github.io/AtomicReact",
   "atx": "aktarytech.github.io/atx",
   "audio-stream": "guywhogeek.github.io/audio-stream",
+  "augusto-castro": "cassst.github.io/Augusto-Castro/",
   "aui": "alauda.github.io/alauda-ui",
   "autarky": "pranshuchittora.github.io/autarky",
   "authfunctions": "authfunctions.github.io",
