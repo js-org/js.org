@@ -42,7 +42,8 @@
 
     {{if $main := resources.Get "main.scss" }}
     {{$options := dict "outputStyle" "compressed"}}
-    {{$main := $main| toCSS $options }}
+    {{$main := $main| toCSS
+    $options }}
     {{ (printf "<%s>%s</%s>" "style" ($main.Content | safeCSS) "style") | safeHTML }}
     {{end}}
 
