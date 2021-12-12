@@ -144,8 +144,7 @@
 
     {{if .Params.full}}
     {{if $script:= resources.Get "main.ts" }}
-    {{ $options := dict "targetPath" "main.js" "target" "es2015" "minify" (cond .Site.IsServer false true) "sourcemap"
-    (cond .Site.IsServer "inline" "external")}}
+    {{ $options := dict "targetPath" "main.js" "target" "es2015" "minify" (cond .Site.IsServer false true) "sourcemap" (cond .Site.IsServer "inline" "external")}}
     {{ $script := $script | js.Build $options }}
     <script type="text/javascript" src="{{ $script.RelPermalink }}" defer></script>
     {{ end }}
