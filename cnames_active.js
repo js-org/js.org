@@ -995,6 +995,7 @@ var cnames_active = {
   "fmateoc": "fmateoc.github.io",
   "fmkli": "fmkli.github.io",
   "fnbr": "fnbrjs.github.io/docs",
+  "foca": "foca-js.github.io/foca",
   "focusoverlay": "mmahandev.github.io/FocusOverlay",
   "fontdragr": "ryanseddon.github.io/font-dragr",
   "food": "russellsteadman.github.io/foodweb",
