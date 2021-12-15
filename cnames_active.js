@@ -1011,6 +1011,7 @@ var cnames_active = {
   "foxhole-client": "foxhole-clientjs.netlify.app",
   "foxify": "foxifyjs.github.io/foxify",
   "foxman": "kaola-fed.github.io/foxman",
+  "fov": "animafps.github.io/fov-utilities",
   "fp": "iotcat.github.io/fp",
   "frame-depth": "nwong212.github.io/frame-wizard",
   "framework": "plasnerd.github.io/Framework.js",
