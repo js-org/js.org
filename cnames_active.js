@@ -2870,7 +2870,7 @@ var cnames_active = {
   "unoconv": "blog.ryanwu.me/Unoconv-Promise",
   "unreal": "sprayxe.github.io/unreal.js.org",
   "unsafe": "unsafely.github.io/unsafe.js",
-  "unsign": "cname.vercel-dns.com", // noCF
+  "unsign": "unsign.netlify.app", // noCF
   "up": "codefeathers.github.io/up",
   "updevs-db": "up-devs.github.io/db-docs",
   "uppload": "uppload.netlify.com",
