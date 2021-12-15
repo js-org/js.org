@@ -1007,11 +1007,11 @@ var cnames_active = {
   "fortnite": "ickerio.github.io/fortnite.js",
   "fortune": "fortunejs.github.io/fortune", // noCF? (don´t add this in a new PR)
   "fosspwa": "foss-pwa.github.io/app-store",
+  "fov": "animafps.github.io/fov-utilities",
   "foxford": "netology-group.github.io/foxford.github.io",
   "foxhole-client": "foxhole-clientjs.netlify.app",
   "foxify": "foxifyjs.github.io/foxify",
   "foxman": "kaola-fed.github.io/foxman",
-  "fov": "animafps.github.io/fov-utilities",
   "fp": "iotcat.github.io/fp",
   "frame-depth": "nwong212.github.io/frame-wizard",
   "framework": "plasnerd.github.io/Framework.js",
