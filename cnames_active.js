@@ -3108,6 +3108,7 @@ var cnames_active = {
   "yolog": "jitesoft.github.io/yolog",
   "youngjuning": "youngjuning.github.io",
   "youtim": "mortonfox.github.io/YouTim", // noCF? (don´t add this in a new PR)
+  "yt-quota-manager": "arnav-kr.github.io/yt-quota-manager",
   "youtube-box": "lucasmonteverde.github.io/youtube-box", // noCF? (don´t add this in a new PR)
   "youtube-ext": "zyrouge.github.io/youtube-ext",
   "youtube-lite": "9oelm.github.io/youtube-lite",
