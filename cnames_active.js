@@ -2546,6 +2546,7 @@ var cnames_active = {
   "snow": "cname.vercel-dns.com", // noCF
   "snowflake-api": "udit2303.github.io/snowflake-api-docs",
   "snowstorm": "explodingcamera.github.io/snowstorm",
+  "snowswap": "snowswaporg.github.io/snowswap-frontend",
   "social-likes": "sapegin.github.io/social-likes", // noCF? (don´t add this in a new PR)
   "social-likes-next": "sapegin.github.io/social-likes-next", // noCF? (don´t add this in a new PR)
   "softdoc": "hilderonny.github.io/softdoc",
