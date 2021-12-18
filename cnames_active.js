@@ -3126,6 +3126,7 @@ var cnames_active = {
   "zed": "paul-browne.github.io/Zed-framework",
   "zeit": "urvinh.github.io",
   "zen": "tomelam.github.io/zen",
+  "kindle-deep": "kindle-deep.github.io",
   "zephyr": "zephyr-dh.github.io/zephyr",
   "zeroclick": "studiomotio.github.io/zeroclick",
   "zeroframe": "filips123.github.io/ZeroFrameJS",
