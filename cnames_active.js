@@ -3071,6 +3071,7 @@ var cnames_active = {
   "wss": "iguanren.github.io/wss",
   "wstool": "sy-records.github.io/wstool", // noCF
   "wugenqiang": "wugenqiang.github.io/wugenqiang.js.org",
+  "wu": "ethanwu7.github.io",
   "wwcache": "wwcache.github.io",
   "www.siddharth": "chaudhs769.github.io/siddharth.js.org", // noCF
   "www.next-auth": "cname.vercel-dns.com", // noCF
