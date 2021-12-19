@@ -951,6 +951,7 @@ var cnames_active = {
   "fela": "felajs.vercel.app",
   "felipelevinir": "felipelevinir.github.io/Portafolio",
   "fem": "frani.github.io/fem",
+  "fernandoflorez": "guerreroflorez.github.io/Portafolio",
   "festercluck": "festercluck.github.io", // noCF? (don´t add this in a new PR)
   "fetch-json": "center-key.github.io/fetch-json",
   "fetch-the-parrot": "fetch-the-parrot.netlify.app",
@@ -2087,7 +2088,6 @@ var cnames_active = {
   "pong-zh": "xiaozhu2021.github.io/javascript-pong",
   "popcorn-api": "nirewen.github.io/popcorn-api",
   "popper": "fezvrasta.github.io/popper.js",
-  "Portafolio_fernando": "guerreroflorez.github.io/Portafolio",
   "portafolio-web": "velazquezadrian.github.io/Portafolio-web",
   "portafolioacadeller": "acadeller.github.io/portafolioacadeller",
   "portafolioalejandrarobles": "alerobles3.github.io/portafolioalejandrarobles",
