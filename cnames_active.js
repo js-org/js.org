@@ -575,6 +575,7 @@ var cnames_active = {
   "cord": "lukadev-0.github.io/cord.js",
   "corx": "corx.kazult.repl.co", // noCF
   "cosova": "hardo.github.io/cosova",
+  "costro": "costrojs.github.io",
   "cote": "dashersw.github.io/cote", // noCF? (don´t add this in a new PR)
   "countr": "gleeny.github.io/countr-redirect",
   "country": "growmies.github.io/countryjs", // noCF? (don´t add this in a new PR)
