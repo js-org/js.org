@@ -994,7 +994,7 @@ var cnames_active = {
   "flying-squid.prismarine": "prismarinejs.github.io/flying-squid",
   "flysoft": "minecraftsky.github.io",
   "fmateoc": "fmateoc.github.io",
-  "fmkli": "fmkli.github.io",
+  "fmkli": "cname-china.vercel-dns.com",
   "fnbr": "fnbrjs.github.io/docs",
   "foca": "foca-js.github.io/foca",
   "focusoverlay": "mmahandev.github.io/FocusOverlay",
