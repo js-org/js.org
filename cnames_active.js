@@ -724,6 +724,7 @@ var cnames_active = {
   "discord-player": "discord-player-docs.netlify.app",
   "discord-sensei": "demonicious.github.io/discord-sensei",
   "discord-tickets": "derpinou.github.io/discord-tickets-docs",
+  "discord-timeouts": "azpektdev.github.io/discord-timeouts"
   "discord-ts": "oceanroleplay.github.io/discord.ts",
   "discord-twitch": "tovade.github.io/discord-twitch",
   "discord-voice": "c71abc0d-1101-4d2b-ab7b-9f30b379f68b.repl.co", // noCF
