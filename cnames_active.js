@@ -1745,6 +1745,7 @@ var cnames_active = {
   "mmzdupz": "mmzdupz.github.io",
   "mnmlcss": "barelyhuman.github.io/mnml.css",
   "mo": "mirmousaviii.github.io/mo",
+  "mobbler": "megaemce.github.io/mobbler"
   "mobi": "mobidots.github.io",
   "mobiriseto": "mobiriseto.github.io",
   "mobspot": "mobspot.github.me/mobspot.js.org",
