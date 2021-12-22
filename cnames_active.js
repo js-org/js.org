@@ -292,6 +292,7 @@ var cnames_active = {
   "bc": "mazko.github.io/bc.js",
   "bci": "pwstegman.github.io/bcijs",
   "bcklib": "zyyou.github.io/npm-modules",
+  "bdvela": "bdvela.github.io/MyPortfolio",
   "be": "davidep87.github.io/bejs.github.io",
   "beaga": "beagajs.github.io/beaga",
   "beamwind": "kenoxa.github.io/beamwind",
