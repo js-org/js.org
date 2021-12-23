@@ -2890,6 +2890,7 @@ var cnames_active = {
   "urban": "snekjs.github.io/urban.js",
   "urmom": "urmomjs.github.io/urmom.js",
   "use-cookie-consent": "use-cookie-consent.github.io/use-cookie-consent-docs",
+  "usedapp": "crypto-meta.github.io/usedapp.js.org",
   "useful-apis": "yuu0007.github.io/useful-apis",
   "useful-interfaces": "soupcodez.github.io/useful-interfaces",
   "useless-machine": "pakastin.github.io/useless-machine",
