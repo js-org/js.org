@@ -1152,6 +1152,7 @@ var cnames_active = {
   "githubtouch": "github-touch.github.io",
   "gametime": "parking-master.github.io/Gametime.js",
   "h": "makenowjust.github.io/h.js",
+  "h2o-ac": "zhonger.github.io/jekyll-theme-H2O-ac“
   "h3": "h3rald.github.io/h3",
   "h7ml": "h7ml.github.io/web",
   "ha-store": "fed135.github.io/ha-store",
