@@ -674,6 +674,7 @@ var cnames_active = {
   "denisvieira": "denisvieira05.github.io",
   "deno-algorithm": "hylerrix.github.io/deno-algorithm",
   "deno-tutorial": "hylerrix.github.io/deno-tutorial",
+  "densewaire": "cname.vercel-dns.com",
   "deox": "deox.netlify.com",
   "deportes": "andreapins.github.io/Deportes-Gacetis",
   "deputy": "ry4nolson.github.io/Deputy", // noCF? (don´t add this in a new PR)
@@ -2878,7 +2879,6 @@ var cnames_active = {
   "unoconv": "blog.ryanwu.me/Unoconv-Promise",
   "unreal": "sprayxe.github.io/unreal.js.org",
   "unsafe": "unsafely.github.io/unsafe.js",
-  "unsign": "cname.vercel-dns.com", // noCF
   "up": "codefeathers.github.io/up",
   "updevs-db": "up-devs.github.io/db-docs",
   "uppload": "uppload.netlify.com",
