@@ -1528,6 +1528,7 @@ var cnames_active = {
   "libcord": "tovade.github.io/libcord",
   "libphonenumbers": "libphonenumbers.github.io",
   "lifeisyoung": "lifeisyoung.github.io",
+  "lifetime-countdown": "https://neila-a.github.io/countdown.js/index.html",
   "lifx": "fncxpro.github.io/lifx.js",
   "light": "lightjs.netlify.com",
   "light-observable": "dmitry-korolev.github.io/light-observable",
@@ -3155,8 +3156,7 @@ var cnames_active = {
   "zyh": "zyh-chopper.github.io/zyh",
   "zykj": "cname.vercel-dns.com", // noCF
   "zyy": "zyyou.github.io/notes"
-  "countdown": "https://neila-a.github.io/countdown.js/index.html"
-  /*
+   /*
    * please don't add your subdomain records down here!
    * insert them in alphabetical order to help reduce merge conflicts.
    * <3
