@@ -2674,6 +2674,7 @@ var cnames_active = {
   "super-trim": "beeblebrox3.github.io/super-trim",
   "supernova": "janbiasi.github.io/supernova", // noCF? (don´t add this in a new PR)
   "supernova-tool": "supernova-tool.github.io/supernova-site",
+  "surf": "mario-yellowbeard.github.io/surf",
   "surgio": "surgio-documentation.netlify.app", // noCF
   "suroadb": "nicamoq.github.io/SuroADB-Lite",
   "sutanlab": "sutanlab.github.io.github.io",
@@ -3154,7 +3155,6 @@ var cnames_active = {
   "zyh": "zyh-chopper.github.io/zyh",
   "zykj": "cname.vercel-dns.com", // noCF
   "zyy": "zyyou.github.io/notes"
-  "surf": "mario-yellowbeard.github.io/surf",
   /*
    * please don't add your subdomain records down here!
    * insert them in alphabetical order to help reduce merge conflicts.
