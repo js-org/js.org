@@ -2827,6 +2827,7 @@ var cnames_active = {
   "tt": "redyetidev.github.io/terminaltools",
   "ttag": "ttag-org.github.io/ttag",
   "ttgprotect": "ttgprotect.github.io",
+  "tts": "mario-yellowbeard.github.io/Text-To-Speech",
   "ttt": "lukechu10.github.io/TicTacToe-Minimax",
   "tui-nuxt": "hosting.gitbook.com", // noCF
   "tuplet": "meleyal.github.io/tuplet",
