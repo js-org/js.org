@@ -1710,6 +1710,7 @@ var cnames_active = {
   "mine": "minenode.github.io",
   "minecraft": "michaljaz.github.io/web-minecraft",
   "minecraft-data.prismarine": "prismarinejs.github.io/minecraft-data",
+  "minecraft-inventory-gui.prismarine": "prismarinejs.github.io/minecraft-inventory-gui",
   "mineflayer.prismarine": "prismarinejs.github.io/mineflayer",
   "minehutsupport": "baibeebambi.github.io/minehutsupport",
   "minerva-ui": "minerva-ui-docs.vercel.app",
