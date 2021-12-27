@@ -1528,6 +1528,7 @@ var cnames_active = {
   "libcord": "tovade.github.io/libcord",
   "libphonenumbers": "libphonenumbers.github.io",
   "lifeisyoung": "lifeisyoung.github.io",
+  "lifetime-countdown": "neila-a.github.io/countdown.js",
   "lifx": "fncxpro.github.io/lifx.js",
   "light": "lightjs.netlify.com",
   "light-observable": "dmitry-korolev.github.io/light-observable",
