@@ -714,6 +714,7 @@ var cnames_active = {
   "discord-antiraid": "derpinou.github.io/discord-antiraid",
   "discord-bio": "asdfugil.github.io/discord.bio",
   "discord-buttons": "discord-buttons.github.io/docs", // noCF
+  "discord-button-page": "kingofpanda-development.github.io/discord-button-page",
   "discord-cmds": "hosting.gitbook.io", // noCF
   "discord-epagination": "azawat7.github.io/discord-pagination",
   "discord-gamecord": "gamecord-docs.vercel.app",
