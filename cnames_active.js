@@ -2462,6 +2462,7 @@ var cnames_active = {
   "sejong": "choijunseo.github.io/sejong",
   "select_io": "selaromi.github.io/select_io", // noCF? (don´t add this in a new PR)
   "selectors": "selectors.github.io/selectors.js",
+  "selectre": "alexeyraspopov.github.io/selectre",
   "selectric": "lcdsantos.github.io/jQuery-Selectric", // noCF? (don´t add this in a new PR)
   "semo": "semojs.github.io/semo",
   "senil": "mrfarhad.github.io/senilwebsite",
