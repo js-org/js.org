@@ -2357,6 +2357,7 @@ var cnames_active = {
   "risingstars": "cname.vercel-dns.com",
   "risingstars2016": "michaelrambeau.github.io/risingstars2016",
   "rize": "g-plane.github.io/rize",
+  "logs-d": "rlx-op.github.io/logs-discord-website",
   "rmodal": "zewish.github.io/rmodal.js",
   "roadmafia": "roadmafia.github.io",
   "roalia": "roaliia.github.io",
