@@ -1568,6 +1568,7 @@ var cnames_active = {
   "localsync": "noderaider.github.io/localsync", // noCF? (don´t add this in a new PR)
   "loginlock-portfolio": "chucky22mendoza.github.io/loginlock",
   "logo": "js-org.github.io/logo",
+  "logs-d": "rlx-op.github.io/logs-discord-website",
   "loki": "oblador.github.io/loki",
   "lol": "xcss.github.io/lol",
   "loli": "tkzcm.github.io/loli",
@@ -2357,7 +2358,6 @@ var cnames_active = {
   "risingstars": "cname.vercel-dns.com",
   "risingstars2016": "michaelrambeau.github.io/risingstars2016",
   "rize": "g-plane.github.io/rize",
-  "logs-d": "rlx-op.github.io/logs-discord-website",
   "rmodal": "zewish.github.io/rmodal.js",
   "roadmafia": "roadmafia.github.io",
   "roalia": "roaliia.github.io",
