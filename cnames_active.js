@@ -3128,6 +3128,7 @@ var cnames_active = {
   "yt-dislikes-viewer": "pgamerx.github.io/yt-dislikes-viewer",
   "yt-quota-manager": "arnav-kr.github.io/yt-quota-manager",
   "yu": "yuxizhe.github.io/yu",
+  "yurd": "https://thebigbot0000.github.io/yurd.js.org",
   "yuko": "notmarx.github.io/Yuko-Website",
   "yup-phone": "abhisekp.github.io/yup-phone",
   "yusril": "yusrilhs.github.io", // noCF
