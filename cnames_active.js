@@ -1031,7 +1031,7 @@ var cnames_active = {
   "front-end": "whoisjorge.github.io/front-end",
   "frontless": "nesterow.github.io/frontless",
   "fronts": "unadlib.github.io/fronts",
-  "frost": "devsnowflake.github.io/frost",
+  "frost": "cesiumlabs.github.io/frost",
   "frzr": "pakastin.github.io/frzr",
   "fs-nextra": "bdistin.github.io/fs-nextra",
   "fte": "scintilla4evr.github.io/fte",
