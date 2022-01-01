@@ -1679,6 +1679,7 @@ var cnames_active = {
   "merkur": "mjancarik.github.io/merkur",
   "mern": "IamMohaiminul.GitHub.io/MERNjs",
   "mert": "mert574.github.io",
+  "mertcelik": "practical-hodgkin-ce3b3b.netlify.app",
   "mesh": "crcn.github.io/mesh.js.org", // noCF? (don´t add this in a new PR)
   "meshesha": "meshesha.github.io",
   "metadata": "oknosoft.github.io/metadata.js",
