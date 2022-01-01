@@ -2879,7 +2879,6 @@ var cnames_active = {
   "uni": "arcadiogarcia.github.io/UNIJS", // noCF? (don´t add this in a new PR)
   "unicorn": "mirai-explorer.github.io/unicorn",
   "unicornly": "unicornly.github.io/unicornly",
-  "unifi3d": "joemcrainbow.github.io/Unifi3d",
   "unique-session": "molaga.github.io/unique-session",
   "units": "stak-digital.github.io/units",
   "universal-api": "raxjs.github.io/universal-api",
