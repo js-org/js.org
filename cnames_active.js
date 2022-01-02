@@ -2522,6 +2522,7 @@ var cnames_active = {
   "simply": "fehmi.github.io/simply",
   "simplyd": "simplyd.netlify.app",
   "simplyeco": "xx-mohit-xx.github.io/Simply-eco",
+  "simplyxp": "simplyxp.netlify.app",
   "simulacra": "daliwali.github.io/simulacra",
   "sina": "sinabakh.github.io/sina",
   "singh": "gxjit.github.io",
