@@ -2756,6 +2756,7 @@ var cnames_active = {
   "textillate": "jschr.github.io/textillate", // noCF? (don´t add this in a new PR)
   "textmark": "sahilister.github.io/textmark",
   "tgsnake": "cname.vercel-dns.com",
+  "the-all-javascript-blog": "cname.vercel-dns.com",
   "thea": "idokutela.github.io/thea",
   "thegrid": "antoniandre.github.io/grid",
   "thehorizon": "kavanmevada.github.io/the-horizon-blog",
