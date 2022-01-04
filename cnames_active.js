@@ -1128,6 +1128,7 @@ var cnames_active = {
   "gramps": "gramps-graphql.github.io/gramps",
   "graph": "tomas-wrobel.github.io/graph",
   "graphene": "graphene-react.netlify.com",
+  "graphgame": "uellenberg.github.io/Graphgame",
   "graphics2d": "keyten.github.io/Graphics2D", // noCF? (don´t add this in a new PR)
   "graphstore": "besync.github.io/graphstore",
   "gregory": "f3z0.github.io",
