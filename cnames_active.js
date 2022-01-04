@@ -1656,6 +1656,7 @@ var cnames_active = {
   "mauricio": "mauricionobrega.github.io/www",
   "max": "toorusr.github.io/max.js.org",
   "maxnachlinger": "maxnachlinger.github.io", // noCF? (don´t add this in a new PR)
+  "maxxrequena": "maxxrequena.github.io/portfolio/",
   "maxtracking": "maxtracking.github.io", // noCF? (don´t add this in a new PR)
   "maze95": "maze95.github.io",
   "mc": "magicarbon.github.io/mc", // noCF? (don´t add this in a new PR)
