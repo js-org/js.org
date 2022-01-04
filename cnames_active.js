@@ -1388,6 +1388,7 @@ var cnames_active = {
   "jsonui": "yourtion.github.io/vue-json-ui-editor",
   "jsonuri": "aligay.github.io/jsonuri",
   "jsxcad": "jsxcad.github.io",
+  "joseulices": "joseulices.github.io/myportafolio",
   "juancarlosqr": "juancarlosqr.github.io", // noCF? (don´t add this in a new PR)
   "julianflancheros": "julianflancheros.github.io/Prueba",
   "julien": "julien.github.io", // noCF? (don´t add this in a new PR)
