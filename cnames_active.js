@@ -2053,6 +2053,7 @@ var cnames_active = {
   "ph1p": "ph1p.github.io",
   "pharaoh": "pharaoh-js.github.io", // noCF? (don´t add this in a new PR)
   "phi": "phi-tools.netlify.com",
+  "phisherman": "thewilloftheshadow.github.io/phisherman.js",
   "phobos": "phobosjs.github.io/phobos.js",
   "phoenix35": "phoenix35.github.io/js-help",
   "photo-sphere-viewer": "photo-sphere-viewer.netlify.app",
