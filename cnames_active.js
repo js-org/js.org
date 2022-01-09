@@ -2005,6 +2005,7 @@ var cnames_active = {
   "pageobject": "clebert.github.io/pageobject",
   "pagetalk": "seatwork.github.io/pagetalk",
   "pagination": "superRaytin.github.io/paginationjs-site", // noCF
+  "pagination-djs": "imranbarbhuiya.github.io/pagination.djs",
   "paint": "christianliebel.github.io/paint",
   "palette": "pakastin.github.io/palette",
   "pam": "pambot.netlify.app",
