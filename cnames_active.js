@@ -2816,6 +2816,7 @@ var cnames_active = {
   "trakas": "trakas.github.io",
   "translate": "xuanzhi33.github.io/translate.js",
   "transposer": "francesco-dipi.github.io/transposer",
+  "trestle": "whiskeedev.github.io/trestle",
   "treviso": "trevisojs.github.io", // noCF? (don´t add this in a new PR)
   "trier": "creimers.github.io/trier",
   "trilogy": "trilogy.netlify.com", // noCF
