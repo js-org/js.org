@@ -1151,6 +1151,7 @@ var cnames_active = {
   "gully": "nmabhinandan.github.io/gully", // noCF? (don´t add this in a new PR)
   "gulpkit": "gulpkit.github.io/GulpKit",
   "gun": "gundb.github.io", // noCF? (don´t add this in a new PR)
+  "gun-vue": "defucc.github.io/gun-vue", //noCF
   "guppy": "daniel3735928559.github.io/guppy",
   "gustwind": "gustwind.netlify.app",
   "gylidian": "gylidian.github.io",
