@@ -1476,6 +1476,7 @@ var cnames_active = {
   "ktm": "developers-nepal.github.io/ktmjs",
   "kucos": "kucosjs.github.io",
   "kunal": "kunalghosh02.github.io",
+  "kunalahuja": "kunalahuja04.github.io",
   "kunkun": "smallkunkun.github.io",
   "kyoto": "kyotojs.github.io",
   "l2dwidget": "xiazeyu.github.io/live2d-widget.js-doc",
