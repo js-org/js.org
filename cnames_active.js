@@ -1036,6 +1036,7 @@ var cnames_active = {
   "fronts": "unadlib.github.io/fronts",
   "frost": "cesiumlabs.github.io/frost",
   "frzr": "pakastin.github.io/frzr",
+  "fr.single-spa": "single-spa.github.io/fr.single-spa.js.org",
   "fs-nextra": "bdistin.github.io/fs-nextra",
   "fte": "scintilla4evr.github.io/fte",
   "fucao": "fusuhub.github.io",
