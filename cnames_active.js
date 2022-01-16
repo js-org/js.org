@@ -1709,6 +1709,7 @@ var cnames_active = {
   "mics": "download.github.io/mics",
   "middy": "plnt9.github.io/middy",
   "miguelsr": "miguelsr.github.io", // noCF? (don´t add this in a new PR)
+  "mik": "mik.vercel.app",
   "mikado": "nextapps-de.github.io/mikado",
   "milesgitgud": "milesgitgud.github.io/homepage",
   "militia": "militia21.github.io/militia",
