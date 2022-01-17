@@ -580,8 +580,8 @@ var cnames_active = {
   "cosova": "hardo.github.io/cosova",
   "costro": "costrojs.github.io",
   "cote": "dashersw.github.io/cote", // noCF? (don´t add this in a new PR)
+  "countletter": "neila-a.github.io/countletter/",
   "countr": "gleeny.github.io/countr-redirect",
-  "countletter": "https://neila-a.github.io/countletter/",
   "country": "growmies.github.io/countryjs", // noCF? (don´t add this in a new PR)
   "cov19": "mixon00.github.io/cov19-cli",
   "covid": "offpe.github.io/react-covid19-stats",
