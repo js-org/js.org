@@ -2057,6 +2057,7 @@ var cnames_active = {
   "pguth": "pguth.github.io",
   "ph1p": "ph1p.github.io",
   "pharaoh": "pharaoh-js.github.io", // noCF? (don´t add this in a new PR)
+  "pharo": "pharojs.github.io/pharo-js-org",
   "phaker": "phakerjs.github.io/phaker.js",
   "phi": "phi-tools.netlify.com",
   "phisherman": "thewilloftheshadow.github.io/phisherman.js",
