@@ -3162,15 +3162,13 @@ var cnames_active = {
   "zhy": "niaoyu233.github.io/homework",
   "zignis": "zhike-team.github.io/zignis",
   "zizhujy": "jeff-tian.github.io/zizhujy",
-  "zodiac": "indus.github.io/Zodiac", // noCF? (don´t add this in a new PR)
+  "zodiac": "indus.github.io/Zodiac",
   "zodiacsigns": "dipanshkhandelwal.github.io/my-zodiac-sign",
-  "zombie": "assaf.github.io/zombie", // noCF? (don´t add this in a new PR)
+  "zombie": "assaf.github.io/zombie",
   "zonayed": "zonayedpca.github.io/js.zonayed.me",
   "zty": "zetaoyang.github.io",
   "zxy": "ZXYFrank.github.io",
   "zyh": "zyh-chopper.github.io/zyh",
-  "zykj": "cname.vercel-dns.com", // noCF
-  "zyy": "zyyou.github.io/notes"
   /*
    * please don't add your subdomain records down here!
    * insert them in alphabetical order to help reduce merge conflicts.
