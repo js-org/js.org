@@ -1113,6 +1113,7 @@ var cnames_active = {
   "glyph": "zyrouge.github.io/glyph.css",
   "gnatale": "giosooul.github.io/gnatale.github.io",
   "god": "godow.github.io",
+  "godwhite": "docs.godwhite.tk"
   "godzm4tt3o": "godzm4tt3o.github.io",
   "gogs": "rpgjw54g31k5yd4q.preview.edgeapp.net",
   "goji": "airbnb.github.io/goji-js",
