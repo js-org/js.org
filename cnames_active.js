@@ -978,6 +978,7 @@ var cnames_active = {
   "fireworks": "crashmax-dev.github.io/fireworks-js",
   "fish": "cdaringe.github.io/fish",
   "five": "jackdcrawford.github.io/five",
+  "fixlly65": "fixlly65.github.io",
   "flamecord": "flamexode.github.io/flamecord",
   "flap": "slurmulon.github.io/flap",
   "flare": "nsaunders.github.io/flare",
