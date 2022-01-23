@@ -717,7 +717,7 @@ var cnames_active = {
   "discord-anti-spam": "michael-j-scofield.github.io/discord-anti-spam",
   "discord-antiraid": "derpinou.github.io/discord-antiraid",
   "discord-bio": "asdfugil.github.io/discord.bio",
-  "discord-botlists": "sidisliveyt.github.io/discord-botlists"
+  "discord-botlists": "sidisliveyt.github.io/discord-botlists",
   "discord-buttons": "discord-buttons.github.io/docs", // noCF
   "discord-button-page": "kingofpanda-development.github.io/discord-button-page",
   "discord-cmds": "hosting.gitbook.io", // noCF
