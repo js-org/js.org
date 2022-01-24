@@ -3077,7 +3077,7 @@ var cnames_active = {
   "wice": "yulioaj290.github.io/wice.js",
   "wii": "andrewplus.github.io/Wii.JS",
   "wiimmfi": "hosting.gitbook.io", // noCF
-  "wiki": "wikijs.netlify.com", // noCF
+  "wiki": "wiki-js-org.netlify.app", // noCF
   "wikidata-elements": "lisongx.github.io/wikidata-elements",
   "wildfire": "cheng-kang.github.io/wildfire",
   "willy": "willyarisky.github.io/willy",
