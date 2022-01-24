@@ -819,6 +819,7 @@ var cnames_active = {
   "dungeon": "youssefelshemi.github.io/dungeon.js",
   "duniter": "duniterspec.github.io",
   "duosoptimos": "duosoptimos.github.io/duosptimos",
+  "duration": "imranbarbhuiya.github.io/duration",
   "dva-plus": "anyesu.github.io/dva-plus",
   "dvan": "dvan.netlify.com",
   "dvd": "cdaringe.github.io/dvd-corner-bounce",
