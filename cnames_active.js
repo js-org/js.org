@@ -156,6 +156,7 @@ var cnames_active = {
   "andresito": "andresitodeguzman.github.io/andresito",
   "android": "twtg93.github.io/Android-js",
   "anenth": "anenth.github.io", // noCF? (don´t add this in a new PR)
+  "angular-cn": "ng-docs.github.io/latest.angular.live",
   "angular-jsf": "json-schema-faker.github.io/angular-jsf", // noCF? (don´t add this in a new PR)
   "angular-uikit": "whoisjorge.github.io/angular-uikit",
   "angular2in1": "angular2in1.github.io/angular2in1js", // noCF
@@ -514,6 +515,7 @@ var cnames_active = {
   "cmbhackjs2013": "cmbjs.github.io/cmbHackjs2013",
   "cmdhub": "thatonetqnk.github.io/cmdhub",
   "cml": "didi.github.io/chameleon",
+  "cn.angular": "ng-docs.github.io/latest.angular.live",
   "cn.history": "doodlewind.github.io/jshistory-cn", // noCF
   "cn.iflow": "unadlib.github.io/iflow-docs-cn",
   "cn.mingyan": "lehs8n.coding-pages.com", // noCF
