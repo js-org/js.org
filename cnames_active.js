@@ -564,6 +564,7 @@ var cnames_active = {
   "cookiebox": "metaa.gitlab.io/cookiebox.js",
   "cookiecord": "cookiecord.github.io/cookiecord",
   "cookieguard": "tobiasthaden.github.io/cookieguard",
+  "cookienotice": "cookienotice.github.io",
   "cool-img-api": "sujalgoel.github.io/cool-image-api-wrapper",
   "coolapkwiki": "coolapk-fan.github.io/wiki",
   "coolnavs": "prabincankod.github.io/cool-navs",
