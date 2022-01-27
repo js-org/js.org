@@ -2231,6 +2231,7 @@ var cnames_active = {
   "react-autowhatever": "moroshko.github.io/react-autowhatever", // noCF? (don´t add this in a new PR)
   "react-character-map": "vpukhanov.github.io/react-character-map",
   "react-chart": "react-charts.netlify.com",
+  "react-chartjs-2": "react-chartjs-2.netlify.app",
   "react-charts": "react-charts.netlify.com",
   "react-chef": "web-slate.github.io/react-chef",
   "react-command-palette": "react-command-palette.netlify.com",
