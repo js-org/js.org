@@ -2877,7 +2877,7 @@ var cnames_active = {
   "typeahead": "corejavascript.github.io/typeahead.js",
   "typed-ui": "pi-cubed.github.io/typed-ui",
   "typeless": "typeless.netlify.com",
-  "typewriter" :"nicesapien.github.io/typewriter.js",
+  "typewriter": "nicesapien.github.io/typewriter.js",
   "typescript-play": "agentcooper.github.io/typescript-play",
   "tyshemo": "tangshuang.github.io/tyshemo",
   "tyvn": "milo123459.github.io/tyvn",
