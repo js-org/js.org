@@ -3088,6 +3088,7 @@ var cnames_active = {
   "willy": "willyarisky.github.io/willy",
   "wind": "windium.herokuapp.com",
   "windows": "munchkinhalfling.github.io/wasm-windows",
+  "winsonliwh": "winsonliwh.github.io/learnGitBranching",
   "wiot": "iotcat.github.io/wIoT",
   "wire": "wire-ts.github.io",
   "wired": "mattx8y.github.io/wired-js",
