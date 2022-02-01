@@ -464,7 +464,7 @@ var cnames_active = {
   "cgoatone": "cgoatone.github.io",
   "chain-able": "fluents.github.io/chain-able-site",
   "chainson": "abcdan.github.io/chainson",
-  "chatapp": "7orp3do.github.io/realtime-chat-app"
+  "chatapp": "7orp3do.github.io/realtime-chat-app",
   "chameleon": "glitch.edgeapp.net",
   "chandzhang": "chandzhang.github.io",
   "charge": "charge-js.netlify.com",
@@ -1939,6 +1939,7 @@ var cnames_active = {
   "notepad": "amitmerchant1990.github.io/notepad",
   "nothing": "cbtak.github.io/nothing",
   "notibar": "duyetdev.github.io/notibar.js",
+  "notion": "disgroup-development.github.io/notion-sdk.js",
   "novasheets": "novasheets.netlify.app",
   "npkill": "voidcosmos.github.io/npkill",
   "nplayer": "woopen.github.io/nplayer",
