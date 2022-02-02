@@ -3158,9 +3158,11 @@ var cnames_active = {
   "yt-quota-manager": "arnav-kr.github.io/yt-quota-manager",
   "yu": "yuxizhe.github.io/yu",
   "yurd": "thebigbot0000.github.io/yurd.js.org",
+  "yusuf": "https://yusuffjs.github.io/yusuf.github.io/",
   "yuko": "notmarx.github.io/Yuko-Website",
   "yup-phone": "abhisekp.github.io/yup-phone",
   "yusril": "yusrilhs.github.io", // noCF
+  "yusuf": ""
   "yuye": "cyea.github.io",
   "yvm": "tophat.github.io/yvm",
   "zaimu": "zaimu.netlify.app", // noCF
