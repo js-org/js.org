@@ -208,6 +208,7 @@ var cnames_active = {
   "arthurmbandeira": "arthurmbandeira.github.io",
   "artitalk": "artitalkjs.github.io/docs",
   "as": "techimodi.github.io/as.js",
+  "asbros": "asbros.github.io/asbros.js.org",
   "asdivyansh": "asdivyansh.github.io",
   "ass": "weizhenye.github.io/ASS",
   "ass-editor": "jeff-tian.github.io/ass",
