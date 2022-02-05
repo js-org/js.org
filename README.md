@@ -5,12 +5,12 @@
 [![Donate](https://img.shields.io/badge/Donate-for_registrar_fees-1F87FF.svg?style=flat-square&logo=open-collective&logoColor=fff)](https://opencollective.com/js-org)
 
 :boom::boom::boom:
-***Due to the increased number of requests for js.org subdomains recently, with many having questionable relevancy to the JavaScript community and ecosystem, we've decided that going forward JS.ORG will be focusing on accepting subdomain requests from projects with a clear relation to the JS community.***
+***Due to the increased number of requests for js.org subdomains, with many having questionable relevancy to the JavaScript community and ecosystem, we've decided that going forward JS.ORG will be focusing on accepting subdomain requests from projects with a clear relation to the JS community.***
 
-***As some examples, personal pages, blogs, Discord bot pages and basic turorials for unrelated libraries will no longer be accepted. Projects such as NPM packages, libraries, tools that have a clear and direct relation to JavaScript, will be accepted when requesting a JS.ORG subdomain. This decision does not affect subdomains that have already been granted.***
+***As some examples, personal pages, blogs, Discord bot pages and basic tutorials for unrelated libraries will no longer be accepted. Projects such as NPM packages, libraries, tools that have a clear and direct relation to JavaScript, will be accepted when requesting a JS.ORG subdomain. This decision does not affect subdomains that have already been granted.***
 :boom::boom::boom:
 
-**Some Similar Services:** [js.cool](https://github.com/js-cool/js.cool), [is-a.dev](https://github.com/is-a-dev/register), [thedev.id](https://github.com/fransallen/thedev.id), [mod.land](https://github.com/denosaurs/mod.land)
+**Some Similar Services:** [js.cool](https://github.com/js-cool/js.cool), [is-a.dev](https://github.com/is-a-dev/register), [thedev.id](https://github.com/fransallen/thedev.id), [mod.land](https://github.com/denosaurs/mod.land), [runs-on.tech](https://github.com/aakhilv/runs-on.tech)
 
 ---
 
