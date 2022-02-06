@@ -1362,6 +1362,7 @@ var cnames_active = {
   "jds": "alimanman.github.io/jds",
   "je": "netnr-json.onrender.com", // noCF
   "jelly": "hosting.gitbook.io", // noCF
+  "jembotech": "jembotech.github.io",
   "jena": "javascript-in-jena.github.io", // noCF
   "jericho-player": "sidisliveyt.github.io/Jericho-Player",
   "jericho-api": "sidisliveyt.github.io/Jericho-Api",
