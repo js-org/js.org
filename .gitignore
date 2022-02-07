@@ -1,3 +1,4 @@
 _cache
 .vscode
 package.json
+.pnpm-debug.log

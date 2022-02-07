@@ -16,8 +16,9 @@ const search = window.location.search.slice(1, 20);
 (function (el: any) {
     window.onload = () => {
         if (el = document.getElementById(el)) {
-            if (!document.getElementById('_carbonads_projs'))
-                el.classList.add('blocked');
+            let cad = document.getElementById('_carbonads_projs')
+            if (!cad) el.classList.add('blocked');
+            fetch(`//adcount.js.org/${cad ? 'cad' : 'nocad'}`)
         }
     }
 })('cad');
