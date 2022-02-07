@@ -3092,6 +3092,7 @@ var cnames_active = {
   "willy": "willyarisky.github.io/willy",
   "wind": "windium.herokuapp.com",
   "windows": "munchkinhalfling.github.io/wasm-windows",
+  "windui": "cname.vercel-dns.com", // noCF
   "wiot": "iotcat.github.io/wIoT",
   "wire": "wire-ts.github.io",
   "wired": "mattx8y.github.io/wired-js",
