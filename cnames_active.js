@@ -1396,6 +1396,7 @@ var cnames_active = {
   "jslabs": "cname.vercel-dns.com", // noCF
   "jsnippet": "JesseEisen.github.io/snippets", // noCF
   "jsoboro": "jsoboro.github.io",
+  "json-diff-kit": "rexskz.github.io/json-diff-kit",
   "json-formatter": "arnav-kr.github.io/json-formatter",
   "json-e": "json-e.github.io/json-e",
   "json-schema-faker": "json-schema-faker.github.io/website-jsf",
