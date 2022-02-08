@@ -1562,6 +1562,7 @@ var cnames_active = {
   "lillie": "lillie.shii.ro",
   "lim": "lim.netlify.app",
   "limitrr": "eddiejibson.github.io/limitrr",
+  "lin": "zac-linley.github.io/notes",
   "lineup": "lineupjs.github.io",
   "lineup-lite": "lineup-lite.netlify.app",
   "lineupengine": "lineupjs.github.io/lineupengine.js.org",
