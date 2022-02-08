@@ -2600,7 +2600,7 @@ var cnames_active = {
   "sonny": "sonnylazuardi.github.io", // noCF? (don´t add this in a new PR)
   "soofik": "soofik.github.io",
   "sop": "kuboschek.github.io/sop",
-  "sora": "tenshi-xor.github.io",
+  "sora": "tenshi-xor.github.io/sora",
   "soroush": "soroushchehresa.github.io/soroush",
   "soukai": "noeldemartin.github.io/soukai",
   "sound.vueuse": "vueuse-sound.netlify.app", // noCF
