@@ -1696,6 +1696,7 @@ var cnames_active = {
   "melies-hugo": "cristinafsanz.github.io/melies-hugo",
   "melody": "trivago.github.io/melody-web",
   "memer-api": "cname.vercel-dns.com",
+  "memoz": "60-min-code.github.io/memoz",
   "mengd": "cname.vercel-dns.com",
   "menghafalquran": "mzaini30.github.io/menghafal-quran",
   "meow": "meow-js.github.io",
@@ -3194,7 +3195,7 @@ var cnames_active = {
   "zxy": "ZXYFrank.github.io",
   "zyh": "zyh-chopper.github.io/zyh",
   "zykj": "cname.vercel-dns.com", // noCF
-  "zyy": "zyyou.github.io/notes"
+  "zyy": "zyyou.github.io/notes"  
   /*
    * please don't add your subdomain records down here!
    * insert them in alphabetical order to help reduce merge conflicts.
