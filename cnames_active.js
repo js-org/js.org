@@ -2644,7 +2644,7 @@ var cnames_active = {
   "staart": "staart.netlify.com",
   "stabs": "wnda.github.io/stabs",
   "stack-styled": "stack-styled.netlify.com",
-  "stacks": "cname.vercel-dns.com",
+  "stacks": "cname.vercel-dns.com", //noCF
   "stahlstadt": "dist1.storyblok.com",
   "stampit": "hosting.gitbook.com", // noCF
   "stampy": "stampylongr.github.io",
