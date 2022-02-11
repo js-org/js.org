@@ -2552,6 +2552,7 @@ var cnames_active = {
   "simplestate": "nlcgits.github.io/simplestate",
   "simply": "fehmi.github.io/simply",
   "simplyd": "simplyd.netlify.app",
+  "simplyapi": "simplyapi-production.up.railway.app", //noCF
   "simplyeco": "xx-mohit-xx.github.io/Simply-eco",
   "simplyxp": "simplyxp.netlify.app",
   "simulacra": "daliwali.github.io/simulacra",
