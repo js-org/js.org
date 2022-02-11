@@ -389,6 +389,7 @@ var cnames_active = {
   "brum": "romantic-noyce-67d6ee.netlify.app",
   "bs": "brawlie.github.io/bsapi.js",
   "bt": "mldonkey.github.io/bt",
+  "bud": "budjs.netlify.app",
   "bui": "kjantzer.github.io/bui",
   "bullwinkle": "bullwinkle.github.io",
   "bun": "the94air.github.io/bun",
