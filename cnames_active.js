@@ -910,6 +910,7 @@ var cnames_active = {
   "erikng": "eriknguyen.github.io",
   "ero": "mst-2.github.io/ero",
   "erpeel": "fikriks.github.io/erpeel",
+  "error-handler-e2":"miladezzat.github.io/error-handler-e2",
   "es-interview": "hylerrix.github.io/es-interview",
   "es.redux": "sergiodxa.github.io/redux-in-spanish", // noCF? (don´t add this in a new PR)
   "es.single-spa": "single-spa.github.io/es.single-spa.js.org", // noCF
