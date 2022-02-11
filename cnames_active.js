@@ -887,6 +887,7 @@ var cnames_active = {
   "emxi": "emxi.github.io",
   "emz": "emzjs.github.io",
   "enclave": "eanplatter.github.io/enclave", // noCF? (don´t add this in a new PR)
+  "encrypt-rsa": "miladezzat.github.io/encrypt-rsa",
   "endersquid": "endersquidjs.github.io",
   "endpoint-imposter": "lukaszmakuch.github.io/endpoint-imposter",
   "energy": "energychain.github.io/energy",
