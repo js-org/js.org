@@ -3104,6 +3104,7 @@ var cnames_active = {
   "wind": "windium.herokuapp.com",
   "windows": "munchkinhalfling.github.io/wasm-windows",
   "www.windui": "cname.vercel-dns.com", // noCF
+  "www.xlqu": "cname.vercel-dns.com", // noCF
   "wiot": "iotcat.github.io/wIoT",
   "wire": "wire-ts.github.io",
   "wired": "mattx8y.github.io/wired-js",
@@ -3202,6 +3203,7 @@ var cnames_active = {
   "zxy": "ZXYFrank.github.io",
   "zyh": "zyh-chopper.github.io/zyh",
   "zykj": "cname.vercel-dns.com", // noCF
+
   "zyy": "zyyou.github.io/notes"  
   /*
    * please don't add your subdomain records down here!
