@@ -1608,7 +1608,6 @@ var cnames_active = {
   "luciascript": "luciascript.netlify.app",
   "lucy": "lucy-bot.github.io",
   "luis": "xyluis.github.io",
-  "luistorres": "luistc83.github.io/luistorres",
   "lukemetoki": "luke2m.github.io",
   "lukks": "lukks.github.io/page",
   "lumi": "furioustsunami.github.io/lumijs",
@@ -2133,6 +2132,7 @@ var cnames_active = {
   "pong-zh": "xiaozhu2021.github.io/javascript-pong",
   "popcorn-api": "nirewen.github.io/popcorn-api",
   "popper": "fezvrasta.github.io/popper.js",
+  "portafolio": "LuisTC83.github.io/portafolios"
   "portafolio-web": "velazquezadrian.github.io/Portafolio-web",
   "portafolioacadeller": "acadeller.github.io/portafolioacadeller",
   "portafolioalejandrarobles": "alerobles3.github.io/portafolioalejandrarobles",
