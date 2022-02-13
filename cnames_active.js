@@ -2518,7 +2518,7 @@ var cnames_active = {
   "sharding": "infinitytmbots.github.io/discord-hybrid-sharding",
   "share": "jeff-tian.github.io/weshare",
   "sharec": "lamartire.github.io/sharec",
-  "shareon": "NickKaramoff.github.io/shareon",
+  "shareon": "shareon.kytta.codeberg.page", // noCF
   "sheet": "sheetjs.github.io/sheet.js.org",
   "shekhar": "shekharreddy4.github.io/Shekhar",
   "shell": "adaltas.github.io/node-shell",
