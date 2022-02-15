@@ -1952,6 +1952,7 @@ var cnames_active = {
   "notibar": "duyetdev.github.io/notibar.js",
   "notion": "disgroup-development.github.io/notion-sdk.js",
   "novasheets": "novasheets.netlify.app",
+  "now": "leodog896.github.io/jsnow",
   "npkill": "voidcosmos.github.io/npkill",
   "nplayer": "woopen.github.io/nplayer",
   "npmer": "rumkin.github.io/npm-watch",
