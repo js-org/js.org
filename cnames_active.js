@@ -2618,6 +2618,7 @@ var cnames_active = {
   "sound.vueuse": "vueuse-sound.netlify.app", // noCF
   "soundcloud-scraper": "soundcloud-scraper.netlify.app",
   "soundpad": "mcpe-pc.github.io/soundpad.js",
+  "sourcemod": "infinixius.github.io/sourcemod.js",
   "spa": "sucom.github.io/SPA.js",
   "spaas": "pakastin.github.io/spaas",
   "spacebot": "spacebot2.github.io",
