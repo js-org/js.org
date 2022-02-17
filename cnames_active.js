@@ -1602,6 +1602,7 @@ var cnames_active = {
   "loli": "tkzcm.github.io/loli",
   "lombok": "lombokjs.github.io",
   "loog": "israelroldan.github.io/loog",
+  "lorenadeveloper": "lorenadeveloper.github.io/Portafolio"
   "lostyle": "rtsao.github.io/lostyle",
   "lottiefy": "pd4d10.github.io/lottiefy",
   "lps": "mauris.github.io/lps.js.org",
