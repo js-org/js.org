@@ -1485,6 +1485,7 @@ var cnames_active = {
   "kokoro-player": "cool2645.github.io/kokoro-player",
   "komada": "dirigeants.github.io/komada",
   "komo": "jskull.github.io/komo",
+  "konamicmd": "code-raisan.github.io/KonamiCommandJS",
   "konsumer": "konsumer.github.io", // noCF? (don´t add this in a new PR)
   "koolclash": "sukkaw.github.io/Koolshare-Clash",
   "koot": "cmux.github.io/koot",
@@ -3210,7 +3211,7 @@ var cnames_active = {
   "zxy": "ZXYFrank.github.io",
   "zyh": "zyh-chopper.github.io/zyh",
   "zykj": "cname.vercel-dns.com", // noCF
-  "zyy": "zyyou.github.io/notes"  
+  "zyy": "zyyou.github.io/notes"
   /*
    * please don't add your subdomain records down here!
    * insert them in alphabetical order to help reduce merge conflicts.
