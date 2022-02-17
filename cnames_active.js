@@ -2010,6 +2010,7 @@ var cnames_active = {
   "oscillator": "lukehorvat.github.io/super-oscillator",
   "osom": "kikobeats.github.io/osom",
   "otimizacao": "jmmccota.github.io/Otimizacao",
+  "otp": "60-min-code.github.io/gen-totp",
   "ourcord": "ourcord.netlify.app",
   "outdoors": "mrdatastorage.github.io/outdoors.js",
   "outrite": "outrite.github.io/outrite.js.org",
