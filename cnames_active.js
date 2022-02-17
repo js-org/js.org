@@ -324,7 +324,7 @@ var cnames_active = {
   "bingus": "bingusjs.github.io",
   "bionic": "1c183932-46a9-45d7-9080-4738a7d432c7.repl.co", // noCF
   "birb": "birbjs.github.io/Documentation",
-  "biscord" : "vinzerr.github.io/biscord-website/",
+  "biscord": "vinzerr.github.io/biscord-website",
   "biu": "aprilorange.github.io/biu", // noCF? (don´t add this in a new PR)
   "blagues": "mmdeveloppement.github.io/blagues.js",
   "blego": "mattstypa.github.io/blego.js.org",
