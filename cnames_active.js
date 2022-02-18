@@ -516,6 +516,7 @@ var cnames_active = {
   "cluster-eventdispatcher": "chickendevlab.github.io/cluster-eventdispatcher",
   "clusterize": "nexts.github.io/Clusterize.js",
   "cmbhackjs2013": "cmbjs.github.io/cmbHackjs2013",
+  "cmcl":"cmcl-developing.github.io/",
   "cmdhub": "thatonetqnk.github.io/cmdhub",
   "cml": "didi.github.io/chameleon",
   "cn.history": "doodlewind.github.io/jshistory-cn", // noCF
