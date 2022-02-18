@@ -466,7 +466,7 @@ var cnames_active = {
   "cgoatone": "cgoatone.github.io",
   "chain-able": "fluents.github.io/chain-able-site",
   "chainson": "abcdan.github.io/chainson",
-  "chatapp": "7orp3do.github.io/realtime-chat-app"
+  "chatapp": "7orp3do.github.io/realtime-chat-app",
   "chameleon": "glitch.edgeapp.net",
   "chandzhang": "chandzhang.github.io",
   "charge": "charge-js.netlify.com",
@@ -2522,6 +2522,7 @@ var cnames_active = {
   "serginator": "serginator.github.io", // noCF? (don´t add this in a new PR)
   "serializer": "haircvt.github.io/serializerjs", // noCF? (don´t add this in a new PR)
   "serlina": "djyde.github.io/serlina",
+  "sern-handler" : "sern-handler.github.io/Sern",
   "service-mocker": "service-mocker.github.io/service-mocker",
   "serviceberry": "bob-gray.github.io/serviceberry",
   "sesam": "lennertderyck.github.io/sesam",
