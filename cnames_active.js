@@ -750,6 +750,7 @@ var cnames_active = {
   "discord4node": "mrsheldon.github.io/Discord4Node",
   "discordhy": "readthedocs.io",
   "discordjs-handler": "discordjs-handler.github.io/website",
+  "discordjsh": "diswumpus.github.io/discord.jsh",
   "discordlib": "hosting.gitbook.com",
   "discords": "botstudios.github.io/discords.js.org",
   "discordutility": "chaosphoe.github.io/discordutility",
