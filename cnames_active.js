@@ -541,6 +541,7 @@ var cnames_active = {
   "colombo": "cmbjs.github.io/CMBJS",
   "color": "akash-joshi.github.io/neural-color-picker",
   "color-ts": "tomas-wrobel.github.io/color-ts",
+  "colors-web": "yu-tou.github.io/colors-web",
   "coloris": "mdbassit.github.io/Coloris",
   "colorise": "mayuraitavadekar.github.io/colorise",
   "colorlab": "signalwerk.github.io/colorlab",
