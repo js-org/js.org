@@ -2402,6 +2402,7 @@ var cnames_active = {
   "risingstars2016": "michaelrambeau.github.io/risingstars2016",
   "rize": "g-plane.github.io/rize",
   "rmodal": "zewish.github.io/rmodal.js",
+  "rn-material": "rn-material-website.vercel.app",
   "roadmafia": "roadmafia.github.io",
   "roalia": "roaliia.github.io",
   "roam": "roam-cn.github.io",
