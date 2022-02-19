@@ -2785,6 +2785,7 @@ var cnames_active = {
   "taufik-nurrohman": "taufik-nurrohman.github.io",
   "tauris": "codemaster138.github.io/tauris",
   "tayyab": "itayyab.github.io",
+  "tdhandler": "hosting.gitbook.com",
   "tead": "teadjs.github.io",
   "techthinker": "tech-thinker.github.io",
   "techxuexi": "techxuexi.netlify.app",
