@@ -2026,6 +2026,7 @@ var cnames_active = {
   "outdoors": "mrdatastorage.github.io/outdoors.js",
   "outrite": "outrite.github.io/outrite.js.org",
   "overtrack": "aidant.github.io/overtrack.js",
+  "ovestack": "ovestack.github.io",
   "ovo": "ovojs.github.io/OvO",
   "oz": "openzagreb.github.io",
   "passphrase": "therootcompany.github.io/passphrase.js",
