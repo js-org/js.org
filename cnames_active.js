@@ -953,6 +953,7 @@ var cnames_active = {
   "exp": "magicops.github.io/JQuery-expression-builder",
   "expressad": "flweber.github.io/express-ad-basicauth",
   "expressdynamichelpers": "marvnet.github.io/express-dynamic-helpers-patch",
+  "exprtk": "mmomtchev.github.io/exprtk.js",
   "extenso": "theuves.github.io/extenso.js.org",
   "extraction": "rse.github.io/extraction", // noCF? (don´t add this in a new PR)
   "eye": "arguiot.github.io/EyeJS",
