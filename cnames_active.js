@@ -973,6 +973,7 @@ var cnames_active = {
   "fasteer": "fasteerjs.github.io",
   "faux": "fauxOS.github.io",
   "fcbosque": "cronopio.github.io/fcbosque", // noCF? (don´t add this in a new PR)
+  "fcircle-docs": "https://hexo-circle-of-friends-doc.vercel.app",
   "fdl": "fdljs.now.sh",
   "fe": "xcss.github.io/FE",
   "feature-u": "kevinast.github.io/feature-u",
