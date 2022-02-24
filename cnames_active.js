@@ -559,6 +559,7 @@ var cnames_active = {
   "concurrent-tasks": "hosting.gitbook.com",
   "concursos": "mteyss.github.io/concursos", // noCF? (don´t add this in a new PR)
   "conductor": "hosting.gitbook.com",
+  "confetti": "matteobruni.github.io/confetti",
   "conflict": "yodalightsabr.github.io/conflict-website",
   "conglo": "schwarzkopfb.github.io/conglo",
   "consent": "datamart.github.io/Consent",
