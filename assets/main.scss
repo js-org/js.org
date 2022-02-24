@@ -30,40 +30,7 @@ html {
 }
 
 
-body::before {
-  content: "\"Peace isn't everything, but everything's nothing without peace\" - Willi Brandt";
-  display: block;
-  width:100%;
-  z-index: -1;
-  color:#6182a8;
-  margin:-5vh auto 5vh;
-  text-align: center;
-  font-size: 1rem;
-  font-style: italic;
-  opacity: 0;
-  animation: fadeIn 1s 3s ease-out forwards;
-}
-body::after {
-  content: " ";
-  position: fixed;
-  top: 0;
-  right: 0;
-  left: 0;
-  height: 50vh;
-  z-index: -2;
-  background: #0057b8;
-  opacity: 0;
-  animation: fadeIn 1s 2s ease-out forwards;
-}
 
-@keyframes fadeIn {
-	0% {
-		opacity: 0;
-	}
-	100% {
-		opacity: 1;
-	}
-}
 
 body {
   padding: 0 5%;
