@@ -710,6 +710,7 @@ var cnames_active = {
   "devsession": "lukasbach.github.io/devsession",
   "devtr": "zmorcy.github.io/devtr.github.io",
   "dgelong": "alexeyraspopov.github.io/dgelong", // noCF? (don´t add this in a new PR)
+  "dgames": "turtlepaw.github.io/gamecord-docs"
   "dhimasanb": "dhimasanb.github.io",
   "dhruvdutt": "dhruvdutt.github.io",
   "diamond": "diamondpkg.github.io/website",
