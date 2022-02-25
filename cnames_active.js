@@ -1075,6 +1075,7 @@ var cnames_active = {
   "gal": "galmail.github.io", // noCF? (don´t add this in a new PR)
   "game-tracker": "endbug.github.io/game-tracker",
   "gamecord": "gamecord.lazyowl.repl.co", // noCF
+  "games": "turtlepaw.github.io/gamecord-docs",
   "gamedevcontestal": "fromdenisvieira.github.io/gamedevcontestal", // noCF? (don´t add this in a new PR)
   "gametime": "parking-master.github.io/Gametime.js",
   "gametracker": "officialpiyush.github.io/gametracker.js",
