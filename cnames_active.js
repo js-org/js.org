@@ -740,6 +740,7 @@ var cnames_active = {
   "discord-kommando-plugins": "team-thinkcord.github.io/discord-kommando.js-plugins",
   "discord-kr": "discordjs-kr.github.io/website",
   "discord-logs": "androz2091.github.io/discord-logs",
+  "discord-neura": "discord-neura.github.io/website",
   "discord-messages": "lebyy.github.io/discord-messages",
   "discord-moderation": "discord-moderation.github.io/website",
   "discord-music-player": "sushibtw.github.io/discord-music-player",
