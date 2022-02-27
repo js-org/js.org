@@ -1115,6 +1115,7 @@ var cnames_active = {
   "grep": "42ua.github.io/grep",
   "greylock": "datamart.github.io/Greylock",
   "gridiron": "noderaider.github.io/gridiron",
+  "gridl": "klattiation.github.io/gridl",
   "gridsplit": "assetinfo.github.io", // noCF? (don´t add this in a new PR)
   "groupme": "groupme-js.github.io/website",
   "grub": "grubburg.github.io/blog",
