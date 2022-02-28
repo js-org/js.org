@@ -2429,7 +2429,7 @@ var cnames_active = {
   "serviceberry": "bob-gray.github.io/serviceberry",
   "sesam": "lennertderyck.github.io/sesam",
   "setheum": "setheum-js.github.io",
-  "singlexyz": "sexwithyourdad.github.io",
+  "singlexyz": "singlexyz.github.io",
   "shandler": "hosting.gitbook.io", // noCF
   "sharding": "infinitytmbots.github.io/discord-hybrid-sharding",
   "share": "jeff-tian.github.io/weshare",
