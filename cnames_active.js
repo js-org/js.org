@@ -2122,6 +2122,7 @@ var cnames_active = {
   "pwa-cookbook": "sylvainpolletvillard.github.io/pwa-cookbook",
   "pwa-workshop": "sylvainpolletvillard.github.io/pwa-workshop",
   "pwapp": "nikiforov-org.github.io/pwapp",
+  "pzwboy": "pzwboy.github.io",
   "qbit": "fudan-mse.github.io/qbit",
   "qbsz": "qbsz.github.io",
   "qs": "kirjs.github.io/qs.js", // noCF? (don´t add this in a new PR)
