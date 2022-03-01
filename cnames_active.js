@@ -2846,6 +2846,7 @@ var cnames_active = {
   "use-cookie-consent": "use-cookie-consent.github.io/use-cookie-consent-docs",
   "usedapp": "crypto-meta.github.io/usedapp.js.org",
   "useful-apis": "yuu0007.github.io/useful-apis",
+  "use-github":"ultirequiem.github.io/use-github",
   "useless-machine": "pakastin.github.io/useless-machine",
   "userfetch": "userfetch.github.io",
   "usernamegen": "aryan02420.github.io/usernamegen",
