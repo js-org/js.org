@@ -944,6 +944,7 @@ var cnames_active = {
   "feeble": "feeblejs.github.io/feeble",
   "fela": "felajs.vercel.app",
   "fem": "frani.github.io/fem",
+  "FerFlorescvweb":"dev92ferflores.github.io/FerFlorescvweb",
   "festercluck": "festercluck.github.io", // noCF? (don´t add this in a new PR)
   "fetch-json": "center-key.github.io/fetch-json",
   "fetch-the-parrot": "fetch-the-parrot.netlify.app",
