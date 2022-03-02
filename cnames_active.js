@@ -1119,6 +1119,7 @@ var cnames_active = {
   "gridiron": "noderaider.github.io/gridiron",
   "gridl": "klattiation.github.io/gridl",
   "gridsplit": "assetinfo.github.io", // noCF? (don´t add this in a new PR)
+  "griffel": "microsoft.github.io/griffel",
   "groupme": "groupme-js.github.io/website",
   "grub": "grubburg.github.io/blog",
   "gruft": "nikola.github.io/gruft", // noCF? (don´t add this in a new PR)
