@@ -2961,6 +2961,7 @@ var cnames_active = {
   "watchfs": "prateekkumarweb.github.io/watchfs",
   "waterfall": "waterblock79.github.io/waterfall",
   "watermark": "fredy.github.io/watermark",
+  "watermelon": "water-moelon.vercel.app",
   "wc": "bryansha.github.io/wc",
   "wcfactory": "elmsln.github.io/wcfactory.js.org",
   "wdd": "wangduanduan.github.io",
