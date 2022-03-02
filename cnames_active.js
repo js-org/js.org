@@ -2051,6 +2051,7 @@ var cnames_active = {
   "platz": "fylipp.github.io/platz.js",
   "player": "player.netlify.com",
   "pliers": "pliersjs.github.io", // noCF? (don´t add this in a new PR)
+  "plopilpy": "plopilpy.github.io",
   "plotyxd": "plotyxd.github.io",
   "pnpm": "pnpm.netlify.app",
   "pod": "mileallen.github.io/pod",
