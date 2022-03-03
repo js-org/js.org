@@ -819,6 +819,7 @@ var cnames_active = {
   "easyht": "yellowface233.github.io/easyht-website",
   "easystart": "hosting.gitbook.io", // noCF
   "easytrivia": "Elitezen.github.io/easy-trivia-website",
+  "easytrivia-guide": "turtlepaw.github.io/trivia-docs",
   "eatery-nod-w": "kevinast.github.io/eatery-nod-w",
   "ebnsina": "ebnsina.github.io/js.ebnsina.me",
   "echo": "licshee.github.io/echo.js",
