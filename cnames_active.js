@@ -491,6 +491,7 @@ var cnames_active = {
   "clickforhelp": "clickforhelp.netlify.app",
   "clock": "mirmousaviii.github.io/clock",
   "clockwork": "clockworkdev.github.io/ClockworkWebsite",
+  "clot-liu": "clot-liu.github.io/books"
   "cluster-eventdispatcher": "chickendevlab.github.io/cluster-eventdispatcher",
   "clusterize": "nexts.github.io/Clusterize.js",
   "cmbhackjs2013": "cmbjs.github.io/cmbHackjs2013",
