@@ -2225,6 +2225,7 @@ var cnames_active = {
   "reactpatterns": "reactpatterns.github.io",
   "reactql": "leebenson.github.io/reactql-site",
   "reactsearch": "anujsharma141.github.io/reactsearch",
+  "read-from-fs": "ultirequiem.github.io/read-from-fs",
   "readcolor": "keiww.github.io/readcolorhex",
   "readit": "teebu.github.io/readit",
   "realsee": "realsee-developer.github.io",
