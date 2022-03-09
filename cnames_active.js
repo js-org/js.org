@@ -2312,6 +2312,7 @@ var cnames_active = {
   "revaluate": "hasharray.github.io/revaluate.js",
   "reviewbuku": "mzaini30.github.io/reviewbuku",
   "revolt": "revoltchat.github.io/revolt.js",
+  "revolt-api": "kaplego.github.io/revoltjs"
   "rexs": "uellenberg.github.io/REXS",
   "reyes": "michaelbreyes.github.io/reyes",
   "rgbstrip": "xrealneon.github.io/RGBStrip",
