@@ -551,6 +551,7 @@ var cnames_active = {
   "coord": "itsacorn.github.io/jscoord",
   "copyer": "tsycode.github.io/copyer.js",
   "copywriting-correct": "rikakomoe.github.io/copywriting-correct",
+  "coreutils": "ultirequiem.github.io/coreutils/",
   "cord": "lukadev-0.github.io/cord.js",
   "cordis": "cordis-lib.github.io",
   "cordova-multiplatform-template": "ckgrafico.github.io/Cordova-Multiplatform-Template", // noCF? (don´t add this in a new PR)
