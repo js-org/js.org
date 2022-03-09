@@ -2953,6 +2953,7 @@ var cnames_active = {
   "vuelidate": "vuelidate.netlify.com",
   "vuelog": "myst729.github.io/Vuelog",
   "vuikit": "vuikit.netlify.com",
+  "vulthreat": "ghost0917.github.io",
   "vxv": "vxv.netlify.com",
   "w4ctech": "w4ctech.github.io",
   "w4j1e": "w4j1e.github.io",
