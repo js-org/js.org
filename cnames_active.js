@@ -1415,6 +1415,7 @@ var cnames_active = {
   "kilobyte": "kilobytehq.github.io/open-js",
   "kilvin": "rofrischmann.github.io/kilvin",
   "kim": "khareemnurulla.github.io/kim",
+  "kimera": "ultirequiem.github.io/kimera",
   "kindavishal": "kindavishal.netlify.com",
   "kiranremmarasu": "kiranremmarasu.github.io/kiranremmarasu",
   "kite": "kite-js.github.io/kite",
