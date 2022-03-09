@@ -87,6 +87,7 @@ var cnames_active = {
   "active-resource": "nicklandgrebe.github.io/activeresource.js",
   "acyort": "acyortjs.github.io/site",
   "ada": "ada-js.netlify.com",
+  "adarsh": "itsadarsh.tech",
   "adamant": "datamart.github.io/Adamant",
   "aderemi": "aderemi.github.io",
   "adil": "adilzeshan.github.io/adil",
