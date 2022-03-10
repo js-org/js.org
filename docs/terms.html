@@ -1,170 +1,103 @@
-<!doctype html>
-<html lang="en">
-
+<!doctype html><html lang=en>
 <head>
-    
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    
-    <title>Terms of Service - JS.ORG</title>
-    
-    
-    <meta name="description" content="Dedicated to JavaScript and its awesome community since 2015">
-    
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="icon" type="image/png" href="/favicon.png" sizes="16x16">
-    <link rel="icon" type="image/png" href="/ico/favicon-32.png" sizes="32x32">
-    <link rel="icon" type="image/svg+xml" href="/ico/favicon.svg">
-    <link rel="apple-touch-icon" href="/ico/apple-touch-icon.png">
-    <link rel="manifest" href="/manifest.webmanifest">
-    <meta name="theme-color" content="#FFE70B">
-    <meta name="application-name" content="JS.ORG">
-
-    
-
-    
-
-    <link rel="preload" as="font" type="font/woff2" crossorigin href="/fnt/source-sans-pro-v14-latin-regular.woff2">
-    <link rel="preload" as="font" type="font/woff2" crossorigin href="/fnt/source-sans-pro-v14-latin-600.woff2">
-
-    
-    
-    
-    <style>@font-face{font-family:"Source Sans Pro";font-style:normal;font-display:swap;font-weight:400;src:local("Source Sans Pro Regular"),local("SourceSansPro-Regular"),url("/fnt/source-sans-pro-v14-latin-regular.woff2") format("woff2"),url("/fnt/source-sans-pro-v14-latin-regular.woff") format("woff");unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD}@font-face{font-family:"Source Sans Pro";font-style:normal;font-display:swap;font-weight:600;src:local("Source Sans Pro Bold"),local("SourceSansPro-Bold"),url("/fnt/source-sans-pro-v14-latin-600.woff2") format("woff2"),url("/fnt/source-sans-pro-v14-latin-600.woff") format("woff");unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD}html{scrollbar-color:rgba(0,0,0,0.5) rgba(0,0,0,0.7);scrollbar-width:thin;background:gold}body{padding:0 5%;font-family:"Source Sans Pro", Arial, Helvetica, sans-serif;line-height:1.5;-webkit-text-size-adjust:100%;-moz-text-size-adjust:100%;-ms-text-size-adjust:100%;text-size-adjust:100%;max-width:740px;margin:8vh auto;overflow-y:overlay}::selection{text-shadow:none;background:#000;color:gold}::-webkit-scrollbar{width:0.5em}::-webkit-scrollbar-track{background:rgba(0,0,0,0.7)}::-webkit-scrollbar-thumb{background:rgba(0,0,0,0.5)}::-webkit-scrollbar-thumb:active{background:#000}svg{fill:currentColor}p{margin-top:0.5em;line-height:1.6em}p.bigger{font-size:1.3em}h2,h3,h4{margin-top:1.5em;margin-bottom:0}a{color:currentColor;text-decoration:none;font-weight:600;text-decoration-thickness:1.4px;text-underline-offset:1px}.badge{display:inline-block;white-space:nowrap;line-height:1em;font-weight:600;overflow:hidden;background:#000}.badge span,.badge a{color:#fff;display:inline-block;padding:0.5em 0.7em 0.5em 0;z-index:1}.badge span{pointer-events:none}.badge.gray,.badge .gray{background:#666 !important}.badge.blue,.badge .blue{background:#0070F0 !important}a.badge:hover,.badge a:hover{filter:brightness(80%)}.tri,.badge :first-child{position:relative;padding-left:0.6em;padding-right:0.5em;margin-right:0.8em;background:#000}.tri:after,.badge :first-child:after{content:"";position:absolute;top:0;right:-1em;width:2em;height:2em;transform:scale(0.3, 0.707) rotate(45deg);z-index:-1;background-color:inherit}em{font-style:normal;background:#000;color:gold;padding:0.2em 0.5em;font-size:0.85em;font-weight:600;-webkit-box-decoration-break:clone;box-decoration-break:clone}em.tri:after{width:1.65em !important;height:1.65em !important;right:-.825em !important}header,footer{display:flex;flex-wrap:wrap;justify-content:space-between;margin:30px 0;clear:both}header svg{margin-right:4px}footer{font-size:0.8rem;line-height:1em}footer hr{margin:5px 0;border:none;flex-basis:100%;height:1.5px;background:#000}footer *{align-self:flex-end}.err{text-align:center;margin:2em 0}.err em{line-height:2em;font-size:2em;margin:1em 1em 1em 0.7em}.err p{margin:2em}#cad{position:relative;width:130px;margin:auto;min-height:100px;font-weight:600;display:flex;justify-content:center;flex-direction:column;line-height:1.4;background-image:repeating-linear-gradient(0deg, #000, #000 1.4em, transparent 1.4em, transparent 2.2em, #000 2.2em),repeating-linear-gradient(90deg, #000, #000 1.4em, transparent 1.4em, transparent 2.2em, #000 2.2em),repeating-linear-gradient(180deg, #000, #000 1.4em, transparent 1.4em, transparent 2.2em, #000 2.2em),repeating-linear-gradient(270deg, #000, #000 1.4em, transparent 1.4em, transparent 2.2em, #000 2.2em);background-size:4px 100%, 100% 4px, 4px 100%, 100% 4px;background-position:0 0, 0 0, 100% 0, 0 100%;background-repeat:no-repeat}#cad #cad-blocked{padding:1em;font-size:0.85em;text-align:center;display:none}#cad.blocked{opacity:0.6}#cad.blocked #cad-blocked{display:block}#cad.blocked #cad-blocked a{text-decoration:underline}#carbonads{top:0;display:flex;float:right;max-width:130px;background-color:#fff;font-size:11px;font-family:-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", Helvetica, Arial, sans-serif}#carbonads *{margin:initial;padding:initial}#carbonads a{color:#111;text-decoration:none;font-weight:500}#carbonads a:hover{color:#111}#carbonads .carbon-img{display:block;margin-bottom:8px;max-width:130px;line-height:1}#carbonads .carbon-img img{display:block;margin:0 auto;max-width:130px;width:130px;height:auto}#carbonads .carbon-text{display:block;padding:0 10px 8px;text-align:left;line-height:1.35}#carbonads .carbon-poweredby{display:block;padding:10px;background:repeating-linear-gradient(-45deg, transparent, transparent 5px, rgba(0,0,0,0.025) 5px, rgba(0,0,0,0.025) 10px) rgba(241,243,244,0.4);text-transform:uppercase;letter-spacing:0.5px;font-weight:600;font-size:8px;line-height:0}#oc{display:none;margin-right:3px}@media only screen and (min-width: 400px){#oc{display:inline-block}}@media only screen and (min-width: 530px){.err{margin:3em 0 4em}.err em{min-width:330px;font-size:3em}.err p{margin:3em}#cad{width:330px;height:100px;background-image:repeating-linear-gradient(0deg, #000, #000 1.4em, transparent 1.4em, transparent 2.4em, #000 2.4em), repeating-linear-gradient(90deg, #000, #000 1.4em, transparent 1.4em, transparent 2.4em, #000 2.4em), repeating-linear-gradient(180deg, #000, #000 1.4em, transparent 1.4em, transparent 2.4em, #000 2.4em), repeating-linear-gradient(270deg, #000, #000 1.4em, transparent 1.4em, transparent 2.4em, #000 2.4em);background-size:4px 100%, 100% 4px, 4px 100%, 100% 4px}#carbonads{max-width:330px}#carbonads .carbon-wrap{display:flex;flex-direction:row}#carbonads .carbon-img{margin:0}#carbonads .carbon-text{padding:10px 10px 0 10px;font-size:12px}#carbonads .carbon-poweredby{position:absolute;right:0;bottom:0;border-radius:0;border-top-left-radius:3px;text-align:center}}
-</style>
-    
-
-    
-
-    
+<meta charset=utf-8>
+<meta http-equiv=x-ua-compatible content="IE=edge">
+<title>Terms of Service - JS.ORG</title>
+<meta name=description content="Dedicated to JavaScript and its awesome community since 2015">
+<meta name=viewport content="width=device-width,initial-scale=1">
+<link rel=icon type=image/png href=/favicon.png sizes=16x16>
+<link rel=icon type=image/png href=/ico/favicon-32.png sizes=32x32>
+<link rel=icon type=image/svg+xml href=/ico/favicon.svg>
+<link rel=apple-touch-icon href=/ico/apple-touch-icon.png>
+<link rel=manifest href=/manifest.webmanifest>
+<meta name=theme-color content="#FFE70B">
+<meta name=application-name content="JS.ORG">
+<link rel=preload as=font type=font/woff2 crossorigin href=/fnt/source-sans-pro-v14-latin-regular.woff2>
+<link rel=preload as=font type=font/woff2 crossorigin href=/fnt/source-sans-pro-v14-latin-600.woff2>
+<style>@font-face{font-family:source sans pro;font-style:normal;font-display:swap;font-weight:400;src:local("Source Sans Pro Regular"),local("SourceSansPro-Regular"),url(/fnt/source-sans-pro-v14-latin-regular.woff2)format("woff2"),url(/fnt/source-sans-pro-v14-latin-regular.woff)format("woff");unicode-range:U+??,U+131,U+152-153,U+2BB-2BC,U+2C6,U+2DA,U+2DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}@font-face{font-family:source sans pro;font-style:normal;font-display:swap;font-weight:600;src:local("Source Sans Pro Bold"),local("SourceSansPro-Bold"),url(/fnt/source-sans-pro-v14-latin-600.woff2)format("woff2"),url(/fnt/source-sans-pro-v14-latin-600.woff)format("woff");unicode-range:U+??,U+131,U+152-153,U+2BB-2BC,U+2C6,U+2DA,U+2DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}html{scrollbar-color:rgba(0,0,0,.5)rgba(0,0,0,.7);scrollbar-width:thin;background:gold}body{padding:0 5%;font-family:source sans pro,Arial,Helvetica,sans-serif;line-height:1.5;-webkit-text-size-adjust:100%;-moz-text-size-adjust:100%;-ms-text-size-adjust:100%;text-size-adjust:100%;max-width:740px;margin:8vh auto;overflow-y:overlay}::selection{text-shadow:none;background:#000;color:gold}::-webkit-scrollbar{width:.5em}::-webkit-scrollbar-track{background:rgba(0,0,0,.7)}::-webkit-scrollbar-thumb{background:rgba(0,0,0,.5)}::-webkit-scrollbar-thumb:active{background:#000}svg{fill:currentColor}p{margin-top:.5em;line-height:1.6em}p.bigger{font-size:1.3em}h2,h3,h4{margin-top:1.5em;margin-bottom:0}a{color:currentColor;text-decoration:none;font-weight:600;text-decoration-thickness:1.4px;text-underline-offset:1px}.badge{display:inline-block;white-space:nowrap;line-height:1em;font-weight:600;overflow:hidden;background:#000}.badge span,.badge a{color:#fff;display:inline-block;padding:.5em .7em .5em 0;z-index:1}.badge span{pointer-events:none}.badge.gray,.badge .gray{background:#666!important}.badge.blue,.badge .blue{background:#0070f0!important}a.badge:hover,.badge a:hover{filter:brightness(80%)}.tri,.badge :first-child{position:relative;padding-left:.6em;padding-right:.5em;margin-right:.8em;background:#000}.tri:after,.badge :first-child:after{content:"";position:absolute;top:0;right:-1em;width:2em;height:2em;transform:scale(.3,.707)rotate(45deg);z-index:-1;background-color:inherit}em{font-style:normal;background:#000;color:gold;padding:.2em .5em;font-size:.85em;font-weight:600;-webkit-box-decoration-break:clone;box-decoration-break:clone}em.tri:after{width:1.65em!important;height:1.65em!important;right:-.825em!important}header,footer{display:flex;flex-wrap:wrap;justify-content:space-between;margin:30px 0;clear:both}header svg{margin-right:4px}footer{font-size:.8rem;line-height:1em}footer hr{margin:5px 0;border:none;flex-basis:100%;height:1.5px;background:#000}footer *{align-self:flex-end}.err{text-align:center;margin:2em 0}.err em{line-height:2em;font-size:2em;margin:1em 1em 1em .7em}.err p{margin:2em}#cad{position:relative;width:130px;margin:auto;min-height:100px;font-weight:600;display:flex;justify-content:center;flex-direction:column;line-height:1.4;background-image:repeating-linear-gradient(0,#000,#000 1.4em,transparent 1.4em,transparent 2.2em,#000 2.2em),repeating-linear-gradient(90deg,#000,#000 1.4em,transparent 1.4em,transparent 2.2em,#000 2.2em),repeating-linear-gradient(180deg,#000,#000 1.4em,transparent 1.4em,transparent 2.2em,#000 2.2em),repeating-linear-gradient(270deg,#000,#000 1.4em,transparent 1.4em,transparent 2.2em,#000 2.2em);background-size:4px 100%,100% 4px,4px 100%,100% 4px;background-position:0 0,0 0,100% 0,0 100%;background-repeat:no-repeat}#cad #cad-blocked{padding:1em;font-size:.85em;text-align:center;display:none}#cad.blocked{opacity:.6}#cad.blocked #cad-blocked{display:block}#cad.blocked #cad-blocked a{text-decoration:underline}#carbonads{top:0;display:flex;float:right;max-width:130px;background-color:#fff;font-size:11px;font-family:-apple-system,BlinkMacSystemFont,segoe ui,Roboto,Oxygen-Sans,Ubuntu,Cantarell,helvetica neue,Helvetica,Arial,sans-serif}#carbonads *{margin:initial;padding:initial}#carbonads a{color:#111;text-decoration:none;font-weight:500}#carbonads a:hover{color:#111}#carbonads .carbon-img{display:block;margin-bottom:8px;max-width:130px;line-height:1}#carbonads .carbon-img img{display:block;margin:0 auto;max-width:130px;width:130px;height:auto}#carbonads .carbon-text{display:block;padding:0 10px 8px;text-align:left;line-height:1.35}#carbonads .carbon-poweredby{display:block;padding:10px;background:repeating-linear-gradient(-45deg,transparent,transparent 5px,rgba(0,0,0,.025) 5px,rgba(0,0,0,.025) 10px)rgba(241,243,244,.4);text-transform:uppercase;letter-spacing:.5px;font-weight:600;font-size:8px;line-height:0}#oc{display:none;margin-right:3px}@media only screen and (min-width:400px){#oc{display:inline-block}}@media only screen and (min-width:530px){.err{margin:3em 0 4em}.err em{min-width:330px;font-size:3em}.err p{margin:3em}#cad{width:330px;height:100px;background-image:repeating-linear-gradient(0,#000,#000 1.4em,transparent 1.4em,transparent 2.4em,#000 2.4em),repeating-linear-gradient(90deg,#000,#000 1.4em,transparent 1.4em,transparent 2.4em,#000 2.4em),repeating-linear-gradient(180deg,#000,#000 1.4em,transparent 1.4em,transparent 2.4em,#000 2.4em),repeating-linear-gradient(270deg,#000,#000 1.4em,transparent 1.4em,transparent 2.4em,#000 2.4em);background-size:4px 100%,100% 4px,4px 100%,100% 4px}#carbonads{max-width:330px}#carbonads .carbon-wrap{display:flex;flex-direction:row}#carbonads .carbon-img{margin:0}#carbonads .carbon-text{padding:10px 10px 0;font-size:12px}#carbonads .carbon-poweredby{position:absolute;right:0;bottom:0;border-radius:0;border-top-left-radius:3px;text-align:center}}</style>
 </head>
-
 <body>
-    <header>
-        
-            <a href="/" aria-label="JS.ORG">
-                
-                <svg xmlns="http://www.w3.org/2000/svg" width="204px" height="100px">
-                    <path id="logoJS"
-                        d="M0 0v100h100V0H0zm55 74.5C55 83 50.6 90 40.8 90c-6.7 0-11.2-2.6-14.3-8l6.8-5c1.6 3 3.9 4.4 6.2 4.4 3.6 0 5.5-1.8 5.5-7.7V45h10v29.5zM75.8 90c-5.8 0-11.9-2.2-16.4-6.4l5.7-6.8c3.2 2.7 7.3 4.6 11 4.6 4.2 0 6.2-1.6 6.2-4.3 0-2.8-2.5-3.7-6.4-5.3L70 69.4c-4.6-1.8-8.9-5.6-8.9-12.1 0-7.3 6.5-13.1 15.8-13.1 5.1 0 10.5 2 14.3 5.8l-5.1 6.3c-2.9-2.2-5.6-3.5-9.2-3.5-3.5 0-5.6 1.5-5.6 4 0 2.7 2.9 3.7 6.7 5.2l5.7 2.3c5.4 2.2 8.8 5.8 8.8 12 0 7.3-6.1 13.7-16.7 13.7z" />
-                    <path
-                        d="M115.8 75.1c0-8.8 5-13.8 12.2-13.8 7.3 0 12.2 5.1 12.2 13.8 0 8.8-5 14.1-12.2 14.1-7.3 0-12.2-5.3-12.2-14.1zm18.2 0c0-5.4-2.3-8.6-6-8.6s-6 3.2-6 8.6 2.3 8.8 6 8.8c3.7.1 6-3.4 6-8.8zm25.8 13.7l-5.2-9.7h-3.3v9.7h-6.1v-27h9.7c5.7 0 10.4 2 10.4 8.4 0 4-1.9 6.5-4.8 7.8l6.1 10.8h-6.8zm-8.5-14.6h3.1c3.2 0 4.9-1.4 4.9-4s-1.7-3.5-4.9-3.5h-3.1v7.5zm18.1 1.2c0-8.9 6-14.1 13.1-14.1a11.78 11.78 0 0 1 8.5 3.5l-3.2 3.9c-1.4-1.2-2.8-2.1-5.1-2.1-4.2 0-7.1 3.3-7.1 8.7 0 5.5 2.5 8.7 7.6 8.7 1.1 0 2.2-.3 2.9-.8v-4.6h-4.5v-5h9.8V86c-1.9 1.8-5.1 3.3-8.9 3.3-7.3-.1-13.1-4.8-13.1-13.9zM199 5v90h-90V5h90m5-5H104v100h100V0z" />
-                    <defs>
-                        <path id="logoORG"
-                            d="M11.6 129.1c0-8.8 5-13.8 12.2-13.8 7.3 0 12.2 5.1 12.2 13.8 0 8.8-5 14.1-12.2 14.1-7.3 0-12.2-5.3-12.2-14.1zm18.2-.5c0-5.4-2.3-8.6-6-8.6s-6 3.2-6 8.6 2.3 8.8 6 8.8 6-3.4 6-8.8zm25.9 14.2l-5.2-9.7h-3.3v9.7h-6.1v-26.9h9.7c5.7 0 10.4 2 10.4 8.4 0 4-1.9 6.5-4.8 7.8l6.1 10.8h-6.8zm-8.6-15.2h3.1c3.2 0 4.9-1.4 4.9-4s-1.7-3.5-4.9-3.5h-3.1v7.5zm18.1 1.8c0-8.9 6-14.1 13.1-14.1a11.78 11.78 0 0 1 8.5 3.5l-3.2 3.9c-1.4-1.2-2.8-2.1-5.1-2.1-4.2 0-7.1 3.3-7.1 8.7 0 5.5 2.5 8.7 7.6 8.7 1.1 0 2.2-.3 2.9-.8v-4.6h-4.5v-5h9.8V140c-1.9 1.8-5.1 3.3-8.9 3.3-7.3-.1-13.1-4.8-13.1-13.9zM95 109v40H5v-40h90m5-5H0v50h100v-50z" />
-                    </defs>
-                </svg>
-                
-        </a>
-        
-
-        <div>
-
-            
-        </div>
-    </header>
-    <main>
-        <h1>Terms and Conditions of <strong>JS.ORG</strong></h1>
-
-<h2 id="§1">§ 1 Principles</h2>
-<ol> 
-    <li>JS.ORG is a free service provided by the owner of JS.ORG as stated in the imprint. The service will be only called "JS.ORG". All services are incumbent upon these terms and conditions.</li> 
-    <li>JS.ORG accompanies and extends the service "GitHub Pages" provided by GitHub, Inc ("GitHub"). JS.ORG provides free subdomains underneath the domain "js.org" to be used as a custom URL for a GitHub Page.</li> 
-    <li>The Terms of the GitHub service and all rights of GitHub, Inc remain unaffected by the terms of JS.ORG.</li> 
-    <li>Communication between JS.ORG and the user will take place on GitHub in the form of issues, pull requests or comments.</li> 
-    <li>By submitting a pull request in the GitHub repo that accompanies and hosts JS.ORG with the wish to add a record to the list of domains, the user attends the JS.ORG service and accepts the terms and conditions as the sole basis of all services provided by JS.ORG.</li>
+<header>
+<a href=/ aria-label=JS.ORG><svg xmlns="http://www.w3.org/2000/svg" width="204" height="100"><path id="logoJS" d="M0 0v1e2h1e2V0H0zm55 74.5C55 83 50.6 90 40.8 90c-6.7.0-11.2-2.6-14.3-8l6.8-5c1.6 3 3.9 4.4 6.2 4.4 3.6.0 5.5-1.8 5.5-7.7V45h10v29.5zM75.8 90c-5.8.0-11.9-2.2-16.4-6.4l5.7-6.8c3.2 2.7 7.3 4.6 11 4.6 4.2.0 6.2-1.6 6.2-4.3.0-2.8-2.5-3.7-6.4-5.3L70 69.4c-4.6-1.8-8.9-5.6-8.9-12.1.0-7.3 6.5-13.1 15.8-13.1 5.1.0 10.5 2 14.3 5.8l-5.1 6.3c-2.9-2.2-5.6-3.5-9.2-3.5-3.5.0-5.6 1.5-5.6 4 0 2.7 2.9 3.7 6.7 5.2l5.7 2.3c5.4 2.2 8.8 5.8 8.8 12 0 7.3-6.1 13.7-16.7 13.7z"/><path d="M115.8 75.1c0-8.8 5-13.8 12.2-13.8 7.3.0 12.2 5.1 12.2 13.8.0 8.8-5 14.1-12.2 14.1-7.3.0-12.2-5.3-12.2-14.1zm18.2.0c0-5.4-2.3-8.6-6-8.6s-6 3.2-6 8.6 2.3 8.8 6 8.8c3.7.1 6-3.4 6-8.8zm25.8 13.7-5.2-9.7h-3.3v9.7h-6.1v-27h9.7c5.7.0 10.4 2 10.4 8.4.0 4-1.9 6.5-4.8 7.8l6.1 10.8h-6.8zm-8.5-14.6h3.1c3.2.0 4.9-1.4 4.9-4s-1.7-3.5-4.9-3.5h-3.1v7.5zm18.1 1.2c0-8.9 6-14.1 13.1-14.1a11.78 11.78.0 018.5 3.5l-3.2 3.9c-1.4-1.2-2.8-2.1-5.1-2.1-4.2.0-7.1 3.3-7.1 8.7.0 5.5 2.5 8.7 7.6 8.7 1.1.0 2.2-.3 2.9-.8v-4.6h-4.5v-5h9.8V86c-1.9 1.8-5.1 3.3-8.9 3.3-7.3-.1-13.1-4.8-13.1-13.9zM199 5v90h-90V5h90m5-5H104v1e2h1e2V0z"/><defs><path id="logoORG" d="M11.6 129.1c0-8.8 5-13.8 12.2-13.8 7.3.0 12.2 5.1 12.2 13.8.0 8.8-5 14.1-12.2 14.1-7.3.0-12.2-5.3-12.2-14.1zm18.2-.5c0-5.4-2.3-8.6-6-8.6s-6 3.2-6 8.6 2.3 8.8 6 8.8 6-3.4 6-8.8zm25.9 14.2-5.2-9.7h-3.3v9.7h-6.1v-26.9h9.7c5.7.0 10.4 2 10.4 8.4.0 4-1.9 6.5-4.8 7.8l6.1 10.8h-6.8zm-8.6-15.2h3.1c3.2.0 4.9-1.4 4.9-4s-1.7-3.5-4.9-3.5h-3.1v7.5zm18.1 1.8c0-8.9 6-14.1 13.1-14.1a11.78 11.78.0 018.5 3.5l-3.2 3.9c-1.4-1.2-2.8-2.1-5.1-2.1-4.2.0-7.1 3.3-7.1 8.7.0 5.5 2.5 8.7 7.6 8.7 1.1.0 2.2-.3 2.9-.8v-4.6h-4.5v-5h9.8V140c-1.9 1.8-5.1 3.3-8.9 3.3-7.3-.1-13.1-4.8-13.1-13.9zM95 109v40H5v-40h90m5-5H0v50h1e2v-50z"/></defs></svg>
+</a>
+<div>
+</div>
+</header>
+<main>
+<h1>Terms and Conditions of <strong>JS.ORG</strong></h1>
+<h2 id=§1>§ 1 Principles</h2>
+<ol>
+<li>JS.ORG is a free service provided by the owner of JS.ORG as stated in the imprint. The service will be only called "JS.ORG". All services are incumbent upon these terms and conditions.</li>
+<li>JS.ORG accompanies and extends the service "GitHub Pages" provided by GitHub, Inc ("GitHub"). JS.ORG provides free subdomains underneath the domain "js.org" to be used as a custom URL for a GitHub Page.</li>
+<li>The Terms of the GitHub service and all rights of GitHub, Inc remain unaffected by the terms of JS.ORG.</li>
+<li>Communication between JS.ORG and the user will take place on GitHub in the form of issues, pull requests or comments.</li>
+<li>By submitting a pull request in the GitHub repo that accompanies and hosts JS.ORG with the wish to add a record to the list of domains, the user attends the JS.ORG service and accepts the terms and conditions as the sole basis of all services provided by JS.ORG.</li>
 </ol>
-
-<h2 id="§2">§ 2 Availability and reservations</h2>
+<h2 id=§2>§ 2 Availability and reservations</h2>
 <p>JS.ORG aims to ensure the constant availability of the subdomain service. A right on constant availability does not exist. All services in connection with this free service will be provided on a voluntary basis. The user acquires no ownership or other rights to single services, the registered subdomains and the whole service.</p>
 <p>If the user violates the terms, JS.ORG is entitled to exclude the user from the service without notice subjected to damages and other claims. JS.ORG is entitled to terminate or modify the service at any time without notice and without explanation. In that case the user of JS.ORG will be informed timely, at least 7 days in advance by JS.ORG. The relevant information about the impending use and deletion is shown simultaneously to the concerned users.</p>
-
-<h2 id="§3">§ 3 Termination</h2>
-<ol> 
-    <li>Both sides can terminate at any time without stating any reasons.</li> 
-    <li>The user cancels the service by removing the CNAME file in their repository and making a pull request in the repository of JS.ORG with the wish to remove their subdomain from the list of active JS.ORG domains.</li> 
-    <li>JS.ORG may also terminate the provision of a certain or all subdomains. Concerned users will be notified at least 7 days in advance by an issue in their GitHub repository</li>
+<h2 id=§3>§ 3 Termination</h2>
+<ol>
+<li>Both sides can terminate at any time without stating any reasons.</li>
+<li>The user cancels the service by removing the CNAME file in their repository and making a pull request in the repository of JS.ORG with the wish to remove their subdomain from the list of active JS.ORG domains.</li>
+<li>JS.ORG may also terminate the provision of a certain or all subdomains. Concerned users will be notified at least 7 days in advance by an issue in their GitHub repository</li>
 </ol>
-
-<h2 id="§4">§ 4 Rights and Duties of the user</h2>
+<h2 id=§4>§ 4 Rights and Duties of the user</h2>
 <p>A transfer of a GitHub Page together with its JS.ORG subdomain is allowed as long as the new users accepts these terms and conditions, in particular § 2 of the terms (no property right). The user receives a non-exclusive right from JS.ORG to use the service. The use permit expires with cancellation of the conctractual agreement.</p>
 <p>The user is fully responsible for the content provided by its GitHub Page, and is also responsible to extricate JS.ORG from all third party claims. The user warrants not to transmit any material that violates the rights of others or violates statutory provisions.</p>
-<p id="§4-list">In particular providing content like the following is prohibited:</p>
+<p id=§4-list>In particular providing content like the following is prohibited:</p>
 <ul>
-    <li id="§4-1">Piracy (warez, videos, MP3s, DVDs, software, etc.)</li>
-    <li id="§4-2">Phishing, scam, malware, viruses</li>
-    <li id="§4-3">Copyright offense</li>
-    <li id="§4-4">Dubious business models (eg, pyramid schemes, chain letters, etc.)</li>
-    <li id="§4-5">Content that is unlawful, obscene, threatening, abusive, libelous, or scandalous</li>
-    <li id="§4-6">Content which led to committing criminal acts or acts that undermine the civil order, or otherwise contrary to national or international laws</li>
-    <li id="§4-7">Pornography or content intended for adults only</li>
-    <li id="§4-8">Unsecured Web 2.0 platforms (eg. no captcha protection in forums, blogs, guest books)</li>
-    <li id="§4-9">File or Image hosting</li>
-    <li id="§4-10">Sites with other illegal content</li>
+<li id=§4-1>Piracy (warez, videos, MP3s, DVDs, software, etc.)</li>
+<li id=§4-2>Phishing, scam, malware, viruses</li>
+<li id=§4-3>Copyright offense</li>
+<li id=§4-4>Dubious business models (eg, pyramid schemes, chain letters, etc.)</li>
+<li id=§4-5>Content that is unlawful, obscene, threatening, abusive, libelous, or scandalous</li>
+<li id=§4-6>Content which led to committing criminal acts or acts that undermine the civil order, or otherwise contrary to national or international laws</li>
+<li id=§4-7>Pornography or content intended for adults only</li>
+<li id=§4-8>Unsecured Web 2.0 platforms (eg. no captcha protection in forums, blogs, guest books)</li>
+<li id=§4-9>File or Image hosting</li>
+<li id=§4-10>Sites with other illegal content</li>
 </ul>
 <p>A violation of these rules will result in immediate deletion of the JS.ORG domain.</p>
 <p>The user is obliged to publish legals on his website which contains at least the full name, mailing address and an e-mail adress.</p>
-
-<h2 id="§5">§ 5 Limitation of Liability</h2>
-<ul> 
-    <li>In principle JS.ORG takes no responsability for the support. The use of the provided services of JS.ORG takes place at your own risk. This refers in particular to the functionality, availability and freedom from viruses of the provided services as well as damage caused by the use of programs, program components and scripts/applets. The user is obliged to create local copies of all his data at JS.ORG for security reasons and regularly to secure all stored data. JS.ORG indicates that JS.ORG is a free service and does not create data backups for the users. </li> 
-    <li>The user is liable for any use of the service performed by his GitHub user account. Legal representatives are liable for minors. The user therefore has to ensure that his access can not be misused by third parties.</li> 
-    <li>JS.ORG provides the service without any express or implied warranties. JS.ORG is not liable for inadvertent disclosure, damage or loss of transmitted, received or stored data from JS.ORG. The user expressly acknowledges that these terms also effect third party supplies.</li> 
-    <li>For the purposed service usage as described above JS.ORG solely assume the liability for the injury to life, limb and health, and other damages caused by gross neglect of duty on JS.ORG</li> 
-    <li>A liability of JS.ORG for slight negligence exists only for breach of an essential contractual obligation</li> 
-    <li>A liability of JS.ORG for further damages, in particular consequential damages, indirect damages or lost profits is excluded.</li> 
-    <li>A liability for malfunctions or failure as well as unauthorized access from outside the sphere of influence of JS.ORG is only in the context of intent and gross negligence.</li>
+<h2 id=§5>§ 5 Limitation of Liability</h2>
+<ul>
+<li>In principle JS.ORG takes no responsability for the support. The use of the provided services of JS.ORG takes place at your own risk. This refers in particular to the functionality, availability and freedom from viruses of the provided services as well as damage caused by the use of programs, program components and scripts/applets. The user is obliged to create local copies of all his data at JS.ORG for security reasons and regularly to secure all stored data. JS.ORG indicates that JS.ORG is a free service and does not create data backups for the users. </li>
+<li>The user is liable for any use of the service performed by his GitHub user account. Legal representatives are liable for minors. The user therefore has to ensure that his access can not be misused by third parties.</li>
+<li>JS.ORG provides the service without any express or implied warranties. JS.ORG is not liable for inadvertent disclosure, damage or loss of transmitted, received or stored data from JS.ORG. The user expressly acknowledges that these terms also effect third party supplies.</li>
+<li>For the purposed service usage as described above JS.ORG solely assume the liability for the injury to life, limb and health, and other damages caused by gross neglect of duty on JS.ORG</li>
+<li>A liability of JS.ORG for slight negligence exists only for breach of an essential contractual obligation</li>
+<li>A liability of JS.ORG for further damages, in particular consequential damages, indirect damages or lost profits is excluded.</li>
+<li>A liability for malfunctions or failure as well as unauthorized access from outside the sphere of influence of JS.ORG is only in the context of intent and gross negligence.</li>
 </ul>
-
-<h2 id="§6">§ 6 Name of the subdomain</h2>
+<h2 id=§6>§ 6 Name of the subdomain</h2>
 <p>Each user can select the names of subdomains in accordance to the URL provided by the GitHub Pages service and with respect to a public available list of restricted names published in the JS.ORG repository. It is sole responsibility of the user to consider whether the name is contrary to statutory provisions, third party rights (including trade marks or registered rights), or morality. If this is the case, the registration of the subdomain is to be omitted. The same applies to subdomains, whose name is misleading, or suspect websites which are excluded of the participation in the service because of their content according to § 4.</p>
-
-<h2 id="§7">§ 7 Absolute ban of spam</h2>
+<h2 id=§7>§ 7 Absolute ban of spam</h2>
 <p>References to domains registered at JS.ORG in unsolicited commercial e-mail or similar media (spam) are not allowed. The mass registering of domains for the purpose of irritation to the users of search engines are also considered spam and are also inadmissible.</p>
-
-<h2 id="§8">§ 8 Manipulation</h2>
+<h2 id=§8>§ 8 Manipulation</h2>
 <p>It is prohibited to auto retrieve masses of JS.ORG subdomains.</p>
-
-<h2 id="§9">§ 9 Responsibility</h2>
+<h2 id=§9>§ 9 Responsibility</h2>
 <p>JS.ORG is not responsible for the names of subdomains or the content of external websites that are registered as link destinations of subdomains, or otherwise linked to this service.</p>
-
-<h2 id="§10">§ 10 Place of jurisdiction</h2>
+<h2 id=§10>§ 10 Place of jurisdiction</h2>
 <p>Service provision and the usage of the service according to these terms and conditions is exclusively subject to the application of the law of the Federal Republic of Germany. Application of conflict of laws of private international law is expressly excluded.</p>
 <p>The place of jurisdiction for JS.ORG is Munich, the residence of the owner of JS.ORG as stated in the legals.</p>
 <p>For disputes with users who are defined as contractors after §14 BGB, Munich is agreed as place of jurisdiction. For users who do not have general jurisdiction and no resident in Germany at the time of the commencement of proceedings, Munich will be the place of jurisdiction.</p>
 <p>For users, who are consumers within the meaning. § 13 BGB, the general jurisdiction of the domicile will remain in Munich.</p>
-
-<h2 id="§11">§ 11 Change of Terms</h2>
+<h2 id=§11>§ 11 Change of Terms</h2>
 <p>JS.ORG reserves the right to make changes to the Terms of Service. The user will be informed by JS.ORG of the changes through a notice in the readme section of the JS.ORG repository.</p>
-
-<h2 id="§12">§ 12 Severability clause</h2>
+<h2 id=§12>§ 12 Severability clause</h2>
 <p>If single clauses of these terms and conditions are fully or partially invalid or void, respectively will be, so otherwise the validity of these terms and conditions remains untouched.</p>
-    </main>
-    <footer>
-
-        
-        <div class="badge">
-            <span>Last Update</span><span>May 20, 2018</span>
-        </div>
-        
-
-        
-            <a href="/" aria-label="JS.ORG">
-                
-                <svg xmlns="http://www.w3.org/2000/svg" width="93px" height="30px">
-                    <use xlink:href="#logoJS" transform="scale(.3)" />
-                    <use xlink:href="#logoORG" transform="scale(.6) translate(53.6 -104)" />
-                </svg>
-                
-        </a>
-        
-        <hr>
-        <span>WEBDESIGN: <a title="Werbeagentur Ansbach Webdesign" rel="noreferrer noopener" target="_blank"
-                href="https://www.20zweinull.de/">20zweinull</a></span>
-        <div><a href="/privacy.html" title="Privacy">Privacy</a> ▪ <a href="/imprint.html" title="Imprint">Imprint</a>
-        </div>
-    </footer>
-    
+</main>
+<footer>
+<div class=badge>
+<span>Last Update</span><span>May 20, 2018</span>
+</div>
+<a href=/ aria-label=JS.ORG><svg xmlns="http://www.w3.org/2000/svg" width="93" height="30"><use xlink:href="#logoJS" transform="scale(.3)"/><use xlink:href="#logoORG" transform="scale(.6) translate(53.6 -104)"/></svg>
+</a>
+<hr>
+<span>WEBDESIGN: <a title="Werbeagentur Ansbach Webdesign" rel="noreferrer noopener" target=_blank href=https://www.20zweinull.de/>20zweinull</a></span>
+<div><a href=/privacy.html title=Privacy>Privacy</a> ▪ <a href=/imprint.html title=Imprint>Imprint</a>
+</div>
+</footer>
 </body>
-
 </html>

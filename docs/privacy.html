@@ -1,351 +1,287 @@
-<!doctype html>
-<html lang="en">
-
+<!doctype html><html lang=en>
 <head>
-    
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    
-    <title>Privacy - JS.ORG</title>
-    
-    
-    <meta name="description" content="Dedicated to JavaScript and its awesome community since 2015">
-    
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="icon" type="image/png" href="/favicon.png" sizes="16x16">
-    <link rel="icon" type="image/png" href="/ico/favicon-32.png" sizes="32x32">
-    <link rel="icon" type="image/svg+xml" href="/ico/favicon.svg">
-    <link rel="apple-touch-icon" href="/ico/apple-touch-icon.png">
-    <link rel="manifest" href="/manifest.webmanifest">
-    <meta name="theme-color" content="#FFE70B">
-    <meta name="application-name" content="JS.ORG">
-
-    
-
-    
-
-    <link rel="preload" as="font" type="font/woff2" crossorigin href="/fnt/source-sans-pro-v14-latin-regular.woff2">
-    <link rel="preload" as="font" type="font/woff2" crossorigin href="/fnt/source-sans-pro-v14-latin-600.woff2">
-
-    
-    
-    
-    <style>@font-face{font-family:"Source Sans Pro";font-style:normal;font-display:swap;font-weight:400;src:local("Source Sans Pro Regular"),local("SourceSansPro-Regular"),url("/fnt/source-sans-pro-v14-latin-regular.woff2") format("woff2"),url("/fnt/source-sans-pro-v14-latin-regular.woff") format("woff");unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD}@font-face{font-family:"Source Sans Pro";font-style:normal;font-display:swap;font-weight:600;src:local("Source Sans Pro Bold"),local("SourceSansPro-Bold"),url("/fnt/source-sans-pro-v14-latin-600.woff2") format("woff2"),url("/fnt/source-sans-pro-v14-latin-600.woff") format("woff");unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD}html{scrollbar-color:rgba(0,0,0,0.5) rgba(0,0,0,0.7);scrollbar-width:thin;background:gold}body{padding:0 5%;font-family:"Source Sans Pro", Arial, Helvetica, sans-serif;line-height:1.5;-webkit-text-size-adjust:100%;-moz-text-size-adjust:100%;-ms-text-size-adjust:100%;text-size-adjust:100%;max-width:740px;margin:8vh auto;overflow-y:overlay}::selection{text-shadow:none;background:#000;color:gold}::-webkit-scrollbar{width:0.5em}::-webkit-scrollbar-track{background:rgba(0,0,0,0.7)}::-webkit-scrollbar-thumb{background:rgba(0,0,0,0.5)}::-webkit-scrollbar-thumb:active{background:#000}svg{fill:currentColor}p{margin-top:0.5em;line-height:1.6em}p.bigger{font-size:1.3em}h2,h3,h4{margin-top:1.5em;margin-bottom:0}a{color:currentColor;text-decoration:none;font-weight:600;text-decoration-thickness:1.4px;text-underline-offset:1px}.badge{display:inline-block;white-space:nowrap;line-height:1em;font-weight:600;overflow:hidden;background:#000}.badge span,.badge a{color:#fff;display:inline-block;padding:0.5em 0.7em 0.5em 0;z-index:1}.badge span{pointer-events:none}.badge.gray,.badge .gray{background:#666 !important}.badge.blue,.badge .blue{background:#0070F0 !important}a.badge:hover,.badge a:hover{filter:brightness(80%)}.tri,.badge :first-child{position:relative;padding-left:0.6em;padding-right:0.5em;margin-right:0.8em;background:#000}.tri:after,.badge :first-child:after{content:"";position:absolute;top:0;right:-1em;width:2em;height:2em;transform:scale(0.3, 0.707) rotate(45deg);z-index:-1;background-color:inherit}em{font-style:normal;background:#000;color:gold;padding:0.2em 0.5em;font-size:0.85em;font-weight:600;-webkit-box-decoration-break:clone;box-decoration-break:clone}em.tri:after{width:1.65em !important;height:1.65em !important;right:-.825em !important}header,footer{display:flex;flex-wrap:wrap;justify-content:space-between;margin:30px 0;clear:both}header svg{margin-right:4px}footer{font-size:0.8rem;line-height:1em}footer hr{margin:5px 0;border:none;flex-basis:100%;height:1.5px;background:#000}footer *{align-self:flex-end}.err{text-align:center;margin:2em 0}.err em{line-height:2em;font-size:2em;margin:1em 1em 1em 0.7em}.err p{margin:2em}#cad{position:relative;width:130px;margin:auto;min-height:100px;font-weight:600;display:flex;justify-content:center;flex-direction:column;line-height:1.4;background-image:repeating-linear-gradient(0deg, #000, #000 1.4em, transparent 1.4em, transparent 2.2em, #000 2.2em),repeating-linear-gradient(90deg, #000, #000 1.4em, transparent 1.4em, transparent 2.2em, #000 2.2em),repeating-linear-gradient(180deg, #000, #000 1.4em, transparent 1.4em, transparent 2.2em, #000 2.2em),repeating-linear-gradient(270deg, #000, #000 1.4em, transparent 1.4em, transparent 2.2em, #000 2.2em);background-size:4px 100%, 100% 4px, 4px 100%, 100% 4px;background-position:0 0, 0 0, 100% 0, 0 100%;background-repeat:no-repeat}#cad #cad-blocked{padding:1em;font-size:0.85em;text-align:center;display:none}#cad.blocked{opacity:0.6}#cad.blocked #cad-blocked{display:block}#cad.blocked #cad-blocked a{text-decoration:underline}#carbonads{top:0;display:flex;float:right;max-width:130px;background-color:#fff;font-size:11px;font-family:-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", Helvetica, Arial, sans-serif}#carbonads *{margin:initial;padding:initial}#carbonads a{color:#111;text-decoration:none;font-weight:500}#carbonads a:hover{color:#111}#carbonads .carbon-img{display:block;margin-bottom:8px;max-width:130px;line-height:1}#carbonads .carbon-img img{display:block;margin:0 auto;max-width:130px;width:130px;height:auto}#carbonads .carbon-text{display:block;padding:0 10px 8px;text-align:left;line-height:1.35}#carbonads .carbon-poweredby{display:block;padding:10px;background:repeating-linear-gradient(-45deg, transparent, transparent 5px, rgba(0,0,0,0.025) 5px, rgba(0,0,0,0.025) 10px) rgba(241,243,244,0.4);text-transform:uppercase;letter-spacing:0.5px;font-weight:600;font-size:8px;line-height:0}#oc{display:none;margin-right:3px}@media only screen and (min-width: 400px){#oc{display:inline-block}}@media only screen and (min-width: 530px){.err{margin:3em 0 4em}.err em{min-width:330px;font-size:3em}.err p{margin:3em}#cad{width:330px;height:100px;background-image:repeating-linear-gradient(0deg, #000, #000 1.4em, transparent 1.4em, transparent 2.4em, #000 2.4em), repeating-linear-gradient(90deg, #000, #000 1.4em, transparent 1.4em, transparent 2.4em, #000 2.4em), repeating-linear-gradient(180deg, #000, #000 1.4em, transparent 1.4em, transparent 2.4em, #000 2.4em), repeating-linear-gradient(270deg, #000, #000 1.4em, transparent 1.4em, transparent 2.4em, #000 2.4em);background-size:4px 100%, 100% 4px, 4px 100%, 100% 4px}#carbonads{max-width:330px}#carbonads .carbon-wrap{display:flex;flex-direction:row}#carbonads .carbon-img{margin:0}#carbonads .carbon-text{padding:10px 10px 0 10px;font-size:12px}#carbonads .carbon-poweredby{position:absolute;right:0;bottom:0;border-radius:0;border-top-left-radius:3px;text-align:center}}
-</style>
-    
-
-    
-
-    
+<meta charset=utf-8>
+<meta http-equiv=x-ua-compatible content="IE=edge">
+<title>Privacy - JS.ORG</title>
+<meta name=description content="Dedicated to JavaScript and its awesome community since 2015">
+<meta name=viewport content="width=device-width,initial-scale=1">
+<link rel=icon type=image/png href=/favicon.png sizes=16x16>
+<link rel=icon type=image/png href=/ico/favicon-32.png sizes=32x32>
+<link rel=icon type=image/svg+xml href=/ico/favicon.svg>
+<link rel=apple-touch-icon href=/ico/apple-touch-icon.png>
+<link rel=manifest href=/manifest.webmanifest>
+<meta name=theme-color content="#FFE70B">
+<meta name=application-name content="JS.ORG">
+<link rel=preload as=font type=font/woff2 crossorigin href=/fnt/source-sans-pro-v14-latin-regular.woff2>
+<link rel=preload as=font type=font/woff2 crossorigin href=/fnt/source-sans-pro-v14-latin-600.woff2>
+<style>@font-face{font-family:source sans pro;font-style:normal;font-display:swap;font-weight:400;src:local("Source Sans Pro Regular"),local("SourceSansPro-Regular"),url(/fnt/source-sans-pro-v14-latin-regular.woff2)format("woff2"),url(/fnt/source-sans-pro-v14-latin-regular.woff)format("woff");unicode-range:U+??,U+131,U+152-153,U+2BB-2BC,U+2C6,U+2DA,U+2DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}@font-face{font-family:source sans pro;font-style:normal;font-display:swap;font-weight:600;src:local("Source Sans Pro Bold"),local("SourceSansPro-Bold"),url(/fnt/source-sans-pro-v14-latin-600.woff2)format("woff2"),url(/fnt/source-sans-pro-v14-latin-600.woff)format("woff");unicode-range:U+??,U+131,U+152-153,U+2BB-2BC,U+2C6,U+2DA,U+2DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}html{scrollbar-color:rgba(0,0,0,.5)rgba(0,0,0,.7);scrollbar-width:thin;background:gold}body{padding:0 5%;font-family:source sans pro,Arial,Helvetica,sans-serif;line-height:1.5;-webkit-text-size-adjust:100%;-moz-text-size-adjust:100%;-ms-text-size-adjust:100%;text-size-adjust:100%;max-width:740px;margin:8vh auto;overflow-y:overlay}::selection{text-shadow:none;background:#000;color:gold}::-webkit-scrollbar{width:.5em}::-webkit-scrollbar-track{background:rgba(0,0,0,.7)}::-webkit-scrollbar-thumb{background:rgba(0,0,0,.5)}::-webkit-scrollbar-thumb:active{background:#000}svg{fill:currentColor}p{margin-top:.5em;line-height:1.6em}p.bigger{font-size:1.3em}h2,h3,h4{margin-top:1.5em;margin-bottom:0}a{color:currentColor;text-decoration:none;font-weight:600;text-decoration-thickness:1.4px;text-underline-offset:1px}.badge{display:inline-block;white-space:nowrap;line-height:1em;font-weight:600;overflow:hidden;background:#000}.badge span,.badge a{color:#fff;display:inline-block;padding:.5em .7em .5em 0;z-index:1}.badge span{pointer-events:none}.badge.gray,.badge .gray{background:#666!important}.badge.blue,.badge .blue{background:#0070f0!important}a.badge:hover,.badge a:hover{filter:brightness(80%)}.tri,.badge :first-child{position:relative;padding-left:.6em;padding-right:.5em;margin-right:.8em;background:#000}.tri:after,.badge :first-child:after{content:"";position:absolute;top:0;right:-1em;width:2em;height:2em;transform:scale(.3,.707)rotate(45deg);z-index:-1;background-color:inherit}em{font-style:normal;background:#000;color:gold;padding:.2em .5em;font-size:.85em;font-weight:600;-webkit-box-decoration-break:clone;box-decoration-break:clone}em.tri:after{width:1.65em!important;height:1.65em!important;right:-.825em!important}header,footer{display:flex;flex-wrap:wrap;justify-content:space-between;margin:30px 0;clear:both}header svg{margin-right:4px}footer{font-size:.8rem;line-height:1em}footer hr{margin:5px 0;border:none;flex-basis:100%;height:1.5px;background:#000}footer *{align-self:flex-end}.err{text-align:center;margin:2em 0}.err em{line-height:2em;font-size:2em;margin:1em 1em 1em .7em}.err p{margin:2em}#cad{position:relative;width:130px;margin:auto;min-height:100px;font-weight:600;display:flex;justify-content:center;flex-direction:column;line-height:1.4;background-image:repeating-linear-gradient(0,#000,#000 1.4em,transparent 1.4em,transparent 2.2em,#000 2.2em),repeating-linear-gradient(90deg,#000,#000 1.4em,transparent 1.4em,transparent 2.2em,#000 2.2em),repeating-linear-gradient(180deg,#000,#000 1.4em,transparent 1.4em,transparent 2.2em,#000 2.2em),repeating-linear-gradient(270deg,#000,#000 1.4em,transparent 1.4em,transparent 2.2em,#000 2.2em);background-size:4px 100%,100% 4px,4px 100%,100% 4px;background-position:0 0,0 0,100% 0,0 100%;background-repeat:no-repeat}#cad #cad-blocked{padding:1em;font-size:.85em;text-align:center;display:none}#cad.blocked{opacity:.6}#cad.blocked #cad-blocked{display:block}#cad.blocked #cad-blocked a{text-decoration:underline}#carbonads{top:0;display:flex;float:right;max-width:130px;background-color:#fff;font-size:11px;font-family:-apple-system,BlinkMacSystemFont,segoe ui,Roboto,Oxygen-Sans,Ubuntu,Cantarell,helvetica neue,Helvetica,Arial,sans-serif}#carbonads *{margin:initial;padding:initial}#carbonads a{color:#111;text-decoration:none;font-weight:500}#carbonads a:hover{color:#111}#carbonads .carbon-img{display:block;margin-bottom:8px;max-width:130px;line-height:1}#carbonads .carbon-img img{display:block;margin:0 auto;max-width:130px;width:130px;height:auto}#carbonads .carbon-text{display:block;padding:0 10px 8px;text-align:left;line-height:1.35}#carbonads .carbon-poweredby{display:block;padding:10px;background:repeating-linear-gradient(-45deg,transparent,transparent 5px,rgba(0,0,0,.025) 5px,rgba(0,0,0,.025) 10px)rgba(241,243,244,.4);text-transform:uppercase;letter-spacing:.5px;font-weight:600;font-size:8px;line-height:0}#oc{display:none;margin-right:3px}@media only screen and (min-width:400px){#oc{display:inline-block}}@media only screen and (min-width:530px){.err{margin:3em 0 4em}.err em{min-width:330px;font-size:3em}.err p{margin:3em}#cad{width:330px;height:100px;background-image:repeating-linear-gradient(0,#000,#000 1.4em,transparent 1.4em,transparent 2.4em,#000 2.4em),repeating-linear-gradient(90deg,#000,#000 1.4em,transparent 1.4em,transparent 2.4em,#000 2.4em),repeating-linear-gradient(180deg,#000,#000 1.4em,transparent 1.4em,transparent 2.4em,#000 2.4em),repeating-linear-gradient(270deg,#000,#000 1.4em,transparent 1.4em,transparent 2.4em,#000 2.4em);background-size:4px 100%,100% 4px,4px 100%,100% 4px}#carbonads{max-width:330px}#carbonads .carbon-wrap{display:flex;flex-direction:row}#carbonads .carbon-img{margin:0}#carbonads .carbon-text{padding:10px 10px 0;font-size:12px}#carbonads .carbon-poweredby{position:absolute;right:0;bottom:0;border-radius:0;border-top-left-radius:3px;text-align:center}}</style>
 </head>
-
 <body>
-    <header>
-        
-            <a href="/" aria-label="JS.ORG">
-                
-                <svg xmlns="http://www.w3.org/2000/svg" width="204px" height="100px">
-                    <path id="logoJS"
-                        d="M0 0v100h100V0H0zm55 74.5C55 83 50.6 90 40.8 90c-6.7 0-11.2-2.6-14.3-8l6.8-5c1.6 3 3.9 4.4 6.2 4.4 3.6 0 5.5-1.8 5.5-7.7V45h10v29.5zM75.8 90c-5.8 0-11.9-2.2-16.4-6.4l5.7-6.8c3.2 2.7 7.3 4.6 11 4.6 4.2 0 6.2-1.6 6.2-4.3 0-2.8-2.5-3.7-6.4-5.3L70 69.4c-4.6-1.8-8.9-5.6-8.9-12.1 0-7.3 6.5-13.1 15.8-13.1 5.1 0 10.5 2 14.3 5.8l-5.1 6.3c-2.9-2.2-5.6-3.5-9.2-3.5-3.5 0-5.6 1.5-5.6 4 0 2.7 2.9 3.7 6.7 5.2l5.7 2.3c5.4 2.2 8.8 5.8 8.8 12 0 7.3-6.1 13.7-16.7 13.7z" />
-                    <path
-                        d="M115.8 75.1c0-8.8 5-13.8 12.2-13.8 7.3 0 12.2 5.1 12.2 13.8 0 8.8-5 14.1-12.2 14.1-7.3 0-12.2-5.3-12.2-14.1zm18.2 0c0-5.4-2.3-8.6-6-8.6s-6 3.2-6 8.6 2.3 8.8 6 8.8c3.7.1 6-3.4 6-8.8zm25.8 13.7l-5.2-9.7h-3.3v9.7h-6.1v-27h9.7c5.7 0 10.4 2 10.4 8.4 0 4-1.9 6.5-4.8 7.8l6.1 10.8h-6.8zm-8.5-14.6h3.1c3.2 0 4.9-1.4 4.9-4s-1.7-3.5-4.9-3.5h-3.1v7.5zm18.1 1.2c0-8.9 6-14.1 13.1-14.1a11.78 11.78 0 0 1 8.5 3.5l-3.2 3.9c-1.4-1.2-2.8-2.1-5.1-2.1-4.2 0-7.1 3.3-7.1 8.7 0 5.5 2.5 8.7 7.6 8.7 1.1 0 2.2-.3 2.9-.8v-4.6h-4.5v-5h9.8V86c-1.9 1.8-5.1 3.3-8.9 3.3-7.3-.1-13.1-4.8-13.1-13.9zM199 5v90h-90V5h90m5-5H104v100h100V0z" />
-                    <defs>
-                        <path id="logoORG"
-                            d="M11.6 129.1c0-8.8 5-13.8 12.2-13.8 7.3 0 12.2 5.1 12.2 13.8 0 8.8-5 14.1-12.2 14.1-7.3 0-12.2-5.3-12.2-14.1zm18.2-.5c0-5.4-2.3-8.6-6-8.6s-6 3.2-6 8.6 2.3 8.8 6 8.8 6-3.4 6-8.8zm25.9 14.2l-5.2-9.7h-3.3v9.7h-6.1v-26.9h9.7c5.7 0 10.4 2 10.4 8.4 0 4-1.9 6.5-4.8 7.8l6.1 10.8h-6.8zm-8.6-15.2h3.1c3.2 0 4.9-1.4 4.9-4s-1.7-3.5-4.9-3.5h-3.1v7.5zm18.1 1.8c0-8.9 6-14.1 13.1-14.1a11.78 11.78 0 0 1 8.5 3.5l-3.2 3.9c-1.4-1.2-2.8-2.1-5.1-2.1-4.2 0-7.1 3.3-7.1 8.7 0 5.5 2.5 8.7 7.6 8.7 1.1 0 2.2-.3 2.9-.8v-4.6h-4.5v-5h9.8V140c-1.9 1.8-5.1 3.3-8.9 3.3-7.3-.1-13.1-4.8-13.1-13.9zM95 109v40H5v-40h90m5-5H0v50h100v-50z" />
-                    </defs>
-                </svg>
-                
-        </a>
-        
-
-        <div>
-
-            
-        </div>
-    </header>
-    <main>
-        <h1>Privacy Policy of <strong>JS.ORG</strong></h1>
+<header>
+<a href=/ aria-label=JS.ORG><svg xmlns="http://www.w3.org/2000/svg" width="204" height="100"><path id="logoJS" d="M0 0v1e2h1e2V0H0zm55 74.5C55 83 50.6 90 40.8 90c-6.7.0-11.2-2.6-14.3-8l6.8-5c1.6 3 3.9 4.4 6.2 4.4 3.6.0 5.5-1.8 5.5-7.7V45h10v29.5zM75.8 90c-5.8.0-11.9-2.2-16.4-6.4l5.7-6.8c3.2 2.7 7.3 4.6 11 4.6 4.2.0 6.2-1.6 6.2-4.3.0-2.8-2.5-3.7-6.4-5.3L70 69.4c-4.6-1.8-8.9-5.6-8.9-12.1.0-7.3 6.5-13.1 15.8-13.1 5.1.0 10.5 2 14.3 5.8l-5.1 6.3c-2.9-2.2-5.6-3.5-9.2-3.5-3.5.0-5.6 1.5-5.6 4 0 2.7 2.9 3.7 6.7 5.2l5.7 2.3c5.4 2.2 8.8 5.8 8.8 12 0 7.3-6.1 13.7-16.7 13.7z"/><path d="M115.8 75.1c0-8.8 5-13.8 12.2-13.8 7.3.0 12.2 5.1 12.2 13.8.0 8.8-5 14.1-12.2 14.1-7.3.0-12.2-5.3-12.2-14.1zm18.2.0c0-5.4-2.3-8.6-6-8.6s-6 3.2-6 8.6 2.3 8.8 6 8.8c3.7.1 6-3.4 6-8.8zm25.8 13.7-5.2-9.7h-3.3v9.7h-6.1v-27h9.7c5.7.0 10.4 2 10.4 8.4.0 4-1.9 6.5-4.8 7.8l6.1 10.8h-6.8zm-8.5-14.6h3.1c3.2.0 4.9-1.4 4.9-4s-1.7-3.5-4.9-3.5h-3.1v7.5zm18.1 1.2c0-8.9 6-14.1 13.1-14.1a11.78 11.78.0 018.5 3.5l-3.2 3.9c-1.4-1.2-2.8-2.1-5.1-2.1-4.2.0-7.1 3.3-7.1 8.7.0 5.5 2.5 8.7 7.6 8.7 1.1.0 2.2-.3 2.9-.8v-4.6h-4.5v-5h9.8V86c-1.9 1.8-5.1 3.3-8.9 3.3-7.3-.1-13.1-4.8-13.1-13.9zM199 5v90h-90V5h90m5-5H104v1e2h1e2V0z"/><defs><path id="logoORG" d="M11.6 129.1c0-8.8 5-13.8 12.2-13.8 7.3.0 12.2 5.1 12.2 13.8.0 8.8-5 14.1-12.2 14.1-7.3.0-12.2-5.3-12.2-14.1zm18.2-.5c0-5.4-2.3-8.6-6-8.6s-6 3.2-6 8.6 2.3 8.8 6 8.8 6-3.4 6-8.8zm25.9 14.2-5.2-9.7h-3.3v9.7h-6.1v-26.9h9.7c5.7.0 10.4 2 10.4 8.4.0 4-1.9 6.5-4.8 7.8l6.1 10.8h-6.8zm-8.6-15.2h3.1c3.2.0 4.9-1.4 4.9-4s-1.7-3.5-4.9-3.5h-3.1v7.5zm18.1 1.8c0-8.9 6-14.1 13.1-14.1a11.78 11.78.0 018.5 3.5l-3.2 3.9c-1.4-1.2-2.8-2.1-5.1-2.1-4.2.0-7.1 3.3-7.1 8.7.0 5.5 2.5 8.7 7.6 8.7 1.1.0 2.2-.3 2.9-.8v-4.6h-4.5v-5h9.8V140c-1.9 1.8-5.1 3.3-8.9 3.3-7.3-.1-13.1-4.8-13.1-13.9zM95 109v40H5v-40h90m5-5H0v50h1e2v-50z"/></defs></svg>
+</a>
+<div>
+</div>
+</header>
+<main>
+<h1>Privacy Policy of <strong>JS.ORG</strong></h1>
 <p>JS.ORG collects some Personal Data from its Users.</p>
-<h2 id="owner_of_the_data"> Owner / Contact</h2>
-<p>Stefan Keim <br />Dorfstraße 1A <br />86947 Schwabhausen/Weil <br />Germany</p>
+<h2 id=owner_of_the_data> Owner / Contact</h2>
+<p>Stefan Keim <br>Dorfstraße 1A <br>86947 Schwabhausen/Weil <br>Germany</p>
 <p>
-    <b>Owner contact email adress:</b> admin@js.org<br />
-    <b>Owner contact phone number:</b> +49-1764-2080100
+<b>Owner contact email adress:</b> admin@js.org<br>
+<b>Owner contact phone number:</b> +49-1764-2080100
 </p>
-<h2 id="types_of_data"> Types of Data collected </h2>
+<h2 id=types_of_data> Types of Data collected </h2>
 <p> Among the types of Personal Data that JS.ORG collects, by itself or through third parties, there are: Usage Data;
-    Tracker. </p>
+Tracker. </p>
 <p>Complete details on each type of Personal Data collected are provided in the dedicated sections of this privacy
-    policy or by specific explanation texts displayed prior to the Data collection.<br />Personal Data may be freely
-    provided by the User, or, in case of Usage Data, collected automatically when using JS.ORG.<br />Unless specified
-    otherwise, all Data requested by JS.ORG is mandatory and failure to provide this Data may make it impossible for
-    JS.ORG to provide its services. In cases where JS.ORG specifically states that some Data is not mandatory, Users are
-    free not to communicate this Data without consequences to the availability or the functioning of the
-    Service.<br />Users who are uncertain about which Personal Data is mandatory are welcome to contact the
-    Owner.<br />Any use of Cookies – or of other tracking tools – by JS.ORG or by the owners of third-party services
-    used by JS.ORG serves the purpose of providing the Service required by the User, in addition to any other purposes
-    described in the present document and in the Cookie Policy, if available.</p>
+policy or by specific explanation texts displayed prior to the Data collection.<br>Personal Data may be freely
+provided by the User, or, in case of Usage Data, collected automatically when using JS.ORG.<br>Unless specified
+otherwise, all Data requested by JS.ORG is mandatory and failure to provide this Data may make it impossible for
+JS.ORG to provide its services. In cases where JS.ORG specifically states that some Data is not mandatory, Users are
+free not to communicate this Data without consequences to the availability or the functioning of the
+Service.<br>Users who are uncertain about which Personal Data is mandatory are welcome to contact the
+Owner.<br>Any use of Cookies – or of other tracking tools – by JS.ORG or by the owners of third-party services
+used by JS.ORG serves the purpose of providing the Service required by the User, in addition to any other purposes
+described in the present document and in the Cookie Policy, if available.</p>
 <p>Users are responsible for any third-party Personal Data obtained, published or shared through JS.ORG and confirm that
-    they have the third party's consent to provide the Data to the Owner.</p>
-<h2 id="place_of_processing">Mode and place of processing the Data</h2>
+they have the third party's consent to provide the Data to the Owner.</p>
+<h2 id=place_of_processing>Mode and place of processing the Data</h2>
 <h3>Methods of processing</h3>
 <p>The Owner takes appropriate security measures to prevent unauthorized access, disclosure, modification, or
-    unauthorized destruction of the Data.<br />The Data processing is carried out using computers and/or IT enabled
-    tools, following organizational procedures and modes strictly related to the purposes indicated. In addition to the
-    Owner, in some cases, the Data may be accessible to certain types of persons in charge, involved with the operation
-    of JS.ORG (administration, sales, marketing, legal, system administration) or external parties (such as third-party
-    technical service providers, mail carriers, hosting providers, IT companies, communications agencies) appointed, if
-    necessary, as Data Processors by the Owner. The updated list of these parties may be requested from the Owner at any
-    time.</p>
+unauthorized destruction of the Data.<br>The Data processing is carried out using computers and/or IT enabled
+tools, following organizational procedures and modes strictly related to the purposes indicated. In addition to the
+Owner, in some cases, the Data may be accessible to certain types of persons in charge, involved with the operation
+of JS.ORG (administration, sales, marketing, legal, system administration) or external parties (such as third-party
+technical service providers, mail carriers, hosting providers, IT companies, communications agencies) appointed, if
+necessary, as Data Processors by the Owner. The updated list of these parties may be requested from the Owner at any
+time.</p>
 <h3>Legal basis of processing</h3>
 <p>The Owner may process Personal Data relating to Users if one of the following applies:</p>
 <ul>
-    <li>Users have given their consent for one or more specific purposes. Note: Under some legislations the Owner may be
-        allowed to process Personal Data until the User objects to such processing (“opt-out”), without having to rely
-        on consent or any other of the following legal bases. This, however, does not apply, whenever the processing of
-        Personal Data is subject to European data protection law;</li>
-    <li>provision of Data is necessary for the performance of an agreement with the User and/or for any pre-contractual
-        obligations thereof;</li>
-    <li>processing is necessary for compliance with a legal obligation to which the Owner is subject;</li>
-    <li>processing is related to a task that is carried out in the public interest or in the exercise of official
-        authority vested in the Owner;</li>
-    <li>processing is necessary for the purposes of the legitimate interests pursued by the Owner or by a third party.
-    </li>
+<li>Users have given their consent for one or more specific purposes. Note: Under some legislations the Owner may be
+allowed to process Personal Data until the User objects to such processing (“opt-out”), without having to rely
+on consent or any other of the following legal bases. This, however, does not apply, whenever the processing of
+Personal Data is subject to European data protection law;</li>
+<li>provision of Data is necessary for the performance of an agreement with the User and/or for any pre-contractual
+obligations thereof;</li>
+<li>processing is necessary for compliance with a legal obligation to which the Owner is subject;</li>
+<li>processing is related to a task that is carried out in the public interest or in the exercise of official
+authority vested in the Owner;</li>
+<li>processing is necessary for the purposes of the legitimate interests pursued by the Owner or by a third party.
+</li>
 </ul>
 <p>In any case, the Owner will gladly help to clarify the specific legal basis that applies to the processing, and in
-    particular whether the provision of Personal Data is a statutory or contractual requirement, or a requirement
-    necessary to enter into a contract. </p>
+particular whether the provision of Personal Data is a statutory or contractual requirement, or a requirement
+necessary to enter into a contract. </p>
 <h3>Place</h3>
 <p>The Data is processed at the Owner's operating offices and in any other places where the parties involved in the
-    processing are located.<br /><br /> Depending on the User's location, data transfers may involve transferring the
-    User's Data to a country other than their own. To find out more about the place of processing of such transferred
-    Data, Users can check the section containing details about the processing of Personal Data.</p>
+processing are located.<br><br> Depending on the User's location, data transfers may involve transferring the
+User's Data to a country other than their own. To find out more about the place of processing of such transferred
+Data, Users can check the section containing details about the processing of Personal Data.</p>
 <p>Users are also entitled to learn about the legal basis of Data transfers to a country outside the European Union or
-    to any international organization governed by public international law or set up by two or more countries, such as
-    the UN, and about the security measures taken by the Owner to safeguard their Data.<br /><br /> If any such transfer
-    takes place, Users can find out more by checking the relevant sections of this document or inquire with the Owner
-    using the information provided in the contact section.</p>
+to any international organization governed by public international law or set up by two or more countries, such as
+the UN, and about the security measures taken by the Owner to safeguard their Data.<br><br> If any such transfer
+takes place, Users can find out more by checking the relevant sections of this document or inquire with the Owner
+using the information provided in the contact section.</p>
 <h3>Retention time</h3>
 <p>Personal Data shall be processed and stored for as long as required by the purpose they have been collected for.</p>
 <p>Therefore:</p>
 <ul>
-    <li>Personal Data collected for purposes related to the performance of a contract between the Owner and the User
-        shall be retained until such contract has been fully performed.</li>
-    <li>Personal Data collected for the purposes of the Owner’s legitimate interests shall be retained as long as needed
-        to fulfill such purposes. Users may find specific information regarding the legitimate interests pursued by the
-        Owner within the relevant sections of this document or by contacting the Owner.</li>
+<li>Personal Data collected for purposes related to the performance of a contract between the Owner and the User
+shall be retained until such contract has been fully performed.</li>
+<li>Personal Data collected for the purposes of the Owner’s legitimate interests shall be retained as long as needed
+to fulfill such purposes. Users may find specific information regarding the legitimate interests pursued by the
+Owner within the relevant sections of this document or by contacting the Owner.</li>
 </ul>
 <p>The Owner may be allowed to retain Personal Data for a longer period whenever the User has given consent to such
-    processing, as long as such consent is not withdrawn. Furthermore, the Owner may be obliged to retain Personal Data
-    for a longer period whenever required to do so for the performance of a legal obligation or upon order of an
-    authority.<br /><br /> Once the retention period expires, Personal Data shall be deleted. Therefore, the right of
-    access, the right to erasure, the right to rectification and the right to data portability cannot be enforced after
-    expiration of the retention period.</p>
-<h2 id="use_collected_data">The purposes of processing</h2>
+processing, as long as such consent is not withdrawn. Furthermore, the Owner may be obliged to retain Personal Data
+for a longer period whenever required to do so for the performance of a legal obligation or upon order of an
+authority.<br><br> Once the retention period expires, Personal Data shall be deleted. Therefore, the right of
+access, the right to erasure, the right to rectification and the right to data portability cannot be enforced after
+expiration of the retention period.</p>
+<h2 id=use_collected_data>The purposes of processing</h2>
 <p> The Data concerning the User is collected to allow the Owner to provide its Service, comply with its legal
-    obligations, respond to enforcement requests, protect its rights and interests (or those of its Users or third
-    parties), detect any malicious or fraudulent activity, as well as the following: Hosting and backend infrastructure,
-    Traffic optimization and distribution, Displaying content from external platforms and Advertising. </p>
+obligations, respond to enforcement requests, protect its rights and interests (or those of its Users or third
+parties), detect any malicious or fraudulent activity, as well as the following: Hosting and backend infrastructure,
+Traffic optimization and distribution, Displaying content from external platforms and Advertising. </p>
 <p>For specific information about the Personal Data used for each purpose, the User may refer to the section “Detailed
-    information on the processing of Personal Data”.</p>
-<div data-locale="en"></div>
-<h2 id="data_processing_detailed_info">Detailed information on the processing of Personal Data</h2>
+information on the processing of Personal Data”.</p>
+<div data-locale=en></div>
+<h2 id=data_processing_detailed_info>Detailed information on the processing of Personal Data</h2>
 <p>Personal Data is collected for the following purposes and using the following services:</p>
 <h3>Advertising</h3>
 <p>This type of service allows User Data to be utilized for advertising communication purposes. These communications are
-    displayed in the form of banners and other advertisements on JS.ORG, possibly based on User interests.<br /> This
-    does not mean that all Personal Data are used for this purpose. Information and conditions of use are shown below.
-    <br /> Some of the services listed below may use Trackers to identify Users or they may use the behavioral
-    retargeting technique, i.e. displaying ads tailored to the User’s interests and behavior, including those detected
-    outside JS.ORG. For more information, please check the privacy policies of the relevant services.<br /> Services of
-    this kind usually offer the possibility to opt out of such tracking. In addition to any opt-out feature offered by
-    any of the services below, Users may learn more on how to generally opt out of interest-based advertising within the
-    dedicated section "How to opt-out of interest-based advertising" in this document.</p>
+displayed in the form of banners and other advertisements on JS.ORG, possibly based on User interests.<br> This
+does not mean that all Personal Data are used for this purpose. Information and conditions of use are shown below.
+<br> Some of the services listed below may use Trackers to identify Users or they may use the behavioral
+retargeting technique, i.e. displaying ads tailored to the User’s interests and behavior, including those detected
+outside JS.ORG. For more information, please check the privacy policies of the relevant services.<br> Services of
+this kind usually offer the possibility to opt out of such tracking. In addition to any opt-out feature offered by
+any of the services below, Users may learn more on how to generally opt out of interest-based advertising within the
+dedicated section "How to opt-out of interest-based advertising" in this document.</p>
 <h4>Carbon Ads (BuySellAds.com Inc.)</h4>
 <p>Carbon Ads is an advertising service provided BuySellAds.com Inc.</p>
 <p>Personal Data processed: Tracker; Usage Data.</p>
-<p>Place of processing: United States &ndash; <a
-        href="https://www.buysellads.com/about/privacy?__hstc=194719090.209d2d0efcd7c95a674eaa2f39bb001d.1615826940169.1615826940169.1615826940169.1&__hssc=194719090.1.1615826940169&__hsfp=4053646362"
-        target="_blank" rel="noopener noreferrer">Privacy Policy</a>. </p>
+<p>Place of processing: United States &ndash; <a href="https://www.buysellads.com/about/privacy?__hstc=194719090.209d2d0efcd7c95a674eaa2f39bb001d.1615826940169.1615826940169.1615826940169.1&__hssc=194719090.1.1615826940169&__hsfp=4053646362" target=_blank rel="noopener noreferrer">Privacy Policy</a>. </p>
 <h3>Displaying content from external platforms</h3>
 <p>This type of service allows you to view content hosted on external platforms directly from the pages of JS.ORG and
-    interact with them.<br /> This type of service might still collect web traffic data for the pages where the service
-    is installed, even when Users do not use it.</p>
+interact with them.<br> This type of service might still collect web traffic data for the pages where the service
+is installed, even when Users do not use it.</p>
 <h4>GitHub button and social widgets (GitHub Inc.)</h4>
 <p>The GitHub button and social widgets are services allowing interaction with the GitHub and Gist services provided by
-    GitHub, Inc.</p>
+GitHub, Inc.</p>
 <p>Personal Data processed: Usage Data.</p>
-<p>Place of processing: United States &ndash; <a href="https://help.github.com/en/articles/github-privacy-statement"
-        target="_blank" rel="noopener noreferrer">Privacy Policy</a>. </p>
+<p>Place of processing: United States &ndash; <a href=https://help.github.com/en/articles/github-privacy-statement target=_blank rel="noopener noreferrer">Privacy Policy</a>. </p>
 <h3>Hosting and backend infrastructure</h3>
 <p>This type of service has the purpose of hosting Data and files that enable JS.ORG to run and be distributed as well
-    as to provide a ready-made infrastructure to run specific features or parts of JS.ORG. Some of these services work
-    through geographically distributed servers, making it difficult to determine the actual location where the Personal
-    Data are stored.</p>
+as to provide a ready-made infrastructure to run specific features or parts of JS.ORG. Some of these services work
+through geographically distributed servers, making it difficult to determine the actual location where the Personal
+Data are stored.</p>
 <h4>GitHub Pages (GitHub Inc.)</h4>
 <p>GitHub Pages is a hosting service provided by GitHub, Inc.</p>
 <p>Personal Data processed: various types of Data as specified in the privacy policy of the service.</p>
-<p>Place of processing: United States &ndash; <a href="https://help.github.com/articles/github-privacy-policy"
-        target="_blank" rel="noopener noreferrer">Privacy Policy</a>. </p>
+<p>Place of processing: United States &ndash; <a href=https://help.github.com/articles/github-privacy-policy target=_blank rel="noopener noreferrer">Privacy Policy</a>. </p>
 <h3>Traffic optimization and distribution</h3>
 <p>This type of service allows JS.ORG to distribute their content using servers located across different countries and
-    to optimize their performance.<br /> Which Personal Data are processed depends on the characteristics and the way
-    these services are implemented. Their function is to filter communications between JS.ORG and the User's
-    browser.<br /> Considering the widespread distribution of this system, it is difficult to determine the locations to
-    which the contents that may contain Personal Information of the User are transferred.</p>
+to optimize their performance.<br> Which Personal Data are processed depends on the characteristics and the way
+these services are implemented. Their function is to filter communications between JS.ORG and the User's
+browser.<br> Considering the widespread distribution of this system, it is difficult to determine the locations to
+which the contents that may contain Personal Information of the User are transferred.</p>
 <h4>Cloudflare (Cloudflare Inc.)</h4>
-<p>Cloudflare is a traffic optimization and distribution service provided by Cloudflare Inc.<br /> The way Cloudflare is
-    integrated means that it filters all the traffic through JS.ORG, i.e., communication between JS.ORG and the User's
-    browser, while also allowing analytical data from JS.ORG to be collected.</p>
+<p>Cloudflare is a traffic optimization and distribution service provided by Cloudflare Inc.<br> The way Cloudflare is
+integrated means that it filters all the traffic through JS.ORG, i.e., communication between JS.ORG and the User's
+browser, while also allowing analytical data from JS.ORG to be collected.</p>
 <p>Personal Data processed: various types of Data as specified in the privacy policy of the service.</p>
-<p>Place of processing: United States &ndash; <a href="https://www.cloudflare.com/privacypolicy/" target="_blank"
-        rel="noopener noreferrer">Privacy Policy</a>. </p>
-<h2 id="opt_out">Information on opting out of interest-based advertising</h2>
+<p>Place of processing: United States &ndash; <a href=https://www.cloudflare.com/privacypolicy/ target=_blank rel="noopener noreferrer">Privacy Policy</a>. </p>
+<h2 id=opt_out>Information on opting out of interest-based advertising</h2>
 <p> In addition to any opt-out feature provided by any of the services listed in this document, Users may follow the
-    instructions provided by <a target="_blank" rel="noopener nofollow"
-        href="http://www.youronlinechoices.com/">YourOnlineChoices</a> (EU), the <a target="_blank" rel="noopener
-        nofollow" href="https://thenai.org/about-online-advertising/">Network Advertising Initiative</a> (US) and the
-    <a target="_blank" rel="noopener nofollow" href="https://www.aboutads.info/consumers/">Digital Advertising
-        Alliance</a> (US), <a target="_blank" rel="noopener nofollow"
-        href="http://youradchoices.ca/understanding-online-advertising">DAAC</a> (Canada), <a target="_blank"
-        rel="noopener nofollow" href="http://www.ddai.info/optout">DDAI</a> (Japan) or other similar initiatives.
-    Such initiatives allow Users to select their tracking preferences for most of the advertising tools. The Owner thus
-    recommends that Users make use of these resources in addition to the information provided in this document. </p>
-<p>The Digital Advertising Alliance offers an application called <a target="_blank" rel="noopener nofollow"
-        href="https://youradchoices.com/appchoices">AppChoices</a> that helps Users to control interest-based
-    advertising on mobile apps.</p>
+instructions provided by <a target=_blank rel="noopener nofollow" href=http://www.youronlinechoices.com/>YourOnlineChoices</a> (EU), the <a target=_blank rel="noopener
+nofollow" href=https://thenai.org/about-online-advertising/>Network Advertising Initiative</a> (US) and the
+<a target=_blank rel="noopener nofollow" href=https://www.aboutads.info/consumers/>Digital Advertising
+Alliance</a> (US), <a target=_blank rel="noopener nofollow" href=http://youradchoices.ca/understanding-online-advertising>DAAC</a> (Canada), <a target=_blank rel="noopener nofollow" href=http://www.ddai.info/optout>DDAI</a> (Japan) or other similar initiatives.
+Such initiatives allow Users to select their tracking preferences for most of the advertising tools. The Owner thus
+recommends that Users make use of these resources in addition to the information provided in this document. </p>
+<p>The Digital Advertising Alliance offers an application called <a target=_blank rel="noopener nofollow" href=https://youradchoices.com/appchoices>AppChoices</a> that helps Users to control interest-based
+advertising on mobile apps.</p>
 <p>Users may also opt-out of certain advertising features through applicable device settings, such as the device
-    advertising settings for mobile phones or ads settings in general.</p>
-<div data-locale="en"></div>
-<h2 id="rights_subjects">The rights of Users</h2>
+advertising settings for mobile phones or ads settings in general.</p>
+<div data-locale=en></div>
+<h2 id=rights_subjects>The rights of Users</h2>
 <p>Users may exercise certain rights regarding their Data processed by the Owner.</p>
 <p>In particular, Users have the right to do the following:</p>
 <ul>
-    <li><strong>Withdraw their consent at any time.</strong> Users have the right to withdraw consent where they have
-        previously given their consent to the processing of their Personal Data.</li>
-    <li><strong>Object to processing of their Data.</strong> Users have the right to object to the processing of their
-        Data if the processing is carried out on a legal basis other than consent. Further details are provided in the
-        dedicated section below.</li>
-    <li><strong>Access their Data.</strong> Users have the right to learn if Data is being processed by the Owner,
-        obtain disclosure regarding certain aspects of the processing and obtain a copy of the Data undergoing
-        processing.</li>
-    <li><strong>Verify and seek rectification.</strong> Users have the right to verify the accuracy of their Data and
-        ask for it to be updated or corrected.</li>
-    <li><strong>Restrict the processing of their Data.</strong> Users have the right, under certain circumstances, to
-        restrict the processing of their Data. In this case, the Owner will not process their Data for any purpose other
-        than storing it. </li>
-    <li><strong>Have their Personal Data deleted or otherwise removed.</strong> Users have the right, under certain
-        circumstances, to obtain the erasure of their Data from the Owner.</li>
-    <li><strong>Receive their Data and have it transferred to another controller.</strong> Users have the right to
-        receive their Data in a structured, commonly used and machine readable format and, if technically feasible, to
-        have it transmitted to another controller without any hindrance. This provision is applicable provided that the
-        Data is processed by automated means and that the processing is based on the User's consent, on a contract which
-        the User is part of or on pre-contractual obligations thereof.</li>
-    <li><strong>Lodge a complaint.</strong> Users have the right to bring a claim before their competent data protection
-        authority.</li>
+<li><strong>Withdraw their consent at any time.</strong> Users have the right to withdraw consent where they have
+previously given their consent to the processing of their Personal Data.</li>
+<li><strong>Object to processing of their Data.</strong> Users have the right to object to the processing of their
+Data if the processing is carried out on a legal basis other than consent. Further details are provided in the
+dedicated section below.</li>
+<li><strong>Access their Data.</strong> Users have the right to learn if Data is being processed by the Owner,
+obtain disclosure regarding certain aspects of the processing and obtain a copy of the Data undergoing
+processing.</li>
+<li><strong>Verify and seek rectification.</strong> Users have the right to verify the accuracy of their Data and
+ask for it to be updated or corrected.</li>
+<li><strong>Restrict the processing of their Data.</strong> Users have the right, under certain circumstances, to
+restrict the processing of their Data. In this case, the Owner will not process their Data for any purpose other
+than storing it. </li>
+<li><strong>Have their Personal Data deleted or otherwise removed.</strong> Users have the right, under certain
+circumstances, to obtain the erasure of their Data from the Owner.</li>
+<li><strong>Receive their Data and have it transferred to another controller.</strong> Users have the right to
+receive their Data in a structured, commonly used and machine readable format and, if technically feasible, to
+have it transmitted to another controller without any hindrance. This provision is applicable provided that the
+Data is processed by automated means and that the processing is based on the User's consent, on a contract which
+the User is part of or on pre-contractual obligations thereof.</li>
+<li><strong>Lodge a complaint.</strong> Users have the right to bring a claim before their competent data protection
+authority.</li>
 </ul>
 <h3>Details about the right to object to processing</h3>
 <p>Where Personal Data is processed for a public interest, in the exercise of an official authority vested in the Owner
-    or for the purposes of the legitimate interests pursued by the Owner, Users may object to such processing by
-    providing a ground related to their particular situation to justify the objection.</p>
+or for the purposes of the legitimate interests pursued by the Owner, Users may object to such processing by
+providing a ground related to their particular situation to justify the objection.</p>
 <p>Users must know that, however, should their Personal Data be processed for direct marketing purposes, they can object
-    to that processing at any time without providing any justification. To learn, whether the Owner is processing
-    Personal Data for direct marketing purposes, Users may refer to the relevant sections of this document. </p>
+to that processing at any time without providing any justification. To learn, whether the Owner is processing
+Personal Data for direct marketing purposes, Users may refer to the relevant sections of this document. </p>
 <h3>How to exercise these rights</h3>
 <p>Any requests to exercise User rights can be directed to the Owner through the contact details provided in this
-    document. These requests can be exercised free of charge and will be addressed by the Owner as early as possible and
-    always within one month.</p>
-<h2 id="further_data_processing_info">Additional information about Data collection and processing</h2>
+document. These requests can be exercised free of charge and will be addressed by the Owner as early as possible and
+always within one month.</p>
+<h2 id=further_data_processing_info>Additional information about Data collection and processing</h2>
 <h3>Legal action</h3>
 <p>The User's Personal Data may be used for legal purposes by the Owner in Court or in the stages leading to possible
-    legal action arising from improper use of JS.ORG or the related Services.<br />The User declares to be aware that
-    the Owner may be required to reveal personal data upon request of public authorities.</p>
+legal action arising from improper use of JS.ORG or the related Services.<br>The User declares to be aware that
+the Owner may be required to reveal personal data upon request of public authorities.</p>
 <h3>Additional information about User's Personal Data</h3>
 <p>In addition to the information contained in this privacy policy, JS.ORG may provide the User with additional and
-    contextual information concerning particular Services or the collection and processing of Personal Data upon
-    request.</p>
+contextual information concerning particular Services or the collection and processing of Personal Data upon
+request.</p>
 <h3>System logs and maintenance</h3>
 <p>For operation and maintenance purposes, JS.ORG and any third-party services may collect files that record interaction
-    with JS.ORG (System logs) use other Personal Data (such as the IP Address) for this purpose.</p>
+with JS.ORG (System logs) use other Personal Data (such as the IP Address) for this purpose.</p>
 <h3>Information not contained in this policy</h3>
 <p>More details concerning the collection or processing of Personal Data may be requested from the Owner at any time.
-    Please see the contact information at the beginning of this document.</p>
+Please see the contact information at the beginning of this document.</p>
 <h3>How “Do Not Track” requests are handled</h3>
-<p>JS.ORG does not support “Do Not Track” requests.<br />To determine whether any of the third-party services it uses
-    honor the “Do Not Track” requests, please read their privacy policies.</p>
+<p>JS.ORG does not support “Do Not Track” requests.<br>To determine whether any of the third-party services it uses
+honor the “Do Not Track” requests, please read their privacy policies.</p>
 <h3>Changes to this privacy policy</h3>
 <p>The Owner reserves the right to make changes to this privacy policy at any time by notifying its Users on this page
-    and possibly within JS.ORG and/or - as far as technically and legally feasible - sending a notice to Users via any
-    contact information available to the Owner. It is strongly recommended to check this page often, referring to the
-    date of the last modification listed at the bottom. <br /><br /> Should the changes affect processing activities
-    performed on the basis of the User’s consent, the Owner shall collect new consent from the User, where required.</p>
-<h3 id="definitions_and_legal_references"> Definitions and legal references </h3>
+and possibly within JS.ORG and/or - as far as technically and legally feasible - sending a notice to Users via any
+contact information available to the Owner. It is strongly recommended to check this page often, referring to the
+date of the last modification listed at the bottom. <br><br> Should the changes affect processing activities
+performed on the basis of the User’s consent, the Owner shall collect new consent from the User, where required.</p>
+<h3 id=definitions_and_legal_references> Definitions and legal references </h3>
 <h4>Personal Data (or Data)</h4>
 <p>Any information that directly, indirectly, or in connection with other information — including a personal
-    identification number — allows for the identification or identifiability of a natural person.</p>
+identification number — allows for the identification or identifiability of a natural person.</p>
 <h4>Usage Data</h4>
 <p>Information collected automatically through JS.ORG (or third-party services employed in JS.ORG), which can include:
-    the IP addresses or domain names of the computers utilized by the Users who use JS.ORG, the URI addresses (Uniform
-    Resource Identifier), the time of the request, the method utilized to submit the request to the server, the size of
-    the file received in response, the numerical code indicating the status of the server's answer (successful outcome,
-    error, etc.), the country of origin, the features of the browser and the operating system utilized by the User, the
-    various time details per visit (e.g., the time spent on each page within the Application) and the details about the
-    path followed within the Application with special reference to the sequence of pages visited, and other parameters
-    about the device operating system and/or the User's IT environment.</p>
+the IP addresses or domain names of the computers utilized by the Users who use JS.ORG, the URI addresses (Uniform
+Resource Identifier), the time of the request, the method utilized to submit the request to the server, the size of
+the file received in response, the numerical code indicating the status of the server's answer (successful outcome,
+error, etc.), the country of origin, the features of the browser and the operating system utilized by the User, the
+various time details per visit (e.g., the time spent on each page within the Application) and the details about the
+path followed within the Application with special reference to the sequence of pages visited, and other parameters
+about the device operating system and/or the User's IT environment.</p>
 <h4>User</h4>
 <p>The individual using JS.ORG who, unless otherwise specified, coincides with the Data Subject.</p>
 <h4>Data Subject</h4>
 <p>The natural person to whom the Personal Data refers.</p>
 <h4>Data Processor (or Data Supervisor)</h4>
 <p>The natural or legal person, public authority, agency or other body which processes Personal Data on behalf of the
-    Controller, as described in this privacy policy.</p>
+Controller, as described in this privacy policy.</p>
 <h4>Data Controller (or Owner)</h4>
 <p>The natural or legal person, public authority, agency or other body which, alone or jointly with others, determines
-    the purposes and means of the processing of Personal Data, including the security measures concerning the operation
-    and use of JS.ORG. The Data Controller, unless otherwise specified, is the Owner of JS.ORG.</p>
+the purposes and means of the processing of Personal Data, including the security measures concerning the operation
+and use of JS.ORG. The Data Controller, unless otherwise specified, is the Owner of JS.ORG.</p>
 <h4>JS.ORG (or this Application)</h4>
 <p>The means by which the Personal Data of the User is collected and processed.</p>
 <h4>Service</h4>
 <p>The service provided by JS.ORG as described in the relative terms (if available) and on this site/application.</p>
 <h4>European Union (or EU)</h4>
 <p>Unless otherwise specified, all references made within this document to the European Union include all current member
-    states to the European Union and the European Economic Area.</p>
+states to the European Union and the European Economic Area.</p>
 <h4>Cookie</h4>
-<p>Cookies are Trackers consisting of small sets of data stored in the User&#39;s browser.</p>
+<p>Cookies are Trackers consisting of small sets of data stored in the User's browser.</p>
 <h4>Tracker</h4>
 <p>Tracker indicates any technology - e.g Cookies, unique identifiers, web beacons, embedded scripts, e-tags and
-    fingerprinting - that enables the tracking of Users, for example by accessing or storing information on the User’s
-    device.</p>
+fingerprinting - that enables the tracking of Users, for example by accessing or storing information on the User’s
+device.</p>
 <h4>Legal information</h4>
 <p>This privacy statement has been prepared based on provisions of multiple legislations, including Art. 13/14 of
-    Regulation (EU) 2016/679 (General Data Protection Regulation).</p>
+Regulation (EU) 2016/679 (General Data Protection Regulation).</p>
 <p>This privacy policy relates solely to JS.ORG, if not stated otherwise within this document.</p>
-    </main>
-    <footer>
-
-        
-        <div class="badge">
-            <span>Last Update</span><span>December 12, 2021</span>
-        </div>
-        
-
-        
-            <a href="/" aria-label="JS.ORG">
-                
-                <svg xmlns="http://www.w3.org/2000/svg" width="93px" height="30px">
-                    <use xlink:href="#logoJS" transform="scale(.3)" />
-                    <use xlink:href="#logoORG" transform="scale(.6) translate(53.6 -104)" />
-                </svg>
-                
-        </a>
-        
-        <hr>
-        <span>WEBDESIGN: <a title="Werbeagentur Ansbach Webdesign" rel="noreferrer noopener" target="_blank"
-                href="https://www.20zweinull.de/">20zweinull</a></span>
-        <div><a href="/privacy.html" title="Privacy">Privacy</a> ▪ <a href="/imprint.html" title="Imprint">Imprint</a>
-        </div>
-    </footer>
-    
+</main>
+<footer>
+<div class=badge>
+<span>Last Update</span><span>December 12, 2021</span>
+</div>
+<a href=/ aria-label=JS.ORG><svg xmlns="http://www.w3.org/2000/svg" width="93" height="30"><use xlink:href="#logoJS" transform="scale(.3)"/><use xlink:href="#logoORG" transform="scale(.6) translate(53.6 -104)"/></svg>
+</a>
+<hr>
+<span>WEBDESIGN: <a title="Werbeagentur Ansbach Webdesign" rel="noreferrer noopener" target=_blank href=https://www.20zweinull.de/>20zweinull</a></span>
+<div><a href=/privacy.html title=Privacy>Privacy</a> ▪ <a href=/imprint.html title=Imprint>Imprint</a>
+</div>
+</footer>
 </body>
-
 </html>

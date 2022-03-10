@@ -1,4 +1,4 @@
-const search = window.location.search.slice(1, 20);
+const search = window.location.search.slice(1).replace(/\.js$/,'');
 
 (function (el: any) {
     if (search && (el = document.getElementById(el)))
@@ -7,7 +7,7 @@ const search = window.location.search.slice(1, 20);
 
 (function (el: any) {
     if (search && (el = document.getElementById(el))) {
-        let s = search.slice(0, -3)
+        let s = search
         el.innerHTML = s;
         setTimeout(function () { window.location.href = 'https://js.org/?' + s; }, 5000);
     }
