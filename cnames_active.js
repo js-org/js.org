@@ -1977,6 +1977,7 @@ var cnames_active = {
   "pagination": "superRaytin.github.io/paginationjs-site", // noCF
   "pagination-djs": "imranbarbhuiya.github.io/pagination.djs",
   "paint": "christianliebel.github.io/paint",
+  "PalaciosNorbertoLuis": "palaciosnorbertoluis.github.io/Portafolio",
   "palette": "pakastin.github.io/palette",
   "pam": "pambot.netlify.app",
   "pamatcher": "pmros.github.io/pamatcher", // noCF? (don´t add this in a new PR)
