@@ -22,11 +22,6 @@ html {
   scrollbar-color: fade-out($txt, 0.5) fade-out($txt, 0.3);
   scrollbar-width: thin;
   background: $key;
-  /*background: radial-gradient(circle, transparent 20%, $key 20%, $key 80%, transparent 80%, transparent),
-    radial-gradient(circle, transparent 20%, $key 20%, $key 80%, transparent 80%, transparent) -30px -30px,
-    linear-gradient(lighten($key, 20) 2px, transparent 2px) 0 -1px,
-    linear-gradient(90deg, lighten($key, 20) 2px, #ffe70b 2px) -1px 0;
-  background-size: 500px 500px, 500px 500px, 250px 250px, 250px 250px;*/
 }
 
 
@@ -362,7 +357,7 @@ footer {
   }
 }
 
-/*
+
 @media (prefers-color-scheme: dark) {
   html {
     scrollbar-color: fade-out($key, 0.5) fade-out($key, 0.8);
@@ -422,4 +417,3 @@ footer {
     }
   }
 }
-*/
