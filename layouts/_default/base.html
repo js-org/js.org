@@ -67,7 +67,7 @@
         {{if .IsHome}}
         <div>
             {{else}}
-            <a href="/" aria-label="JS.ORG">
+            <a href="/" target="_top" aria-label="JS.ORG">
                 {{end}}
                 <svg xmlns="http://www.w3.org/2000/svg" width="204px" height="100px">
                     <path id="logoJS"
@@ -90,9 +90,9 @@
             {{if .Params.full}}
             <div class="badge">
                 <a class="blue" title="JS.ORG on Twitter" href="https://twitter.com/JS_ORG"
-                    rel="nofollow noreferrer noopener" target="_blank">Twitter</a>
+                    target="_blank" rel="nofollow noreferrer noopener">Twitter</a>
                 <a title="Tweet JS.ORG" href="https://twitter.com/share?url=https%3A%2F%2Fjs.org"
-                    rel="nofollow noreferrer noopener" target="_blank">tweet this!</a>
+                    target="_blank" rel="nofollow noreferrer noopener">tweet this!</a>
             </div>
             {{end}}
         </div>
@@ -109,10 +109,10 @@
         {{else}}
         <div>
             <a id="oc" class="badge blue" title="Open Collective" href="https://opencollective.com/js-org"
-                rel="nofollow noreferrer noopener" target="_blank"><span>Donate</span><span>for registrar
+                target="_blank" rel="nofollow noreferrer noopener"><span>Donate</span><span>for registrar
                     fees</span></a>
             <a id="gh" class="badge gray" title="GitHub" href="https://github.com/js-org/js.org"
-                rel="nofollow noreferrer noopener" target="_blank"><span>GitHub</span>
+                target="_blank" rel="nofollow noreferrer noopener"><span>GitHub</span>
                 {{if .Params.full}}
                 <span id="ghstars">4K</span>
                 {{end}}
@@ -123,7 +123,7 @@
         {{if .IsHome}}
         <div>
             {{else}}
-            <a href="/" aria-label="JS.ORG">
+            <a href="/" target="_top" aria-label="JS.ORG">
                 {{end}}
                 <svg xmlns="http://www.w3.org/2000/svg" width="93px" height="30px">
                     <use xlink:href="#logoJS" transform="scale(.3)" />
@@ -137,7 +137,7 @@
         <hr>
         <span>WEBDESIGN: <a title="Werbeagentur Ansbach Webdesign" rel="noreferrer noopener" target="_blank"
                 href="https://www.20zweinull.de/">20zweinull</a></span>
-        <div><a href="/privacy.html" title="Privacy">Privacy</a> ▪ <a href="/imprint.html" title="Imprint">Imprint</a>
+        <div><a href="/privacy.html" target="_top" title="Privacy">Privacy</a> ▪ <a href="/imprint.html" target="_top" title="Imprint">Imprint</a>
         </div>
     </footer>
     {{ end -}}
