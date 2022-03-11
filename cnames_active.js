@@ -742,6 +742,7 @@ var cnames_active = {
   "diysay": "diysay.github.io/diysay-js-org",
   "djs-addon": "hosting.gitbook.io", // noC",
   "djs-economy": "discordjs-economy.github.io/website",
+  "djs-twitch": "discordjs-twitch.github.io/website",
   "djs-tickets": "pgamerx.github.io/djs-tickets",
   "djs-tools": "fhgdev.github.io/djs-tools",
   "djsframe": "vypal.github.io/djsframe",
