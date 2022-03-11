@@ -63,6 +63,10 @@
 
 <body>
     {{ block "body" . -}}
+
+    {{if .IsHome}}
+    <div id="standwithukrain"><span>Peace is not everything, but without peace, everything is nothing <i>- Willi Brandt</i></span></div>
+    {{end}}
     <header>
         {{if .IsHome}}
         <div>

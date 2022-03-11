@@ -1,38 +1,40 @@
 @import "vars";
 
-body::before {
-  content: "\"Peace is not everything, but without peace, everything is nothing\" - Willi Brandt";
+#standwithukrain {
   display: block;
-  width:100%;
-  z-index: -1;
-  color:#6182a8;
-  margin:-5vh auto 5vh;
-  text-align: center;
-  font-size: 1rem;
-  font-style: italic;
-  opacity: 0;
-  animation: fadeIn 1s 3s ease-out forwards;
-}
-body::after {
-  content: " ";
-  position: fixed;
-  top: 0;
-  right: 0;
-  left: 0;
-  height: 50vh;
-  z-index: -2;
-  background: #0057b8;
-  opacity: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  line-height: 1.2em;
+  margin-top: -8vh;
+  padding: 0.5em 1em;
+  color: #6e8094;
+  font-weight: 600;
+  background: rgba(255, 255, 255, 0.5);
+  transform: translateY(-100%);
   animation: fadeIn 1s 2s ease-out forwards;
+  i {
+    font-weight: 400;
+    white-space: nowrap;
+  }
+  &:before {
+    content: "";
+    display: block;
+    flex-shrink: 0;
+    width: 1.7em;
+    height: 1em;
+    background: linear-gradient(#0057b8, #0057b8 50%, #ffd700 50%, #ffd700);
+    margin-right: 1em;
+  }
 }
 
 @keyframes fadeIn {
-	0% {
-		opacity: 0;
-	}
-	100% {
-		opacity: 1;
-	}
+  0% {
+    transform: translateY(-100%);
+  }
+  100% {
+    transform: translateY(0%);
+  }
 }
 
 p {
@@ -167,7 +169,6 @@ section {
   }
 }
 
-/*
 @media (prefers-color-scheme: dark) {
   #typewriter {
     .active {
@@ -215,4 +216,3 @@ section {
     }
   }
 }
-*/
