@@ -1035,6 +1035,7 @@ var cnames_active = {
   "fusilli": "anthemaker.github.io/Fusilli.js",
   "fxrmer": "fxrmer.github.io",
   "fyi": "tobihrbr.github.io/fyi",
+  "forgebin": "unzor.github.io/forgebin.js.org",
   "g": "nodebox.github.io/g.js",
   "g-point": "bdvela.github.io/g-point",
   "gaiman": "jcubic.github.io/gaiman",
