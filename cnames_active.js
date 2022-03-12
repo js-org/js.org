@@ -1034,6 +1034,7 @@ var cnames_active = {
   "fusilli": "anthemaker.github.io/Fusilli.js",
   "fxrmer": "fxrmer.github.io",
   "fyi": "tobihrbr.github.io/fyi",
+  "forgebin": "unzor.github.io/forgebin.js.org",
   "g": "nodebox.github.io/g.js",
   "g-point": "bdvela.github.io/g-point",
   "gaiman": "jcubic.github.io/gaiman",
@@ -3116,8 +3117,7 @@ var cnames_active = {
   "zxy": "ZXYFrank.github.io",
   "zyh": "zyh-chopper.github.io/zyh",
   "zykj": "cname.vercel-dns.com", // noCF
-  "zyy": "zyyou.github.io/notes",
-"forgebin": "unzor.github.io/forgebin-homepage"
+  "zyy": "zyyou.github.io/notes"
   /*
    * please don't add your subdomain records down here!
    * insert them in alphabetical order to help reduce merge conflicts.
