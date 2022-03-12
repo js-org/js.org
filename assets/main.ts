@@ -1,15 +1,10 @@
 const search = window.location.search.slice(1).replace(/\.js$/,'');
 
 (function (el: any) {
-    if (search && (el = document.getElementById(el)))
-        el.style = "display:block";
-})('redir');
-
-(function (el: any) {
     if (search && (el = document.getElementById(el))) {
         let s = search
         el.innerHTML = s;
-        setTimeout(function () { window.top.location.href = 'https://js.org/?' + s; }, 5000);
+        setTimeout(function () { window.top.location.href = 'https://js.org/?' + s; }, 9999);
     }
 })('sd');
 

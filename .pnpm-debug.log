@@ -2,22 +2,13 @@
   "0 debug pnpm:scope": {
     "selected": 1
   },
-  "1 info pnpm": {
-    "err": {
-      "name": "Error",
-      "message": "not found: generate",
-      "code": "ENOENT",
-      "stack": "Error: not found: generate\n    at getNotFoundError (C:\\Users\\keim_se\\AppData\\Roaming\\npm\\node_modules\\pnpm\\dist\\pnpm.cjs:41555:51)\n    at Function.whichSync [as sync] (C:\\Users\\keim_se\\AppData\\Roaming\\npm\\node_modules\\pnpm\\dist\\pnpm.cjs:41632:13)\n    at getCommandAbsolutePathSync (C:\\Users\\keim_se\\AppData\\Roaming\\npm\\node_modules\\pnpm\\dist\\pnpm.cjs:43197:44)\n    at default_1 (C:\\Users\\keim_se\\AppData\\Roaming\\npm\\node_modules\\pnpm\\dist\\pnpm.cjs:43206:32)\n    at C:\\Users\\keim_se\\AppData\\Roaming\\npm\\node_modules\\pnpm\\dist\\pnpm.cjs:178047:39"
-    }
-  },
-  "2 error pnpm": {
-    "code": "ERR_PNPM_RECURSIVE_EXEC_FIRST_FAIL",
-    "prefix": "D:\\User\\Documents\\privat\\JS.ORG\\js.org",
+  "1 error pnpm": {
+    "code": "ERR_PNPM_NO_IMPORTER_MANIFEST_FOUND",
     "err": {
       "name": "pnpm",
-      "message": "not found: generate",
-      "code": "ERR_PNPM_RECURSIVE_EXEC_FIRST_FAIL",
-      "stack": "Error: not found: generate\n    at getNotFoundError (C:\\Users\\keim_se\\AppData\\Roaming\\npm\\node_modules\\pnpm\\dist\\pnpm.cjs:41555:51)\n    at Function.whichSync [as sync] (C:\\Users\\keim_se\\AppData\\Roaming\\npm\\node_modules\\pnpm\\dist\\pnpm.cjs:41632:13)\n    at getCommandAbsolutePathSync (C:\\Users\\keim_se\\AppData\\Roaming\\npm\\node_modules\\pnpm\\dist\\pnpm.cjs:43197:44)\n    at default_1 (C:\\Users\\keim_se\\AppData\\Roaming\\npm\\node_modules\\pnpm\\dist\\pnpm.cjs:43206:32)\n    at C:\\Users\\keim_se\\AppData\\Roaming\\npm\\node_modules\\pnpm\\dist\\pnpm.cjs:178047:39"
+      "message": "No package.json (or package.yaml, or package.json5) was found in \"C:\\Users\\stefa\\Code\\JS.ORG\\JS.ORG\".",
+      "code": "ERR_PNPM_NO_IMPORTER_MANIFEST_FOUND",
+      "stack": "pnpm: No package.json (or package.yaml, or package.json5) was found in \"C:\\Users\\stefa\\Code\\JS.ORG\\JS.ORG\".\n    at readProjectManifest (C:\\Users\\stefa\\AppData\\Roaming\\npm\\node_modules\\pnpm\\dist\\pnpm.cjs:19808:13)\n    at async Object.readProjectManifestOnly (C:\\Users\\stefa\\AppData\\Roaming\\npm\\node_modules\\pnpm\\dist\\pnpm.cjs:19812:28)\n    at async readProjectManifestOnly (C:\\Users\\stefa\\AppData\\Roaming\\npm\\node_modules\\pnpm\\dist\\pnpm.cjs:43711:24)\n    at async Object.handler (C:\\Users\\stefa\\AppData\\Roaming\\npm\\node_modules\\pnpm\\dist\\pnpm.cjs:177889:24)\n    at async C:\\Users\\stefa\\AppData\\Roaming\\npm\\node_modules\\pnpm\\dist\\pnpm.cjs:182165:21\n    at async run (C:\\Users\\stefa\\AppData\\Roaming\\npm\\node_modules\\pnpm\\dist\\pnpm.cjs:182139:34)\n    at async runPnpm (C:\\Users\\stefa\\AppData\\Roaming\\npm\\node_modules\\pnpm\\dist\\pnpm.cjs:182358:5)\n    at async C:\\Users\\stefa\\AppData\\Roaming\\npm\\node_modules\\pnpm\\dist\\pnpm.cjs:182350:7"
     }
   }
 }
