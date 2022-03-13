@@ -729,7 +729,7 @@ var cnames_active = {
   "discordlib": "hosting.gitbook.com",
   "discords": "botstudios.github.io/discords.js.org",
   "discordutility": "chaosphoe.github.io/discordutility",
-  "discuss": "cname.vercel-dns.com",
+  "discuss": "cname.vercel-dns.com", // noCF
   "disdai": "disdai.github.io/disdai-website",
   "display": "arguiot.github.io/DisplayJS",
   "distillery": "achannarasappa.github.io/distillery", // noCF? (don´t add this in a new PR)
@@ -1508,7 +1508,7 @@ var cnames_active = {
   "lerna": "lerna.github.io/website",
   "lessmd": "linuxenko.github.io/lessmd",
   "leste": "atwood-cai.github.io/leste.js", // noCF? (don´t add this in a new PR)
-  "lete": "cname.vercel-dns.com",
+  "lete": "cname.vercel-dns.com", // noCF
   "lev": "lev-savranskiy.github.io",
   "level": "xv700.github.io/level",
   "lf": "lf112.github.io",
@@ -1660,7 +1660,7 @@ var cnames_active = {
   "melody": "trivago.github.io/melody-web",
   "memer-api": "cname.vercel-dns.com",
   "memoz": "60-min-code.github.io/memoz",
-  "mengd": "cname.vercel-dns.com",
+  "mengd": "cname.vercel-dns.com", // noCF
   "menghafalquran": "mzaini30.github.io/menghafal-quran",
   "meow": "meow-js.github.io",
   "mercury": "henryqw.github.io/mercury",
