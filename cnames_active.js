@@ -1423,7 +1423,7 @@ var cnames_active = {
   "kiranremmarasu": "kiranremmarasu.github.io/kiranremmarasu",
   "kite": "kite-js.github.io/kite",
   "kiwidocs": "arguiot.github.io/KiwiDocs",
-  "kkapi":"cname.vercel-dns.com",
+  "kkapi":"cname.vercel-dns.com", // noCF
   "klasa": "dirigeants.github.io/klasa-website",
   "klasy-eris": "motiontheking.github.io/klasy-eris",
   "klepto": "mwjaworski.github.io/klepto",
