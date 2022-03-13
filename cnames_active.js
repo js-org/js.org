@@ -539,6 +539,7 @@ var cnames_active = {
   "consono": "r37r0m0d3l.github.io/consono",
   "construyendotrabajo": "mteyss.github.io/construyendotrabajo", // noCF? (don´t add this in a new PR)
   "consultant": "jense5.github.io/consultant",
+  "context":"theinternetfolks.github.io/context",
   "contextify": "abemedia.github.io/jquery-contextify", // noCF? (don´t add this in a new PR)
   "convert": "convertjs.netlify.app",
   "cookiebox": "metaa.gitlab.io/cookiebox.js",
@@ -919,6 +920,7 @@ var cnames_active = {
   "evolutions": "anshumanv.github.io/evolutions-webapp",
   "ewa": "lyfeyaj.github.io/ewa",
   "exbars": "youssefkababe.github.io/exbars", // noCF? (don´t add this in a new PR)
+  "excel": "theinternetfolks.github.io/excel-formula",
   "excmd": "elliottcable.github.io/excmd.js",
   "executor": "executor.netlify.app",
   "exeform": "hosting.gitbook.com", // noCF
@@ -1457,6 +1459,7 @@ var cnames_active = {
   "ksp": "keepsobp.github.io",
   "kst": "lucaelin.github.io/KST", // noCF
   "ktm": "developers-nepal.github.io/ktmjs",
+  "kubernetes": "theinternetfolks.github.io/kubernetes",
   "kucos": "kucosjs.github.io",
   "kumeru": "ultirequiem.github.io/kumeru"
   "kunal": "kunalghosh02.github.io",
@@ -1628,6 +1631,7 @@ var cnames_active = {
   "marxist": "wuz.github.io/marxistjs",
   "masha": "smarttelemax.github.io/MaSha",
   "master-portfolio": "vimalverma558.github.io/Master-Portfolio",
+  "mate": "theinternetfolks.github.io/mate",
   "mateocontenla": "taconeomental.github.io/mateocontenla",
   "materialish": "jamesplease.github.io/materialish",
   "materialize-bootbox": "iqbalfn.github.io/materialize-bootbox",
