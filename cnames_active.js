@@ -1459,8 +1459,9 @@ var cnames_active = {
   "ksp": "keepsobp.github.io",
   "kst": "lucaelin.github.io/KST", // noCF
   "ktm": "developers-nepal.github.io/ktmjs",
+  "kubernetes":"theinternetfolks.github.io/kubernetes",
   "kucos": "kucosjs.github.io",
-  "kumeru": "ultirequiem.github.io/kumeru"
+  "kumeru": "ultirequiem.github.io/kumeru",
   "kunal": "kunalghosh02.github.io",
   "kunkun": "smallkunkun.github.io",
   "kyoto": "kyotojs.github.io",
