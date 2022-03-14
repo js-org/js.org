@@ -1408,6 +1408,7 @@ var cnames_active = {
   "kcak11": "kcak11.github.io/js-org-web",
   "kdiacodes": "kdiacodes.github.io",
   "kea": "kea.netlify.app",
+  "keaton": "https://plexidia.github.io/ksitev1",
   "kelvinho": "kelvin2go.github.io", // noCF? (don´t add this in a new PR)
   "kewitz": "kewitz.github.io",
   "keyframe-refiner": "keyframe-refiner.github.io/keyframe-refiner",
