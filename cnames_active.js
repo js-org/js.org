@@ -666,6 +666,7 @@ var cnames_active = {
   "densewaire": "cname.vercel-dns.com",
   "deox": "deox.netlify.com",
   "deportes": "andreapins.github.io/Deportes-Gacetis",
+  "deprem": "cname.vercel-dns.com",
   "deputy": "ry4nolson.github.io/Deputy", // noCF? (don´t add this in a new PR)
   "designdevresources": "phanendraguptha.github.io/designdevresources",
   "detect-resize": "noderaider.github.io/detect-resize", // noCF? (don´t add this in a new PR)
