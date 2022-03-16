@@ -1,2 +1,2 @@
 - [x] I have read and accepted the [Terms and Conditions](http://js.org/terms.html)
-- [x] There is reasonable content on the page: https://practicalmath.js.org
+- [x] There is reasonable content on the page: https://hashcats.js.org
