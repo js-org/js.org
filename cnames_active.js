@@ -1082,6 +1082,7 @@ var cnames_active = {
   "girls": "girls-js.github.io",
   "girlscript": "girlscriptjaipur.github.io",
   "git-terminal": "jcubic.github.io/git",
+  "gitbanner":"asheeeshh.github.io/gitbanner",
   "gitdown": "gc.github.io/gitdown",
   "githubtouch": "github-touch.github.io",
   "gitinit": "silly-shirley-8e44e3.netlify.com",
