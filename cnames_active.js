@@ -2474,6 +2474,7 @@ var cnames_active = {
   "short": "shortit.netlify.com",
   "shortener": "jsmiith.github.io/shortener",
   "shortio": "ichiidev.github.io/short.io-docs",
+  "shorturl": "63a13201-210b-428a-bebc-299898afb42b.id.repl.co",
   "shuwan9": "shuwan9.github.io",
   "siddharth": "chaudhs769.github.io/siddharth.js.org",
   "sidekik": "inf3cti0n95.github.io/sidekik",
