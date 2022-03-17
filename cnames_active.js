@@ -2809,6 +2809,7 @@ var cnames_active = {
   "turali": "caglarturali.github.io",
   "turbo": "turbo.github.io",
   "tw-themes": "kevinast.github.io/tw-themes",
+  "twallpaper": "crashmax-dev.github.io/twallpaper",
   "twcopy": "the94air.github.io/twcopy",
   "tweed": "tweedjs.github.io",
   "tweetnacl": "dchest.github.io/tweetnacl-js",
