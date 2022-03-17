@@ -1007,7 +1007,7 @@ var cnames_active = {
   "fosspwa": "foss-pwa.github.io/app-store",
   "fov": "animafps.github.io/fov-utilities",
   "foxhole-client": "foxhole-clientjs.netlify.app",
-  "foxie": "foxie-testing-production.up.railway.app",
+  "foxie": "foxie-testing-production.up.railway.app/website",
   "foxify": "foxifyjs.github.io/foxify",
   "foxman": "kaola-fed.github.io/foxman",
   "fp": "iotcat.github.io/fp",
