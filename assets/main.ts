@@ -1,12 +1,20 @@
-const search = window.location.search.slice(1).replace(/\.js$/,'');
+const search = window.location.search.slice(1).replace(/\.js$/, '');
 
 (function (el: any) {
     if (search && (el = document.getElementById(el))) {
-        let s = search
-        el.innerHTML = s;
-        setTimeout(function () { window.top.location.href = 'https://js.org/?' + s; }, 9999);
+        el.innerHTML = search;
     }
 })('sd');
+
+(function (el: any) {
+    if (el = document.getElementById(el)) {
+        let sec = 5;
+        setInterval(() => {
+            if (!sec--) return window.top.location.href = 'https://js.org/?' + search;
+            el.innerText = `${sec} second${sec > 1 ? 's' : ''}`
+        }, 1000)
+    }
+})('rt');
 
 (function (el: any) {
     window.onload = () => {
@@ -70,6 +78,6 @@ const search = window.location.search.slice(1).replace(/\.js$/,'');
         }
     }
     write();
-})('hermes', ['your', 'domain', '4free', 'user', 'learn', 'munich']);
+})('hermes', ['your', 'domain', '4free', 'project', 'learn', 'tool', 'munich']);
 
 
