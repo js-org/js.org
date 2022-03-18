@@ -21,7 +21,7 @@ const search = window.location.search.slice(1).replace(/\.js$/, '');
         if (el = document.getElementById(el)) {
             let cad = document.getElementById('_carbonads_projs')
             if (!cad) el.classList.add('blocked');
-            fetch(`/count/${cad ? 'cad' : 'nocad'}`)
+            fetch(`https://js.org/count/${cad ? 'cad' : 'nocad'}`)
         }
     }
 })('cad');
