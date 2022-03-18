@@ -513,6 +513,7 @@ var cnames_active = {
   "coffea": "caffeinery.github.io/coffea",
   "coffstation": "coffstation.github.io",
   "coir": "channg.github.io/coir",
+  "cjcorpdev": "cjcorpdev.github.io",//prueba practica.
   "coldemo": "coldemo.github.io",
   "collect": "collectjs.netlify.com",
   "colombo": "cmbjs.github.io/CMBJS",
