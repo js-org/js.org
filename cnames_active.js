@@ -1215,6 +1215,7 @@ var cnames_active = {
   "htony": "themetony.github.io/hugo-theme-tony",
   "http4ts": "http4ts.github.io/http4ts",
   "https": "yakeing.github.com/https.js", // noCF
+  "httpcord": "andre4ik3.github.io/httpcord",
   "httpunit": "samzh72.github.io/httpunit",
   "hub": "yyued.github.io/hub.js",
   "hubble": "hubble.netlify.com",
