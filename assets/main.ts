@@ -10,7 +10,7 @@ const search = window.location.search.slice(1).replace(/\.js$/, '');
     if (el = document.getElementById(el)) {
         let sec = 5;
         setInterval(() => {
-            if (!sec--) return window.top.location.href = 'https://js.org/?' + search;
+            if (!--sec) return window.top.location.href = 'https://js.org/?' + search;
             el.innerText = `${sec} second${sec > 1 ? 's' : ''}`
         }, 1000)
     }
