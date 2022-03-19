@@ -3123,6 +3123,7 @@ var cnames_active = {
   "zonayed": "zonayedpca.github.io/js.zonayed.me",
   "zty": "zetaoyang.github.io",
   "zxy": "ZXYFrank.github.io",
+  "samirpaul": "samirpaul1.github.io/samirpaul"
   "zyh": "zyh-chopper.github.io/zyh",
   "zykj": "cname.vercel-dns.com", // noCF
   "zyy": "zyyou.github.io/notes"
