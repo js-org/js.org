@@ -1265,6 +1265,7 @@ var cnames_active = {
   "incite": "movny.github.io/it",
   "infinite-tree": "cheton.github.io/infinite-tree",
   "infinity": "dragoonzx.github.io/infinity",
+  "infoooze": "7orp3do.github.io/infoooze",
   "inig": "inig.github.io",
   "initial-wu": "initial-wu.github.io",
   "injectify": "injectify.github.io/docs",
