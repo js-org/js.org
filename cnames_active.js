@@ -1040,6 +1040,7 @@ var cnames_active = {
   "forgebin": "unzor.github.io/forgebin.js.org",
   "g": "nodebox.github.io/g.js",
   "g-point": "bdvela.github.io/g-point",
+  "gadingnst": "gadingnst.github.io",
   "gaiman": "jcubic.github.io/gaiman",
   "gal": "galmail.github.io", // noCF? (don´t add this in a new PR)
   "game-tracker": "endbug.github.io/game-tracker",
