@@ -2652,6 +2652,7 @@ var cnames_active = {
   "suka": "sukkaw.github.io",
   "sulky": "shingle.github.io/sulky", // noCF? (don´t add this in a new PR)
   "suman": "devsumanmdn.github.io",
+  "sum": "ultirequiem.github.io/sum",
   "summer": "minecraftpublisher.github.io/SummerJS",
   "sunsistemo": "sunsistemo.github.io/sunsistemo",
   "supapi": "kacperkwapisz.github.io/supreme-api-rewritten",
