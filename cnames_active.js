@@ -1771,6 +1771,7 @@ var cnames_active = {
   "mol": "eigenmethod.github.io/mol", // noCF
   "molti": "moltijs.github.io/molti",
   "mom": "momjs.github.io/mom",
+  "momo": "momowind.github.io",
   "momentum": "wemakeweb.github.io/momentum", // noCF? (don´t add this in a new PR)
   "monaco-yaml": "monaco-yaml.netlify.app",
   "monkberry": "monkberry.github.io",
