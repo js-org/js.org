@@ -1329,6 +1329,7 @@ var cnames_active = {
   "james": "jamesrowen.github.io/james", // noCF? (don´t add this in a new PR)
   "jargon": "hugogiraudel.github.io/SJSJ", // noCF? (don´t add this in a new PR)
   "jasonliang": "jasonliang-dev.github.io",
+  "jason": "ultirequiem.github.io/jason-formatter",
   "javali": "diogomoretti.github.io/javali",
   "javascript-kitchen": "jskitchen.github.io",
   "jayzou": "jayzou.github.io",
