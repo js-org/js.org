@@ -2598,6 +2598,7 @@ var cnames_active = {
   "ss": "netnr-ss.onrender.com", // noCF
   "staart": "staart.netlify.com",
   "stabs": "wnda.github.io/stabs",
+  "stable-fn": "ultirequiem.github.io/stable-fn",
   "stack-styled": "stack-styled.netlify.com",
   "stacks": "cname.vercel-dns.com", // noCF
   "stahlstadt": "dist1.storyblok.com",
