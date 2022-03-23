@@ -556,7 +556,8 @@ export const cnames_active = {
   "coreutils": "ultirequiem.github.io/coreutils",
   "cord": "lukadev-0.github.io/cord.js",
   "cordis": "cordis-lib.github.io",
-  "cordova-multiplatform-template": "ckgrafico.github.io/Cordova-Multiplatform-Template", // noCF? (don´t add this in a new PR)
+  "cordova-multiplatform-template":
+    "ckgrafico.github.io/Cordova-Multiplatform-Template", // noCF? (don´t add this in a new PR)
   "coreact": "coreactjs.github.io/coreact",
   "coredi": "empla.github.io/coredi",
   "cork": "davej.github.io/CorkJS",
@@ -704,12 +705,14 @@ export const cnames_active = {
   "discord-antiraid": "derpinou.github.io/discord-antiraid",
   "discord-bio": "asdfugil.github.io/discord.bio",
   "discord-botlists": "sidisliveyt.github.io/discord-botlists",
-  "discord-button-page": "kingofpanda-development.github.io/discord-button-page",
+  "discord-button-page":
+    "kingofpanda-development.github.io/discord-button-page",
   "discord-cmds": "hosting.gitbook.io", // noCF
   "discord-epagination": "azawat7.github.io/discord-pagination",
   "discord-gamecord": "gamecord-docs.vercel.app",
   "discord-giveaways": "androz2091.github.io/discord-giveaways",
-  "discord-kommando-plugins": "team-thinkcord.github.io/discord-kommando.js-plugins",
+  "discord-kommando-plugins":
+    "team-thinkcord.github.io/discord-kommando.js-plugins",
   "discord-kr": "discordjs-kr.github.io/website",
   "discord-logs": "androz2091.github.io/discord-logs",
   "discord-neura": "discord-neura.github.io/website",
@@ -1617,7 +1620,8 @@ export const cnames_active = {
   "marble": "jsguy.github.io/marble",
   "marcelo": "marcelooggero.github.io/bootstrap",
   "mareact": "ipudu.github.io/mareact",
-  "mariateresazamoragomez": "JoseCarlosZamoraGomez.github.io/Maria-Teresa-Zamora-G-mez",
+  "mariateresazamoragomez":
+    "JoseCarlosZamoraGomez.github.io/Maria-Teresa-Zamora-G-mez",
   "maridreycupcakes": "danyflores.github.io/MariDrey-CupCakes",
   "marie": "marie-js.github.io/MARIE.js",
   "mark": "henry-luo.github.io/mark",
@@ -1886,7 +1890,8 @@ export const cnames_active = {
   "nod": "diegohaz.github.io/nod",
   "node": "nodejs.github.io/node.js.org",
   "node-atlas": "haeresis.github.io/NodeAtlas",
-  "node-minecraft-protocol.prismarine": "prismarinejs.github.io/node-minecraft-protocol", // noCF
+  "node-minecraft-protocol.prismarine":
+    "prismarinejs.github.io/node-minecraft-protocol", // noCF
   "node-slate": "center-key.github.io/node-slate",
   "node-vimeo": "sidisliveyt.github.io/node-vimeo",
   "nodebook": "hosting.gitbook.io",
@@ -2128,7 +2133,8 @@ export const cnames_active = {
   "protonio": "aktilacengiz.github.io/protonio",
   "prototyped": "ardalanamini.github.io/prototyped.js",
   "protype": "arguiot.github.io/ProType",
-  "proyecto-estadistica-2020": "eduardodevop.github.io/proyecto-estadistica-2020",
+  "proyecto-estadistica-2020":
+    "eduardodevop.github.io/proyecto-estadistica-2020",
   "pruf": "signalwerk.github.io/pruf",
   "pruthvisoni": "pruthvisooni.github.io",
   "ps": "spindlyskit.github.io/ps.js",
@@ -2213,14 +2219,17 @@ export const cnames_active = {
   "react-entanglement": "react-entanglement.github.io",
   "react-facet": "jolly-stone-0d2f00e03.azurestaticapps.net", // noCF
   "react-hint": "slmgc.github.io/react-hint",
-  "react-jewish-datepicker": "shmulik-kravitz.github.io/react-jewish-datepicker",
+  "react-jewish-datepicker":
+    "shmulik-kravitz.github.io/react-jewish-datepicker",
   "react-layout-components": "kripod.github.io/react-layout-components",
   "react-leaflet": "paullecam.github.io/react-leaflet",
   "react-native-csv": "react-native-csv.github.io",
   "react-native-elements": "react-native-elements.github.io/playground",
   "react-native-flex-layout": "react-native-flex-layout.vercel.app",
-  "react-native-floating-labels": "mayank-patel.github.io/react-native-floating-labels",
-  "react-native-track-player": "doublesymmetry.github.io/react-native-track-player", // noCF
+  "react-native-floating-labels":
+    "mayank-patel.github.io/react-native-floating-labels",
+  "react-native-track-player":
+    "doublesymmetry.github.io/react-native-track-player", // noCF
   "react-observatory": "hosting.gitbook.com",
   "react-papaparse": "react-papaparse.github.io",
   "react-pivottable": "plotly.github.io/react-pivottable",
@@ -2292,7 +2301,8 @@ export const cnames_active = {
   "redux-toolkit": "redux-starter-kit-docs.netlify.com",
   "redux-tools": "lundegaard.github.io/redux-tools",
   "redux-undo": "hosting.gitbook.com",
-  "redux-webpack-boilerplate": "cchamberlain.github.io/redux-webpack-boilerplate", // noCF? (don´t add this in a new PR)
+  "redux-webpack-boilerplate":
+    "cchamberlain.github.io/redux-webpack-boilerplate", // noCF? (don´t add this in a new PR)
   "reduxible": "pitzcarraldo.github.io/reduxible", // noCF? (don´t add this in a new PR)
   "reflare": "xiaoyang-sde.github.io/reflare.js.org",
   "reforms": "empla.github.io/reforms-docs",
@@ -3136,10 +3146,10 @@ export const cnames_active = {
   "zxy": "ZXYFrank.github.io",
   "zyh": "zyh-chopper.github.io/zyh",
   "zykj": "cname.vercel-dns.com", // noCF
-  "zyy": "zyyou.github.io/notes"
+  "zyy": "zyyou.github.io/notes",
   /*
    * please don't add your subdomain records down here!
    * insert them in alphabetical order to help reduce merge conflicts.
    * <3
    */
-}
+};
