@@ -1,10 +1,8 @@
 // This validates the file has a correct format, if not Deno will throw an error.
 
-const data = await Deno.readTextFile("./cnames_active.js");
+import { CNAMES } from "./utils.ts";
 
-const cnames = Function(data + "; return cnames_active")();
-
-const DOMAINS = Object.keys(cnames);
+const DOMAINS = Object.keys(CNAMES);
 const SORTED_DOMAINS = [...DOMAINS].sort();
 
 if (SORTED_DOMAINS !== DOMAINS) {

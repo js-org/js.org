@@ -12,4 +12,4 @@ jobs:
         with:
           deno-version: v1.x
       - run: deno fmt --check
-      - run: deno run validator/main.ts
+      - run: deno run --allow-read validator/main.ts
