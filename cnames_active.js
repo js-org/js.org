@@ -1499,6 +1499,7 @@ var cnames_active = {
   "lean-stack": "lean-stack.github.io", // noCF? (don´t add this in a new PR)
   "leandro": "leandrowd.github.io", // noCF? (don´t add this in a new PR)
   "learnathon": "learn-a-thon.netlify.com",
+  "leap-year-utils": "ultirequiem.github.io/leap_year_utils",
   "learngitbranching": "pcottle.github.io/learnGitBranching",
   "learningenglish": "guilhermedelemos.github.io/Learning-English",
   "learns": "cname.vercel-dns.com",
