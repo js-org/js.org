@@ -1465,7 +1465,7 @@ var cnames_active = {
   "kst": "lucaelin.github.io/KST", // noCF
   "ktm": "developers-nepal.github.io/ktmjs",
   "kucos": "kucosjs.github.io",
-  "kumeru": "ultirequiem.github.io/kumeru"
+  "kumeru": "ultirequiem.github.io/kumeru",
   "kunal": "kunalghosh02.github.io",
   "kunkun": "smallkunkun.github.io",
   "kyoto": "kyotojs.github.io",
@@ -1857,7 +1857,7 @@ var cnames_active = {
   "next-crud": "next-crud.netlify.app",
   "next-redux-cookie-wrapper": "bjoluc.github.io/next-redux-cookie-wrapper",
   "next.awesome-vue": "awesome-vue.netlify.app", // noCF
-  "nextkit-fetcher": "ultirequiem.github.io/nextkit-fetcher"
+  "nextkit-fetcher": "ultirequiem.github.io/nextkit-fetcher",
   "nflow": "nflow-js.github.io", // noCF? (don´t add this in a new PR)
   "nfui": "no-frills-ui.netlify.app",
   "nfwyst": "nfwyst.github.io",
@@ -2329,7 +2329,7 @@ var cnames_active = {
   "revaluate": "hasharray.github.io/revaluate.js",
   "reviewbuku": "mzaini30.github.io/reviewbuku",
   "revolt": "revoltchat.github.io/revolt.js",
-  "revolt-api": "kaplego.github.io/revoltjs"
+  "revolt-api": "kaplego.github.io/revoltjs",
   "rexs": "uellenberg.github.io/REXS",
   "reyes": "michaelbreyes.github.io/reyes",
   "rgbstrip": "xrealneon.github.io/RGBStrip",
