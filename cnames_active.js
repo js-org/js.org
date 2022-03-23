@@ -3137,7 +3137,6 @@ var cnames_active = {
   "zykj": "cname.vercel-dns.com", // noCF
   "zyy": "zyyou.github.io/notes"
   "zimo6918": "zimo6918.github.io"
-
   /*
    * please don't add your subdomain records down here!
    * insert them in alphabetical order to help reduce merge conflicts.
