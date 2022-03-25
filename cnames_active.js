@@ -1243,6 +1243,7 @@ var cnames_active = {
   "id": "andae.github.io/id",
   "id.single-spa": "single-spa.github.io/id.single-spa.js.org", // noCF
   "id3": "jeff-tian.github.io/id3",
+  "idara": "idara17.github.io",
   "idettman": "idettman.github.io",
   "idraw": "idrawjs.github.io",
   "ienumerable": "mbasso.github.io/ienumerable",
