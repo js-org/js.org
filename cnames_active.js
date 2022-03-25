@@ -1673,6 +1673,7 @@ var cnames_active = {
   "mengd": "cname.vercel-dns.com", // noCF
   "menghafalquran": "mzaini30.github.io/menghafal-quran",
   "meow": "meow-js.github.io",
+  "amarnathk" : "github.com/Amarnath-someperson/amarnathk.js"
   "mercury": "henryqw.github.io/mercury",
   "merkletree": "miguelmota.github.io/merkletreejs",
   "merkur": "mjancarik.github.io/merkur",
