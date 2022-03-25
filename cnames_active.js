@@ -2471,7 +2471,7 @@ var cnames_active = {
   "share": "jeff-tian.github.io/weshare",
   "sharec": "lamartire.github.io/sharec",
   "shareon": "shareon.kytta.codeberg.page", // noCF
-  "Shaunak": "shaunakchakraborty.github.io/Shaunak"
+  "shaunak": "shaunakchakraborty.github.io/Shaunak"
   "sheet": "sheetjs.github.io/sheet.js.org",
   "shekhar": "shekharreddy4.github.io/Shekhar",
   "shell": "adaltas.github.io/node-shell",
