@@ -2,7 +2,11 @@ name: Validate cnames_active.js
 
 on:
   push:
+    branches:
+      - master
   pull_request:
+    branches:
+      - master
 
 jobs:
   validate:
