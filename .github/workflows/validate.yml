@@ -1,3 +1,5 @@
+name: Validate cnames_active.js
+
 on:
   push:
   pull_request:
