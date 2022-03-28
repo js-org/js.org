@@ -1812,7 +1812,6 @@ var cnames_active = {
   "mvc": "morozovsk.github.io/mvc", // noCF
   "mw": "agauniyal.github.io/mw",
   "mwap": "jacob-ebey.github.io/mwap",
-  "mwxblog": "plutoscratch.github.io",
   "my-app": "nirrius.github.io/my-app",
   "my-server": "nirrius.github.io/my-server",
   "mylas": "raouldeheer.github.io/Mylas",
@@ -2076,6 +2075,7 @@ var cnames_active = {
   "player": "player.netlify.com",
   "pliers": "pliersjs.github.io", // noCF? (don´t add this in a new PR)
   "plotyxd": "plotyxd.github.io",
+  "pluto": "plutoscratch.github.io"
   "pnpm": "pnpm.netlify.app",
   "pod": "mileallen.github.io/pod",
   "podivilov": "podivilov.github.io",
