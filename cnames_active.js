@@ -827,7 +827,7 @@ var cnames_active = {
   "easytrivia": "Elitezen.github.io/easy-trivia-website",
   "easytrivia-guide": "turtlepaw.github.io/trivia-docs",
   "eatery-nod-w": "kevinast.github.io/eatery-nod-w",
-  "eazyd": "https://itzarman09.github.io/discord-eazy",
+  "eazyd": "itzarman09.github.io/discord-eazy",
   "ebnsina": "ebnsina.github.io/js.ebnsina.me",
   "echo": "licshee.github.io/echo.js",
   "eco": "quick-eco.netlify.app",
