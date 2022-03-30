@@ -928,6 +928,7 @@ var cnames_active = {
   "executor": "executor.netlify.app",
   "exeform": "hosting.gitbook.com", // noCF
   "exp": "magicops.github.io/JQuery-expression-builder",
+  "express-kun": "hanipcode.github.io/express-kun",
   "expressad": "flweber.github.io/express-ad-basicauth",
   "expressdynamichelpers": "marvnet.github.io/express-dynamic-helpers-patch",
   "exprtk": "mmomtchev.github.io/exprtk.js",
