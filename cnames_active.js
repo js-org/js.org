@@ -1430,6 +1430,7 @@ var cnames_active = {
   "kim": "khareemnurulla.github.io/kim",
   "kimera": "ultirequiem.github.io/kimera",
   "kindavishal": "kindavishal.netlify.com",
+  "kirakira": "flyerangel.github.io",
   "kiranremmarasu": "kiranremmarasu.github.io/kiranremmarasu",
   "kite": "kite-js.github.io/kite",
   "kiwidocs": "arguiot.github.io/KiwiDocs",
