@@ -1220,7 +1220,7 @@ var cnames_active = {
   "httpcord": "andre4ik3.github.io/httpcord",
   "https": "yakeing.github.com/https.js", // noCF
   "httpunit": "samzh72.github.io/httpunit",
-  "httpman" : "httpman.github.io"
+  "httpman" : "httpman.github.io",
   "hub": "yyued.github.io/hub.js",
   "hubble": "hubble.netlify.com",
   "hubo": "huvboo.github.io",
