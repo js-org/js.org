@@ -1850,6 +1850,7 @@ var cnames_active = {
   "nemo": "paypal.github.io/nemo", // noCF? (don´t add this in a new PR)
   "neo4": "janpeter.github.io/neo4js",
   "neox": "neoxn3il.netlify.app",
+  "nested-error": "ultirequiem.github.io/nested_error",
   "neteasecloudmusicapi": "w4ctech.github.io/NeteaseCloudMusicApi",
   "neurax-api": "configneurax.netlify.com",
   "neuro": "neurojs.netlify.com",
