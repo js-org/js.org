@@ -1812,6 +1812,7 @@ var cnames_active = {
   "murmansk": "interfluve.github.io/Murmansk",
   "musicca": "musiccajs.github.io/website",
   "musickit": "exerra.github.io/node-musickit-api", // noCF
+  "musicord": "arthurleo13.github.io/musicord-documentation"
   "muto": "booleanapp.github.io/elastic-muto",
   "muxfm": "muxfm.github.io/docs",
   "mvc": "morozovsk.github.io/mvc", // noCF
@@ -2078,7 +2079,6 @@ var cnames_active = {
   "planisphere": "dai-shi.github.io/planisphere-site", // noCF? (don´t add this in a new PR)
   "planner": "openplannerteam.github.io/planner.js",
   "platz": "fylipp.github.io/platz.js",
-  "playcord": "arthurleo13.github.io/playcord-documentation",
   "player": "player.netlify.com",
   "pliers": "pliersjs.github.io", // noCF? (don´t add this in a new PR)
   "plotyxd": "plotyxd.github.io",
