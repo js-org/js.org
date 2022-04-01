@@ -1837,6 +1837,7 @@ var cnames_active = {
   "naseem": "naseemali925.github.io/about-me",
   "nastya-piu": "nastya-piu.github.io",
   "nativemodels": "prefinem.github.io/nativemodels",
+  "natuna": "natunaorg.github.io",
   "naughtychecker": "gautamkrishnar.github.io/naughtychecker.js",
   "nautil": "tangshuang.github.io/nautil",
   "nautilus": "ignigena.github.io/nautilus",
