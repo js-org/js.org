@@ -2454,7 +2454,7 @@ var cnames_active = {
   "see-more-demo": "wangdabaoqq.github.io/vuepress",
   "seemple": "finom.github.io/seemple.js.org",
   "seesaw": "cajogos.github.io/seesaw",
-  "setar": "setar-bot.github.io/website",
+  "setar": "setar-bot.github.io",
   "segno": "keimeno.github.io/segno",
   "segoe-mdl2-css": "ckgrafico.github.io/Segoe-mdl2-assets-css", // noCF? (don´t add this in a new PR)
   "select_io": "selaromi.github.io/select_io", // noCF? (don´t add this in a new PR)
