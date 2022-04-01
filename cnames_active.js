@@ -2194,7 +2194,7 @@ var cnames_active = {
   "randomimgapi": "hosting.gitbook.io",
   "randy": "randyviandaputra.github.io",
   "rangeslider": "andreruffert.github.io/rangeslider.js", // noCF? (don´t add this in a new PR)
-  "ranmess ": "ultirequiem.github.io/ranmess",
+  "ranmess": "ultirequiem.github.io/ranmess",
   "rant": "79e.github.io/rant",
   "rasti": "8tentaculos.github.io/rasti",
   "rate-limiter-api": "abhisekp.github.io/rate-limiter-api",
