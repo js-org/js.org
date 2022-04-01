@@ -2472,7 +2472,7 @@ var cnames_active = {
   "service-mocker": "service-mocker.github.io/service-mocker",
   "serviceberry": "bob-gray.github.io/serviceberry",
   "sesam": "lennertderyck.github.io/sesam",
-  "setar": "setar-bot.github.io/website/",
+  "setar": "setar-bot.github.io/website",
   "setheum": "setheum-js.github.io",
   "sfml": "xadillax.github.io/node-sfml",
   "shandler": "hosting.gitbook.io", // noCF
