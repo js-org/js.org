@@ -1812,6 +1812,7 @@ var cnames_active = {
   "murmansk": "interfluve.github.io/Murmansk",
   "musicca": "musiccajs.github.io/website",
   "musickit": "exerra.github.io/node-musickit-api", // noCF
+  "musicord": "arthurleo13.github.io/musicord-documentation",
   "muto": "booleanapp.github.io/elastic-muto",
   "muxfm": "muxfm.github.io/docs",
   "mvc": "morozovsk.github.io/mvc", // noCF
