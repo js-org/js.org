@@ -1916,6 +1916,7 @@ var cnames_active = {
   "now": "leodog896.github.io/jsnow",
   "npkill": "voidcosmos.github.io/npkill",
   "nplayer": "woopen.github.io/nplayer",
+  "npm-card": "ultirequiem.github.io/create-npm-card",
   "npmer": "rumkin.github.io/npm-watch",
   "npmgraph": "cname.vercel-dns.com", // noCF
   "nsp": "hanul.github.io/NSP", // noCF? (don´t add this in a new PR)
