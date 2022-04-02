@@ -1219,7 +1219,7 @@ var cnames_active = {
   "htmljar": "syntacstudio.github.io/html-jar",
   "htony": "themetony.github.io/hugo-theme-tony",
   "http4ts": "http4ts.github.io/http4ts",
-  "httpcord": "andre4ik3.github.io/httpcord",
+  "httpcord": "httpcord.github.io/httpcord",
   "httpman": "httpman.github.io",
   "https": "yakeing.github.io/https.js", // noCF
   "httpunit": "samzh72.github.io/httpunit",
