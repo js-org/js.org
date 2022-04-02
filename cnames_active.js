@@ -2744,6 +2744,7 @@ var cnames_active = {
   "term-web": "zhw2590582.github.io/term-web",
   "termi": "wearetermi.github.io/termi",
   "terminal": "gottox.github.io/terminal.js", // noCF? (don´t add this in a new PR)
+  "terradevgroup": "terradevgroup.js.org"
   "tess": "det171.github.io/Tess.js",
   "testframe": "testingrequired.github.io/testframe",
   "tetr": "proximitynow19.github.io/TETR.JS",
