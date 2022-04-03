@@ -2702,6 +2702,7 @@ var cnames_active = {
   "sxcu": "m-phoenix852.github.io/sxcu.js-docs",
   "sxw": "sxwjs.github.io",
   "sydinh": "sydinh.github.io",
+  "synergies": "lukasbach.github.io/synergies",
   "synergy": "synergyaddons.github.io/synergy-addons",
   "synth": "lukehorvat.github.io/synth-mood",
   "syr": "dmikey.github.io/syr",
