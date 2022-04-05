@@ -394,6 +394,7 @@ var cnames_active = {
   "byakugan": "rockmanvnx6.github.io/byakugan-js",
   "bynote": "bynotes.github.io",
   "byteasier": "kagurain.github.io/ByteasierIndex",
+  "bytemd": "bytemd.netlify.app",
   "c": "cocobear.github.io",
   "c-3po": "ttag-org.github.io/c-3po",
   "c-installer": "llenax.github.io/c-installer",
