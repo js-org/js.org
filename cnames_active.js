@@ -294,6 +294,7 @@ var cnames_active = {
   "bee": "beejsdev.github.io",
   "begin": "advanced-webapps-class.github.io/begin", // noCF? (don´t add this in a new PR)
   "belfast": "chrislaughlin.github.io/belfastjs",
+  "bellorinrobert": "bellorinrobert.github.io/my-portafolio/",
   "benjick": "benjick.github.io",
   "berk": "berkelmas.github.io",
   "bernard": "ojengwa.github.io",
