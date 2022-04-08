@@ -964,6 +964,7 @@ var cnames_active = {
   "fidel": "fidelxyz.github.io",
   "fikri": "ikrydev.github.io/fikri.js.org",
   "filer": "filerjs.github.io/filer",
+  "file-extension": "ultirequiem.github.io/file-extension",
   "fill100": "matteobruni.github.io/fill100",
   "finance": "financejs.github.io/finance.js",
   "financial": "financialjsorg.netlify.app",
