@@ -963,6 +963,7 @@ var cnames_active = {
   "fetch-the-parrot": "fetch-the-parrot.netlify.app",
   "fidel": "fidelxyz.github.io",
   "fikri": "ikrydev.github.io/fikri.js.org",
+  "file-extension": "ultirequiem.github.io/file-extension",
   "filer": "filerjs.github.io/filer",
   "fill100": "matteobruni.github.io/fill100",
   "finance": "financejs.github.io/finance.js",
