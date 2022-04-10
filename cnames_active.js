@@ -1681,6 +1681,7 @@ var cnames_active = {
   "memoz": "60-min-code.github.io/memoz",
   "mengd": "cname.vercel-dns.com", // noCF
   "menghafalquran": "mzaini30.github.io/menghafal-quran",
+  "menu": "cohenerickson.github.io/menu",
   "meow": "meow-js.github.io",
   "mercury": "henryqw.github.io/mercury",
   "merkletree": "miguelmota.github.io/merkletreejs",
