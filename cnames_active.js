@@ -3091,7 +3091,7 @@ var cnames_active = {
   "wysc": "coffeebank.github.io/wysc-vue",
   "wz": "wangzhen-chn.github.io/wz",
   "x": "nikhiljohn10.github.io/x.js",
-  "xchart": "cname.vercel-dns.com",
+  "xchart": "xchart.vercel.app",
   "xen": "hosting.gitbook.com",
   "xendb": "notmarx.github.io/Xen.db",
   "xhemj": "xhemj.now.sh", // noCF
