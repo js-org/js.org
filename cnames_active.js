@@ -1367,6 +1367,7 @@ var cnames_active = {
   "john": "jozhn.github.io",
   "jokes": "jeff-tian.github.io/jokes",
   "jomb": "mrtampan.github.io/jomb-music",
+  "jombhowl": "mrtampan.github.io/jomb-howl",
   "jonathangt": "jonathangt.github.io/portafolio",
   "jonny": "shirajuki.github.io/jonny",
   "jonnynl": "shirajuki.github.io/jonnynl",
