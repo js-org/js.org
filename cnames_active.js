@@ -1263,6 +1263,7 @@ var cnames_active = {
   "iiimix": "iiimix.github.io/iiimixjsorg",
   "iio": "iioinc.github.io/iio.js", // noCF? (don´t add this in a new PR)
   "imagecapture": "googlechrome.github.io/imagecapture-polyfill",
+  "imagine": "karimayachi.github.io/imagine",
   "imask": "unmanner.github.io/imaskjs",
   "imbue": "ghosts.github.io/Imbue",
   "imcvampire": "cname.vercel-dns.com", // noCF
