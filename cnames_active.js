@@ -365,6 +365,7 @@ var cnames_active = {
   "brandonmerritt": "brandonmerritt.github.io", // noCF? (don´t add this in a new PR)
   "brasil": "javascriptbrasil.github.io",
   "brawley": "brawlie.github.io/brawley",
+  "brawlstats": "brawlstatsjs.netlify.app",
   "brawlup": "brawlup.github.io",
   "breadbot": "centralomd.github.io/breadbot",
   "bricklayer": "ademilter.github.io/bricklayer", // noCF? (don´t add this in a new PR)
