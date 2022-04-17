@@ -308,6 +308,7 @@ var cnames_active = {
   "bhailang": "dullabs.github.io/bhai-lang",
   "bigbrainbot": "112batman.github.io/bigbrainbot-website",
   "bijou": "explosion-scratch.github.io/bijou.js",
+  "bilibili": "cname.vercel-dns.com", // noCF
   "bin": "sujalgoel.github.io/impostor-bin",
   "bind-action-dispatchers": "cchamberlain.github.io/bind-action-dispatchers", // noCF? (don´t add this in a new PR)
   "bingo": "thewilloftheshadow.github.io/bingo.js",
