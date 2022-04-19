@@ -2198,6 +2198,7 @@ var cnames_active = {
   "radi": "radi-js.github.io/radi",
   "radial": "ckgrafico.github.io/radial.js", // noCF? (don´t add this in a new PR)
   "rafaelmangolin": "rafaelmangolin.github.io", // noCF? (don´t add this in a new PR)
+  "rafaelDeveloperBigDataDevOps": "rakydermo.github.io/Porfolio"
   "rahul": "rahulsukla.github.io/rahul", // noCF? (don´t add this in a new PR)
   "rahulbussa": "rahulbussa.github.io",
   "ralmaz": "ralmaz.github.io",
