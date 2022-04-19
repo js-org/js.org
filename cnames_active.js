@@ -1609,6 +1609,7 @@ var cnames_active = {
   "m8bot": "mapreiff.github.io/m8-bot-site",
   "ma124": "ma124.netlify.com",
   "machinelearning": "marink.github.io/machinelearning",
+  "maclary": "maclary.github.io/maclary",
   "macosnotif": "mattipv4.github.io/macOSNotifJS",
   "mad": "madindx.github.io/mad",
   "madankumar": "jmadankumar.github.io",
