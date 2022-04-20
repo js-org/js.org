@@ -988,7 +988,7 @@ var cnames_active = {
   "flavor": "blackmirror1980.github.io/flavor-js",
   "fld-grd": "mrksbnch.github.io/fld-grd",
   "flexmasonry": "kavanmevada.github.io/flex_masonry", // noCF
-  "flightpkg": "cname.vercel-dns.com"
+  "flightpkg": "cname.vercel-dns.com",
   "flipnote": "jaames.github.io/flipnote.js",
   "flood": "flood.jesec.io", // noCF
   "floppy": "hosting.gitbook.io", // noCF
