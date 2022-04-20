@@ -959,6 +959,7 @@ var cnames_active = {
   "fdl": "fdljs.now.sh",
   "fe": "xcss.github.io/FE",
   "feature-u": "kevinast.github.io/feature-u",
+  "febryars33": "febryarss33.github.io",
   "feeble": "feeblejs.github.io/feeble",
   "fela": "felajs.vercel.app",
   "fem": "frani.github.io/fem",
