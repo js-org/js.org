@@ -856,6 +856,7 @@ var cnames_active = {
   "elementnet": "elementnet.github.io",
   "eleven": "elevendev.github.io",
   "elf": "mytharcher.github.io/elf.js.org", // noCF? (don´t add this in a new PR)
+  "elianamonsalve": "emoole.github.io/ElianaMonsalvePortfolio",
   "elixor": "hosting.gitbook.com",
   "eliza": "chigix.github.io/eliza-instrumentality",
   "elliot": "elliotboney.github.io", // noCF? (don´t add this in a new PR)
