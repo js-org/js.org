@@ -1031,6 +1031,7 @@ var cnames_active = {
   "framework": "plasnerd.github.io/Framework.js",
   "frameworkless": "mtimofiiv.github.io/frameworkless",
   "frankmosca": "alias.zeit.co", // noCF
+  "franklinmontoya":"github.com/F7ank/Portfolio.git",
   "fre": "132yse.github.io/fre",
   "freemarker": "ijse.github.io/freemarker.js", // noCF? (don´t add this in a new PR)
   "freezer": "pakastin.github.io/freezer",
