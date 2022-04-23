@@ -1075,6 +1075,7 @@ var cnames_active = {
   "gtfs": "gtfs-js.github.io/gtfs.js.org",
   "guild": "guild-js.github.io/guild.js",
   "guilded": "guildedjs.github.io/guilded.js",
+  "guildedapi": "rellylegend.github.io/guilded-api.js"
   "guilherme": "guilhermedelemos.github.io/guilherme",
   "guillotine": "matiasgagliano.github.io/guillotine", // noCF? (don´t add this in a new PR)
   "guineapigbot": "guineapigbot.github.io",
