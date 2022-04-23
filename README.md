@@ -5,14 +5,16 @@
 [![Donate](https://img.shields.io/badge/Donate-for_registrar_fees-1F87FF.svg?style=flat-square&logo=open-collective&logoColor=fff)](https://opencollective.com/js-org)
 
 :boom::boom::boom:
-***Due to the increased number of requests for js.org subdomains recently, with many having questionable relevancy to the JavaScript community and ecosystem, we've decided that going forward JS.ORG will be focusing on accepting subdomain requests from projects with a clear relation to the JS community.***
+***Due to the increased number of requests for js.org subdomains, with many having questionable relevancy to the JavaScript community and ecosystem, we've decided that going forward JS.ORG will be focusing on accepting subdomain requests from projects with a clear relation to the JS community.***
 
-***As some examples, personal pages, blogs, Discord bot pages and basic turorials for unrelated libraries will no longer be accepted. Projects such as NPM packages, libraries, tools that have a clear and direct relation to JavaScript, will be accepted when requesting a JS.ORG subdomain. This decision does not affect subdomains that have already been granted.***
+***As some examples, personal pages, blogs, Discord bot pages and basic tutorials for unrelated libraries will no longer be accepted. Projects such as NPM packages, libraries, tools that have a clear and direct relation to JavaScript, will be accepted when requesting a JS.ORG subdomain. This decision does not affect subdomains that have already been granted.***
 :boom::boom::boom:
+
+**Some Similar Services:** [js.cool](https://github.com/js-cool/js.cool), [is-a.dev](https://github.com/is-a-dev/register), [thedev.id](https://github.com/fransallen/thedev.id), [mod.land](https://github.com/denosaurs/mod.land), [runs-on.tech](https://github.com/aakhilv/runs-on.tech)
 
 ---
 
-**To get a short and sleek subdomain for your own GitHub Pages site follow these 4 Steps:**
+**To get a short and sleek subdomain for your own GitHub Pages site from JS.ORG follow these 4 Steps:**
 
 ### Step 1
 If you haven't already, now it's time to log in to your GitHub account and set up your GitHub Pages site following the instructions [here](https://pages.github.com/). To get a head start you can simply use the generator with one of the provided themes and **add some reasonable content to your new page**.
@@ -30,5 +32,3 @@ To finish the procedure, make a pull request in this GitHub repository that adds
 
 ### Thanks
 ... to **[Cloudflare](https://www.cloudflare.com)** for their superb DNS service that makes this possible. While JS.ORG is using their free plan - to a shameless extent - they helped us more than once with some flexible solutions and extended quotas. Many thanks!
-
-Redirect service provided by **[redirect.pizza](https://redirect.pizza?utm_source=partner&utm_medium=link&utm_campaign=js.org)**
