@@ -246,7 +246,7 @@ var cnames_active = {
   "awk": "42ua.github.io/awk",
   "awoo": "awoojs.github.io/website",
   "aws-auth": "iamarkadyt.github.io/aws-auth",
-  "api.spud": "nicoldev.github.io/api.spud",
+  "api.spud": "0157b448-825e-46ff-a489-d7df40565102.id.repl.co",
   "axii": "ariesate.github.io/axii-site",
   "axios-cache-interceptor": "arthurfiorette.github.io/axios-cache-interceptor",
   "axon": "caracal7.github.io/axon.js",
