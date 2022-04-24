@@ -1300,6 +1300,7 @@ var cnames_active = {
   "insta": "androz2091.github.io/instajs-website",
   "instabousing": "jlbousing.github.io/instaBousing",
   "instacam": "xavierfoucrier.github.io/instacam",
+  "instaiva": "7orp3do.github.io/Instaiva",
   "instant": "instant.github.io",
   "integreat": "hosting.gitbook.com",
   "intelligo": "intelligo.netlify.com",
