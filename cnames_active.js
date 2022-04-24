@@ -2454,6 +2454,7 @@ var cnames_active = {
   "schema": "hosting.gitbook.com",
   "schemy": "aeberdinelli.github.io/schemy",
   "scopes": "kelleyvanevert.github.io/scopes",
+  "scramb": "jastinxyz.github.io/scramb",
   "scramble": "ignatiusmb.github.io/scramble",
   "scrap": "nab138.github.io/scrap",
   "scratch": "scratch-js.github.io",
