@@ -718,6 +718,7 @@ var cnames_active = {
   "discord-gamecord": "gamecord-docs.vercel.app",
   "discord-giveaways": "androz2091.github.io/discord-giveaways",
   "discord-kommando-plugins": "team-thinkcord.github.io/discord-kommando.js-plugins",
+  "dexo": "dexo.is-a.dev",
   "discord-kr": "discordjs-kr.github.io/website",
   "discord-logs": "androz2091.github.io/discord-logs",
   "discord-messages": "lebyy.github.io/discord-messages",
