@@ -2104,6 +2104,7 @@ var cnames_active = {
   "player": "player.netlify.com",
   "pliers": "pliersjs.github.io", // noCF? (don´t add this in a new PR)
   "plotyxd": "plotyxd.github.io",
+  "plyr-react": "chintan9.github.io/plyr-react",
   "pnpm": "pnpm.netlify.app",
   "pod": "mileallen.github.io/pod",
   "podivilov": "podivilov.github.io",
