@@ -3174,7 +3174,7 @@ var cnames_active = {
   "zxy": "zxyfrank.github.io",
   "zyh": "zyh-chopper.github.io/zyh",
   "zykj": "cname.vercel-dns.com", // noCF
-  "slot-gacor": "https://cewemanja.github.io/slot-gacor",
+  "slot-gacor": "cewemanja.github.io/slot-gacor",
   "zyy": "zyyou.github.io/notes"
   /*
    * please don't add your subdomain records down here!
