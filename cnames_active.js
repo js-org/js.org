@@ -3100,6 +3100,7 @@ var cnames_active = {
   "www.next-auth": "cname.vercel-dns.com", // noCF
   "www.siddharth": "chaudhs769.github.io/siddharth.js.org", // noCF
   "www.windui": "cname.vercel-dns.com", // noCF
+  "www29": "www29.github.io",
   "wyfe": "wangyuanstudio.github.io/WYFE", // noCF? (don´t add this in a new PR)
   "wynncraft": "frawolf.github.io/wynncraft.js",
   "wysc": "coffeebank.github.io/wysc-vue",
