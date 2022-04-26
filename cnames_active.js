@@ -2731,6 +2731,7 @@ var cnames_active = {
   "syr": "dmikey.github.io/syr",
   "t": "l-js.mydevapp.tfuture.eu.org", // noCF
   "tab": "gdmcc.github.io/tab",
+  "tagscript": "imranbarbhuiya.github.io/TagScript",
   "tagster": "goschevski.github.io/tagster", // noCF? (don´t add this in a new PR)
   "taha": "orcxzjeeeee.github.io/taha",
   "tailwind-baseline": "apkoponen.github.io/tailwind-baseline-site",
