@@ -563,6 +563,7 @@ var cnames_active = {
   "cord": "lukadev-0.github.io/cord.js",
   "cordis": "cordis-lib.github.io",
   "cordova-multiplatform-template": "ckgrafico.github.io/Cordova-Multiplatform-Template", // noCF? (don´t add this in a new PR)
+  "core-ln": "runcitadel.github.io/core-ln.ts",
   "coreact": "coreactjs.github.io/coreact",
   "coredi": "empla.github.io/coredi",
   "coreutils": "ultirequiem.github.io/coreutils",
