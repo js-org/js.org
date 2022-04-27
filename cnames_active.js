@@ -566,6 +566,7 @@ var cnames_active = {
   "coreact": "coreactjs.github.io/coreact",
   "coredi": "empla.github.io/coredi",
   "coreutils": "ultirequiem.github.io/coreutils",
+  "core-ln": "runcitadel.github.io/core-ln.ts",
   "cork": "davej.github.io/CorkJS",
   "corki": "dvtate.github.io/corki",
   "corona": "soroushchehresa.github.io/awesome-coronavirus",
