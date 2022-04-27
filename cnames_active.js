@@ -539,6 +539,7 @@ var cnames_active = {
   "computed": "krmax44.github.io/rollup-plugin-computed",
   "concurrent-tasks": "hosting.gitbook.com",
   "concursos": "mteyss.github.io/concursos", // noCF? (don´t add this in a new PR)
+  "condition": "mg98.github.io/condition.js",
   "conductor": "hosting.gitbook.com",
   "confetti": "matteobruni.github.io/confetti",
   "conflict": "yodalightsabr.github.io/conflict-website",
@@ -874,6 +875,7 @@ var cnames_active = {
   "emoji-button": "joeattardi.github.io/emoji-button",
   "emojifier": "badlydrawnletters.github.io/emojifier-docs",
   "emojipanel": "danbovey.github.io/EmojiPanel",
+  "emotify": "aryanbaburajan.github.io/Emotify",
   "empathy": "the94air.github.io/empathy-docs",
   "emre": "emrekara37.github.io",
   "emulisp": "grahack.github.io/EmuLisp", // noCF? (don´t add this in a new PR)
@@ -1108,6 +1110,7 @@ var cnames_active = {
   "gka": "gkajs.github.io/gka",
   "glaze": "kripod.github.io/glaze",
   "glicko2": "animafps.github.io/glicko2.ts",
+  "glicol": "glicol-js.netlify.app",
   "glitchapi": "cname.vercel-dns.com",
   "glitchy-scratch": "glitchy-scratch.github.io",
   "glitterbot": "glitterbot.netlify.com", // noCF
@@ -1150,6 +1153,8 @@ var cnames_active = {
   "guild": "guild-js.github.io/guild.js",
   "guildcord": "guildcord.github.io/docs",
   "guilded": "guildedjs.github.io/guilded.js",
+  "guildedapi": "rellylegend.github.io/guilded-api.js",
+  "guildedts": "guildedts.github.io/guilded.ts",
   "guilherme": "guilhermedelemos.github.io/guilherme",
   "guillotine": "matiasgagliano.github.io/guillotine", // noCF? (don´t add this in a new PR)
   "gully": "nmabhinandan.github.io/gully", // noCF? (don´t add this in a new PR)
@@ -1198,6 +1203,7 @@ var cnames_active = {
   "helper": "tbnritzdoge.github.io/helperweb",
   "helpful": "togatech.github.io/helpful.js",
   "hepsiburada": "berkaltiok.github.io/hepsiburada",
+  "heroku": "gary50613.github.io/herokuapi.js",
   "hexoplusplus": "hexoplusplus.github.io/docs",
   "hfsyun": "hfsyun.github.io",
   "hibiki": "claritymoe.github.io/hibiki",
@@ -1296,6 +1302,7 @@ var cnames_active = {
   "insta": "androz2091.github.io/instajs-website",
   "instabousing": "jlbousing.github.io/instaBousing",
   "instacam": "xavierfoucrier.github.io/instacam",
+  "instaiva": "7orp3do.github.io/Instaiva",
   "instant": "instant.github.io",
   "integreat": "hosting.gitbook.com",
   "intelligo": "intelligo.netlify.com",
@@ -2098,6 +2105,7 @@ var cnames_active = {
   "player": "player.netlify.com",
   "pliers": "pliersjs.github.io", // noCF? (don´t add this in a new PR)
   "plotyxd": "plotyxd.github.io",
+  "plyr-react": "chintan9.github.io/plyr-react",
   "pnpm": "pnpm.netlify.app",
   "pod": "mileallen.github.io/pod",
   "podivilov": "podivilov.github.io",
@@ -2451,6 +2459,7 @@ var cnames_active = {
   "schema": "hosting.gitbook.com",
   "schemy": "aeberdinelli.github.io/schemy",
   "scopes": "kelleyvanevert.github.io/scopes",
+  "scramb": "jastinxyz.github.io/scramb",
   "scramble": "ignatiusmb.github.io/scramble",
   "scrap": "nab138.github.io/scrap",
   "scratch": "scratch-js.github.io",
@@ -2725,6 +2734,7 @@ var cnames_active = {
   "syr": "dmikey.github.io/syr",
   "t": "l-js.mydevapp.tfuture.eu.org", // noCF
   "tab": "gdmcc.github.io/tab",
+  "tagscript": "imranbarbhuiya.github.io/TagScript",
   "tagster": "goschevski.github.io/tagster", // noCF? (don´t add this in a new PR)
   "taha": "orcxzjeeeee.github.io/taha",
   "tailwind-baseline": "apkoponen.github.io/tailwind-baseline-site",
