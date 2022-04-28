@@ -14,6 +14,7 @@
 
 var ns_active = {
   "appshelf": ["ns31.cloudns.net", "ns32.cloudns.net", "ns33.cloudns.net", "ns34.cloudns.net"],
+  "bsb": ["ns10.domains.betterweb.co.za", "ns11.domains.betterweb.co.za", "ns12.domains.betterweb.co.za", "ns13.domains.betterweb.co.za"],
   "castyte": ["ns31.cloudns.net", "ns32.cloudns.net", "ns33.cloudns.net", "ns34.cloudns.net"],
   "engine262": ["brad.ns.cloudflare.com", "lia.ns.cloudflare.com"],
   "lolifamily": ["glen.ns.cloudflare.com", "melany.ns.cloudflare.com"],
