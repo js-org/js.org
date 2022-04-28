@@ -542,7 +542,7 @@ var cnames_active = {
   "condition": "mg98.github.io/condition.js",
   "conductor": "hosting.gitbook.com",
   "confetti": "matteobruni.github.io/confetti",
-  "conflict": "yodalightsabr.github.io/conflict-website",
+  "conflict": "conflictjs.github.io/site",
   "conglo": "schwarzkopfb.github.io/conglo",
   "consent": "datamart.github.io/Consent",
   "consono": "r37r0m0d3l.github.io/consono",
@@ -564,6 +564,7 @@ var cnames_active = {
   "cord": "lukadev-0.github.io/cord.js",
   "cordis": "cordis-lib.github.io",
   "cordova-multiplatform-template": "ckgrafico.github.io/Cordova-Multiplatform-Template", // noCF? (don´t add this in a new PR)
+  "core-ln": "runcitadel.github.io/core-ln.ts",
   "coreact": "coreactjs.github.io/coreact",
   "coredi": "empla.github.io/coredi",
   "coreutils": "ultirequiem.github.io/coreutils",
@@ -2168,6 +2169,7 @@ var cnames_active = {
   "ps": "spindlyskit.github.io/ps.js",
   "pt-pt.single-spa": "single-spa.github.io/pt-pt.single-spa.js.org", // noCF
   "ptero": "pterojs.github.io/ptero.js-docs",
+  "pteromanager": "pteromanager.github.io/Website",
   "ptrdo": "ptrdo.github.io",
   "pubg": "ickerio.github.io/pubg.js",
   "publish-subscribe": "r37r0m0d3l.github.io/publish_subscribe",
