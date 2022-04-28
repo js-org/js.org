@@ -176,7 +176,7 @@ var cnames_active = {
   "apicluster": "ramsunvtech.github.io/apicluster", // noCF? (don´t add this in a new PR)
   "apilyertia": "apilyertia.github.io",
   "aping": "johnnythetank.github.io/apiNG", // noCF? (don´t add this in a new PR)
-  "api.spud": "0157b448-825e-46ff-a489-d7df40565102.id.repl.co", // noCF?
+  "api.spud": "0157b448-825e-46ff-a489-d7df40565102.id.repl.co", // noCF
   "aplayer": "diygod.github.io/APlayer",
   "apod": "marcosflorencio.github.io/angular-apod", // noCF? (don´t add this in a new PR)
   "applied": "omahajs.github.io/applied",
