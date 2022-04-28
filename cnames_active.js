@@ -541,7 +541,7 @@ var cnames_active = {
   "condition": "mg98.github.io/condition.js",
   "conductor": "hosting.gitbook.com",
   "confetti": "matteobruni.github.io/confetti",
-  "conflict": "yodalightsabr.github.io/conflict-website",
+  "conflict": "conflictjs.github.io/site",
   "conglo": "schwarzkopfb.github.io/conglo",
   "consent": "datamart.github.io/Consent",
   "consono": "r37r0m0d3l.github.io/consono",
