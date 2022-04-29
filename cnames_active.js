@@ -2910,6 +2910,7 @@ var cnames_active = {
   "unreal": "sprayxe.github.io/unreal.js.org",
   "unsafe": "unsafely.github.io/unsafe.js",
   "up": "codefeathers.github.io/up",
+  "updates.flightpkg": "cname.vercel-dns.com", // noCF
   "updevs-db": "up-devs.github.io/db-docs",
   "uppload": "uppload.netlify.com",
   "upptime": "upptime.github.io/upptime.js.org",
