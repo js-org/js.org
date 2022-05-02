@@ -1209,6 +1209,7 @@ var cnames_active = {
   "hexoplusplus": "hexoplusplus.github.io/docs",
   "hfsyun": "hfsyun.github.io",
   "hibiki": "claritymoe.github.io/hibiki",
+  "hiddenfrombots": "hiddenfrombots.vercel.app",
   "highfive": "hosting.gitbook.io", // noCF
   "highway": "dogstudio.github.io/highway",
   "hijiangtao": "hijiangtao.github.io/hijiangtao.js.org",
