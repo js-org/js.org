@@ -539,7 +539,6 @@ var cnames_active = {
   "computed": "krmax44.github.io/rollup-plugin-computed",
   "concurrent-tasks": "hosting.gitbook.com",
   "concursos": "mteyss.github.io/concursos", // noCF? (don´t add this in a new PR)
-  "condition": "mg98.github.io/condition.js",
   "conductor": "hosting.gitbook.com",
   "confetti": "matteobruni.github.io/confetti",
   "conflict": "conflictjs.github.io/site",
@@ -974,6 +973,7 @@ var cnames_active = {
   "file-extension": "ultirequiem.github.io/file-extension",
   "filer": "filerjs.github.io/filer",
   "fill100": "matteobruni.github.io/fill100",
+  "filter": "mg98.github.io/filter.js",
   "finance": "financejs.github.io/finance.js",
   "financial": "financialjsorg.netlify.app",
   "finder": "applait.github.io/finderjs", // noCF? (don´t add this in a new PR)
