@@ -2657,6 +2657,7 @@ var cnames_active = {
   "state-machine-cat": "sverweij.github.io/state-machine-cat",
   "staticinstance": "staticinstance.github.io", // noCF? (don´t add this in a new PR)
   "stats": "js-org.github.io/stats.js.org",
+  "statisfy":"https://yarn-development.github.io/statisfynpm",
   "status": "mattipv4.github.io/status-codes",
   "status-hx": "status-hx-js-org.versatile.org.uk", // noCF
   "steemsites": "yhozen.github.io/steemsites",
