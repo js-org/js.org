@@ -539,7 +539,6 @@ var cnames_active = {
   "computed": "krmax44.github.io/rollup-plugin-computed",
   "concurrent-tasks": "hosting.gitbook.com",
   "concursos": "mteyss.github.io/concursos", // noCF? (don´t add this in a new PR)
-  "condition": "mg98.github.io/condition.js",
   "conductor": "hosting.gitbook.com",
   "confetti": "matteobruni.github.io/confetti",
   "conflict": "conflictjs.github.io/site",
