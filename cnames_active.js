@@ -726,7 +726,7 @@ var cnames_active = {
   "discord-music-player": "sushibtw.github.io/discord-music-player",
   "discord-neura": "discord-neura.github.io/website",
   "discord-player": "discord-player-docs.netlify.app",
-  "discord-portable-player": "https://lolollllo.github.io/discord-portable-player",
+  "discord-portable-player": "lolollllo.github.io/discord-portable-player",
   "discord-sensei": "demonicious.github.io/discord-sensei",
   "discord-tickets": "derpinou.github.io/discord-tickets-docs",
   "discord-ts": "oceanroleplay.github.io/discord.ts",
