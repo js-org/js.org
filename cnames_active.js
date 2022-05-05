@@ -3161,6 +3161,7 @@ var cnames_active = {
   "yusril": "yusrilhs.github.io", // noCF
   "yuye": "cyea.github.io",
   "yvm": "tophat.github.io/yvm",
+  "zack": "zarkti.netlify.app",
   "zaimu": "zaimu.netlify.app", // noCF
   "zaman": "demirdegerli.github.io/zaman",
   "zaporizhzhia": "zaporizhzhiajs.github.io",
