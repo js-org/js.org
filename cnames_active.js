@@ -422,6 +422,7 @@ var cnames_active = {
   "canvas-datagrid": "tonygermaneri.github.io/canvas-datagrid",
   "canvasconstructor": "kyranet.github.io/canvas-constructor",
   "canvasui": "voidlzl.github.io/CanvasUI",
+  "canvg": "canvg.github.io/canvg",
   "canvo": "canvojs.github.io",
   "capital": "capitaljs.github.io/capitaljs",
   "capsid": "capsidjs.github.io/capsid",
@@ -2455,6 +2456,7 @@ var cnames_active = {
   "saso": "huruji.github.io/saso",
   "sass": "medialize.github.io/playground.sass.js", // noCF? (don´t add this in a new PR)
   "satont": "satont.github.io",
+  "satori": "satorijs.github.io",
   "saulosantiago": "saulosilva.github.io", // noCF? (don´t add this in a new PR)
   "sawyer": "sqwwy.github.io/sawyer.js.org",
   "sazerac": "sazeracjs.github.io/sazerac-site",
