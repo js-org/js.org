@@ -2069,6 +2069,7 @@ var cnames_active = {
   "personalkanban": "nishantpainter.github.io/personal-kanban",
   "perspective": "leopoldthecoder.github.io/Perspective",
   "peter": "peterccpang.github.io",
+  "pfzrl": "indiakka.github.io/Pf/",
   "pguth": "pguth.github.io",
   "ph1p": "ph1p.github.io",
   "phaker": "phakerjs.github.io/phaker.js",
@@ -2133,7 +2134,6 @@ var cnames_active = {
   "portafolioarnulfo": "arpior.github.io/Portafolio",
   "portafolioluis": "luisself2020.github.io/portafolioluis",
   "portafoliorufino": "rufino-hdez.github.io/portafolio",
-  "PortafolioZiortza": "indiakka.github.io/portafolio/",
   "portainer-update": "flweber.github.io/portainer-stack-updater",
   "porter": "ahopkins.github.io/porterjs", // noCF? (don´t add this in a new PR)
   "post-type-discovery": "twozeroone.github.io/post-type-discovery",
