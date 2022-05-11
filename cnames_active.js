@@ -1450,6 +1450,7 @@ var cnames_active = {
   "keystone": "keystone-ssg.netlify.app",
   "keyv": "microlinkhq.github.io/keyv",
   "keyvify": "zyrouge.github.io/Keyvify",
+  "kdavatar": "https://kdavatar.github.io",
   "kilic": "kiliczsh.github.io",
   "kilobyte": "kilobytehq.github.io/open-js",
   "kilvin": "rofrischmann.github.io/kilvin",
