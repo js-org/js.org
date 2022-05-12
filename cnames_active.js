@@ -293,6 +293,7 @@ var cnames_active = {
   "beamwind": "kenoxa.github.io/beamwind",
   "beatzoid": "beatzoid.github.io",
   "bee": "beejsdev.github.io",
+  "beer": "beerjs.github.io/santiago",
   "begin": "advanced-webapps-class.github.io/begin", // noCF? (don´t add this in a new PR)
   "belfast": "chrislaughlin.github.io/belfastjs",
   "benjick": "benjick.github.io",
