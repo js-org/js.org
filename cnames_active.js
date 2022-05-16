@@ -2521,6 +2521,7 @@ var cnames_active = {
   "sheweny": "sheweny.github.io/website",
   "shibe-online": "1chisensei.github.io/shibe.online",
   "shikwasa": "jessuni.github.io/shikwasa",
+  "shilong": "echoheim.github.io/AutoBuildTools",
   "shine": "shinenelson.github.io/shine.js.org",
   "shirajuki": "shirajuki.github.io",
   "shiro-gg": "moyshik7.github.io/shiro-gg",
