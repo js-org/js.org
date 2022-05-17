@@ -1,10 +1,20 @@
-[![JS.ORG Logo](http://logo.js.org/png/github_header.png)](http://js.org)
-
 [![JS.ORG](https://img.shields.io/badge/js.org-+-FFE70B.svg?style=flat-square)](http://js.org)
-[![PRs](https://img.shields.io/github/issues-pr-closed-raw/js-org/js.org.svg?style=flat-square&colorB=31a88b&label=Pull%20Requests)](https://github.com/js-org/js.org/pulls?q=is%3Apr+is%3Aclosed+label%3Aadd)
-[![Donate](https://img.shields.io/badge/Donate-for_registrar_fees-blue.svg?style=flat-square&logo=paypal)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RPBWBDBKW62AC)
+[![PRs](https://img.shields.io/github/issues-pr-closed-raw/js-org/js.org.svg?style=flat-square&colorB=FFE70B&label=pull%20requests)](https://github.com/js-org/js.org/pulls?q=is%3Apr+is%3Aclosed+label%3Aadd)
+[![Contributors](https://img.shields.io/github/contributors-anon/js-org/js.org?color=FFE70B&style=flat-square)](https://github.com/js-org/js.org/graphs/contributors)
+[![Activity](https://img.shields.io/github/commit-activity/m/js-org/js.org?color=FFE70B&style=flat-square)](https://github.com/js-org/js.org/pulse/monthly)
+[![Donate](https://img.shields.io/badge/Donate-for_registrar_fees-1F87FF.svg?style=flat-square&logo=open-collective&logoColor=fff)](https://opencollective.com/js-org)
 
-**To get a short and sleek subdomain for your own GitHub Pages site follow these 4 Steps:**
+:boom::boom::boom:
+***Due to the increased number of requests for js.org subdomains, with many having questionable relevancy to the JavaScript community and ecosystem, we've decided that going forward JS.ORG will be focusing on accepting subdomain requests from projects with a clear relation to the JS community.***
+
+***As some examples, personal pages, blogs, Discord bot pages and basic tutorials for unrelated libraries will no longer be accepted. Projects such as NPM packages, libraries, tools that have a clear and direct relation to JavaScript, will be accepted when requesting a JS.ORG subdomain. This decision does not affect subdomains that have already been granted.***
+:boom::boom::boom:
+
+**Some Similar Services:** [js.cool](https://github.com/js-cool/js.cool), [is-a.dev](https://github.com/is-a-dev/register), [thedev.id](https://github.com/fransallen/thedev.id), [mod.land](https://github.com/denosaurs/mod.land), [runs-on.tech](https://github.com/aakhilv/runs-on.tech)
+
+---
+
+**To get a short and sleek subdomain for your own GitHub Pages site from JS.ORG follow these 4 Steps:**
 
 ### Step 1
 If you haven't already, now it's time to log in to your GitHub account and set up your GitHub Pages site following the instructions [here](https://pages.github.com/). To get a head start you can simply use the generator with one of the provided themes and **add some reasonable content to your new page**.
