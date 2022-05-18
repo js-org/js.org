@@ -2174,6 +2174,7 @@ var cnames_active = {
   "pruf": "signalwerk.github.io/pruf",
   "pruthvisoni": "pruthvisooni.github.io",
   "ps": "spindlyskit.github.io/ps.js",
+  "psgame": "ravelloh.github.io/PSGameSpider"
   "pt-pt.single-spa": "single-spa.github.io/pt-pt.single-spa.js.org", // noCF
   "ptero": "pterojs.github.io/ptero.js-docs",
   "pteromanager": "pteromanager.github.io/Website",
