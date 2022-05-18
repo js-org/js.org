@@ -156,6 +156,7 @@ var cnames_active = {
   "anenth": "anenth.github.io", // noCF? (don´t add this in a new PR)
   "angular-cn": "ng-docs.github.io/angular-cn.js.org",
   "angular-jsf": "json-schema-faker.github.io/angular-jsf", // noCF? (don´t add this in a new PR)
+  "angular-mfe": "rx-ts.github.io/angular-mfe",
   "angular-uikit": "whoisjorge.github.io/angular-uikit",
   "angular2in1": "angular2in1.github.io/angular2in1js", // noCF
   "angularstompdk": "davinkevin.github.io/AngularStompDK", // noCF? (don´t add this in a new PR)
@@ -3018,6 +3019,7 @@ var cnames_active = {
   "vue-db": "taowen.github.io/vue-db",
   "vue-diagram-editor": "max-kut.github.io/vue-diagram-editor",
   "vue-goodshare": "koddr.github.io/vue-goodshare",
+  "vue-magnifier": "websitebeaver.github.io/vue-magnifier",
   "vue-mdc": "na-west1.surge.sh",
   "vue-minesweeper": "disjfa.github.io/vue-minesweeper",
   "vue-multiselect": "shentao.github.io/vue-multiselect",
