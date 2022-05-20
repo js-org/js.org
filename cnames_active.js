@@ -1212,7 +1212,7 @@ var cnames_active = {
   "helpful": "togatech.github.io/helpful.js",
   "hepsiburada": "berkaltiok.github.io/hepsiburada",
   "heroku": "gary50613.github.io/herokuapi.js",
-  "hesperus": "https://hesperusjs.github.io/hesperus/",
+  "hesperus": "hesperusjs.github.io/hesperus",
   "hexoplusplus": "hexoplusplus.github.io/docs",
   "hfsyun": "hfsyun.github.io",
   "hibiki": "claritymoe.github.io/hibiki",
