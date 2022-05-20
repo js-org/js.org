@@ -3013,6 +3013,7 @@ var cnames_active = {
   "vue": "vuejs.github.io/vue.js.org",
   "vue-admin": "mingdev123.github.io/vue-admin",
   "vue-aplayer": "sevenoutman.github.io/vue-aplayer",
+  "vue-auth3": "tachibana-shin.github.io/vue-auth3",
   "vue-coffee": "vue-coffee-guide.netlify.com",
   "vue-core": "triotech-fr.github.io/vue-core",
   "vue-db": "taowen.github.io/vue-db",
