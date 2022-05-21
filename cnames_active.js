@@ -3084,6 +3084,7 @@ var cnames_active = {
   "wglt": "codyebberson.github.io/wglt",
   "wgp": "wgp0805.github.io",
   "whadido": "jokester.github.io/whadido",
+  "whatscode": "jastinxyz.github.io/whatscode.js",
   "whatsnext": "cname.vercel-dns.com", // noCF
   "whistle": "whistle-lang.github.io/website",
   "whiteboard": "yhozen.github.io/whiteboard",
