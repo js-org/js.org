@@ -3093,6 +3093,7 @@ var cnames_active = {
   "wiki": "wiki-js-org.netlify.app", // noCF
   "wikidata-elements": "lisongx.github.io/wikidata-elements",
   "wildfire": "cheng-kang.github.io/wildfire",
+  "william": "williamharrison.dev/william.js.org",
   "willy": "willyarisky.github.io/willy",
   "wind": "windium.herokuapp.com",
   "windows": "munchkinhalfling.github.io/wasm-windows",
