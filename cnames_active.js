@@ -2919,6 +2919,7 @@ var cnames_active = {
   "unicornly": "unicornly.github.io/unicornly",
   "unique-session": "molaga.github.io/unique-session",
   "units": "stak-digital.github.io/units",
+  "util": "http://cyberdev101.github.io/utilmonkey-docs/index.html",
   "universal-api": "raxjs.github.io/universal-api",
   "unoconv": "blog.ryanwu.me",
   "unreal": "sprayxe.github.io/unreal.js.org",
