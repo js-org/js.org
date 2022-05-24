@@ -2914,6 +2914,7 @@ var cnames_active = {
   "undercut": "undercut.netlify.app",
   "uneditable": "iamcristye.github.io/Uneditable.js",
   "unexpected": "unexpectedjs.github.io", // noCF? (don´t add this in a new PR)
+  "utilmonkey": "http://cyberdev101.github.io/utilmonkey-docs",
   "uni": "arcadiogarcia.github.io/UNIJS", // noCF? (don´t add this in a new PR)
   "unicorn": "mirai-explorer.github.io/unicorn",
   "unicornly": "unicornly.github.io/unicornly",
