@@ -2915,7 +2915,7 @@ var cnames_active = {
   "uneditable": "iamcristye.github.io/Uneditable.js",
   "unexpected": "unexpectedjs.github.io", // noCF? (don´t add this in a new PR)
   "uni": "arcadiogarcia.github.io/UNIJS", // noCF? (don´t add this in a new PR)
-  "utilmonkey": "https://cyberdev101.github.io/utilmonkey-docs",
+  "utilmonkey": "cyberdev101.github.io/utilmonkey-docs",
   "unicorn": "mirai-explorer.github.io/unicorn",
   "unicornly": "unicornly.github.io/unicornly",
   "unique-session": "molaga.github.io/unique-session",
