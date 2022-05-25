@@ -2915,7 +2915,6 @@ var cnames_active = {
   "uneditable": "iamcristye.github.io/Uneditable.js",
   "unexpected": "unexpectedjs.github.io", // noCF? (don´t add this in a new PR)
   "uni": "arcadiogarcia.github.io/UNIJS", // noCF? (don´t add this in a new PR)
-  "utilmonkey": "cyberdev101.github.io/utilmonkey-docs",
   "unicorn": "mirai-explorer.github.io/unicorn",
   "unicornly": "unicornly.github.io/unicornly",
   "unique-session": "molaga.github.io/unique-session",
@@ -2946,6 +2945,7 @@ var cnames_active = {
   "ushakov": "ushakov-igor.github.io/ushakov",
   "ushio": "ushio.netlify.com",
   "usv": "usvformat.github.io",
+  "utilmonkey": "cyberdev101.github.io/utilmonkey-docs",
   "utscrooms": "sunakujira1.github.io/UTSCRooms",
   "uuid": "rumkin.github.io/uuid",
   "uvcharts": "imaginea.github.io/uvCharts", // noCF? (don´t add this in a new PR)
