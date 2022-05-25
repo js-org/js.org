@@ -2771,6 +2771,7 @@ var cnames_active = {
   "tauris": "codemaster138.github.io/tauris",
   "tayyab": "itayyab.github.io",
   "tdhandler": "hosting.gitbook.com",
+  "tdws": "wikiq.github.io"
   "tead": "teadjs.github.io",
   "techthinker": "tech-thinker.github.io",
   "techxuexi": "techxuexi.netlify.app",
