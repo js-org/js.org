@@ -2946,6 +2946,7 @@ var cnames_active = {
   "ushakov": "ushakov-igor.github.io/ushakov",
   "ushio": "ushio.netlify.com",
   "usv": "usvformat.github.io",
+  "utilmonkey": "cyberdev101.github.io/utilmonkey-docs",
   "utscrooms": "sunakujira1.github.io/UTSCRooms",
   "uuid": "rumkin.github.io/uuid",
   "uvcharts": "imaginea.github.io/uvCharts", // noCF? (don´t add this in a new PR)
