@@ -2340,6 +2340,7 @@ var cnames_active = {
   "redux-undo": "hosting.gitbook.com",
   "redux-webpack-boilerplate": "cchamberlain.github.io/redux-webpack-boilerplate", // noCF? (don´t add this in a new PR)
   "reduxible": "pitzcarraldo.github.io/reduxible", // noCF? (don´t add this in a new PR)
+  "ree": "ree.rovel.workers.dev",
   "reflare": "xiaoyang-sde.github.io/reflare.js.org",
   "reforms": "empla.github.io/reforms-docs",
   "refract": "hosting.gitbook.com",
