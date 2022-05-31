@@ -1202,6 +1202,7 @@ var cnames_active = {
   "hcs": "kimcore.github.io/hcs.js", // noCF
   "headunit": "riipandi.github.io/headunit",
   "heartseekers": "rajington.github.io/heartseekers", // noCF? (don´t add this in a new PR)
+  "heatengine": "heatengine.github.io/temp", // noCF? (don´t add this in a new PR)
   "heax": "coderosh.github.io/heaxjs", // noCF
   "hegel": "jsmonk.github.io/hegel",
   "hell": "hell-js.github.io",
