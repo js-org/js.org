@@ -595,6 +595,7 @@ var cnames_active = {
   "create-project": "chalarangelo.github.io/create-js-project",
   "createrest": "atomixinteractions.github.io/createrest",
   "creaturegen": "ryancromebook.github.io/creaturegen",
+  "crossani": "crossani.vercel.app",
   "crq": "shbwb.github.io",
   "crunch": "vukicevic.github.io/crunch", // noCF? (don´t add this in a new PR)
   "cryptokey": "rumkin.github.io/crypto-key",
@@ -2038,6 +2039,7 @@ var cnames_active = {
   "pangkeyd": "pangkeyd.github.io",
   "pantarei": "pantareijs.github.io/pantarei.js.org",
   "panza": "panza-org.github.io/panza-docs", // noCF
+  "papanasi": "witty-plant-07a086e03.1.azurestaticapps.net", // noCF
   "paperclip": "crcn.github.io/paperclip.js.org", // noCF? (don´t add this in a new PR)
   "parallel": "parallel-js.github.io/parallel.js",
   "parametric-svg": "parametric-svg.github.io", // noCF? (don´t add this in a new PR)
