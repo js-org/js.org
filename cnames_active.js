@@ -596,7 +596,7 @@ var cnames_active = {
   "create-project": "chalarangelo.github.io/create-js-project",
   "createrest": "atomixinteractions.github.io/createrest",
   "creaturegen": "ryancromebook.github.io/creaturegen",
-  "crossani": "crossani.vercel.app",
+  "crossani": "cname.vercel-dns.com", // noCF
   "crq": "shbwb.github.io",
   "crunch": "vukicevic.github.io/crunch", // noCF? (don´t add this in a new PR)
   "cryptokey": "rumkin.github.io/crypto-key",
@@ -747,6 +747,7 @@ var cnames_active = {
   "discords": "botstudios.github.io/discords.js.org",
   "discordutility": "chaosphoe.github.io/discordutility",
   "discuss": "cname.vercel-dns.com", // noCF
+  "disgroupdev": "disgroup-development.github.io/disgroupdev.js",
   "display": "arguiot.github.io/DisplayJS",
   "distillery": "achannarasappa.github.io/distillery", // noCF? (don´t add this in a new PR)
   "distri": "flarp.github.io/Distri.js",
