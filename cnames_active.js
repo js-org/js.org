@@ -195,7 +195,7 @@ var cnames_active = {
   "argo": "albertosantini.github.io/argo", // noCF? (don´t add this in a new PR)
   "ari": "arbo77.github.io/ari",
   "ariang": "p3terx.github.io/ariang", // noCF
-  "ariang-latest": "tf99921.github.io/AriaNg-latest", //noCF
+  "ariang-latest": "tf99921.github.io/AriaNg-latest", // noCF
   "arief": "1997arief.github.io",
   "arime": "ninbryan.github.io/arime", // noCF? (don´t add this in a new PR)
   "arithmy": "arithmy.netlify.app",
