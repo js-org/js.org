@@ -833,7 +833,7 @@ var cnames_active = {
   "dyte": "dytejs.github.io",
   "eahmed234": "eahmed234.github.io",
   "ease": "chisel.github.io/ease",
-  "easiermongo": "grook8958.github.io/easiermongo-docs"
+  "easiermongo": "grook8958.github.io/easiermongo-docs",
   "easy-bot": "bigaston.github.io/easy-bot",
   "easy-d": "easy-djs.github.io/easy-djs",
   "easy-enigma": "armoredvortex.github.io/easy-enigma",
