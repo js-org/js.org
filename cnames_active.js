@@ -2352,8 +2352,8 @@ var cnames_active = {
   "refujs": "refujs.github.io", // noCF? (don´t add this in a new PR)
   "refun": "gears233.github.io/refun",
   "regexly": "neeksandhu.github.io/regexly",
-  "registry.flightpkg": "cname.vercel-dns.com", // noCF
   "reghack": "hacker719.github.io/RegHack",
+  "registry.flightpkg": "cname.vercel-dns.com",
   "regraph": "izhaki.github.io/regraph",
   "rekit": "supnate.github.io/rekit", // noCF
   "relate": "jakelazaroff.github.io/relate", // noCF? (don´t add this in a new PR)
