@@ -1285,6 +1285,7 @@ var cnames_active = {
   "ignite": "ignitejscl.github.io",
   "iiimix": "iiimix.github.io/iiimixjsorg",
   "iio": "iioinc.github.io/iio.js", // noCF? (don´t add this in a new PR)
+  "illustrator": "illustratorjs.netlify.app",
   "imagecapture": "googlechrome.github.io/imagecapture-polyfill",
   "imagine": "karimayachi.github.io/imagine",
   "imask": "unmanner.github.io/imaskjs",
@@ -1814,6 +1815,7 @@ var cnames_active = {
   "mom": "momjs.github.io/mom",
   "momentum": "wemakeweb.github.io/momentum", // noCF? (don´t add this in a new PR)
   "monaco-tailwindcss": "monaco-tailwindcss.netlify.app",
+  "monaco-unified": "monaco-unified.netlify.app",
   "monaco-yaml": "monaco-yaml.netlify.app",
   "monkberry": "monkberry.github.io",
   "mono": "mono-js.github.io/mono",
@@ -1844,6 +1846,7 @@ var cnames_active = {
   "murajaah": "mzaini30.github.io/murajaah-js",
   "murathalitsever": "murathalitsever.github.io",
   "murmansk": "interfluve.github.io/Murmansk",
+  "music": "ronyeh.github.io/music",
   "musicca": "musiccajs.github.io/website",
   "musickit": "exerra.github.io/node-musickit-api", // noCF
   "musicord": "arthurleo13.github.io/musicord-documentation",
@@ -2093,6 +2096,7 @@ var cnames_active = {
   "phx": "phxjs.github.io",
   "phylum": "phylumjs.github.io",
   "physics-demos": "lachlandk.github.io/physics-demos",
+  "piano": "ronyeh.github.io/piano",
   "picsim": "mazko.github.io/picsim.js",
   "pidoc": "smapiot.github.io/pidoc",
   "pig-game": "dhanushp.github.io/pig-game",
