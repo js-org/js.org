@@ -1254,6 +1254,7 @@ var cnames_active = {
   "hub": "yyued.github.io/hub.js",
   "hubble": "hubble.netlify.com",
   "hubo": "huvboo.github.io",
+  "hugo-next": "hugo-next.github.io",
   "hugorocaproyectos": "hugoroca.github.io/coleccion-proyectos",
   "humble": "humblejs.github.io",
   "hx": "hx-js-org.versatile.org.uk", // noCF
