@@ -1218,6 +1218,7 @@ var cnames_active = {
   "heroku": "gary50613.github.io/herokuapi.js",
   "hesperus": "hesperusjs.github.io/hesperus",
   "hexoplusplus": "hexoplusplus.github.io/docs",
+  "hexchills": "hexchills.github.io",
   "hfsyun": "hfsyun.github.io",
   "hibiki": "claritymoe.github.io/hibiki",
   "hiddenfrombots": "hiddenfrombots.vercel.app",
