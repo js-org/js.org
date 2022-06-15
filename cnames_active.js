@@ -1813,7 +1813,7 @@ var cnames_active = {
   "mokunshao": "mokunshao.github.io",
   "mol": "eigenmethod.github.io/mol", // noCF
   "molti": "moltijs.github.io/molti",
-  "moluranliStudy": "moluranli.github.io/moluranliStudy"
+  "moluranlistudy": "moluranli.github.io/moluranlistudy",
   "mom": "momjs.github.io/mom",
   "momentum": "wemakeweb.github.io/momentum", // noCF? (don´t add this in a new PR)
   "monaco-tailwindcss": "monaco-tailwindcss.netlify.app",
