@@ -2547,6 +2547,7 @@ var cnames_active = {
   "shortener": "jsmiith.github.io/shortener",
   "shortio": "ichiidev.github.io/short.io-docs",
   "shuwan9": "shuwan9.github.io",
+  "sicp": "jeff-tian.github.io/sicp",
   "siddharth": "chaudhs769.github.io/siddharth.js.org",
   "sidekik": "inf3cti0n95.github.io/sidekik",
   "sidewind": "cname.vercel-dns.com", // noCF
