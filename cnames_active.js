@@ -613,6 +613,7 @@ var cnames_active = {
   "curseapp": "mcrocks999.github.io/curseapp.js",
   "cville": "cvjs.github.io",
   "cvss": "cvssjs.github.io",
+  "cy-rn": "tyrone2333.github.io/cy-react-native-cli",
   "cyberflame": "cyberflameu.github.io",
   "cybernaut": "clebert.github.io/cybernaut",
   "cycle": "cyclejs.github.io",
