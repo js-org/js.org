@@ -888,6 +888,7 @@ var cnames_active = {
   "emre": "emrekara37.github.io",
   "emulisp": "grahack.github.io/EmuLisp", // noCF? (don´t add this in a new PR)
   "emz": "emzjs.github.io",
+  "en20": "tyrone2333.github.io",
   "enclave": "eanplatter.github.io/enclave", // noCF? (don´t add this in a new PR)
   "encrypt-rsa": "miladezzat.github.io/encrypt-rsa",
   "endersquid": "endersquidjs.github.io",
