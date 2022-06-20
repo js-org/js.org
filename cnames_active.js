@@ -531,6 +531,7 @@ var cnames_active = {
   "colorlab": "signalwerk.github.io/colorlab",
   "colors": "xv700.github.io/colors",
   "colors-web": "yu-tou.github.io/colors-web",
+  "colorshelll": "colorshelll.pages.dev",
   "comixngn": "seun40.github.io/comix-ngn", // noCF? (don´t add this in a new PR)
   "command": "satoqz.github.io/command.ts",
   "commandcord": "commandcord.github.io",
