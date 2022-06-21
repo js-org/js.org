@@ -1100,6 +1100,7 @@ var cnames_active = {
   "german": "dipanshkhandelwal.github.io/Learning-German",
   "germanov": "germanov-dev.github.io",
   "get": "get-js-org.versatile.org.uk", // noCF
+  "getmd5": "lll69.github.io/getmd5",
   "getdot": "enderandfiredev.github.io/getdot",
   "getlink": "ilovecode1.github.io/linkjs", // noCF? (don´t add this in a new PR)
   "ghapi": "haydennyyy.github.io/node-ghapi",
