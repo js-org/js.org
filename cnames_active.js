@@ -530,6 +530,7 @@ var cnames_active = {
   "coloris": "mdbassit.github.io/Coloris",
   "colorlab": "signalwerk.github.io/colorlab",
   "colors": "xv700.github.io/colors",
+  "colorshelll": "colorshelll.vercel.app",
   "colors-web": "yu-tou.github.io/colors-web",
   "comixngn": "seun40.github.io/comix-ngn", // noCF? (don´t add this in a new PR)
   "command": "satoqz.github.io/command.ts",
