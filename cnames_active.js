@@ -3219,6 +3219,8 @@ var cnames_active = {
   "zyh": "zyh-chopper.github.io/zyh",
   "zykj": "cname.vercel-dns.com", // noCF
   "zyy": "zyyou.github.io/notes"
+  "packjs": "packjs-org.github.io/packjs",
+  "packjs-v1": "packjs-org.github.io/packjs-site-v1/",
   /*
    * please don't add your subdomain records down here!
    * insert them in alphabetical order to help reduce merge conflicts.
