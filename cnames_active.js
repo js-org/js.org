@@ -714,6 +714,7 @@ var cnames_active = {
   "discmds": "whitecluegaming.github.io/discmds",
   "discord": "discordjs.github.io/website",
   "discord-addons": "freiikdev.github.io/discord-addons",
+  "discord-anticrash": "discord-anticrash.js.org",
   "discord-anti-spam": "michael-j-scofield.github.io/discord-anti-spam",
   "discord-antiraid": "derpinou.github.io/discord-antiraid",
   "discord-bio": "asdfugil.github.io/discord.bio",
