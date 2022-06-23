@@ -2033,6 +2033,8 @@ var cnames_active = {
   "p3terx": "p3terx.github.io/P3TERX",
   "p7e4": "p7e4.github.io",
   "packit": "pouya-eghbali.github.io/packit",
+  "packjs": "packjs-org.github.io/packjs",
+  "packjs-v1": "packjs-org.github.io/packjs-site-v1",
   "pacman": "8tentaculos.github.io/jsPacman",
   "pad": "ebraminio.github.io/pad.js", // noCF? (don´t add this in a new PR)
   "pad-project": "adaltas.github.io/node-pad-docs",
@@ -3219,8 +3221,6 @@ var cnames_active = {
   "zyh": "zyh-chopper.github.io/zyh",
   "zykj": "cname.vercel-dns.com", // noCF
   "zyy": "zyyou.github.io/notes"
-  "packjs": "packjs-org.github.io/packjs",
-  "packjs-v1": "packjs-org.github.io/packjs-site-v1/",
   /*
    * please don't add your subdomain records down here!
    * insert them in alphabetical order to help reduce merge conflicts.
