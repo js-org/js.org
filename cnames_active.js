@@ -3110,6 +3110,7 @@ var cnames_active = {
   "wglt": "codyebberson.github.io/wglt",
   "wgp": "wgp0805.github.io",
   "whadido": "jokester.github.io/whadido",
+  "what-version-of-node": "tobysmith568.github.io/what-node-js",
   "whatscode": "jastinxyz.github.io/whatscode.js",
   "whatsnext": "cname.vercel-dns.com", // noCF
   "whistle": "whistle-lang.github.io/website",
