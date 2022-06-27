@@ -2151,6 +2151,7 @@ var cnames_active = {
   "popper": "fezvrasta.github.io/popper.js",
   "portafolio-web": "velazquezadrian.github.io/Portafolio-web",
   "portafolioalejandrarobles": "alerobles3.github.io/portafolioalejandrarobles",
+  "portafolioeduardo": "laloxox.github.io/portafolioeduardo",
   "portafolioarnulfo": "arpior.github.io/Portafolio",
   "portafolioluis": "luisself2020.github.io/portafolioluis",
   "portafoliorufino": "rufino-hdez.github.io/portafolio",
