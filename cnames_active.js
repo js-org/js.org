@@ -2204,6 +2204,7 @@ var cnames_active = {
   "pure": "fengzilong.github.io/pure",
   "purplet": "purpletjs.netlify.app",
   "pushoo": "imaegoo.github.io/pushoo",
+  "pusu": "xliudaxia.github.io/pusu-ui",
   "pwa": "charistheo.github.io/pwa.js.org",
   "pwa-cookbook": "sylvainpolletvillard.github.io/pwa-cookbook",
   "pwa-workshop": "sylvainpolletvillard.github.io/pwa-workshop",
