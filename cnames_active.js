@@ -612,6 +612,7 @@ var cnames_active = {
   "curd": "yourtion.github.io/SimpleCURD",
   "curi": "pshrmn.github.io/curi",
   "currency": "scurker.github.io/currency.js",
+  "caliphapi": "caliphdev.github.io/caliph-api",
   "currency-system": "bintelligent.github.io/currency-system",
   "curseapp": "mcrocks999.github.io/curseapp.js",
   "cville": "cvjs.github.io",
