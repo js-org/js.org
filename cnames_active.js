@@ -413,6 +413,7 @@ var cnames_active = {
   "caizhiyuannn": "caizhiyuannn.github.io",
   "calcy": "odevlord.github.io/Calcy", // noCF? (don´t add this in a new PR)
   "calendarios": "helpdev.github.io/Calendarios", // noCF? (don´t add this in a new PR)
+  "caliph-api": "caliphdev.github.io/caliph-api",
   "camelcase": "ultirequiem.github.io/camelcase",
   "campfire": "xyzshantaram.github.io/campfire",
   "candy": "candy02058912.github.io/portfolio",
