@@ -753,7 +753,7 @@ var cnames_active = {
   "discordutility": "chaosphoe.github.io/discordutility",
   "discuss": "cname.vercel-dns.com", // noCF
   "disgroupdev": "disgroup-development.github.io/disgroupdev.js",
-  "disgrowth": "sinkaroid.github.io/disgrowth",
+  "disgrow": "sinkaroid.github.io/disgrow",
   "display": "arguiot.github.io/DisplayJS",
   "distillery": "achannarasappa.github.io/distillery", // noCF? (don´t add this in a new PR)
   "distri": "flarp.github.io/Distri.js",
