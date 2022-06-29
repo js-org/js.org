@@ -483,6 +483,7 @@ var cnames_active = {
   "citation": "citation-js.github.io/site",
   "citeapa": "natsuozawa.github.io/citeapa",
   "city": "city.github.io",
+  "caliph-api": "caliphdev.github.io/caliph-api",
   "civet": "civet-org.github.io",
   "cjss": "cjss-group.github.io/CJSS",
   "ck": "chunkeat99.github.io/ck.js.org",
