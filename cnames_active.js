@@ -732,7 +732,6 @@ var cnames_active = {
   "discord-logs": "androz2091.github.io/discord-logs",
   "discord-messages": "lebyy.github.io/discord-messages",
   "discord-moderation": "discord-moderation.github.io/website",
-  "djs-modules": "djs-modules.github.io/website",
   "discord-music-player": "sushibtw.github.io/discord-music-player",
   "discord-neura": "discord-neura.github.io/website",
   "discord-player": "discord-player-docs.netlify.app",
@@ -770,6 +769,7 @@ var cnames_active = {
   "djs-tickets": "pgamerx.github.io/djs-tickets",
   "djs-tools": "fhgdev.github.io/djs-tools",
   "djs-twitch": "discordjs-twitch.github.io/website",
+  "djs-modules": "djs-modules.github.io/website",
   "djsframe": "vypal.github.io/djsframe",
   "djsguide": "hosting.gitbook.com",
   "djvu": "russcoder.github.io/djvujs", // noCF
