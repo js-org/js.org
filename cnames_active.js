@@ -766,6 +766,7 @@ var cnames_active = {
   "djs-addon": "hosting.gitbook.io", // noCF
   "djs-application-commands": "hosting.gitbook.io",
   "djs-economy": "discordjs-economy.github.io/website",
+  "djs-modules": "djs-modules.github.io/website",
   "djs-tickets": "pgamerx.github.io/djs-tickets",
   "djs-tools": "fhgdev.github.io/djs-tools",
   "djs-twitch": "discordjs-twitch.github.io/website",
