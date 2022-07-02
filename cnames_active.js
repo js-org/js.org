@@ -1156,6 +1156,7 @@ var cnames_active = {
   "graphgame": "uellenberg.github.io/Graphgame",
   "graphics2d": "keyten.github.io/Graphics2D", // noCF? (don´t add this in a new PR)
   "graphstore": "besync.github.io/graphstore",
+  "greenfish": "thekingmx1998.github.io/home",
   "gregory": "f3z0.github.io",
   "grep": "42ua.github.io/grep",
   "greylock": "datamart.github.io/Greylock",
