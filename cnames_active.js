@@ -495,6 +495,7 @@ var cnames_active = {
   "clashofclans": "clashperk.github.io/clashofclans.js",
   "classic": "joeleeofficial.github.io/Classic",
   "classroom": "epoxydevelopment.github.io/Classroom",
+  "class20": "https://redblueidea.github.io/Class20",
   "clause": "clausejs.github.io/clausejs",
   "cleanblog": "cleanblog.github.io",
   "cleaners": "swansontec.github.io/cleaners",
