@@ -413,6 +413,7 @@ var cnames_active = {
   "caizhiyuannn": "caizhiyuannn.github.io",
   "calcy": "odevlord.github.io/Calcy", // noCF? (don´t add this in a new PR)
   "calendarios": "helpdev.github.io/Calendarios", // noCF? (don´t add this in a new PR)
+  "caliph-api": "caliphdev.github.io/caliph-api",
   "camelcase": "ultirequiem.github.io/camelcase",
   "campfire": "xyzshantaram.github.io/campfire",
   "candy": "candy02058912.github.io/portfolio",
@@ -559,6 +560,7 @@ var cnames_active = {
   "cookienotice": "cookienotice.github.io",
   "cool-img-api": "sujalgoel.github.io/cool-image-api-wrapper",
   "coolapkwiki": "coolapk-fan.github.io/wiki",
+  "cooler": "cooler-docs.netlify.app", // noCF
   "coolnavs": "prabincankod.github.io/cool-navs",
   "coord": "itsacorn.github.io/jscoord",
   "copyer": "tsycode.github.io/copyer.js",
@@ -724,6 +726,7 @@ var cnames_active = {
   "discord-epagination": "azawat7.github.io/discord-pagination",
   "discord-gamecord": "gamecord-docs.vercel.app",
   "discord-giveaways": "androz2091.github.io/discord-giveaways",
+  "discord-kommando": "team-thinkcord.github.io/discord-kommando.js",
   "discord-kommando-plugins": "team-thinkcord.github.io/discord-kommando.js-plugins",
   "discord-kr": "discordjs-kr.github.io/website",
   "discord-logs": "androz2091.github.io/discord-logs",
@@ -750,6 +753,7 @@ var cnames_active = {
   "discordutility": "chaosphoe.github.io/discordutility",
   "discuss": "cname.vercel-dns.com", // noCF
   "disgroupdev": "disgroup-development.github.io/disgroupdev.js",
+  "disgrow": "sinkaroid.github.io/disgrow",
   "display": "arguiot.github.io/DisplayJS",
   "distillery": "achannarasappa.github.io/distillery", // noCF? (don´t add this in a new PR)
   "distri": "flarp.github.io/Distri.js",
@@ -762,6 +766,7 @@ var cnames_active = {
   "djs-addon": "hosting.gitbook.io", // noCF
   "djs-application-commands": "hosting.gitbook.io",
   "djs-economy": "discordjs-economy.github.io/website",
+  "djs-modules": "djs-modules.github.io/website",
   "djs-tickets": "pgamerx.github.io/djs-tickets",
   "djs-tools": "fhgdev.github.io/djs-tools",
   "djs-twitch": "discordjs-twitch.github.io/website",
@@ -1070,7 +1075,7 @@ var cnames_active = {
   "g-point": "bdvela.github.io/g-point",
   "gaiman": "jcubic.github.io/gaiman",
   "gal": "galmail.github.io", // noCF? (don´t add this in a new PR)
-  "game-tracker": "endbug.github.io/game-tracker",
+  "game-tracker": "game-tracker-docs.vercel.app", // noCF
   "gamecord": "gamecord.lazyowl.repl.co", // noCF
   "gamedevcontestal": "fromdenisvieira.github.io/gamedevcontestal", // noCF? (don´t add this in a new PR)
   "gametime": "parking-master.github.io/Gametime.js",
@@ -2204,6 +2209,7 @@ var cnames_active = {
   "pure": "fengzilong.github.io/pure",
   "purplet": "purpletjs.netlify.app",
   "pushoo": "imaegoo.github.io/pushoo",
+  "pusu": "xliudaxia.github.io/pusu-ui",
   "pwa": "charistheo.github.io/pwa.js.org",
   "pwa-cookbook": "sylvainpolletvillard.github.io/pwa-cookbook",
   "pwa-workshop": "sylvainpolletvillard.github.io/pwa-workshop",
@@ -2618,6 +2624,7 @@ var cnames_active = {
   "snowflake": "theinternetfolks.github.io/snowflake",
   "snowflake-api": "udit2303.github.io/snowflake-api-docs",
   "snowstorm": "explodingcamera.github.io/snowstorm",
+  "sociably": "machinat.github.io/sociably",
   "social-likes": "sapegin.github.io/social-likes", // noCF? (don´t add this in a new PR)
   "social-likes-next": "sapegin.github.io/social-likes-next", // noCF? (don´t add this in a new PR)
   "solder": "mcrocks999.github.io/solder.js",
@@ -3109,6 +3116,7 @@ var cnames_active = {
   "wglt": "codyebberson.github.io/wglt",
   "wgp": "wgp0805.github.io",
   "whadido": "jokester.github.io/whadido",
+  "what-version-of-node": "tobysmith568.github.io/what-node-js",
   "whatscode": "jastinxyz.github.io/whatscode.js",
   "whatsnext": "cname.vercel-dns.com", // noCF
   "whistle": "whistle-lang.github.io/website",
