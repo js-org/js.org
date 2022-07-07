@@ -2411,6 +2411,7 @@ var cnames_active = {
   "ricos": "wix.github.io/ricos",
   "riiickyy": "riiickyy.github.io",
   "riklewis": "riklewis.github.io",
+  "ringo": "heliumoi.github.io/ringoExample/",
   "rinzler": "gitsquared.github.io/rinzler",
   "riot": "riot.github.io",
   "riotgear": "riotgear.github.io",
