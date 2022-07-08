@@ -1639,6 +1639,7 @@ var cnames_active = {
   "lwjerri": "lwjerri.github.io",
   "lx": "blleng.github.io/lx-test",
   "lychee": "artificial-engineering.github.io/lycheeJS-website",
+  "lyertia": "cname.vercel-dns.com", // noCF
   "lyf": "shbwb.github.io/lyf",
   "lyra": "amansahil.github.io/lyra.js.org",
   "lzbible": "edwinyosorahardjo.github.io/lzbible",
