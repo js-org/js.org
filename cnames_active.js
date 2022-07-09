@@ -3182,6 +3182,7 @@ var cnames_active = {
   "xtype": "lucono.github.io/xtypejs", // noCF? (don´t add this in a new PR)
   "y2j": "ultirequiem.github.io/y2j",
   "y86": "quietshu.github.io/y86", // noCF? (don´t add this in a new PR)
+  "yang": "xuchao996.github.io",
   "yadl": "yadljs.github.io",
   "yagolopez": "yagolopez.github.io",
   "yake": "yakeing.github.io/HexoBlog",
