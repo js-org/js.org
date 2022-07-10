@@ -1234,6 +1234,7 @@ var cnames_active = {
   "hfsyun": "hfsyun.github.io",
   "hibiki": "claritymoe.github.io/hibiki",
   "hiddenfrombots": "hiddenfrombots.vercel.app",
+  "hieser21": "hieser21.github.io", //noCF
   "highfive": "hosting.gitbook.io", // noCF
   "highway": "dogstudio.github.io/highway",
   "hijiangtao": "hijiangtao.github.io/hijiangtao.js.org",
