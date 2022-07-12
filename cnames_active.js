@@ -2112,6 +2112,7 @@ var cnames_active = {
   "phx": "phxjs.github.io",
   "phylum": "phylumjs.github.io",
   "physics-demos": "lachlandk.github.io/physics-demos",
+  "phazor": "phazor-js.github.io",
   "piano": "ronyeh.github.io/piano",
   "picsim": "mazko.github.io/picsim.js",
   "pidoc": "smapiot.github.io/pidoc",
