@@ -628,6 +628,7 @@ var cnames_active = {
   "cycle": "cyclejs.github.io",
   "cyclow": "pmros.github.io/cyclow", // noCF
   "cyliim": "cyliim.github.io",
+  "cyrack": "cyrack.github.io",
   "cyrena": "cyrenajs.github.io/cyrena",
   "cyris": "icyris.github.io",
   "d-patterns": "alias.zeit.co", // noCF
