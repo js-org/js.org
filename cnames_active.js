@@ -1421,7 +1421,7 @@ var cnames_active = {
   "js-fixerr": "anujsinghwd.github.io/js-fixerr",
   "js-labs": "js-labs.vercel.app",
   "jscord": "thepoptartcrpr.github.io/jscord",
-  "joycon": "joycon.codeit.codes"
+  "joycon": "joycon.vercel.app"
   "jsdec": "liulihaocai.github.io/JSDec",
   "jslabs": "cname.vercel-dns.com", // noCF
   "jsnippet": "jesseeisen.github.io/snippets", // noCF
