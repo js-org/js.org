@@ -687,6 +687,7 @@ var cnames_active = {
   "deno-tutorial": "hylerrix.github.io/deno-tutorial",
   "densewaire": "cname.vercel-dns.com",
   "deox": "deox.netlify.com",
+  "des-docs": "shadowplay1.github.io/des-docs",
   "deportes": "andreapins.github.io/Deportes-Gacetis",
   "deputy": "ry4nolson.github.io/Deputy", // noCF? (don´t add this in a new PR)
   "designdevresources": "phanendraguptha.github.io/designdevresources",
