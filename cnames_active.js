@@ -2103,8 +2103,8 @@ var cnames_active = {
   "ph1p": "ph1p.github.io",
   "phaker": "phakerjs.github.io/phaker.js",
   "pharaoh": "pharaoh-js.github.io", // noCF? (don´t add this in a new PR)
-  "phazor": "phazor-js.github.io/Phazor.js",
   "pharo": "pharojs.github.io/pharo-js-org",
+  "phazor": "phazor-js.github.io/Phazor.js",
   "phi": "phi-tools.netlify.com",
   "phisherman": "thewilloftheshadow.github.io/phisherman.js",
   "phobos": "phobosjs.github.io/phobos.js",
