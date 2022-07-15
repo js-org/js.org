@@ -3129,6 +3129,7 @@ var cnames_active = {
   "what-version-of-node": "tobysmith568.github.io/what-node-js",
   "whatscode": "jastinxyz.github.io/whatscode.js",
   "whatsnext": "cname.vercel-dns.com", // noCF
+  "whatsup": "whatsup.github.io",
   "whistle": "whistle-lang.github.io/website",
   "whiteboard": "yhozen.github.io/whiteboard",
   "wice": "yulioaj290.github.io/wice.js",
