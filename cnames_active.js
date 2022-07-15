@@ -1417,11 +1417,11 @@ var cnames_active = {
   "josecarloszamoragomezcv": "josecarloszamoragomez.github.io/CV",
   "josecarloszamoragomezportfolio": "josecarloszamoragomez.github.io/Portfolio",
   "josep": "warlock.github.io",
+  "joycon": "joycon.vercel.app"
   "jparticles": "jparticles.github.io/Documentation",
   "js-fixerr": "anujsinghwd.github.io/js-fixerr",
   "js-labs": "js-labs.vercel.app",
   "jscord": "thepoptartcrpr.github.io/jscord",
-  "joycon": "joycon.vercel.app"
   "jsdec": "liulihaocai.github.io/JSDec",
   "jslabs": "cname.vercel-dns.com", // noCF
   "jsnippet": "jesseeisen.github.io/snippets", // noCF
