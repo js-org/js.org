@@ -870,6 +870,7 @@ var cnames_active = {
   "effects": "effectsjs.github.io/effectsjs",
   "eggsy": "eggsywashere.github.io",
   "ehsan": "ehsanfox.github.io",
+  "eight": "cnzc.github.io/eight",
   "eiphop": "eiphop.netlify.com",
   "ejir": "ejir.github.io",
   "ekscss": "maxmilton.github.io/ekscss",
