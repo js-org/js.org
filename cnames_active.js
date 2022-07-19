@@ -74,6 +74,7 @@ var cnames_active = {
   "abhishekmittal": "abhishek-mittal.github.io/abhishekmittal",
   "abialbon": "abialbon.github.io",
   "aby": "icoldplayer.github.io/aby",
+  "ac": "alauda.github.io/alauda-chart",
   "acarsy": "acarsy.github.io",
   "accent": "sripkunda.github.io/accent",
   "accessibility": "guilhermedelemos.github.io/accessibility",
@@ -505,6 +506,7 @@ var cnames_active = {
   "clevercord": "theanidox.github.io/Clevercord",
   "clickforhelp": "clickforhelp.netlify.app",
   "clickhouse": "depyronick.github.io/clickhouse-client",
+  "clientworker": "chenyfan.github.io/ClientWorker",
   "clock": "mirmousaviii.github.io/clock",
   "clockwork": "clockworkdev.github.io/ClockworkWebsite",
   "cluster-eventdispatcher": "chickendevlab.github.io/cluster-eventdispatcher",
@@ -689,6 +691,7 @@ var cnames_active = {
   "deox": "deox.netlify.com",
   "deportes": "andreapins.github.io/Deportes-Gacetis",
   "deputy": "ry4nolson.github.io/Deputy", // noCF? (don´t add this in a new PR)
+  "des-docs": "shadowplay1.github.io/des-docs",
   "designdevresources": "phanendraguptha.github.io/designdevresources",
   "detect-resize": "noderaider.github.io/detect-resize", // noCF? (don´t add this in a new PR)
   "detector": "blackmirror1980.github.io/detector-js",
@@ -869,6 +872,7 @@ var cnames_active = {
   "effects": "effectsjs.github.io/effectsjs",
   "eggsy": "eggsywashere.github.io",
   "ehsan": "ehsanfox.github.io",
+  "eight": "cnzc.github.io/eight",
   "eiphop": "eiphop.netlify.com",
   "ejir": "ejir.github.io",
   "ekscss": "maxmilton.github.io/ekscss",
@@ -1390,7 +1394,7 @@ var cnames_active = {
   "jcord": "discord-jcord.github.io/jcord",
   "jdc": "jdceeb.github.io",
   "jds": "alimanman.github.io/jds",
-  "je": "netnr-json.onrender.com", // noCF
+  "je": "cname-china.vercel-dns.com", // noCF
   "jelly": "hosting.gitbook.io", // noCF
   "jena": "javascript-in-jena.github.io", // noCF
   "jericho-api": "sidisliveyt.github.io/Jericho-Api",
@@ -1417,6 +1421,7 @@ var cnames_active = {
   "josecarloszamoragomezcv": "josecarloszamoragomez.github.io/CV",
   "josecarloszamoragomezportfolio": "josecarloszamoragomez.github.io/Portfolio",
   "josep": "warlock.github.io",
+  "joycon": "joycon.vercel.app",
   "jparticles": "jparticles.github.io/Documentation",
   "js-fixerr": "anujsinghwd.github.io/js-fixerr",
   "js-labs": "js-labs.vercel.app",
@@ -1705,7 +1710,7 @@ var cnames_active = {
   "mc": "magicarbon.github.io/mc", // noCF? (don´t add this in a new PR)
   "mca": "lem0nb.github.io/Minecraft_Auto_Builder",
   "mcul": "russellsteadman.github.io/mcul",
-  "md": "netnrmd.onrender.com", // noCF
+  "md": "cname-china.vercel-dns.com", // noCF
   "mdbf-css": "more-beautiful-div-framework.github.io",
   "mde": "lukehorvat.github.io/mde-soundboard",
   "mechan": "dusterthefirst.github.io/mechan.js",
@@ -2104,6 +2109,7 @@ var cnames_active = {
   "phaker": "phakerjs.github.io/phaker.js",
   "pharaoh": "pharaoh-js.github.io", // noCF? (don´t add this in a new PR)
   "pharo": "pharojs.github.io/pharo-js-org",
+  "phazor": "phazor-js.github.io/Phazor.js",
   "phi": "phi-tools.netlify.com",
   "phisherman": "thewilloftheshadow.github.io/phisherman.js",
   "phobos": "phobosjs.github.io/phobos.js",
@@ -2511,6 +2517,7 @@ var cnames_active = {
   "scratch": "scratch-js.github.io",
   "screentocodesandbox": "ckgrafico.github.io/ScreenshotToCodeSandbox",
   "scriptex": "scriptex.github.io",
+  "scroller-motion": "scroller-motion.netlify.app",
   "sdg": "faylearn.github.io/sdgs",
   "sdh": "sdh.netlify.com",
   "sdk-design": "hueitan.github.io/javascript-sdk-design",
@@ -3127,6 +3134,7 @@ var cnames_active = {
   "what-version-of-node": "tobysmith568.github.io/what-node-js",
   "whatscode": "jastinxyz.github.io/whatscode.js",
   "whatsnext": "cname.vercel-dns.com", // noCF
+  "whatsup": "whatsup.github.io",
   "whistle": "whistle-lang.github.io/website",
   "whiteboard": "yhozen.github.io/whiteboard",
   "wice": "yulioaj290.github.io/wice.js",
