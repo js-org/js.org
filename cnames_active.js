@@ -2228,7 +2228,7 @@ var cnames_active = {
   "pwapp": "nikiforov-org.github.io/pwapp",
   "qbit": "fudan-mse.github.io/qbit",
   "qbsz": "qbsz.github.io",
-  "qorn": "qorn.github.io/qorn.js.org",
+  "qorn": "qornjs.github.io/qornjs.js.org",
   "qornjs": "qornjs.github.io/qornjs.js.org",
   "qs": "kirjs.github.io/qs.js", // noCF? (don´t add this in a new PR)
   "quacky": "quacky-bot.github.io",
