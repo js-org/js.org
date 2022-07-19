@@ -2516,6 +2516,7 @@ var cnames_active = {
   "scratch": "scratch-js.github.io",
   "screentocodesandbox": "ckgrafico.github.io/ScreenshotToCodeSandbox",
   "scriptex": "scriptex.github.io",
+  "scroller-motion": "scroller-motion.netlify.app",
   "sdg": "faylearn.github.io/sdgs",
   "sdh": "sdh.netlify.com",
   "sdk-design": "hueitan.github.io/javascript-sdk-design",
