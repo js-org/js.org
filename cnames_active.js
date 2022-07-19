@@ -2747,7 +2747,7 @@ var cnames_active = {
   "sudarshan": "sudarshanraul.github.io",
   "sudoku": "andreynering.github.io/sudoku",
   "sug": "opensug.github.io/sug.js.org",
-   "project": "qorn.github.io/qorn.js.org"
+  "qorn": "qorn.github.io/qorn.js.org"
   "suggestcord": "suggestcord.github.io/docs",
   "suggester": "suggester.github.io/Documentation",
   "suka": "sukkaw.github.io",
