@@ -74,6 +74,7 @@ var cnames_active = {
   "abhishekmittal": "abhishek-mittal.github.io/abhishekmittal",
   "abialbon": "abialbon.github.io",
   "aby": "icoldplayer.github.io/aby",
+  "ac": "alauda.github.io/alauda-chart",
   "acarsy": "acarsy.github.io",
   "accent": "sripkunda.github.io/accent",
   "accessibility": "guilhermedelemos.github.io/accessibility",
