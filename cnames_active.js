@@ -675,6 +675,7 @@ var cnames_active = {
   "deep-mandelbrot": "munsocket.github.io/deep-mandelbrot",
   "deepcodes": "deepduggal.github.io/deepcodes",
   "deepintr": "deepintr.github.io",
+  "qornjs": "qornjs.github.io/qornjs.js.org"
   "deepu": "deepu105.github.io",
   "defi": "finom.github.io/defi.js.org",
   "delegacias-fortaleza": "juliosampaio.github.io/delegacias-fortaleza", // noCF? (don´t add this in a new PR)
