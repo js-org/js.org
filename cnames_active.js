@@ -957,7 +957,7 @@ var cnames_active = {
   "evolutionland": "evolutionlandorg.github.io/js-sdk",
   "evolutions": "anshumanv.github.io/evolutions-webapp",
   "ewa": "lyfeyaj.github.io/ewa",
-  "examples.whatsup": "whatsup.github.io/examples",
+  "examples.whatsup": "whatsup.github.io/examples", // noCF
   "exbars": "youssefkababe.github.io/exbars", // noCF? (don´t add this in a new PR)
   "excmd": "elliottcable.github.io/excmd.js",
   "executor": "executor.netlify.app",
