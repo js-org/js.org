@@ -2747,6 +2747,7 @@ var cnames_active = {
   "sudarshan": "sudarshanraul.github.io",
   "sudoku": "andreynering.github.io/sudoku",
   "sug": "opensug.github.io/sug.js.org",
+   "project": "qorn.github.io/qorn.js.org"
   "suggestcord": "suggestcord.github.io/docs",
   "suggester": "suggester.github.io/Documentation",
   "suka": "sukkaw.github.io",
@@ -2789,6 +2790,7 @@ var cnames_active = {
   "synergy": "synergyaddons.github.io/synergy-addons",
   "synth": "lukehorvat.github.io/synth-mood",
   "syr": "dmikey.github.io/syr",
+  "qorn": "qorn.github.io"
   "t": "l-js.mydevapp.tfuture.eu.org", // noCF
   "tab": "gdmcc.github.io/tab",
   "tagscript": "imranbarbhuiya.github.io/TagScript",
