@@ -2552,6 +2552,7 @@ var cnames_active = {
   "sesam": "lennertderyck.github.io/sesam",
   "setheum": "setheum-js.github.io",
   "sfml": "xadillax.github.io/node-sfml",
+  "sh": "lizs365.github.io/sh365",
   "shandler": "hosting.gitbook.io", // noCF
   "sharding": "infinitytmbots.github.io/discord-hybrid-sharding",
   "share": "jeff-tian.github.io/weshare",
