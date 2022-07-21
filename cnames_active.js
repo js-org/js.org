@@ -2297,6 +2297,7 @@ var cnames_active = {
   "react-jewish-datepicker": "shmulik-kravitz.github.io/react-jewish-datepicker",
   "react-layout-components": "kripod.github.io/react-layout-components",
   "react-leaflet": "paullecam.github.io/react-leaflet",
+  "react-mise": "tachibana-shin.github.io/react-mise",
   "react-native-csv": "react-native-csv.github.io",
   "react-native-elements": "react-native-elements.github.io/playground",
   "react-native-flex-layout": "react-native-flex-layout.vercel.app",
