@@ -1262,6 +1262,7 @@ var cnames_active = {
   "hooloo": "hooloo.github.io", // noCF? (don´t add this in a new PR)
   "hours": "cname.vercel-dns.com", // noCF
   "how-to-mithril": "stephanhoyer.github.io/how-to-mithril",
+  "hox": "umijs.github.io/hox",
   "hrishi": "hrishi045.github.io",
   "hrtable": "uyouthe.github.io/hrtable",
   "hsiaoyi0504": "hsiaoyi0504.github.io",
@@ -2299,6 +2300,7 @@ var cnames_active = {
   "react-jewish-datepicker": "shmulik-kravitz.github.io/react-jewish-datepicker",
   "react-layout-components": "kripod.github.io/react-layout-components",
   "react-leaflet": "paullecam.github.io/react-leaflet",
+  "react-mise": "tachibana-shin.github.io/react-mise",
   "react-native-csv": "react-native-csv.github.io",
   "react-native-elements": "react-native-elements.github.io/playground",
   "react-native-flex-layout": "react-native-flex-layout.vercel.app",
