@@ -141,6 +141,7 @@ var cnames_active = {
   "all-contributors": "all-contributors-js-org.netlify.com",
   "almeida": "almeidx.github.io",
   "almin": "almin.github.io",
+  "alvaro-blanco": "alvarowhiterd.github.io/Alvaro-Blanco",
   "alphabetify": "davidpomerenke.github.io/alphabetify",
   "alt": "goatslacker.github.io/alt", // noCF? (don´t add this in a new PR)
   "alveron": "rofrischmann.github.io/alveron",
