@@ -3047,6 +3047,7 @@ var cnames_active = {
   "visualized-execution": "codaisseur.github.io/visualized-execution",
   "visualnovel": "selcher.github.io/visualnoveljs", // noCF? (don´t add this in a new PR)
   "vitedge": "vitedge.netlify.app",
+  "vitery": "viteryjs.github.io/vitery",
   "viv": "v1vcodes.github.io/viv",
   "vk-x": "vk-x.github.io",
   "vlite": "vlitejs.github.io",
