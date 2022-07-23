@@ -622,6 +622,7 @@ var cnames_active = {
   "currency": "scurker.github.io/currency.js",
   "currency-system": "bintelligent.github.io/currency-system",
   "curseapp": "mcrocks999.github.io/curseapp.js",
+  "custom-captcha": "mcnagynorbi.github.io/custom-captcha",
   "cville": "cvjs.github.io",
   "cvss": "cvssjs.github.io",
   "cy-rn": "tyrone2333.github.io/cy-react-native-cli",
