@@ -2510,7 +2510,7 @@ var cnames_active = {
   "sawyer": "sqwwy.github.io/sawyer.js.org",
   "sazerac": "sazeracjs.github.io/sazerac-site",
   "sb": "santiaguf.github.io",
-  "scadies": "kysolva.github.io/scadies-docs", // noCF
+  "scadies": "kysolva.github.io/scadies", // noCF
   "scancell": "russellsteadman.github.io/scancell",
   "scathach": "sinkaroid.github.io/scathach",
   "scene": "daybrush.github.io/scenejs-page",
