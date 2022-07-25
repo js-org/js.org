@@ -814,6 +814,7 @@ var cnames_active = {
   "dot-microservices": "dot-microservices.github.io/dot",
   "doz": "dozjs.github.io/website",
   "dplayer": "diygod.github.io/DPlayer", // noCF
+  "dpm": "xyligan-gp.github.io/discord-player-music",
   "dprof": "andreasmadsen.github.io/dprof",
   "draft": "d1sc0tech.github.io/draft.js", // noCF? (don´t add this in a new PR)
   "drag": "classicoldsong.github.io/Drag.js", // noCF? (don´t add this in a new PR)
