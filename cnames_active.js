@@ -1732,7 +1732,7 @@ var cnames_active = {
   "melies-hugo": "cristinafsanz.github.io/melies-hugo",
   "melody": "trivago.github.io/melody-web",
   "memer-api": "cname.vercel-dns.com",
-  "miaoyanginfo": "miaoyanginfo.github.io",
+  "yuancheng": "miaoyanginfo.github.io",
   "memoz": "60-min-code.github.io/memoz",
   "mengd": "cname.vercel-dns.com", // noCF
   "menghafalquran": "mzaini30.github.io/menghafal-quran",
