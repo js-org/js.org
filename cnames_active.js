@@ -1705,6 +1705,7 @@ var cnames_active = {
   "mateocontenla": "taconeomental.github.io/mateocontenla",
   "materialish": "jamesplease.github.io/materialish",
   "materialize-bootbox": "iqbalfn.github.io/materialize-bootbox",
+  "matrix": "crashmax-dev.github.io/matrix-canvas",
   "matrix-rref-solver": "arisweedler.github.io/matrix-rref-solver",
   "matters2ipfs": "contributionls.github.io/matters2ipfs",
   "mauricio": "mauricionobrega.github.io/www",
@@ -2510,7 +2511,7 @@ var cnames_active = {
   "sawyer": "sqwwy.github.io/sawyer.js.org",
   "sazerac": "sazeracjs.github.io/sazerac-site",
   "sb": "santiaguf.github.io",
-  "scadies": "kysolva.github.io/scadies-docs", // noCF
+  "scadies": "kysolva.github.io/scadies", // noCF
   "scancell": "russellsteadman.github.io/scancell",
   "scathach": "sinkaroid.github.io/scathach",
   "scene": "daybrush.github.io/scenejs-page",
