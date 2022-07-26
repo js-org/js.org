@@ -2820,6 +2820,7 @@ var cnames_active = {
   "tauber": "ranjithrd.github.io/tauber",
   "taufik-nurrohman": "taufik-nurrohman.github.io",
   "tauris": "codemaster138.github.io/tauris",
+  "taxi": "craftedbygc.github.io/taxi",
   "tayyab": "itayyab.github.io",
   "tdhandler": "hosting.gitbook.com",
   "tead": "teadjs.github.io",
