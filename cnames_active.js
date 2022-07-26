@@ -2881,6 +2881,7 @@ var cnames_active = {
   "toad": "wnda.github.io/toad",
   "tom": "cname.vercel-dns.com",
   "tom-select": "orchidjs.github.io/tom-select",
+  "tongzi": "tongzi.vercel.app",
   "tooling": "slikts.github.io/tooling",
   "tools-kit": "blackb1rd-development.github.io/tools-kit",
   "toolzar": "toolzar.netlify.app",
