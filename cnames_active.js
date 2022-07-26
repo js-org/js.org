@@ -655,6 +655,7 @@ var cnames_active = {
   "datacord": "d60a9765-dcf7-45e0-ac27-2280a8aff26f.id.repl.co", // noCF
   "dataenv": "pgamerx.github.io/dataenv",
   "dataflux": "massimocandela.github.io/dataflux",
+  "datastream": "willfarrell.github.io/datastream",
   "datastructures": "deadcoder0904.github.io/datastructures",
   "date": "matthewmueller.github.io/date", // noCF? (don´t add this in a new PR)
   "dativejs": "dativejs.github.io",
@@ -814,6 +815,7 @@ var cnames_active = {
   "dot-microservices": "dot-microservices.github.io/dot",
   "doz": "dozjs.github.io/website",
   "dplayer": "diygod.github.io/DPlayer", // noCF
+  "dpm": "xyligan-gp.github.io/discord-player-music",
   "dprof": "andreasmadsen.github.io/dprof",
   "draft": "d1sc0tech.github.io/draft.js", // noCF? (don´t add this in a new PR)
   "drag": "classicoldsong.github.io/Drag.js", // noCF? (don´t add this in a new PR)
@@ -2819,6 +2821,7 @@ var cnames_active = {
   "tauber": "ranjithrd.github.io/tauber",
   "taufik-nurrohman": "taufik-nurrohman.github.io",
   "tauris": "codemaster138.github.io/tauris",
+  "taxi": "craftedbygc.github.io/taxi",
   "tayyab": "itayyab.github.io",
   "tdhandler": "hosting.gitbook.com",
   "tead": "teadjs.github.io",
