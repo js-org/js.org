@@ -2324,6 +2324,7 @@ var cnames_active = {
   "react-through": "hosting.gitbook.com", // noCF
   "react-toulouse": "moox.github.io/react-toulouse",
   "react-tracked": "dai-shi.github.io/react-tracked",
+  "react-unimodal": "chrisli-03.github.io/react-unimodal",
   "react-ui-animate": "dipeshrai123.github.io/react-ui-animate-docs",
   "react-uicomp": "dipeshrai123.github.io/React-UIComp-Docs",
   "reactabular": "bebraw.github.io/reactabular",
