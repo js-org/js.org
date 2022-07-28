@@ -808,6 +808,7 @@ var cnames_active = {
   "dolphin": "uyouthe.github.io/dolphin",
   "domainr": "cname.vercel-dns.com", // noCF
   "dominion": "dominion-framework.github.io",
+  "domiso": "un-ts.github.io/domiso",
   "domtastic": "webpro.github.io/DOMtastic",
   "domutils": "fb55.github.io/domutils",
   "donavon": "donavon.github.io", // noCF? (don´t add this in a new PR)
