@@ -1580,6 +1580,7 @@ var cnames_active = {
   "leoj": "leoaj.github.io", // noCF? (don´t add this in a new PR)
   "leoric": "cyjake.github.io/leoric",
   "lerna": "lerna.github.io/website",
+  "lesliwwe": "lesliwwe.github.io",
   "lessmd": "linuxenko.github.io/lessmd",
   "leste": "atwood-cai.github.io/leste.js", // noCF? (don´t add this in a new PR)
   "lete": "cname.vercel-dns.com", // noCF
