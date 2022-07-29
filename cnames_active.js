@@ -2007,7 +2007,7 @@ var cnames_active = {
   "nyax": "springnyan.github.io/nyax",
   "nyc": "nycjsorg.github.io/nyc",
   "nyr": "suriyaakudoisc.github.io/NYR",
-  "nx": "nx-space.github.io/nx-docs"
+  "nx": "nx-space.github.io/nx-docs" // noCF? ? (don´t add this in a new PR)
   "oak": "donn.github.io/Oak.js",
   "object-gui": "matteobruni.github.io/object-gui",
   "objectid": "the-silver-project.github.io/objectid",
