@@ -1220,6 +1220,7 @@ var cnames_active = {
   "ham": "militia21.github.io/ham",
   "hamburger-menu": "center-key.github.io/hamburger-menu",
   "hamed": "phpniki.github.io/hamed",
+  "hamza": "hamza8bit.github.io",
   "hana": "hanacaraka.netlify.app",
   "hanan": "hanandito.github.io/teddypicker",
   "handsfree": "handsfreejs.github.io/handsfree",
