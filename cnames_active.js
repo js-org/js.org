@@ -3200,6 +3200,7 @@ var cnames_active = {
   "xendb": "notmarx.github.io/Xen.db",
   "xhemj": "xhemj.now.sh", // noCF
   "xhy": "xhy.github.io",
+  "xdeandtoms": "xdeandtoms.github.io"
   "xi102": "xi102.github.io",
   "xiangqiz": "xiangqiz.github.io/Hello",
   "xiaolan": "mcxiaolan.github.io",
