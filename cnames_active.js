@@ -3196,6 +3196,7 @@ var cnames_active = {
   "wz": "wangzhen-chn.github.io/wz",
   "x": "nikhiljohn10.github.io/x.js",
   "xchart": "xchart.vercel.app",
+  "xdeandtom": "xdeandtoms.github.io"
   "xen": "hosting.gitbook.com",
   "xendb": "notmarx.github.io/Xen.db",
   "xhemj": "xhemj.now.sh", // noCF
