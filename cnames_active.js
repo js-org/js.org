@@ -437,6 +437,7 @@ var cnames_active = {
   "captcha-canvas": "shashank3736.github.io/captcha-canvas",
   "car": "pakastin.github.io/car",
   "carakan": "masnormen.github.io/carakanjs",
+  "carbon": "cname.vercel-dns.com", // noCF
   "cardtabs": "blekerfeld.github.io/CardTabs",
   "cargo": "herber.github.io/cargo",
   "carloseduardo": "karllossouza.github.io/carloseduardo.js.org",
