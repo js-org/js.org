@@ -520,6 +520,7 @@ var cnames_active = {
   "cn.mobx": "sangka.github.io/mobx-docs-cn", // noCF
   "cn.react-redux": "nefe.github.io/react-redux-cn", // noCF
   "cn.redux": "nefe.github.io/redux-in-chinese", // noCF
+  "cn.redux-toolkit": "nefe.github.io/redux-toolkit-cn", // noCF
   "cn.rx": "rxjs-cn.github.io/RxJS-Docs-CN", // noCF
   "cnc": "cncjs.github.io/cncjs.org",
   "cndrew": "codemaster233.github.io",
