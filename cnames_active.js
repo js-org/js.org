@@ -2317,6 +2317,7 @@ var cnames_active = {
   "react-leaflet": "paullecam.github.io/react-leaflet",
   "react-mise": "tachibana-shin.github.io/react-mise",
   "react-native-csv": "react-native-csv.github.io",
+  "react-native-document-scanner": "websitebeaver.github.io/react-native-document-scanner-plugin",
   "react-native-elements": "react-native-elements.github.io/playground",
   "react-native-flex-layout": "react-native-flex-layout.vercel.app",
   "react-native-floating-labels": "mayank-patel.github.io/react-native-floating-labels",
