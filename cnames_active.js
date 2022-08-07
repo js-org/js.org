@@ -1813,6 +1813,7 @@ var cnames_active = {
   "mixery": "nahkd123.github.io/Mixery",
   "mjy": "majianyu2007.github.io",
   "mm": "1ocalhost.github.io/mm",
+  "mmrlink.js.org": "mmrlink.js.org"
   "mmcq": "nikola.github.io/MMCQ", // noCF? (don´t add this in a new PR)
   "mmzdupz": "mmzdupz.github.io",
   "mnmlcss": "barelyhuman.github.io/mnml.css",
