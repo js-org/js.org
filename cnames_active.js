@@ -2224,6 +2224,7 @@ var cnames_active = {
   "prototyped": "ardalanamini.github.io/prototyped.js",
   "protype": "arguiot.github.io/ProType",
   "proyecto-estadistica-2020": "eduardodevop.github.io/proyecto-estadistica-2020",
+  "proxy.meow": "cname.vercel-dns.com",
   "pruf": "signalwerk.github.io/pruf",
   "pruthvisoni": "pruthvisooni.github.io",
   "ps": "spindlyskit.github.io/ps.js",
