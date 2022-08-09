@@ -677,8 +677,8 @@ var cnames_active = {
   "dbots": "dbots-pkg.github.io/dbots-website",
   "dbotsgg": "valredstone.github.io/dbots.gg",
   "decimalsystem": "uellenberg.github.io/DecimalSystem",
-  "deck-of-cards": "pakastin.github.io/deck-of-cards",
   "decklink": "mmrlink.github.io/docu",
+  "deck-of-cards": "pakastin.github.io/deck-of-cards",
   "declarativ": "fennifith.github.io/declarativ", // noCF
   "deep-mandelbrot": "munsocket.github.io/deep-mandelbrot",
   "deepcodes": "deepduggal.github.io/deepcodes",
