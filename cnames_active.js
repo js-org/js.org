@@ -1359,6 +1359,7 @@ var cnames_active = {
   "invent": "isaiahpatton.github.io/InventJS",
   "invoicing": "vahe.github.io/InvoicingJs",
   "iot": "product-engineer.github.io/iot.js.org", // noCF
+  "iori": "iori20091101.github.io",
   "ip-address": "beaugunderson.github.io/ip-address", // noCF? (don´t add this in a new PR)
   "ipang": "ipang-dwi.github.io/ipang",
   "ipc": "alperr.github.io/ipc",
