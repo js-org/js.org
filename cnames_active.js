@@ -204,6 +204,7 @@ var cnames_active = {
   "arithmy": "arithmy.netlify.app",
   "arshad": "arshadmhabib.github.io",
   "artalk": "artalk-demo.qwqaq.com", // noCF
+  "artemis": "hartemis.github.io",
   "artery": "arteryjs.github.io/gh-pages", // noCF? (don´t add this in a new PR)
   "arthurmbandeira": "arthurmbandeira.github.io",
   "artitalk": "artitalkjs.github.io/docs",
