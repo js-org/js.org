@@ -2590,6 +2590,7 @@ var cnames_active = {
   "shikwasa": "jessuni.github.io/shikwasa",
   "shilong": "echoheim.github.io/shilong",
   "shine": "shinenelson.github.io/shine.js.org",
+  "shinobu": "shinobujs.github.io/Shinobu",
   "shirajuki": "shirajuki.github.io",
   "shiro-gg": "moyshik7.github.io/shiro-gg",
   "shobhitchittora": "shobhitchittora.github.io",
