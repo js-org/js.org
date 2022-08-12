@@ -832,6 +832,7 @@ var cnames_active = {
   "draw": "skillzzjesse.github.io/draw",
   "dream": "joeleeofficial.github.io/dream",
   "dreygur": "dreygur.github.io",
+  "drr": "xyligan-gp.github.io/discord-reactions-roles",
   "drupi": "drupijs.github.io/website",
   "dthings": "hosting.gitbook.io", // noCF
   "dtools": "mrsheldon.github.io/dtools.js",
