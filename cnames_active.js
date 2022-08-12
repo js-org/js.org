@@ -746,7 +746,6 @@ var cnames_active = {
   "discord-kr": "discordjs-kr.github.io/website",
   "discord-logs": "androz2091.github.io/discord-logs",
   "discord-messages": "lebyy.github.io/discord-messages",
-  "discord-moderation": "discord-moderation.github.io/website",
   "discord-music-player": "sushibtw.github.io/discord-music-player",
   "discord-neura": "discord-neura.github.io/website",
   "discord-player": "discord-player-docs.netlify.app",
@@ -761,7 +760,6 @@ var cnames_active = {
   "discord-webhook": "evrifaessa.github.io/discord-webhook",
   "discord4node": "mrsheldon.github.io/Discord4Node",
   "discordhy": "readthedocs.io",
-  "discordjs-handler": "discordjs-handler.github.io/website",
   "discordjsh": "diswumpus.github.io/discord.jsh",
   "discordkit": "swothh.github.io/discordkit",
   "discordlib": "hosting.gitbook.com",
@@ -781,11 +779,9 @@ var cnames_active = {
   "diysay": "diysay.github.io/diysay-js-org",
   "djs-addon": "hosting.gitbook.io", // noCF
   "djs-application-commands": "hosting.gitbook.io",
-  "djs-economy": "discordjs-economy.github.io/website",
   "djs-modules": "djs-modules.github.io/website",
   "djs-tickets": "pgamerx.github.io/djs-tickets",
   "djs-tools": "fhgdev.github.io/djs-tools",
-  "djs-twitch": "discordjs-twitch.github.io/website",
   "djsframe": "vypal.github.io/djsframe",
   "djsguide": "hosting.gitbook.com",
   "djvu": "russcoder.github.io/djvujs", // noCF
