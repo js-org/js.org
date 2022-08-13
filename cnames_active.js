@@ -738,6 +738,7 @@ var cnames_active = {
   "discord-button-page": "kingofpanda-development.github.io/discord-button-page",
   "discord-cmds": "hosting.gitbook.io", // noCF
   "discord-easy-leveling": "retrouser955.github.io/discord-easy-leveling",
+  "discord-easy-slash": "amukh1.github.io/discord-easy-slash",
   "discord-epagination": "azawat7.github.io/discord-pagination",
   "discord-gamecord": "gamecord-docs.vercel.app",
   "discord-giveaways": "androz2091.github.io/discord-giveaways",
