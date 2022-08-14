@@ -2900,6 +2900,7 @@ var cnames_active = {
   "tiza": "pd4d10.github.io/tiza",
   "tjys": "qikaile.github.io/tjys-notes",
   "tmr": "tmr-blog.netlify.app",
+  "tnt": "tntjs-docs.netlify.app",
   "toad": "wnda.github.io/toad",
   "tom": "cname.vercel-dns.com",
   "tom-select": "orchidjs.github.io/tom-select",
