@@ -2541,6 +2541,7 @@ var cnames_active = {
   "screentocodesandbox": "ckgrafico.github.io/ScreenshotToCodeSandbox",
   "scriptex": "scriptex.github.io",
   "scroller-motion": "scroller-motion.netlify.app",
+  "scostilla":"scostilla.github.io/portfolio/",
   "scsaver": "hamalt.github.io/scsaver",
   "sdg": "faylearn.github.io/sdgs",
   "sdh": "sdh.netlify.com",
