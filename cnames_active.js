@@ -2542,6 +2542,7 @@ var cnames_active = {
   "scriptex": "scriptex.github.io",
   "scroller-motion": "scroller-motion.netlify.app",
   "scsaver": "hamalt.github.io/scsaver",
+  "scostilla": "scostilla.github.io/portfolio/",
   "sdg": "faylearn.github.io/sdgs",
   "sdh": "sdh.netlify.com",
   "sdk-design": "hueitan.github.io/javascript-sdk-design",
