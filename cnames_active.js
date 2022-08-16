@@ -881,6 +881,7 @@ var cnames_active = {
   "ehsan": "ehsanfox.github.io",
   "eight": "cnzc.github.io/eight",
   "eiphop": "eiphop.netlify.com",
+  "eiyuu": "sinkaroid.github.io/eiyuu",
   "ejir": "ejir.github.io",
   "ekscss": "maxmilton.github.io/ekscss",
   "elastic-builder": "sudo-suhas.github.io/elastic-builder",
