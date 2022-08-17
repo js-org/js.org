@@ -1111,6 +1111,7 @@ var cnames_active = {
   "gcommands": "garlic-team.github.io/GCommands",
   "gcse": "abemedia.github.io/jquery-gcse",
   "gdal3": "bugra9.github.io/gdal3.js",
+  "gdds": "gududaonet.github.io",
   "gdi": "katehra-brc.github.io/gdi.js.org",
   "geekr": "ruanyl.github.io/geekr", // noCF? (don´t add this in a new PR)
   "gem": "gem-docs.netlify.app",
