@@ -142,6 +142,7 @@ var cnames_active = {
   "all-contributors": "all-contributors-js-org.netlify.com",
   "almeida": "almeidx.github.io",
   "almin": "almin.github.io",
+  "alpha-coders": "biologyscience.github.io/alpha-coders",
   "alphabetify": "davidpomerenke.github.io/alphabetify",
   "alt": "goatslacker.github.io/alt", // noCF? (don´t add this in a new PR)
   "alveron": "rofrischmann.github.io/alveron",
@@ -339,7 +340,6 @@ var cnames_active = {
   "bloxy": "visualizememe.github.io/bloxy",
   "blu": "maxherrmann.github.io/blu",
   "blueconfig": "a-312.github.io/node-blueconfig",
-  "bluesky01st": "bluesky01st.github.io",
   "blurple": "blurplejs.github.io/docs",
   "bo": "lfb.github.io/bojs",
   "boats": "discordboats.github.io",
