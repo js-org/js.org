@@ -38,6 +38,7 @@
  */
 
 var cnames_active = {
+  "api": "46grjgmr.api.lncldglobal.com"
   "": "js-org.github.io",
   "01mz": "01mz.github.io",
   "100dayz": "deadcoder0904.github.io/100dayz",
@@ -1500,6 +1501,7 @@ var cnames_active = {
   "kindavishal": "kindavishal.netlify.com",
   "kiranremmarasu": "kiranremmarasu.github.io/kiranremmarasu",
   "kite": "kite-js.github.io/kite",
+  "kiwidocs": "arguiot.github.io/KiwiDocs",
   "kiwidocs": "arguiot.github.io/KiwiDocs",
   "kkapi": "cname.vercel-dns.com", // noCF
   "klasa": "dirigeants.github.io/klasa-website",
