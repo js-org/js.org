@@ -788,7 +788,7 @@ var cnames_active = {
   "djvu": "russcoder.github.io/djvujs", // noCF
   "djzhao": "djzhao627.github.io",
   "dlite": "hosting.gitbook.com",
-  "dls-docs": "shadowplay1.github.io/dls-docs"
+  "dls-docs": "shadowplay1.github.io/dls-docs",
   "dmitry": "dmitry-zaets.github.io",
   "dna": "dnajs.github.io/dna.js",
   "docile": "russellsteadman.github.io/docile",
