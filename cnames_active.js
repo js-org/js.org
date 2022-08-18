@@ -721,6 +721,7 @@ var cnames_active = {
   "dicey": "basicer.github.io/dicey",
   "dictionary": "dictionary-api-docs.gamercoder215.repl.co", // noCF
   "diddle": "jylescoad-ward.github.io/diddle.js",
+  "dids": "ceramicnetwork.github.io/js-did",
   "diegomoradev": "edimer-dev.github.io/diegomoradev",
   "diffract": "ameyms.github.io/diffract", // noCF? (don´t add this in a new PR)
   "dime": "anut-py.github.io/dime",
