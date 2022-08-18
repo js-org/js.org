@@ -2622,7 +2622,7 @@ var cnames_active = {
   "simplesnake": "aktindo.github.io/Simple_Snake_Game",
   "simplestate": "nlcgits.github.io/simplestate",
   "simply": "fehmi.github.io/simply",
-  "simplyapi": "simplyapi-production.up.railway.app", // noCF
+  "simplyapi": "simplyapi.vercel.app", // noCF
   "simplyd": "simplyd.netlify.app",
   "simplyeco": "xx-mohit-xx.github.io/Simply-eco",
   "simplyxp": "simplyxp.netlify.app",
