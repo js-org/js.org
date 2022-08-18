@@ -754,7 +754,6 @@ var cnames_active = {
   "discord-rest": "garder500.github.io/discord-rest",
   "discord-sensei": "demonicious.github.io/discord-sensei",
   "discord-tickets": "derpinou.github.io/discord-tickets-docs",
-  "discord-ts": "oceanroleplay.github.io/discord.ts",
   "discord-twitch": "tovade.github.io/discord-twitch",
   "discord-voice": "c71abc0d-1101-4d2b-ab7b-9f30b379f68b.repl.co", // noCF
   "discord-vr": "hosting.gitbook.io", // noCF
@@ -766,6 +765,7 @@ var cnames_active = {
   "discordlib": "hosting.gitbook.com",
   "discords": "botstudios.github.io/discords.js.org",
   "discordutility": "chaosphoe.github.io/discordutility",
+  "discordx": "discordx-ts.github.io/discordx",
   "discuss": "cname.vercel-dns.com", // noCF
   "disgroupdev": "disgroup-development.github.io/disgroupdev.js",
   "disgrow": "sinkaroid.github.io/disgrow",
