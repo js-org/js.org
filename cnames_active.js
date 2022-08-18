@@ -1858,6 +1858,7 @@ var cnames_active = {
   "monkberry": "monkberry.github.io",
   "mono": "mono-js.github.io/mono",
   "montage": "montagejs.github.io",
+  "moonlink": "hosting.gitbook.io",
   "moose": "mustpax.github.io/moose",
   "moro": "omidfi.github.io/moro",
   "morocco": "moroccojs.github.io",
