@@ -525,6 +525,7 @@ var cnames_active = {
   "cnc": "cncjs.github.io/cncjs.org",
   "cndrew": "codemaster233.github.io",
   "cocy": "krmax44.github.io/cocy",
+  "codebin": "lewis45454.github.io",
   "codebooky": "hiteshsubnani0128.github.io/codebooky",
   "codemade": "codemade.github.io", // noCF? (don´t add this in a new PR)
   "codepan": "egoist.github.io/codepan",
