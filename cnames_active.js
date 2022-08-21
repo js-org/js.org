@@ -1115,9 +1115,6 @@ var cnames_active = {
   "gdal3": "bugra9.github.io/gdal3.js",
   "gdi": "katehra-brc.github.io/gdi.js.org",
   "geekr": "ruanyl.github.io/geekr", // noCF? (don´t add this in a new PR)
-  "gem": "gem-docs.netlify.app",
-  "gem-book": "gem-book.netlify.app",
-  "gem-panel": "gem-panel.vercel.app",
   "generate-license-file": "tobyandtoby.github.io/generate-license-file",
   "geniucker": "geniucker.github.io",
   "genius-lyrics": "zyrouge.github.io/genius-lyrics",
