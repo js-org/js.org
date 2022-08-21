@@ -2325,6 +2325,7 @@ var cnames_active = {
   "react-native-csv": "react-native-csv.github.io",
   "react-native-document-scanner": "websitebeaver.github.io/react-native-document-scanner-plugin",
   "react-native-elements": "react-native-elements.github.io/playground",
+  "react-native-error-boundary": "cname.vercel-dns.com", // noCF
   "react-native-flex-layout": "react-native-flex-layout.vercel.app",
   "react-native-floating-labels": "mayank-patel.github.io/react-native-floating-labels",
   "react-native-track-player": "doublesymmetry.github.io/react-native-track-player", // noCF
