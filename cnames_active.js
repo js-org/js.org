@@ -1118,6 +1118,7 @@ var cnames_active = {
   "gem": "gem-docs.netlify.app",
   "gem-book": "gem-book.netlify.app",
   "gem-panel": "gem-panel.vercel.app",
+  "generate-license-file": "tobyandtoby.github.io/generate-license-file",
   "geniucker": "geniucker.github.io",
   "genius-lyrics": "zyrouge.github.io/genius-lyrics",
   "genpasswd": "exos.github.io/genpasswd", // noCF? (don´t add this in a new PR)
