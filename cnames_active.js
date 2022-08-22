@@ -741,7 +741,7 @@
     "discord-easy-leveling": "retrouser955.github.io/discord-easy-leveling",
     "discord-easy-slash": "amukh1.github.io/discord-easy-slash",
     "discord-epagination": "azawat7.github.io/discord-pagination",
-    "discord-gamecord": "gamecord-docs.vercel.app", // noCF
+    "discord-gamecord": "cname.vercel-dns.com", // noCF
     "discord-giveaways": "androz2091.github.io/discord-giveaways",
     "discord-kommando": "team-thinkcord.github.io/discord-kommando.js",
     "discord-kommando-plugins": "team-thinkcord.github.io/discord-kommando.js-plugins",
@@ -951,7 +951,7 @@
     "escape": "licshee.github.io/Escape.js", // noCF? (don´t add this in a new PR)
     "esfx": "esfx.github.io",
     "esg": "cname.vercel-dns.com", // noCF
-    "eslint-plugin-wxml": "eslint-plugin-wxml.vercel.app", // noCF
+    "eslint-plugin-wxml": "cname.vercel-dns.com", // noCF
     "esper": "codecombat.github.io/esper.js",
     "estudiantil": "milersant.github.io/estudiantil",
     "eta": "alias.zeit.co", // noCF
@@ -1002,7 +1002,7 @@
     "fe": "xcss.github.io/FE",
     "feature-u": "kevinast.github.io/feature-u",
     "feeble": "feeblejs.github.io/feeble",
-    "fela": "felajs.vercel.app", // noCF
+    "fela": "cname.vercel-dns.com", // noCF
     "fem": "frani.github.io/fem",
     "festercluck": "festercluck.github.io", // noCF? (don´t add this in a new PR)
     "fetch-json": "center-key.github.io/fetch-json",
@@ -1100,7 +1100,7 @@
     "g-point": "bdvela.github.io/g-point",
     "gaiman": "jcubic.github.io/gaiman",
     "gal": "galmail.github.io", // noCF? (don´t add this in a new PR)
-    "game-tracker": "game-tracker-docs.vercel.app", // noCF
+    "game-tracker": "cname.vercel-dns.com", // noCF
     "gamecord": "gamecord.lazyowl.repl.co", // noCF
     "gamedevcontestal": "fromdenisvieira.github.io/gamedevcontestal", // noCF? (don´t add this in a new PR)
     "gametime": "parking-master.github.io/Gametime.js",
@@ -1252,7 +1252,7 @@
     "hexoplusplus": "hexoplusplus.github.io/docs",
     "hfsyun": "hfsyun.github.io",
     "hibiki": "claritymoe.github.io/hibiki",
-    "hiddenfrombots": "hiddenfrombots.vercel.app", // noCF
+    "hiddenfrombots": "cname.vercel-dns.com", // noCF
     "highfive": "hosting.gitbook.io", // noCF
     "highway": "dogstudio.github.io/highway",
     "hijiangtao": "hijiangtao.github.io/hijiangtao.js.org",
@@ -1436,10 +1436,10 @@
     "josecarloszamoragomezcv": "josecarloszamoragomez.github.io/CV",
     "josecarloszamoragomezportfolio": "josecarloszamoragomez.github.io/Portfolio",
     "josep": "warlock.github.io",
-    "joycon": "joycon.vercel.app", // noCF
+    "joycon": "cname.vercel-dns.com", // noCF
     "jparticles": "jparticles.github.io/Documentation",
     "js-fixerr": "anujsinghwd.github.io/js-fixerr",
-    "js-labs": "js-labs.vercel.app", // noCF
+    "js-labs": "cname.vercel-dns.com", // noCF
     "jscord": "thepoptartcrpr.github.io/jscord",
     "jsdec": "liulihaocai.github.io/JSDec",
     "jslabs": "cname.vercel-dns.com", // noCF
@@ -1471,7 +1471,7 @@
     "kahoot": "na-west1.surge.sh",
     "kainy": "kainy.github.io/js.org",
     "kairusds": "kairusds.github.io",
-    "kaiya": "k.kaiya.vercel.app", // noCF
+    "kaiya": "cname.vercel-dns.com", // noCF
     "kali": "kali65536.github.io",
     "kalm": "fed135.github.io/kalm.github.io", // noCF? (don´t add this in a new PR)
     "kampala": "javascriptkampala.github.io/kampala",
@@ -1511,7 +1511,7 @@
     "kmeans": "jeff-tian.github.io/k-means",
     "knc": "chaituknag.github.io",
     "ko": "ko25july.github.io/ko.js.org",
-    "ko.mobx": "ko-mobx-js-org.vercel.app", // noCF
+    "ko.mobx": "cname.vercel-dns.com", // noCF
     "ko.redux": "deminoth.github.io/redux", // noCF
     "koa-rest-api-boilerplate": "posquit0.github.io/koa-rest-api-boilerplate",
     "kobra": "johnsylvain.github.io/kobra",
@@ -1787,7 +1787,7 @@
     "minecraft-data.prismarine": "prismarinejs.github.io/minecraft-data",
     "mineflayer.prismarine": "prismarinejs.github.io/mineflayer",
     "minehutsupport": "baibeebambi.github.io/minehutsupport",
-    "minerva-ui": "minerva-ui-docs.vercel.app", // noCF
+    "minerva-ui": "cname.vercel-dns.com", // noCF
     "minesweeper": "derflatulator.github.io/minesweeper",
     "mingyan": "mingyan.now.sh", // noCF
     "mingyi": "liangmingyi.github.io", // noCF? (don´t add this in a new PR)
@@ -2266,7 +2266,7 @@
     "quickpterodactyl": "condescending-haibt-c79013.netlify.app",
     "quickredis": "hosting.gitbook.io", // noCF
     "quickreplit": "lebyy.github.io/quick.replit",
-    "quickshadow": "quickshadowjs-web.vercel.app", // noCF
+    "quickshadow": "cname.vercel-dns.com", // noCF
     "quickuptime": "lebyy.github.io/quickuptimedocs",
     "quicli": "thecodeah.github.io/quicli",
     "quincy": "quincyx.github.io",
@@ -2326,7 +2326,7 @@
     "react-native-document-scanner": "websitebeaver.github.io/react-native-document-scanner-plugin",
     "react-native-elements": "react-native-elements.github.io/playground",
     "react-native-error-boundary": "cname.vercel-dns.com", // noCF
-    "react-native-flex-layout": "react-native-flex-layout.vercel.app", // noCF
+    "react-native-flex-layout": "cname.vercel-dns.com", // noCF
     "react-native-floating-labels": "mayank-patel.github.io/react-native-floating-labels",
     "react-native-track-player": "doublesymmetry.github.io/react-native-track-player", // noCF
     "react-observatory": "hosting.gitbook.com",
@@ -2459,7 +2459,7 @@
     "ritchie": "amukh1.github.io/Ritchie",
     "rize": "g-plane.github.io/rize",
     "rmodal": "zewish.github.io/rmodal.js",
-    "rn-material": "rn-material-website.vercel.app", // noCF
+    "rn-material": "cname.vercel-dns.com", // noCF
     "roadmafia": "roadmafia.github.io",
     "roalia": "roaliia.github.io",
     "roam": "roam-cn.github.io",
@@ -2627,7 +2627,7 @@
     "simplesnake": "aktindo.github.io/Simple_Snake_Game",
     "simplestate": "nlcgits.github.io/simplestate",
     "simply": "fehmi.github.io/simply",
-    "simplyapi": "simplyapi.vercel.app", // noCF
+    "simplyapi": "cname.vercel-dns.com", // noCF
     "simplyd": "simplyd.netlify.app",
     "simplyeco": "xx-mohit-xx.github.io/Simply-eco",
     "simplyxp": "simplyxp.netlify.app",
@@ -3215,7 +3215,7 @@
     "wysc": "coffeebank.github.io/wysc-vue",
     "wz": "wangzhen-chn.github.io/wz",
     "x": "nikhiljohn10.github.io/x.js",
-    "xchart": "xchart.vercel.app", // noCF
+    "xchart": "cname.vercel-dns.com", // noCF
     "xen": "hosting.gitbook.com",
     "xendb": "notmarx.github.io/Xen.db",
     "xhemj": "xhemj.now.sh", // noCF
@@ -3267,7 +3267,7 @@
     "zeroclick": "studiomotio.github.io/zeroclick",
     "zeroframe": "filips123.github.io/ZeroFrameJS",
     "zh-hans.single-spa": "single-spa.github.io/zh-hans.single-spa.js.org", // noCF
-    "zh.mobx": "zh-mobx-js-org.vercel.app", // noCF
+    "zh.mobx": "cname.vercel-dns.com", // noCF
     "zhangnew": "zhangnew.github.io",
     "zhaomenghuan": "zhaomenghuan.github.io",
     "zhd": "zhdmitry.github.io",
