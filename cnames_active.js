@@ -1080,7 +1080,6 @@
     "freezer": "pakastin.github.io/freezer",
     "frint": "frintjs.github.io/frint.js.org",
     "fritzbox": "lesander.github.io/fritzbox.js",
-    "froala": "froalaorg.github.io",
     "front-end": "whoisjorge.github.io/front-end",
     "frontless": "nesterow.github.io/frontless",
     "fronts": "unadlib.github.io/fronts",
