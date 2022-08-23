@@ -2976,6 +2976,7 @@
     "tyvn": "milo123459.github.io/tyvn",
     "u": "hanul.github.io/UJS", // noCF? (don´t add this in a new PR)
     "uav": "unearth-inc.github.io/uav",
+    "uaiim": "uaiim.github.io",
     "ubereats": "korobaka.github.io/ubereats.js",
     "ubuntu-hideout": "bytecommander.github.io/ubuntu-hideout",
     "udnisap": "udnisap.github.io",
