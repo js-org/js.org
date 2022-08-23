@@ -1477,7 +1477,7 @@
     "kampala": "javascriptkampala.github.io/kampala",
     "kanji": "eidoriantan.github.io/kanji.js",
     "karateblobs": "karatewumpus.github.io/karateblobs",
-    "karin_salazar": "karinSalazar.github.io/Portafolio",
+  
     "karl": "focused-bassi-cc0eff.netlify.com",
     "karolina-and-ryan": "mockturtlesoup.github.io/karolina-and-ryan",
     "karrot": "665c97b7-c1b8-473c-b6b8-48006bfae344.repl.co", // noCF
