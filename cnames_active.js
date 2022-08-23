@@ -2707,6 +2707,7 @@
     "spotify-api": "spotifyapidocs.netlify.app",
     "spotistats": "spotistats-app.netlify.app",
     "spreadsheet": "chiefofgxbxl.github.io/Spreadsheet.js",
+    "spicydevs": "spicydevs.github.io", //noCF?
     "spring": "hosting.gitbook.com",
     "spritesheet": "arcadiogarcia.github.io/Spritesheet.js", // noCF? (don´t add this in a new PR)
     "spritewerk": "bildepunkt.github.io/spritewerk", // noCF? (don´t add this in a new PR)
