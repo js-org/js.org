@@ -1648,6 +1648,7 @@
     "lps": "mauris.github.io/lps.js.org",
     "lribeiro": "lmribeiro.github.io",
     "ls": "links-js.github.io",
+    "lt": "lazytong.netlify.app",
     "lucia": "lucia.netlify.app",
     "luciascript": "luciascript.netlify.app",
     "lucy": "lucy-bot.github.io",
