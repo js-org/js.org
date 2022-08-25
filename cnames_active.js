@@ -3109,7 +3109,7 @@
     "vue-minesweeper": "disjfa.github.io/vue-minesweeper",
     "vue-multiselect": "shentao.github.io/vue-multiselect",
     "vue-polkadot": "vue-polkadot.github.io",
-    "vuepress-theme-cool": "https://vuepress-theme-cool.js.org",
+    "vuepress-theme-cool": "friendlyuser.github.io/vuepress-theme-cool",
     "vue-roast": "kronicker.github.io/vue-roast",
     "vue-route-timeline": "disjfa.github.io/vue-route-timeline",
     "vue-showdown": "vue-showdown.netlify.com",
