@@ -2332,6 +2332,7 @@
     "react-papaparse": "react-papaparse.github.io",
     "react-pivottable": "plotly.github.io/react-pivottable",
     "react-querybuilder": "react-querybuilder.github.io",
+    "react-rbac": "impelsysinc.github.io/react-rbac",
     "react-redux": "react-redux-docs.netlify.com", // noCF
     "react-responsive-carousel": "leandrowd.github.io/react-responsive-carousel", // noCF? (don´t add this in a new PR)
     "react-showroom": "react-showroom.netlify.app",
