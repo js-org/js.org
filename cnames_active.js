@@ -2559,6 +2559,7 @@
     "sebasvalcar": "sebasvalcar.github.io/portafolio",
     "secrethitler": "finncowbell.github.io/DetectiveDictator",
     "secsb": "secsb.github.io",
+    "secure-event-emitter": "ruben-arushanyan.github.io/secure-event-emitter",
     "security-list": "lissy93.github.io/personal-security-checklist",
     "sed": "42ua.github.io/sed",
     "see-more-demo": "wangdabaoqq.github.io/vuepress",
