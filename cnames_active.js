@@ -2047,6 +2047,7 @@
     "onebang": "russellsteadman.github.io/onebang",
     "onefx": "puncsky.github.io/onefx-home",
     "ongaku": "anshuman-verma.github.io/ongaku",
+    "onii": "oniijs.github.io/onii",
     "oox": "lipingruan.github.io/oox",
     "openrecord": "philwaldmann.github.io/openrecord",
     "opentype": "nodebox.github.io/opentype.js",
