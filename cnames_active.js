@@ -2558,6 +2558,7 @@
     "secrethitler": "finncowbell.github.io/DetectiveDictator",
     "secsb": "secsb.github.io",
     "security-list": "lissy93.github.io/personal-security-checklist",
+    "secure-event-emitter": "ruben-arushanyan.github.io/secure-event-emitter",
     "sed": "42ua.github.io/sed",
     "see-more-demo": "wangdabaoqq.github.io/vuepress",
     "seemple": "finom.github.io/seemple.js.org",
