@@ -875,7 +875,7 @@
     "echo": "licshee.github.io/echo.js",
     "eco": "quick-eco.netlify.app",
     "ecstar": "ecstar-js.github.io/Ecstar",
-    "ecuicci": "ecuicci.github.io/portfolio",
+    "esteficuicci": "ecuicci.github.io/portfolio",
     "ed2k": "sunnyli.github.io/ed2k.js",
     "ef": "classicoldsong.github.io/ef.js.org",
     "effectful": "awto.github.io/effectfuljs",
