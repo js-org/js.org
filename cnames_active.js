@@ -875,7 +875,6 @@
     "echo": "licshee.github.io/echo.js",
     "eco": "quick-eco.netlify.app",
     "ecstar": "ecstar-js.github.io/Ecstar",
-    "esteficuicci": "ecuicci.github.io/portfolio",
     "ed2k": "sunnyli.github.io/ed2k.js",
     "ef": "classicoldsong.github.io/ef.js.org",
     "effectful": "awto.github.io/effectfuljs",
@@ -954,6 +953,7 @@
     "esg": "cname.vercel-dns.com", // noCF
     "eslint-plugin-wxml": "cname.vercel-dns.com", // noCF
     "esper": "codecombat.github.io/esper.js",
+    "esteficuicci": "ecuicci.github.io/portfolio",
     "estudiantil": "milersant.github.io/estudiantil",
     "eta": "alias.zeit.co", // noCF
     "eth": "eth-js.github.io/eth-dev-tools",
