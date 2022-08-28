@@ -790,6 +790,7 @@
     "djzhao": "djzhao627.github.io",
     "dlite": "hosting.gitbook.com",
     "dls-docs": "shadowplay1.github.io/dls-docs",
+    "dm": "xyligan-gp.github.io/discord-moderator",
     "dmitry": "dmitry-zaets.github.io",
     "dna": "dnajs.github.io/dna.js",
     "docile": "russellsteadman.github.io/docile",
