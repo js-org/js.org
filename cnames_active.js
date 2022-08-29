@@ -747,6 +747,7 @@
     "discord-kommando-plugins": "team-thinkcord.github.io/discord-kommando.js-plugins",
     "discord-kr": "discordjs-kr.github.io/website",
     "discord-logs": "androz2091.github.io/discord-logs",
+    "discord-moderator": "xyligan-gp.github.io/discord-moderator",
     "discord-messages": "lebyy.github.io/discord-messages",
     "discord-music-player": "sushibtw.github.io/discord-music-player",
     "discord-neura": "discord-neura.github.io/website",
