@@ -108,6 +108,7 @@
     "agma": "uwynell.github.io/agma.js",
     "agrawalnaman": "agrawalnaman.github.io",
     "agrawalrohit": "rohit0803.github.io/agrawal.github.io",
+    "agros": "agrosjs.github.io",
     "ahmad": "aruzikulov.github.io/ahmad",
     "ahmeterdgn": "ahmeterdgn.github.io",
     "ahnotification": "ahmadhayyan.github.io/ahnotification.js",
