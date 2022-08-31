@@ -2838,6 +2838,7 @@ var cnames_active = {
   "taha": "orcxzjeeeee.github.io/taha",
   "tailwind-baseline": "apkoponen.github.io/tailwind-baseline-site",
   "talk": "zonayedpca.github.io/talk.js",
+  "takeout": "takeout-bysourfruit.github.io",
   "talker": "secondstreet.github.io/talker.js", // noCF? (don´t add this in a new PR)
   "tama": "etk.gitlab.io",
   "tampered-console": "hosting.gitbook.io", // noCF
