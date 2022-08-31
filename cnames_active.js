@@ -108,6 +108,7 @@
     "agma": "uwynell.github.io/agma.js",
     "agrawalnaman": "agrawalnaman.github.io",
     "agrawalrohit": "rohit0803.github.io/agrawal.github.io",
+    "agros": "agrosjs.github.io",
     "ahmad": "aruzikulov.github.io/ahmad",
     "ahmeterdgn": "ahmeterdgn.github.io",
     "ahnotification": "ahmadhayyan.github.io/ahnotification.js",
@@ -1729,6 +1730,7 @@
     "mca": "lem0nb.github.io/Minecraft_Auto_Builder",
     "mcul": "russellsteadman.github.io/mcul",
     "md": "cname-china.vercel-dns.com", // noCF
+    "md5": "cname-china.vercel-dns.com", // noCF
     "mdbf-css": "more-beautiful-div-framework.github.io",
     "mde": "lukehorvat.github.io/mde-soundboard",
     "mechan": "dusterthefirst.github.io/mechan.js",
