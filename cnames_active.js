@@ -37,7 +37,6 @@
  *              BECAUSE OF THE RISK OF ABUSE, I´M NOT ACCEPTING REQUESTS FOR PAGES WITHOUT REASONABLE CONTENT!
  */
 
-
 var cnames_active = {
   "": "js-org.github.io",
   "01mz": "01mz.github.io",
