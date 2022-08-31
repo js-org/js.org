@@ -1049,7 +1049,7 @@ var cnames_active = {
   "fluxoff": "kingscott.github.io/flux-off", // noCF? (don´t add this in a new PR)
   "flvplayer": "zhw2590582.github.io/FlvPlayer",
   "flybook": "rhiokim.github.io/flybook",
-  "flying-squid.prismarine": "prismarinejs.github.io/flying-squid",
+  "flying-squid.prismarine": "prismarinejs.github.io/flying-squid", // noCF
   "flysoft": "minecraftsky.github.io",
   "fmateoc": "fmateoc.github.io",
   "fnbr": "fnbrjs.github.io/docs",
@@ -1687,7 +1687,7 @@ var cnames_active = {
   "mali": "malijs.github.io",
   "manic": "manicjs.github.io",
   "mansiart": "mansiart.github.io/mansiart",
-  "manual.bluelightos": "hosting.gitbook.com",
+  "manual.bluelightos": "hosting.gitbook.com", // noCF
   "manytimepad": "dipanshkhandelwal.github.io/ManyTimePad",
   "mapa-cultura": "opensas.gitlab.io",
   "mappa": "cvalenzuela.github.io/Mappa",
@@ -1787,8 +1787,8 @@ var cnames_active = {
   "mindyourtime": "michaloslav.github.io/Mind-Your-Time",
   "mine": "minenode.github.io",
   "minecraft": "michaljaz.github.io/web-minecraft",
-  "minecraft-data.prismarine": "prismarinejs.github.io/minecraft-data",
-  "mineflayer.prismarine": "prismarinejs.github.io/mineflayer",
+  "minecraft-data.prismarine": "prismarinejs.github.io/minecraft-data", // noCF
+  "mineflayer.prismarine": "prismarinejs.github.io/mineflayer", // noCF
   "minehutsupport": "baibeebambi.github.io/minehutsupport",
   "minerva-ui": "cname.vercel-dns.com", // noCF
   "minesweeper": "derflatulator.github.io/minesweeper",
@@ -2491,7 +2491,7 @@ var cnames_active = {
   "rsshub": "diygod.github.io/RSSHub",
   "rsshub-reader": "sevenoutman.github.io/RSSHub-Reader",
   "rt": "rohantinna.github.io/rt",
-  "ru.react": "js-rus.github.io/react-ru",
+  "ru.react": "js-rus.github.io/react-ru", // noCF
   "ru.react-redux": "mskkote.github.io/react-redux-ru", // noCF
   "ru.redux-saga": "hosting.gitbook.com", // noCF
   "ru.single-spa": "single-spa.github.io/ru.single-spa.js.org", // noCF
