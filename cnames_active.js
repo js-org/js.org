@@ -2490,6 +2490,7 @@
     "rsshub-reader": "sevenoutman.github.io/RSSHub-Reader",
     "rt": "rohantinna.github.io/rt",
     "ru.react": "js-rus.github.io/react-ru",
+    "ru.react-redux": "mskKote.github.io/react-redux-ru", // noCF
     "ru.redux-saga": "hosting.gitbook.com", // noCF
     "ru.single-spa": "single-spa.github.io/ru.single-spa.js.org", // noCF
     "rub": "rubo-21.github.io",
