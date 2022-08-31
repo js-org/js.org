@@ -2050,7 +2050,7 @@ var cnames_active = {
   "omid": "omidnikrah.github.io/omid",
   "onebang": "russellsteadman.github.io/onebang",
   "onefx": "puncsky.github.io/onefx-home",
-  "onemsg": "6a070eb9-51a2-4d30-b0d9-36485306ff7f.id.repl.co", // noCF
+  "onemsg": "7f4243c7-d171-416a-ad3d-19ba04fe36f5.id.repl.co",
   "ongaku": "anshuman-verma.github.io/ongaku",
   "onii": "oniijs.github.io/onii",
   "oox": "lipingruan.github.io/oox",
