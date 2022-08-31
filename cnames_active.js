@@ -1996,6 +1996,7 @@ var cnames_active = {
   "nothing": "cbtak.github.io/nothing",
   "notibar": "duyetdev.github.io/notibar.js",
   "notion": "disgroup-development.github.io/notion-sdk.js",
+  "notion-cms": "cname.vercel-dns.com",
   "novasheets": "novasheets.netlify.app",
   "now": "leodog896.github.io/jsnow",
   "npkill": "voidcosmos.github.io/npkill",
