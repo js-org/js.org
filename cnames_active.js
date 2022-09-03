@@ -1900,6 +1900,7 @@ var cnames_active = {
   "mvc": "morozovsk.github.io/mvc", // noCF
   "mw": "agauniyal.github.io/mw",
   "mwap": "jacob-ebey.github.io/mwap",
+  "mx-space": "mx-space.github.io/docs", // noCF
   "my-app": "nirrius.github.io/my-app",
   "my-server": "nirrius.github.io/my-server",
   "mylas": "raouldeheer.github.io/Mylas",
