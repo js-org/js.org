@@ -1277,6 +1277,7 @@ var cnames_active = {
   "hox": "umijs.github.io/hox",
   "hrishi": "hrishi045.github.io",
   "hrtable": "uyouthe.github.io/hrtable",
+  "hscroll-slider": "evgeniymukhamedjanov.github.io/hscroll-slider",
   "hsiaoyi0504": "hsiaoyi0504.github.io",
   "html-webpack-plugin": "jantimon.github.io/html-webpack-plugin-repl",
   "htmljar": "syntacstudio.github.io/html-jar",
