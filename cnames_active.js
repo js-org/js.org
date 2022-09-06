@@ -2059,6 +2059,7 @@ var cnames_active = {
   "ongaku": "anshuman-verma.github.io/ongaku",
   "onii": "oniijs.github.io/onii",
   "oox": "lipingruan.github.io/oox",
+  "opcommands": "02550ce547-hosting.gitbook.io", // noCF
   "openrecord": "philwaldmann.github.io/openrecord",
   "opentype": "nodebox.github.io/opentype.js",
   "operatio": "furioustsunami.github.io/Operatio",
