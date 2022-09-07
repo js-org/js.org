@@ -759,7 +759,7 @@ var cnames_active = {
   "discord-sensei": "demonicious.github.io/discord-sensei",
   "discord-tickets": "derpinou.github.io/discord-tickets-docs",
   "discord-twitch": "tovade.github.io/discord-twitch",
-  "discord-voice": "c71abc0d-1101-4d2b-ab7b-9f30b379f68b.repl.co", // noCF
+  "discord-voice": "discord-voice.netlify.app",
   "discord-vr": "hosting.gitbook.io", // noCF
   "discord-webhook": "evrifaessa.github.io/discord-webhook",
   "discord4node": "mrsheldon.github.io/Discord4Node",
