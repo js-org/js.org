@@ -3258,6 +3258,7 @@ var cnames_active = {
   "yennj12": "yennanliu.github.io",
   "yh": "hksat.github.io",
   "yiff": "codepupper.github.io/yiff",
+  "yisusblog": "jesuszacarias.github.io/yisusblog/",
   "ymlair": "ymlair.github.io/TimestampHumanDemo",
   "yolog": "jitesoft.github.io/yolog",
   "youngjuning": "youngjuning.github.io",
