@@ -2872,6 +2872,7 @@ var cnames_active = {
   "telaviv": "dustin-h.github.io/telaviv", // noCF? (don´t add this in a new PR)
   "telegraf": "telegraf.github.io/telegraf", // noCF? (don´t add this in a new PR)
   "telegram": "yuvapoojary.github.io/telegram.js-website",
+  "telestatic": "spelsinx.github.io/telestatic-docs",
   "teletype": "keyvank.github.io/teletype.js",
   "temme": "shinima.github.io/temme",
   "tenvoy": "togatech.github.io/tEnvoy",
