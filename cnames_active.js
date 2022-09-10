@@ -2902,6 +2902,7 @@ var cnames_active = {
   "ths": "ths-fe.github.io",
   "thundercats": "thundercatsjs.github.io/thundercats", // noCF? (don´t add this in a new PR)
   "tictactoe": "jeff-tian.github.io/tic-tac-toe-ai",
+  "ticket": "sayrix.github.io/ticket-bot",
   "tiden": "tidenjs.netlify.app",
   "tidy": "tidy-js.github.io",
   "timeout": "anshuman-verma.github.io/setTimeout",
@@ -3300,8 +3301,7 @@ var cnames_active = {
   "zxy": "zxyfrank.github.io",
   "zyh": "zyh-chopper.github.io/zyh",
   "zykj": "cname.vercel-dns.com", // noCF
-  "zyy": "zyyou.github.io/notes",
-  "ticket": "sayrix.github.io/ticket-bot"
+  "zyy": "zyyou.github.io/notes"
   /*
    * please don't add your subdomain records down here!
    * insert them in alphabetical order to help reduce merge conflicts.
