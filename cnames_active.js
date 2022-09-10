@@ -1870,6 +1870,7 @@ var cnames_active = {
   "morse": "the-silver-project.github.io/morse",
   "mosaic": "tilework.github.io/mosaic.js.org",
   "moviedex": "calm-squash-zqh3z3dg2s83u9gopkkeg10d.herokudns.com",
+  "mog": "mogland.github.io/mog-docs",
   "mp": "cncdn.github.io",
   "mp3tag": "eidoriantan.github.io/mp3tag.js",
   "mpe": "weareroli.github.io/mpejs", // noCF? (don´t add this in a new PR)
@@ -2022,7 +2023,6 @@ var cnames_active = {
   "nuxt-fluent-bootstrap": "disjfa.github.io/nuxt-fluent-bootstrap",
   "nuxtdoc": "hopeful-hoover-d87dd1.netlify.com",
   "nva": "ali322.github.io/nva",
-  "nx": "nx-space.github.io/nx-docs",
   "nxd": "niuxvdong.github.io",
   "nxse": "nxse.github.io",
   "nyax": "springnyan.github.io/nyax",
