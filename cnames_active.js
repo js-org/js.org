@@ -1846,6 +1846,7 @@ var cnames_active = {
   "modular": "jpmorganchase.github.io/modular",
   "modv": "2xaa.github.io/modV",
   "moeditor": "moeditor.github.io",
+  "mog": "mogland.github.io/mog-docs",
   "mog-script": "mog-script.github.io",
   "mohamad": "imohamad.github.io",
   "mohi": "mohijalili.github.io",
@@ -1870,7 +1871,6 @@ var cnames_active = {
   "morse": "the-silver-project.github.io/morse",
   "mosaic": "tilework.github.io/mosaic.js.org",
   "moviedex": "calm-squash-zqh3z3dg2s83u9gopkkeg10d.herokudns.com",
-  "mog": "mogland.github.io/mog-docs",
   "mp": "cncdn.github.io",
   "mp3tag": "eidoriantan.github.io/mp3tag.js",
   "mpe": "weareroli.github.io/mpejs", // noCF? (don´t add this in a new PR)
