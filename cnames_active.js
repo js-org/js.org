@@ -869,6 +869,7 @@ var cnames_active = {
   "easybuy": "danielwetan.github.io/easybuy",
   "easyeyes": "easyeyes.github.io/website",
   "easyht": "yellowface233.github.io/easyht-website",
+  "easypass": "cgluwxh.github.io/easypass",
   "easystart": "hosting.gitbook.io", // noCF
   "easytrivia": "elitezen.github.io/easy-trivia-website",
   "easytrivia-guide": "turtlepaw.github.io/trivia-docs",
@@ -926,7 +927,6 @@ var cnames_active = {
   "endpoint-imposter": "lukaszmakuch.github.io/endpoint-imposter",
   "energy": "energychain.github.io/energy",
   "eon": "eon-web.github.io/eon",
-  "ep": "cgluwxh.github.io/easypass",
   "epack": "transparent-dilophosaurus-d0z0nyrn79irf17c2hbbz9li.herokudns.com",
   "epi": "epispot.github.io/EpiJS",
   "epicker": "eling486.github.io/EPicker-docs",
