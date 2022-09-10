@@ -869,6 +869,7 @@ var cnames_active = {
   "easybuy": "danielwetan.github.io/easybuy",
   "easyeyes": "easyeyes.github.io/website",
   "easyht": "yellowface233.github.io/easyht-website",
+  "easypass": "cgluwxh.github.io/easypass",
   "easystart": "hosting.gitbook.io", // noCF
   "easytrivia": "elitezen.github.io/easy-trivia-website",
   "easytrivia-guide": "turtlepaw.github.io/trivia-docs",
