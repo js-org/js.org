@@ -2902,7 +2902,7 @@ var cnames_active = {
   "ths": "ths-fe.github.io",
   "thundercats": "thundercatsjs.github.io/thundercats", // noCF? (don´t add this in a new PR)
   "tictactoe": "jeff-tian.github.io/tic-tac-toe-ai",
-  "ticket": "sayrix.github.io/ticket-bot",
+  "ticketbot": "sayrix.github.io/ticket-bot",
   "tiden": "tidenjs.netlify.app",
   "tidy": "tidy-js.github.io",
   "timeout": "anshuman-verma.github.io/setTimeout",
