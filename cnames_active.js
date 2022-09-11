@@ -2972,6 +2972,7 @@ var cnames_active = {
   "tui-nuxt": "hosting.gitbook.com", // noCF
   "turali": "caglarturali.github.io",
   "turbo": "turbo.github.io",
+  "tungtran": "https://tunganhtran.github.io/introduction-myself",
   "tw-themes": "kevinast.github.io/tw-themes",
   "twallpaper": "crashmax-dev.github.io/twallpaper",
   "twcopy": "the94air.github.io/twcopy",
