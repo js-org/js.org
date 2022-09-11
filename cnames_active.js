@@ -1847,6 +1847,7 @@ var cnames_active = {
   "modular": "jpmorganchase.github.io/modular",
   "modv": "2xaa.github.io/modV",
   "moeditor": "moeditor.github.io",
+  "mog": "mogland.github.io/mog-docs",
   "mog-script": "mog-script.github.io",
   "mohamad": "imohamad.github.io",
   "mohi": "mohijalili.github.io",
