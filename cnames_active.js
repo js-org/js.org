@@ -570,6 +570,7 @@ var cnames_active = {
   "cookieguard": "tobiasthaden.github.io/cookieguard",
   "cookienotice": "cookienotice.github.io",
   "cool-img-api": "sujalgoel.github.io/cool-image-api-wrapper",
+  "cool-sw": "tharunoptimus.github.io/cool-sw",
   "coolapkwiki": "coolapk-fan.github.io/wiki",
   "cooler": "cooler-docs.netlify.app", // noCF
   "coolnavs": "prabincankod.github.io/cool-navs",
