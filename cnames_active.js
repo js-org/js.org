@@ -1866,6 +1866,7 @@ var cnames_active = {
   "monaco-yaml": "monaco-yaml.netlify.app",
   "monkberry": "monkberry.github.io",
   "mono": "mono-js.github.io/mono",
+  "monopay": "alitnk.github.io/monopay",
   "montage": "montagejs.github.io",
   "moonlink": "hosting.gitbook.io",
   "moose": "mustpax.github.io/moose",
