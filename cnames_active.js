@@ -1255,6 +1255,7 @@ var cnames_active = {
   "hesperus": "hesperusjs.github.io/hesperus",
   "hexoplusplus": "hexoplusplus.github.io/docs",
   "hfsyun": "hfsyun.github.io",
+  "hia": "hiadev.github.io",
   "hibiki": "claritymoe.github.io/hibiki",
   "hiddenfrombots": "cname.vercel-dns.com", // noCF
   "highfive": "hosting.gitbook.io", // noCF
