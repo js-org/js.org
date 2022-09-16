@@ -3103,6 +3103,7 @@ var cnames_active = {
   "viv": "v1vcodes.github.io/viv",
   "vk-x": "vk-x.github.io",
   "vlite": "vlitejs.github.io",
+  "vlr": "vlrjs.github.io/website",
   "vncz": "xvincentx.github.io/vncz",
   "vocab": "battleofplassey.github.io/ministry-of-vocabulary",
   "volantis": "cname-china.vercel-dns.com", // noCF
