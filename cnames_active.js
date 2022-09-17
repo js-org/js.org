@@ -3077,6 +3077,7 @@ var cnames_active = {
   "velt": "veltjs.github.io",
   "vendywira": "vendywira.github.io",
   "verifyr": "arze1.github.io/verifyr-site",
+  "verge": "gabrielet73.github.io"
   "verse": "druidic.github.io/verse",
   "vesselize": "vesselize.github.io/docs",
   "vest": "vestjs.netlify.app",
