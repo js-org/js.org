@@ -3061,6 +3061,7 @@ var cnames_active = {
   "valine": "xcss.github.io/valine",
   "valirator": "massive-angular.github.io/valirator",
   "valobot": "misly16.github.io/ValoBotsite",
+  "value-enhancer": "crimx.github.io/value-enhancer",
   "vanessa": "vanessa219.github.io/vanessa",
   "vanilla": "haeresis.github.io/vanilla-js-dom",
   "vanilla-picker": "sphinxxxx.github.io/vanilla-picker",
