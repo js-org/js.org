@@ -1092,6 +1092,7 @@ var cnames_active = {
   "frzr": "pakastin.github.io/frzr",
   "fs-nextra": "bdistin.github.io/fs-nextra",
   "fte": "scintilla4evr.github.io/fte",
+  "fts": "fluxtech-me.github.io/fts",
   "fucao": "fusuhub.github.io",
   "fuck": "gerd2002.github.io/fuck.js",
   "fugapedia": "fugapediajs.github.io/website",
