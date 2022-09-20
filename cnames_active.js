@@ -1882,6 +1882,7 @@ var cnames_active = {
   "mrn": "binggg.github.io/mrn", // noCF? (don´t add this in a new PR)
   "mrpluto": "mrpluto.github.io",
   "mrwanashraf": "mrwanashraf.github.io",
+  "ms": "ms27520.github.io"
   "mscgen": "sverweij.github.io/mscgen_js",
   "msolers": "msolers.github.io/bloghugo",
   "msp430": "mazko.github.io/MSP430.js",
