@@ -71,6 +71,7 @@ var cnames_active = {
   "abcdb": "hosting.gitbook.com", // noCF
   "abdalla": "the94air.github.io/abdalla",
   "abelacostaportafolio": "asaa19971a.github.io/AbelAcostaAcostaPortafolio",
+  "abe":"hitptep.github.io/helpabe"
   "abhishek": "rpidanny.github.io/personal-collage",
   "abhishekmittal": "abhishek-mittal.github.io/abhishekmittal",
   "abialbon": "abialbon.github.io",
@@ -3306,6 +3307,7 @@ var cnames_active = {
   "zyh": "zyh-chopper.github.io/zyh",
   "zykj": "cname.vercel-dns.com", // noCF
   "zyy": "zyyou.github.io/notes"
+  "zzy":"hitptep.github.io"
   /*
    * please don't add your subdomain records down here!
    * insert them in alphabetical order to help reduce merge conflicts.
