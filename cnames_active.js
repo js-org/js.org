@@ -2740,6 +2740,7 @@ var cnames_active = {
   "sreeram": "sreeramofficial.github.io/sreeram",
   "sri": "jackub.github.io/subresource-integrity-fallback",
   "ss": "cname-china.vercel-dns.com", // noCF
+  "sse": "dt-is-not-available.github.io/sse/",
   "st": "lizs365.github.io/st",
   "staart": "staart.netlify.com",
   "stable-fn": "ultirequiem.github.io/stable-fn",
