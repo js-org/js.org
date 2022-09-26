@@ -1328,6 +1328,7 @@ var cnames_active = {
   "illustrator": "illustratorjs.netlify.app",
   "imagecapture": "googlechrome.github.io/imagecapture-polyfill",
   "imagine": "karimayachi.github.io/imagine",
+  "imap-mailbox": "vsdparibas.github.io/imap-mailbox-doc",
   "imask": "unmanner.github.io/imaskjs",
   "imbue": "ghosts.github.io/Imbue",
   "imcvampire": "cname.vercel-dns.com", // noCF
