@@ -1549,9 +1549,9 @@ var cnames_active = {
   "kyoto": "kyotojs.github.io",
   "l2dwidget": "xiazeyu.github.io/live2d-widget.js-doc",
   "lab": "labjs.netlify.com",
-  "labui": "https://ztl-uwu.github.io/Lab-Design-Guide",
   "labelauty": "fntneves.github.io/jquery-labelauty", // noCF? (don´t add this in a new PR)
   "labs": "cname.vercel-dns.com", // noCF
+  "labui": "ztl-uwu.github.io/Lab-Design-Guide",
   "lad": "ladjs.github.io/lad",
   "lambda": "lambdajs.github.io", // noCF? (don´t add this in a new PR)
   "lambdalog": "kyleross.github.io/node-lambda-log",
