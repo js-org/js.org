@@ -429,7 +429,7 @@ var cnames_active = {
   "canvas": "anshuman-verma.github.io/canvas",
   "canvas-datagrid": "tonygermaneri.github.io/canvas-datagrid",
   "canvasconstructor": "kyranet.github.io/canvas-constructor",
-  "canvasui": "canvasui.github.io",
+  "canvasui": "zhilinliudev.github.io/CanvasUI",
   "canvg": "canvg.github.io/canvg",
   "canvo": "canvojs.github.io",
   "capital": "capitaljs.github.io/capitaljs",
