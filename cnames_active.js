@@ -470,6 +470,7 @@ var cnames_active = {
   "chariot": "riyacchi.github.io/chariot.js",
   "charliez0": "charliez0sp.ml", // noCF
   "chatapp": "7orp3do.github.io/realtime-chat-app",
+  "chatworld":"devxprite.github.io/Chat-World"
   "chatexchange": "jacob-gray.github.io/ChatExchangeJS",
   "checkers": "davidpomerenke.github.io/checkers",
   "cheerio": "cheeriojs.github.io/cheerio",
