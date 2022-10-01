@@ -1199,7 +1199,7 @@ var cnames_active = {
   "guildcord": "guildcord.github.io/docs",
   "guilded": "guildedjs.github.io/guilded.js",
   "guildedapi": "rellylegend.github.io/guilded-api.js",
-  "guildedbot": "https://mdcyt.github.io/Guilded-Bot-Docs",
+  "guildedbot": "mdcyt.github.io/Guilded-Bot-Docs",
   "guildedts": "guildedts.github.io/guilded.ts",
   "guildeno": "guildeno.github.io/guildeno",
   "guilherme": "guilhermedelemos.github.io/guilherme",
