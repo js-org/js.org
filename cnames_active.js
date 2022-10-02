@@ -1573,7 +1573,6 @@ var cnames_active = {
   "laveesh": "laveesh.github.io",
   "lazycipher": "lazycipher.github.io",
   "lazycoder": "prasantdev.github.io/lazycoder",
-  "lazytong": "lazytongpage.netlify.app",
   "lbox": "lbox-js.github.io",
   "lcookie": "lf112.github.io/lcookie",
   "ldf": "autplayed.github.io/ldf",
