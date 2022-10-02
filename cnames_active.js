@@ -469,7 +469,6 @@ var cnames_active = {
   "charge": "charge-js.netlify.com",
   "chariot": "riyacchi.github.io/chariot.js",
   "charliez0": "charliez0sp.ml", // noCF
-  "chatapp": "7orp3do.github.io/realtime-chat-app",
   "chatexchange": "jacob-gray.github.io/ChatExchangeJS",
   "checkers": "davidpomerenke.github.io/checkers",
   "cheerio": "cheeriojs.github.io/cheerio",
