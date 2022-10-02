@@ -3232,6 +3232,7 @@ var cnames_active = {
   "writebar": "alexander-shvets.github.io/writebar",
   "wss": "iguanren.github.io/wss",
   "wstool": "sy-records.github.io/wstool", // noCF
+  "wu": "williamsutilities.github.io/wu.js.org", // noCF
   "wugenqiang": "wugenqiang.github.io/wugenqiang.js.org",
   "www.next-auth": "cname.vercel-dns.com", // noCF
   "www.siddharth": "chaudhs769.github.io/siddharth.js.org", // noCF
