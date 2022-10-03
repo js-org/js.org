@@ -469,7 +469,6 @@ var cnames_active = {
   "charge": "charge-js.netlify.com",
   "chariot": "riyacchi.github.io/chariot.js",
   "charliez0": "charliez0sp.ml", // noCF
-  "chatapp": "7orp3do.github.io/realtime-chat-app",
   "chatexchange": "jacob-gray.github.io/ChatExchangeJS",
   "checkers": "davidpomerenke.github.io/checkers",
   "cheerio": "cheeriojs.github.io/cheerio",
@@ -1200,6 +1199,7 @@ var cnames_active = {
   "guildcord": "guildcord.github.io/docs",
   "guilded": "guildedjs.github.io/guilded.js",
   "guildedapi": "rellylegend.github.io/guilded-api.js",
+  "guildedbot": "mdcyt.github.io/Guilded-Bot-Docs",
   "guildedts": "guildedts.github.io/guilded.ts",
   "guildeno": "guildeno.github.io/guildeno",
   "guilherme": "guilhermedelemos.github.io/guilherme",
