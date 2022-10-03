@@ -284,6 +284,7 @@ var cnames_active = {
   "barbagrigia": "barbagrigia.github.io",
   "base62": "therootcompany.github.io/base62.js",
   "base64": "licshee.github.io/base64",
+  "base-classes": "ruben-arushanyan.github.io/base-classes",
   "bash": "bashjs.github.io",
   "bassdrum": "malte-wessel.github.io/bassdrum",
   "bastion": "snkrsnkampa.github.io/Bastion-Site",
