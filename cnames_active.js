@@ -1193,12 +1193,13 @@ var cnames_active = {
   "gruft": "nikola.github.io/gruft", // noCF? (don´t add this in a new PR)
   "grumpy": "aidenybai.github.io/grumpy",
   "gtfs": "gtfs-js.github.io/gtfs.js.org",
+  "guide.guildedbot": "cname.vercel-dns.com", // noCF
   "guide.guildedts": "cname.vercel-dns.com", // noCF
   "guild": "guild-js.github.io/guild.js",
   "guildcord": "guildcord.github.io/docs",
   "guilded": "guildedjs.github.io/guilded.js",
   "guildedapi": "rellylegend.github.io/guilded-api.js",
-  "guildedbot": "mdcyt.github.io/Guilded-Bot-Docs",
+  "guildedbot": "guilded-bot-npm.github.io/Guilded-Bot-Docs",
   "guildedts": "guildedts.github.io/guilded.ts",
   "guildeno": "guildeno.github.io/guildeno",
   "guilherme": "guilhermedelemos.github.io/guilherme",
