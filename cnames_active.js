@@ -3182,6 +3182,7 @@ var cnames_active = {
   "webfetch": "c1tizen.github.io/webfetch",
   "webmetry": "comongroup.github.io/webmetry",
   "webminer": "web-miner.github.io",
+  "webos": "https://dynamiccode1.github.io/webos",
   "webpack": "webpack.github.io/webpack.js.org",
   "webpack-config-plugins": "namics.github.io/webpack-config-plugins",
   "webpack-inspect": "alexmost.github.io/webpack-inspect",
