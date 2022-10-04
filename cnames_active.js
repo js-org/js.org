@@ -1253,6 +1253,7 @@ var cnames_active = {
   "helper": "tbnritzdoge.github.io/helperweb",
   "helpful": "togatech.github.io/helpful.js",
   "hepsiburada": "berkaltiok.github.io/hepsiburada",
+  "hereby": "jakebailey.github.io/hereby",
   "heroku": "gary50613.github.io/herokuapi.js",
   "hesperus": "hesperusjs.github.io/hesperus",
   "hexoplusplus": "hexoplusplus.github.io/docs",
