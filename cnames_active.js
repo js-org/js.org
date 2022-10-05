@@ -533,6 +533,7 @@ var cnames_active = {
   "codinsky": "izhaki.github.io/codinsky",
   "coffea": "caffeinery.github.io/coffea",
   "coffstation": "coffstation.github.io",
+  "coinflip": "williamdavidharrison.github.io/coinflipjs", // noCF
   "coir": "channg.github.io/coir",
   "coldemo": "coldemo.github.io",
   "collect": "collectjs.netlify.com",
