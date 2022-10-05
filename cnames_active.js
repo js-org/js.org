@@ -2444,6 +2444,7 @@ var cnames_active = {
   "rema": "paramsiddharth.github.io/rema-docs",
   "remark": "remarkjs.github.io/remark",
   "remote-faces": "dai-shi.github.io/remote-faces",
+  "rena": "renagamer101.github.io",
   "rengular": "chigix.github.io/rengular",
   "repackage": "cchamberlain.github.io/repackage", // noCF? (don´t add this in a new PR)
   "repeater": "repeaterjs.github.io/repeater",
