@@ -609,6 +609,7 @@ var cnames_active = {
   "crawlx": "wind2sing.github.io/crawlx",
   "creamcrop": "creamcropdev.github.io",
   "create-coffee-app": "legolovergo.github.io/create-coffee-app",
+  "create-djs-app": "cname.vercel-dns.com", // noCF
   "create-next-app": "create-next-app.github.io",
   "create-project": "chalarangelo.github.io/create-js-project",
   "createrest": "atomixinteractions.github.io/createrest",
