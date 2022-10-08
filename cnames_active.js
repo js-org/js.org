@@ -2815,6 +2815,7 @@ var cnames_active = {
   "sum": "ultirequiem.github.io/sum",
   "suman": "devsumanmdn.github.io",
   "summer": "minecraftpublisher.github.io/SummerJS",
+  "sumon": "sumonbiswas2010.github.io",
   "sunsistemo": "sunsistemo.github.io/sunsistemo",
   "supapi": "kacperkwapisz.github.io/supreme-api-rewritten",
   "super-controls": "thebearingedge.github.io/super-controls",
