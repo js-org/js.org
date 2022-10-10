@@ -658,7 +658,7 @@ var cnames_active = {
   "dapit": "dafitrah.github.io",
   "darkroom": "ajzat34.github.io/darkroom",
   "darshit": "dgupta777.github.io",
-  "data-dashboard": "dnajs.github.io/data-dashboard",
+  "data-dashboard": "dna-engine.github.io/data-dashboard",
   "data-migration": "thebenforce.github.io/data-migration",
   "dataclass": "alexeyraspopov.github.io/dataclass",
   "datacord": "d60a9765-dcf7-45e0-ac27-2280a8aff26f.id.repl.co", // noCF
@@ -799,7 +799,7 @@ var cnames_active = {
   "dlite": "hosting.gitbook.com",
   "dls-docs": "shadowplay1.github.io/dls-docs",
   "dmitry": "dmitry-zaets.github.io",
-  "dna": "dnajs.github.io/dna.js",
+  "dna": "dna-engine.github.io/dna-engine",
   "docile": "russellsteadman.github.io/docile",
   "docs.light": "hosting.gitbook.com", // noCF
   "docs.modmail": "botstudios.github.io/modmail.js-docs", // noCF
