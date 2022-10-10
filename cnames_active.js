@@ -89,7 +89,6 @@ var cnames_active = {
   "action-u": "kevinast.github.io/action-u",
   "active-resource": "nicklandgrebe.github.io/activeresource.js",
   "acyort": "acyortjs.github.io/site",
-  "testio": "yavrumian.github.io/test.io",
   "ada": "ada-js.netlify.com",
   "adamant": "datamart.github.io/Adamant",
   "aderemi": "aderemi.github.io",
@@ -2898,6 +2897,7 @@ var cnames_active = {
   "terminal": "gottox.github.io/terminal.js", // noCF? (don´t add this in a new PR)
   "tess": "det171.github.io/Tess.js",
   "testframe": "testingrequired.github.io/testframe",
+  "testio": "yavrumian.github.io/test.io",
   "tetr": "proximitynow19.github.io/TETR.JS",
   "textillate": "jschr.github.io/textillate", // noCF? (don´t add this in a new PR)
   "textmark": "sahilister.github.io/textmark",
