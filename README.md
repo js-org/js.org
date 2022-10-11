@@ -6,9 +6,9 @@
 
 ## Notice
 
-*Due to the increased number of requests for js.org subdomains, with many having questionable relevancy to the JavaScript community and ecosystem, we've decided that going forward JS.ORG will be focusing on accepting subdomain requests from projects with a clear relation to the JS community.*
+***Due to the increased number of requests for js.org subdomains, with many having questionable relevancy to the JavaScript community and ecosystem, we've decided that going forward JS.ORG will be focusing on accepting subdomain requests from projects with a clear relation to the JS community.***
 
-*As some examples, personal pages, blogs, Discord bot pages and basic tutorials for unrelated libraries will no longer be accepted. Projects such as NPM packages, libraries, tools that have a clear and direct relation to JavaScript, will be accepted when requesting a JS.ORG subdomain. This decision does not affect subdomains that have already been granted.*
+***As some examples, personal pages, blogs, Discord bot pages and basic tutorials for unrelated libraries will no longer be accepted. Projects such as NPM packages, libraries, tools that have a clear and direct relation to JavaScript, will be accepted when requesting a JS.ORG subdomain. This decision does not affect subdomains that have already been granted.***
 
 #### Similar Services
 
@@ -30,7 +30,7 @@ If you haven't already, now it's time to log in to your GitHub account and set u
 
 ### Step 2
 
-Now determine your js.org subdomain: either choose your username or the name of your repo according to the existing GitHub Pages URL (for ```http://foo.github.io/bar```, either ```foo.js.org``` or ```bar.js.org``` would be possible). More details in the [wiki](https://github.com/js-org/js.org/wiki).
+Now determine your js.org subdomain: either choose your username or the name of your repo according to the existing GitHub Pages URL (for ```http://foo.github.io/bar```, either ```foo.js.org``` or ```bar.js.org``` would be possible). More details are available on the [wiki](https://github.com/js-org/js.org/wiki).
 
 ### Step 3
 
@@ -44,4 +44,4 @@ To finish the procedure, make a pull request in this GitHub repository that adds
 
 ### Thanks
 
-Thanks to **[Cloudflare](https://www.cloudflare.com)** for their awesome DNS service that makes this possible. While js.org is only using their free plan - they have helped us more than once with some flexible solutions and extended quotas!
+**[Cloudflare](https://www.cloudflare.com)** for their awesome DNS service that makes this possible. While js.org is only using their free plan - they have helped us more than once with some flexible solutions and extended quotas!
