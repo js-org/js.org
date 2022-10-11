@@ -2626,6 +2626,7 @@ var cnames_active = {
   "shine": "shinenelson.github.io/shine.js.org",
   "shinobu": "shinobujs.github.io/Shinobu",
   "shirajuki": "shirajuki.github.io",
+  "shiro": "shironekoa3.github.io",
   "shiro-gg": "moyshik7.github.io/shiro-gg",
   "shobhitchittora": "shobhitchittora.github.io",
   "shop": "shopjs.netlify.com",
