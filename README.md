@@ -42,6 +42,4 @@ To finish the procedure, make a pull request in this GitHub repository that adds
 
 ---
 
-### Thanks
-
-**[Cloudflare](https://www.cloudflare.com)** for their awesome DNS service that makes this possible. While js.org is only using their free plan - they have helped us more than once with some flexible solutions and extended quotas!
+Thanks to **[Cloudflare](https://www.cloudflare.com)** for their awesome DNS service that makes this possible. While js.org is only using their free plan - they have helped us more than once with some flexible solutions and extended quotas!
