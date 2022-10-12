@@ -30,7 +30,7 @@ If you haven't already, now it's time to log in to your GitHub account and set u
 
 ### Step 2
 
-Now determine your js.org subdomain: either choose your username or the name of your repo according to the existing GitHub Pages URL (for ```http://foo.github.io/bar```, either ```foo.js.org``` or ```bar.js.org``` would be possible). More details are available on the [wiki](https://github.com/js-org/js.org/wiki).
+Now determine your js.org subdomain: either choose your username or the name of your repo according to the existing GitHub Pages URL (for ```http://foo.github.io/bar```, either ```foo.js.org``` or ```bar.js.org``` would be possible). More details are available in the [wiki](https://github.com/js-org/js.org/wiki).
 
 ### Step 3
 
