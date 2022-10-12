@@ -36,7 +36,7 @@ Now determine your JS.ORG subdomain: either choose your username or the name of 
 
 ### Step 3
 
-Add a file named ```CNAME``` to your repo (in the ```gh-pages``` branch for project pages) with a single line matching the domain you have chosen (e.g. ```foo.js.org```). If you prefer a webinterface form, have a look at [GitHub Pages Help](https://help.github.com/articles/adding-or-removing-a-custom-domain-for-your-github-pages-site).
+Add a file named `CNAME` to your repo (in the `gh-pages` branch for project pages, or the branch that you've set as your GitHub Pages source) with a single line matching the domain you have chosen (e.g. `foo.js.org`). If you prefer a web interface form, have a look at [GitHub Pages Help](https://help.github.com/articles/adding-or-removing-a-custom-domain-for-your-github-pages-site).
 
 ### Step 4
 
