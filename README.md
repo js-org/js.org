@@ -28,7 +28,7 @@ To get a short and sleek subdomain for your own GitHub Pages site from JS.ORG fo
 
 ### Step 1
 
-If you haven't already, log in to your GitHub account and set up your GitHub Pages site following the instructions [here](https://pages.github.com). To get a head start you can simply use the generator with one of the provided themes and **add some reasonable content to your new page**.
+If you haven't already, log in to your GitHub account and set up your GitHub Pages site following [their instructions](https://pages.github.com). To get a head start you can simply use the generator with one of the provided themes and **add some reasonable content to your new page**.
 
 ### Step 2
 
