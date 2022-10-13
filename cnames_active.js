@@ -2018,6 +2018,7 @@ var cnames_active = {
   "now": "leodog896.github.io/jsnow",
   "npkill": "voidcosmos.github.io/npkill",
   "nplayer": "woopen.github.io/nplayer",
+  "npm": "npmjs.org",
   "npm-card": "ultirequiem.github.io/create-npm-card",
   "npmdocs": "cname.vercel-dns.com", // noCF
   "npmer": "rumkin.github.io/npm-watch",
