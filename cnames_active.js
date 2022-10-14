@@ -3120,6 +3120,7 @@ var cnames_active = {
   "vlr": "vlrjs.github.io/website",
   "vncz": "xvincentx.github.io/vncz",
   "vocab": "battleofplassey.github.io/ministry-of-vocabulary",
+  "voidpage": "cname.vercel-dns.com", // noCF
   "volantis": "cname-china.vercel-dns.com", // noCF
   "volantis-x": "volantis-x.github.io",
   "voloshins": "voloshins.github.io", // noCF? (don´t add this in a new PR)
