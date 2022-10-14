@@ -801,7 +801,7 @@ var cnames_active = {
   "dmitry": "dmitry-zaets.github.io",
   "dna": "dna-engine.github.io/dna-engine",
   "docile": "russellsteadman.github.io/docile",
-  "docs.guildedts": "guildedts.github.io/guilded.ts", // noCF
+  "docs.guildedts": "guildedts.github.io/docs", // noCF
   "docs.light": "hosting.gitbook.com", // noCF
   "docs.modmail": "botstudios.github.io/modmail.js-docs", // noCF
   "docs.mosaic": "hosting.gitbook.io", // noCF
