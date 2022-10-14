@@ -12,13 +12,7 @@
 
 *This decision does not affect subdomains that have already been granted.*
 
-#### Similar Services
-
-- [is-a.dev](https://github.com/is-a-dev/register)
-- [is-a-good.dev](https://github.com/is-a-good-dev/register)
-- [thedev.id](https://github.com/fransallen/thedev.id)
-- [js.cool](https://github.com/js-cool/js.cool)
-- [mod.land](https://github.com/denosaurs/mod.land)
+Need a subdomain for a project that doesn't fall within the criteria for JS.ORG? Take a look at [free-for.dev -> Domain](https://free-for.dev/#/?id=domain).
 
 ---
 
