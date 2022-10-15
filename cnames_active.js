@@ -802,6 +802,7 @@ var cnames_active = {
   "dmitry": "dmitry-zaets.github.io",
   "dna": "dna-engine.github.io/dna-engine",
   "docile": "russellsteadman.github.io/docile",
+  "docs.guildedts": "guildedts.github.io/docs", // noCF
   "docs.light": "hosting.gitbook.com", // noCF
   "docs.modmail": "botstudios.github.io/modmail.js-docs", // noCF
   "docs.mosaic": "hosting.gitbook.io", // noCF
@@ -1205,7 +1206,7 @@ var cnames_active = {
   "guilded": "guildedjs.github.io/guilded.js",
   "guildedapi": "rellylegend.github.io/guilded-api.js",
   "guildedbot": "guilded-bot-npm.github.io/Guilded-Bot-Docs",
-  "guildedts": "guildedts.github.io/guilded.ts",
+  "guildedts": "cname.vercel-dns.com", // noCF
   "guildeno": "guildeno.github.io/guildeno",
   "guilherme": "guilhermedelemos.github.io/guilherme",
   "guillotine": "matiasgagliano.github.io/guillotine", // noCF? (don´t add this in a new PR)
