@@ -2721,6 +2721,7 @@ var cnames_active = {
   "spaas": "pakastin.github.io/spaas",
   "spacebot": "spacebot2.github.io",
   "spark": "hammerheadstudios.github.io/SparkCode",
+  "spark-handler": "cname.vercel-dns.com", // noCF
   "spax": "crossjs.github.io/spax-site",
   "spectragram": "adrianengine.github.io/jquery-spectragram", // noCF? (don´t add this in a new PR)
   "speroxu": "speroxu.github.io",
