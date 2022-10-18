@@ -6,7 +6,7 @@
 
 ## Notice
 
-***Due to the increased number of requests for JS.ORG subdomains, with many having questionable relevancy to the JavaScript community and ecosystem, we've decided that going forward JS.ORG will be focusing on accepting subdomain requests from projects with a clear relation to the JavsScript community.***
+***Due to the increased number of requests for JS.ORG subdomains, with many having questionable relevancy to the JavaScript community and ecosystem, we've decided that going forward JS.ORG will be focusing on accepting subdomain requests from projects with a clear relation to the JavaScript community.***
 
 ***As some examples, personal pages, blogs, Discord bot pages and basic tutorials for unrelated libraries will no longer be accepted. Projects such as NPM packages, libraries, tools that have a clear and direct relation to JavaScript, will be accepted when requesting a JS.ORG subdomain.***
 
