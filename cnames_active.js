@@ -1091,6 +1091,7 @@ var cnames_active = {
   "frint": "frintjs.github.io/frint.js.org",
   "fritzbox": "lesander.github.io/fritzbox.js",
   "front-end": "whoisjorge.github.io/front-end",
+  "frontik": "fluxtech-me.github.io/frontik",
   "frontless": "nesterow.github.io/frontless",
   "fronts": "unadlib.github.io/fronts",
   "frost": "cesiumlabs.github.io/frost",
