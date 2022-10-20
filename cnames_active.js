@@ -2163,7 +2163,8 @@ var cnames_active = {
   "phisherman": "thewilloftheshadow.github.io/phisherman.js",
   "phobos": "phobosjs.github.io/phobos.js",
   "phoenix35": "phoenix35.github.io/js-help",
-  "photo-sphere-viewer": "photo-sphere-viewer.netlify.app",
+  "photo-sphere-viewer": "photo-sphere-viewer.netlify.app",,
+  "photup": "photup.github.io",
   "phpjs": "binarykorra.github.io/phpJS",
   "phx": "phxjs.github.io",
   "phylum": "phylumjs.github.io",
@@ -3324,8 +3325,7 @@ var cnames_active = {
   "zxy": "zxyfrank.github.io",
   "zyh": "zyh-chopper.github.io/zyh",
   "zykj": "cname.vercel-dns.com", // noCF
-  "zyy": "zyyou.github.io/notes",
-  "photup": "photup.github.io"
+  "zyy": "zyyou.github.io/notes"
   /*
    * please don't add your subdomain records down here!
    * insert them in alphabetical order to help reduce merge conflicts.
