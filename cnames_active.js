@@ -2111,7 +2111,7 @@ var cnames_active = {
   "palette": "pakastin.github.io/palette",
   "pam": "pambot.netlify.app",
   "pamatcher": "pmros.github.io/pamatcher", // noCF? (don´t add this in a new PR)
-  "pamelasanchez": "PamelaSanchez.js.org",
+  "pamelasanchez": "https://github.com/pamsy18/Personal.git",
   "panda": "theaarushgupta.github.io/panda",
   "pangkeyd": "pangkeyd.github.io",
   "pantarei": "pantareijs.github.io/pantarei.js.org",
