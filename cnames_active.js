@@ -2163,7 +2163,7 @@ var cnames_active = {
   "phisherman": "thewilloftheshadow.github.io/phisherman.js",
   "phobos": "phobosjs.github.io/phobos.js",
   "phoenix35": "phoenix35.github.io/js-help",
-  "photo-sphere-viewer": "photo-sphere-viewer.netlify.app",,
+  "photo-sphere-viewer": "photo-sphere-viewer.netlify.app",
   "photup": "photup.github.io",
   "phpjs": "binarykorra.github.io/phpJS",
   "phx": "phxjs.github.io",
