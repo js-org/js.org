@@ -159,6 +159,7 @@ var cnames_active = {
   "ananta": "anantamishra.github.io/ananta",
   "andresito": "andresitodeguzman.github.io/andresito",
   "anenth": "anenth.github.io", // noCF? (don´t add this in a new PR)
+  "angora": "bayuangora.github.io",
   "angular-cn": "ng-docs.github.io/angular-cn.js.org",
   "angular-jsf": "json-schema-faker.github.io/angular-jsf", // noCF? (don´t add this in a new PR)
   "angular-mfe": "rx-ts.github.io/angular-mfe",
