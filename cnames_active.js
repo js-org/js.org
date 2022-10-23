@@ -2241,6 +2241,7 @@ var cnames_active = {
   "prettylog": "moosecoop.github.io/PrettyLog",
   "prismarine": "prismarinejs.github.io",
   "pristine": "sha256.github.io/Pristine", // noCF
+  "priyansh": "priyanshdotxyz.github.io/priyansh",
   "probsims": "o-mono.github.io/theprobsims",
   "producify": "jesobreira.github.io/producify",
   "producthunt-trending": "xiaomingplus.github.io/producthunt-trending",
