@@ -1286,7 +1286,7 @@ var cnames_active = {
   "hookstate": "hookstate.netlify.com", // noCF
   "hooloo": "hooloo.github.io", // noCF? (don´t add this in a new PR)
   "hours": "cname.vercel-dns.com", // noCF
-  "howtoF": "felizzz.github.io/threads",
+  "howtoFf": "felizzz.github.io/threads",
   "how-to-mithril": "stephanhoyer.github.io/how-to-mithril",
   "hox": "umijs.github.io/hox",
   "hrishi": "hrishi045.github.io",
