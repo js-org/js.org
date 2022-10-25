@@ -1595,6 +1595,7 @@ var cnames_active = {
   "learngitbranching": "pcottle.github.io/learnGitBranching",
   "learningenglish": "guilhermedelemos.github.io/Learning-English",
   "learns": "cname.vercel-dns.com", // noCF
+  "learn2f": "felizzz.github.io/howtof",
   "lee": "lee981265.github.io",
   "leeks": "ohlookitsderpy.github.io/leeks.js",
   "leet": "leetcodes.github.io",
