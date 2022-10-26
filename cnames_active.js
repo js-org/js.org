@@ -316,6 +316,7 @@ var cnames_active = {
   "between": "na-west1.surge.sh",
   "bfd": "mrsheldon.github.io/bfd.js",
   "bhailang": "dullabs.github.io/bhai-lang",
+  "bhavya": "bhavya.dev",
   "bigbrainbot": "112batman.github.io/bigbrainbot-website",
   "bijou": "explosion-scratch.github.io/bijou.js",
   "bin": "sujalgoel.github.io/impostor-bin",
