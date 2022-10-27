@@ -478,7 +478,6 @@ var cnames_active = {
   "chenkun": "ck123-rgb.github.io/chenkun-js-org",
   "chenyuhu": "chenyuhu.github.io",
   "chernivtsi": "chernivtsijs.github.io",
-  "chig": "eliotchignell.github.io",
   "chirashi": "chirashijs.github.io/chirashi",
   "chitchat": "chitchatjs.github.io",
   "choo": "choo-js.github.io",
@@ -906,6 +905,7 @@ var cnames_active = {
   "elementnet": "elementnet.github.io",
   "eleven": "elevendev.github.io",
   "elf": "mytharcher.github.io/elf.js.org", // noCF? (don´t add this in a new PR)
+  "eliot": "eliotchignell.github.io",
   "elixor": "hosting.gitbook.com",
   "eliza": "chigix.github.io/eliza-instrumentality",
   "elliot": "elliotboney.github.io", // noCF? (don´t add this in a new PR)
