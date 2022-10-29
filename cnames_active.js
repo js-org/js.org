@@ -718,6 +718,7 @@ var cnames_active = {
   "devilapi": "devilapi.kazult.repl.co", // noCF
   "devilowl": "website.kazult.repl.co", // noCF
   "devlunch": "superzackx.github.io/DevLunch",
+  "devlabs": "devlabstech.github.io",
   "devsession": "lukasbach.github.io/devsession",
   "devtr": "zmorcy.github.io/devtr.github.io",
   "dgames": "turtlepaw.github.io/gamecord-docs",
