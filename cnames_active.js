@@ -661,6 +661,7 @@ var cnames_active = {
   "dapit": "dafitrah.github.io",
   "darkroom": "ajzat34.github.io/darkroom",
   "darshit": "dgupta777.github.io",
+  "dasset": "fabiansnfr.github.io/website"
   "data-dashboard": "dna-engine.github.io/data-dashboard",
   "data-migration": "thebenforce.github.io/data-migration",
   "dataclass": "alexeyraspopov.github.io/dataclass",
