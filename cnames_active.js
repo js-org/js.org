@@ -3208,7 +3208,7 @@ var cnames_active = {
   "webpack-inspect": "alexmost.github.io/webpack-inspect",
   "webpack-stats": "v-webpack.netlify.app",
   "websheet": "pierreavn.github.io/websheetjs",
-  "wbbprofile" : "github.com/jdoors/WebProfile",
+  "webprofile" : "github.com/jdoors/WebProfile",
   "wechatpay": "thenorthmemory.github.io/wechatpay.js.org",
   "wechaty": "cdn.chatie.io", // noCF
   "wedgetail": "wedgetail.netlify.com",
