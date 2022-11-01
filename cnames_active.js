@@ -3314,6 +3314,7 @@ var cnames_active = {
   "zaporizhzhia": "zaporizhzhiajs.github.io",
   "zed": "paul-browne.github.io/Zed-framework",
   "zen": "tomelam.github.io/zen",
+  "zenfuse": "zenfuse.github.io/zenfuse.js",
   "zephyr": "zephyr-dh.github.io/zephyr",
   "zeroclick": "studiomotio.github.io/zeroclick",
   "zeroframe": "filips123.github.io/ZeroFrameJS",
