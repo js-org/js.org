@@ -1450,6 +1450,7 @@ var cnames_active = {
   "jonny": "shirajuki.github.io/jonny",
   "jonnynl": "shirajuki.github.io/jonnynl",
   "jonstonchan": "jonstonchan.gitlab.io", // noCF
+  "jordon": "jordonwang.github.io",
   "jose-qs": "jose-qs.github.io/Portafolio",
   "josecarloszamoragomezcv": "josecarloszamoragomez.github.io/CV",
   "josecarloszamoragomezportfolio": "josecarloszamoragomez.github.io/Portfolio",
