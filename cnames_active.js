@@ -360,6 +360,7 @@ var cnames_active = {
   "bool": "booljs.github.io",
   "booru": "atlasthebot.github.io/booru",
   "booster": "xiaoyang-liu-cs.github.io/booster.js",
+  "bootcamp": "bootcampjs.github.io",
   "bootstrap-confirmation": "mistic100.github.io/Bootstrap-Confirmation", // noCF? (don´t add this in a new PR)
   "bootstrap-validate": "pascalebeier.github.io/bootstrap-validate",
   "bootstrap-vue-arsenic": "ycs77.github.io/bootstrap-vue-arsenic",
