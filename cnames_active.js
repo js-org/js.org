@@ -1406,6 +1406,7 @@ var cnames_active = {
   "itzik": "itzik.netlify.app",
   "iwanttocountfromone": "realcyguy.github.io/iwanttocountfromone.js",
   "izmir": "fdemir.github.io/jsizmir.github.io",
+  "izo": "js.org.mrijoo.com",
   "j3n5en": "j3n5en.github.io",
   "jackyef": "jackyef.github.io/jackyef",
   "jacob": "jacob-marshall.github.io/jacob",
