@@ -1156,6 +1156,7 @@ var cnames_active = {
   "git-terminal": "jcubic.github.io/git",
   "gitbanner": "asheeeshh.github.io/gitbanner",
   "gitdown": "gc.github.io/gitdown",
+  "github.coinflip": "dns.williamharrison.xyz", // noCF
   "githubtouch": "github-touch.github.io",
   "gitinit": "silly-shirley-8e44e3.netlify.com",
   "gitm": "gitm.netlify.com",
