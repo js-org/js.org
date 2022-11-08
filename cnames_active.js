@@ -2030,8 +2030,8 @@ var cnames_active = {
   "now": "leodog896.github.io/jsnow",
   "npkill": "voidcosmos.github.io/npkill",
   "nplayer": "woopen.github.io/nplayer",
-  "npm.coinflip": "dns.williamharrison.xyz", // noCF
   "npm-card": "ultirequiem.github.io/create-npm-card",
+  "npm.coinflip": "dns.williamharrison.xyz", // noCF
   "npmdocs": "cname.vercel-dns.com", // noCF
   "npmer": "rumkin.github.io/npm-watch",
   "npmgraph": "cname.vercel-dns.com", // noCF
