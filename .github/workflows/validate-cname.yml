@@ -1,4 +1,4 @@
-name: Validate cnames_active.js
+name: Validate CNAME
 
 on:
   push:
