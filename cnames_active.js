@@ -620,6 +620,7 @@ var cnames_active = {
   "create-project": "chalarangelo.github.io/create-js-project",
   "createrest": "atomixinteractions.github.io/createrest",
   "creaturegen": "ryancromebook.github.io/creaturegen",
+  "crls": "lukecarr.github.io/crls",
   "crossani": "cname.vercel-dns.com", // noCF
   "crq": "shbwb.github.io",
   "crunch": "vukicevic.github.io/crunch", // noCF? (don´t add this in a new PR)
@@ -3248,6 +3249,7 @@ var cnames_active = {
   "wjy": "wjy20030407.github.io",
   "wk": "alperr.github.io/wk",
   "wog": "wog-js.github.io",
+  "wolvesville": "wolvesvillejs.github.io/website",
   "wonderest": "wonderest.github.io",
   "wonderfulcv": "wonderfulcv.netlify.app",
   "woodsman": "haximilian.github.io/woodsman",
