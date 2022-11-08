@@ -3247,8 +3247,8 @@ var cnames_active = {
   "wiz": "karimsa.github.io/wiz", // noCF
   "wjy": "wjy20030407.github.io",
   "wk": "alperr.github.io/wk",
-  "wolvesville": "wolvesvillejs.github.io/website",
   "wog": "wog-js.github.io",
+  "wolvesville": "wolvesvillejs.github.io/website",
   "wonderest": "wonderest.github.io",
   "wonderfulcv": "wonderfulcv.netlify.app",
   "woodsman": "haximilian.github.io/woodsman",
