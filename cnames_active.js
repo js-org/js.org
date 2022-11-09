@@ -1369,6 +1369,7 @@ var cnames_active = {
   "inline-style-prefixer": "rofrischmann.github.io/inline-style-prefixer",
   "innova": "innova-fll.github.io",
   "inscriptum": "sumbad.github.io/inscriptum",
+  "isolcat": "catisol-ui.netlify.app"
   "inset": "patlillis.github.io/inset.js",
   "insta": "androz2091.github.io/instajs-website",
   "instabousing": "jlbousing.github.io/instaBousing",
