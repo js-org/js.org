@@ -2594,6 +2594,7 @@ var cnames_active = {
   "scsaver": "hamalt.github.io/scsaver",
   "sdg": "faylearn.github.io/sdgs",
   "sdh": "sdh.netlify.com",
+  "sdk": "mzaini30.github.io/sdk",
   "sdk-design": "hueitan.github.io/javascript-sdk-design",
   "searchconfig": "tomchen.github.io/searchconfig",
   "season": "seasonjs.github.io/tools",
