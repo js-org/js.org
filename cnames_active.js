@@ -1967,6 +1967,7 @@ var cnames_active = {
   "nested-error": "ultirequiem.github.io/nested_error",
   "neteasecloudmusicapi": "w4ctech.github.io/NeteaseCloudMusicApi",
   "neurax-api": "configneurax.netlify.com",
+  "neural": "https://mekarsadev.github.io/neural",
   "neuro": "neurojs.netlify.com",
   "neutralino": "neutralinojs.github.io",
   "newbyte": "newbytee.github.io/newbyte",
