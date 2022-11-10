@@ -1974,10 +1974,9 @@ var cnames_active = {
   "newyear": "dndrbots.github.io/new_year_counter",
   "next": "zeit.github.io/next-site",
   "next-auth": "alias.zeit.co", // noCF
-  "next-qrcode": "next-qrcode.github.io",
-  "nexus": "nexusjs.netlify.com",
   "next-crud": "next-crud.netlify.app",
   "next-redux-cookie-wrapper": "bjoluc.github.io/next-redux-cookie-wrapper",
+  "next-qrcode": "next-qrcode.github.io",
   "next.awesome-vue": "awesome-vue.netlify.app", // noCF
   "nextkit-fetcher": "ultirequiem.github.io/nextkit-fetcher",
   "nflow": "nflow-js.github.io", // noCF? (don´t add this in a new PR)
