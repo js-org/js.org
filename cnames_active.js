@@ -144,6 +144,7 @@ var cnames_active = {
   "all-contributors": "all-contributors-js-org.netlify.com",
   "almeida": "almeidx.github.io",
   "almin": "almin.github.io",
+  "alova": "alovajs.github.io",
   "alpha-coders": "biologyscience.github.io/alpha-coders",
   "alphabetify": "davidpomerenke.github.io/alphabetify",
   "alt": "goatslacker.github.io/alt", // noCF? (don´t add this in a new PR)
@@ -3343,8 +3344,7 @@ var cnames_active = {
   "zxy": "zxyfrank.github.io",
   "zyh": "zyh-chopper.github.io/zyh",
   "zykj": "cname.vercel-dns.com", // noCF
-  "zyy": "zyyou.github.io/notes",
-  "alova": "alovajs.github.io"
+  "zyy": "zyyou.github.io/notes"
   /*
    * please don't add your subdomain records down here!
    * insert them in alphabetical order to help reduce merge conflicts.
