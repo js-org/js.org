@@ -3343,6 +3343,7 @@ var cnames_active = {
   "zxy": "zxyfrank.github.io",
   "zyh": "zyh-chopper.github.io/zyh",
   "zykj": "cname.vercel-dns.com", // noCF
+  "alova": "alovajs.github.io",
   "zyy": "zyyou.github.io/notes"
   /*
    * please don't add your subdomain records down here!
