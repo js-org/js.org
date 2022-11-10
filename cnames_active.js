@@ -1975,6 +1975,7 @@ var cnames_active = {
   "next": "zeit.github.io/next-site",
   "next-auth": "alias.zeit.co", // noCF
   "next-crud": "next-crud.netlify.app",
+  "next-qrcode": "next-qrcode.github.io",
   "next-redux-cookie-wrapper": "bjoluc.github.io/next-redux-cookie-wrapper",
   "next.awesome-vue": "awesome-vue.netlify.app", // noCF
   "nextkit-fetcher": "ultirequiem.github.io/nextkit-fetcher",
