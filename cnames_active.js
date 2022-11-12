@@ -1408,7 +1408,7 @@ var cnames_active = {
   "itemszop": "michaljaz.github.io/itemszop",
   "itsashis4u": "itsashis4u.github.io", // noCF? (don´t add this in a new PR)
   "itunes-bridge": "angrykiller.github.io/iTunes-bridge",
-  "itzik": "itzik-co.vercel.app",
+  "itzik": "cname.vercel-dns.com",
   "iwanttocountfromone": "realcyguy.github.io/iwanttocountfromone.js",
   "izmir": "fdemir.github.io/jsizmir.github.io",
   "j3n5en": "j3n5en.github.io",
