@@ -159,7 +159,6 @@ var cnames_active = {
   "ampn": "ampn.github.io",
   "amrit": "amritsrivastava.github.io",
   "ananta": "anantamishra.github.io/ananta",
-  "antdocs": "antdocs.vercel.app",
   "andresito": "andresitodeguzman.github.io/andresito",
   "anenth": "anenth.github.io", // noCF? (don´t add this in a new PR)
   "angular-cn": "ng-docs.github.io/angular-cn.js.org",
@@ -178,6 +177,7 @@ var cnames_active = {
   "annotate": "taitems.github.io/web-pdf-annotation", // noCF? (don´t add this in a new PR)
   "annoyingmouse": "annoyingmouse.github.io", // noCF? (don´t add this in a new PR)
   "antalya": "jsantalya.github.io",
+  "antdocs": "cname.vercel-dns.com",
   "antropodigital": "antropodigital.github.io/CirculodeEstudio",
   "antwar": "antwarjs.github.io/antwar",
   "anukul": "anukul.github.io",
