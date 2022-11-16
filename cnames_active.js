@@ -2538,6 +2538,7 @@ var cnames_active = {
   "ru.single-spa": "single-spa.github.io/ru.single-spa.js.org", // noCF
   "rub": "rubo-21.github.io",
   "ruhuman": "ruhuman.github.io", // noCF? (don´t add this in a new PR)
+  "run": "cslzl.github.io/RunJS",
   "runtimex": "minecraftpublisher.github.io/RuntimeX",
   "runty": "nderscore.github.io/runty",
   "russell": "russellsteadman.github.io/russelljs",
