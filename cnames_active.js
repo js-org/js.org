@@ -48,6 +48,7 @@ var cnames_active = {
   "1diaboliko84": "1diaboliko84.github.io",
   "1ib": "1ib.github.io",
   "21cm": "21cm.github.io",
+  "go": "cname.vercel-dns.com", // noCF
   "23chemistrycamp": "nchuchemistry.github.io/23chemistrycamp",
   "2tube": "you2php.github.io/you2php",
   "30dayjavascript": "30dayjavascript.netlify.app",
