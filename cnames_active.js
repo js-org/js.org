@@ -2117,6 +2117,7 @@ var cnames_active = {
   "pad": "ebraminio.github.io/pad.js", // noCF? (don´t add this in a new PR)
   "pad-project": "adaltas.github.io/node-pad-docs",
   "padmemesamidala": "padmemesamidala.github.io/PadmemesAmidalaWeb",
+  "pagelike": "iamanishroy.github.io/pagelike",
   "pageobject": "clebert.github.io/pageobject",
   "pagetalk": "seatwork.github.io/pagetalk",
   "pagination": "superraytin.github.io/paginationjs-site", // noCF
