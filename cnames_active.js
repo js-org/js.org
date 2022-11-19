@@ -1361,6 +1361,7 @@ var cnames_active = {
   "incite": "movny.github.io/it",
   "infinite-tree": "cheton.github.io/infinite-tree",
   "infinity": "dragoonzx.github.io/infinity",
+  "infrpg": "54239e52-5857-4021-926a-90c9e5eaf9ee.id.repl.co", // noCF
   "infoooze": "devxprite.github.io/infoooze",
   "inig": "inig.github.io",
   "initial-wu": "initial-wu.github.io",
