@@ -2711,6 +2711,7 @@ var cnames_active = {
   "smartestchatbot": "lebyy.github.io/smartestchatbotdocs",
   "smartquotes": "kellym.github.io/smartquotes.js",
   "smiley": "smiley422.github.io",
+  "smmushtaqbokhari": "mushtaq96.github.io/portfolio-react-app",
   "smoke": "hxgf.github.io/smoke",
   "smoove": "abemedia.github.io/jquery-smoove",
   "snake": "pakastin.github.io/snake",
