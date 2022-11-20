@@ -2347,7 +2347,6 @@ var cnames_active = {
   "rclone": "sntran.github.io/rclone.js",
   "rdf": "rdfjs.github.io", // noCF
   "rdpmovy": "rdp-studio.github.io/rdpmovy.js",
-  "revurn": "revurn.github.io",
   "react-atomic-ui": "react-atomic.github.io/react-atomic-ui",
   "react-autosuggest": "moroshko.github.io/react-autosuggest", // noCF? (don´t add this in a new PR)
   "react-autowhatever": "moroshko.github.io/react-autowhatever", // noCF? (don´t add this in a new PR)
@@ -2490,6 +2489,7 @@ var cnames_active = {
   "reviewbuku": "mzaini30.github.io/reviewbuku",
   "revolt": "revoltchat.github.io/revolt.js",
   "revolt-api": "kaplego.github.io/revoltjs",
+  "revurn": "revurn.github.io",
   "rexs": "uellenberg.github.io/REXS",
   "reyes": "michaelbreyes.github.io/reyes",
   "rgbstrip": "xrealneon.github.io/RGBStrip",
