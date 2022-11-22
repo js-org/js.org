@@ -785,6 +785,7 @@ var cnames_active = {
   "discords": "botstudios.github.io/discords.js.org",
   "discordutility": "chaosphoe.github.io/discordutility",
   "discordx": "discordx-ts.github.io/discordx",
+  "discotils": "cname.vercel-dns.com", // noCF
   "discuss": "cname.vercel-dns.com", // noCF
   "disgroupdev": "disgroup-development.github.io/disgroupdev.js",
   "disgrow": "sinkaroid.github.io/disgrow",
