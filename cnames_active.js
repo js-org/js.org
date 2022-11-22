@@ -3309,6 +3309,7 @@ var cnames_active = {
   "yh": "hksat.github.io",
   "yiff": "codepupper.github.io/yiff",
   "ymlair": "ymlair.github.io/TimestampHumanDemo",
+  "yogg": "yogsuhrawn.github.io",
   "yolog": "jitesoft.github.io/yolog",
   "youngjuning": "youngjuning.github.io",
   "youtim": "mortonfox.github.io/YouTim", // noCF? (don´t add this in a new PR)
