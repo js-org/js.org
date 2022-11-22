@@ -952,7 +952,7 @@ var cnames_active = {
   "eqeq": "slikts.github.io/js-equality-game",
   "eraxdb": "emirhanbaltas34.github.io/erax.db-website",
   "eray": "erayarslan.github.io", // noCF? (don´t add this in a new PR)
-  "erdems": "erdemsweb.github.io",
+  "erdem": "erdem85.github.io",
   "erebos": "mainframehq.github.io/erebos",
   "erebus": "atn-development.github.io/erebus-documentation",
   "eren": "eren885.github.io",
