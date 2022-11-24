@@ -1894,7 +1894,7 @@ var cnames_active = {
   "mono": "mono-js.github.io/mono",
   "monopay": "alitnk.github.io/monopay",
   "montage": "montagejs.github.io",
-  "moonlink: "apex-loadbalancer.netlify.com",
+  "moonlink": "apex-loadbalancer.netlify.com",
   "moose": "mustpax.github.io/moose",
   "moro": "omidfi.github.io/moro",
   "morocco": "moroccojs.github.io",
