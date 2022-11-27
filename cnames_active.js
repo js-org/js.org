@@ -642,6 +642,7 @@ var cnames_active = {
   "currency": "scurker.github.io/currency.js",
   "currency-system": "bintelligent.github.io/currency-system",
   "curseapp": "mcrocks999.github.io/curseapp.js",
+  "custard": "custard-pkg.github.io",
   "custom-captcha": "mcnagynorbi.github.io/custom-captcha",
   "cville": "cvjs.github.io",
   "cvss": "cvssjs.github.io",
