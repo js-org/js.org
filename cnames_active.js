@@ -2851,6 +2851,7 @@ var cnames_active = {
   "super-controls": "thebearingedge.github.io/super-controls",
   "super-trim": "beeblebrox3.github.io/super-trim",
   "supernova-tool": "supernova-tool.github.io/supernova-site",
+  "surajaswal":"surajaswal-dev.github.io/surajaswal/",
   "surgio": "surgio-documentation.netlify.app", // noCF
   "suroadb": "nicamoq.github.io/SuroADB-Lite",
   "sutanlab": "sutanlab.github.io.github.io",
