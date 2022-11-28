@@ -268,7 +268,7 @@ var cnames_active = {
   "bachors": "bachors.github.io",
   "backlog": "backlog-js.github.io/backlog.js.org", // noCF? (don´t add this in a new PR)
   "backstage": "backstagejs.github.io/backstage",
-  "badger": "just-glue-it.github.io/badger", // noCF? (don´t add this in a new PR)
+  "badger": "just-glue-it.github.io/badgerld", // noCF? (don´t add this in a new PR)
   "badlee": "badlee.github.io",
   "badonker": "redsplit.github.io/badonker",
   "badrudeen": "badrudeen.github.io", // noCF? (don´t add this in a new PR)
@@ -336,6 +336,7 @@ var cnames_active = {
   "bliss": "beyondcodebootcamp.github.io/bliss",
   "blizzard": "benweier.github.io/blizzard.js",
   "blockauth": "faragly.github.io/blockauth",
+  "block-world": "simpfun.github.io/Block-World",
   "blog.arga": "argaghulamahmad.netlify.app", // noCF
   "blog.qbsz": "aboutqbsz.github.io", // noCF
   "blog543": "saepulfariz.github.io/blog543",
