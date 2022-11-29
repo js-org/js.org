@@ -501,6 +501,7 @@ var cnames_active = {
   "cjss": "cjss-group.github.io/CJSS",
   "ck": "chunkeat99.github.io/ck.js.org",
   "ckkibet": "ckkibet.github.io",
+  "cl": "liruizhe-cn.github.io",
   "clabe-validator": "center-key.github.io/clabe-validator",
   "clark": "clarkdo.github.io/new-blog",
   "clarkdo": "clarkdo.github.io",
