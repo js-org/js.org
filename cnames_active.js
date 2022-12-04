@@ -1703,7 +1703,7 @@ var cnames_active = {
   "m01i0ng": "m01i0ng.github.io",
   "m8bot": "mapreiff.github.io/m8-bot-site",
   "ma124": "ma124.netlify.com",
-  "macaron": "macaron-css.github.io/macaron"
+  "macaron": "macaron-css.github.io/macaron",
   "machinelearning": "marink.github.io/machinelearning",
   "maclary": "maclary.github.io/maclary",
   "macosnotif": "mattipv4.github.io/macOSNotifJS",
