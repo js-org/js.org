@@ -2097,6 +2097,7 @@ var cnames_active = {
   "onii": "oniijs.github.io/onii",
   "oox": "lipingruan.github.io/oox",
   "opcommands": "02550ce547-hosting.gitbook.io", // noCF
+  "open-next": "serverless-stack.github.io/open-next",
   "openrecord": "philwaldmann.github.io/openrecord",
   "opentype": "nodebox.github.io/opentype.js",
   "operatio": "furioustsunami.github.io/Operatio",
