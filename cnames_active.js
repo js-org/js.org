@@ -3076,6 +3076,7 @@ var cnames_active = {
   "up": "codefeathers.github.io/up",
   "updates.flightpkg": "cname.vercel-dns.com", // noCF
   "updevs-db": "up-devs.github.io/db-docs",
+  "uplo": "jpalumickas.github.io/uplo",
   "uppload": "uppload.netlify.com",
   "upptime": "upptime.github.io/upptime.js.org",
   "upresent": "bobbybee.github.io/uPresent", // noCF? (don´t add this in a new PR)
