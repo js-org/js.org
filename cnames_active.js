@@ -1898,6 +1898,7 @@ var cnames_active = {
   "monaco-yaml": "monaco-yaml.netlify.app",
   "monkberry": "monkberry.github.io",
   "mono": "mono-js.github.io/mono",
+  "monocle": "cname.vercel-dns.com", //noCF
   "monopay": "alitnk.github.io/monopay",
   "montage": "montagejs.github.io",
   "moonlink": "apex-loadbalancer.netlify.com", // noCF
