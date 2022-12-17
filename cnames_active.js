@@ -834,6 +834,7 @@ var cnames_active = {
   "dollar": "defims.github.io/dollar",
   "dolphin": "uyouthe.github.io/dolphin",
   "domainr": "cname.vercel-dns.com", // noCF
+  "domhandler": "fb55.github.io/domhandler",
   "dominion": "dominion-framework.github.io",
   "domiso": "un-ts.github.io/domiso",
   "domtastic": "webpro.github.io/DOMtastic",
