@@ -240,6 +240,7 @@ var cnames_active = {
   "audio-stream": "guywhogeek.github.io/audio-stream",
   "aui": "alauda.github.io/alauda-ui",
   "autarky": "pranshuchittora.github.io/autarky",
+  "auth": "cname.vercel-dns.com", // noCF
   "auto-task-doc": "cname.vercel-dns.com", // noCF
   "autodocs": "bguiz.github.io/autodocs", // noCF? (don´t add this in a new PR)
   "automic": "automicjs.github.io",
