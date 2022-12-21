@@ -199,6 +199,7 @@ var cnames_active = {
   "arcn": "alexakasanjeev.github.io/arcn",
   "arcscord": "arcoz0308.github.io/arcscord",
   "arda": "ardasoyturk-portfolio.netlify.app",
+  "are": "cname.vercel-dns.com", // noCF
   "arga": "cname.vercel-dns.com", // noCF
   "argaghulamahmad": "argaghulamahmad.github.io",
   "argo": "albertosantini.github.io/argo", // noCF? (don´t add this in a new PR)
@@ -239,6 +240,7 @@ var cnames_active = {
   "audio-stream": "guywhogeek.github.io/audio-stream",
   "aui": "alauda.github.io/alauda-ui",
   "autarky": "pranshuchittora.github.io/autarky",
+  "auth": "cname.vercel-dns.com", // noCF
   "auto-task-doc": "cname.vercel-dns.com", // noCF
   "autodocs": "bguiz.github.io/autodocs", // noCF? (don´t add this in a new PR)
   "automic": "automicjs.github.io",
@@ -833,6 +835,7 @@ var cnames_active = {
   "dollar": "defims.github.io/dollar",
   "dolphin": "uyouthe.github.io/dolphin",
   "domainr": "cname.vercel-dns.com", // noCF
+  "domhandler": "fb55.github.io/domhandler",
   "dominion": "dominion-framework.github.io",
   "domiso": "un-ts.github.io/domiso",
   "domtastic": "webpro.github.io/DOMtastic",
@@ -1496,6 +1499,7 @@ var cnames_active = {
   "just": "justjs.github.io",
   "justin-schroeder": "justin-schroeder.github.io",
   "juzgados": "mteyss.github.io/juzgados",
+  "jwc": "jwcjs.github.io/docs",
   "jwjawa": "cmdjwj.github.io",
   "jwt-autorefresh": "cchamberlain.github.io/jwt-autorefresh", // noCF? (don´t add this in a new PR)
   "jwtonline": "boneyt92.github.io/jwtonline",
@@ -1793,6 +1797,7 @@ var cnames_active = {
   "mercury": "henryqw.github.io/mercury",
   "merkletree": "miguelmota.github.io/merkletreejs",
   "merkur": "mjancarik.github.io/merkur",
+  "mermaid": "mermaid-js.github.io/mermaid",
   "mern": "iammohaiminul.github.io/MERNjs",
   "mert": "mert574.github.io",
   "mesh": "crcn.github.io/mesh.js.org", // noCF? (don´t add this in a new PR)
@@ -2102,7 +2107,6 @@ var cnames_active = {
   "open-next": "serverless-stack.github.io/open-next",
   "openrecord": "philwaldmann.github.io/openrecord",
   "opentype": "nodebox.github.io/opentype.js",
-  "operatio": "furioustsunami.github.io/Operatio",
   "opmongo": "sanikava.github.io/OpMongo",
   "orango": "roboncode.github.io/orango",
   "orbiton": "orbitonjs.github.io",
@@ -2242,6 +2246,7 @@ var cnames_active = {
   "pong-zh": "xiaozhu2021.github.io/javascript-pong",
   "popcorn-api": "nirewen.github.io/popcorn-api",
   "popper": "fezvrasta.github.io/popper.js",
+  "popup": "simondmc.github.io/popup-site",
   "portafolio-web": "velazquezadrian.github.io/Portafolio-web",
   "portafolioalejandrarobles": "alerobles3.github.io/portafolioalejandrarobles",
   "portafolioarnulfo": "arpior.github.io/Portafolio",
@@ -2798,6 +2803,7 @@ var cnames_active = {
   "stacks": "cname.vercel-dns.com", // noCF
   "stahlstadt": "dist1.storyblok.com",
   "stampit": "hosting.gitbook.com", // noCF
+  "stamps": "ronald-baars.github.io/stamps",
   "stampy": "stampylongr.github.io",
   "standard-resource": "hosting.gitbook.com", // noCF
   "stapp": "tinkoffcreditsystems.github.io/stapp",
@@ -2844,7 +2850,6 @@ var cnames_active = {
   "subeditor": "shirtiny.github.io/SubEditor",
   "subplayer": "zhw2590582.github.io/SubPlayer",
   "suchary": "skorotkiewicz.github.io/suchary",
-  "sucro": "furioustsunami.github.io/Sucro",
   "sudarshan": "sudarshanraul.github.io",
   "sudoku": "andreynering.github.io/sudoku",
   "sug": "opensug.github.io/sug.js.org",
