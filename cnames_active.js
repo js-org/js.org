@@ -2256,6 +2256,7 @@ var cnames_active = {
   "portainer-update": "flweber.github.io/portainer-stack-updater",
   "porter": "ahopkins.github.io/porterjs", // noCF? (don´t add this in a new PR)
   "post-type-discovery": "twozeroone.github.io/post-type-discovery",
+  "postlit": "postlit.github.io/postlit.js-site",
   "potion": "finnfiddle.github.io/potion",
   "pp": "promptpay.github.io",
   "pplayer": "m4tec.github.io/PenguinPlayer",
@@ -3368,8 +3369,7 @@ var cnames_active = {
   "zxy": "zxyfrank.github.io",
   "zyh": "zyh-chopper.github.io/zyh",
   "zykj": "cname.vercel-dns.com", // noCF
-  "zyy": "zyyou.github.io/notes",
-  "postlit": "postlit.github.io/postlit.js-site"
+  "zyy": "zyyou.github.io/notes"
   /*
    * please don't add your subdomain records down here!
    * insert them in alphabetical order to help reduce merge conflicts.
