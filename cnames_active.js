@@ -1303,6 +1303,7 @@ var cnames_active = {
   "hooked-on-redux": "harryhope.github.io/hooked-on-redux",
   "hookstate": "hookstate.netlify.com", // noCF
   "hooloo": "hooloo.github.io", // noCF? (don´t add this in a new PR)
+  "hoshii": "reinhello.github.io/hoshii-docs"
   "hours": "cname.vercel-dns.com", // noCF
   "how-to-mithril": "stephanhoyer.github.io/how-to-mithril",
   "hox": "umijs.github.io/hox",
