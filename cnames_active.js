@@ -2256,6 +2256,7 @@ var cnames_active = {
   "portainer-update": "flweber.github.io/portainer-stack-updater",
   "porter": "ahopkins.github.io/porterjs", // noCF? (don´t add this in a new PR)
   "post-type-discovery": "twozeroone.github.io/post-type-discovery",
+  "postlit": "postlit.github.io/postlit.js-site",
   "potion": "finnfiddle.github.io/potion",
   "pp": "promptpay.github.io",
   "pplayer": "m4tec.github.io/PenguinPlayer",
