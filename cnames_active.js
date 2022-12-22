@@ -801,7 +801,6 @@ var cnames_active = {
   "distube": "distubejs.github.io",
   "div": "div-js.github.io/div.js.org",
   "divifier": "eaaasun.github.io/divifier",
-  "diysay": "diysay.github.io/diysay-js-org",
   "djs-addon": "hosting.gitbook.io", // noCF
   "djs-application-commands": "hosting.gitbook.io",
   "djs-modules": "djs-modules.github.io/website",
@@ -1791,6 +1790,7 @@ var cnames_active = {
   "melody": "trivago.github.io/melody-web",
   "memer-api": "cname.vercel-dns.com", // noCF
   "memoz": "60-min-code.github.io/memoz",
+  "meng": "diysay.github.io/diysay-js-org",
   "mengd": "cname.vercel-dns.com", // noCF
   "menghafalquran": "mzaini30.github.io/menghafal-quran",
   "menu": "cohenerickson.github.io/menu",
