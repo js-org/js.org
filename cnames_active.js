@@ -2104,6 +2104,7 @@ var cnames_active = {
   "ongaku": "anshuman-verma.github.io/ongaku",
   "onii": "oniijs.github.io/onii",
   "oox": "lipingruan.github.io/oox",
+  "oo": "mhsarmadi.github.io/oo",
   "opcommands": "02550ce547-hosting.gitbook.io", // noCF
   "open-next": "serverless-stack.github.io/open-next",
   "openrecord": "philwaldmann.github.io/openrecord",
