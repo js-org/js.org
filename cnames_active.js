@@ -1425,7 +1425,7 @@ var cnames_active = {
   "itunes-bridge": "angrykiller.github.io/iTunes-bridge",
   "itzik": "itzik.netlify.app",
   "iwanttocountfromone": "realcyguy.github.io/iwanttocountfromone.js",
-  "izmir": "fdemir.github.io/jsizmir.github.io",
+  "izmir": "https://jsizmir.github.io/landing",
   "j3n5en": "j3n5en.github.io",
   "jackyef": "jackyef.github.io/jackyef",
   "jacob": "jacob-marshall.github.io/jacob",
