@@ -496,6 +496,7 @@ var cnames_active = {
   "christopher": "marekkobida.github.io/christopher",
   "chromatography": "catalent.github.io/chromatography",
   "chronos": "espinielli.github.io/chronos", // noCF? (don´t add this in a new PR)
+  "ciff": "monoedev.github.io/ciff.js.org/"
   "citation": "citation-js.github.io/site",
   "citeapa": "natsuozawa.github.io/citeapa",
   "city": "city.github.io",
