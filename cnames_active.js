@@ -213,7 +213,7 @@ var cnames_active = {
   "artalk": "artalk-demo.qwqaq.com", // noCF
   "artery": "arteryjs.github.io/gh-pages", // noCF? (don´t add this in a new PR)
   "arthurmbandeira": "arthurmbandeira.github.io",
-  "artificial": "fabiosmuu.github.io/artificial"
+  "artificial": "fabiosmuu.github.io/artificial",
   "artitalk": "artitalkjs.github.io/docs",
   "asdivyansh": "asdivyansh.github.io",
   "ass": "weizhenye.github.io/ASS",
