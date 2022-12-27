@@ -1185,6 +1185,7 @@ var cnames_active = {
   "glitterbot": "glitterbot.netlify.com", // noCF
   "glize": "datamart.github.io/Glize",
   "globx": "aminadav.github.io/globx",
+  "gloria": "gloriajs.github.io",
   "glottologist": "arguiot.github.io/Glottologist",
   "glyph": "zyrouge.github.io/glyph.css",
   "gnatale": "giosooul.github.io/gnatale.github.io",
