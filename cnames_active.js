@@ -619,6 +619,7 @@ var cnames_active = {
   "craco": "dilanx.github.io/craco",
   "craft": "craftjs.netlify.app",
   "crank": "bikeshaving.github.io/crank",
+  "crawl": "icecrawl.github.io/crawl",
   "crawlx": "wind2sing.github.io/crawlx",
   "creamcrop": "creamcropdev.github.io",
   "create-coffee-app": "legolovergo.github.io/create-coffee-app",
