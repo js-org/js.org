@@ -900,7 +900,7 @@ var cnames_active = {
   "easytrivia-guide": "turtlepaw.github.io/trivia-docs",
   "eatery-nod-w": "kevinast.github.io/eatery-nod-w",
   "eazyd": "itzarman09.github.io/discord-eazy",
-  "ebay-wrapper": "tradebuddyhq.github.io/ebay-wrapper.js.org:,
+  "ebay-wrapper": "tradebuddyhq.github.io/ebay-wrapper.js.org",
   "ebnsina": "ebnsina.github.io/js.ebnsina.me",
   "echo": "licshee.github.io/echo.js",
   "eco": "quick-eco.netlify.app",
