@@ -1789,7 +1789,7 @@ var cnames_active = {
   "medit": "echosoar.github.io/medit",
   "medium": "factmaven.github.io/medium.js",
   "medium-converter": "gunar.github.io/medium-converter", // noCF
-  "meed": "pinjasaur.github.io/meed",
+  "meed": pinjasaur.github.io/meed",
   "meet": "twtg93.github.io/MeetJS",
   "mega": "qgustavor.github.io/megajs-docs",
   "meiosis": "foxdonut.github.io/meiosis", // noCF? (don´t add this in a new PR)
@@ -2215,6 +2215,7 @@ var cnames_active = {
   "piii": "piiijs.github.io/piii.js.org",
   "pika": "xiaopika.github.io/pika.js.org",
   "piling": "flekschas.github.io/piling.js",
+  "pineapple": "totaltechgeek.github.io/pineapple",
   "pinf": "pinf.github.io", // noCF? (don´t add this in a new PR)
   "pinipig": "jmdisuanco.github.io/pinipig",
   "pinyin": "hotoo.github.io/pinyin",
