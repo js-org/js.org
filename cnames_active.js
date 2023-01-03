@@ -1789,7 +1789,7 @@ var cnames_active = {
   "medit": "echosoar.github.io/medit",
   "medium": "factmaven.github.io/medium.js",
   "medium-converter": "gunar.github.io/medium-converter", // noCF
-  "meed": pinjasaur.github.io/meed",
+  "meed": "pinjasaur.github.io/meed",
   "meet": "twtg93.github.io/MeetJS",
   "mega": "qgustavor.github.io/megajs-docs",
   "meiosis": "foxdonut.github.io/meiosis", // noCF? (don´t add this in a new PR)
