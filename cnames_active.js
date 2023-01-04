@@ -1647,6 +1647,7 @@ var cnames_active = {
   "lifeisyoung": "lifeisyoung.github.io",
   "lifetime-countdown": "neila-a.github.io/countdown.js",
   "lifx": "fncxpro.github.io/lifx.js",
+  "lilong7676": "lilong7676.github.io",
   "light": "lightjs.netlify.com",
   "light-observable": "dmitry-korolev.github.io/light-observable",
   "lightcord": "snazzah.github.io/Lightcord",
