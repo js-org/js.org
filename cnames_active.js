@@ -782,6 +782,7 @@ var cnames_active = {
   "discord-voice": "discord-voice.netlify.app",
   "discord-vr": "hosting.gitbook.io", // noCF
   "discord-webhook": "evrifaessa.github.io/discord-webhook",
+  "discord-console-logger": "lucaslah.github.io/discord-console-logger",
   "discord4node": "mrsheldon.github.io/Discord4Node",
   "discordhy": "readthedocs.io",
   "discordjsh": "diswumpus.github.io/discord.jsh",
