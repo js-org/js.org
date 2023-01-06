@@ -1102,7 +1102,7 @@ var cnames_active = {
   "fr.single-spa": "single-spa.github.io/fr.single-spa.js.org", // noCF
   "frame-depth": "nwong212.github.io/frame-wizard",
   "framelet": "potatoland4492.github.io/Framelet",
-  "framework": "frameworkjavascript.github.io/Framework.js",
+  "framework": "frameworkjavascript.github.io",
   "frameworkless": "mtimofiiv.github.io/frameworkless",
   "frankmosca": "alias.zeit.co", // noCF
   "fre": "132yse.github.io/fre",
