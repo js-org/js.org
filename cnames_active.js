@@ -760,6 +760,7 @@ var cnames_active = {
   "discord-botlists": "sidisliveyt.github.io/discord-botlists",
   "discord-button-page": "kingofpanda-development.github.io/discord-button-page",
   "discord-cmds": "hosting.gitbook.io", // noCF
+  "discord-console-logger": "lucaslah.github.io/discord-console-logger",
   "discord-easy-leveling": "retrouser955.github.io/discord-easy-leveling",
   "discord-easy-slash": "amukh1.github.io/discord-easy-slash",
   "discord-epagination": "azawat7.github.io/discord-pagination",
@@ -1103,7 +1104,7 @@ var cnames_active = {
   "fr.single-spa": "single-spa.github.io/fr.single-spa.js.org", // noCF
   "frame-depth": "nwong212.github.io/frame-wizard",
   "framelet": "potatoland4492.github.io/Framelet",
-  "framework": "plasnerd.github.io/Framework.js",
+  "framework": "frameworkjavascript.github.io",
   "frameworkless": "mtimofiiv.github.io/frameworkless",
   "frankmosca": "alias.zeit.co", // noCF
   "fre": "132yse.github.io/fre",
