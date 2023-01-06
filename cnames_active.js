@@ -889,6 +889,7 @@ var cnames_active = {
   "eahmed234": "eahmed234.github.io",
   "ease": "chisel.github.io/ease",
   "easiermongo": "grook8958.github.io/easiermongo-docs",
+  "easy": "easyscriptjs.github.io/easy.js.org", // noCF
   "easy-bot": "bigaston.github.io/easy-bot",
   "easy-d": "easy-djs.github.io/easy-djs",
   "easy-enigma": "armoredvortex.github.io/easy-enigma",
@@ -896,6 +897,7 @@ var cnames_active = {
   "easyeyes": "easyeyes.github.io/website",
   "easyht": "yellowface233.github.io/easyht-website",
   "easypass": "cgluwxh.github.io/easypass",
+  "easyscript": "easyscriptjs.github.io/website", // noCF
   "easytrivia": "elitezen.github.io/easy-trivia-website",
   "easytrivia-guide": "turtlepaw.github.io/trivia-docs",
   "eatery-nod-w": "kevinast.github.io/eatery-nod-w",
