@@ -1230,7 +1230,7 @@ var cnames_active = {
   "guide.guildedts": "cname.vercel-dns.com", // noCF
   "guild": "guild-js.github.io/guild.js",
   "guildcord": "guildcord.github.io/docs",
-  "guilded": "guildedjs.github.io/guilded.js",
+  "guilded": "cname.vercel-dns.com", // noCF
   "guildedapi": "rellylegend.github.io/guilded-api.js",
   "guildedbot": "guilded-bot-npm.github.io/Guilded-Bot-Docs",
   "guildedts": "cname.vercel-dns.com", // noCF
