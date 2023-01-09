@@ -2789,6 +2789,7 @@ var cnames_active = {
   "splendid": "splendid-cms.github.io/website",
   "split": "nathancahill.github.io/split",
   "split-ease": "split-ease.netlify.com", // noCF
+  "splitscript": "03870fca2b-hosting.gitbook.io", // noCF
   "splitting": "shshaw.github.io/Splitting",
   "spotify": "backtrackapp.github.io/spotify.js",
   "spotify-api": "spotifyapidocs.netlify.app",
