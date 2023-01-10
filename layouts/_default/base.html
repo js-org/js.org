@@ -31,6 +31,13 @@
     <meta name="twitter:description" content="{{.Site.Params.description}}">
     <meta name="twitter:image" content="https://js.org/ico/512.png">
     <meta name="twitter:image:alt" content="JS.ORG logo">
+    
+    <meta property="og:title" content="{{.Site.Title }}" />
+    <meta property="og:url" content="https://js.org/index.html" />
+    <meta property="og:image" content="https://js.org/jsorg_ogimage.png" />
+    <meta property="og:type" content="website" />
+    <meta property="og:description" content="{{.Site.Params.description}}" />
+    <meta property="og:locale" content="en_US" />
     {{end}}
 
     {{if .Params.err}}
