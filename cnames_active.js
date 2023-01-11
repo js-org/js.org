@@ -567,7 +567,7 @@ var cnames_active = {
   "concurrent-tasks": "hosting.gitbook.com",
   "concursos": "mteyss.github.io/concursos", // noCF? (don´t add this in a new PR)
   "conductor": "hosting.gitbook.com",
-  "confetti": "matteobruni.github.io/confetti",
+  "confetti": "tsparticles.github.io/confetti",
   "conflict": "conflictjs.github.io/site",
   "conglo": "schwarzkopfb.github.io/conglo",
   "connect.stacks": "cname.vercel-dns.com", // noCF
@@ -2163,7 +2163,7 @@ var cnames_active = {
   "parametric-svg": "parametric-svg.github.io", // noCF? (don´t add this in a new PR)
   "parkrun": "prouser123.github.io/parkrun.js",
   "parse5": "inikulin.github.io/parse5",
-  "particles": "matteobruni.github.io/tsparticles",
+  "particles": "tsparticles.github.io/website",
   "party": "yiliansource.github.io/party-js",
   "pas-ce-soir": "oldergod.github.io/pas-ce-soir",
   "passepartout": "falkz.github.io/passepartout.js.org",
