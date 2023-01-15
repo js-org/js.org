@@ -126,6 +126,7 @@ var cnames_active = {
   "akatsuki": "akatsukijs.github.io/akatsuki",
   "akhyar": "akhyarrh.github.io",
   "aksara": "sajenid.github.io/aksara.js",
+  "akte": "akte.netlify.app",
   "alasql": "alasql.github.io", // noCF? (don´t add this in a new PR)
   "alastor": "aidenybai.github.io/alastor",
   "ale": "alecefe.github.io",
