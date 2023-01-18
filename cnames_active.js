@@ -1516,6 +1516,7 @@ var cnames_active = {
   "jwt-autorefresh": "cchamberlain.github.io/jwt-autorefresh", // noCF? (don´t add this in a new PR)
   "jwtonline": "boneyt92.github.io/jwtonline",
   "jz": "jz6.github.io",
+  "jvav": "orangezsclite.github.io/Jvav",
   "kafka": "tulios.github.io/kafkajs",
   "kaguwo": "kaguwos-portfolio.netlify.app",
   "kahoot": "na-west1.surge.sh",
