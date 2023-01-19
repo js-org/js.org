@@ -1434,7 +1434,6 @@ var cnames_active = {
   "itunes-bridge": "angrykiller.github.io/iTunes-bridge",
   "itzik": "itzik.netlify.app",
   "iwanttocountfromone": "realcyguy.github.io/iwanttocountfromone.js",
-  "izmir": "fdemir.github.io/jsizmir.github.io",
   "j3n5en": "j3n5en.github.io",
   "jackyef": "jackyef.github.io/jackyef",
   "jacob": "jacob-marshall.github.io/jacob",
@@ -2415,6 +2414,7 @@ var cnames_active = {
   "react-redux": "react-redux-docs.netlify.com", // noCF
   "react-responsive-carousel": "leandrowd.github.io/react-responsive-carousel", // noCF? (don´t add this in a new PR)
   "react-showroom": "react-showroom.netlify.app",
+  "react-starport": "yanxintang.github.io/react-starport",
   "react-styleguidist": "styleguidist.netlify.com",
   "react-table-ui": "guptasiddhant.github.io/react-table-ui",
   "react-telegram": "appbak3r.github.io/react-telegram",
@@ -3292,7 +3292,6 @@ var cnames_active = {
   "wiz": "karimsa.github.io/wiz", // noCF
   "wjy": "wjy20030407.github.io",
   "wk": "alperr.github.io/wk",
-  "wog": "wog-js.github.io",
   "wolvesville": "wolvesvillejs.github.io/website",
   "wonderest": "wonderest.github.io",
   "wonderfulcv": "wonderfulcv.netlify.app",
