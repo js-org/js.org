@@ -2643,6 +2643,7 @@ var cnames_active = {
   "secure-event-emitter": "ruben-arushanyan.github.io/secure-event-emitter",
   "security-list": "lissy93.github.io/personal-security-checklist",
   "sed": "42ua.github.io/sed",
+  "sec": "gzysec.github.io",
   "see-more-demo": "wangdabaoqq.github.io/vuepress",
   "seemple": "finom.github.io/seemple.js.org",
   "seesaw": "cajogos.github.io/seesaw",
