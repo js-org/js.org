@@ -2833,6 +2833,7 @@ var cnames_active = {
   "staticinstance": "staticinstance.github.io", // noCF? (don´t add this in a new PR)
   "statisfy": "yarn-development.github.io/statisfynpm",
   "stats": "js-org.github.io/stats.js.org",
+  "stats315": "sampleacademy.github.io/stats315/",
   "status": "mattipv4.github.io/status-codes",
   "status-hx": "status-hx-js-org.versatile.org.uk", // noCF
   "steemsites": "yhozen.github.io/steemsites",
