@@ -3191,6 +3191,7 @@ var cnames_active = {
   "voxelcss": "jhwohlgemuth.github.io/voxelcss",
   "vscode-api-cn": "youngjuning.github.io/vscode-api-cn",
   "vscode-apielements": "xvincentx.github.io/vscode-apielements",
+  "vsl.js.org": "vsl-vl.github.io/home",
   "vssue": "vssue.netlify.com",
   "vuapix": "rwaness.github.io/vuapix",
   "vue": "vuejs.github.io/vue.js.org",
