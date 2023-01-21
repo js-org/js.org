@@ -2637,7 +2637,7 @@ var cnames_active = {
   "season": "seasonjs.github.io/tools",
   "seatbelt": "seatbeltjs.github.io/seatbelt",
   "seatchart": "omarmahili.github.io/seatchart.js",
-  "sec": "gzysec.github.io",
+  "sec": "www.gzysec.info",
   "sebasvalcar": "sebasvalcar.github.io/portafolio",
   "secrethitler": "finncowbell.github.io/DetectiveDictator",
   "secsb": "secsb.github.io",
