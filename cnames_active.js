@@ -1846,7 +1846,6 @@ var cnames_active = {
   "minesweeper": "derflatulator.github.io/minesweeper",
   "mingyan": "mingyan.now.sh", // noCF
   "mingyi": "liangmingyi.github.io", // noCF? (don´t add this in a new PR)
-  "minhtml": "r4356th.github.io/minhtml",
   "minich": "anventech.github.io/minich-docs",
   "minidrone": "mechazawa.github.io/minidrone-js",
   "minify": "minify-js.github.io",
