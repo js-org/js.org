@@ -901,7 +901,6 @@ var cnames_active = {
   "easyht": "yellowface233.github.io/easyht-website",
   "easypass": "cgluwxh.github.io/easypass",
   "easytrivia": "elitezen.github.io/easy-trivia-website",
-  "opentrivia-guide": "turtlepaw.github.io/trivia-docs",
   "eatery-nod-w": "kevinast.github.io/eatery-nod-w",
   "eazyd": "itzarman09.github.io/discord-eazy",
   "ebay-wrapper": "tradebuddyhq.github.io/ebay-wrapper.js.org",
@@ -2116,6 +2115,7 @@ var cnames_active = {
   "oox": "lipingruan.github.io/oox",
   "opcommands": "02550ce547-hosting.gitbook.io", // noCF
   "open-next": "serverless-stack.github.io/open-next",
+  "opentrivia-guide": "turtlepaw.github.io/trivia-docs",
   "openrecord": "philwaldmann.github.io/openrecord",
   "opentype": "nodebox.github.io/opentype.js",
   "opmongo": "sanikava.github.io/OpMongo",
