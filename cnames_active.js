@@ -787,7 +787,6 @@ var cnames_active = {
   "discord-webhook": "evrifaessa.github.io/discord-webhook",
   "discord4node": "mrsheldon.github.io/Discord4Node",
   "discordhy": "readthedocs.io",
-  "discordjsh": "diswumpus.github.io/discord.jsh",
   "discordkit": "swothh.github.io/discordkit",
   "discordlib": "hosting.gitbook.com",
   "discords": "botstudios.github.io/discords.js.org",
