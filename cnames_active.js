@@ -2490,6 +2490,7 @@ var cnames_active = {
   "reghack": "hacker719.github.io/RegHack",
   "registry.flightpkg": "cname.vercel-dns.com", // noCF
   "regraph": "izhaki.github.io/regraph",
+  "reka": "rekajs.vercel.app",
   "rekit": "supnate.github.io/rekit", // noCF
   "relate": "jakelazaroff.github.io/relate", // noCF? (don´t add this in a new PR)
   "relaunch": "pd4d10.github.io/relaunch",
