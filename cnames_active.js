@@ -59,6 +59,7 @@ var cnames_active = {
   "8085sim": "ahmedazhar05.github.io/8085sim",
   "98": "1j01.github.io/98",
   "9932": "dannyzhan.github.io",
+  "a":"sife-shuo.github.io"
   "a-western-story": "hotsaucefiretruck.github.io/A-Western-Story",
   "a11yslider": "mmahandev.github.io/a11y-slider",
   "a6smile": "a6smile.github.io",
