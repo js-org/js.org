@@ -941,6 +941,7 @@ var cnames_active = {
   "ember-electron": "adopted-ember-addons.github.io/ember-electron",
   "eme": "emejs.github.io",
   "emeraldcraftmc": "emeraldcraftmc.github.io", // noCF? (don´t add this in a new PR)
+  "emilianodirr": "github.com/EDirr-86/Front-end.git",
   "emoji": "egoist.github.io/emoji",
   "emoji-button": "joeattardi.github.io/emoji-button",
   "emojifier": "badlydrawnletters.github.io/emojifier-docs",
