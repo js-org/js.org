@@ -2852,7 +2852,7 @@ var cnames_active = {
   "storybook-addon-playroom": "storybook-addon-playroom.netlify.app",
   "storybooks": "storybooks.github.io",
   "str": "manelet.github.io/str",
-  "strapi": "https://strapiss.netlify.app",
+  "strapidoc": "https://strapiss.netlify.app",
   "stratic": "straticjs.github.io",
   "stress": "julindra.github.io/stress.js",
   "structure": "hosting.gitbook.io", // noCF
