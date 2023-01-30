@@ -1696,6 +1696,7 @@ var cnames_active = {
   "loog": "israelroldan.github.io/loog",
   "lostyle": "rtsao.github.io/lostyle",
   "lottiefy": "pd4d10.github.io/lottiefy",
+  "love": "saowerchan.github.io/js/",
   "lps": "mauris.github.io/lps.js.org",
   "lribeiro": "lmribeiro.github.io",
   "ls": "links-js.github.io",
