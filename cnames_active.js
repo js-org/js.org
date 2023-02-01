@@ -3345,6 +3345,7 @@ var cnames_active = {
   "ymlair": "ymlair.github.io/TimestampHumanDemo",
   "yolog": "jitesoft.github.io/yolog",
   "youngjuning": "youngjuning.github.io",
+  "yousefalaa": "yousef-alaa.github.io/yousefalaa/",
   "youtim": "mortonfox.github.io/YouTim", // noCF? (don´t add this in a new PR)
   "youtube-box": "lucasmonteverde.github.io/youtube-box", // noCF? (don´t add this in a new PR)
   "youtube-ext": "zyrouge.github.io/youtube-ext",
