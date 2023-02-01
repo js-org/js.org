@@ -660,6 +660,7 @@ var cnames_active = {
   "cyliim": "cyliim.github.io",
   "cyrena": "cyrenajs.github.io/cyrena",
   "cyris": "icyris.github.io",
+  "d-caldascaridad": "d-caldascaridad.github.io",
   "d-patterns": "alias.zeit.co", // noCF
   "d4": "joelburget.github.io/d4",
   "daily.tmr": "tmr-daily.netlify.app", // noCF
