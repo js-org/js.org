@@ -1601,6 +1601,7 @@ var cnames_active = {
   "lance": "lancepioch.com",
   "landrielportafolio": "arielandriel30.github.io/landrielportafolio",
   "languages": "rsamaium.github.io/Languages",
+  "lanj":"LanHuang025.github.io",
   "lanye": "lanye.github.io",
   "larastrator": "the94air.github.io/larastrator",
   "lasers": "lukehorvat.github.io/need-more-lasers",
