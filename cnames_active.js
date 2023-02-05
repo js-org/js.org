@@ -1284,6 +1284,7 @@ var cnames_active = {
   "helma": "antville.github.io/helma",
   "helper": "tbnritzdoge.github.io/helperweb",
   "helpful": "togatech.github.io/helpful.js",
+  "heting": "braelynluz.github.io/ht",
   "hepsiburada": "berkaltiok.github.io/hepsiburada",
   "hereby": "jakebailey.github.io/hereby",
   "heroku": "gary50613.github.io/herokuapi.js",
