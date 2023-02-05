@@ -555,6 +555,7 @@ var cnames_active = {
   "colorlab": "signalwerk.github.io/colorlab",
   "colors": "xv700.github.io/colors",
   "colors-web": "yu-tou.github.io/colors-web",
+  "colorsea": "waterbeside.github.io/colorsea",
   "comfortable": "ruben-arushanyan.github.io/comfortable",
   "comixngn": "seun40.github.io/comix-ngn", // noCF? (don´t add this in a new PR)
   "command": "satoqz.github.io/command.ts",
@@ -1705,6 +1706,7 @@ var cnames_active = {
   "lukks": "lukks.github.io/page",
   "lumi": "furioustsunami.github.io/lumijs",
   "lumpia": "lumpiajs.netlify.app",
+  "lunisolar": "waterbeside.github.io/lunisolar-docs",
   "luzc": "lucianing.github.io/notes",
   "lviv": "lvivjs.github.io/lviv",
   "lvp": "luzhenqian.github.io/lvp.js",
