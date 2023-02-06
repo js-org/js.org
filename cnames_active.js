@@ -1683,6 +1683,7 @@ var cnames_active = {
   "live-editor": "geard-dev.github.io/web-based-live-code-editor",
   "liveflow": "hasharray.github.io/liveflow.js",
   "livenotif": "siffreinsg.github.io/livenotif",
+  "lizilong": "lizilong1993.github.io"
   "lmadactyl": "hosting.gitbook.io", // noCF
   "lmajercik": "meiercheek.github.io",
   "localsync": "noderaider.github.io/localsync", // noCF? (don´t add this in a new PR)
