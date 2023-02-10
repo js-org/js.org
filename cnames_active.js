@@ -85,6 +85,7 @@ var cnames_active = {
   "acho": "achojs.github.io/acho",
   "acm": "drew233.github.io/calander",
   "acme": "makepost.github.io/acme-commander",
+  "acrylic": "acrylic-doc.netlify.app",
   "acta": "fabien-h.github.io/acta",
   "action-u": "kevinast.github.io/action-u",
   "actions-creator": "ruben-arushanyan.github.io/actions-creator",
