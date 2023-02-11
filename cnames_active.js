@@ -1833,6 +1833,7 @@ var cnames_active = {
   "milesgitgud": "milesgitgud.github.io/homepage",
   "militia": "militia21.github.io/militia",
   "million": "cname.vercel-dns.com", // noCF
+  "miluo-cc": "miluo-cc.github.io",
   "mimeo": "mimeojs.github.io",
   "mimic": "500tech.github.io/mimic",
   "mina": "centuryuna.github.io/mina",
