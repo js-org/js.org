@@ -538,6 +538,7 @@ var cnames_active = {
   "cn.rx": "rxjs-cn.github.io/RxJS-Docs-CN", // noCF
   "cnc": "cncjs.github.io/cncjs.org",
   "cndrew": "codemaster233.github.io",
+  "co2": "nwuzmedoutlook.github.io/co2",
   "cocy": "krmax44.github.io/cocy",
   "codebooky": "hiteshsubnani0128.github.io/codebooky",
   "codemade": "codemade.github.io", // noCF? (don´t add this in a new PR)
