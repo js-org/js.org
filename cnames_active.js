@@ -1236,6 +1236,7 @@ var cnames_active = {
   "hana": "hanacaraka.netlify.app",
   "hanan": "hanandito.github.io/teddypicker",
   "handsfree": "handsfreejs.github.io/handsfree",
+  "haha": "singingqin-github-io.vercel.app",
   "hapi-sol": "yonjah.github.io/hapi-sol",
   "happy": "e24.github.io/happy", // noCF? (don´t add this in a new PR)
   "harry": "harry-yep.github.io",
@@ -2663,6 +2664,7 @@ var cnames_active = {
   "singh": "gxjit.github.io",
   "single-page-web-app": "lukejpreston.github.io/single-page-web-app",
   "single-spa": "single-spa.github.io/single-spa.js.org",
+  "sing": "singingqin.github.io",
   "sirkit": "seckwei.github.io/SirKit_CircuitSim", // noCF? (don´t add this in a new PR)
   "sistersbio": "kdiacodes.github.io/SistersBio",
   "sizle": "christoga.github.io/sizle", // noCF? (don´t add this in a new PR)
@@ -3319,8 +3321,7 @@ var cnames_active = {
   "zyh": "zyh-chopper.github.io/zyh",
   "zykj": "cname.vercel-dns.com", // noCF
   "zyy": "zyyou.github.io/notes"
-  "sing": "singingqin.github.io"
-  "haha": "singingqin-github-io.vercel.app"
+  
   /*
    * please don't add your subdomain records down here!
    * insert them in alphabetical order to help reduce merge conflicts.
