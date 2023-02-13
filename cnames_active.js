@@ -1149,6 +1149,7 @@ var cnames_active = {
   "gdal3": "bugra9.github.io/gdal3.js",
   "gdi": "katehra-brc.github.io/gdi.js.org",
   "geekr": "ruanyl.github.io/geekr", // noCF? (don´t add this in a new PR)
+  "geekswg": "geekswg.github.io",
   "gemstone": "pierreavn.github.io/gemstone",
   "generate-license-file": "tobyandtoby.github.io/generate-license-file",
   "geniucker": "geniucker.github.io",
