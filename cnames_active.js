@@ -2444,7 +2444,7 @@ var cnames_active = {
   "rebatov": "rebatov.github.io",
   "rebem": "rebem.github.io", // noCF? (don´t add this in a new PR)
   "rebornxp": "rebornxp.github.io/rebornxp",
-  "reciple": "falloutstudios.github.io/reciple-docs",
+  "reciple": "cname.vercel-dns.com", // noCF
   "recon": "reconlx.github.io",
   "reconlx": "reconlx.github.io/rweb",
   "recover": "luisvallejomohl.github.io/Recover.js",
