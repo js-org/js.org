@@ -452,7 +452,7 @@ var cnames_active = {
   "carakan": "masnormen.github.io/carakanjs",
   "cardtabs": "blekerfeld.github.io/CardTabs",
   "cargo": "herber.github.io/cargo",
-  "caridad":"d-caldascaridad.github.io/github-slideshow",
+  "caridad":"d-caldascaridad.github.io/github-slideshow/#/",
   "carloseduardo": "karllossouza.github.io/carloseduardo.js.org",
   "carmi": "wix-incubator.github.io/carmi",
   "carrier": "theritikchoure.github.io/carrierjs",
