@@ -165,6 +165,7 @@ var cnames_active = {
   "angular-jsf": "json-schema-faker.github.io/angular-jsf", // noCF? (don´t add this in a new PR)
   "angular-mfe": "rx-ts.github.io/angular-mfe",
   "angular-uikit": "whoisjorge.github.io/angular-uikit",
+  "angular2in1": "angular2in1.github.io/angular2in1js", // noCF
   "angularstompdk": "davinkevin.github.io/AngularStompDK", // noCF? (don´t add this in a new PR)
   "anilist": "instellate.github.io/anilist.js",
   "anime": "meguminsama.github.io/anime",
@@ -505,6 +506,7 @@ var cnames_active = {
   "clevercord": "theanidox.github.io/Clevercord",
   "clickforhelp": "clickforhelp.netlify.app",
   "clickhouse": "depyronick.github.io/clickhouse-client",
+  "clientworker": "chenyfan.github.io/ClientWorker",
   "clock": "mirmousaviii.github.io/clock",
   "clockwork": "clockworkdev.github.io/ClockworkWebsite",
   "cluster-eventdispatcher": "chickendevlab.github.io/cluster-eventdispatcher",
@@ -570,6 +572,7 @@ var cnames_active = {
   "cool-img-api": "sujalgoel.github.io/cool-image-api-wrapper",
   "cool-sw": "tharunoptimus.github.io/cool-sw",
   "coolapkwiki": "coolapk-fan.github.io/wiki",
+  "cooler": "cooler-docs.netlify.app", // noCF
   "coolnavs": "prabincankod.github.io/cool-navs",
   "coord": "itsacorn.github.io/jscoord",
   "copyer": "tsycode.github.io/copyer.js",
@@ -2029,6 +2032,7 @@ var cnames_active = {
   "olaindex": "wangningkai.github.io/OLAINDEX",
   "olivia": "oliviachang29.github.io",
   "omaha": "omahajs.github.io",
+  "omega": "jczimm.github.io/omega", // noCF? (don´t add this in a new PR)
   "omer": "omeroot.github.io", // noCF? (don´t add this in a new PR)
   "omg": "pengjiyuan.github.io/omg",
   "omid": "omidnikrah.github.io/omid",
@@ -2555,6 +2559,7 @@ var cnames_active = {
   "seesaw": "cajogos.github.io/seesaw",
   "segno": "keimeno.github.io/segno",
   "segoe-mdl2-css": "ckgrafico.github.io/Segoe-mdl2-assets-css", // noCF? (don´t add this in a new PR)
+  "select_io": "selaromi.github.io/select_io", // noCF? (don´t add this in a new PR)
   "selectable-grid": "pisyukaev.github.io/selectable-grid",
   "selectors": "selectors.github.io/selectors.js",
   "selectre": "alexeyraspopov.github.io/selectre",
@@ -3245,6 +3250,7 @@ var cnames_active = {
   "yusril": "yusrilhs.github.io", // noCF
   "yuye": "cyea.github.io",
   "yvm": "tophat.github.io/yvm",
+  "zaimu": "zaimu.netlify.app", // noCF
   "zaporizhzhia": "zaporizhzhiajs.github.io",
   "zed": "paul-browne.github.io/Zed-framework",
   "zen": "tomelam.github.io/zen",
