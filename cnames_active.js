@@ -2561,6 +2561,7 @@ var cnames_active = {
   "seesaw": "cajogos.github.io/seesaw",
   "segno": "keimeno.github.io/segno",
   "segoe-mdl2-css": "ckgrafico.github.io/Segoe-mdl2-assets-css", // noCF? (don´t add this in a new PR)
+  "seia": "importantimport.github.io/seia",
   "select_io": "selaromi.github.io/select_io", // noCF? (don´t add this in a new PR)
   "selectable-grid": "pisyukaev.github.io/selectable-grid",
   "selectors": "selectors.github.io/selectors.js",
