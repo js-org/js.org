@@ -24,13 +24,10 @@ html {
   background: $key;
 }
 
-
-
-
 body {
   padding: 0 5%;
   font-family: "Source Sans Pro", Arial, Helvetica, sans-serif;
-  line-height: 1.5;
+  line-height: 1.6;
   -webkit-text-size-adjust: 100%;
   -moz-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
@@ -68,8 +65,6 @@ svg {
 }
 
 p {
-  margin-top: 0.5em;
-  line-height: 1.6em;
   &.bigger {
     font-size: 1.3em;
   }
@@ -205,109 +200,6 @@ footer {
   }
 }
 
-#cad {
-  position: relative;
-  width: 130px;
-  margin: auto;
-  min-height: 100px;
-  font-weight: 600;
-  display: flex;
-  justify-content: center;
-  flex-direction: column;
-  line-height: 1.4;
-
-  background-image: repeating-linear-gradient(0deg, $txt, $txt 1.4em, transparent 1.4em, transparent 2.2em, $txt 2.2em), repeating-linear-gradient(90deg, $txt, $txt 1.4em, transparent 1.4em, transparent 2.2em, $txt 2.2em),
-    repeating-linear-gradient(180deg, $txt, $txt 1.4em, transparent 1.4em, transparent 2.2em, $txt 2.2em), repeating-linear-gradient(270deg, $txt, $txt 1.4em, transparent 1.4em, transparent 2.2em, $txt 2.2em);
-  background-size: 4px 100%, 100% 4px, 4px 100%, 100% 4px;
-  background-position: 0 0, 0 0, 100% 0, 0 100%;
-  background-repeat: no-repeat;
-
-  #cad-blocked {
-    padding: 1em;
-    font-size: 0.85em;
-    text-align: center;
-    display: none;
-  }
-
-  &.blocked {
-    opacity: 0.6;
-    #cad-blocked {
-      display: block;
-      a {
-        text-decoration: underline;
-      }
-    }
-  }
-}
-
-#carbonads {
-  top: 0;
-  display: flex;
-  float: right;
-  max-width: 130px;
-  background-color: #fff;
-  font-size: 11px;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", Helvetica, Arial, sans-serif;
-
-  & * {
-    margin: initial;
-    padding: initial;
-  }
-
-  & a {
-    color: #111;
-    text-decoration: none;
-    font-weight: 500;
-  }
-
-  & a:hover {
-    color: #111;
-  }
-
-  & .carbon-img {
-    display: block;
-    margin-bottom: 8px;
-    max-width: 130px;
-    line-height: 1;
-  }
-
-  & .carbon-img img {
-    display: block;
-    margin: 0 auto;
-    max-width: 130px;
-    width: 130px;
-    height: auto;
-  }
-
-  & .carbon-text {
-    display: block;
-    padding: 0 10px 8px;
-    text-align: left;
-    line-height: 1.35;
-  }
-
-  & .carbon-poweredby {
-    display: block;
-    padding: 10px;
-    background: repeating-linear-gradient(-45deg, transparent, transparent 5px, hsla(0, 0%, 0%, 0.025) 5px, hsla(0, 0%, 0%, 0.025) 10px) hsla(203, 11%, 95%, 0.4);
-    text-transform: uppercase;
-    letter-spacing: 0.5px;
-    font-weight: 600;
-    font-size: 8px;
-    line-height: 0;
-  }
-}
-
-#oc {
-  display: none;
-  margin-right: 3px;
-}
-
-@media only screen and (min-width: $break-s) {
-  #oc {
-    display: inline-block;
-  }
-}
 
 @media only screen and (min-width: $break-m) {
   .err {
@@ -321,40 +213,6 @@ footer {
     }
   }
 
-  #cad {
-    width: 330px;
-    height: 100px;
-    background-image: repeating-linear-gradient(0deg, $txt, $txt 1.4em, transparent 1.4em, transparent 2.4em, $txt 2.4em), repeating-linear-gradient(90deg, $txt, $txt 1.4em, transparent 1.4em, transparent 2.4em, $txt 2.4em),
-      repeating-linear-gradient(180deg, $txt, $txt 1.4em, transparent 1.4em, transparent 2.4em, $txt 2.4em), repeating-linear-gradient(270deg, $txt, $txt 1.4em, transparent 1.4em, transparent 2.4em, $txt 2.4em);
-    background-size: 4px 100%, 100% 4px, 4px 100%, 100% 4px;
-  }
-
-  #carbonads {
-    max-width: 330px;
-  }
-
-  #carbonads .carbon-wrap {
-    display: flex;
-    flex-direction: row;
-  }
-
-  #carbonads .carbon-img {
-    margin: 0;
-  }
-
-  #carbonads .carbon-text {
-    padding: 10px 10px 0 10px;
-    font-size: 12px;
-  }
-
-  #carbonads .carbon-poweredby {
-    position: absolute;
-    right: 0;
-    bottom: 0;
-    border-radius: 0;
-    border-top-left-radius: 3px;
-    text-align: center;
-  }
 }
 
 
@@ -407,13 +265,6 @@ footer {
   footer {
     hr {
       background: $key;
-    }
-  }
-
-  @media only screen and (min-width: $break-m) {
-    #cad {
-      background-image: repeating-linear-gradient(0deg, $key, $key 1.4em, transparent 1.4em, transparent 2.2em, $key 2.2em), repeating-linear-gradient(90deg, $key, $key 1.4em, transparent 1.4em, transparent 2.2em, $key 2.2em),
-      repeating-linear-gradient(180deg, $key, $key 1.4em, transparent 1.4em, transparent 2.2em, $key 2.2em), repeating-linear-gradient(270deg, $key, $key 1.4em, transparent 1.4em, transparent 2.2em, $key 2.2em);
     }
   }
 }
