@@ -423,6 +423,7 @@ var cnames_active = {
   "campfire": "xyzshantaram.github.io/campfire",
   "candy": "candy02058912.github.io/portfolio",
   "candyland": "candyland-js.github.io/candyland",
+  "canemre" : "canemre97.github.io",
   "cans": "djyde.github.io/cans", // noCF
   "cantara": "cantarajs.github.io/cantara",
   "canvacord": "canvacord.netlify.app",
