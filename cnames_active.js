@@ -2352,6 +2352,7 @@ var cnames_active = {
   "read-from-fs": "ultirequiem.github.io/read-from-fs",
   "readcolor": "keiww.github.io/readcolorhex",
   "readit": "teebu.github.io/readit",
+  "reager": "reagerssalss.github.io/reager",
   "realsee": "realsee-developer.github.io",
   "realt": "vnkitaev.github.io/realt",
   "reask": "mcsh.github.io/reask",
