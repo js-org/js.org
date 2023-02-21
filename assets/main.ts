@@ -76,7 +76,7 @@ declare var ethicalads: any;
 (function (el: any) {
     window.onload = async () => {
         if (el = document.getElementById(el)) {
-            let countUrl = 'https://js.org/count/xad_';
+            let countUrl = 'https://xad.js.org/xad_';
             if (!window.ethicalads || (await ethicalads?.wait).length == 0) {
                 const script = document.createElement('script');
                 script.id = "_carbonads_js";
