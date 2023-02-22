@@ -92,7 +92,8 @@ declare var ethicalads: any;
                 el.appendChild(script);
             } else {
                 fetch(`${countUrl}e`)
-            }*/
+            }
+            */
         }
     }
 })('xad');
