@@ -76,6 +76,11 @@ declare var ethicalads: any;
 (function (el: any) {
     window.onload = async () => {
         if (el = document.getElementById(el)) {
+            let xad_c = document.getElementById('_carbonads_projs')
+            if (!xad_c) el.classList.add('blocked');
+            fetch(`https://xad.js.org/xad_${xad_c ? 'c' : 'no'}`)
+
+            /*
             let countUrl = 'https://xad.js.org/xad_';
             if (!window.ethicalads || (await ethicalads?.wait).length == 0) {
                 const script = document.createElement('script');
@@ -87,7 +92,7 @@ declare var ethicalads: any;
                 el.appendChild(script);
             } else {
                 fetch(`${countUrl}e`)
-            }
+            }*/
         }
     }
 })('xad');
