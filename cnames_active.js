@@ -2134,7 +2134,6 @@ var cnames_active = {
   "photo-sphere-viewer": "photo-sphere-viewer.netlify.app",
   "phpjs": "binarykorra.github.io/phpJS",
   "phx": "phxjs.github.io",
-  "phylum": "phylumjs.github.io",
   "physics-demos": "lachlandk.github.io/physics-demos",
   "piano": "ronyeh.github.io/piano",
   "picsim": "mazko.github.io/picsim.js",
