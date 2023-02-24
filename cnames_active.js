@@ -2153,6 +2153,7 @@ var cnames_active = {
   "pivottable": "nicolaskruchten.github.io/pivottable",
   "pixelanimator": "grough.github.io/pixel-animator",
   "pixelart": "meriadec.github.io/PixelartJS", // noCF? (don´t add this in a new PR)
+  "pixiv": "cname.vercel-dns.com",
   "pizzle": "pizzlejs.github.io",
   "plait": "wildlyinaccurate.github.io/plait",
   "plan": "agauniyal.github.io/plan",
