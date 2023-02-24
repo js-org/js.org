@@ -33,7 +33,7 @@
 
     &.float {
         position: relative;
-        margin: 8px 0 10px 20px;
+        margin: 6px 0 .5em 1em;
         float: right;
     }
 
@@ -117,9 +117,12 @@
 
 @media only screen and (min-width: $break_m) {
 
+    
+
     #xad {
         width: 330px;
         height: 100px;
+        
     }
 
     #carbonads {
