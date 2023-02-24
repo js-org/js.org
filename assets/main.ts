@@ -9,6 +9,7 @@ const search = window.location.search.slice(1).replace(/\.js$/, '');
 (function (el: any) {
     if (el = document.getElementById(el)) {
         let sec = 5;
+        return;
         setInterval(() => {
             if (!--sec) return window.top.location.href = 'https://js.org/?' + search;
             el.innerText = `${sec} second${sec > 1 ? 's' : ''}`

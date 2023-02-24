@@ -1,15 +1,6 @@
 @import "vars";
 
-$bor_stroke: 28px;
-$bor_gap: 20px;
-
 #xad {
-    &.float {
-        position: relative;
-        margin: 8px 0 10px 20px;
-        float: right;
-    }
-
     position: relative;
     width: 130px;
     margin: auto;
@@ -20,6 +11,31 @@ $bor_gap: 20px;
     flex-direction: column;
     line-height: 1.4;
     transition: opacity 500ms;
+
+    background-size: 4px 100%, 100% 4px, 4px 100%, 100% 4px;
+    background-position: 0 0, 0 0, 100% 0, 0 100%;
+    background-repeat: no-repeat;
+
+    $bor_stroke: 28px;
+    $bor_gap: 20px;
+
+    background-image: repeating-linear-gradient(0deg, $txt, $txt $bor_gap, transparent $bor_gap, transparent $bor_stroke, $txt $bor_stroke),
+        repeating-linear-gradient(90deg, $txt, $txt $bor_gap, transparent $bor_gap, transparent $bor_stroke, $txt $bor_stroke),
+        repeating-linear-gradient(180deg, $txt, $txt $bor_gap, transparent $bor_gap, transparent $bor_stroke, $txt $bor_stroke),
+        repeating-linear-gradient(270deg, $txt, $txt $bor_gap, transparent $bor_gap, transparent $bor_stroke, $txt $bor_stroke);
+
+    @media (prefers-color-scheme: dark) {
+        background-image: repeating-linear-gradient(0deg, $key, $key $bor_gap, transparent $bor_gap, transparent $bor_stroke, $key $bor_stroke),
+            repeating-linear-gradient(90deg, $key, $key $bor_gap, transparent $bor_gap, transparent $bor_stroke, $key $bor_stroke),
+            repeating-linear-gradient(180deg, $key, $key $bor_gap, transparent $bor_gap, transparent $bor_stroke, $key $bor_stroke),
+            repeating-linear-gradient(270deg, $key, $key $bor_gap, transparent $bor_gap, transparent $bor_stroke, $key $bor_stroke);
+    }
+
+    &.float {
+        position: relative;
+        margin: 8px 0 10px 20px;
+        float: right;
+    }
 
     #xad-blocked {
         padding: 1em;
@@ -32,27 +48,11 @@ $bor_gap: 20px;
         }
     }
 
-
-    background-image: repeating-linear-gradient(0deg, $txt, $txt $bor_gap, transparent $bor_gap, transparent $bor_stroke, $txt $bor_stroke),
-    repeating-linear-gradient(90deg, $txt, $txt $bor_gap, transparent $bor_gap, transparent $bor_stroke, $txt $bor_stroke),
-    repeating-linear-gradient(180deg, $txt, $txt $bor_gap, transparent $bor_gap, transparent $bor_stroke, $txt $bor_stroke),
-    repeating-linear-gradient(270deg, $txt, $txt $bor_gap, transparent $bor_gap, transparent $bor_stroke, $txt $bor_stroke);
-    background-size: 4px 100%,
-    100% 4px,
-    4px 100%,
-    100% 4px;
-    background-position: 0 0,
-    0 0,
-    100% 0,
-    0 100%;
-    background-repeat: no-repeat;
-
     &.blocked {
         opacity: 0.6;
 
         #xad-blocked {
             display: block;
-
         }
     }
 }
@@ -115,7 +115,7 @@ $bor_gap: 20px;
     }
 }
 
-@media only screen and (min-width: 570px) {
+@media only screen and (min-width: $break_m) {
 
     #xad {
         width: 330px;
@@ -143,22 +143,8 @@ $bor_gap: 20px;
             position: absolute;
             right: 0;
             bottom: 0;
-            border-radius: 0;
             border-top-left-radius: 3px;
             text-align: center;
         }
-    }
-
-
-}
-
-
-@media (prefers-color-scheme: dark) {
-    #xad {
-        background-image: repeating-linear-gradient(0deg, $key, $key $bor_gap, transparent $bor_gap, transparent $bor_stroke, $key $bor_stroke),
-            repeating-linear-gradient(90deg, $key, $key $bor_gap, transparent $bor_gap, transparent $bor_stroke, $key $bor_stroke),
-            repeating-linear-gradient(180deg, $key, $key $bor_gap, transparent $bor_gap, transparent $bor_stroke, $key $bor_stroke),
-            repeating-linear-gradient(270deg, $key, $key $bor_gap, transparent $bor_gap, transparent $bor_stroke, $key $bor_stroke);
-
     }
 }

@@ -220,79 +220,72 @@ footer {
   margin-right: 3px;
 }
 
-@media only screen and (min-width: $break-s) {
+@media only screen and (min-width: $break_s) {
   #oc {
-      display: inline-block;
+    display: inline-block;
   }
 }
 
-@media only screen and (min-width: $break-m) {
+@media only screen and (min-width: $break_m) {
   .err {
-      margin: 3em 0 4em;
+    margin: 3em 0 4em;
 
-      em {
-          min-width: 330px;
-          font-size: 3em;
-      }
+    em {
+      min-width: 330px;
+      font-size: 3em;
+    }
 
-      p {
-          margin: 3em;
-      }
+    p {
+      margin: 3em;
+    }
   }
 
 }
 
 @media (prefers-color-scheme: dark) {
   html {
-      scrollbar-color: fade-out($key, 0.5) fade-out($key, 0.8);
-      background: $txt;
-      color: $key;
+    scrollbar-color: fade-out($key, 0.5) fade-out($key, 0.8);
+    background: $txt;
+    color: $key;
   }
 
   ::selection {
-      background: $key;
-      color: $txt;
+    background: $key;
+    color: $txt;
   }
 
   ::-webkit-scrollbar-track {
-      background: fade-out($key, 0.8);
+    background: fade-out($key, 0.8);
   }
 
   ::-webkit-scrollbar-thumb {
-      background: fade-out($key, 0.5);
+    background: fade-out($key, 0.5);
   }
 
   ::-webkit-scrollbar-thumb:active {
-      background: $key;
+    background: $key;
   }
 
   em {
-      background: $key;
-      color: $txt;
+    background: $key;
+    color: $txt;
+  }
+
+  .tri {
+    background: $key;
   }
 
   .badge {
-      background: $key;
-
-      span,
-      a {
-          color: $txt;
-      }
-
-      .blue {
-          color: $alt;
-      }
-  }
-
-  .tri,
-  .badge :first-child {
-      background: $key;
+    &, :first-child {
+      background: $dark;
+    }
   }
 
   footer {
-      hr {
-          background: $key;
-      }
+    hr {
+      background: $key;
+    }
+
   }
 
 }
