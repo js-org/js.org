@@ -2952,7 +2952,7 @@ var cnames_active = {
   "tui-nuxt": "hosting.gitbook.com", // noCF
   "turali": "caglarturali.github.io",
   "turbo": "turbo.github.io",
-  "turboprisma": "cname.vercel-dns.com",
+  "turboprisma": "cname.vercel-dns.com", // noCF
   "tw-themes": "kevinast.github.io/tw-themes",
   "twallpaper": "crashmax-dev.github.io/twallpaper",
   "twcopy": "the94air.github.io/twcopy",
