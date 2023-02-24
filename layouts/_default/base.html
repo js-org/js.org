@@ -105,6 +105,9 @@
         {{- .Content -}}
     </main>
 
+    
+    {{ partial "badge_banner.html" . }}
+
     <footer>
         {{ if .Params.lastUpdate -}}
         <div class="badge">
@@ -140,6 +143,7 @@
         <div><a href="/privacy.html" target="_top" title="Privacy">Privacy</a> ▪ <a href="/imprint.html" target="_top" title="Imprint">Imprint</a></div>
     </footer>
     {{ end -}}
+
 
     {{if .Params.full}}
     {{if $script:= resources.Get "main.ts" }}

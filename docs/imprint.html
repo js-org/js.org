@@ -87,6 +87,47 @@
 <p>Our offer contains links to external websites of third parties on whose contents we have no influence. Therefore, we can not assume any liability for these third-party contents. The respective provider or operator of the pages is always responsible for the contents of the linked pages. The linked pages were checked for possible legal violations at the time of linking. Illegal contents were not recognizable at the time of linking. However, a permanent control of the content of the linked pages is not reasonable without specific indications of an infringement. We will remove such links immediately, if we become aware of any legal infringements.</p>
 </main>
 
+    
+    <div id="badge-js"></div>
+<script src="//m.servedby-buysellads.com/monetization.custom.js"></script>
+<script>
+    (function () {
+        if (typeof _bsa !== 'undefined' && _bsa) {
+            _bsa.init('custom', 'CWYDC23J', 'placement:jsorg-badge-banner', {
+                target: '#badge-js',
+                template: `
+    <style>
+    .bsa__##external_id## {
+            background-image: linear-gradient(
+                    145deg,
+                    ##backgroundColor##,
+                    90%,
+                    ##backgroundColor##80
+                ),
+                linear-gradient(##textColor## 1px, transparent 0),
+                linear-gradient(
+                    90deg,
+                    ##textColor## 1px,
+                    transparent 0
+                );
+            background-color: ##backgroundColor##;
+        }
+    </style>
+    <a class="badge-container bsa__##external_id##" style="background-color: ##backgroundColor##; color: ##textColor##; border-color: ##textColor##" href="##link##" rel="sponsored noopener" target="_blank" title="##company## — ##tagline##">
+    <img class="badge-icon" style="background-color: ##backgroundColor##" src="##image##">
+    <div class="badge-flex">
+        <div class="badge-title">##company## — ##tagline##</div>
+        <div class="badge-description">##description##</div>
+        <img class="badge-logo" src="##logo##">
+        <div class="badge-cta" style="background-color: ##ctaBackgroundColor##; color: ##ctaTextColor##">##callToAction##</div>
+    </div>
+    </a>
+    `
+            });
+        }
+    })();
+</script>
+
     <footer>
         <div class="badge">
             <span>Last Update</span><span>Sep 29, 2021</span>
