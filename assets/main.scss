@@ -24,10 +24,13 @@ html {
   background: $key;
 }
 
+
+
+
 body {
   padding: 0 5%;
   font-family: "Source Sans Pro", Arial, Helvetica, sans-serif;
-  line-height: 1.6;
+  line-height: 1.5;
   -webkit-text-size-adjust: 100%;
   -moz-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
@@ -65,6 +68,9 @@ svg {
 }
 
 p {
+  margin-top: 0.5em;
+  line-height: 1.6em;
+
   &.bigger {
     font-size: 1.3em;
   }
@@ -99,20 +105,24 @@ a {
     padding: 0.5em 0.7em 0.5em 0;
     z-index: 1;
   }
+
   span {
     pointer-events: none;
   }
 
   background: $txt;
+
   &.gray,
   & .gray {
     background: $gray !important;
   }
+
   &.blue,
   & .blue {
     background: $blue !important;
   }
 }
+
 a.badge,
 .badge a {
   &:hover {
@@ -126,6 +136,7 @@ a.badge,
   padding-left: 0.6em;
   padding-right: 0.5em;
   margin-right: 0.8em;
+
   &:after {
     content: "";
     position: absolute;
@@ -180,8 +191,10 @@ footer {
     height: 1.5px;
     background: $txt;
   }
+
   font-size: 0.8rem;
   line-height: 1em;
+
   * {
     align-self: flex-end;
   }
@@ -190,81 +203,96 @@ footer {
 .err {
   text-align: center;
   margin: 2em 0;
+
   em {
     line-height: 2em;
     font-size: 2em;
     margin: 1em 1em 1em 0.7em;
   }
+
   p {
     margin: 2em;
   }
 }
 
+#oc {
+  display: none;
+  margin-right: 3px;
+}
+
+@media only screen and (min-width: $break-s) {
+  #oc {
+      display: inline-block;
+  }
+}
 
 @media only screen and (min-width: $break-m) {
   .err {
-    margin: 3em 0 4em;
-    em {
-      min-width: 330px;
-      font-size: 3em;
-    }
-    p {
-      margin: 3em;
-    }
+      margin: 3em 0 4em;
+
+      em {
+          min-width: 330px;
+          font-size: 3em;
+      }
+
+      p {
+          margin: 3em;
+      }
   }
 
 }
 
-
 @media (prefers-color-scheme: dark) {
   html {
-    scrollbar-color: fade-out($key, 0.5) fade-out($key, 0.8);
-    background: $txt;
-    color: $key;
+      scrollbar-color: fade-out($key, 0.5) fade-out($key, 0.8);
+      background: $txt;
+      color: $key;
   }
 
   ::selection {
-    background: $key;
-    color: $txt;
+      background: $key;
+      color: $txt;
   }
 
   ::-webkit-scrollbar-track {
-    background: fade-out($key, 0.8);
+      background: fade-out($key, 0.8);
   }
 
   ::-webkit-scrollbar-thumb {
-    background: fade-out($key, 0.5);
+      background: fade-out($key, 0.5);
   }
 
   ::-webkit-scrollbar-thumb:active {
-    background: $key;
+      background: $key;
   }
 
   em {
-    background: $key;
-    color: $txt;
+      background: $key;
+      color: $txt;
   }
 
   .badge {
-    background: $key;
+      background: $key;
 
-    span, a {
-      color: $txt;
-    }
+      span,
+      a {
+          color: $txt;
+      }
 
-    .blue {
-      color: $alt;
-    }
+      .blue {
+          color: $alt;
+      }
   }
 
   .tri,
   .badge :first-child {
-    background: $key;
+      background: $key;
   }
 
   footer {
-    hr {
-      background: $key;
-    }
+      hr {
+          background: $key;
+      }
   }
+
 }

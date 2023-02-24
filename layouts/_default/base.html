@@ -31,7 +31,7 @@
     <meta name="twitter:description" content="{{.Site.Params.description}}">
     <meta name="twitter:image" content="https://js.org/ico/512.png">
     <meta name="twitter:image:alt" content="JS.ORG logo">
-
+    
     <meta property="og:title" content="{{.Site.Title }}" />
     <meta property="og:url" content="https://js.org/index.html" />
     <meta property="og:image" content="https://js.org/jsorg_ogimage.png" />
@@ -41,7 +41,7 @@
     {{end}}
 
     {{if .Params.err}}
-    <meta http-equiv="refresh" content="8; URL=https://js.org/">
+    <meta http-equiv="refresh" content="6; URL=https://js.org/">
     {{end}}
 
     <link rel="preload" as="font" type="font/woff2" crossorigin href="/fnt/source-sans-pro-v14-latin-regular.woff2">
@@ -60,7 +60,7 @@
     {{ (printf "<%s>%s</%s>" "style" ($index.Content | safeCSS) "style") | safeHTML }}
     {{end}}
     {{end}}
-
+    
     {{if .Params.full}}
     {{if $xad := resources.Get "xad.scss" }}
     {{$options := dict "outputStyle" "compressed"}}
@@ -74,6 +74,7 @@
     <link rel="preload" href="/main.js" as="script">
     {{end}}
     {{end}}
+
 </head>
 
 <body>
@@ -105,10 +106,10 @@
 
             {{if .Params.full}}
             <div class="badge">
-                <a class="blue" title="JS.ORG on Twitter" href="https://twitter.com/JS_ORG" target="_blank"
-                    rel="nofollow noreferrer noopener">Twitter</a>
-                <a title="Tweet JS.ORG" href="https://twitter.com/share?url=https%3A%2F%2Fjs.org" target="_blank"
-                    rel="nofollow noreferrer noopener">tweet this!</a>
+                <a class="blue" title="JS.ORG on Twitter" href="https://twitter.com/JS_ORG"
+                    target="_blank" rel="nofollow noreferrer noopener">Twitter</a>
+                <a title="Tweet JS.ORG" href="https://twitter.com/share?url=https%3A%2F%2Fjs.org"
+                    target="_blank" rel="nofollow noreferrer noopener">tweet this!</a>
             </div>
             {{end}}
         </div>
@@ -127,8 +128,8 @@
             <a id="oc" class="badge blue" title="Open Collective" href="https://opencollective.com/js-org"
                 target="_blank" rel="nofollow noreferrer noopener"><span>Donate</span><span>for registrar
                     fees</span></a>
-            <a id="gh" class="badge gray" title="GitHub" href="https://github.com/js-org/js.org" target="_blank"
-                rel="nofollow noreferrer noopener"><span>GitHub</span>
+            <a id="gh" class="badge gray" title="GitHub" href="https://github.com/js-org/js.org"
+                target="_blank" rel="nofollow noreferrer noopener"><span>GitHub</span>
                 {{if .Params.full}}
                 <span id="ghstars">4K</span>
                 {{end}}
@@ -153,16 +154,14 @@
         <hr>
         <span>WEBDESIGN: <a title="Werbeagentur Ansbach Webdesign" rel="noreferrer noopener" target="_blank"
                 href="https://www.20zweinull.de/">20zweinull</a></span>
-        <div><a href="/privacy.html" target="_top" title="Privacy">Privacy</a> ▪ <a href="/imprint.html" target="_top"
-                title="Imprint">Imprint</a>
+        <div><a href="/privacy.html" target="_top" title="Privacy">Privacy</a> ▪ <a href="/imprint.html" target="_top" title="Imprint">Imprint</a>
         </div>
     </footer>
     {{ end -}}
 
     {{if .Params.full}}
     {{if $script:= resources.Get "main.ts" }}
-    {{ $options := dict "targetPath" "main.js" "target" "es2015" "minify" (cond .Site.IsServer false true) "sourcemap"
-    (cond .Site.IsServer "inline" "external")}}
+    {{ $options := dict "targetPath" "main.js" "target" "es2015" "minify" (cond .Site.IsServer false true) "sourcemap" (cond .Site.IsServer "inline" "external")}}
     {{ $script := $script | js.Build $options }}
     <script type="text/javascript" src="{{ $script.RelPermalink }}" defer></script>
     {{ end }}

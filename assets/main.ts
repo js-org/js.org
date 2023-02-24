@@ -8,13 +8,14 @@ const search = window.location.search.slice(1).replace(/\.js$/, '');
 
 (function (el: any) {
     if (el = document.getElementById(el)) {
-        let sec = 7;
+        let sec = 5;
         setInterval(() => {
-            if (!--sec) window.top.location.href = 'https://js.org/?' + search;
+            if (!--sec) return window.top.location.href = 'https://js.org/?' + search;
             el.innerText = `${sec} second${sec > 1 ? 's' : ''}`
         }, 1000)
     }
 })('rt');
+
 
 (function (el: any) {
     if (!(el = document.getElementById(el))) return;
@@ -71,29 +72,12 @@ const search = window.location.search.slice(1).replace(/\.js$/, '');
 })('hermes', ['your', 'domain', '4free', 'project', 'learn', 'tool', 'munich']);
 
 
-declare var ethicalads: any;
-
 (function (el: any) {
-    window.onload = async () => {
+    window.onload = () => {
         if (el = document.getElementById(el)) {
-            let xad_c = document.getElementById('_carbonads_projs')
-            if (!xad_c) el.classList.add('blocked');
-            fetch(`https://xad.js.org/xad_${xad_c ? 'c' : 'no'}`)
-
-            /*
-            let countUrl = 'https://xad.js.org/xad_';
-            if (!window.ethicalads || (await ethicalads?.wait).length == 0) {
-                const script = document.createElement('script');
-                script.id = "_carbonads_js";
-                script.src = '//cdn.carbonads.com/carbon.js?serve=CESD4K3E&placement=jsorg';
-                script.async = true;
-                script.onerror = () => {el.classList.add('blocked'); fetch(`${countUrl}no`)};
-                script.onload = ()=> fetch(`${countUrl}c`)
-                el.appendChild(script);
-            } else {
-                fetch(`${countUrl}e`)
-            }
-            */
+            let xad = document.getElementById('_carbonads_projs')
+            if (!xad) el.classList.add('blocked');
+            fetch(`https://xad.js.org/xad_${xad ? 'c' : 'no'}`)
         }
     }
 })('xad');
