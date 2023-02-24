@@ -300,6 +300,7 @@ var cnames_active = {
   "be": "davidep87.github.io/bejs.github.io",
   "beaga": "beagajs.github.io/beaga",
   "beamwind": "kenoxa.github.io/beamwind",
+  "beanpaste":"beanpastee.github.io",
   "beatzoid": "beatzoid.github.io",
   "bee": "beejsdev.github.io",
   "begin": "advanced-webapps-class.github.io/begin", // noCF? (don´t add this in a new PR)
