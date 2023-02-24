@@ -2134,7 +2134,6 @@ var cnames_active = {
   "photo-sphere-viewer": "photo-sphere-viewer.netlify.app",
   "phpjs": "binarykorra.github.io/phpJS",
   "phx": "phxjs.github.io",
-  "phylum": "phylumjs.github.io",
   "physics-demos": "lachlandk.github.io/physics-demos",
   "piano": "ronyeh.github.io/piano",
   "picsim": "mazko.github.io/picsim.js",
@@ -2953,6 +2952,7 @@ var cnames_active = {
   "tui-nuxt": "hosting.gitbook.com", // noCF
   "turali": "caglarturali.github.io",
   "turbo": "turbo.github.io",
+  "turboprisma": "cname.vercel-dns.com", // noCF
   "tw-themes": "kevinast.github.io/tw-themes",
   "twallpaper": "crashmax-dev.github.io/twallpaper",
   "twcopy": "the94air.github.io/twcopy",
