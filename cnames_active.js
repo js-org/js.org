@@ -1928,6 +1928,7 @@ var cnames_active = {
   "neuro": "neurojs.netlify.com",
   "neutralino": "neutralinojs.github.io",
   "newbyte": "newbytee.github.io/newbyte",
+  "newcar": "newcar-docs.netlify.org"
   "newspool": "68b0dfd0-2b8d-4335-9da2-5653f09d2d34.id.repl.co", // noCF
   "newyear": "dndrbots.github.io/new_year_counter",
   "next": "zeit.github.io/next-site",
