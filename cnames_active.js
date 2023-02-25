@@ -381,6 +381,7 @@ var cnames_active = {
   "bright": "bright-js.github.io",
   "brigsby": "tynatsuhara.github.io/brigsby",
   "brizusan": "blackmyab.github.io/brizusan",
+  "brocode": "c0mrd.github.io/broCode",
   "brotat": "mariobob.github.io/brotat-website",
   "browserless": "kikobeats.github.io/browserless",
   "brum": "romantic-noyce-67d6ee.netlify.app",
