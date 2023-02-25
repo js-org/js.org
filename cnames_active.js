@@ -2686,6 +2686,7 @@ var cnames_active = {
   "sourcemod": "infinixius.github.io/sourcemod.js",
   "spa": "sucom.github.io/SPA.js",
   "spaas": "pakastin.github.io/spaas",
+  "space": "pschroen.github.io/space.js",
   "spacebot": "spacebot2.github.io",
   "spark": "hammerheadstudios.github.io/SparkCode",
   "spark-handler": "cname.vercel-dns.com", // noCF
