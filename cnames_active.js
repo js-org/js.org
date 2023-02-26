@@ -2332,7 +2332,7 @@ var cnames_active = {
   "react-redux": "react-redux-docs.netlify.com", // noCF
   "react-responsive-carousel": "leandrowd.github.io/react-responsive-carousel", // noCF? (don´t add this in a new PR)
   "react-showroom": "react-showroom.netlify.app",
-  "react-starport": "yanxintang.github.io/react-starport",
+  "react-starport": "react-starport.netlify.app",
   "react-styleguidist": "styleguidist.netlify.com",
   "react-table-ui": "guptasiddhant.github.io/react-table-ui",
   "react-telegram": "appbak3r.github.io/react-telegram",
