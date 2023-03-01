@@ -2365,6 +2365,7 @@ var cnames_active = {
   "reciple": "cname.vercel-dns.com", // noCF
   "recover": "luisvallejomohl.github.io/Recover.js",
   "recycle": "recyclejs.github.io/recycle",
+  "reddit-sp": "neuthral.github.io/reddit-single-page",
   "redfox": "kavanmevada.github.io",
   "rediagram": "kamiazya.github.io/rediagram",
   "redis": "noderedis.github.io/node_redis", // noCF? (don´t add this in a new PR)
