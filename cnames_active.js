@@ -1607,6 +1607,7 @@ var cnames_active = {
   "lingui": "cname.vercel-dns.com", // noCF
   "linkcord": "793d3e52-aa35-4851-aba6-e0905331fe2a.id.repl.co", // noCF
   "linkify": "hypercontext.github.io/linkifyjs",
+  "liongzz": "liongzz.github.io",
   "lips": "jcubic.github.io/lips",
   "lipsum": "llxlr.github.io/lipsum.js",
   "liquid-ajax-cart": "evgeniymukhamedjanov.github.io/liquid-ajax-cart",
