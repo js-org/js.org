@@ -105,8 +105,9 @@
         {{- .Content -}}
     </main>
 
-    
-    {{ partial "badge_banner.html" . }}
+    {{if .IsHome -}}
+    {{ partial "badge_banner.html" . }} 
+    {{- end}}
 
     <footer>
         {{ if .Params.lastUpdate -}}
