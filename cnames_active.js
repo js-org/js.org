@@ -1302,6 +1302,7 @@ var cnames_active = {
   "iamsurajdc": "iamsurajdc.github.io",
   "icecast": "jucrouzet.github.io/icecast.js",
   "ices": "icesjs.github.io/ices",
+  "icnz": "icnz.github.io",
   "icones": "icones.netlify.app",
   "id": "andae.github.io/id",
   "id.single-spa": "single-spa.github.io/id.single-spa.js.org", // noCF
