@@ -78,6 +78,7 @@ var cnames_restricted = [
     "director(y/ies)",
     "dns",
     "doc(s)",
+    "dom",
     "domain(s)",
     "donate(s)",
     "dyn",
