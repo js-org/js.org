@@ -812,6 +812,7 @@ var cnames_active = {
   "dolan": "cname.vercel-dns.com", // noCF
   "dollar": "defims.github.io/dollar",
   "dolphin": "uyouthe.github.io/dolphin",
+  "dom": "sx-9.github.io/dom.js",
   "domainr": "cname.vercel-dns.com", // noCF
   "domhandler": "fb55.github.io/domhandler",
   "dominion": "dominion-framework.github.io",
