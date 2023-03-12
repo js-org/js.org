@@ -1884,6 +1884,7 @@ var cnames_active = {
   "mutable": "mutable-tools.github.io/MutableJS",
   "muto": "booleanapp.github.io/elastic-muto",
   "muxfm": "muxfm.github.io/docs",
+  "muxinxy": "muxinxy.github.io",
   "mvc": "morozovsk.github.io/mvc", // noCF
   "mw": "agauniyal.github.io/mw",
   "mwap": "jacob-ebey.github.io/mwap",
