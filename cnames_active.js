@@ -2592,7 +2592,7 @@ var cnames_active = {
   "sheet": "sheetjs.github.io/sheet.js.org",
   "shekhar": "shekharreddy4.github.io/Shekhar",
   "shell": "adaltas.github.io/node-shell",
-  "sheweny": "sheweny.github.io/website",
+  "sheweny": "sheweny.github.io/framework",
   "shibe-online": "1chisensei.github.io/shibe.online",
   "shikwasa": "jessuni.github.io/shikwasa",
   "shilong": "echoheim.github.io/shilong",
