@@ -1488,7 +1488,7 @@ var cnames_active = {
   "keypress": "rumkin.github.io/keypress.js.org",
   "keystone": "keystone-ssg.netlify.app",
   "keyv": "microlinkhq.github.io/keyv",
-  "keyvhq": "microlinkhq.github.io/keyhq",
+  "keyvhq": "microlinkhq.github.io/keyvhq",
   "keyvify": "zyrouge.github.io/Keyvify",
   "kiai": "buape.github.io/utilities",
   "kilic": "kiliczsh.github.io",
