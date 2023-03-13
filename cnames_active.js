@@ -1486,7 +1486,6 @@ var cnames_active = {
   "keyframe-refiner": "keyframe-refiner.github.io/keyframe-refiner",
   "keypress": "rumkin.github.io/keypress.js.org",
   "keystone": "keystone-ssg.netlify.app",
-  "keyv": "keyv.org",
   "keyvhq": "microlinkhq.github.io/keyv",
   "keyvify": "zyrouge.github.io/Keyvify",
   "kiai": "buape.github.io/utilities",
