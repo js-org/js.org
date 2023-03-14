@@ -754,6 +754,7 @@ var cnames_active = {
   "discord-music-player": "sushibtw.github.io/discord-music-player",
   "discord-player": "discord-player-docs.netlify.app",
   "discord-portable-player": "lolollllo.github.io/discord-portable-player",
+  "discord-rankup": "x404dev.github.io"
   "discord-rest": "garder500.github.io/discord-rest",
   "discord-sensei": "demonicious.github.io/discord-sensei",
   "discord-tickets": "derpinou.github.io/discord-tickets-docs",
