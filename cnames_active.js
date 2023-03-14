@@ -159,6 +159,7 @@ var cnames_active = {
   "amorphous": "ariabuckles.github.io/amorphous",
   "ampn": "ampn.github.io",
   "amrit": "amritsrivastava.github.io",
+  "analytics": "analyticsjs.github.io/web-analytics",
   "andresito": "andresitodeguzman.github.io/andresito",
   "anenth": "anenth.github.io", // noCF? (don´t add this in a new PR)
   "angular-cn": "ng-docs.github.io/angular-cn.js.org",
@@ -1486,7 +1487,7 @@ var cnames_active = {
   "keyframe-refiner": "keyframe-refiner.github.io/keyframe-refiner",
   "keypress": "rumkin.github.io/keypress.js.org",
   "keystone": "keystone-ssg.netlify.app",
-  "keyv": "microlinkhq.github.io/keyv",
+  "keyvhq": "microlinkhq.github.io/keyvhq",
   "keyvify": "zyrouge.github.io/Keyvify",
   "kiai": "buape.github.io/utilities",
   "kilic": "kiliczsh.github.io",
