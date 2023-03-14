@@ -430,7 +430,7 @@ var cnames_active = {
   "canvas": "anshuman-verma.github.io/canvas",
   "canvas-datagrid": "tonygermaneri.github.io/canvas-datagrid",
   "canvasconstructor": "kyranet.github.io/canvas-constructor",
-  "canvasui": "canvasui.github.io",
+  "canvasui": "lzlme.github.io/canvasui",
   "canvg": "canvg.github.io/canvg",
   "canvo": "canvojs.github.io",
   "capital": "capitaljs.github.io/capitaljs",
@@ -3264,6 +3264,7 @@ var cnames_active = {
   "yvm": "tophat.github.io/yvm",
   "zaimu": "zaimu.netlify.app", // noCF
   "zaporizhzhia": "zaporizhzhiajs.github.io",
+  "zeck": "cname.vercel-dns.com", // noCF
   "zed": "paul-browne.github.io/Zed-framework",
   "zen": "tomelam.github.io/zen",
   "zenfuse": "zenfuse.github.io/zenfuse.js",
