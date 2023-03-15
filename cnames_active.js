@@ -3019,6 +3019,7 @@ var cnames_active = {
   "upresent": "bobbybee.github.io/uPresent", // noCF? (don´t add this in a new PR)
   "upset": "upsetjs.github.io",
   "uptime": "intelligo-systems.github.io/uptime.js",
+  "urlmskr": "axorax.github.io/urlmskr",
   "urmom": "urmomjs.github.io/urmom.js",
   "use-cookie-consent": "use-cookie-consent.github.io/use-cookie-consent-docs",
   "use-github": "ultirequiem.github.io/use-github",
