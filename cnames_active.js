@@ -3112,6 +3112,7 @@ var cnames_active = {
   "vue-core": "triotech-fr.github.io/vue-core",
   "vue-db": "taowen.github.io/vue-db",
   "vue-diagram-editor": "max-kut.github.io/vue-diagram-editor",
+  "vue-diagrams": "gwenaelp.github.io/vue-diagrams",
   "vue-goodshare": "koddr.github.io/vue-goodshare",
   "vue-magnifier": "websitebeaver.github.io/vue-magnifier",
   "vue-mdc": "na-west1.surge.sh",
