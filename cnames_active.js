@@ -846,6 +846,7 @@ var cnames_active = {
   "dualcyclone": "dualcyclone.github.io/postit-todo-react-redux",
   "duck-duck-scrape": "snazzah.github.io/duck-duck-scrape",
   "duckfficer": "devtin.github.io/duckfficer",
+  "duco": "axorax.github.io/duco.js",
   "dum": "castmary.github.io/dum.js.org",
   "dumber": "dumberjs.github.io",
   "dumi-theme-tuya": "youngjuning.github.io/dumi-theme-tuya",
