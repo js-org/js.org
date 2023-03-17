@@ -1411,6 +1411,7 @@ var cnames_active = {
   "jericho-api": "sidisliveyt.github.io/Jericho-Api",
   "jericho-player": "sidisliveyt.github.io/Jericho-Player",
   "jessm": "jessi-mhernandez.github.io/JessicaM",
+  "JesusVazquezPortafolio":"JesusVazquezPortafolio.js.org",
   "jetaimetantquetuestoi": "dakokonutboi.github.io/jetaimetantquetuestoi",
   "jets": "nexts.github.io/Jets.js",
   "jinada": "redsplit.github.io/jinada",
