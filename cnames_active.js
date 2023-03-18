@@ -1059,6 +1059,7 @@ var cnames_active = {
   "formvuelate": "formvuelate.netlify.app",
   "fortnite": "ickerio.github.io/fortnite.js",
   "fortune": "fortunejs.github.io/fortune", // noCF? (don´t add this in a new PR)
+  "foss": "https://0x5h31d0n.github.io/foss",
   "fosspwa": "foss-pwa.github.io/app-store",
   "fov": "animafps.github.io/fov-utilities",
   "foxhole-client": "foxhole-clientjs.netlify.app",
