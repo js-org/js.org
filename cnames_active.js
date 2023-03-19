@@ -3022,9 +3022,9 @@ var cnames_active = {
   "useless-machine": "pakastin.github.io/useless-machine",
   "userfetch": "userfetch.github.io",
   "usernamegen": "aryan02420.github.io/usernamegen",
+  "useselectify": "cname.vercel-dns.com", // noCF
   "usestatemachine": "cassiozen.github.io/useStateMachine",
   "usetable-ahooks": "usetable-ahooks.surge.sh",
-  "useselectify": "cname.vercel-dns.com", // noCF
   "useworker": "useworker.netlify.com",
   "ushakov": "ushakov-igor.github.io/ushakov",
   "ushio": "ushio.netlify.com",
