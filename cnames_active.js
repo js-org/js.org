@@ -159,6 +159,7 @@ var cnames_active = {
   "amorphous": "ariabuckles.github.io/amorphous",
   "ampn": "ampn.github.io",
   "amrit": "amritsrivastava.github.io",
+  "analytics": "analyticsjs.github.io/web-analytics",
   "andresito": "andresitodeguzman.github.io/andresito",
   "anenth": "anenth.github.io", // noCF? (don´t add this in a new PR)
   "angular-cn": "ng-docs.github.io/angular-cn.js.org",
@@ -429,7 +430,7 @@ var cnames_active = {
   "canvas": "anshuman-verma.github.io/canvas",
   "canvas-datagrid": "tonygermaneri.github.io/canvas-datagrid",
   "canvasconstructor": "kyranet.github.io/canvas-constructor",
-  "canvasui": "canvasui.github.io",
+  "canvasui": "lzlme.github.io/canvasui",
   "canvg": "canvg.github.io/canvg",
   "canvo": "canvojs.github.io",
   "capital": "capitaljs.github.io/capitaljs",
@@ -753,6 +754,7 @@ var cnames_active = {
   "discord-music-player": "sushibtw.github.io/discord-music-player",
   "discord-player": "discord-player-docs.netlify.app",
   "discord-portable-player": "lolollllo.github.io/discord-portable-player",
+  "discord-rankup": "x404dev.github.io/discord-rankup",
   "discord-rest": "garder500.github.io/discord-rest",
   "discord-sensei": "demonicious.github.io/discord-sensei",
   "discord-tickets": "derpinou.github.io/discord-tickets-docs",
@@ -844,6 +846,7 @@ var cnames_active = {
   "dualcyclone": "dualcyclone.github.io/postit-todo-react-redux",
   "duck-duck-scrape": "snazzah.github.io/duck-duck-scrape",
   "duckfficer": "devtin.github.io/duckfficer",
+  "duco": "axorax.github.io/duco.js",
   "dum": "castmary.github.io/dum.js.org",
   "dumber": "dumberjs.github.io",
   "dumi-theme-tuya": "youngjuning.github.io/dumi-theme-tuya",
@@ -992,7 +995,7 @@ var cnames_active = {
   "farzad": "wikiweb.github.io/farzad",
   "fasteer": "fasteerjs.github.io",
   "faux": "fauxos.github.io",
-  "fcanvas": "tachibana-shin.github.io/fcanvas-next",
+  "fcanvas": "fcanvas.github.io/docs",
   "fcbosque": "cronopio.github.io/fcbosque", // noCF? (don´t add this in a new PR)
   "fe": "xcss.github.io/FE",
   "feature-u": "kevinast.github.io/feature-u",
@@ -1110,6 +1113,7 @@ var cnames_active = {
   "gdi": "katehra-brc.github.io/gdi.js.org",
   "geekr": "ruanyl.github.io/geekr", // noCF? (don´t add this in a new PR)
   "gemstone": "pierreavn.github.io/gemstone",
+  "genanki": "krmanik.github.io/genanki-js",
   "generate-license-file": "tobyandtoby.github.io/generate-license-file",
   "genius-lyrics": "zyrouge.github.io/genius-lyrics",
   "genpasswd": "exos.github.io/genpasswd", // noCF? (don´t add this in a new PR)
@@ -1485,7 +1489,7 @@ var cnames_active = {
   "keyframe-refiner": "keyframe-refiner.github.io/keyframe-refiner",
   "keypress": "rumkin.github.io/keypress.js.org",
   "keystone": "keystone-ssg.netlify.app",
-  "keyv": "microlinkhq.github.io/keyv",
+  "keyvhq": "microlinkhq.github.io/keyvhq",
   "keyvify": "zyrouge.github.io/Keyvify",
   "kiai": "buape.github.io/utilities",
   "kilic": "kiliczsh.github.io",
@@ -1605,11 +1609,13 @@ var cnames_active = {
   "ling": "wangziling.github.io",
   "linghucong": "jiji262.github.io",
   "lingui": "cname.vercel-dns.com", // noCF
+  "link-styler": "sheikhoo.github.io/link-styler",
   "linkcord": "793d3e52-aa35-4851-aba6-e0905331fe2a.id.repl.co", // noCF
   "linkify": "hypercontext.github.io/linkifyjs",
   "lips": "jcubic.github.io/lips",
   "lipsum": "llxlr.github.io/lipsum.js",
   "liquid-ajax-cart": "evgeniymukhamedjanov.github.io/liquid-ajax-cart",
+  "liquivelte": "liquivelte.github.io/docs",
   "lister": "jpbulman.github.io/lister",
   "listore": "yieldray.github.io/listore",
   "lite-web-server": "chasyumen.github.io/lite-web-server",
@@ -2589,7 +2595,7 @@ var cnames_active = {
   "sheet": "sheetjs.github.io/sheet.js.org",
   "shekhar": "shekharreddy4.github.io/Shekhar",
   "shell": "adaltas.github.io/node-shell",
-  "sheweny": "sheweny.github.io/website",
+  "sheweny": "sheweny.github.io/framework",
   "shibe-online": "1chisensei.github.io/shibe.online",
   "shikwasa": "jessuni.github.io/shikwasa",
   "shilong": "echoheim.github.io/shilong",
@@ -3108,6 +3114,7 @@ var cnames_active = {
   "vue-core": "triotech-fr.github.io/vue-core",
   "vue-db": "taowen.github.io/vue-db",
   "vue-diagram-editor": "max-kut.github.io/vue-diagram-editor",
+  "vue-diagrams": "gwenaelp.github.io/vue-diagrams",
   "vue-goodshare": "koddr.github.io/vue-goodshare",
   "vue-magnifier": "websitebeaver.github.io/vue-magnifier",
   "vue-mdc": "na-west1.surge.sh",
@@ -3260,6 +3267,7 @@ var cnames_active = {
   "yvm": "tophat.github.io/yvm",
   "zaimu": "zaimu.netlify.app", // noCF
   "zaporizhzhia": "zaporizhzhiajs.github.io",
+  "zeck": "cname.vercel-dns.com", // noCF
   "zed": "paul-browne.github.io/Zed-framework",
   "zen": "tomelam.github.io/zen",
   "zenfuse": "zenfuse.github.io/zenfuse.js",
