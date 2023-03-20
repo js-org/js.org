@@ -40,7 +40,6 @@
 var cnames_active = {
   "": "js-org.github.io",
   "01mz": "01mz.github.io",
-  "tunestation": "https://codyandersan.github.io/TuneStation"
   "100dayz": "deadcoder0904.github.io/100dayz",
   "101": "7anshuai.github.io/js101", // noCF? (don´t add this in a new PR)
   "131": "netrvin.github.io",
@@ -2960,6 +2959,7 @@ var cnames_active = {
   "ttgprotect": "ttgprotect.github.io",
   "ttt": "lukechu10.github.io/TicTacToe-Minimax",
   "tui-nuxt": "hosting.gitbook.com", // noCF
+  "tunestation": "codyandersan.github.io/TuneStation"
   "turali": "caglarturali.github.io",
   "turbo": "turbo.github.io",
   "turboprisma": "cname.vercel-dns.com", // noCF
