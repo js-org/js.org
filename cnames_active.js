@@ -2874,6 +2874,7 @@ var cnames_active = {
   "term-web": "zhw2590582.github.io/term-web",
   "termi": "wearetermi.github.io/termi",
   "terminal": "gottox.github.io/terminal.js", // noCF? (don´t add this in a new PR)
+  "termestry": "redyetidev.github.io/termestry",
   "tess": "det171.github.io/Tess.js",
   "testframe": "testingrequired.github.io/testframe",
   "testio": "yavrumian.github.io/test.io",
