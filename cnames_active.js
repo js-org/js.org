@@ -2872,6 +2872,7 @@ var cnames_active = {
   "tenvoy": "togatech.github.io/tEnvoy",
   "tequila": "tequila-js.github.io",
   "term-web": "zhw2590582.github.io/term-web",
+  "termestry": "redyetidev.github.io/termestry",
   "termi": "wearetermi.github.io/termi",
   "terminal": "gottox.github.io/terminal.js", // noCF? (don´t add this in a new PR)
   "tess": "det171.github.io/Tess.js",
