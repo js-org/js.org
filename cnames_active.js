@@ -1682,6 +1682,7 @@ var cnames_active = {
   "mansiart": "mansiart.github.io/mansiart",
   "manual.bluelightos": "hosting.gitbook.com", // noCF
   "manytimepad": "dipanshkhandelwal.github.io/ManyTimePad",
+  "map": "https://toothleecool.github.io/mapbox/",
   "mapa-cultura": "opensas.gitlab.io",
   "mappa": "cvalenzuela.github.io/Mappa",
   "mapsrc": "indus.github.io/mapsrc",
