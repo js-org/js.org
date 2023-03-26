@@ -2099,7 +2099,7 @@ var cnames_active = {
   "parallel": "parallel-js.github.io/parallel.js",
   "parametric-svg": "parametric-svg.github.io", // noCF? (don´t add this in a new PR)
   "parkrun": "prouser123.github.io/parkrun.js",
-  "parrrot": "https://pengudevelopment.github.io/parrot.js",
+  "parrot": "pengudevelopment.github.io/parrot.js",
   "parse5": "inikulin.github.io/parse5",
   "particles": "tsparticles.github.io/website",
   "party": "yiliansource.github.io/party-js",
