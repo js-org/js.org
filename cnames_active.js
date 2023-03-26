@@ -1651,6 +1651,7 @@ var cnames_active = {
   "lumi": "furioustsunami.github.io/lumijs",
   "lumpia": "lumpiajs.netlify.app",
   "lunisolar": "waterbeside.github.io/lunisolar-docs",
+  "lunox": "kodepandai.github.io/lunox",
   "luzc": "lucianing.github.io/notes",
   "lviv": "lvivjs.github.io/lviv",
   "lvp": "luzhenqian.github.io/lvp.js",
