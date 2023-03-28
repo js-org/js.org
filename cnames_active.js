@@ -650,6 +650,7 @@ var cnames_active = {
   "daisy": "warengonzaga.github.io/daisy.js",
   "dakokonutboi": "dakokonutboi.github.io/portfolio",
   "daksh0225": "daksh0225.github.io",
+  "dales": "magnusmarks.github.io",
   "damo": "damodharanj.github.io",
   "damon233": "whatdamon.github.io",
   "dan": "danielh-dev.netlify.com",
