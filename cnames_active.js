@@ -1084,6 +1084,7 @@ var cnames_active = {
   "fronts": "unadlib.github.io/fronts",
   "frost": "cesiumlabs.github.io/frost",
   "frzr": "pakastin.github.io/frzr",
+  "fsllala": "fsllala.netlify.app",
   "fs-nextra": "bdistin.github.io/fs-nextra",
   "fte": "scintilla4evr.github.io/fte",
   "fucao": "fusuhub.github.io",
