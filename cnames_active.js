@@ -1337,6 +1337,7 @@ var cnames_active = {
   "immybox": "immense.github.io/immybox", // noCF? (don´t add this in a new PR)
   "impress": "impress.github.io/impress.js",
   "imrc-datetime-picker": "smrsan76.github.io/imrc-datetime-picker",
+  "indie": "indie-org.github.io/indie",
   "infinite-tree": "cheton.github.io/infinite-tree",
   "infoooze": "devxprite.github.io/infoooze",
   "infrpg": "1f584576-4b98-4665-8fd5-dc94fbf8df3f.id.repl.co", // noCF
