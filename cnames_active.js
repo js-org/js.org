@@ -2117,6 +2117,7 @@ var cnames_active = {
   "pecis": "techpot-studio.github.io/Pecis",
   "pee": "enbyautumn.github.io/pee.js",
   "peekaboo": "nadavspi.github.io/peekaboo.js",
+  "peekfield": "kodie.github.io/peekfield",
   "pegasusdb": "tatsumaki-coderr.github.io/pegasus.db",
   "pegboard": "mplewis.github.io/pegboard",
   "pekanbaru": "pekanbarujs.github.io",
