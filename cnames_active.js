@@ -3297,7 +3297,7 @@ var cnames_active = {
   "zty": "zetaoyang.github.io",
   "zyh": "zyh-chopper.github.io/zyh",
   "zykj": "cname.vercel-dns.com", // noCF
-  "zyy": "zyyou.github.io/notes"
+  "zyy": "zyyou.github.io/notes",
   "fanmai": "fanmau.github.io"
   /*
    * please don't add your subdomain records down here!
