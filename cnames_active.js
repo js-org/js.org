@@ -2139,6 +2139,7 @@ var cnames_active = {
   "permissions": "danielnewell.github.io/permissions",
   "persian-tools": "persian-tools.github.io/persian-tools",
   "personalkanban": "nishantpainter.github.io/personal-kanban",
+  "personify": "benzo-fury.github.io/personify-home-page",
   "perspective": "leopoldthecoder.github.io/Perspective",
   "peter": "peterccpang.github.io",
   "pguth": "pguth.github.io",
