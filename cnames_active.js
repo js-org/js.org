@@ -731,7 +731,7 @@ var cnames_active = {
   "dinosaur": "path08.github.io/Dinosaur",
   "dipole": "zheksoon.github.io/dipole",
   "discmds": "whitecluegaming.github.io/discmds",
-  "discord": "discordjs.github.io/website",
+  "discord": "cname.vercel-dns.com", // noCF
   "discord-achievements": "shadowplay1.github.io/da-docs",
   "discord-addons": "freiikdev.github.io/discord-addons",
   "discord-anti-spam": "michael-j-scofield.github.io/discord-anti-spam",
