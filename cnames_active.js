@@ -1574,7 +1574,7 @@ var cnames_active = {
   "lcookie": "lf112.github.io/lcookie",
   "ldf": "autplayed.github.io/ldf",
   "le": "letui.github.io",
-  "leaf": "leafmcbe.gitbook.io/docs/", // noCF? (don´t add this in a new PR)
+  "leaf": "leafmcbe.gitbook.io/docs", // noCF
   "lean-stack": "lean-stack.github.io", // noCF? (don´t add this in a new PR)
   "leap-year": "ultirequiem.github.io/leap-year",
   "learnathon": "learn-a-thon.netlify.com",
