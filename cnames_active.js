@@ -587,7 +587,6 @@ var cnames_active = {
   "cyrena": "cyrenajs.github.io/cyrena",
   "cyris": "iCyris.github.io",
   "d-patterns": "alias.zeit.co", // noCF
-  "dd": "mechenik.github.io",
   "d4": "joelburget.github.io/d4",
   "daily.tmr": "ttttmr.github.io/daily", // noCF
   "daisy": "saadeghi.github.io/daisyui-demo",
@@ -1686,6 +1685,7 @@ var cnames_active = {
   "myurl": "marvnet.github.io/myurl",
   "mzaini30": "mzaini30.github.io",
   "mzplayer": "prince3661.github.io/Mzplayer",
+  "mechenik": "mechenik.github.io",
   "n": "cyb.github.io/n",
   "nabin": "nabin6246.github.io",
   "naja": "jiripudil.github.io/Naja",
