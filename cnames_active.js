@@ -1630,6 +1630,7 @@ var cnames_active = {
   "litedom": "mardix.github.io/litedom", // noCF
   "lithium": "ranjithrd.github.io/lithium",
   "littlefoot": "goblindegook.github.io/littlefoot",
+  "liu": "liu12346.github.io"
   "liudun": "haveataste.github.io/liudun",
   "liuence": "lxyzai.github.io/liuence",
   "liunian": "asdjgfr.github.io",
