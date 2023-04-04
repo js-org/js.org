@@ -2065,7 +2065,6 @@ var cnames_active = {
   "opentrivia-guide": "turtlepaw.github.io/trivia-docs",
   "opentype": "nodebox.github.io/opentype.js",
   "opmongo": "sanikava.github.io/OpMongo",
-  "orango": "roboncode.github.io/orango",
   "orbiton": "orbitonjs.github.io",
   "orga": "orgapp.github.io/orgajs",
   "origami": "origami-cms.github.io/cms",
