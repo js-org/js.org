@@ -3052,6 +3052,7 @@ var cnames_active = {
   "utilmonkey": "cyberdev101.github.io/utilmonkey-docs",
   "utm": "espressofan.github.io/utm",
   "utscrooms": "sunakujira1.github.io/UTSCRooms",
+  "utils-core": "https://dev-pengi.github.io/utils-core/",
   "uuid": "rumkin.github.io/uuid",
   "uvcharts": "imaginea.github.io/uvCharts", // noCF? (don´t add this in a new PR)
   "v-charts": "elemefe.github.io/v-charts",
