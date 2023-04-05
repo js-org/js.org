@@ -1790,7 +1790,6 @@ var cnames_active = {
   "mindyourtime": "michaloslav.github.io/Mind-Your-Time",
   "mine": "minenode.github.io",
   "minecraft": "michaljaz.github.io/web-minecraft",
-  "minecraft-data.prismarine": "prismarinejs.github.io/minecraft-data", // noCF
   "mineflayer.prismarine": "prismarinejs.github.io/mineflayer", // noCF
   "minehutsupport": "baibeebambi.github.io/minehutsupport",
   "minerva-ui": "cname.vercel-dns.com", // noCF
@@ -2226,7 +2225,6 @@ var cnames_active = {
   "preset": "awesome-starter.github.io/website",
   "pretty-print-json": "center-key.github.io/pretty-print-json",
   "prettylog": "moosecoop.github.io/PrettyLog",
-  "prismarine": "prismarinejs.github.io",
   "pristine": "sha256.github.io/Pristine", // noCF
   "producify": "jesobreira.github.io/producify",
   "producthunt-trending": "xiaomingplus.github.io/producthunt-trending",
@@ -3176,7 +3174,6 @@ var cnames_active = {
   "web.quizlet": "redyetidev.github.io/Quizlet.JS-Web", // noCF
   "web230": "paylesworth.github.io/web230",
   "webassembly": "xtuc.github.io/webassemblyjs",
-  "webclient.prismarine": "prismarinejs.github.io/prismarine-web-client", // noCF
   "webfetch": "c1tizen.github.io/webfetch",
   "webminer": "web-miner.github.io",
   "webos": "dynamiccode1.github.io/webos",
