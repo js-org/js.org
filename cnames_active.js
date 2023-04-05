@@ -3051,6 +3051,7 @@ var cnames_active = {
   "ushio": "ushio.netlify.com",
   "usv": "usvformat.github.io",
   "utilmonkey": "cyberdev101.github.io/utilmonkey-docs",
+  "utils-core": "dev-pengi.github.io/utils-core",
   "utm": "espressofan.github.io/utm",
   "utscrooms": "sunakujira1.github.io/UTSCRooms",
   "uuid": "rumkin.github.io/uuid",
