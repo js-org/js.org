@@ -1047,7 +1047,6 @@ var cnames_active = {
   "fluxoff": "kingscott.github.io/flux-off", // noCF? (don´t add this in a new PR)
   "flvplayer": "zhw2590582.github.io/FlvPlayer",
   "flybook": "rhiokim.github.io/flybook",
-  "flying-squid.prismarine": "prismarinejs.github.io/flying-squid", // noCF
   "flysoft": "minecraftsky.github.io",
   "fmateoc": "fmateoc.github.io",
   "fnbr": "fnbrjs.github.io/docs",
@@ -1790,7 +1789,6 @@ var cnames_active = {
   "mindyourtime": "michaloslav.github.io/Mind-Your-Time",
   "mine": "minenode.github.io",
   "minecraft": "michaljaz.github.io/web-minecraft",
-  "mineflayer.prismarine": "prismarinejs.github.io/mineflayer", // noCF
   "minehutsupport": "baibeebambi.github.io/minehutsupport",
   "minerva-ui": "cname.vercel-dns.com", // noCF
   "minesweeper": "derflatulator.github.io/minesweeper",
@@ -1984,7 +1982,6 @@ var cnames_active = {
   "nod": "diegohaz.github.io/nod",
   "node": "nodejs.github.io/node.js.org",
   "node-atlas": "haeresis.github.io/NodeAtlas",
-  "node-minecraft-protocol.prismarine": "prismarinejs.github.io/node-minecraft-protocol", // noCF
   "node-slate": "center-key.github.io/node-slate",
   "node-vimeo": "sidisliveyt.github.io/node-vimeo",
   "nodebook": "hosting.gitbook.io",
