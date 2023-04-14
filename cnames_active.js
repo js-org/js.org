@@ -604,6 +604,7 @@ var cnames_active = {
   "cq-websocket": "momocow.github.io/node-cq-websocket",
   "cqrs": "adrai.github.io/cqrs", // noCF? (don´t add this in a new PR)
   "cr": "echosoar.github.io/cr",
+  "crackabottle": "crack-a-bottle.github.io",
   "cracked": "billorcutt.github.io/Cracked",
   "craco": "dilanx.github.io/craco",
   "craft": "craftjs.netlify.app",
