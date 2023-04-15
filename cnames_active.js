@@ -604,6 +604,7 @@ var cnames_active = {
   "cq-websocket": "momocow.github.io/node-cq-websocket",
   "cqrs": "adrai.github.io/cqrs", // noCF? (don´t add this in a new PR)
   "cr": "echosoar.github.io/cr",
+  "crackabottle": "crack-a-bottle.github.io",
   "cracked": "billorcutt.github.io/Cracked",
   "craco": "dilanx.github.io/craco",
   "craft": "craftjs.netlify.app",
@@ -1806,6 +1807,7 @@ var cnames_active = {
   "mirage": "camwang.github.io/mirage",
   "mirror": "hmsjy2017.github.io/Google-Mirrors",
   "mirrors": "llxlr.github.io/mirrors",
+  "miru": "miru-project.github.io/docs",
   "mis101bird": "mis101bird.github.io", // noCF? (don´t add this in a new PR)
   "mission-control": "capevace.github.io/mission-control",
   "miteshtagadiya": "miteshtagadiya.github.io/miteshtagadiya",
