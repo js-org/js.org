@@ -2984,6 +2984,7 @@ var cnames_active = {
   "tweetnacl": "dchest.github.io/tweetnacl-js",
   "twentyfive": "luckyshot.github.io/twentyfive",
   "twikoo": "imaegoo.github.io/twikoo",
+  "twinspark":"piranha.github.io/twinspark-js",
   "twitch": "promisependingapis.github.io/twitch.js",
   "twitchx": "cursorsdottsx.github.io/twitchx",
   "twitter": "twitterjs.github.io/website",
