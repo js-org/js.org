@@ -3122,6 +3122,7 @@ var cnames_active = {
   "vorpal": "dthree.github.io/vorpal", // noCF? (don´t add this in a new PR)
   "vortex": "puntillol59.github.io/vortex",
   "voxelcss": "jhwohlgemuth.github.io/voxelcss",
+  "vscode-api": "youngjuning.github.io/vscode-api",
   "vscode-api-cn": "youngjuning.github.io/vscode-api-cn",
   "vscode-apielements": "xvincentx.github.io/vscode-apielements",
   "vssue": "vssue.netlify.com",
