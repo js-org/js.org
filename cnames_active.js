@@ -1951,7 +1951,7 @@ var cnames_active = {
   "newyear": "dndrbots.github.io/new_year_counter",
   "next": "zeit.github.io/next-site",
   "next-auth": "alias.zeit.co", // noCF
-  "next-crud": "next-crud-pi.vercel.app",
+  "next-crud": "next-crud-pi.vercel.app", // noCF
   "next-qrcode": "next-qrcode.github.io",
   "next-redux-cookie-wrapper": "bjoluc.github.io/next-redux-cookie-wrapper",
   "next.awesome-vue": "awesome-vue.netlify.app", // noCF
