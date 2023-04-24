@@ -1,0 +1,43 @@
+name: Validate cnames_active.js
+
+on:
+  push:
+    branches:
+      - master
+  pull_request:
+    branches:
+      - master
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+
+    env:
+      GH_EVENT_HASH: ${{ github.event_name == 'pull_request' && github.event.pull_request.head.sha || github.sha }}
+
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          ref: ${{ env.GH_EVENT_HASH }}
+
+      - uses: actions/checkout@v3
+        with:
+          repository: js-org/js.org-cleanup
+          path: cleanup
+
+      - uses: actions/setup-node@v2
+        with:
+          node-version-file: cleanup/.nvmrc
+          cache: npm
+          cache-dependency-path: cleanup/package-lock.json
+
+      - name: Install dependencies
+        run: npm ci
+        working-directory: cleanup
+
+      - name: Validate cnames_active.js
+        run: node index.js --validate ../cnames_active.js
+        working-directory: cleanup
