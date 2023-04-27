@@ -1226,6 +1226,7 @@ var cnames_active = {
   "ha-store": "fed135.github.io/ha-store",
   "habra": "jarvis394.github.io/habra",
   "hacktm": "hacktm.netlify.com",
+  "haha": "singingqin.github.io",
   "hahuutin": "hahuutin.github.io",
   "hale": "haleshaw.github.io/hale",
   "halil": "hibrahimsafak.github.io", // noCF? (don´t add this in a new PR)
@@ -1236,7 +1237,6 @@ var cnames_active = {
   "hana": "hanacaraka.netlify.app",
   "hanan": "hanandito.github.io/teddypicker",
   "handsfree": "handsfreejs.github.io/handsfree",
-  "haha": "singingqin-github-io.vercel.app",
   "hapi-sol": "yonjah.github.io/hapi-sol",
   "happy": "e24.github.io/happy", // noCF? (don´t add this in a new PR)
   "harry": "harry-yep.github.io",
@@ -2664,7 +2664,6 @@ var cnames_active = {
   "singh": "gxjit.github.io",
   "single-page-web-app": "lukejpreston.github.io/single-page-web-app",
   "single-spa": "single-spa.github.io/single-spa.js.org",
-  "sing": "singingqin.github.io",
   "sirkit": "seckwei.github.io/SirKit_CircuitSim", // noCF? (don´t add this in a new PR)
   "sistersbio": "kdiacodes.github.io/SistersBio",
   "sizle": "christoga.github.io/sizle", // noCF? (don´t add this in a new PR)
