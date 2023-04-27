@@ -3177,6 +3177,7 @@ var cnames_active = {
   "wdd": "wangduanduan.github.io",
   "weather": "phanendraguptha.github.io/weather",
   "weaver": "maxkfranz.github.io/weaver", // noCF? (don´t add this in a new PR)
+  "webalchemystudios": "https://blackguz.github.io/Portafolio/"
   "web-sandbox": "web-sandbox-js.github.io/web-sandbox-website",
   "web-widget": "web-widget.github.io",
   "web.quizlet": "redyetidev.github.io/Quizlet.JS-Web", // noCF
