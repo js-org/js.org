@@ -2762,6 +2762,7 @@ var cnames_active = {
   "stapp": "tinkoffcreditsystems.github.io/stapp",
   "starify-discord": "dastormer.github.io/starify-discord",
   "starratio": "starratio.github.io/star-ratio", // noCF
+  "stars": "stars889.github.io",
   "start": "deepsweet.github.io/start",
   "starterpk": "starterpk.github.io",
   "startup": "startup-js.github.io/startup",
