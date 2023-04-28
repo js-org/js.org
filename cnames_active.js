@@ -2114,6 +2114,7 @@ var cnames_active = {
   "particles": "tsparticles.github.io/website",
   "party": "yiliansource.github.io/party-js",
   "pas-ce-soir": "oldergod.github.io/pas-ce-soir",
+  "passcraft": "one-dev-man.github.io/PassCraft",
   "passepartout": "falkz.github.io/passepartout.js.org",
   "passphrase": "therootcompany.github.io/passphrase.js",
   "pastate": "birdleescut.github.io/pastate",
