@@ -2801,6 +2801,7 @@ var cnames_active = {
   "styli": "cname.vercel-dns.com", // noCF
   "stylis": "thysultan.github.io/stylis.js",
   "subeditor": "shirtiny.github.io/SubEditor",
+  "submodule": "submodule-js.github.io/site/",
   "subplayer": "zhw2590582.github.io/SubPlayer",
   "suchary": "skorotkiewicz.github.io/suchary",
   "sudarshan": "sudarshanraul.github.io",
