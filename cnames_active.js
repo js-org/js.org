@@ -610,7 +610,7 @@ var cnames_active = {
   "craft": "craftjs.netlify.app",
   "crank": "bikeshaving.github.io/crank",
   "crawlx": "wind2sing.github.io/crawlx",
-  "crawlyx": "theritikchoure.github.io/crawlyx",
+  "crawlyx": "theritikchoure.github.io/crawlyx/docs",
   "creamcrop": "creamcropdev.github.io",
   "create-coffee-app": "legolovergo.github.io/create-coffee-app",
   "create-djs-app": "cname.vercel-dns.com", // noCF
