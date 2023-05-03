@@ -1916,7 +1916,7 @@ var cnames_active = {
   "mzplayer": "prince3661.github.io/Mzplayer",
   "n": "cyb.github.io/n",
   "nabin": "nabin6246.github.io",
-  "nacl-check": "magnusmarx.github.io/NaCL/",
+  "nacl-check": "magnusmarx.github.io/NaCL",
   "naja": "naja-js.github.io/naja",
   "namaste": "namaste-duniya.github.io/js",
   "name-my-colors": "domcoleman.github.io/name-my-colors",
