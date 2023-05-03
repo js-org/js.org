@@ -1673,6 +1673,7 @@ var cnames_active = {
   "lx": "blleng.github.io/lx-test",
   "lychee": "arc-market.github.io/lycheeJS-website",
   "lyra": "amansahil.github.io/lyra.js.org",
+  "lyz": "lihawhaw.github.io/lyzjs",
   "lzbible": "edwinyosorahardjo.github.io/lzbible",
   "m01i0ng": "m01i0ng.github.io",
   "m8bot": "mapreiff.github.io/m8-bot-site",
