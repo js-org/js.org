@@ -91,6 +91,7 @@ var cnames_active = {
   "active-resource": "nicklandgrebe.github.io/activeresource.js",
   "acyort": "acyortjs.github.io/site",
   "ada": "ada-js.netlify.com",
+  "alcex": "apex-loadbalancer.netlify.com",
   "adamant": "datamart.github.io/Adamant",
   "aderemi": "aderemi.github.io",
   "adil": "adilzeshan.github.io/adil",
@@ -3317,8 +3318,7 @@ var cnames_active = {
   "zty": "zetaoyang.github.io",
   "zyh": "zyh-chopper.github.io/zyh",
   "zykj": "cname.vercel-dns.com", // noCF
-  "zyy": "zyyou.github.io/notes",
-  "Alcex": "apex-loadbalancer.netlify.com"
+  "zyy": "zyyou.github.io/notes"
   /*
    * please don't add your subdomain records down here!
    * insert them in alphabetical order to help reduce merge conflicts.
