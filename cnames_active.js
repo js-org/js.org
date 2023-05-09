@@ -1607,6 +1607,7 @@ var cnames_active = {
   "li": "mattsimmons1.github.io/li",
   "libcord": "tovade.github.io/libcord",
   "libphonenumbers": "libphonenumbers.github.io",
+  "license-cop": "tobysmith568.github.io/license-cop",
   "lifeisyoung": "lifeisyoung.github.io",
   "light": "lightjs.netlify.com",
   "light-observable": "dmitry-korolev.github.io/light-observable",
