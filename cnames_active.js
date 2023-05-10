@@ -1608,6 +1608,7 @@ var cnames_active = {
   "li": "mattsimmons1.github.io/li",
   "libcord": "tovade.github.io/libcord",
   "libphonenumbers": "libphonenumbers.github.io",
+  "license-cop": "tobysmith568.github.io/license-cop",
   "lifeisyoung": "lifeisyoung.github.io",
   "light": "lightjs.netlify.com",
   "light-observable": "dmitry-korolev.github.io/light-observable",
@@ -1646,6 +1647,7 @@ var cnames_active = {
   "livevalidate": "thedhanawada.github.io/LiveValidateJS",
   "lmadactyl": "hosting.gitbook.io", // noCF
   "lmajercik": "meiercheek.github.io",
+  "localize": "localize.github.io",
   "localsync": "noderaider.github.io/localsync", // noCF? (don´t add this in a new PR)
   "loginlock-portfolio": "chucky22mendoza.github.io/loginlock",
   "logo": "js-org.github.io/logo",
