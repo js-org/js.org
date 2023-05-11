@@ -1,3 +1,3 @@
-- [x] I have read and accepted the [Terms and Conditions](http://js.org/terms.html)
-- [x] There is reasonable content on the page
-- [x] I have added a CNAME file to my repo: https://github.com/thangckt/thangckt.github.io/blob/gh-pages/CNAME
+ I have read and accepted the Terms and Conditions
+ There is reasonable content on the page
+ I have added a CNAME file to my repo: [insert URL here]
