@@ -39,7 +39,6 @@
 
 var cnames_active = {
   "": "js-org.github.io",
-  "thangckt": "thangckt.github.io",
   "01mz": "01mz.github.io",
   "100dayz": "deadcoder0904.github.io/100dayz",
   "101": "7anshuai.github.io/js101", // noCF? (don´t add this in a new PR)
@@ -2911,6 +2910,7 @@ var cnames_active = {
   "textillate": "jschr.github.io/textillate", // noCF? (don´t add this in a new PR)
   "textmark": "sahilister.github.io/textmark",
   "tgsnake": "cname.vercel-dns.com", // noCF
+  "thangckt": "thangckt.github.io",
   "thea": "idokutela.github.io/thea",
   "thegrid": "antoniandre.github.io/grid",
   "thehorizon": "kavanmevada.github.io/the-horizon-blog",
