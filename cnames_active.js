@@ -377,6 +377,7 @@ var cnames_active = {
   "brawley": "brawlie.github.io/brawley",
   "brawlstats": "brawlstatsjs.netlify.app",
   "breadbot": "centralomd.github.io/breadbot",
+  "brick-next": "easyops-cn.github.io/brick-next",
   "bricklayer": "ademilter.github.io/bricklayer", // noCF? (don´t add this in a new PR)
   "bridge": "mystpi.github.io/bridge",
   "bright": "bright-js.github.io",
