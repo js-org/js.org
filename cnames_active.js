@@ -3073,6 +3073,7 @@ var cnames_active = {
   "utscrooms": "sunakujira1.github.io/UTSCRooms",
   "uuid": "rumkin.github.io/uuid",
   "uvcharts": "imaginea.github.io/uvCharts", // noCF? (don´t add this in a new PR)
+  "uynilo9": "uynilo9.netlify.app",
   "v-charts": "elemefe.github.io/v-charts",
   "v-decorators": "v-decorators.netlify.com",
   "v4.webpack": "webpack.github.io/v4.webpack.js.org", // noCF
