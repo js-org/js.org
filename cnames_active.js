@@ -2182,7 +2182,7 @@ var cnames_active = {
   "pixelanimator": "grough.github.io/pixel-animator",
   "pixelart": "meriadec.github.io/PixelartJS", // noCF? (don´t add this in a new PR)
   "pixiv": "cname.vercel-dns.com", // noCF
-  "pixkit": "4209c620-ba35-40e1-a3ed-fbc6bd3e0b6b.id.repl.co", // I didn't know whether to put the CNAME or the url there, so I put the CNAME. here is the url: [https://pixkit.m1dnightdev.repl.co]
+  "pixkit": "4209c620-ba35-40e1-a3ed-fbc6bd3e0b6b.id.repl.co",
   "pizzle": "pizzlejs.github.io",
   "plait": "wildlyinaccurate.github.io/plait",
   "plan": "agauniyal.github.io/plan",
