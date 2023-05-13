@@ -1094,6 +1094,7 @@ var cnames_active = {
   "fte": "scintilla4evr.github.io/fte",
   "fucao": "fusuhub.github.io",
   "fuck": "gerd2002.github.io/fuck.js",
+  "fuelish": "https://doofenshmirtz-evil-incorp.github.io/Fuelish/",
   "fugapedia": "fugapediajs.github.io/website",
   "fullscreen": "motyar.github.io/fullscreen",
   "funbook": "egoist.github.io/funbook",
