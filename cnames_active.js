@@ -148,6 +148,7 @@ var cnames_active = {
   "alova": "alovajs.github.io",
   "alpha-coders": "biologyscience.github.io/alpha-coders",
   "alphabetify": "davidpomerenke.github.io/alphabetify",
+  "alpine-ajax": "imacrayon.github.io/alpine-ajax",
   "alt": "goatslacker.github.io/alt", // noCF? (don´t add this in a new PR)
   "alveron": "cname.vercel-dns.com", // noCF
   "alyreza": "alyreza.github.io",
