@@ -2731,6 +2731,7 @@ var cnames_active = {
   "spider": "spider-scraper.netlify.app",
   "spike": "spike.netlify.com",
   "spin": "fgnass.github.io/spin.js", // noCF? (don´t add this in a new PR)
+  "spinonsubmit": "thedhanawada.github.io/SpinOnSubmitJS",
   "spirare": "waldenn.github.io/spirare", // noCF? (don´t add this in a new PR)
   "spiritual": "spiritual-js.github.io", // noCF? (don´t add this in a new PR)
   "splayer": "satosouta.github.io/SPlayer",
