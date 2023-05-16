@@ -792,7 +792,6 @@ var cnames_active = {
   "divifier": "eaaasun.github.io/divifier",
   "djs-addon": "hosting.gitbook.io", // noCF
   "djs-application-commands": "hosting.gitbook.io",
-  "djs-modules": "djs-modules.github.io/website",
   "djs-tickets": "pgamerx.github.io/djs-tickets",
   "djs-tools": "fhgdev.github.io/djs-tools",
   "djsframe": "vypal.github.io/djsframe",
