@@ -2621,6 +2621,7 @@ var cnames_active = {
   "shekhar": "shekharreddy4.github.io/Shekhar",
   "shell": "adaltas.github.io/node-shell",
   "sheweny": "sheweny.github.io/framework",
+  "shex": "shexjs.github.io/shex.js",
   "shibe-online": "1chisensei.github.io/shibe.online",
   "shikwasa": "jessuni.github.io/shikwasa",
   "shilong": "echoheim.github.io/shilong",
