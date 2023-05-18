@@ -1758,6 +1758,7 @@ var cnames_active = {
   "meed": "pinjasaur.github.io/meed",
   "mega": "qgustavor.github.io/megajs-docs",
   "meiosis": "foxdonut.github.io/meiosis", // noCF? (don´t add this in a new PR)
+  "melancholia": "yife68.github.io/melancholia.js.org",
   "melies-hugo": "cristinafsanz.github.io/melies-hugo",
   "melody": "trivago.github.io/melody-web",
   "memer-api": "cname.vercel-dns.com", // noCF
