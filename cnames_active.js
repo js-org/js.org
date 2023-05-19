@@ -2185,6 +2185,7 @@ var cnames_active = {
   "pixelanimator": "grough.github.io/pixel-animator",
   "pixelart": "meriadec.github.io/PixelartJS", // noCF? (don´t add this in a new PR)
   "pixiv": "cname.vercel-dns.com", // noCF
+  "pixkit": "pixkit.m1dnightdev.repl.co",
   "pizzle": "pizzlejs.github.io",
   "plait": "wildlyinaccurate.github.io/plait",
   "plan": "agauniyal.github.io/plan",
