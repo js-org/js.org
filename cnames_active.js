@@ -2196,6 +2196,7 @@ var cnames_active = {
   "playground.blu": "maxherrmann.github.io/blu-playground", // noCF
   "pliers": "pliersjs.github.io", // noCF? (don´t add this in a new PR)
   "plotyxd": "plotyxd.github.io",
+  "plumier": "plumier.github.io",
   "pnpm": "pnpm.netlify.app",
   "pod": "mileallen.github.io/pod",
   "podivilov": "podivilov.github.io",
