@@ -1491,6 +1491,7 @@ var cnames_active = {
   "karolina-and-ryan": "mockturtlesoup.github.io/karolina-and-ryan",
   "karrot": "665c97b7-c1b8-473c-b6b8-48006bfae344.repl.co", // noCF
   "kasfy": "kasfy.github.io/kasfy.js.org",
+  "kasumi": "kasumi-doc.vercel.app",
   "katheesh": "katheesh.github.io/katheesh.js",
   "kavan": "kavanmevada.gitlab.io",
   "kawaii": "moemoesoft.github.io/kawaii", // noCF
