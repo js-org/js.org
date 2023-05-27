@@ -413,6 +413,7 @@ var cnames_active = {
   "c-3po": "ttag-org.github.io/c-3po",
   "c-installer": "llenax.github.io/c-installer",
   "c1200": "c1200.github.io",
+  "cutexiaoguigui": "cutexiaoguigui.github.io",
   "cable": "whatgoodisaroad.github.io/cablejs", // noCF? (don´t add this in a new PR)
   "cachi": "eddiejibson.github.io/cachi",
   "caffeine": "ccrraaiigg.github.io/caffeine",
