@@ -2666,7 +2666,7 @@ var cnames_active = {
   "simplestate": "nlcgits.github.io/simplestate",
   "simply": "fehmi.github.io/simply",
   "simplyapi": "cname.vercel-dns.com", // noCF
-  "simplyd": "simplyd.netlify.app",
+  "simplyd": "simplyd.pages.dev",
   "simplyeco": "xx-mohit-xx.github.io/Simply-eco",
   "simplyxp": "simplyxp.netlify.app",
   "simulacra": "daliwali.github.io/simulacra",
