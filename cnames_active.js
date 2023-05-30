@@ -1125,6 +1125,7 @@ var cnames_active = {
   "generate-license-file": "tobyandtoby.github.io/generate-license-file",
   "genius-lyrics": "zyrouge.github.io/genius-lyrics",
   "genpasswd": "exos.github.io/genpasswd", // noCF? (don´t add this in a new PR)
+  "geo": "hiren2001.github.io/geo",
   "geolocation-promise": "js-pugilist.github.io/geolocation-promise",
   "george": "georgeyue.github.io/george",
   "geotargeting": "sntran.github.io/geotargeting",
