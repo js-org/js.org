@@ -408,6 +408,7 @@ var cnames_active = {
   "bwb-docs": "shbwb.github.io/bwb-docs",
   "byakugan": "rockmanvnx6.github.io/byakugan-js",
   "bynote": "bynotes.github.io",
+  "bymnkn": "bymnkn.com",
   "byteasier": "kagurain.github.io/ByteasierIndex",
   "bytemd": "bytemd.netlify.app",
   "c": "cocobear.github.io",
