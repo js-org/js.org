@@ -2286,6 +2286,7 @@ var cnames_active = {
   "py-like": "ruben-arushanyan.github.io/py-like",
   "qbit": "fudan-mse.github.io/qbit",
   "qbsz": "qbsz.github.io",
+  "qrcolor": "qr-code-color.vercel.app",
   "qs": "kirjs.github.io/qs.js", // noCF? (don´t add this in a new PR)
   "quacky": "quacky-bot.github.io",
   "quantlib": "quantlibjs.github.io",
