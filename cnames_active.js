@@ -3318,6 +3318,7 @@ var cnames_active = {
   "zaporizhzhia": "zaporizhzhiajs.github.io",
   "zeck": "cname.vercel-dns.com", // noCF
   "zed": "paul-browne.github.io/Zed-framework",
+  "zedux": "omnistac.github.io/zedux",
   "zen": "tomelam.github.io/zen",
   "zenfuse": "zenfuse.github.io/zenfuse.js",
   "zephyr": "zephyr-dh.github.io/zephyr",
