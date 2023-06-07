@@ -1656,12 +1656,12 @@ var cnames_active = {
   "localsync": "noderaider.github.io/localsync", // noCF? (don´t add this in a new PR)
   "loginlock-portfolio": "chucky22mendoza.github.io/loginlock",
   "logo": "js-org.github.io/logo",
-  "lona": "lonadb.github.io/Website",
   "loh": "codingstudios.github.io/loh",
   "loki": "oblador.github.io/loki",
   "lol": "xcss.github.io/lol",
   "loli": "tkzcm.github.io/loli",
   "lombok": "lombokjs.github.io",
+  "lona": "lonadb.github.io/Website",
   "loog": "israelroldan.github.io/loog",
   "lostyle": "rtsao.github.io/lostyle",
   "lottiefy": "pd4d10.github.io/lottiefy",
