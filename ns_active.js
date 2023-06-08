@@ -15,12 +15,12 @@
 var ns_active = {
   "appshelf": ["ns31.cloudns.net", "ns32.cloudns.net", "ns33.cloudns.net", "ns34.cloudns.net"],
   "castyte": ["ns31.cloudns.net", "ns32.cloudns.net", "ns33.cloudns.net", "ns34.cloudns.net"],
+  "cosmicord": ["ns1.vercel-dns.com", "ns2.vercel-dns.com"],
   "engine262": ["ns1.he.net", "ns2.he.net", "ns3.he.net", "ns4.he.net", "ns5.he.net"],
   "lolifamily": ["glen.ns.cloudflare.com", "melany.ns.cloudflare.com"],
   "ruby": ["alexis.ns.cloudflare.com", "connie.ns.cloudflare.com"],
   "samplasion": ["ns31.cloudns.net", "ns32.cloudns.net", "ns33.cloudns.net", "ns34.cloudns.net"],
-  "shebang": ["dns1.p01.nsone.net", "dns2.p01.nsone.net", "dns3.p01.nsone.net", "dns4.p01.nsone.net"],
-  "cosmicord": ["ns1.vercel-dns.com", "ns2.vercel-dns.com"]
+  "shebang": ["dns1.p01.nsone.net", "dns2.p01.nsone.net", "dns3.p01.nsone.net", "dns4.p01.nsone.net"]
 }
 
 /*
