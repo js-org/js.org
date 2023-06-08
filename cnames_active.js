@@ -1609,6 +1609,7 @@ var cnames_active = {
   "lev": "lev-savranskiy.github.io",
   "level": "xv700.github.io/level",
   "lf": "lf112.github.io",
+  "lgb": "Craftguy-Billies.github.io/lgb",
   "lgs": "lgsturkiye.github.io/lgs",
   "li": "mattsimmons1.github.io/li",
   "libcord": "tovade.github.io/libcord",
