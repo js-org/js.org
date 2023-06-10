@@ -1452,7 +1452,6 @@ var cnames_active = {
   "josn": "iaseth.github.io/josn",
   "joycon": "cname.vercel-dns.com", // noCF
   "jparticles": "jparticles.github.io/Documentation",
-  "jsp": "hiren2001.github.io/jsp",
   "js-fixerr": "anujsinghwd.github.io/js-fixerr",
   "js-labs": "cname.vercel-dns.com", // noCF
   "jscord": "thepoptartcrpr.github.io/jscord",
@@ -1469,6 +1468,7 @@ var cnames_active = {
   "jsonql": "joel-chu.github.io/jsonql-org",
   "jsonui": "yourtion.github.io/vue-json-ui-editor",
   "jsonuri": "aligay.github.io/jsonuri",
+  "jsp": "hiren2001.github.io/jsp",
   "jstyle": "lxhom.github.io/jstyle", // noCF
   "jsxcad": "jsxcad.github.io",
   "juancarlosqr": "juancarlosqr.github.io", // noCF? (don´t add this in a new PR)
