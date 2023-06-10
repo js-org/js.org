@@ -1452,6 +1452,7 @@ var cnames_active = {
   "josn": "iaseth.github.io/josn",
   "joycon": "cname.vercel-dns.com", // noCF
   "jparticles": "jparticles.github.io/Documentation",
+  "jsp": "hiren2001.github.io/jsp",
   "js-fixerr": "anujsinghwd.github.io/js-fixerr",
   "js-labs": "cname.vercel-dns.com", // noCF
   "jscord": "thepoptartcrpr.github.io/jscord",
