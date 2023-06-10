@@ -597,7 +597,7 @@ var cnames_active = {
   "corps": "copay.github.io",
   "corx": "corx.kazult.repl.co", // noCF
   "cosmos": "cosmos-xyz.github.io/cosmos",
-  "cosmicord": "cname.vercel-dns.com",
+  "cosmicord": "cname.vercel-dns.com", // noCF
   "cosova": "hardo.github.io/cosova",
   "costro": "costrojs.github.io",
   "cote": "dashersw.github.io/cote", // noCF? (don´t add this in a new PR)
