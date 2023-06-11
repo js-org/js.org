@@ -1910,7 +1910,8 @@ var cnames_active = {
   "murmansk": "interfluve.github.io/Murmansk",
   "music": "ronyeh.github.io/music",
   "musicca": "musiccajs.github.io/website",
-  "musickit": "exerra.github.io/node-musickit-api", // noCF
+  "musickit": "exerra.github.io/node-musickit-api", // noCF 
+  "musicking5678": "apex-loadbalancer.netlify.com",
   "musicord": "arthurleo13.github.io/musicord-documentation",
   "mutable": "mutable-tools.github.io/MutableJS",
   "muto": "booleanapp.github.io/elastic-muto",
