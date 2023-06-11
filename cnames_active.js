@@ -596,6 +596,7 @@ var cnames_active = {
   "corona": "soroushchehresa.github.io/awesome-coronavirus",
   "corps": "copay.github.io",
   "corx": "corx.kazult.repl.co", // noCF
+  "cosmicord": "cname.vercel-dns.com", // noCF
   "cosmos": "cosmos-xyz.github.io/cosmos",
   "cosova": "hardo.github.io/cosova",
   "costro": "costrojs.github.io",
