@@ -2773,6 +2773,7 @@ var cnames_active = {
   "squeak": "bertfreudenberg.github.io/SqueakJS",
   "squid": "squidjs.github.io/squid",
   "squirrelly": "squirrellyjs.netlify.com", // noCF
+  "squircle": "cname.vercel-dns.com", // noCF
   "sr": "samrobbins85.github.io",
   "sreeram": "sreeramofficial.github.io/sreeram",
   "sri": "jackub.github.io/subresource-integrity-fallback",
