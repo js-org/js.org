@@ -756,6 +756,7 @@ var cnames_active = {
   "discord-epagination": "azawat7.github.io/discord-pagination",
   "discord-gamecord": "cname.vercel-dns.com", // noCF
   "discord-giveaways": "androz2091.github.io/discord-giveaways",
+  "discordjs-mvc": "3h04m1.github.io/discord.js-mvc"
   "discord-kommando": "team-thinkcord.github.io/discord-kommando.js",
   "discord-kommando-plugins": "team-thinkcord.github.io/discord-kommando.js-plugins",
   "discord-kr": "discordjs-kr.github.io/website",
