@@ -461,6 +461,7 @@ var cnames_active = {
   "cdi": "kiprox.github.io/Candro-Drive-Index",
   "cdll": "cdll.github.io",
   "cdoor": "cdoor.github.io",
+  "cdt": "zmf-1.github.io"
   "cebu": "javascriptcebu.netlify.com",
   "cekdomain": "cekdomain.netlify.app",
   "celery-node": "actumn.github.io/celery.node",
