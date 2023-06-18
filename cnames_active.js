@@ -2478,6 +2478,7 @@ var cnames_active = {
   "reststops": "thomasbrueggemann.github.io/reststops",
   "resume": "xaoxuu.github.io/resume.js.org",
   "resume-builder": "blopa.github.io/Resume-Builder",
+  "retalk": "cname-china.vercel-dns.com", // noCF
   "rete": "retejs.github.io",
   "reto": "awmleer.github.io/reto",
   "retux": "crimx.github.io/retux",
