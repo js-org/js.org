@@ -775,6 +775,7 @@ var cnames_active = {
   "discord4node": "mrsheldon.github.io/Discord4Node",
   "discordeno": "discordeno.github.io/discordeno",
   "discordhy": "readthedocs.io",
+  "discordjs-mvc": "3h04m1.github.io/discord.js-mvc",
   "discordkit": "swothh.github.io/discordkit",
   "discordlib": "hosting.gitbook.com",
   "discords": "botstudios.github.io/discords.js.org",
