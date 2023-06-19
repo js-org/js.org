@@ -517,6 +517,7 @@ var cnames_active = {
   "clockwork": "clockworkdev.github.io/ClockworkWebsite",
   "cluster-eventdispatcher": "chickendevlab.github.io/cluster-eventdispatcher",
   "clusterize": "nexts.github.io/Clusterize.js",
+  "cm": "jsmuc.github.io",
   "cmbhackjs2013": "cmbjs.github.io/cmbHackjs2013",
   "cmdhub": "thatonetqnk.github.io/cmdhub",
   "cml": "didi.github.io/chameleon",
@@ -2292,7 +2293,6 @@ var cnames_active = {
   "pwa-cookbook": "sylvainpolletvillard.github.io/pwa-cookbook",
   "pwa-workshop": "sylvainpolletvillard.github.io/pwa-workshop",
   "py-like": "ruben-arushanyan.github.io/py-like",
-  "q": "jsmuc.github.io",
   "qbit": "fudan-mse.github.io/qbit",
   "qbsz": "qbsz.github.io",
   "qs": "kirjs.github.io/qs.js", // noCF? (don´t add this in a new PR)
