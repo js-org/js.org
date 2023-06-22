@@ -593,6 +593,7 @@ var cnames_active = {
   "coreutils": "ultirequiem.github.io/coreutils",
   "cork": "davej.github.io/CorkJS",
   "corki": "dvtate.github.io/corki",
+  "corneal64": "corneal64.github.io",
   "corona": "soroushchehresa.github.io/awesome-coronavirus",
   "corps": "copay.github.io",
   "corx": "corx.kazult.repl.co", // noCF
