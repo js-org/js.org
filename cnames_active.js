@@ -1975,9 +1975,9 @@ var cnames_active = {
   "next": "zeit.github.io/next-site",
   "next-auth": "alias.zeit.co", // noCF
   "next-crud": "next-crud.netlify.app",
-  "next-share": "next-share.github.io",
   "next-qrcode": "next-qrcode.github.io",
   "next-redux-cookie-wrapper": "bjoluc.github.io/next-redux-cookie-wrapper",
+  "next-share": "next-share.github.io",
   "next.awesome-vue": "awesome-vue.netlify.app", // noCF
   "nextkit-fetcher": "ultirequiem.github.io/nextkit-fetcher",
   "nflow": "nflow-js.github.io", // noCF? (don´t add this in a new PR)
