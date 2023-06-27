@@ -763,7 +763,7 @@ var cnames_active = {
   "discord-messages": "lebyy.github.io/discord-messages",
   "discord-moderator": "xyligan-gp.github.io/discord-moderator",
   "discord-music-player": "sushibtw.github.io/discord-music-player",
-  "discord-player": "discord-player-docs.netlify.app",
+  "discord-player": "cname.vercel-dns.com", // noCF
   "discord-portable-player": "lolollllo.github.io/discord-portable-player",
   "discord-rankup": "x404dev.github.io/discord-rankup",
   "discord-rest": "garder500.github.io/discord-rest",
