@@ -2282,7 +2282,7 @@ var cnames_active = {
   "ptero": "pterojs.github.io/ptero.js-docs",
   "pteromanager": "pteromanager.github.io/Website",
   "ptrdo": "ptrdo.github.io",
-  "ptsh": "ptshu.github.io/ptsh.js.org",
+  "ptsh": "ptshu.github.io/ptsh.js",
   "pubg": "ickerio.github.io/pubg.js",
   "publish-subscribe": "r37r0m0d3l.github.io/publish_subscribe",
   "published": "fiverr.github.io/published",
