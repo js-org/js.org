@@ -12,7 +12,7 @@
 
 *This decision does not affect subdomains that have already been granted.*
 
-Need a subdomain for a project that doesn't fall within the criteria for JS.ORG? Take a look at this list of [similar services](https://github.com/js-org/js.org/wiki/Similar-Services) .
+If your project does not meet the criteria of JS.ORG you should have a look at the list of [similar services](https://github.com/js-org/js.org/wiki/Similar-Services) .
 
 ---
 
