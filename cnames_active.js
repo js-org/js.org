@@ -2990,6 +2990,7 @@ var cnames_active = {
   "torpedo": "divysrivastava.github.io/torpedo.js",
   "trace": "andreasmadsen.github.io/trace",
   "trakas": "trakas.github.io",
+  "train": "snoopies.github.io/train",
   "translate": "xuanzhi33.github.io/translate.js",
   "transposer": "francesco-dipi.github.io/transposer",
   "trestle": "whiskeedev.github.io/trestle",
