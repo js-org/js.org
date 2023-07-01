@@ -3132,6 +3132,7 @@ var cnames_active = {
   "ve-table": "xiguaxigua.github.io/ve-table",
   "velt": "veltjs.github.io",
   "vendywira": "vendywira.github.io",
+  "vento": "oscarotero.github.io/vento",
   "verifyr": "arze1.github.io/verifyr-site",
   "verse": "druidic.github.io/verse",
   "vesselize": "vesselize.github.io/docs",
