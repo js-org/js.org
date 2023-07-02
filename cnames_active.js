@@ -2060,6 +2060,7 @@ var cnames_active = {
   "oak": "donn.github.io/Oak.js",
   "object-gui": "matteobruni.github.io/object-gui",
   "objectid": "the-silver-project.github.io/objectid",
+  "objectkv": "itsag.github.io/objectkv",
   "objectmodel": "sylvainpolletvillard.github.io/ObjectModel", // noCF? (don´t add this in a new PR)
   "observable-hooks": "crimx.github.io/observable-hooks",
   "octofetch": "maartenvn.github.io/OctoFetch",
