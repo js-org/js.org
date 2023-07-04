@@ -3334,6 +3334,7 @@ var cnames_active = {
   "yusril": "yusrilhs.github.io", // noCF
   "yuye": "cyea.github.io",
   "yvm": "tophat.github.io/yvm",
+  "zld": "ziliudi.github.io/js",
   "zaimu": "zaimu.netlify.app", // noCF
   "zaporizhzhia": "zaporizhzhiajs.github.io",
   "zeck": "cname.vercel-dns.com", // noCF
