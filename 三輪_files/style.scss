@@ -1,0 +1,106 @@
+body {
+  width: 35em;
+  margin: 0 0 120px 120px;
+  font: 15px / 1.6em Georgia, serif;
+  color: #000;
+  background: #fff;
+  text-align: justify; }
+
+  h1, h2, h3 {
+    margin: 1.4em 0;
+    font-size: 1em;
+    font-weight: bold; }
+
+    p {
+      margin: 0 0 1.4em 0; }
+
+      a {
+        color: #000;
+        border-bottom: 1px solid #000;
+        text-decoration: none; }
+
+        img {
+          max-width: 100%; }
+
+          ol {
+            margin: 0 0 1.4em 0;
+            padding: 0; }
+            ol li {
+              list-style: decimal;
+              margin: 0;
+              list-style-position: inside; }
+
+ul {
+  margin: 0 0 1.4em 15px;
+  padding: 0; }
+  ul li {
+    list-style: circle;
+    margin: 0; }
+
+ul.l, ul.site_nav {
+  margin-left: 0; }
+  ul.l li, ul.site_nav li {
+    list-style: none;
+    margin: 0;
+    padding: 0; }
+
+ul.site_nav li {
+  display: inline-block;
+  font-weight: bold; }
+  ul.site_nav li a {
+    border: none; }
+
+blockquote {
+  margin: 0;
+  font-style: normal;
+  border: 1px dashed #C0C0C0;
+  padding: 0px 3px; }
+
+  hr {
+    border: none;
+    border-bottom: 1px solid #eee;
+    margin: 5em 8em; }
+
+    footer, ul.site_nav, .back, article {
+      margin-top: 120px; }
+
+      ul.l, .pager {
+        margin-top: 50px; }
+
+        .doc_comments {
+          padding: 0 !important;
+          margin-top: 120px !important; }
+
+          .sub_comments .sub_comments {
+            padding-left: 0 !important;
+            margin: 0 !important;
+            border-top: 1px solid #eee; }
+            .sub_comments .sub_comments .comment {
+              padding: 0 !important;
+              border: none !important; }
+
+.comment_content {
+  margin-bottom: 30px; }
+
+  .doc_comments #new_comment_form .input_body li input {
+    padding-left: 0 !important; }
+
+    .doc_comments #new_comment_form .comment_submit_button {
+      padding-left: 15px !important;
+      padding-right: 15px !important;
+      background-color: #ccc !important; }
+      .doc_comments #new_comment_form .comment_submit_button:hover {
+        opacity: 0.7;
+        cursor: pointer; }
+
+@media (max-width: 650px) {
+  body {
+    width: 80%;
+    margin: 0 0 10% 10%;
+    font-size: 14px;
+    line-height: 1.7em;   }
+    h1, h2, h3 {
+      margin-top: 10%;   }
+      hr {
+        margin: 10%;   }
+}
