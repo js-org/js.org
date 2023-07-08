@@ -2216,7 +2216,7 @@ var cnames_active = {
   "pliers": "pliersjs.github.io", // noCF? (don´t add this in a new PR)
   "plotyxd": "plotyxd.github.io",
   "plumier": "plumier.github.io",
-  "pnpm": "js-org.pnpm.io",
+  "pnpm": "pnpm.github.io",
   "pod": "mileallen.github.io/pod",
   "podivilov": "podivilov.github.io",
   "poegems": "max-arias.github.io/poeGems", // noCF? (don´t add this in a new PR)
