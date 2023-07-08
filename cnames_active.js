@@ -3099,6 +3099,7 @@ var cnames_active = {
   "ushakov": "ushakov-igor.github.io/ushakov",
   "ushio": "ushio.netlify.com",
   "usv": "usvformat.github.io",
+  "utc": "pythonscratcher.net/utc",
   "utilmonkey": "cyberdev101.github.io/utilmonkey-docs",
   "utils-core": "dev-pengi.github.io/utils-core",
   "utm": "espressofan.github.io/utm",
