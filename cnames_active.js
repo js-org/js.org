@@ -915,6 +915,7 @@ var cnames_active = {
   "elliot": "elliotboney.github.io", // noCF? (don´t add this in a new PR)
   "elmo": "lap00zza.github.io/elmo",
   "elock": "yourtion.github.io/node-elock",
+  "elode": "equneko.github.io/elode",
   "emage": "douglasjunior.github.io/emage",
   "email-templates": "niftylettuce.github.io/email-templates",
   "embarrassed-themes": "kbothub.github.io/Embarrassed-Themes",
