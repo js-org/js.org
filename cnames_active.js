@@ -876,6 +876,7 @@ var cnames_active = {
   "dynamicsnode": "crisfervil.github.io/DynamicsNode",
   "dyo": "dyo.github.io/dyo",
   "dyte": "dytejs.github.io",
+  "dynamotion": "cname.vercel-dns.com",
   "eahmed234": "eahmed234.github.io",
   "ease": "chisel.github.io/ease",
   "easiermongo": "grook8958.github.io/easiermongo-docs",
