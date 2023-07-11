@@ -1238,7 +1238,7 @@ var cnames_active = {
   "ham": "militia21.github.io/ham",
   "hamburger-menu": "center-key.github.io/hamburger-menu",
   "hamed": "phpniki.github.io/hamed",
-  "hana": "hanacaraka.netlify.app",
+  "hana": "romantic-kare-c84899.netlify.app",
   "hanan": "hanandito.github.io/teddypicker",
   "hapi-sol": "yonjah.github.io/hapi-sol",
   "happy": "e24.github.io/happy", // noCF? (don´t add this in a new PR)
