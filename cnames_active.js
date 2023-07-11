@@ -604,6 +604,7 @@ var cnames_active = {
   "cotton": "cottonjs.netlify.app",
   "country": "growmies.github.io/countryjs", // noCF? (don´t add this in a new PR)
   "cov19": "mixon00.github.io/cov19-cli",
+  "cow": "cname.vercel-dns.com", // noCF
   "cp": "nestedobjects.github.io/cp",
   "cplayer": "copay.github.io/cPlayer",
   "cppkies": "cppkies-team.github.io/Cppkies",
