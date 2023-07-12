@@ -2827,6 +2827,7 @@ var cnames_active = {
   "stoneyallen": "stoneyallen.github.io",
   "stonk": "anujsharma141.github.io/stonk",
   "storage": "uzitech.github.io/storage.js",
+  "storelocator": "storelocatorjs.github.io",
   "storybook": "storybooks.netlify.com", // noCF
   "storybook-addon-paddings": "storybook-addon-paddings.netlify.app",
   "storybook-addon-playroom": "storybook-addon-playroom.netlify.app",
