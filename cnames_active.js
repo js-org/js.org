@@ -1289,6 +1289,7 @@ var cnames_active = {
   "hooloo": "hooloo.github.io", // noCF? (don´t add this in a new PR)
   "hoshii": "reinhello.github.io/hoshii-docs",
   "hours": "cname.vercel-dns.com", // noCF
+  "hover": "https://hover-studios.github.io/Hover-One/",
   "how-to-mithril": "stephanhoyer.github.io/how-to-mithril",
   "hox": "umijs.github.io/hox",
   "hrishi": "hrishi045.github.io",
