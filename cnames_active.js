@@ -2130,6 +2130,7 @@ var cnames_active = {
   "pamatcher": "pmros.github.io/pamatcher", // noCF? (don´t add this in a new PR)
   "panda": "theaarushgupta.github.io/panda",
   "pangkeyd": "pangkeyd.github.io",
+  "panmeidu": "panmeidu.github.io",
   "pantarei": "pantareijs.github.io/pantarei.js.org",
   "panza": "panza-org.github.io/panza-docs", // noCF
   "papanasi": "witty-plant-07a086e03.1.azurestaticapps.net", // noCF
