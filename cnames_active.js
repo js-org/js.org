@@ -2672,6 +2672,7 @@ var cnames_active = {
   "sidekik": "inf3cti0n95.github.io/sidekik",
   "sidewind": "cname.vercel-dns.com", // noCF
   "sights": "sfxrescue.github.io/sights",
+  "signaldb": "maxnowack.github.io/signaldb",
   "signalz": "hosting.gitbook.io", // noCF
   "silfr": "silfr.github.io/iterativecolor",
   "silkster": "silkster.github.io",
