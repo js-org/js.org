@@ -2581,7 +2581,7 @@ var cnames_active = {
   "sandmine": "spreehertz.github.io/Sandmine.js",
   "sandy": "5ffc2f69-8054-4d5a-91b8-6a787901ed3d.repl.co", // noCF
   "sanohin": "sanohin.github.io",
-  "santiago_Gonzalez" : "santiago-devcol.github.io/My-Portfolio"
+  "Santaigo_Gonzalez" : "santiago-devcol.github.io/My-Portfolio"
   "saso": "huruji.github.io/saso",
   "sass": "medialize.github.io/playground.sass.js", // noCF? (don´t add this in a new PR)
   "satori": "satorijs.github.io",
