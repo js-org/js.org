@@ -244,6 +244,7 @@ var cnames_active = {
   "auth": "cname.vercel-dns.com", // noCF
   "auto-task-doc": "cname.vercel-dns.com", // noCF
   "autodocs": "bguiz.github.io/autodocs", // noCF? (don´t add this in a new PR)
+  "automata": "cname.vercel-dns.com", // noCF
   "automic": "automicjs.github.io",
   "avi": "avinassh.github.io/avi", // noCF? (don´t add this in a new PR)
   "avner": "avnerus.github.io", // noCF? (don´t add this in a new PR)
