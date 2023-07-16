@@ -2306,6 +2306,7 @@ var cnames_active = {
   "qbit": "fudan-mse.github.io/qbit",
   "qbsz": "qbsz.github.io",
   "qs": "kirjs.github.io/qs.js", // noCF? (don´t add this in a new PR)
+  "qiannah": "yaybobbb.github.io/qiannah",
   "quacky": "quacky-bot.github.io",
   "quantlib": "quantlibjs.github.io",
   "quantum": "militia21.github.io/quantum",
