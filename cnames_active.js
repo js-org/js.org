@@ -3027,6 +3027,7 @@ var cnames_active = {
   "ttgprotect": "ttgprotect.github.io",
   "ttt": "lukechu10.github.io/TicTacToe-Minimax",
   "tui-nuxt": "hosting.gitbook.com", // noCF
+  "tulsa": "thatguysam.github.io/tulsa.js",
   "turali": "caglarturali.github.io",
   "turbo": "turbo.github.io",
   "turboprisma": "cname.vercel-dns.com", // noCF
