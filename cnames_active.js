@@ -511,6 +511,7 @@ var cnames_active = {
   "clause": "clausejs.github.io/clausejs",
   "cleaners": "swansontec.github.io/cleaners",
   "clearlyelevated": "clearlyelevated.github.io",
+  "clerc": "clerc.netlify.app",
   "clevercord": "theanidox.github.io/Clevercord",
   "clickforhelp": "clickforhelp.netlify.app",
   "clickhouse": "depyronick.github.io/clickhouse-client",
