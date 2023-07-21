@@ -2991,7 +2991,6 @@ var cnames_active = {
   "tom": "cname.vercel-dns.com", // noCF
   "tom-select": "orchidjs.github.io/tom-select",
   "tony": "vpn-v2ray.github.io/js/",
-  "tonylee": "vpn-v2ray.github.io/js.org/",
   "tooling": "slikts.github.io/tooling",
   "tools-kit": "blackb1rd-development.github.io/tools-kit",
   "toolzar": "toolzar.netlify.app",
