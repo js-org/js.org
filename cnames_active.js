@@ -2160,6 +2160,7 @@ var cnames_active = {
   "pdfutils": "gottox.github.io/node-pdfutils", // noCF? (don´t add this in a new PR)
   "pdp-elements": "go4cas.github.io/pdp_elements", // noCF? (don´t add this in a new PR)
   "pecis": "techpot-studio.github.io/Pecis",
+  "pedrocamposportfolio": "https://pedritohdr.github.io/portfolio"
   "pee": "enbyautumn.github.io/pee.js",
   "peekaboo": "nadavspi.github.io/peekaboo.js",
   "peekfield": "kodie.github.io/peekfield",
