@@ -2994,6 +2994,7 @@ var cnames_active = {
   "tools-kit": "blackb1rd-development.github.io/tools-kit",
   "toolzar": "toolzar.netlify.app",
   "topbot": "resign05.github.io/TobWebsite",
+  "toolkit": "cf3dc0c9-7e61-46e1-ad44-76c862c41b81.id.repl.co",
   "topgg": "topgg-node-sdk-docs.netlify.app",
   "tori": "boostcode.github.io/torijs",
   "torino": "torinojs.github.io", // noCF? (don´t add this in a new PR)
@@ -3029,7 +3030,6 @@ var cnames_active = {
   "ttag": "ttag-org.github.io/ttag",
   "ttgprotect": "ttgprotect.github.io",
   "ttt": "lukechu10.github.io/TicTacToe-Minimax",
-  "toolkit": "cf3dc0c9-7e61-46e1-ad44-76c862c41b81.id.repl.co",
   "tui-nuxt": "hosting.gitbook.com", // noCF
   "tulsa": "thatguysam.github.io/tulsa.js",
   "turali": "caglarturali.github.io",
