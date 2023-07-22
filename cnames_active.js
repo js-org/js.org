@@ -2991,10 +2991,10 @@ var cnames_active = {
   "tom": "cname.vercel-dns.com", // noCF
   "tom-select": "orchidjs.github.io/tom-select",
   "tooling": "slikts.github.io/tooling",
+  "toolkit": "cf3dc0c9-7e61-46e1-ad44-76c862c41b81.id.repl.co",
   "tools-kit": "blackb1rd-development.github.io/tools-kit",
   "toolzar": "toolzar.netlify.app",
   "topbot": "resign05.github.io/TobWebsite",
-  "toolkit": "cf3dc0c9-7e61-46e1-ad44-76c862c41b81.id.repl.co",
   "topgg": "topgg-node-sdk-docs.netlify.app",
   "tori": "boostcode.github.io/torijs",
   "torino": "torinojs.github.io", // noCF? (don´t add this in a new PR)
