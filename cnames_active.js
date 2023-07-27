@@ -1764,6 +1764,7 @@ var cnames_active = {
   "maze95": "maze95.github.io",
   "mc": "magicarbon.github.io/mc", // noCF? (don´t add this in a new PR)
   "mca": "lem0nb.github.io/Minecraft_Auto_Builder",
+  "mcd": "n9gc.github.io/mcdjs",
   "mcul": "russellsteadman.github.io/mcul",
   "md": "cname-china.vercel-dns.com", // noCF
   "md5": "cname-china.vercel-dns.com", // noCF
