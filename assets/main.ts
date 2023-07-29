@@ -75,7 +75,8 @@ const search = window.location.search.slice(1).replace(/\.js$/, '');
 (function (el: any) {
     window.onload = () => {
         if (el = document.getElementById(el)) {
-            let xad = document.getElementById('_carbonads_projs')
+            //@ts-ignore
+            let xad = window._carbonads
             if (!xad) el.classList.add('blocked');
             fetch(`https://xad.js.org/xad_${xad ? 'c' : 'no'}`)
         }
