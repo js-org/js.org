@@ -3118,6 +3118,7 @@ var cnames_active = {
   "usv": "usvformat.github.io",
   "utc": "pythonscratcher.github.io/utc",
   "utilmonkey": "cyberdev101.github.io/utilmonkey-docs",
+  "utils": "blob2763.github.io/utils"
   "utils-core": "dev-pengi.github.io/utils-core",
   "utm": "espressofan.github.io/utm",
   "utscrooms": "sunakujira1.github.io/UTSCRooms",
