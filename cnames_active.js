@@ -2542,6 +2542,7 @@ var cnames_active = {
   "router5": "hosting.gitbook.com",
   "routex": "routex.netlify.com",
   "rovel": "rovelstars.github.io",
+  "rowan-bird": "rowan-bird.github.io"
   "rp": "rpocklin.github.io", // noCF? (don´t add this in a new PR)
   "rplayer": "davland7.github.io/rplayer",
   "rsa": "cname.vercel-dns.com", // noCF
