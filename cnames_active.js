@@ -610,6 +610,7 @@ var cnames_active = {
   "cov19": "mixon00.github.io/cov19-cli",
   "cp": "nestedobjects.github.io/cp",
   "cplayer": "copay.github.io/cPlayer",
+  "cpp": "bugra9.github.io/cpp.js",
   "cppkies": "cppkies-team.github.io/Cppkies",
   "cq-websocket": "momocow.github.io/node-cq-websocket",
   "cqrs": "adrai.github.io/cqrs", // noCF? (don´t add this in a new PR)
