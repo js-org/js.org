@@ -2527,6 +2527,7 @@ var cnames_active = {
   "roalia": "roaliia.github.io",
   "roam": "roam-cn.github.io",
   "robo-wizard": "hipsterbrown.github.io/robo-wizard",
+  "robsd": "robsd.pages.dev",
   "rock": "w3core.github.io/RockJS",
   "rocket": "kevinofneu.github.io/rocket",
   "rocketact": "jdf2e.github.io/rocketact",
