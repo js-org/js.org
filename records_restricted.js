@@ -240,7 +240,7 @@ var cnames_restricted = [
     "uri(s)",
     "url(s)",
     "user(s)",
-    "util(s/ity)",
+    "util(s/ity/ities)",
     "validate",
     "var(s)",
     "virtual",
