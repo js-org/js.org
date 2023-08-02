@@ -3059,6 +3059,7 @@ var cnames_active = {
   "tydel": "fahad19.github.io/tydel", // noCF? (don´t add this in a new PR)
   "typeahead": "corejavascript.github.io/typeahead.js",
   "typed-ui": "pi-cubed.github.io/typed-ui",
+  "typedi": "freshgum-bubbles.github.io/typedi",
   "typeless": "typeless.netlify.com",
   "typescript-play": "agentcooper.github.io/typescript-play",
   "typewriter": "nicesapien.github.io/typewriter.js",
