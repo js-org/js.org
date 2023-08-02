@@ -2637,6 +2637,7 @@ var cnames_active = {
   "selectors": "selectors.github.io/selectors.js",
   "selectre": "alexeyraspopov.github.io/selectre",
   "selectric": "lcdsantos.github.io/jQuery-Selectric", // noCF? (don´t add this in a new PR)
+  "semantic-api": "semantic-api.github.io/docs",
   "semo": "semojs.github.io/semo",
   "senil": "mrfarhad.github.io/senilwebsite",
   "seoul": "seouljs.github.io/seoul.js.org",
