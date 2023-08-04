@@ -2120,6 +2120,7 @@ var cnames_active = {
   "overtone": "biologyscience.github.io/overtone",
   "overtrack": "aidant.github.io/overtrack.js",
   "ovo": "ovojs.github.io/OvO",
+  "oxi": "hosting.gitbook.io", // noCF
   "oz": "openzagreb.github.io",
   "p2psc": "kognise.github.io/p2psc",
   "p3terx": "p3terx.github.io/P3TERX",
