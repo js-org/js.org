@@ -3107,6 +3107,8 @@ var cnames_active = {
   "upset": "upsetjs.github.io",
   "uptime": "intelligo-systems.github.io/uptime.js",
   "urmom": "urmomjs.github.io/urmom.js",
+  "use-bootstrap": "use-bootstrap.github.io",
+  "use-bootstrap-select": "use-bootstrap.github.io/use-bootstrap-select",
   "use-cookie-consent": "use-cookie-consent.github.io/use-cookie-consent-docs",
   "use-github": "ultirequiem.github.io/use-github",
   "usedapp": "crypto-meta.github.io/usedapp.js.org",
