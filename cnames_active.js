@@ -1404,7 +1404,7 @@ var cnames_active = {
   "is-number": "ultirequiem.github.io/is-number",
   "isbot": "omrilotan.github.io/isbot",
   "iscaptive": "marvnet.github.io/iscaptive",
-  "isadb": "isadb.github.io",
+  "isadb": "https://guilhermeesquecirufino.gitbook.io/docs-isadb2/",
   "ishan": "ishanthukral.github.io/ishan.js", // noCF? (don´t add this in a new PR)
   "isic": "isic.github.io/isic-docs",
   "isimon": "nsleep.github.io",
