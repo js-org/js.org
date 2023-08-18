@@ -1012,7 +1012,7 @@ var cnames_active = {
   "fakeyouts": "jack3898.github.io/fakeyou.ts",
   "fallr": "faisalman.github.io/fallr-js",
   "fan": "garychamberlain.github.io/fan",
-  "fanbook-api-sdk": "devopen-club.github.io/api-node-sdk",
+  "fanbook-api-sdk": "fanbook-api-node-sdk.netlify.app",
   "fancy-pants": "fancy-pants.tritarget.org",
   "fantas": "fantastiser.github.io",
   "farfetch": "websitebeaver.github.io/far-fetch",
