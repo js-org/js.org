@@ -1402,9 +1402,9 @@ var cnames_active = {
   "irouter": "alhaqhassan.github.io/irouter.js",
   "is": "arasatasaygin.github.io/is.js", // noCF? (don´t add this in a new PR)
   "is-number": "ultirequiem.github.io/is-number",
+  "isadb": "guilhermeesquecirufino.gitbook.io/docs-isadb2",
   "isbot": "omrilotan.github.io/isbot",
   "iscaptive": "marvnet.github.io/iscaptive",
-  "isadb": "https://guilhermeesquecirufino.gitbook.io/docs-isadb2/",
   "ishan": "ishanthukral.github.io/ishan.js", // noCF? (don´t add this in a new PR)
   "isic": "isic.github.io/isic-docs",
   "isimon": "nsleep.github.io",
