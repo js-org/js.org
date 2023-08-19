@@ -1651,6 +1651,7 @@ var cnames_active = {
   "link-styler": "sheikhoo.github.io/link-styler",
   "linkcord": "793d3e52-aa35-4851-aba6-e0905331fe2a.id.repl.co", // noCF
   "linkify": "hypercontext.github.io/linkifyjs",
+  "li0ard": "li0ard.github.io",
   "lips": "jcubic.github.io/lips",
   "lipsum": "llxlr.github.io/lipsum.js",
   "liquid-ajax-cart": "evgeniymukhamedjanov.github.io/liquid-ajax-cart",
