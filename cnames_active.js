@@ -3319,6 +3319,7 @@ var cnames_active = {
   "wz": "wangzhen-chn.github.io/wz",
   "x": "nikhiljohn10.github.io/x.js",
   "xchart": "cname.vercel-dns.com", // noCF
+  "xcteam": "emrikedev.github.io/xcteam",
   "xen": "hosting.gitbook.com",
   "xendb": "notmarx.github.io/Xen.db",
   "xhemj": "xhemj.now.sh", // noCF
