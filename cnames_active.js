@@ -2046,7 +2046,7 @@ var cnames_active = {
   "notibar": "duyetdev.github.io/notibar.js",
   "notion-cms": "cname.vercel-dns.com", // noCF
   "novasheets": "novasheets.netlify.app",
-  "novalib": "https://novalib.m2dnight.repl.co",
+  "novalib": "novalib.m2dnight.repl.co",
   "now": "leodog896.github.io/jsnow",
   "npkill": "voidcosmos.github.io/npkill",
   "nplayer": "woopen.github.io/nplayer",
