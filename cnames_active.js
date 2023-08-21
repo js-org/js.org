@@ -1655,6 +1655,7 @@ var cnames_active = {
   "lipsum": "llxlr.github.io/lipsum.js",
   "liquid-ajax-cart": "evgeniymukhamedjanov.github.io/liquid-ajax-cart",
   "liquivelte": "liquivelte.github.io/docs",
+  "lisk-did": "aldhosutra.github.io/lisk-did",
   "listenin": "cname.vercel-dns.com", // noCF
   "lister": "jpbulman.github.io/lister",
   "listore": "yieldray.github.io/listore",
