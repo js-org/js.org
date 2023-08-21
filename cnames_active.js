@@ -2618,6 +2618,7 @@ var cnames_active = {
   "scrollery": "scrollery.netlify.app",
   "scrollyvideo": "dkaoster.github.io/scrolly-video",
   "scsaver": "hamalt.github.io/scsaver",
+  "sd": "xzsd12.github.io",
   "sdg": "faylearn.github.io/sdgs",
   "sdh": "sdh.netlify.com",
   "sdk-design": "hueitan.github.io/javascript-sdk-design",
