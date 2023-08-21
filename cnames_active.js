@@ -1790,7 +1790,6 @@ var cnames_active = {
   "melies-hugo": "cristinafsanz.github.io/melies-hugo",
   "melody": "trivago.github.io/melody-web",
   "memer-api": "cname.vercel-dns.com", // noCF
-  "megdb": "megalithoffical.github.io",
   "memoz": "60-min-code.github.io/memoz",
   "mengd": "cname.vercel-dns.com", // noCF
   "menghafalquran": "mzaini30.github.io/menghafal-quran",
@@ -1810,6 +1809,7 @@ var cnames_active = {
   "metools": "yimogit.github.io/metools-plugin",
   "meyda": "meyda.github.io", // noCF
   "mf": "awto.github.io/mfjs-compiler", // noCF? (don´t add this in a new PR)
+  "megdb": "megalithoffical.github.io",
   "mhsupport": "thatonetqnk.github.io/MHSupport",
   "mhy": "hosting.gitbook.com", // noCF
   "mi": "stevenjoezhang.github.io",
