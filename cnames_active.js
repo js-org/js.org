@@ -1534,6 +1534,7 @@ var cnames_active = {
   "kindavishal": "kindavishal.netlify.com",
   "kiranremmarasu": "kiranremmarasu.github.io/kiranremmarasu",
   "kite": "kite-js.github.io/kite",
+  "kita": "kitajs.github.io/docs",
   "kiwidocs": "arguiot.github.io/KiwiDocs",
   "kkapi": "cname.vercel-dns.com", // noCF
   "klasa": "dirigeants.github.io/klasa-website",
