@@ -1,39 +1,39 @@
 /*
- ***** ACTIVE SUBDOMAINS
- * ***********************
- *
- * for the moment the following subdomains are active
- * file a pull request to add your own GitHub Page
- *
- *
- **** README
- * ***********
- *
- * KEY:         The subdomain you request (e.g.: "foo" would give the custom domain "foo.js.org").
- *
- * VALUE:       The regular domain provided by GitHub (e.g.: "foo.github.io" for a User-/Organization Page
- *              or "foo.github.io/bar" for a Project Page).
- *
- * CLOUDFLARE:  JS.ORG uses CloudFlare as its DNS. By default, CloudFlare proxies all requests to your subdomain
- *              to get SSL support (https://foo.js.org) and make use of browser caching with a TTL of 30 min.
- *              But you can opt-out from this and make Cloudflare forward all requests directly to GitHub.
- *              Just add '//noCF' in the line of your requested subdomain to give us a hint.
- *              (all the lines marked with '//noCF?' are from a time when a requester had to explicitly opt-in;
- *              see: https://github.com/js-org/js.org/issues/554)
- *
- * IMPORTANT:   To authorize yourself as the owner of the GitHub Page you must have added a valid CNAME file
- *              (with the requested domain, e.g.: "foo.js.org") to your repository.
- *              The requested subdomain must match either your GitHub username or the name of your project
- *              repository. Exceptions are possible for the sake of clarity (e.g. if your project has the
- *              name "foojs" you can request "foo").
- *              Before you start a request for your personal fork of "react" or "vue" you should read
- *              the section "naming conflicts" in the wiki!
- *
- * NOTICE:      Please follow the format set by everyone else in this file. Entries should use double quotes,
- *              with space between the colon (after the key) and the value and should always be in alphabetical
- *              order. Each line apart from the very last entry should have a comma after it to ensure this file
- *              is valid syntax.
- *
+***** 活动子域
+*************************
+*
+* 目前以下子域处于活动状态
+* 提交拉取请求以添加您自己的 GitHub 页面
+*
+*
+**** 自述文件
+*************
+*
+* KEY：您请求的子域（例如：“foo”将给出自定义域“foo.js.org”）。
+*
+* 值：GitHub 提供的常规域（例如：用户/组织页面的“foo.github.io”）
+* 或项目页面的“foo.github.io/bar”）。
+*
+* CLOUDFLARE：JS.ORG 使用 CloudFlare 作为其 DNS。默认情况下，CloudFlare 代理对您的子域的所有请求
+* 获得 SSL 支持 (https://foo.js.org) 并利用 TTL 为 30 分钟的浏览器缓存。
+* 但您可以选择退出，让 Cloudflare 将所有请求直接转发到 GitHub。
+* 只需在您请求的子域行中添加“//noCF”即可给我们提示。
+*（所有标有“//noCF？”的行均来自请求者必须明确选择加入的时间；
+*参见：https://github.com/js-org/js.org/issues/554)
+*
+* 重要提示：要授权自己作为 GitHub 页面的所有者，您必须添加有效的 CNAME 文件
+*（使用请求的域，例如：“foo.js.org”）到您的存储库。
+* 请求的子域名必须与您的 GitHub 用户名或项目名称匹配
+* 存储库。为了清楚起见，例外情况是可能的（例如，如果您的项目有
+* 名称“foojs”您可以请求“foo”）。
+* 在开始请求您的个人“react”或“vue”分支之前，您应该阅读
+* wiki 中的“命名冲突”部分！
+*
+* 注意：请遵循此文件中其他人设置的格式。条目应使用双引号，
+* 冒号（键后面）和值之间有空格，并且应始终按字母顺序排列
+* 命令。除了最后一个条目之外的每一行后面都应该有一个逗号，以确保该文件
+* 是有效的语法。
+*
  *              BECAUSE OF THE RISK OF ABUSE, I´M NOT ACCEPTING REQUESTS FOR PAGES WITHOUT REASONABLE CONTENT!
  */
 
@@ -1416,7 +1416,7 @@ var cnames_active = {
   "itunes-bridge": "angrykiller.github.io/iTunes-bridge",
   "itzik": "itzik.netlify.app",
   "iwanttocountfromone": "realcyguy.github.io/iwanttocountfromone.js",
-  "ipaper": "i-love-paper.github.io/document"
+  "ipaper": "i-love-paper.github.io/document",
   "j3n5en": "j3n5en.github.io",
   "jackyef": "jackyef.github.io/jackyef",
   "jacob": "jacob-marshall.github.io/jacob",
