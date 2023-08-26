@@ -111,6 +111,7 @@ var cnames_active = {
   "agrawalnaman": "agrawalnaman.github.io",
   "agrawalrohit": "rohit0803.github.io/agrawal.github.io",
   "agros": "agrosjs.github.io",
+  "agrume": "cname.vercel-dns.com", // noCF
   "ahmad": "aruzikulov.github.io/ahmad",
   "ahmeterdgn": "ahmeterdgn.github.io",
   "ahnotification": "ahmadhayyan.github.io/ahnotification.js",
