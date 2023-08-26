@@ -2023,6 +2023,7 @@ var cnames_active = {
   "noobscroll": "arguiot.github.io/NoobScroll",
   "nord": "anandchowdhary.github.io/nord.js",
   "notasdeprogramador": "hugoroca.github.io/notasdeprogramador",
+  "note": "cname.vercel-dns.com", // noCF
   "notebook": "wugenqiang.github.io/NoteBook",
   "noted": "carter-slade.github.io/Noted-", // noCF? (don´t add this in a new PR)
   "notepad": "amitmerchant1990.github.io/notepad",
