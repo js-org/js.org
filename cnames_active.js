@@ -427,7 +427,7 @@ var cnames_active = {
   "cagatay": "cagataycali.github.io",
   "caissa": "agentx-cgn.github.io/caissa",
   "caizhiyuannn": "caizhiyuannn.github.io",
-  "calc": "courageous-bublanina-6857c1.netlify.app",
+  "calcium": "courageous-bublanina-6857c1.netlify.app",
   "calcy": "odevlord.github.io/Calcy", // noCF? (don´t add this in a new PR)
   "calendarios": "helpdev.github.io/Calendarios", // noCF? (don´t add this in a new PR)
   "caliph-api": "caliphdev.github.io/caliph-api",
