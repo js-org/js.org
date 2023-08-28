@@ -2519,7 +2519,7 @@ var cnames_active = {
   "rhm": "gsongsong.github.io/rhm",
   "rickdesantis": "rickdesantis.github.io",
   "ricos": "wix.github.io/ricos",
-  "riffy": "cname.vercel-dns.com", //noCF
+  "riffy": "cname.vercel-dns.com", // noCF
   "riiickyy": "riiickyy.github.io",
   "riklewis": "riklewis.github.io",
   "ringo": "cname.vercel-dns.com", // noCF
