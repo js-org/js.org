@@ -1823,6 +1823,7 @@ var cnames_active = {
   "mics": "download.github.io/mics",
   "middy": "plnt9.github.io/middy",
   "miguelsr": "miguelsr.github.io", // noCF? (don´t add this in a new PR)
+  "miku": "https://cosa-project.github.io/StudyWithMiku-COSA_Ver./",
   "mikado": "nextapps-de.github.io/mikado",
   "milesgitgud": "milesgitgud.github.io/homepage",
   "militia": "militia21.github.io/militia",
