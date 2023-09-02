@@ -2381,7 +2381,7 @@ var cnames_active = {
   "react-controlled-form": "rofrischmann.github.io/react-controlled-form",
   "react-coroutine": "alexeyraspopov.github.io/react-coroutine",
   "react-day-picker": "gpbl.github.io/react-day-picker", // noCF
-  "react-dnd-doc": "cuibenyong.github.io/react-dnd-doc.js.org",
+  "react-dnd-cn": "cuibenyong.github.io/react-dnd-cn.js.org",
   "react-dropzone": "react-dropzone.netlify.com",
   "react-dropzone-uploader": "fortana-co.github.io/react-dropzone-uploader",
   "react-easy-swipe": "leandrowd.github.io/react-easy-swipe", // noCF? (don´t add this in a new PR)
