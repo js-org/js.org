@@ -2052,6 +2052,7 @@ var cnames_active = {
   "notion-cms": "cname.vercel-dns.com", // noCF
   "novasheets": "novasheets.netlify.app",
   "now": "leodog896.github.io/jsnow",
+  "noypi": "noypi.alwaysdata.net",
   "npkill": "voidcosmos.github.io/npkill",
   "nplayer": "woopen.github.io/nplayer",
   "npm-card": "ultirequiem.github.io/create-npm-card",
