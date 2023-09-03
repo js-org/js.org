@@ -437,7 +437,7 @@ var cnames_active = {
   "candyland": "candyland-js.github.io/candyland",
   "cans": "djyde.github.io/cans", // noCF
   "cantara": "cantarajs.github.io/cantara",
-  "canvabase": "https://mezotv.github.io/canvabase",
+  "canvabase": "mezotv.github.io/canvabase",
   "canvacord": "canvacord.netlify.app",
   "canvas": "anshuman-verma.github.io/canvas",
   "canvas-datagrid": "tonygermaneri.github.io/canvas-datagrid",
