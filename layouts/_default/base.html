@@ -50,19 +50,20 @@
     <link rel="preload" as="font" type="font/woff2" crossorigin href="/fnt/source-sans-pro-v14-latin-regular.woff2">
     <link rel="preload" as="font" type="font/woff2" crossorigin href="/fnt/source-sans-pro-v14-latin-600.woff2">
 
+
     {{if and (true) ($main := resources.Get "main.scss") -}}
     {{- $main := $main| toCSS (dict "outputStyle" "compressed") -}}
-    {{(printf "<%s>%s</%s>" "style" ($main.Content | safeCSS) "style") | safeHTML}}
+    {{(printf "<style>%s</style>" ($main.Content | safeCSS)) | safeHTML}}
     {{- end}}
 
     {{if and (.IsHome) ($index := resources.Get "index.scss") -}}
     {{- $index := $index| toCSS (dict "outputStyle" "compressed") -}}
-    {{ (printf "<%s>%s</%s>" "style" ($index.Content | safeCSS) "style") | safeHTML }}
+    {{ (printf "<style>%s</style>" ($index.Content | safeCSS)) | safeHTML }}
     {{- end}}
 
     {{if and (.Params.full) ($xad := resources.Get "xad.scss") -}}
     {{- $xad := $xad| toCSS (dict "outputStyle" "compressed") -}}
-    {{ (printf "<%s>%s</%s>" "style" ($xad.Content | safeCSS) "style") | safeHTML }}
+    {{ (printf "<style>%s</style>" ($xad.Content | safeCSS)) | safeHTML }}
     {{- end}}
 
     {{if and (.Params.full) ($mainTS:= resources.Get "main.ts" ) -}}

@@ -12,5 +12,11 @@ staticDir = "static"
 layoutDir = "layouts"
 publishDir = "docs"
 
+[minify]
+    minifyOutput = true
+
+[minify.tdewolff.html]
+  keepWhitespace = false
+
 [params]
   description= "Dedicated to JavaScript and its awesome community since 2015"
