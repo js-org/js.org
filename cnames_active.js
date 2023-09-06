@@ -2342,6 +2342,7 @@ var cnames_active = {
   "quickuptime": "lebyy.github.io/quickuptimedocs",
   "quicli": "thecodeah.github.io/quicli",
   "quincy": "quincyx.github.io",
+  "quiet": "79w.github.io/quiet-web",
   "quiz-app": "odevlord.github.io/Quiz-App", // noCF? (don´t add this in a new PR)
   "quizizz": "zaida04.github.io/Quizizz.js",
   "quizlet": "redyetidev.github.io/Quizlet.JS",
