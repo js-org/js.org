@@ -1906,6 +1906,7 @@ var cnames_active = {
   "monocle": "cname.vercel-dns.com", // noCF
   "monopay": "alitnk.github.io/monopay",
   "montage": "montagejs.github.io",
+  "montagepc": "abbaouy3.github.io/MON-PORTEFEUILLE/", 
   "moonlightdb": "ff8204bc04-hosting.gitbook.io", // noCF
   "moonlink": "apex-loadbalancer.netlify.app", // noCF
   "moose": "mustpax.github.io/moose",
