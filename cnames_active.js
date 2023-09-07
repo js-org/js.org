@@ -241,9 +241,9 @@ var cnames_active = {
   "atombundles": "lirantal.github.io/atombundles",
   "atomicreact": "atomicreact.github.io/AtomicReact",
   "atx": "aktarytech.github.io/atx",
-  "aunt": "79e.github.io/aunt",
   "audio-stream": "guywhogeek.github.io/audio-stream",
   "aui": "alauda.github.io/alauda-ui",
+  "aunt": "79e.github.io/aunt",
   "autarky": "pranshuchittora.github.io/autarky",
   "auth": "cname.vercel-dns.com", // noCF
   "auto-task-doc": "cname.vercel-dns.com", // noCF
