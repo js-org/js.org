@@ -1269,6 +1269,7 @@ var cnames_active = {
   "heartseekers": "rajington.github.io/heartseekers", // noCF? (don´t add this in a new PR)
   "heax": "coderosh.github.io/heaxjs", // noCF
   "hegel": "jsmonk.github.io/hegel",
+  "helia": "ipfs.github.io/helia",
   "hell": "hell-js.github.io",
   "hello": "hello-js-org.github.io", // noCF? (don´t add this in a new PR)
   "helly": "helly.netlify.app",
