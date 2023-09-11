@@ -2660,6 +2660,7 @@ var cnames_active = {
   "senil": "mrfarhad.github.io/senilwebsite",
   "seoul": "seouljs.github.io/seoul.js.org",
   "sequel": "sequeljs.github.io",
+  "sequelize-cn": "apex-loadbalancer.netlify.app", // noCF
   "sequential": "lorenzoongithub.github.io/sequential",
   "serginator": "serginator.github.io", // noCF? (don´t add this in a new PR)
   "serializer": "haircvt.github.io/serializerjs", // noCF? (don´t add this in a new PR)
@@ -2765,6 +2766,7 @@ var cnames_active = {
   "sociably": "machinat.github.io/sociably",
   "social-likes": "sapegin.github.io/social-likes", // noCF? (don´t add this in a new PR)
   "social-likes-next": "sapegin.github.io/social-likes-next", // noCF? (don´t add this in a new PR)
+  "solace": "solacejs.github.io/solace.js",
   "solder": "mcrocks999.github.io/solder.js",
   "soloalert": "arnav-kr.github.io/soloalert",
   "solome": "solome.github.io",
