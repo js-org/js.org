@@ -1361,7 +1361,7 @@ var cnames_active = {
   "imask": "unmanner.github.io/imaskjs",
   "imbue": "ghosts.github.io/Imbue",
   "imcvampire": "cname.vercel-dns.com", // noCF
-  "imdsamimakhter": "imdsamimakhter.github.io/imdsamimakhter",
+  "imdsamimakhter": "imdsamimakhter.github.io/imdsamimakhter";
   "imeme": "svenmeister.github.io/imeme.js.org",
   "imgops": "dogancelik.github.io/imgops-multi", // noCF
   "iminfinity": "js-org-test.netlify.app",
