@@ -825,7 +825,7 @@ var cnames_active = {
   "docs.light": "hosting.gitbook.com", // noCF
   "docs.modmail": "botstudios.github.io/modmail.js-docs", // noCF
   "docs.mosaic": "hosting.gitbook.io", // noCF
-  "docs.uaparser": "faisalman.github.io/ua-parser-js-docs",
+  "docs.uaparser": "faisalman.github.io/ua-parser-js-docs", // noCF
   "docsify": "docsifyjs.github.io/docsify",
   "docsify-es": "sidval.github.io/docsify-es",
   "docsify-ru": "truepatch.github.io/docsify-ru",
