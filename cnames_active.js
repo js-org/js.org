@@ -501,6 +501,7 @@ var cnames_active = {
   "christo": "christoga.github.io/js-org", // noCF? (don´t add this in a new PR)
   "christopher": "marekkobida.github.io/christopher",
   "chronos": "espinielli.github.io/chronos", // noCF? (don´t add this in a new PR)
+  "chronosis": "jack-weilage.github.io/chronosis",
   "citation": "citation-js.github.io/site",
   "citeapa": "natsuozawa.github.io/citeapa",
   "city": "city.github.io",
@@ -825,6 +826,7 @@ var cnames_active = {
   "docs.light": "hosting.gitbook.com", // noCF
   "docs.modmail": "botstudios.github.io/modmail.js-docs", // noCF
   "docs.mosaic": "hosting.gitbook.io", // noCF
+  "docs.uaparser": "faisalman.github.io/ua-parser-js-docs", // noCF
   "docsify": "docsifyjs.github.io/docsify",
   "docsify-es": "sidval.github.io/docsify-es",
   "docsify-ru": "truepatch.github.io/docsify-ru",
@@ -1620,6 +1622,7 @@ var cnames_active = {
   "lee": "lee981265.github.io",
   "leeks": "ohlookitsderpy.github.io/leeks.js",
   "leet": "leetcodes.github.io",
+  "leet-xt": "binbard.github.io/leet-xt",
   "legendz": "botstudios.github.io/LEGENDZ",
   "lego": "polight.github.io/lego",
   "leipzig": "leipzigjs.github.io", // noCF? (don´t add this in a new PR)
