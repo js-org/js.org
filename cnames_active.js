@@ -1746,6 +1746,7 @@ var cnames_active = {
   "mariateresazamoragomez": "josecarloszamoragomez.github.io/Maria-Teresa-Zamora-G-mez",
   "maridreycupcakes": "danyflores.github.io/MariDrey-CupCakes",
   "marie": "marie-js.github.io/MARIE.js",
+  "marionette": "marionettejs.github.io/marionettejs.com",
   "mark": "henry-luo.github.io/mark",
   "markbox": "markbox.netlify.app",
   "markdown-notepad": "jz222.github.io/markdown-notepad",
