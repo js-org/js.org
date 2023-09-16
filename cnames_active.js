@@ -1915,6 +1915,7 @@ var cnames_active = {
   "monocle": "cname.vercel-dns.com", // noCF
   "monopay": "alitnk.github.io/monopay",
   "montage": "montagejs.github.io",
+  "montagepc": "abbaouy3.github.io/MON-PORTEFEUILLE/",
   "moonlightdb": "ff8204bc04-hosting.gitbook.io", // noCF
   "moonlink": "apex-loadbalancer.netlify.app", // noCF
   "moose": "mustpax.github.io/moose",
@@ -2180,6 +2181,7 @@ var cnames_active = {
   "pathtrace": "kovacsv.github.io/WebGLPathTrace", // noCF? (don´t add this in a new PR)
   "pax": "nathan.github.io/pax",
   "pcl": "cname.vercel-dns.com", // noCF
+  "pcoujda": "abbaouy3.github.io/pcoujda",
   "pdf": "iamcristye.github.io/PDF",
   "pdf-lib": "hopding.github.io/pdf-lib", // noCF
   "pdfium": "cname.vercel-dns.com", // noCF
