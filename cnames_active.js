@@ -822,7 +822,7 @@ var cnames_active = {
   "dls-docs": "shadowplay1.github.io/dls-docs",
   "dmitry": "dmitry-zaets.github.io",
   "dna": "dna-engine.github.io/dna-engine",
-  "doars": "doars.github.io",
+  "doars": "doars.github.io/doars",
   "docile": "russellsteadman.github.io/docile",
   "docs.guildedts": "guildedts.github.io/docs", // noCF
   "docs.light": "hosting.gitbook.com", // noCF
