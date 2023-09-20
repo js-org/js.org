@@ -379,7 +379,7 @@ var cnames_active = {
   "box": "capacitorset.github.io/box-js", // noCF
   "boxed": "lionking27.github.io/boxed",
   "brain": "brainjs.github.io/brain.js.org",
-  "brandnewwick": "alephdfilms.github.io",
+  "brandnewwick": "alephdfilms.github.io/brandnewwick",
   "brandi": "cname.vercel-dns.com", // noCF
   "brandifyjs": "greybax.github.io/brandifyjs",
   "brandonmerritt": "brandonmerritt.github.io", // noCF? (don´t add this in a new PR)
