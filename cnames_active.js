@@ -254,6 +254,7 @@ var cnames_active = {
   "avner": "avnerus.github.io", // noCF? (don´t add this in a new PR)
   "avo": "benjaminbhollon.github.io/avo-js",
   "avstream": "akash-joshi.github.io/avstream.js",
+  "awardify": "cname.vercel-dns.com",
   "awesome-alexa": "dolanmiu.github.io/MMM-awesome-alexa",
   "awesome-javascript": "kungfu321.github.io/awesome-javascript",
   "awesome-nuxt": "ansidev.github.io/awesome-nuxt",
