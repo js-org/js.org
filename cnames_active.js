@@ -3346,6 +3346,7 @@ var cnames_active = {
   "wynncraft": "frawolf.github.io/wynncraft.js",
   "wysc": "coffeebank.github.io/wysc-vue",
   "wysi": "mdbassit.github.io/Wysi",
+  "wq": "wqjs.alwaysdata.net",
   "wz": "wangzhen-chn.github.io/wz",
   "x": "nikhiljohn10.github.io/x.js",
   "xchart": "cname.vercel-dns.com", // noCF
