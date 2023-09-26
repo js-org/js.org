@@ -1053,6 +1053,7 @@ var cnames_active = {
   "filter": "mg98.github.io/filter.js",
   "finance": "financejs.github.io/finance.js",
   "financial": "financialjsorg.netlify.app",
+  "finch": "unshell.github.io/blog",
   "finder": "applait.github.io/finderjs", // noCF? (don´t add this in a new PR)
   "fini": "janovekj.github.io/fini",
   "fire-hydrant": "cchamberlain.github.io/fire-hydrant", // noCF? (don´t add this in a new PR)
@@ -1136,6 +1137,7 @@ var cnames_active = {
   "g-point": "bdvela.github.io/g-point",
   "gaiman": "jcubic.github.io/gaiman",
   "gal": "galmail.github.io", // noCF? (don´t add this in a new PR)
+  "gambler": "unshell.github.io/gambler",
   "game-tracker": "cname.vercel-dns.com", // noCF
   "gamecord": "gamecord.lazyowl.repl.co", // noCF
   "gamedevcontestal": "fromdenisvieira.github.io/gamedevcontestal", // noCF? (don´t add this in a new PR)
