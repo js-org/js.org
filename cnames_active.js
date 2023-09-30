@@ -868,6 +868,7 @@ var cnames_active = {
   "dragonman225": "dragonman225.github.io",
   "draw": "skillzzjesse.github.io/draw",
   "dream": "joeleeofficial.github.io/dream",
+  "dreamcord": "dreamcordjs.github.io/dreamcord",
   "dreygur": "dreygur.github.io",
   "drop": "dt-is-not-available.github.io/drop",
   "drr": "xyligan-gp.github.io/discord-reactions-roles",
