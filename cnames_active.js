@@ -1410,6 +1410,7 @@ var cnames_active = {
   "ipc": "alperr.github.io/ipc",
   "ipe": "ipe.netlify.app",
   "ipe-plugins": "inpageedit.github.io/Plugins",
+  "iptv": "viptv-work.github.io/iptv-raw",
   "ipv4": "licshee.github.io/IPv4-CIDR-Prefix-Merger",
   "ipynb": "jirutka.github.io/ipynb2html", // noCF
   "iq": "cname.vercel-dns.com", // noCF
@@ -3210,6 +3211,7 @@ var cnames_active = {
   "vinimdocarmo": "vinimdocarmo.github.io", // noCF? (don´t add this in a new PR)
   "vinton": "vinton.github.io/website",
   "viperhtml": "viperhtml.github.io",
+  "viptv": "viptv-work.github.io",
   "virtual-clock": "dvdgiessen.github.io/virtual-clock",
   "virtual-keyboard": "virtual-keyboard-javascript.github.io",
   "visual": "idescat.github.io/visual",
