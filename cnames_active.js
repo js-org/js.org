@@ -1196,7 +1196,7 @@ var cnames_active = {
   "gloria": "gloriajs.github.io",
   "glottologist": "arguiot.github.io/Glottologist",
   "glyph": "zyrouge.github.io/glyph.css",
-  "gnatale": "giosooul.github.io/gnatale.github.io"
+  "gnatale": "giosooul.github.io/gnatale.github.io",
   "god": "godow.github.io",
   "goji": "airbnb.github.io/goji-js",
   "gol": "goljs.github.io/GoL",
