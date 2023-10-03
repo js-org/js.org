@@ -403,6 +403,7 @@ var cnames_active = {
   "bt": "mldonkey.github.io/bt",
   "bud": "budjs.netlify.app",
   "bui": "kjantzer.github.io/bui",
+  "builders": "cname.vercel-dns.com", // noCF
   "bullwinkle": "bullwinkle.github.io",
   "bun": "the94air.github.io/bun",
   "bundle": "cname.vercel-dns.com", // noCF
