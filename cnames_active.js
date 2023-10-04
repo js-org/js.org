@@ -103,6 +103,7 @@ var cnames_active = {
   "advancedrpc": "advancedrpc.github.io",
   "aeon": "flazepe.github.io/aeon-web",
   "aerogel": "noeldemartin.github.io/aerogel",
+  "xchillds": "xchillds.github.io"
   "affiliate": "russellsteadman.github.io/affiliate",
   "afilters": "dmytrohoi.github.io/afilters.js",
   "afmsavage": "afmsavage.github.io",
