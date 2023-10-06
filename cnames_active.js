@@ -3369,6 +3369,7 @@ var cnames_active = {
   "xs-dev": "hipsterbrown.github.io/xs-dev",
   "xss": "tennc.github.io/xss",
   "xstate": "davidkpiano.github.io/xstate",
+  "xterminal": "henryhale.github.io/xterminal",
   "xto6": "mohebifar.github.io/xto6", // noCF? (don´t add this in a new PR)
   "xtype": "lucono.github.io/xtypejs", // noCF? (don´t add this in a new PR)
   "y2j": "ultirequiem.github.io/y2j",
