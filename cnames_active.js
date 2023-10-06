@@ -699,6 +699,7 @@ var cnames_active = {
   "date": "matthewmueller.github.io/date", // noCF? (don´t add this in a new PR)
   "dativejs": "dativejs.github.io",
   "davet": "egecelikci.github.io/davet",
+  "davidadrian8ag": "davidadrian8ag.github.io/portfolio",
   "dawn": "dawnelixir.github.io/dawn.js.org",
   "dawood": "mohamedawood.github.io/Dawood",
   "day": "dayjs.github.io/website",
