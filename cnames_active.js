@@ -403,6 +403,7 @@ var cnames_active = {
   "bt": "mldonkey.github.io/bt",
   "bud": "budjs.netlify.app",
   "bui": "kjantzer.github.io/bui",
+  "builders": "cname.vercel-dns.com", // noCF
   "bullwinkle": "bullwinkle.github.io",
   "bun": "the94air.github.io/bun",
   "bundle": "cname.vercel-dns.com", // noCF
@@ -630,7 +631,7 @@ var cnames_active = {
   "crackabottle": "crack-a-bottle.github.io",
   "cracked": "billorcutt.github.io/Cracked",
   "craco": "dilanx.github.io/craco",
-  "craft": "craftjs.netlify.app",
+  "craft": "cname.vercel-dns.com", // noCF
   "crank": "bikeshaving.github.io/crank",
   "crawlx": "wind2sing.github.io/crawlx",
   "crawlyx": "theritikchoure.github.io/crawlyx",
@@ -868,6 +869,7 @@ var cnames_active = {
   "dragonman225": "dragonman225.github.io",
   "draw": "skillzzjesse.github.io/draw",
   "dream": "joeleeofficial.github.io/dream",
+  "dreamcord": "dreamcordjs.github.io/dreamcord",
   "dreygur": "dreygur.github.io",
   "drop": "dt-is-not-available.github.io/drop",
   "drr": "xyligan-gp.github.io/discord-reactions-roles",
@@ -896,6 +898,7 @@ var cnames_active = {
   "dynamotion": "cname.vercel-dns.com", // noCF`
   "dyo": "dyo.github.io/dyo",
   "dyte": "dytejs.github.io",
+  "e-query": "mjkhonline.github.io/e-query",
   "eahmed234": "eahmed234.github.io",
   "ease": "chisel.github.io/ease",
   "easiermongo": "grook8958.github.io/easiermongo-docs",
@@ -1489,6 +1492,7 @@ var cnames_active = {
   "js-labs": "cname.vercel-dns.com", // noCF
   "jscord": "thepoptartcrpr.github.io/jscord",
   "jsdec": "liulihaocai.github.io/JSDec",
+  "jsfe": "jsfe.netlify.app",
   "jslabs": "cname.vercel-dns.com", // noCF
   "jsnippet": "jesseeisen.github.io/snippets", // noCF
   "jsoboro": "jsoboro.github.io",
@@ -1791,6 +1795,7 @@ var cnames_active = {
   "mc": "magicarbon.github.io/mc", // noCF? (don´t add this in a new PR)
   "mca": "lem0nb.github.io/Minecraft_Auto_Builder",
   "mcd": "n9gc.github.io/mcdjs",
+  "mctrl": "cname.vercel-dns.com", // noCF,
   "mcul": "russellsteadman.github.io/mcul",
   "md": "cname-china.vercel-dns.com", // noCF
   "md5": "cname-china.vercel-dns.com", // noCF
@@ -2914,6 +2919,7 @@ var cnames_active = {
   "supernova-tool": "supernova-tool.github.io/supernova-site",
   "surgio": "surgio-documentation.netlify.app", // noCF
   "suroadb": "nicamoq.github.io/SuroADB-Lite",
+  "surti": "cname.vercel-dns.com", // noCF
   "svelkit": "kenoxa.github.io/svelkit",
   "svelte-aplayer": "fengkx.github.io/svelte-aplayer",
   "svelte-formup": "kenoxa.github.io/svelte-formup",
@@ -3338,6 +3344,7 @@ var cnames_active = {
   "worksnake": "worksnake.github.io",
   "wowufoundme": "wowufoundme.github.io",
   "wpwebpack": "oblakstudio.github.io/wpwebpack",
+  "wq": "wqjs.alwaysdata.net",
   "writebar": "alexander-shvets.github.io/writebar",
   "wss": "iguanren.github.io/wss",
   "wstool": "sy-records.github.io/wstool", // noCF
@@ -3362,6 +3369,7 @@ var cnames_active = {
   "xs-dev": "hipsterbrown.github.io/xs-dev",
   "xss": "tennc.github.io/xss",
   "xstate": "davidkpiano.github.io/xstate",
+  "xterminal": "henryhale.github.io/xterminal",
   "xto6": "mohebifar.github.io/xto6", // noCF? (don´t add this in a new PR)
   "xtype": "lucono.github.io/xtypejs", // noCF? (don´t add this in a new PR)
   "y2j": "ultirequiem.github.io/y2j",
