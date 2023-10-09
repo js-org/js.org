@@ -484,6 +484,7 @@ var cnames_active = {
   "cesaralvarez": "cesaralvrz.github.io/cesaralvarez",
   "ceyhun": "ceyhunmelek.github.io/ceyhun",
   "cgoatone": "cgoatone.github.io",
+  "cihatksm": "cihatksm.github.io",
   "chain-able": "fluents.github.io/chain-able-site",
   "chainson": "abcdan.github.io/chainson",
   "chandzhang": "chandzhang.github.io",
