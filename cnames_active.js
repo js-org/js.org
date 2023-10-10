@@ -2255,7 +2255,6 @@ var cnames_active = {
   "planner": "openplannerteam.github.io/planner.js",
   "platz": "fylipp.github.io/platz.js",
   "player": "player.netlify.app",
-  "playground.blu": "maxherrmann.github.io/blu-playground", // noCF
   "pliers": "pliersjs.github.io", // noCF? (don´t add this in a new PR)
   "plotyxd": "plotyxd.github.io",
   "plumier": "plumier.github.io",
