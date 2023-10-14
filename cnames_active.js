@@ -988,6 +988,7 @@ var cnames_active = {
   "es2015-node": "martinheidegger.github.io/es6modules-nodejs", // noCF? (don´t add this in a new PR)
   "es6-module-seed": "blackmirror1980.github.io/es6-module-seed",
   "esbin": "esbin.netlify.app",
+  "esboot": "moonlitusun.github.io/esboot",
   "escape": "licshee.github.io/Escape.js", // noCF? (don´t add this in a new PR)
   "esfx": "esfx.github.io",
   "esg": "cname.vercel-dns.com", // noCF
