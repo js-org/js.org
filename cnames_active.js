@@ -1370,6 +1370,7 @@ var cnames_active = {
   "iiimix": "iiimix.github.io/iiimixjsorg",
   "iio": "iioinc.github.io/iio.js", // noCF? (don´t add this in a new PR)
   "illustrator": "illustratorjs.netlify.app",
+  "img": "spacemiqote.github.io/img",
   "imagecapture": "googlechrome.github.io/imagecapture-polyfill",
   "imagine": "karimayachi.github.io/imagine",
   "imap-mailbox": "vsdparibas.github.io/imap-mailbox-doc",
