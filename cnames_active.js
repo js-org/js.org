@@ -662,6 +662,7 @@ var cnames_active = {
   "curseapp": "mcrocks999.github.io/curseapp.js",
   "custard": "custard-pkg.github.io",
   "custom-captcha": "mcnagynorbi.github.io/custom-captcha",
+  "cutt37": "cutt37.github.io",
   "cville": "cvjs.github.io",
   "cvss": "cvssjs.github.io",
   "cy-rn": "tyrone2333.github.io/cy-react-native-cli",
