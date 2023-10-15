@@ -1370,7 +1370,6 @@ var cnames_active = {
   "iiimix": "iiimix.github.io/iiimixjsorg",
   "iio": "iioinc.github.io/iio.js", // noCF? (don´t add this in a new PR)
   "illustrator": "illustratorjs.netlify.app",
-  "iphw": "spacemiqote.github.io/iphw",
   "imagecapture": "googlechrome.github.io/imagecapture-polyfill",
   "imagine": "karimayachi.github.io/imagine",
   "imap-mailbox": "vsdparibas.github.io/imap-mailbox-doc",
@@ -1415,6 +1414,7 @@ var cnames_active = {
   "ipc": "alperr.github.io/ipc",
   "ipe": "ipe.netlify.app",
   "ipe-plugins": "inpageedit.github.io/Plugins",
+  "iphw": "spacemiqote.github.io/iphw",
   "ipv4": "licshee.github.io/IPv4-CIDR-Prefix-Merger",
   "ipynb": "jirutka.github.io/ipynb2html", // noCF
   "iq": "cname.vercel-dns.com", // noCF
