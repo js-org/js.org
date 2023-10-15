@@ -1414,6 +1414,7 @@ var cnames_active = {
   "ipc": "alperr.github.io/ipc",
   "ipe": "ipe.netlify.app",
   "ipe-plugins": "inpageedit.github.io/Plugins",
+  "iphw": "spacemiqote.github.io/iphw",
   "ipv4": "licshee.github.io/IPv4-CIDR-Prefix-Merger",
   "ipynb": "jirutka.github.io/ipynb2html", // noCF
   "iq": "cname.vercel-dns.com", // noCF
