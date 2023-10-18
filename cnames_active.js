@@ -1733,6 +1733,7 @@ var cnames_active = {
   "lyra": "amansahil.github.io/lyra.js.org",
   "lyz": "lihawhaw.github.io/lyzjs",
   "lzbible": "edwinyosorahardjo.github.io/lzbible",
+  "lykcloud": "f5023159-9ff2-4823-9493-d8eae763f6dd.id.repl.co",
   "m01i0ng": "m01i0ng.github.io",
   "m8bot": "mapreiff.github.io/m8-bot-site",
   "ma124": "ma124.netlify.app",
@@ -3431,8 +3432,7 @@ var cnames_active = {
   "zustand-cn": "cname.vercel-dns.com", // noCF
   "zyh": "zyh-chopper.github.io/zyh",
   "zykj": "cname.vercel-dns.com", // noCF
-  "zyy": "zyyou.github.io/notes"
-  "lykcloud": "f5023159-9ff2-4823-9493-d8eae763f6dd.id.repl.co"
+  "zyy": "zyyou.github.io/notes"  
   /*
    * please don't add your subdomain records down here!
    * insert them in alphabetical order to help reduce merge conflicts.
