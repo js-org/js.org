@@ -1386,7 +1386,6 @@ var cnames_active = {
   "indie": "indie-org.github.io/indie",
   "infinite-tree": "cheton.github.io/infinite-tree",
   "infoooze": "devxprite.github.io/infoooze",
-  "infrpg": "1f584576-4b98-4665-8fd5-dc94fbf8df3f.id.repl.co", // noCF
   "inig": "inig.github.io",
   "initial-wu": "initial-wu.github.io",
   "injectify": "injectify.github.io/docs",
