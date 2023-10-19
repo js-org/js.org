@@ -3431,6 +3431,7 @@ var cnames_active = {
   "zustand-cn": "cname.vercel-dns.com", // noCF
   "zyh": "zyh-chopper.github.io/zyh",
   "zykj": "cname.vercel-dns.com", // noCF
+  "zyx": "zyx.alwaysdata.net",
   "zyy": "zyyou.github.io/notes"
   /*
    * please don't add your subdomain records down here!
