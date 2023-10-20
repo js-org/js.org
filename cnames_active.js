@@ -651,6 +651,7 @@ var cnames_active = {
   "cryptons-api": "agenthackeryt.github.io/cryptons-api",
   "crystaldb": "erikmcm.github.io/CrystalDB",
   "css-variable": "jantimon.github.io/css-variable",
+  "csur": "cname.vercel-dns.com",
   "csv": "adaltas.github.io/node-csv-docs",
   "csv-rex": "willfarrell.github.io/csv-rex",
   "cubing": "the-silver-project.github.io/cubing",
