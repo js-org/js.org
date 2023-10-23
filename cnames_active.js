@@ -1632,6 +1632,7 @@ var cnames_active = {
   "leaf": "5c46aa0430-hosting.gitbook.io", // noCF
   "lean-stack": "lean-stack.github.io", // noCF? (don´t add this in a new PR)
   "leap-year": "ultirequiem.github.io/leap-year",
+  "learn": "in-tech-gration.github.io/LearnJavascript",
   "learnathon": "learn-a-thon.netlify.app",
   "learngitbranching": "pcottle.github.io/learnGitBranching",
   "learningenglish": "guilhermedelemos.github.io/Learning-English",
