@@ -408,7 +408,7 @@ var cnames_active = {
   "bullwinkle": "bullwinkle.github.io",
   "bun": "the94air.github.io/bun",
   "bundle": "cname.vercel-dns.com", // noCF
-  "bunicorn": "cname.vercel-dns.com", // noCF
+  "bunicorn": "ragokan.github.io/bunicorn",
   "bunjil": "bunjil.netlify.app",
   "bunyan-fork": "cchamberlain.github.io/bunyan-fork", // noCF? (don´t add this in a new PR)
   "bunyan-pmx": "cchamberlain.github.io/bunyan-pmx", // noCF? (don´t add this in a new PR)
