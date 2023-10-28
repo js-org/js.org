@@ -1913,6 +1913,7 @@ var cnames_active = {
   "modrinth": "rubybb.github.io/modrinth.js.org",
   "modulajs": "modulajs.netlify.app",
   "modular": "jpmorganchase.github.io/modular",
+  "modulite": "vinzerr.github.io/ModuLite",
   "modv": "2xaa.github.io/modV",
   "moeditor": "moeditor.github.io",
   "mog": "mogland.github.io/mog-docs",
