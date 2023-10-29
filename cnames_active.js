@@ -191,6 +191,7 @@ var cnames_active = {
   "antwar": "antwarjs.github.io/antwar",
   "anukul": "anukul.github.io",
   "aoi": "aoijs.github.io/website",
+  "aoi-tr": "aoijs-tr.github.io/website",
   "aom": "scarych.github.io/aom",
   "aomex": "aomex.github.io",
   "apicluster": "ramsunvtech.github.io/apicluster", // noCF? (don´t add this in a new PR)
