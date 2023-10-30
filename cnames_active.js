@@ -1675,6 +1675,7 @@ var cnames_active = {
   "liljs": "liljs.netlify.app",
   "lim": "lim.netlify.app",
   "limitrr": "eddiejibson.github.io/limitrr",
+  "linemapper": "noobishsvk.github.io/LineMapper",
   "lineup": "lineupjs.github.io",
   "lineup-lite": "lineup-lite.netlify.app",
   "lineupengine": "lineupjs.github.io/lineupengine.js.org",
