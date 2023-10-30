@@ -1766,6 +1766,7 @@ var cnames_active = {
   "manual.bluelightos": "hosting.gitbook.com", // noCF
   "manytimepad": "dipanshkhandelwal.github.io/ManyTimePad",
   "mapa-cultura": "opensas.gitlab.io",
+  "mapmyworld": "mapmyworld.github.io",
   "mappa": "cvalenzuela.github.io/Mappa",
   "mapsrc": "indus.github.io/mapsrc",
   "marble": "jsguy.github.io/marble",
