@@ -2020,6 +2020,7 @@ var cnames_active = {
   "nested-error": "ultirequiem.github.io/nested_error",
   "neteasecloudmusicapi": "w4ctech.github.io/NeteaseCloudMusicApi",
   "neurax-api": "configneurax.netlify.app",
+  "neureact": "kasmirawijayathunga.github.io/neureact"
   "neuro": "neurojs.netlify.app",
   "neutralino": "neutralinojs.github.io",
   "newbyte": "newbytee.github.io/newbyte",
