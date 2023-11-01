@@ -1633,6 +1633,7 @@ var cnames_active = {
   "lbox": "lbox-js.github.io",
   "lcookie": "lf112.github.io/lcookie",
   "ldf": "autplayed.github.io/ldf",
+  "ldo": "o-development.github.io/ldo.js.org",
   "le": "letui.github.io",
   "leaf": "5c46aa0430-hosting.gitbook.io", // noCF
   "lean-stack": "lean-stack.github.io", // noCF? (don´t add this in a new PR)
