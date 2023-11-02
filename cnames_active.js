@@ -1078,6 +1078,7 @@ var cnames_active = {
   "flatpickr": "flatpickr.github.io",
   "flavor": "blackmirror1980.github.io/flavor-js",
   "fld-grd": "mrksbnch.github.io/fld-grd",
+  "fleco": "fleco-development.github.io/website",
   "flexmasonry": "kavanmevada.github.io/flex_masonry", // noCF
   "flightpkg": "cname.vercel-dns.com", // noCF
   "flipnote": "jaames.github.io/flipnote.js",
