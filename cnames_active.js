@@ -1010,6 +1010,7 @@ var cnames_active = {
   "event-storage": "albe.github.io/node-event-storage",
   "eventrix": "rstgroup.github.io/eventrix",
   "eventstore": "adrai.github.io/node-eventstore", // noCF? (don´t add this in a new PR)
+  "everate": "everiary.github.io/everate",
   "everything": "ajays97.github.io/Everything.js",
   "evolutionland": "evolutionlandorg.github.io/js-sdk",
   "evolutions": "anshumanv.github.io/evolutions-webapp",
