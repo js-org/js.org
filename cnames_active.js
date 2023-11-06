@@ -2013,6 +2013,7 @@ var cnames_active = {
   "naveenjujaray": "naveenjujaray.github.io/blog",
   "nbabot": "eliotchignell.github.io/NBABot",
   "ncub8": "ncub8.github.io", // noCF? (don´t add this in a new PR)
+  "nermh": "nermh.github.io"
   "neaps": "neaps.github.io",
   "nearley": "kach.github.io/nearley",
   "nectar": "cname.vercel-dns.com", // noCF
