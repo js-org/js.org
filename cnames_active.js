@@ -1516,6 +1516,7 @@ var cnames_active = {
   "jsp": "hiren2001.github.io/jsp",
   "jstyle": "lxhom.github.io/jstyle", // noCF
   "jsxcad": "jsxcad.github.io",
+  "Juan23": "brandongrados.github.io/Juan23"
   "juancarlosqr": "juancarlosqr.github.io", // noCF? (don´t add this in a new PR)
   "julianflancheros": "julianflancheros.github.io/Prueba",
   "july": "onlyjuly.github.io",
