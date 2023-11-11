@@ -2967,6 +2967,7 @@ var cnames_active = {
   "synergies": "lukasbach.github.io/synergies",
   "synth": "lukehorvat.github.io/synth-mood",
   "syr": "dmikey.github.io/syr",
+  "snail-ide": "snail-ide.github.io",
   "t": "l-js.mydevapp.tfuture.eu.org", // noCF
   "tab": "gdmcc.github.io/tab",
   "tagscript": "cname.vercel-dns.com", // noCF
