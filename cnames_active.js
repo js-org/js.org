@@ -342,6 +342,7 @@ var cnames_active = {
   "birb": "birbjs.github.io/Documentation",
   "biscord": "vinzerr.github.io/biscord-website",
   "biu": "aprilorange.github.io/biu", // noCF? (don´t add this in a new PR)
+  "bkk": "rayriffy.github.io/bkk",
   "blazeb2": "blazeb2.github.io",
   "blego": "mattstypa.github.io/blego.js.org",
   "blessmyrains": "dusterthefirst.github.io/blessmyrains",
