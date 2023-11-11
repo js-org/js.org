@@ -231,9 +231,9 @@ var cnames_active = {
   "assistant": "coolmlgplayer-js.github.io",
   "ast": "kindy.github.io/ast",
   "astral": "espinielli.github.io/astraljs", // noCF? (don´t add this in a new PR)
+  "astro-reactive": "astro-reactive.netlify.app",
   "astro": "withastro.github.io",
   "astrobench": "kupriyanenko.github.io/astrobench", // noCF? (don´t add this in a new PR)
-  "astro-reactive": "astro-reactive.netlify.app",
   "astx-redux-util": "kevinast.github.io/astx-redux-util",
   "asuna": "asunab.github.io",
   "async-af": "asyncaf.github.io/AsyncAF",
