@@ -2793,6 +2793,7 @@ var cnames_active = {
   "smiley": "smiley422.github.io",
   "smoke": "hxgf.github.io/smoke",
   "smoove": "abemedia.github.io/jquery-smoove",
+  "snail-ide": "snail-ide.github.io/",
   "snake": "pakastin.github.io/snake",
   "snapshot": "vishnupsatish.github.io/snapshot",
   "snekfetch": "devsnek.github.io/snekfetch",
@@ -2967,7 +2968,6 @@ var cnames_active = {
   "synergies": "lukasbach.github.io/synergies",
   "synth": "lukehorvat.github.io/synth-mood",
   "syr": "dmikey.github.io/syr",
-  "snail-ide": "snail-ide.github.io",
   "t": "l-js.mydevapp.tfuture.eu.org", // noCF
   "tab": "gdmcc.github.io/tab",
   "tagscript": "cname.vercel-dns.com", // noCF
