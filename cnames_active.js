@@ -968,7 +968,7 @@ var cnames_active = {
   "endpoint-imposter": "lukaszmakuch.github.io/endpoint-imposter",
   "energy": "energychain.github.io/energy",
   "envshh": "sanjib-sen.github.io/envshh",
-  "envy": "envyjs.github.io/os"
+  "envy": "envyjs.github.io/os",
   "epi": "epispot.github.io/EpiJS",
   "epicker": "eling486.github.io/EPicker-docs",
   "eplayer": "132yse.github.io/eplayer",
