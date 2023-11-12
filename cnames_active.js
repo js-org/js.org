@@ -2793,7 +2793,7 @@ var cnames_active = {
   "smiley": "smiley422.github.io",
   "smoke": "hxgf.github.io/smoke",
   "smoove": "abemedia.github.io/jquery-smoove",
-  "snail-ide": "snail-ide.github.io/",
+  "snail-ide": "snail-ide.github.io",
   "snake": "pakastin.github.io/snake",
   "snapshot": "vishnupsatish.github.io/snapshot",
   "snekfetch": "devsnek.github.io/snekfetch",
