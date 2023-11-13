@@ -2592,6 +2592,7 @@ var cnames_active = {
   "roghib": "hosting.gitbook.com",
   "romanager": "imacodr.github.io/romanager",
   "romcal": "romcal.github.io",
+  "rookie": "rookiepeckeachothercode.github.io/RookiableDocCen",
   "room": "atercerosb.github.io/roomHomepage",
   "roosterapp": "roembol2000.github.io/roosterapp-mobile",
   "rose": "discord-rose.github.io/discord-rose",
