@@ -3085,6 +3085,7 @@ var cnames_active = {
   "troy": "troyxun.github.io",
   "trpc": "trpc-node.github.io/trpc.js.org",
   "true-myth": "chriskrycho.github.io/true-myth",
+  "truncate": "remanufacturing.github.io/react-truncate",
   "trung": "thientrung.github.io",
   "try-catch-finally": "c24w.github.io/try-catch-finally.js",
   "trygit": "trygit.netlify.app",
