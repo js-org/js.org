@@ -3438,6 +3438,7 @@ var cnames_active = {
   "zh.mobx": "cname.vercel-dns.com", // noCF
   "zhangnew": "zhangnew.github.io",
   "zhaomenghuan": "zhaomenghuan.github.io",
+  "zhiyuan": "aishaome.github.io",
   "zhd": "zhdmitry.github.io",
   "zignis": "zhike-team.github.io/zignis",
   "zilo": "axorax.github.io/zilo",
