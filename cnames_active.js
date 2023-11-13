@@ -836,6 +836,7 @@ var cnames_active = {
   "dna": "dna-engine.github.io/dna-engine",
   "doars": "doars.github.io/doars",
   "docile": "russellsteadman.github.io/docile",
+  "docs.astro-reactive": "astro-reactive-docs.netlify.app", // noCF
   "docs.guildedts": "guildedts.github.io/docs", // noCF
   "docs.light": "hosting.gitbook.com", // noCF
   "docs.modmail": "botstudios.github.io/modmail.js-docs", // noCF
