@@ -1944,6 +1944,7 @@ var cnames_active = {
   "monaco-unified": "monaco-unified.netlify.app",
   "monaco-yaml": "monaco-yaml.netlify.app",
   "monkberry": "monkberry.github.io",
+  "monline": "kenodh.github.io/Windos15",
   "mono": "mono-js.github.io/mono",
   "monocle": "cname.vercel-dns.com", // noCF
   "monopay": "alitnk.github.io/monopay",
