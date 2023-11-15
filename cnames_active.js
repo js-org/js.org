@@ -3217,6 +3217,7 @@ var cnames_active = {
   "vanilla-swr": "droyson.github.io/vanilla-swr",
   "vansul": "vansul.github.io",
   "vant-react-native": "youngjuning.github.io/vant-react-native",
+  "vanya": "ifedayoprince.github.io/vanyasite",
   "vapory": "vaporyjs.github.io",
   "various": "variousjs.github.io/website",
   "vavilon": "vavilon-js.github.io",
