@@ -2430,6 +2430,7 @@ var cnames_active = {
   "react-component-shell": "ruben-arushanyan.github.io/react-component-shell",
   "react-controlled-form": "rofrischmann.github.io/react-controlled-form",
   "react-coroutine": "alexeyraspopov.github.io/react-coroutine",
+  "react-ck": "abelflopes.github.io/react-ck",
   "react-day-picker": "gpbl.github.io/react-day-picker", // noCF
   "react-dnd-cn": "apex-loadbalancer.netlify.app",
   "react-dropzone": "react-dropzone.netlify.app",
