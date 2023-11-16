@@ -191,6 +191,7 @@ var cnames_active = {
   "antwar": "antwarjs.github.io/antwar",
   "anukul": "anukul.github.io",
   "aoi": "aoijs.github.io/website",
+  "aoitr": "dexaroffical.github.io/aoi.js-tr",
   "aom": "scarych.github.io/aom",
   "aomex": "aomex.github.io",
   "apicluster": "ramsunvtech.github.io/apicluster", // noCF? (don´t add this in a new PR)
@@ -551,6 +552,7 @@ var cnames_active = {
   "cnc": "cncjs.github.io/cncjs.org",
   "cndrew": "codemaster233.github.io",
   "cocy": "krmax44.github.io/cocy",
+  "code-tour": "code-tour.netlify.app",
   "codebooky": "hiteshsubnani0128.github.io/codebooky",
   "codemade": "codemade.github.io", // noCF? (don´t add this in a new PR)
   "codepan": "egoist.github.io/codepan",
@@ -837,6 +839,7 @@ var cnames_active = {
   "dna": "dna-engine.github.io/dna-engine",
   "doars": "doars.github.io/doars",
   "docile": "russellsteadman.github.io/docile",
+  "docs.astro-reactive": "astro-reactive-docs.netlify.app", // noCF
   "docs.guildedts": "guildedts.github.io/docs", // noCF
   "docs.light": "hosting.gitbook.com", // noCF
   "docs.modmail": "botstudios.github.io/modmail.js-docs", // noCF
@@ -971,6 +974,7 @@ var cnames_active = {
   "endpoint-imposter": "lukaszmakuch.github.io/endpoint-imposter",
   "energy": "energychain.github.io/energy",
   "envshh": "sanjib-sen.github.io/envshh",
+  "envy": "envyjs.github.io/os",
   "epi": "epispot.github.io/EpiJS",
   "epicker": "eling486.github.io/EPicker-docs",
   "eplayer": "132yse.github.io/eplayer",
@@ -1040,6 +1044,7 @@ var cnames_active = {
   "fallr": "faisalman.github.io/fallr-js",
   "fan": "garychamberlain.github.io/fan",
   "fanbook-api-sdk": "fanbook-api-node-sdk.netlify.app",
+  "fanbook-mp-sdk": "fanbook-mp-sdk.netlify.app",
   "fancy-pants": "fancy-pants.tritarget.org",
   "fantas": "fantastiser.github.io",
   "farfetch": "websitebeaver.github.io/far-fetch",
@@ -2794,6 +2799,7 @@ var cnames_active = {
   "smiley": "smiley422.github.io",
   "smoke": "hxgf.github.io/smoke",
   "smoove": "abemedia.github.io/jquery-smoove",
+  "snail-ide": "snail-ide.github.io",
   "snake": "pakastin.github.io/snake",
   "snapshot": "vishnupsatish.github.io/snapshot",
   "snekfetch": "devsnek.github.io/snekfetch",
@@ -3083,6 +3089,7 @@ var cnames_active = {
   "troy": "troyxun.github.io",
   "trpc": "trpc-node.github.io/trpc.js.org",
   "true-myth": "chriskrycho.github.io/true-myth",
+  "truncate": "remanufacturing.github.io/react-truncate",
   "trung": "thientrung.github.io",
   "try-catch-finally": "c24w.github.io/try-catch-finally.js",
   "trygit": "trygit.netlify.app",
