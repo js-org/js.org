@@ -2427,6 +2427,7 @@ var cnames_active = {
   "react-character-map": "vpukhanov.github.io/react-character-map",
   "react-chartjs-2": "react-chartjs-2.netlify.app",
   "react-chef": "web-slate.github.io/react-chef",
+  "react-ck": "abelflopes.github.io/react-ck",
   "react-comfort": "ruben-arushanyan.github.io/react-comfort",
   "react-command-palette": "react-command-palette.netlify.app",
   "react-component-shell": "ruben-arushanyan.github.io/react-component-shell",
