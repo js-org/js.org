@@ -2940,6 +2940,7 @@ var cnames_active = {
   "sum": "ultirequiem.github.io/sum",
   "suman": "devsumanmdn.github.io",
   "summer": "minecraftpublisher.github.io/SummerJS",
+  "sunos": "sunos22.github.io",
   "sunsistemo": "sunsistemo.github.io/sunsistemo",
   "supapi": "kacperkwapisz.github.io/supreme-api-rewritten",
   "super-controls": "thebearingedge.github.io/super-controls",
@@ -2975,7 +2976,6 @@ var cnames_active = {
   "synergies": "lukasbach.github.io/synergies",
   "synth": "lukehorvat.github.io/synth-mood",
   "syr": "dmikey.github.io/syr",
-  "sunos": "sunos22.github.io",
   "t": "l-js.mydevapp.tfuture.eu.org", // noCF
   "tab": "gdmcc.github.io/tab",
   "tagscript": "cname.vercel-dns.com", // noCF
