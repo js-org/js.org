@@ -1051,7 +1051,6 @@ var cnames_active = {
   "farfetchd": "achannarasappa.github.io/farfetchd", // noCF? (don´t add this in a new PR)
   "farzad": "wikiweb.github.io/farzad",
   "fasteer": "fasteerjs.github.io",
-  "fasttool": "wangmou-yaa.github.io",
   "faux": "fauxos.github.io",
   "fcanvas": "fcanvas.github.io/docs",
   "fcbosque": "cronopio.github.io/fcbosque", // noCF? (don´t add this in a new PR)
@@ -3309,6 +3308,7 @@ var cnames_active = {
   "wangdabao": "wangdabaoqq.github.io/me",
   "wangdabao-doc": "wangdabaoqq.github.io/documents",
   "wangdabao-map": "wangdabaoqq.github.io/map-transform",
+  "wangmou": "wangmou-yaa.github.io",
   "wanna": "mkermani144.github.io/wanna",
   "warrior": "olistic.github.io/warriorjs",
   "warship": "vflopes.github.io/warship",
