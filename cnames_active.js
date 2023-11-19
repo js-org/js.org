@@ -1102,7 +1102,6 @@ var cnames_active = {
   "fluxoff": "kingscott.github.io/flux-off", // noCF? (don´t add this in a new PR)
   "flvplayer": "zhw2590582.github.io/FlvPlayer",
   "flybook": "rhiokim.github.io/flybook",
-  "flysoft": "minecraftsky.github.io",
   "fmateoc": "fmateoc.github.io",
   "fnbr": "fnbrjs.github.io/docs",
   "foca": "foca-js.github.io/foca",
