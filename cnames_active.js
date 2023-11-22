@@ -3229,6 +3229,7 @@ var cnames_active = {
   "vbuild": "egoist.github.io/vbuild",
   "vcodes": "elitenover.github.io/vCodes-Docs",
   "ve-table": "xiguaxigua.github.io/ve-table",
+  "velite": "zce.github.io/velite",
   "velt": "veltjs.github.io",
   "vendywira": "vendywira.github.io",
   "vento": "oscarotero.github.io/vento",
