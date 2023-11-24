@@ -3219,6 +3219,7 @@ var cnames_active = {
   "vanessa": "vanessa219.github.io/vanessa",
   "vanilla": "haeresis.github.io/vanilla-js-dom",
   "vanilla-picker": "sphinxxxx.github.io/vanilla-picker",
+  "vanillarouter": "vanillarouter.github.io",
   "vanilla-swr": "droyson.github.io/vanilla-swr",
   "vansul": "vansul.github.io",
   "vant-react-native": "youngjuning.github.io/vant-react-native",
