@@ -2562,6 +2562,7 @@ var cnames_active = {
   "retalk": "cname-china.vercel-dns.com", // noCF
   "rete": "retejs.github.io",
   "reto": "awmleer.github.io/reto",
+  "retro-sound": "learosema.github.io/retro-sound",
   "retux": "crimx.github.io/retux",
   "revaluate": "hasharray.github.io/revaluate.js",
   "reviewbuku": "mzaini30.github.io/reviewbuku",
