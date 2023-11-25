@@ -1150,6 +1150,7 @@ var cnames_active = {
   "fusilli": "anthemaker.github.io/Fusilli.js",
   "fy": "fyjs.netlify.app",
   "fyi": "tobihrbr.github.io/fyi",
+  
   "g": "nodebox.github.io/g.js",
   "g-point": "bdvela.github.io/g-point",
   "gaiman": "jcubic.github.io/gaiman",
@@ -1270,6 +1271,7 @@ var cnames_active = {
   "gyps": "huijari.github.io/Gyps",
   "gyre": "wridder.github.io/GyreJS", // noCF? (don´t add this in a new PR)
   "gyx": "yourtion.github.io/gyx.js.org",
+  "glass-alert-box": "noumanqamar450.github.io/glass-alert"
   "h": "makenowjust.github.io/h.js",
   "h3": "h3rald.github.io/h3",
   "h7ml": "h7ml.github.io/web",
@@ -3463,7 +3465,7 @@ var cnames_active = {
   "zyh": "zyh-chopper.github.io/zyh",
   "zykj": "cname.vercel-dns.com", // noCF
   "zyx": "zyx.alwaysdata.net",
-  "zyy": "zyyou.github.io/notes"
+  "zyy": "zyyou.github.io/notes",
   /*
    * please don't add your subdomain records down here!
    * insert them in alphabetical order to help reduce merge conflicts.
