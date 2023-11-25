@@ -1150,6 +1150,7 @@ var cnames_active = {
   "fusilli": "anthemaker.github.io/Fusilli.js",
   "fy": "fyjs.netlify.app",
   "fyi": "tobihrbr.github.io/fyi",
+  "glass-alert-box": "noumanqamar450.github.io/glass-alert/",
   "g": "nodebox.github.io/g.js",
   "g-point": "bdvela.github.io/g-point",
   "gaiman": "jcubic.github.io/gaiman",
