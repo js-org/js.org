@@ -831,6 +831,7 @@ var cnames_active = {
   "djs-tools": "fhgdev.github.io/djs-tools",
   "djsframe": "vypal.github.io/djsframe",
   "djsguide": "hosting.gitbook.com",
+  "djskit": "rtxeon.github.io/djskit"
   "djvu": "russcoder.github.io/djvujs", // noCF
   "djzhao": "djzhao627.github.io",
   "dlite": "hosting.gitbook.com",
