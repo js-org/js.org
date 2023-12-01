@@ -2641,6 +2641,7 @@ var cnames_active = {
   "sahilister": "sahilister.github.io/portfolio",
   "saigon": "saigonjs.github.io",
   "sailesh": "saileshkasaju.github.io/crud-react-redux-mongo",
+  "sakamotokurome": "sakamotokurome.github.io",
   "sakiv": "sakiv.github.io",
   "salvacam": "salvacam.github.io",
   "salvattore": "rnmp.github.io/salvattore",
