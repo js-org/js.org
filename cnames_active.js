@@ -2776,6 +2776,7 @@ var cnames_active = {
   "simplyxp": "simplyxp.netlify.app",
   "simulacra": "daliwali.github.io/simulacra",
   "sina": "sinabakh.github.io/sina",
+  "shrstudio": "shrstudio.github.io",
   "singh": "gxjit.github.io",
   "single-page-web-app": "lukejpreston.github.io/single-page-web-app",
   "single-spa": "single-spa.github.io/single-spa.js.org",
