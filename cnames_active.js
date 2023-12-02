@@ -536,6 +536,7 @@ var cnames_active = {
   "clickhouse": "depyronick.github.io/clickhouse-client",
   "clientworker": "chenyfan.github.io/ClientWorker",
   "clock": "mirmousaviii.github.io/clock",
+  "cloak": "sandwichoriginal.github.io/Cloak/",
   "clockwork": "clockworkdev.github.io/ClockworkWebsite",
   "cluster-eventdispatcher": "chickendevlab.github.io/cluster-eventdispatcher",
   "clusterize": "nexts.github.io/Clusterize.js",
