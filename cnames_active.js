@@ -2636,7 +2636,7 @@ var cnames_active = {
   "s3swa": "s3swa-ict-upgifter.github.io/snow-eater",
   "s4swa": "s4swa.github.io",
   "saaskit": "cname.vercel-dns.com", // noCF
-  "sabirin": "sabirinid.github.io/sabirin",
+  "sabar": "sabirinid.github.io/sabar",
   "sacgencode": "sacgencode.github.io",
   "saeed": "mrsaeeddev.github.io",
   "safe": "hiren2001.github.io/SafeJS",
