@@ -3451,6 +3451,7 @@ var cnames_active = {
   "zen": "tomelam.github.io/zen",
   "zenfuse": "zenfuse.github.io/zenfuse.js",
   "zephyr": "zephyr-dh.github.io/zephyr",
+  "zero": "github.com/seamusic",
   "zero-dependency": "zero-dependency.github.io/zero-dependency",
   "zeroclick": "studiomotio.github.io/zeroclick",
   "zeroframe": "filips123.github.io/ZeroFrameJS",
