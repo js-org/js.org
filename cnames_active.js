@@ -954,6 +954,7 @@ var cnames_active = {
   "emage": "douglasjunior.github.io/emage",
   "email-templates": "niftylettuce.github.io/email-templates",
   "embarrassed-themes": "kbothub.github.io/Embarrassed-Themes",
+  "embedded": "ecmatc53.github.io/docs",
   "embedlam": "wnda.github.io/embedlam",
   "ember": "ember-learn.github.io/ember-js-org",
   "ember-cli-page-object": "san650.github.io/ember-cli-page-object", // noCF? (don´t add this in a new PR)
