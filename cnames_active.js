@@ -581,7 +581,7 @@ var cnames_active = {
   "composedb": "ceramicstudio.github.io/js-composedb",
   "compoundinterest": "nategiraudeau.github.io/compound-interest-calculator",
   "computed": "krmax44.github.io/rollup-plugin-computed",
-  "concurrent-tasks": "hosting.gitbook.com",
+  "concurrent-tasks": "samrith-s.github.io/concurrent-tasks",
   "concursos": "mteyss.github.io/concursos", // noCF? (don´t add this in a new PR)
   "conductor": "hosting.gitbook.com",
   "confetti": "tsparticles.github.io/confetti",
