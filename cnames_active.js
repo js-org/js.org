@@ -434,6 +434,7 @@ var cnames_active = {
   "c1200": "c1200.github.io",
   "cable": "whatgoodisaroad.github.io/cablejs", // noCF? (don´t add this in a new PR)
   "cachi": "eddiejibson.github.io/cachi",
+  "cacophony": "ctoth.github.io/cacophony",
   "caffeine": "ccrraaiigg.github.io/caffeine",
   "cagatay": "cagataycali.github.io",
   "caissa": "agentx-cgn.github.io/caissa",
