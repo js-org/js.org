@@ -2814,6 +2814,7 @@ var cnames_active = {
   "smoke": "hxgf.github.io/smoke",
   "smoove": "abemedia.github.io/jquery-smoove",
   "snail-ide": "snail-ide.github.io",
+  "snailshare": "cname.vercel-dns.com", // noCF
   "snake": "pakastin.github.io/snake",
   "snapshot": "vishnupsatish.github.io/snapshot",
   "snekfetch": "devsnek.github.io/snekfetch",
