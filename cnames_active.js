@@ -1292,6 +1292,7 @@ var cnames_active = {
   "hana": "romantic-kare-c84899.netlify.app",
   "hanan": "hanandito.github.io/teddypicker",
   "hapi-sol": "yonjah.github.io/hapi-sol",
+  "hapin": "ha-pin.github.io",
   "happy": "e24.github.io/happy", // noCF? (don´t add this in a new PR)
   "harry": "harry-yep.github.io",
   "hashchat": "hashchat-js.netlify.app",
@@ -2784,6 +2785,7 @@ var cnames_active = {
   "simplyxp": "simplyxp.netlify.app",
   "simulacra": "daliwali.github.io/simulacra",
   "sina": "sinabakh.github.io/sina",
+  "singapore": "singaporejs.github.io",
   "singh": "gxjit.github.io",
   "single-page-web-app": "lukejpreston.github.io/single-page-web-app",
   "single-spa": "single-spa.github.io/single-spa.js.org",
