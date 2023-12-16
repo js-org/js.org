@@ -2229,7 +2229,7 @@ var cnames_active = {
   "pastebin-alert": "ramadhanamizudin.github.io/pastebin-alert.js", // noCF? (don´t add this in a new PR)
   "pathtrace": "kovacsv.github.io/WebGLPathTrace", // noCF? (don´t add this in a new PR)
   "pax": "nathan.github.io/pax",
-  "pc": "jeffpar.github.io/pcjs",
+  "pc": "jeffpar.github.io/pc",
   "pcl": "cname.vercel-dns.com", // noCF
   "pdf": "iamcristye.github.io/PDF",
   "pdf-lib": "hopding.github.io/pdf-lib", // noCF
