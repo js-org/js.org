@@ -3267,6 +3267,7 @@ var cnames_active = {
   "villain": "btzr-io.github.io/Villain",
   "vinimdocarmo": "vinimdocarmo.github.io", // noCF? (don´t add this in a new PR)
   "vinton": "vinton.github.io/website",
+  "vip": "motoryun.github.io/vip.js",
   "viperhtml": "viperhtml.github.io",
   "virtual-clock": "dvdgiessen.github.io/virtual-clock",
   "virtual-keyboard": "virtual-keyboard-javascript.github.io",
