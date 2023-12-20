@@ -2661,6 +2661,7 @@ var cnames_active = {
   "samply": "yury-shevchenko.github.io/samply",
   "samplyr": "arze1.github.io/samplyr-site",
   "sampoder": "sampoder.github.io",
+  "samuelkhogan": "samuelkhogan.github.io",
   "san": "baidu.github.io/san",
   "san-cli": "ecomfe.github.io/san-cli",
   "sanctuary": "sanctuary-js.github.io/sanctuary-site",
@@ -2799,7 +2800,6 @@ var cnames_active = {
   "skeld": "skeldjs.github.io/SkeldJS",
   "skeptical-coder": "rbpinheiro.github.io/skeptical-coder",
   "sketch": "keiww.github.io/sketch",
-  "skh": "samuelkhogan.github.io"
   "skim": "muratg.github.io/skim",
   "skratch": "websyncs.github.io/skratch",
   "sksamim": "esksamim.github.io/sksamim",
