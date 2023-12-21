@@ -2975,7 +2975,7 @@ var cnames_active = {
   "svelte-lightbox": "cname.vercel-dns.com", // noCF
   "svelte-native-forms": "kevinast.github.io/svelte-native-forms",
   "svelte-workshop": "korzio.github.io/svelte-workshop",
-  "sveltestrap": "bestguy.github.io/sveltestrap",
+  "sveltestrap": "sveltestrap.github.io/sveltestrap",
   "svelteui": "transpiling.github.io/svelte-flat-ui",
   "svg-crowbar": "cy6erskunk.github.io/svg-crowbar",
   "svg-skeleton": "yyued.github.io/SVG-Skeleton",
