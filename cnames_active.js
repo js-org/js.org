@@ -503,6 +503,7 @@ var cnames_active = {
   "chatgpt": "chatgptjs.github.io/chatgpt.js",
   "checkers": "davidpomerenke.github.io/checkers",
   "cheerio": "cheeriojs.github.io/cheerio",
+  "chenchen": "shenyoujun666.github.io"
   "chenkun": "ck123-rgb.github.io/chenkun-js-org",
   "chenyuhu": "chenyuhu.github.io",
   "chernivtsi": "chernivtsijs.github.io",
