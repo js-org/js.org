@@ -660,6 +660,7 @@ var cnames_active = {
   "cryptokey": "rumkin.github.io/crypto-key",
   "cryptons-api": "agenthackeryt.github.io/cryptons-api",
   "crystaldb": "erikmcm.github.io/CrystalDB",
+  "cs": "cuishuang.github.io/aboutme",
   "css-variable": "jantimon.github.io/css-variable",
   "csur": "cname.vercel-dns.com", // noCF
   "csv": "adaltas.github.io/node-csv-docs",
