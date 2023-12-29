@@ -3278,6 +3278,7 @@ var cnames_active = {
   "visualnovel": "selcher.github.io/visualnoveljs", // noCF? (don´t add this in a new PR)
   "vitedge": "vitedge.netlify.app",
   "vitery": "viteryjs.github.io/vitery",
+  "viteshell": "henryhale.github.io/viteshell",
   "vk-x": "vk-x.github.io",
   "vlite": "vlitejs.github.io",
   "vlr": "vlrjs.github.io/website",
