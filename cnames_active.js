@@ -1782,6 +1782,7 @@ var cnames_active = {
   "magnet": "magnetjs.github.io/Magnet", // noCF? (don´t add this in a new PR)
   "mahmoud": "mahmoud-sagharjoughi.github.io/mahmoud",
   "mailbox": "vsdparibas.github.io/mailboxjs-doc",
+  "maid": "maidjs.github.io",
   "majestic": "moityjs.github.io/majestic",
   "maker": "microsoft.github.io/maker.js",
   "makes": "makesjs.github.io",
