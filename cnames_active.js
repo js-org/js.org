@@ -2862,13 +2862,13 @@ var cnames_active = {
   "spectragram": "adrianengine.github.io/jquery-spectragram", // noCF? (don´t add this in a new PR)
   "speedybot": "valgaze.github.io/speedybot",
   "speroxu": "speroxu.github.io",
+  "spicydevs": "spicydevs.github.io",
   "spider": "spider-scraper.netlify.app",
   "spike": "spike.netlify.app",
   "spin": "fgnass.github.io/spin.js", // noCF? (don´t add this in a new PR)
   "spinonsubmit": "thedhanawada.github.io/SpinOnSubmitJS",
   "spirare": "waldenn.github.io/spirare", // noCF? (don´t add this in a new PR)
   "spiritual": "spiritual-js.github.io", // noCF? (don´t add this in a new PR)
-  "spicydevs": "spicydevs.github.io",
   "splayer": "satosouta.github.io/SPlayer",
   "splendid": "splendid-cms.github.io/website",
   "split": "nathancahill.github.io/split",
