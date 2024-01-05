@@ -2863,6 +2863,7 @@ var cnames_active = {
   "spectragram": "adrianengine.github.io/jquery-spectragram", // noCF? (don´t add this in a new PR)
   "speedybot": "valgaze.github.io/speedybot",
   "speroxu": "speroxu.github.io",
+  "spicydevs": "spicydevs.github.io",
   "spider": "spider-scraper.netlify.app",
   "spike": "spike.netlify.app",
   "spin": "fgnass.github.io/spin.js", // noCF? (don´t add this in a new PR)
