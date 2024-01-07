@@ -1821,6 +1821,7 @@ var cnames_active = {
   "mate": "theinternetfolks.github.io/mate",
   "materialish": "jamesplease.github.io/materialish",
   "materialize-bootbox": "iqbalfn.github.io/materialize-bootbox",
+  "mathflow": "henryhale.github.io/mathflow",
   "matrix": "crashmax-dev.github.io/matrix-canvas",
   "matrix-rref-solver": "arisweedler.github.io/matrix-rref-solver",
   "matters2ipfs": "contributionls.github.io/matters2ipfs",
