@@ -3111,6 +3111,7 @@ var cnames_active = {
   "transposer": "francesco-dipi.github.io/transposer",
   "trestle": "whiskeedev.github.io/trestle",
   "treviso": "trevisojs.github.io", // noCF? (don´t add this in a new PR)
+  "threadly": "https://spideyzac.github.io/Threadly",
   "trier": "creimers.github.io/trier",
   "trilogy": "trilogy.netlify.app", // noCF
   "trivia": "gubareve.github.io/triviabot-docs",
