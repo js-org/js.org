@@ -2938,8 +2938,6 @@ var cnames_active = {
   "storage": "uzitech.github.io/storage.js",
   "storelocator": "storelocatorjs.github.io",
   "storybook": "storybooks.netlify.app", // noCF
-  "storybook-addon-paddings": "storybook-addon-paddings.netlify.app",
-  "storybook-addon-playroom": "storybook-addon-playroom.netlify.app",
   "storybooks": "storybooks.github.io",
   "str": "manelet.github.io/str",
   "stratic": "straticjs.github.io",
