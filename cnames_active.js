@@ -3016,6 +3016,7 @@ var cnames_active = {
   "tampered-console": "hosting.gitbook.io", // noCF
   "tanmay": "tan-mayhem.github.io/tanmay",
   "tanok": "brabadu.github.io/tanok",
+  "tanvish":"tanvishgg.github.io/docs",
   "tao": "zzyzxlab.github.io/tao.js",
   "tapi": "sinisimattia.github.io/tapi",
   "tara": "shakyatara.github.io",
