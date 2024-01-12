@@ -795,6 +795,7 @@ var cnames_active = {
   "discord-kr": "discordjs-kr.github.io/website",
   "discord-logs": "androz2091.github.io/discord-logs",
   "discord-messages": "lebyy.github.io/discord-messages",
+  "discord-mini-games": "tanvishgg.github.io/discord-mini-games-docs",
   "discord-moderator": "xyligan-gp.github.io/discord-moderator",
   "discord-music-player": "sushibtw.github.io/discord-music-player",
   "discord-player": "cname.vercel-dns.com", // noCF
@@ -3016,7 +3017,6 @@ var cnames_active = {
   "tampered-console": "hosting.gitbook.io", // noCF
   "tanmay": "tan-mayhem.github.io/tanmay",
   "tanok": "brabadu.github.io/tanok",
-  "tanvish": "tanvishgg.github.io/docs",
   "tao": "zzyzxlab.github.io/tao.js",
   "tapi": "sinisimattia.github.io/tapi",
   "tara": "shakyatara.github.io",
