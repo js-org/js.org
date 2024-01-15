@@ -2184,7 +2184,7 @@ var cnames_active = {
   "orbiton": "orbitonjs.github.io",
   "orga": "orgapp.github.io/orgajs",
   "origami": "origami-cms.github.io/cms",
-  "orpheuslau":"https://github.com/orpheuslau/node-api.git",
+  "orpheuslau": "orpheuslau.github.io/node-api",
   "os-gui": "1j01.github.io/os-gui",
   "osagai": "henriquelimas.github.io/osagai",
   "oscillator": "lukehorvat.github.io/super-oscillator",
