@@ -2098,7 +2098,7 @@ var cnames_active = {
   "nod": "diegohaz.github.io/nod",
   "node": "nodejs.github.io/node.js.org",
   "node-atlas": "haeresis.github.io/NodeAtlas",
-  "node-file-router": "danilqa.github.io/node-file-router",
+  "node-file-router": "cname.vercel-dns.com", // noCF
   "node-slate": "center-key.github.io/node-slate",
   "node-vimeo": "sidisliveyt.github.io/node-vimeo",
   "nodebook": "hosting.gitbook.io",
