@@ -1237,6 +1237,7 @@ var cnames_active = {
   "gost-cli": "minecraftpublisher.github.io/gost-cli",
   "gotanda": "gotandajs.github.io",
   "govind": "emgk.github.io",
+  "gr": "cname.vercel-dns.com", // noCF
   "gram": "gram-js.github.io/docs",
   "gramps": "gramps-graphql.github.io/gramps",
   "graph": "tomas-wrobel.github.io/graph",
