@@ -862,6 +862,7 @@ var cnames_active = {
   "dodec-design": "dodec-design.github.io",
   "dogehq": "dogehq.github.io/dogehq",
   "dogstack": "dogstack.gitbooks.io", // noCF
+  "doja": "cname.vercel-dns.com", // noCF
   "dokdo": "wonderlandpark.github.io/dokdo",
   "dolan": "cname.vercel-dns.com", // noCF
   "dollar": "defims.github.io/dollar",
