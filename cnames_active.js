@@ -1534,6 +1534,7 @@ var cnames_active = {
   "json-e": "json-e.github.io/json-e",
   "json-formatter": "arnav-kr.github.io/json-formatter",
   "json-schema-faker": "json-schema-faker.github.io/website-jsf",
+  "json-to-plain-text": "sumithemmadi.github.io/json-to-plain-text",
   "jsonapi": "ethanresnick.github.io/json-api",
   "jsoning": "khalby786.github.io/jsoning",
   "jsonql": "joel-chu.github.io/jsonql-org",
