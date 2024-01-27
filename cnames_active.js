@@ -2802,7 +2802,7 @@ var cnames_active = {
   "simplyapi": "cname.vercel-dns.com", // noCF
   "simplyd": "simplyd.netlify.app",
   "simplyeco": "xx-mohit-xx.github.io/Simply-eco",
-  "simplyxp": "simplyxp.netlify.app",
+  "simplyxp": "abadima.github.io/simplyxp",
   "simulacra": "daliwali.github.io/simulacra",
   "sina": "sinabakh.github.io/sina",
   "singapore": "singaporejs.github.io",
