@@ -2120,6 +2120,7 @@ var cnames_active = {
   "nord": "anandchowdhary.github.io/nord.js",
   "nostalgist": "arianrhodsandlot.github.io/nostalgist",
   "notasdeprogramador": "hugoroca.github.io/notasdeprogramador",
+  "note": "imimbert.github.io/Note1",
   "notebook": "wugenqiang.github.io/NoteBook",
   "noted": "carter-slade.github.io/Noted-", // noCF? (don´t add this in a new PR)
   "notepad": "amitmerchant1990.github.io/notepad",
