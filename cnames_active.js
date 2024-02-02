@@ -2677,7 +2677,7 @@ var cnames_active = {
   "samply": "yury-shevchenko.github.io/samply",
   "samplyr": "arze1.github.io/samplyr-site",
   "sampoder": "sampoder.github.io",
-  "samsun": "kad1rr.github.io/samsun",
+  "samsun": "kad1rr.github.io/samsun", // noCF
   "san": "baidu.github.io/san",
   "san-cli": "ecomfe.github.io/san-cli",
   "sanctuary": "sanctuary-js.github.io/sanctuary-site",
