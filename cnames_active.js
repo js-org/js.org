@@ -2600,6 +2600,7 @@ var cnames_active = {
   "revurn": "revurn.github.io",
   "rexs": "uellenberg.github.io/REXS",
   "reyes": "michaelbreyes.github.io/reyes",
+  "rgshows": "rishab-creator.github.io/RgShows",
   "rgbstrip": "xrealneon.github.io/RGBStrip",
   "rhm": "gsongsong.github.io/rhm",
   "rickdesantis": "rickdesantis.github.io",
