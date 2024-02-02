@@ -38,6 +38,8 @@
  */
 
 var cnames_active = {
+  "glijs":"sh20raj.github.io/gliJS",
+  "sopplayer":"sh20raj.github.io/Sopplayer",
   "": "js-org.github.io",
   "01mz": "01mz.github.io",
   "100dayz": "deadcoder0904.github.io/100dayz",
