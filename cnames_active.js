@@ -2966,6 +2966,7 @@ var cnames_active = {
   "stylis": "thysultan.github.io/stylis.js",
   "subeditor": "shirtiny.github.io/SubEditor",
   "submodule": "submodule-js.github.io/site",
+  "subatomic": "http://tyeems.me/Subatomic-Homepage/",
   "subplayer": "zhw2590582.github.io/SubPlayer",
   "suchary": "skorotkiewicz.github.io/suchary",
   "sudarshan": "sudarshanraul.github.io",
