@@ -520,6 +520,7 @@ var cnames_active = {
   "chronosis": "jack-weilage.github.io/chronosis",
   "citation": "citation-js.github.io/site",
   "citeapa": "natsuozawa.github.io/citeapa",
+  "circle-ide": "circle-ide.github.io/editor.html"
   "city": "city.github.io",
   "civet": "civet-org.github.io",
   "cjss": "cjss-group.github.io/CJSS",
