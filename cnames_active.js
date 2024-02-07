@@ -731,7 +731,7 @@ var cnames_active = {
   "deep-mandelbrot": "munsocket.github.io/deep-mandelbrot",
   "deepcodes": "deepduggal.github.io/deepcodes",
   "deepintr": "deepintr.github.io",
-  "deepkit-graphql": "cname.vercel-dns.com",  // noCF
+  "deepkit-graphql": "cname.vercel-dns.com", // noCF
   "deepu": "deepu105.github.io",
   "defi": "finom.github.io/defi.js.org",
   "delegacias-fortaleza": "juliosampaio.github.io/delegacias-fortaleza", // noCF? (don´t add this in a new PR)
