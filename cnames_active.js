@@ -3186,6 +3186,7 @@ var cnames_active = {
   "ubereats": "korobaka.github.io/ubereats.js",
   "ubuntu-hideout": "bytecommander.github.io/ubuntu-hideout",
   "udnisap": "udnisap.github.io",
+  "ui": "caracal7.github.io/ui.js",
   "ui-pack": "ui-pack.netlify.app",
   "ulka": "ulkajs.github.io", // noCF
   "ulog": "download.github.io/ulog",
