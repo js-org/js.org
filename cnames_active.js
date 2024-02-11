@@ -449,6 +449,7 @@ var cnames_active = {
   "caliph-api": "caliphdev.github.io/caliph-api",
   "camelcase": "ultirequiem.github.io/camelcase",
   "campfire": "xyzshantaram.github.io/campfire",
+  "campus": "alltobebetter.github.io/sulinjs"
   "candy": "candy02058912.github.io/portfolio",
   "candyland": "candyland-js.github.io/candyland",
   "cans": "djyde.github.io/cans", // noCF
