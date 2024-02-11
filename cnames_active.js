@@ -449,7 +449,6 @@ var cnames_active = {
   "caliph-api": "caliphdev.github.io/caliph-api",
   "camelcase": "ultirequiem.github.io/camelcase",
   "campfire": "xyzshantaram.github.io/campfire",
-  "campus": "alltobebetter.github.io/sulinjs"
   "candy": "candy02058912.github.io/portfolio",
   "candyland": "candyland-js.github.io/candyland",
   "cans": "djyde.github.io/cans", // noCF
@@ -2978,6 +2977,7 @@ var cnames_active = {
   "suggestcord": "suggestcord.github.io/docs",
   "suggester": "suggester.github.io/Documentation",
   "suka": "sukkaw.github.io",
+  "sulin": "alltobebetter.github.io/sulinjs"
   "sulky": "shingle.github.io/sulky", // noCF? (don´t add this in a new PR)
   "sum": "ultirequiem.github.io/sum",
   "suman": "devsumanmdn.github.io",
