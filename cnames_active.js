@@ -3377,6 +3377,7 @@ var cnames_active = {
   "web.quizlet": "redyetidev.github.io/Quizlet.JS-Web", // noCF
   "web230": "paylesworth.github.io/web230",
   "webassembly": "xtuc.github.io/webassemblyjs",
+  "webconnect": "nuzulul.github.io/webConnect.js",
   "webfetch": "c1tizen.github.io/webfetch",
   "webmc": "michaljaz.github.io/webmc",
   "webminer": "web-miner.github.io",
