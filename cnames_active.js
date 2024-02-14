@@ -1405,6 +1405,7 @@ var cnames_active = {
   "iio": "iioinc.github.io/iio.js", // noCF? (don´t add this in a new PR)
   "illustrator": "illustratorjs.netlify.app",
   "imagecapture": "googlechrome.github.io/imagecapture-polyfill",
+  "imagin": "ilrc.github.io/imagin",
   "imagine": "karimayachi.github.io/imagine",
   "imap-mailbox": "vsdparibas.github.io/imap-mailbox-doc",
   "imask": "unmanner.github.io/imaskjs",
@@ -1756,6 +1757,7 @@ var cnames_active = {
   "lps": "mauris.github.io/lps.js.org",
   "lribeiro": "lmribeiro.github.io",
   "ls": "links-js.github.io",
+  "lt": "cname.vercel-dns.com", // noCF
   "lucia": "lucia.netlify.app",
   "luciascript": "luciascript.netlify.app",
   "lucy": "lucy-bot.github.io",
