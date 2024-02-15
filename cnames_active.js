@@ -2717,7 +2717,7 @@ var cnames_active = {
   "scsaver": "hamalt.github.io/scsaver",
   "sdg": "faylearn.github.io/sdgs",
   "sdh": "sdh.netlify.app",
-  "sdjwt": "lukasjhan.github.io/sdjwt",
+  "sdjwt": "https://openwallet-foundation-labs.github.io/sd-jwt-js/",
   "sdk-design": "hueitan.github.io/javascript-sdk-design",
   "searchconfig": "tomchen.github.io/searchconfig",
   "season": "seasonjs.github.io/tools",
