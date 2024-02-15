@@ -3010,6 +3010,7 @@ var cnames_active = {
   "sweetalert": "t4t5.github.io/sweetalert",
   "sweetconfirm": "koddr.github.io/sweetconfirm.js",
   "swipe": "lyfeyaj.github.io/swipe",
+  "swiss": "suisse.onrender.com"
   "switchit": "dongryphon.github.io/switchit",
   "swordcss": "swordcss.netlify.app",
   "swot": "swot-node.netlify.app", // noCF
