@@ -3388,6 +3388,7 @@ var cnames_active = {
   "webpack-config-plugins": "namics.github.io/webpack-config-plugins",
   "webpack-inspect": "alexmost.github.io/webpack-inspect",
   "webpack-stats": "v-webpack.netlify.app",
+  "webrtc": "nuzulul.github.io/awesome-webrtc",
   "websheet": "pierreavn.github.io/websheetjs",
   "wechatpay": "thenorthmemory.github.io/wechatpay.js.org",
   "wechaty": "cdn.chatie.io", // noCF
