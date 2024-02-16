@@ -2703,7 +2703,7 @@ var cnames_active = {
   "scancell": "russellsteadman.github.io/scancell",
   "scene": "daybrush.github.io/scenejs-page",
   "schema": "hosting.gitbook.com",
-  "schema-render": "barrior.github.io/schema-render",
+  "schema-render": "barrior.github.io/schema-render", // noCF
   "schemy": "aeberdinelli.github.io/schemy",
   "scopes": "kelleyvanevert.github.io/scopes",
   "scramb": "jastinxyz.github.io/scramb",
@@ -3010,7 +3010,7 @@ var cnames_active = {
   "sweetalert": "t4t5.github.io/sweetalert",
   "sweetconfirm": "koddr.github.io/sweetconfirm.js",
   "swipe": "lyfeyaj.github.io/swipe",
-  "swiss": "suisse.onrender.com",
+  "swiss": "suisse.onrender.com", // noCF
   "switchit": "dongryphon.github.io/switchit",
   "swordcss": "swordcss.netlify.app",
   "swot": "swot-node.netlify.app", // noCF
