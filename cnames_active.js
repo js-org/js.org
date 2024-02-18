@@ -2363,6 +2363,7 @@ var cnames_active = {
   "pretty-print-json": "center-key.github.io/pretty-print-json",
   "prettylog": "moosecoop.github.io/PrettyLog",
   "pristine": "sha256.github.io/Pristine", // noCF
+  "priyansh": "priyanshorg.github.io", // noCF
   "prodia": "04b1585dc1-hosting.gitbook.io", // noCF
   "producify": "jesobreira.github.io/producify",
   "producthunt-trending": "xiaomingplus.github.io/producthunt-trending",
