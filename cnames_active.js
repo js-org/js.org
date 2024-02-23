@@ -1161,6 +1161,7 @@ var cnames_active = {
   "fugapedia": "fugapediajs.github.io/website",
   "fullscreen": "motyar.github.io/fullscreen",
   "funbook": "egoist.github.io/funbook",
+  "funcs": "funcs-package.github.io/docs",
   "fusilli": "anthemaker.github.io/Fusilli.js",
   "fw": "fjs.alwaysdata.net",
   "fy": "fyjs.netlify.app",
