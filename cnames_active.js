@@ -1136,6 +1136,7 @@ var cnames_active = {
   "foxify": "foxifyjs.github.io/foxify",
   "foxman": "kaola-fed.github.io/foxman",
   "fp": "iotcat.github.io/fp",
+  "funcs": "funcs-package.github.io/docs",
   "fr.single-spa": "single-spa.github.io/fr.single-spa.js.org", // noCF
   "frame-depth": "nwong212.github.io/frame-wizard",
   "framelet": "potatoland4492.github.io/Framelet",
