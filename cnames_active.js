@@ -1077,6 +1077,7 @@ var cnames_active = {
   "fetch-the-parrot": "fetch-the-parrot.netlify.app",
   "fff": "importantimport.github.io/fff",
   "fidel": "fidelxyz.github.io",
+  "fidji32-portfolio": "fidji32.github.io",
   "fikri": "ikrydev.github.io/fikri.js.org",
   "file-extension": "ultirequiem.github.io/file-extension",
   "filebokz": "kodie.github.io/filebokz",
