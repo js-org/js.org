@@ -1852,8 +1852,8 @@ var cnames_active = {
   "mcul": "russellsteadman.github.io/mcul",
   "md": "cname-china.vercel-dns.com", // noCF
   "md5": "cname-china.vercel-dns.com", // noCF
-  "mdc": "galleniz.github.io/mdcdev.js/",
   "mdbf-css": "more-beautiful-div-framework.github.io",
+  "mdcdev": "galleniz.github.io/mdcdev.js/",
   "mde": "lukehorvat.github.io/mde-soundboard",
   "mechan": "dusterthefirst.github.io/mechan.js",
   "medan": "medan-js.github.io", // noCF
