@@ -2613,7 +2613,7 @@ var cnames_active = {
   "rhm": "gsongsong.github.io/rhm",
   "rickdesantis": "rickdesantis.github.io",
   "ricos": "wix.github.io/ricos",
-  "riffy": "cname.vercel-dns.com", // noCF
+  "riffy": "vc-domain-verify=riffy.js.org,01c54b10e34bd08051c3", // noCF? (type: TXT, Name: _vercel)
   "riiickyy": "riiickyy.github.io",
   "riklewis": "riklewis.github.io",
   "rimmel": "hellomenu.github.io/rimmel",
