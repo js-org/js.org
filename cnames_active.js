@@ -2190,6 +2190,7 @@ var cnames_active = {
   "onemsg": "7f4243c7-d171-416a-ad3d-19ba04fe36f5.id.repl.co", // noCF
   "ongaku": "anshuman-verma.github.io/ongaku",
   "onii": "oniijs.github.io/onii",
+  "onlang": "rajatasusual.github.io/on-lang",
   "oox": "lipingruan.github.io/oox",
   "opcommands": "02550ce547-hosting.gitbook.io", // noCF
   "open-next": "serverless-stack.github.io/open-next",
