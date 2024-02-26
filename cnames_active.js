@@ -1806,6 +1806,7 @@ var cnames_active = {
   "manytimepad": "dipanshkhandelwal.github.io/ManyTimePad",
   "mapa-cultura": "opensas.gitlab.io",
   "mapblockly": "mapblockly.github.io",
+  "mapinventor": "mapinventor.github.io",
   "mapmyworld": "mapmyworld.github.io",
   "mappa": "cvalenzuela.github.io/Mappa",
   "mapsrc": "indus.github.io/mapsrc",
