@@ -1161,6 +1161,7 @@ var cnames_active = {
   "fugapedia": "fugapediajs.github.io/website",
   "fullscreen": "motyar.github.io/fullscreen",
   "funbook": "egoist.github.io/funbook",
+  "funcs": "funcs-package.github.io/docs",
   "fusilli": "anthemaker.github.io/Fusilli.js",
   "fw": "fjs.alwaysdata.net",
   "fy": "fyjs.netlify.app",
@@ -1803,6 +1804,7 @@ var cnames_active = {
   "manual.bluelightos": "hosting.gitbook.com", // noCF
   "manytimepad": "dipanshkhandelwal.github.io/ManyTimePad",
   "mapa-cultura": "opensas.gitlab.io",
+  "mapblockly": "mapblockly.github.io",
   "mapinventor": "mapinventor.github.io",
   "mapmyworld": "mapmyworld.github.io",
   "mappa": "cvalenzuela.github.io/Mappa",
@@ -1852,6 +1854,7 @@ var cnames_active = {
   "md": "cname-china.vercel-dns.com", // noCF
   "md5": "cname-china.vercel-dns.com", // noCF
   "mdbf-css": "more-beautiful-div-framework.github.io",
+  "mdcdev": "galleniz.github.io/mdcdev.js",
   "mde": "lukehorvat.github.io/mde-soundboard",
   "mechan": "dusterthefirst.github.io/mechan.js",
   "medan": "medan-js.github.io", // noCF
@@ -2250,6 +2253,7 @@ var cnames_active = {
   "pastate": "birdleescut.github.io/pastate",
   "pastebin-alert": "ramadhanamizudin.github.io/pastebin-alert.js", // noCF? (don´t add this in a new PR)
   "pathtrace": "kovacsv.github.io/WebGLPathTrace", // noCF? (don´t add this in a new PR)
+  "pawnote": "literateink.github.io/Pawnote",
   "pax": "nathan.github.io/pax",
   "payment-crypto": "kiogia.github.io/payment-crypto",
   "pc": "jeffpar.github.io/pc",
