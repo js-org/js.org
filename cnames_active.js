@@ -3390,6 +3390,7 @@ var cnames_active = {
   "web230": "paylesworth.github.io/web230",
   "webassembly": "xtuc.github.io/webassemblyjs",
   "webconnect": "nuzulul.github.io/webConnect.js",
+  "webdev": "pavel-dv.github.io/webdev",
   "webfetch": "c1tizen.github.io/webfetch",
   "webmc": "michaljaz.github.io/webmc",
   "webminer": "web-miner.github.io",
