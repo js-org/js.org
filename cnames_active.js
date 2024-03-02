@@ -3296,7 +3296,7 @@ var cnames_active = {
   "velite": "zce.github.io/velite",
   "velt": "veltjs.github.io",
   "vendywira": "vendywira.github.io",
-  "vento": "oscarotero.github.io/vento",
+  "vento": "ventojs.github.io/vento",
   "venture": "cname.vercel-dns.com", // noCF
   "verifyr": "arze1.github.io/verifyr-site",
   "verse": "druidic.github.io/verse",
