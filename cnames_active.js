@@ -2969,6 +2969,7 @@ var cnames_active = {
   "storybooks": "storybooks.github.io",
   "str": "manelet.github.io/str",
   "stratic": "straticjs.github.io",
+  "stream-regex": "getjerry.github.io/stream-regex",
   "stress": "julindra.github.io/stress.js",
   "structure": "hosting.gitbook.io", // noCF
   "strudel": "strudeljs.netlify.app",
