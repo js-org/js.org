@@ -1364,6 +1364,7 @@ var cnames_active = {
   "hsiaoyi0504": "hsiaoyi0504.github.io",
   "html-webpack-plugin": "jantimon.github.io/html-webpack-plugin-repl",
   "htmljar": "syntacstudio.github.io/html-jar",
+  "htmlor": "htmlor.github.io",
   "htony": "themetony.github.io/hugo-theme-tony",
   "http4ts": "http4ts.github.io/http4ts",
   "httpcord": "httpcord.github.io/httpcord",
