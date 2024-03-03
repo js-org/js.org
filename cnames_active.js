@@ -38,7 +38,7 @@
  */
 
 var cnames_active = {
-  "toowake": "toowake.github.io/toowake",
+  "": "js-org.github.io",
   "01mz": "01mz.github.io",
   "100dayz": "deadcoder0904.github.io/100dayz",
   "101": "7anshuai.github.io/js101", // noCF? (don´t add this in a new PR)
@@ -3132,6 +3132,7 @@ var cnames_active = {
   "toolkit": "cf3dc0c9-7e61-46e1-ad44-76c862c41b81.id.repl.co", // noCF
   "tools-kit": "blackb1rd-development.github.io/tools-kit",
   "toolzar": "toolzar.netlify.app",
+  "toowake": "toowake.github.io/toowake",
   "topbot": "resign05.github.io/TobWebsite",
   "topgg": "topgg-node-sdk-docs.netlify.app",
   "tori": "boostcode.github.io/torijs",
