@@ -1,0 +1,124 @@
+:root {
+    --primary-color: #dd7732;
+    --background-color: #000;
+    --card-color: #1c1c1c;
+    --hover-color: #292929;
+    --text-color: #eee;
+    --border-color: #333;
+}
+
+/* Global Styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: var(--background-color);
+    color: var(--text-color);
+    line-height: 1.6;
+    padding: 20px;
+}
+
+/* Card Container */
+.card-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 30px;
+    padding: 40px;
+    justify-content: center;
+}
+
+/* Card Styling */
+.card {
+    background: linear-gradient(145deg, var(--card-color), var(--hover-color));
+    border: 1px solid var(--border-color);
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.5);
+    transition: all 0.3s ease-in-out;
+    position: relative;
+    overflow: hidden;
+}
+
+.card:before {
+    content: "";
+    position: absolute;
+    top: -50%;
+    left: -50%;
+    width: 200%;
+    height: 200%;
+    background-color: var(--primary-color);
+    transform: rotate(45deg);
+    transition: all 0.5s ease;
+    display: block;
+    opacity: 0;
+    z-index: 0;
+}
+
+.card:hover:before {
+    opacity: 0.1;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.card * {
+    position: relative;
+    z-index: 1;
+}
+
+.card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 15px 25px rgba(0, 0, 0, 0.8);
+}
+
+/* Typography and Content Styling */
+.card h1 {
+    font-size: 1.5rem;
+    color: var(--primary-color);
+    text-align: center;
+    padding: 20px;
+}
+
+.card .image img {
+    width: 100%;
+    display: block;
+    border-bottom: 1px solid var(--border-color);
+}
+
+.card .bio {
+    padding: 15px;
+    font-size: 0.95rem;
+    background-color: rgba(0, 0, 0, 0.3); /* Soft overlay for text readability */
+}
+
+.card .button {
+    text-align: center;
+    padding: 20px;
+}
+
+.card .button a {
+    background-color: var(--primary-color);
+    color: #000;
+    padding: 10px 25px;
+    border-radius: 5px;
+    transition: transform 0.2s, box-shadow 0.2s;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+    text-decoration: none;
+}
+
+.card .button a:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5);
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .card-container {
+        grid-template-columns: 1fr;
+    }
+}
