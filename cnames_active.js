@@ -2870,6 +2870,7 @@ var cnames_active = {
   "soda": "yieldray.github.io/soda",
   "solace": "cname.vercel-dns.com", // noCF
   "solder": "mcrocks999.github.io/solder.js",
+  "solitude": "cname.vercel-dns.com.",
   "soloalert": "arnav-kr.github.io/soloalert",
   "solome": "solome.github.io",
   "solu": "soiu.github.io/solu",
