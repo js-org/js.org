@@ -3148,13 +3148,13 @@ var cnames_active = {
   "trier": "creimers.github.io/trier",
   "trilogy": "trilogy.netlify.app", // noCF
   "trivia": "gubareve.github.io/triviabot-docs",
-  "truly": "apex-loadbalancer.netlify.com", // noCF
   "tropical": "tropicaljs.netlify.app", // noCF
   "troxel": "troxeljs.github.io",
   "troy": "troyxun.github.io",
   "trpc": "trpc-node.github.io/trpc.js.org",
   "true-myth": "chriskrycho.github.io/true-myth",
   "truecaller": "sumithemmadi.github.io/truecallerjs",
+  "truly": "truly-im.netlify.app", // noCF
   "truncate": "remanufacturing.github.io/react-truncate",
   "trung": "thientrung.github.io",
   "try-catch-finally": "c24w.github.io/try-catch-finally.js",
