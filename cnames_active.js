@@ -2369,6 +2369,7 @@ var cnames_active = {
   "praveen": "praveenscience.github.io/praveen.js.org",
   "precision": "jaiko86.github.io/precisionjs-home",
   "presence": "yomorun.github.io/presence.js.org",
+  "preston-code": "preston-riley.github.io/preston-code",
   "preset": "awesome-starter.github.io/website",
   "pretty-print-json": "center-key.github.io/pretty-print-json",
   "prettylog": "moosecoop.github.io/PrettyLog",
