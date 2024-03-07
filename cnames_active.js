@@ -3465,6 +3465,7 @@ var cnames_active = {
   "xhemj": "xhemj.now.sh", // noCF
   "xhy": "xhy.github.io",
   "xi102": "xi102.github.io",
+  "x.gametime": "parking-master.github.io/Gametime.js-X", // noCF
   "xiangqiz": "xiangqiz.github.io/Hello",
   "xiaolan": "mcxiaolan.github.io",
   "xiyueta": "313801120.github.io/xiyueta",
@@ -3475,7 +3476,6 @@ var cnames_active = {
   "xterminal": "henryhale.github.io/xterminal",
   "xto6": "mohebifar.github.io/xto6", // noCF? (don´t add this in a new PR)
   "xtype": "lucono.github.io/xtypejs", // noCF? (don´t add this in a new PR)
-  "x.gametime": "parking-master.github.io/Gametime.js-X", // noCF
   "y2j": "ultirequiem.github.io/y2j",
   "y86": "quietshu.github.io/y86", // noCF? (don´t add this in a new PR)
   "yadl": "yadljs.github.io",
