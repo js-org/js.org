@@ -3458,6 +3458,7 @@ var cnames_active = {
   "wysi": "mdbassit.github.io/Wysi",
   "wz": "wangzhen-chn.github.io/wz",
   "x": "nikhiljohn10.github.io/x.js",
+  "x.gametime": "parking-master.github.io/Gametime.js-X", // noCF
   "xatom": "xatomteam.github.io/docs",
   "xchart": "cname.vercel-dns.com", // noCF
   "xen": "hosting.gitbook.com",
@@ -3465,7 +3466,6 @@ var cnames_active = {
   "xhemj": "xhemj.now.sh", // noCF
   "xhy": "xhy.github.io",
   "xi102": "xi102.github.io",
-  "x.gametime": "parking-master.github.io/Gametime.js-X", // noCF
   "xiangqiz": "xiangqiz.github.io/Hello",
   "xiaolan": "mcxiaolan.github.io",
   "xiyueta": "313801120.github.io/xiyueta",
