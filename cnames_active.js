@@ -336,6 +336,7 @@ var cnames_active = {
   "bfd": "mrsheldon.github.io/bfd.js",
   "bhailang": "dullabs.github.io/bhai-lang",
   "bigbrainbot": "112batman.github.io/bigbrainbot-website",
+  "biggames": "jacobhumston.github.io/biggames.js",
   "bijou": "explosion-scratch.github.io/bijou.js",
   "bilioutils": "catlair.github.io/BiliOutils",
   "bin": "sujalgoel.github.io/impostor-bin",
