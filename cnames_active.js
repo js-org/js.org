@@ -1058,6 +1058,7 @@ var cnames_active = {
   "fairy": "fairymeee.github.io",
   "fakeyou": "leunamcrack.github.io/fakeyou.js",
   "fakeyouts": "jack3898.github.io/fakeyou.ts",
+  "fakeyouapi": "ftk789.github.io/FakeYouAPI.js",
   "fallr": "faisalman.github.io/fallr-js",
   "fan": "garychamberlain.github.io/fan",
   "fanbook-api-sdk": "fanbook-api-node-sdk.netlify.app",
