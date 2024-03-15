@@ -665,6 +665,7 @@ var cnames_active = {
   "cryptons-api": "agenthackeryt.github.io/cryptons-api",
   "crystaldb": "erikmcm.github.io/CrystalDB",
   "crystalpay-sdk": "deadshumz.github.io/crystalpay-sdk",
+  "csjs": "https://extratankz.github.io/csjs
   "css-variable": "jantimon.github.io/css-variable",
   "csur": "cname.vercel-dns.com", // noCF
   "csv": "adaltas.github.io/node-csv-docs",
