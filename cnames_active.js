@@ -2119,6 +2119,7 @@ var cnames_active = {
   "noblox": "noblox.github.io/noblox.js",
   "nod": "diegohaz.github.io/nod",
   "node": "nodejs.github.io/node.js.org",
+  "node-system-stats": "https://joniii11.github.io/node-system-stats"
   "node-atlas": "haeresis.github.io/NodeAtlas",
   "node-file-router": "cname.vercel-dns.com", // noCF
   "node-slate": "center-key.github.io/node-slate",
