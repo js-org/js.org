@@ -2122,6 +2122,7 @@ var cnames_active = {
   "node-atlas": "haeresis.github.io/NodeAtlas",
   "node-file-router": "cname.vercel-dns.com", // noCF
   "node-slate": "center-key.github.io/node-slate",
+  "node-system-stats": "joniii11.github.io/node-system-stats",
   "node-vimeo": "sidisliveyt.github.io/node-vimeo",
   "nodebook": "hosting.gitbook.io",
   "nodegarden": "pakastin.github.io/nodegarden",
