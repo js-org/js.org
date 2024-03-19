@@ -38,6 +38,7 @@
  */
 
 var cnames_active = {
+  "dikshanttatrari": "dikshanttatrari.github.io/portfolio",
   "sunrisepublicschool":"https://dikshanttatrari.github.io/sunrise-public-school",
   "": "js-org.github.io",
   "01mz": "01mz.github.io",
