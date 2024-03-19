@@ -1008,6 +1008,7 @@ var cnames_active = {
   "erik": "erikroyall.github.io", // noCF? (don´t add this in a new PR)
   "erikng": "eriknguyen.github.io",
   "erine": "cyberghxst.github.io/erine-docs",
+  "erlc": "digitalisdizzy.github.io/erlc",
   "ero": "mst-2.github.io/ero",
   "erpeel": "fikriks.github.io/erpeel",
   "error-handler-e2": "miladezzat.github.io/error-handler-e2",
