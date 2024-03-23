@@ -2896,6 +2896,7 @@ var cnames_active = {
   "soundpad": "mcpe-pc.github.io/soundpad.js",
   "sourcemod": "infinixius.github.io/sourcemod.js",
   "southwest": "southwest-js.github.io",
+  "sp-hooks": "cname.vercel-dns.com", // noCF
   "spa": "sucom.github.io/SPA.js",
   "spaas": "pakastin.github.io/spaas",
   "space": "pschroen.github.io/space.js",
