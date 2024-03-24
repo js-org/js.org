@@ -1058,6 +1058,7 @@ var cnames_active = {
   "faceapp": "negarang.github.io/face-app",
   "facepalm": "santiagogil.github.io/facepalm",
   "facreative": "facreative.github.io",
+  "fae5": "fae5de.github.io/js",
   "fairy": "fairymeee.github.io",
   "fakeyou": "leunamcrack.github.io/fakeyou.js",
   "fakeyouapi": "ftk789.github.io/FakeYouAPI.js",
