@@ -2890,6 +2890,7 @@ var cnames_active = {
   "soniq": "fullstack-build.github.io/soniq",
   "sonny": "sonnylazuardi.github.io", // noCF? (don´t add this in a new PR)
   "sop": "kuboschek.github.io/sop",
+  "sora": "sizhongbin.github.io/sora",
   "soukai": "noeldemartin.github.io/soukai",
   "soundcloud-scraper": "soundcloud-scraper.netlify.app",
   "soundpad": "mcpe-pc.github.io/soundpad.js",
