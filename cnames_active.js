@@ -1151,6 +1151,7 @@ var cnames_active = {
   "frameworkless": "mtimofiiv.github.io/frameworkless",
   "frankmosca": "alias.zeit.co", // noCF
   "fre": "132yse.github.io/fre",
+  "freegpt": "ashishagarwal2023.github.io/freegptjs",
   "freemarker": "ijse.github.io/freemarker.js", // noCF? (don´t add this in a new PR)
   "freezer": "pakastin.github.io/freezer",
   "frint": "frintjs.github.io/frint.js.org",
@@ -1161,7 +1162,6 @@ var cnames_active = {
   "fronts": "unadlib.github.io/fronts",
   "frost": "cesiumlabs.github.io/frost",
   "frzr": "pakastin.github.io/frzr",
-  "freegpt": "ashishagarwal2023.github.io/freegptjs",
   "fs-nextra": "bdistin.github.io/fs-nextra",
   "fte": "scintilla4evr.github.io/fte",
   "fucao": "fusuhub.github.io",
