@@ -38,6 +38,7 @@
  */
 
 var cnames_active = {
+  "usman": "0xusmanali.github.io/usman"
   "": "js-org.github.io",
   "01mz": "01mz.github.io",
   "100dayz": "deadcoder0904.github.io/100dayz",
