@@ -72,6 +72,8 @@ var cnames_active = {
   "abcdb": "hosting.gitbook.com", // noCF
   "abdalla": "the94air.github.io/abdalla",
   "abelacostaportafolio": "asaa19971a.github.io/AbelAcostaAcostaPortafolio",
+  "abhinay": "abhinay.github.io",
+  "abhinayrathore": "abhinayrathore.github.io",
   "abhishek": "rpidanny.github.io/personal-collage",
   "abhishekmittal": "abhishek-mittal.github.io/abhishekmittal",
   "abialbon": "abialbon.github.io",
