@@ -2192,6 +2192,7 @@ var cnames_active = {
   "oh-vue-icons": "oh-vue-icons.netlify.app",
   "ohmy": "mountainwang.github.io/ohmy",
   "oib": "andreicek.github.io/oib.js",
+  "okoura": "thebacou.github.io/Site-Okoura",
   "oktay": "98oktay.github.io/oktaybaskus",
   "olaindex": "wangningkai.github.io/OLAINDEX",
   "olivia": "oliviachang29.github.io",
@@ -2550,6 +2551,7 @@ var cnames_active = {
   "recover": "luisvallejomohl.github.io/Recover.js",
   "recycle": "recyclejs.github.io/recycle",
   "redfox": "kavanmevada.github.io",
+  "redgear": "redgear-studio.github.io/RedGear-Site",
   "rediagram": "kamiazya.github.io/rediagram",
   "redis": "noderedis.github.io/node_redis", // noCF? (don´t add this in a new PR)
   "redline": "abduvokhid.github.io/redline",
