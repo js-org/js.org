@@ -766,6 +766,7 @@ var cnames_active = {
   "dgs-docs": "shadowplay1.github.io/discord-giveaways-super",
   "dhimasanb": "dhimasanb.github.io",
   "dhruvdutt": "dhruvdutt.github.io",
+  "diabolo": "cname.vercel-dns.com", // noCF
   "diamond": "diamondpkg.github.io/website",
   "dice": "dicediscord.netlify.app",
   "dicey": "basicer.github.io/dicey",
@@ -1151,6 +1152,7 @@ var cnames_active = {
   "frameworkless": "mtimofiiv.github.io/frameworkless",
   "frankmosca": "alias.zeit.co", // noCF
   "fre": "132yse.github.io/fre",
+  "freegpt": "ashishagarwal2023.github.io/freegpt.js.org",
   "freemarker": "ijse.github.io/freemarker.js", // noCF? (don´t add this in a new PR)
   "freezer": "pakastin.github.io/freezer",
   "frint": "frintjs.github.io/frint.js.org",
@@ -2544,7 +2546,7 @@ var cnames_active = {
   "reatom": "artalar.github.io/reatom",
   "rebatov": "rebatov.github.io",
   "rebem": "rebem.github.io", // noCF? (don´t add this in a new PR)
-  "rebornxp": "rebornxp.netlify.app",
+  "rebornxp": "rebornxp.bubbl.news",
   "reciple": "cname.vercel-dns.com", // noCF
   "recover": "luisvallejomohl.github.io/Recover.js",
   "recycle": "recyclejs.github.io/recycle",
@@ -2851,6 +2853,7 @@ var cnames_active = {
   "sksamim": "esksamim.github.io/sksamim",
   "skyle": "skylejs.github.io/skyle",
   "skyscript": "cname.vercel-dns.com", // noCF
+  "skyware": "skyware-js.github.io/web",
   "slang": "ramadis.github.io/slang", // noCF? (don´t add this in a new PR)
   "slash-create": "snazzah.github.io/slash-create-website",
   "slate": "iamshouvikmitra.github.io/slate",
