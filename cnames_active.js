@@ -3392,6 +3392,7 @@ var cnames_active = {
   "wangdabao-doc": "wangdabaoqq.github.io/documents",
   "wangdabao-map": "wangdabaoqq.github.io/map-transform",
   "wanna": "mkermani144.github.io/wanna",
+  "warlock": "warlockjs.github.io/documentation",
   "warrior": "olistic.github.io/warriorjs",
   "warship": "vflopes.github.io/warship",
   "waseel": "waseeld.github.io/waseeld",
