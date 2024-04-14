@@ -2554,6 +2554,7 @@ var cnames_active = {
   "rediagram": "kamiazya.github.io/rediagram",
   "redis": "noderedis.github.io/node_redis", // noCF? (don´t add this in a new PR)
   "redline": "abduvokhid.github.io/redline",
+  "redgear": "redgear-studio.github.io/RedGear-Site",
   "redom": "redom.github.io/redom-docs",
   "reduce": "reducejs.github.io", // noCF? (don´t add this in a new PR)
   "redux": "redux-docs.netlify.app", // noCF
