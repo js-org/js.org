@@ -1477,6 +1477,7 @@ var cnames_active = {
   "isbot": "omrilotan.github.io/isbot",
   "iscaptive": "marvnet.github.io/iscaptive",
   "ishan": "ishanthukral.github.io/ishan.js", // noCF? (don´t add this in a new PR)
+  "ishh":"ishh-xd.github.io/ishh.js-docs",
   "isic": "isic.github.io/isic-docs",
   "isimon": "nsleep.github.io",
   "islisp": "ta2gch.github.io/islisp.js.org",
