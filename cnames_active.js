@@ -3230,6 +3230,7 @@ var cnames_active = {
   "ultcombo": "ultcombo.github.io",
   "ulti": "ultirequiem.github.io",
   "ultimatemedia": "ultimatemediaorg.github.io",
+  "ultraviolet": "blobthekat.github.io/ultraviolet",
   "ultrax": "karimx32.github.io/UltraX-Package",
   "umair": "mumairofficial.github.io",
   "umentor": "umentor.github.io/umentor",
