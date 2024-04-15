@@ -3320,6 +3320,7 @@ var cnames_active = {
   "verifyr": "arze1.github.io/verifyr-site",
   "verse": "druidic.github.io/verse",
   "vesselize": "vesselize.github.io/docs",
+  "vega": "cname.vercel-dns.com", // noCF
   "vest": "vestjs.netlify.app",
   "veza": "kyranet.github.io/veza",
   "vfm": "meshesha.github.io/VisualFormMaker.github.io",
