@@ -3312,6 +3312,7 @@ var cnames_active = {
   "vbuild": "egoist.github.io/vbuild",
   "vcodes": "elitenover.github.io/vCodes-Docs",
   "ve-table": "xiguaxigua.github.io/ve-table",
+  "vega": "cname.vercel-dns.com", // noCF
   "velite": "zce.github.io/velite",
   "velt": "veltjs.github.io",
   "vendywira": "vendywira.github.io",
@@ -3320,7 +3321,6 @@ var cnames_active = {
   "verifyr": "arze1.github.io/verifyr-site",
   "verse": "druidic.github.io/verse",
   "vesselize": "vesselize.github.io/docs",
-  "vega": "cname.vercel-dns.com", // noCF
   "vest": "vestjs.netlify.app",
   "veza": "kyranet.github.io/veza",
   "vfm": "meshesha.github.io/VisualFormMaker.github.io",
