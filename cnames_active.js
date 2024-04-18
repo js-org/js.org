@@ -3263,6 +3263,7 @@ var cnames_active = {
   "use-bootstrap": "use-bootstrap.github.io",
   "use-bootstrap-select": "use-bootstrap.github.io/use-bootstrap-select",
   "use-bootstrap-tag": "use-bootstrap.github.io/use-bootstrap-tag",
+  "use-bootstrap-toaster": "use-bootstrap.github.io/use-bootstrap-toaster",
   "use-cookie-consent": "use-cookie-consent.github.io/use-cookie-consent-docs",
   "use-github": "ultirequiem.github.io/use-github",
   "usedapp": "crypto-meta.github.io/usedapp.js.org",
