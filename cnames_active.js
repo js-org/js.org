@@ -453,6 +453,7 @@ var cnames_active = {
   "candyland": "candyland-js.github.io/candyland",
   "cans": "djyde.github.io/cans", // noCF
   "cantara": "cantarajs.github.io/cantara",
+  "caymankun": "caymankun.f5.si",
   "canvabase": "mezotv.github.io/canvabase",
   "canvacord": "canvacord.netlify.app",
   "canvas": "anshuman-verma.github.io/canvas",
