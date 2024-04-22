@@ -919,6 +919,7 @@ var cnames_active = {
   "dva-plus": "anyesu.github.io/dva-plus",
   "dvan": "dvan.netlify.app",
   "dvd": "cdaringe.github.io/dvd-corner-bounce",
+  "dylanjtholen": "dylanjtholen.github.io"
   "dynaflo": "trevorhanus.github.io/dynaflo",
   "dynamic-record": "na-west1.surge.sh",
   "dynamicsnode": "crisfervil.github.io/DynamicsNode",
