@@ -4,16 +4,6 @@
 [![Activity](https://img.shields.io/github/commit-activity/m/js-org/js.org?color=FFE70B&style=flat-square)](https://github.com/js-org/js.org/pulse/monthly)
 [![Donate](https://img.shields.io/badge/Donate-for_registrar_fees-1F87FF.svg?style=flat-square&logo=open-collective&logoColor=fff)](https://opencollective.com/js-org)
 
-## Notice
-
-***Due to the increased number of requests for JS.ORG subdomains, with many having questionable relevancy to the JavaScript community and ecosystem, we've decided that going forward JS.ORG will be focusing on accepting subdomain requests from projects with a clear relation to the JavaScript community.***
-
-***As some examples, personal pages, blogs, Discord bot pages and basic tutorials for unrelated libraries will no longer be accepted. Projects such as NPM packages, libraries, tools that have a clear and direct relation to JavaScript, will be accepted when requesting a JS.ORG subdomain.***
-
-*This decision does not affect subdomains that have already been granted.*
-
-If your project does not meet the criteria of JS.ORG you should have a look at the list of [similar services](https://github.com/js-org/js.org/wiki/Similar-Services).
-
 ---
 
 ## GitHub Pages
@@ -35,6 +25,25 @@ Add a file named `CNAME` to your repo (in the `gh-pages` branch for project page
 ### Step 4
 
 To finish the procedure, make a pull request in this GitHub repository that adds your subdomain to the [subdomains list](https://github.com/js-org/js.org/blob/master/cnames_active.js) of existing JS.ORG domains. Your new URL should go live within 24 hours (keep an eye on your pull request in case of a naming conflict or if there are requested changes).
+
+---
+
+## Content Rules
+
+### No-Content Rules
+**Websites must be *directly* related to the JavaScript ecosystem/community (such a NPM packages / JS tools)**
+- No placeholder pages. Websites must contain substantive content relevant to their purpose.
+- No automatic redirects away from the **js.org** domain. Redirects must require user interaction.
+- No unrelated content. Websites must stay focused on their intended topic or purpose.
+- No personal pages/portfolios
+
+### No-Hate Rules
+- No discrimination against any member of the community based on race, ethnicity, religion, gender, sexual orientation, disability, or **any** other characteristic.
+- No content promoting hate speech, violence, or discrimination of any kind.
+- No harassment, bullying, or intimidation of individuals or groups within the community.
+- No tolerance for content that creates a hostile environment or promotes divisiveness.
+
+Remember, maintainers can reject or remove *any* site at *any* time.
 
 ---
 
