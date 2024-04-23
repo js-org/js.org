@@ -1372,6 +1372,7 @@ var cnames_active = {
   "hrtable": "uyouthe.github.io/hrtable",
   "hscroll-slider": "evgeniymukhamedjanov.github.io/hscroll-slider",
   "hsiaoyi0504": "hsiaoyi0504.github.io",
+  "ht": "paul-browne.github.io/html-in-javascript",
   "html-webpack-plugin": "jantimon.github.io/html-webpack-plugin-repl",
   "htmljar": "syntacstudio.github.io/html-jar",
   "htony": "themetony.github.io/hugo-theme-tony",
