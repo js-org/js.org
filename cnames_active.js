@@ -2233,6 +2233,7 @@ var cnames_active = {
   "oxi": "cname.vercel-dns.com", // noCF
   "oz": "openzagreb.github.io",
   "p2psc": "kognise.github.io/p2psc",
+  "p32929": "p32929.github.io",
   "p3terx": "p3terx.github.io/P3TERX",
   "p7e4": "p7e4.github.io",
   "packit": "pouya-eghbali.github.io/packit",
