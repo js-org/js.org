@@ -2152,7 +2152,7 @@ var cnames_active = {
   "novasheets": "novasheets.netlify.app",
   "now": "leodog896.github.io/jsnow",
   "noypi": "noypi.alwaysdata.net",
-  "npkill": "voidcosmos.github.io/npkill",
+  "npkill": "voidcosmos.github.io/npkill-web",
   "nplayer": "woopen.github.io/nplayer",
   "npm-card": "ultirequiem.github.io/create-npm-card",
   "npmdocs": "cname.vercel-dns.com", // noCF
