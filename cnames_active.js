@@ -1052,6 +1052,7 @@ var cnames_active = {
   "expressdynamichelpers": "marvnet.github.io/express-dynamic-helpers-patch",
   "exprtk": "mmomtchev.github.io/exprtk.js",
   "extenso": "theuves.github.io/extenso.js.org",
+  "extension": "cezaraugusto.github.io/extension.js.org",
   "extraction": "rse.github.io/extraction", // noCF? (don´t add this in a new PR)
   "eye": "arguiot.github.io/EyeJS",
   "f1": "marinofranz.github.io/f1.ts",
