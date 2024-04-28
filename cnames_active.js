@@ -1453,7 +1453,7 @@ var cnames_active = {
   "instaiva": "7orp3do.github.io/Instaiva",
   "instant": "instant.github.io",
   "integreat": "hosting.gitbook.com",
-  "integro: "jpsilva.github.io/integro",
+  "integro": "jpsilva.github.io/integro",
   "intelligo": "intelligo.netlify.app",
   "internetmarke": "schaechinger.github.io/internetmarke",
   "interview": "fengzilong.github.io/interview-101",
