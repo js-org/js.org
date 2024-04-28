@@ -432,6 +432,7 @@ var cnames_active = {
   "bynote": "bynotes.github.io",
   "byteasier": "kagurain.github.io/ByteasierIndex",
   "bytemd": "bytemd.netlify.app",
+  "backupie": "cname.vercel-dns.com", // noCF
   "c": "cocobear.github.io",
   "c-3po": "ttag-org.github.io/c-3po",
   "c-installer": "llenax.github.io/c-installer",
