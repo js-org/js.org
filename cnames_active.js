@@ -1046,6 +1046,7 @@ var cnames_active = {
   "excmd": "elliottcable.github.io/excmd.js",
   "executor": "executor.netlify.app",
   "exeform": "hosting.gitbook.com", // noCF
+  "exome": "exome.pages.dev",
   "exp": "magicops.github.io/JQuery-expression-builder",
   "express-kun": "hanipcode.github.io/express-kun",
   "expressad": "flweber.github.io/express-ad-basicauth",
