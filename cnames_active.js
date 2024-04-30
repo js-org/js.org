@@ -3415,6 +3415,7 @@ var cnames_active = {
   "watermark": "fredy.github.io/watermark",
   "wc": "bryansha.github.io/wc",
   "wcfactory": "elmsln.github.io/wcfactory.js.org",
+  "wdaoz": "wdaoz.github.io",
   "wdd": "wangduanduan.github.io",
   "weather": "phanendraguptha.github.io/weather",
   "weaver": "maxkfranz.github.io/weaver", // noCF? (don´t add this in a new PR)
