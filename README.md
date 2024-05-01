@@ -20,7 +20,13 @@ Now determine your JS.ORG subdomain: either choose your username or the name of 
 
 ### Step 3
 
-Add a file named `CNAME` to your repo (in the `gh-pages` branch for project pages, or the branch that you've set as your GitHub Pages source) with a single line matching the domain you have chosen (e.g. `foo.js.org`). If you prefer a web interface form, have a look at [GitHub Pages Help](https://help.github.com/articles/adding-or-removing-a-custom-domain-for-your-github-pages-site).
+If you're [publishing from a branch](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site#publishing-from-a-branch):
+
+Add a file named `CNAME` to your repo (in the `gh-pages` branch for project pages, or the branch that you've set as your GitHub Pages source) with a single line matching the domain you have chosen (e.g. `foo.js.org`). You can also use the UI in the repository settings as discussed below, if desired.
+
+If you're [publishing using a workflow](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site#publishing-from-a-branch):
+
+A `CNAME` file will not be processed when publishing a site via a workflow, so you will need to use the UI in the repository settings to [add the custom domain](https://help.github.com/articles/adding-or-removing-a-custom-domain-for-your-github-pages-sit). Head into the repository settings and under the Pages tab add your JS.ORG subdomain as a custom domain.
 
 ### Step 4
 
