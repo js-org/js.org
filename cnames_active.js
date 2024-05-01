@@ -374,7 +374,6 @@ var cnames_active = {
   "boilerplates": "ckgrafico.github.io/frontend-boilerplates",
   "bolao": "ziyou3012.github.io",
   "boldom": "marcisbee.github.io/boldom",
-  "backupie": "cname.vercel-dns.com", // noCF
   "bombsweeper": "pakastin.github.io/bombsweeper",
   "bonzibuddy": "fardindadev.github.io/bonzibuddy",
   "bookmarklet": "tamoghnak13.github.io/bookmarklet",
