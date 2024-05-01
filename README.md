@@ -32,6 +32,28 @@ A `CNAME` file will not be processed when publishing a site via a workflow, so y
 
 To finish the procedure, make a pull request in this GitHub repository that adds your subdomain to the [subdomains list](https://github.com/js-org/js.org/blob/master/cnames_active.js) of existing JS.ORG domains. Your new URL should go live within 24 hours (keep an eye on your pull request in case of a naming conflict or if there are requested changes).
 
+## Other Providers
+
+If you'd like to use JS.ORG for a website hosted elsewhere, you can do that too!
+
+### Step 1
+
+If you haven't already, get your site setup with whatever hosting provider you desire. Note that to use JS.ORG, your hosting provider will need to support adding custom domains via a CNAME DNS record.
+
+### Step 2
+
+Now determine your JS.ORG subdomain: either choose your username or the name of your repository according to the existing GitHub Pages URL (for `http://foo.github.io/bar`, either `foo.js.org` or `bar.js.org` would be possible). More details are available in the [wiki](https://github.com/js-org/js.org/wiki).
+
+### Step 3
+
+Follow your hosting provider's instructions for adding a custom domain to your site, if configuration is needed.
+
+<!-- TODO: Common provider notes? Vercel? Netlify? Cloudflare Pages? -->
+
+### Step 4
+
+As above with adding a subdomain to a GitHub Pages site, the final step is to make a pull request in this GitHub repository that adds your subdomain to the [subdomains list](https://github.com/js-org/js.org/blob/master/cnames_active.js) of existing JS.ORG domains.
+
 ---
 
 > [!IMPORTANT]
