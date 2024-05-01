@@ -28,14 +28,16 @@ To finish the procedure, make a pull request in this GitHub repository that adds
 
 ---
 
-## Content Rules
-
-### No-Content Rules
-**Websites must be *directly* related to the JavaScript ecosystem/community (such a NPM packages / JS tools)**
-- No placeholder pages. Websites must contain substantive content relevant to their purpose.
-- No automatic redirects away from the **js.org** domain. Redirects must require user interaction.
-- No unrelated content. Websites must stay focused on their intended topic or purpose.
-- No personal pages/portfolios
+> [!IMPORTANT]
+> Please be aware that there are some rules that apply to website content hosted on JS.ORG subdomains:
+>
+> **Websites must be *directly* related to the JavaScript ecosystem/community (such as NPM packages / JS tools, not personal pages / portfolios)**
+> 
+> - No placeholder pages. Websites must contain substantive content relevant to their purpose.
+> - No automatic redirects away from the **js.org** domain. Redirects must require user interaction.
+> - No unrelated content. Websites must stay focused on their intended topic or purpose.
+>
+> _Additionally, please be aware of our full [Terms and Conditions](https://js.org/terms.html) for the JS.ORG service._
 
 ---
 
