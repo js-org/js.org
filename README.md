@@ -37,14 +37,6 @@ To finish the procedure, make a pull request in this GitHub repository that adds
 - No unrelated content. Websites must stay focused on their intended topic or purpose.
 - No personal pages/portfolios
 
-### No-Hate Rules
-- No discrimination against any member of the community based on race, ethnicity, religion, gender, sexual orientation, disability, or **any** other characteristic.
-- No content promoting hate speech, violence, or discrimination of any kind.
-- No harassment, bullying, or intimidation of individuals or groups within the community.
-- No tolerance for content that creates a hostile environment or promotes divisiveness.
-
-Remember, maintainers can reject or remove *any* site at *any* time.
-
 ---
 
 Thanks to **[Cloudflare](https://www.cloudflare.com)** for their awesome DNS service that makes this service possible. While JS.ORG is using their free plan - to a shameless extent - they helped us more than once with some flexible solutions and extended quotas. Many thanks!
