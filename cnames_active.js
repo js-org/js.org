@@ -285,6 +285,7 @@ var cnames_active = {
   "bachors": "bachors.github.io",
   "backlog": "backlog-js.github.io/backlog.js.org", // noCF? (don´t add this in a new PR)
   "backstage": "backstagejs.github.io/backstage",
+  "backupie": "cname.vercel-dns.com", // noCF
   "badger": "just-glue-it.github.io/badger", // noCF? (don´t add this in a new PR)
   "badlee": "badlee.github.io",
   "badonker": "redsplit.github.io/badonker",
