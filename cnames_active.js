@@ -3027,7 +3027,7 @@ var cnames_active = {
   "super-controls": "thebearingedge.github.io/super-controls",
   "super-trim": "beeblebrox3.github.io/super-trim",
   "supernova-tool": "supernova-tool.github.io/supernova-site",
-  "surgio": "surgio-documentation.netlify.app", // noCF
+  "surgio": "cname.zeabur-dns.com", // noCF
   "suroadb": "nicamoq.github.io/SuroADB-Lite",
   "surti": "cname.vercel-dns.com", // noCF
   "svelkit": "kenoxa.github.io/svelkit",
