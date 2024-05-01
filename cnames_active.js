@@ -2943,6 +2943,7 @@ var cnames_active = {
   "sql": "sql-js.github.io/sql.js",
   "sql2struct": "ymlair.github.io/sql2struct",
   "sqlchart": "sqlchart.github.io/sqlchart",
+  "squaregame": "cname.vercel-dns.com", //noCF
   "squeak": "bertfreudenberg.github.io/SqueakJS",
   "squid": "squidjs.github.io/squid",
   "squircle": "cname.vercel-dns.com", // noCF
