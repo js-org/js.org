@@ -16,7 +16,7 @@ If you haven't already, log in to your GitHub account and set up your GitHub Pag
 
 ### Step 2
 
-Now determine your JS.ORG subdomain: either choose your username or the name of your repository according to the existing GitHub Pages URL (for `http://foo.github.io/bar`, either `foo.js.org` or `bar.js.org` would be possible). More details are available in the [wiki](https://github.com/js-org/js.org/wiki).
+Now determine your JS.ORG subdomain: either choose your username or the name of your repository according to the existing GitHub Pages URL (for `http://foo.github.io/bar`, either `foo.js.org` or `bar.js.org` would be possible). We have more guidance on picking an appropriate subdomain in our wiki: <https://github.com/js-org/js.org/wiki/Subdomain-Determination>.
 
 ### Step 3
 
@@ -38,17 +38,15 @@ If you'd like to use JS.ORG for a website hosted elsewhere, you can do that too!
 
 ### Step 1
 
-If you haven't already, get your site setup with whatever hosting provider you desire. Note that to use JS.ORG, your hosting provider will need to support adding custom domains via a CNAME DNS record.
+If you haven't already, get your site set up with whatever hosting provider you desire. Note that to use JS.ORG, your hosting provider will need to support adding custom domains via a CNAME DNS record.
 
 ### Step 2
 
-Now determine your JS.ORG subdomain: either choose your username or the name of your repository according to the existing GitHub Pages URL (for `http://foo.github.io/bar`, either `foo.js.org` or `bar.js.org` would be possible). More details are available in the [wiki](https://github.com/js-org/js.org/wiki).
+Now determine your JS.ORG subdomain: either choose your username or the name of your repository according to the existing GitHub Pages URL (for `http://foo.github.io/bar`, either `foo.js.org` or `bar.js.org` would be possible). We have more guidance on picking an appropriate subdomain in our wiki: <https://github.com/js-org/js.org/wiki/Subdomain-Determination>.
 
 ### Step 3
 
-Follow your hosting provider's instructions for adding a custom domain to your site, if configuration is needed.
-
-<!-- TODO: Common provider notes? Vercel? Netlify? Cloudflare Pages? -->
+Follow your hosting provider's instructions for adding a custom domain to your site, if configuration is needed. Our wiki contains a list of hosting providers we've seen folks successfully use in the past, including some notes on correctly configuring some of them: <https://github.com/js-org/js.org/wiki/3rd-party-hosts>.
 
 ### Step 4
 
