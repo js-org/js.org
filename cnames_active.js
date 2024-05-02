@@ -462,6 +462,7 @@ var cnames_active = {
   "canvasui": "canvasui.github.io/docs",
   "canvg": "canvg.github.io/canvg",
   "canvo": "canvojs.github.io",
+  "cap": "cap-js.github.io/docs",
   "capital": "capitaljs.github.io/capitaljs",
   "capsid": "capsidjs.github.io/capsid",
   "capsule": "capsule-js-org.github.io/capsule",
@@ -2894,6 +2895,7 @@ var cnames_active = {
   "soda": "yieldray.github.io/soda",
   "solace": "cname.vercel-dns.com", // noCF
   "solder": "mcrocks999.github.io/solder.js",
+  "solitude": "solitude-docs.netlify.app",
   "soloalert": "arnav-kr.github.io/soloalert",
   "solome": "solome.github.io",
   "solu": "soiu.github.io/solu",
