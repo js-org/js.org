@@ -2896,6 +2896,7 @@ var cnames_active = {
   "solder": "mcrocks999.github.io/solder.js",
   "soloalert": "arnav-kr.github.io/soloalert",
   "solome": "solome.github.io",
+  "solitude": "solitude-docs.netlify.app",
   "solu": "soiu.github.io/solu",
   "somerandomcat": "hosting.gitbook.io", // noCF
   "sonicware": "easyontop.github.io/Sonicware.js",
