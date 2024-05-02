@@ -2069,7 +2069,7 @@ var cnames_active = {
   "naughtychecker": "gautamkrishnar.github.io/naughtychecker.js",
   "nautil": "tangshuang.github.io/nautil",
   "nautilus": "ignigena.github.io/nautilus",
-  "nav"nav":ldd166.github.io/lao-nav",
+  "nav": "ldd166.github.io/lao-nav",
   "nave": "naveteam.github.io/nave",
   "naveenjujaray": "naveenjujaray.github.io/blog",
   "nbabot": "eliotchignell.github.io/NBABot",
