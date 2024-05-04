@@ -2094,6 +2094,7 @@ var cnames_active = {
   "newspool": "68b0dfd0-2b8d-4335-9da2-5653f09d2d34.id.repl.co", // noCF
   "newton": "caracal7.github.io/newton.js",
   "newyear": "dndrbots.github.io/new_year_counter",
+  "nexa": "avasdao.github.io/nexajs",
   "next": "zeit.github.io/next-site",
   "next-admin": "cname.vercel-dns.com", // noCF
   "next-auth": "alias.zeit.co", // noCF
