@@ -3250,6 +3250,7 @@ var cnames_active = {
   "underbase": "sundowndev.github.io/underbase",
   "undercut": "undercut.netlify.app",
   "uneditable": "iamcristye.github.io/Uneditable.js",
+  "uneventful": "pjeby.github.io/uneventful",
   "unexpected": "unexpectedjs.github.io", // noCF? (don´t add this in a new PR)
   "uni": "arcadiogarcia.github.io/UNIJS", // noCF? (don´t add this in a new PR)
   "uni-helper": "uni-helper.netlify.app",
