@@ -254,6 +254,7 @@ var cnames_active = {
   "aunt": "79e.github.io/aunt",
   "autarky": "pranshuchittora.github.io/autarky",
   "auth": "cname.vercel-dns.com", // noCF
+  "auto-immutable": "webkrafters.github.io/auto-immutable",
   "auto-task-doc": "cname.vercel-dns.com", // noCF
   "autodocs": "bguiz.github.io/autodocs", // noCF? (don´t add this in a new PR)
   "automata": "cname.vercel-dns.com", // noCF
