@@ -1193,6 +1193,7 @@ var cnames_active = {
   "gametime": "parking-master.github.io/Gametime.js",
   "gametracker": "officialpiyush.github.io/gametracker.js",
   "gamingnet": "gamingmineblox.github.io/GamingNet",
+  "gaming": "https://gamingadmin.github.io/"
   "garlic-team": "garlic-team.github.io/website",
   "gathertown": "warengonzaga.github.io/gathertown.js",
   "gatsby-source-pixiv": "poipoii.github.io/gatsby-source-pixiv",
