@@ -1112,6 +1112,7 @@ var cnames_active = {
   "flamecord": "flamexode.github.io/flamecord",
   "flap": "slurmulon.github.io/flap",
   "flare": "nsaunders.github.io/flare",
+  "flaregram": "adityash4rma.github.io/flaregram-website",
   "flash": "flashcardjs.github.io",
   "flatpickr": "flatpickr.github.io",
   "flavor": "blackmirror1980.github.io/flavor-js",
