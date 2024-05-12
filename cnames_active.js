@@ -336,6 +336,7 @@ var cnames_active = {
   "bettertests": "antgonzales.github.io/bettertests.js.org",
   "between": "na-west1.surge.sh",
   "bfd": "mrsheldon.github.io/bfd.js",
+  "bgsnippets":"sh20raj.github.io/background-snippets",
   "bhailang": "dullabs.github.io/bhai-lang",
   "bigbrainbot": "112batman.github.io/bigbrainbot-website",
   "biggames": "jacobhumston.github.io/biggames.js",
