@@ -1146,6 +1146,7 @@ var cnames_active = {
   "fortnite": "ickerio.github.io/fortnite.js",
   "fortune": "fortunejs.github.io/fortune", // noCF? (don´t add this in a new PR)
   "fosspwa": "foss-pwa.github.io/app-store",
+  "fourm": "tetepay.github.io/fourm",
   "fov": "animafps.github.io/fov-utilities",
   "foxgpt": "coolgoagle.github.io/fox",
   "foxhole-client": "foxhole-clientjs.netlify.app",
@@ -3572,7 +3573,6 @@ var cnames_active = {
   "zykj": "cname.vercel-dns.com", // noCF
   "zyx": "zyx.alwaysdata.net",
   "zyy": "zyyou.github.io/notes"
-  "fourm": "tetepay.github.io/fourm"
   /*
    * please don't add your subdomain records down here!
    * insert them in alphabetical order to help reduce merge conflicts.
