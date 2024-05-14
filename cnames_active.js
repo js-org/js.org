@@ -1688,6 +1688,7 @@ var cnames_active = {
   "lazycoder": "prasantdev.github.io/lazycoder",
   "lbox": "lbox-js.github.io",
   "lcookie": "lf112.github.io/lcookie",
+  "lc": "mt-black.github.io"
   "ldf": "autplayed.github.io/ldf",
   "ldo": "o-development.github.io/ldo.js.org",
   "le": "letui.github.io",
