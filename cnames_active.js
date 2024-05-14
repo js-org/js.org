@@ -1184,6 +1184,7 @@ var cnames_active = {
   "fw": "fjs.alwaysdata.net",
   "fy": "fyjs.netlify.app",
   "fyi": "tobihrbr.github.io/fyi",
+  "forum": "forum.bolgk.eu.org"
   "g": "nodebox.github.io/g.js",
   "g-point": "bdvela.github.io/g-point",
   "gaiman": "jcubic.github.io/gaiman",
@@ -3572,7 +3573,6 @@ var cnames_active = {
   "zykj": "cname.vercel-dns.com", // noCF
   "zyx": "zyx.alwaysdata.net",
   "zyy": "zyyou.github.io/notes"
-  "forum": "forum.bolgk.eu.org"
   /*
    * please don't add your subdomain records down here!
    * insert them in alphabetical order to help reduce merge conflicts.
