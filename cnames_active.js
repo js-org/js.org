@@ -511,6 +511,7 @@ var cnames_active = {
   "chenkun": "ck123-rgb.github.io/chenkun-js-org",
   "chenyuhu": "chenyuhu.github.io",
   "chernivtsi": "chernivtsijs.github.io",
+  "chessno25": "romw314.github.io",
   "chig": "eliotchignell.github.io",
   "chirashi": "chirashijs.github.io/chirashi",
   "chitchat": "chitchatjs.github.io",
