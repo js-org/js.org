@@ -2867,6 +2867,7 @@ var cnames_active = {
   "skim": "muratg.github.io/skim",
   "skratch": "websyncs.github.io/skratch",
   "sksamim": "esksamim.github.io/sksamim",
+  "sky": "only9464.github.io/front",
   "skyle": "skylejs.github.io/skyle",
   "skyscript": "cname.vercel-dns.com", // noCF
   "skyware": "skyware-js.github.io/web", // noCF
