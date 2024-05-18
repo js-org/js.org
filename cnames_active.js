@@ -764,6 +764,7 @@ var cnames_active = {
   "dev-sandbox": "iam-medvedev.github.io/dev-sandbox",
   "developerfolio": "saadpasta.github.io/developerFolio",
   "devfolio": "anilseervi.github.io/DevFolio",
+  "devgeek": "wikimint.github.io/jsdev",
   "device": "vpodk.github.io/device",
   "devlunch": "superzackx.github.io/DevLunch",
   "devsession": "lukasbach.github.io/devsession",
@@ -930,7 +931,6 @@ var cnames_active = {
   "dynamotion": "cname.vercel-dns.com", // noCF`
   "dyo": "dyo.github.io/dyo",
   "dyte": "dytejs.github.io",
-  "devgeek": "wikimint.github.io/jsdev",
   "e-query": "mjkhonline.github.io/e-query",
   "eagleeye": "webkrafters.github.io/eagleeye",
   "eahmed234": "eahmed234.github.io",
