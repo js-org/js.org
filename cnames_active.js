@@ -1623,6 +1623,7 @@ var cnames_active = {
   "kkna": "importantimport.github.io/kkna",
   "klasa": "dirigeants.github.io/klasa-website",
   "klasy-eris": "motiontheking.github.io/klasy-eris",
+  "klayr-did": "aldhosutra.github.io/klayr-did",
   "klepto": "mwjaworski.github.io/klepto",
   "kloner": "kodie.github.io/kloner",
   "kmeans": "jeff-tian.github.io/k-means",
@@ -1748,7 +1749,6 @@ var cnames_active = {
   "lipsum": "llxlr.github.io/lipsum.js",
   "liquid-ajax-cart": "evgeniymukhamedjanov.github.io/liquid-ajax-cart",
   "liquivelte": "liquivelte.github.io/docs",
-  "lisk-did": "aldhosutra.github.io/lisk-did",
   "listenin": "cname.vercel-dns.com", // noCF
   "lister": "jpbulman.github.io/lister",
   "listore": "yieldray.github.io/listore",
