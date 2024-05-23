@@ -1534,6 +1534,7 @@ var cnames_active = {
   "jobs": "alias.zeit.co", // noCF
   "joe": "joeleeofficial.github.io/joe",
   "joelmathew": "rec0il99.github.io/joelmathew",
+  "juanher0825": "juanher0825.github.io",
   "jogja": "jogjajs.github.io", // noCF
   "john": "jozhn.github.io",
   "jokes": "jeff-tian.github.io/jokes",
