@@ -3095,6 +3095,7 @@ var cnames_active = {
   "taufik-nurrohman": "taufik-nurrohman.github.io",
   "taxi": "craftedbygc.github.io/taxi",
   "tayyab": "itayyab.github.io",
+    "tclock": "treeentertainment.github.io",
   "tdhandler": "hosting.gitbook.com",
   "tead": "teadjs.github.io",
   "techthinker": "tech-thinker.github.io",
