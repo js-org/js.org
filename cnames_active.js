@@ -1413,8 +1413,8 @@ var cnames_active = {
   "iamsurajdc": "iamsurajdc.github.io",
   "icecast": "jucrouzet.github.io/icecast.js",
   "ices": "icesjs.github.io/ices",
-  "icones": "icones.netlify.app",
   "icecream": "ice-cream-js.github.io/website",
+  "icones": "icones.netlify.app",
   "id": "andae.github.io/id",
   "id.single-spa": "single-spa.github.io/id.single-spa.js.org", // noCF
   "id3": "jeff-tian.github.io/id3",
