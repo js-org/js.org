@@ -1414,6 +1414,7 @@ var cnames_active = {
   "icecast": "jucrouzet.github.io/icecast.js",
   "ices": "icesjs.github.io/ices",
   "icones": "icones.netlify.app",
+  "icecream": "ice-cream-js.github.io/website",
   "id": "andae.github.io/id",
   "id.single-spa": "single-spa.github.io/id.single-spa.js.org", // noCF
   "id3": "jeff-tian.github.io/id3",
@@ -3577,7 +3578,6 @@ var cnames_active = {
   "zykj": "cname.vercel-dns.com", // noCF
   "zyx": "zyx.alwaysdata.net",
   "zyy": "zyyou.github.io/notes",
-  "icecream": "ice-cream-js.github.io/website"
   /*
    * please don't add your subdomain records down here!
    * insert them in alphabetical order to help reduce merge conflicts.
