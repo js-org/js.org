@@ -84,6 +84,7 @@ var cnames_active = {
   "acebooks": "mohamed0group.github.io/acebooks",
   "acegroup": "mohamed0group.github.io/acegroup",
   "acho": "achojs.github.io/acho",
+  "acidmod": "acidmod.github.io/studio",
   "acm": "drew233.github.io/calander",
   "acme": "makepost.github.io/acme-commander",
   "acta": "fabien-h.github.io/acta",
