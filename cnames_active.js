@@ -264,6 +264,7 @@ var cnames_active = {
   "avner": "avnerus.github.io", // noCF? (don´t add this in a new PR)
   "avo": "benjaminbhollon.github.io/avo-js",
   "avstream": "akash-joshi.github.io/avstream.js",
+  "awa": "awaproject.github.io/awaftp",
   "awai": "cname.vercel-dns.com", // noCF
   "awardify": "cname.vercel-dns.com", // noCF
   "awesome-alexa": "dolanmiu.github.io/MMM-awesome-alexa",
@@ -2914,6 +2915,7 @@ var cnames_active = {
   "somerandomcat": "hosting.gitbook.io", // noCF
   "sonicware": "easyontop.github.io/Sonicware.js",
   "soniq": "fullstack-build.github.io/soniq",
+  "sonnet": "sonnetjs.github.io",
   "sonny": "sonnylazuardi.github.io", // noCF? (don´t add this in a new PR)
   "sop": "kuboschek.github.io/sop",
   "soukai": "noeldemartin.github.io/soukai",
