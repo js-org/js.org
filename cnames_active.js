@@ -584,6 +584,7 @@ var cnames_active = {
   "comixngn": "seun40.github.io/comix-ngn", // noCF? (don´t add this in a new PR)
   "command": "satoqz.github.io/command.ts",
   "commandcord": "commandcord.github.io",
+  "commerce": "commerce-js.github.io",
   "commandfox": "commandfox.github.io/mc-tools", // noCF? (don´t add this in a new PR)
   "commandkit": "cname.vercel-dns.com", // noCF
   "comment.lt": "cname.vercel-dns.com", // noCF
