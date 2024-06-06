@@ -581,6 +581,7 @@ var cnames_active = {
   "colors": "xv700.github.io/colors",
   "colors-web": "yu-tou.github.io/colors-web",
   "colorsea": "waterbeside.github.io/colorsea",
+  "colorwind": "siguici.github.io/colorwind",
   "comfortable": "ruben-arushanyan.github.io/comfortable",
   "comixngn": "seun40.github.io/comix-ngn", // noCF? (don´t add this in a new PR)
   "command": "satoqz.github.io/command.ts",
