@@ -3070,6 +3070,7 @@ var cnames_active = {
   "swot": "swot-node.netlify.app", // noCF
   "swup": "swup.github.io/docs",
   "sx": "screenrecx.netlify.app",
+  "sxi": "sxinar.gothub.io",
   "sxcu": "m-phoenix852.github.io/sxcu.js-docs",
   "sxw": "sxwjs.github.io",
   "sydinh": "sydinh.github.io",
