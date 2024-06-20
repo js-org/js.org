@@ -3007,6 +3007,7 @@ var cnames_active = {
   "stonk": "anujsharma141.github.io/stonk",
   "storage": "uzitech.github.io/storage.js",
   "storelocator": "storelocatorjs.github.io",
+  "story": "alltobebetter.github.io/story",
   "storybook": "storybooks.netlify.app", // noCF
   "storybooks": "storybooks.github.io",
   "str": "manelet.github.io/str",
