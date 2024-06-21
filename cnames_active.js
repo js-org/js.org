@@ -39,7 +39,6 @@
 
 var cnames_active = {
   "": "js-org.github.io",
-  "order-ai": "orderai.onrender.com",
   "01mz": "01mz.github.io",
   "100dayz": "deadcoder0904.github.io/100dayz",
   "101": "7anshuai.github.io/js101", // noCF? (don´t add this in a new PR)
@@ -2235,6 +2234,7 @@ var cnames_active = {
   "opentype": "nodebox.github.io/opentype.js",
   "opmongo": "sanikava.github.io/OpMongo",
   "orbiton": "orbitonjs.github.io",
+  "order-ai": "orderai.onrender.com",
   "orga": "orgapp.github.io/orgajs",
   "origami": "origami-cms.github.io/cms",
   "os-gui": "1j01.github.io/os-gui",
