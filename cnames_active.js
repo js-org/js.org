@@ -485,6 +485,7 @@ var cnames_active = {
   "casl": "stalniy.github.io/casl",
   "cassie": "milesgitgud.github.io/cassie",
   "catbox": "samsamson33.github.io/catbox.js",
+  "catch": "catch-coding.github.io/catch-react",
   "cath": "cname.vercel-dns.com", // noCF
   "catisol": "catisol-ui.netlify.app",
   "cats": "whoisjorge.github.io/not-cat-gifs",
