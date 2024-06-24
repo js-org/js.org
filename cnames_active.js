@@ -3295,6 +3295,7 @@ var cnames_active = {
   "uptime": "intelligo-systems.github.io/uptime.js",
   "urmom": "urmomjs.github.io/urmom.js",
   "use-bootstrap": "use-bootstrap.github.io",
+  "use-bootstrap-dialog": "use-bootstrap.github.io/use-bootstrap-dialog",
   "use-bootstrap-select": "use-bootstrap.github.io/use-bootstrap-select",
   "use-bootstrap-tag": "use-bootstrap.github.io/use-bootstrap-tag",
   "use-bootstrap-toaster": "use-bootstrap.github.io/use-bootstrap-toaster",
