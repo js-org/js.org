@@ -1187,7 +1187,7 @@ var cnames_active = {
   "funbook": "egoist.github.io/funbook",
   "funcs": "funcs-package.github.io/docs",
   "fusilli": "anthemaker.github.io/Fusilli.js",
-  "fvuar": "ahmetcanisik.github.io/fvuarjs/build",
+  "fvuar": "ahmetcanisik.github.io/fvuarJS",
   "fw": "fjs.alwaysdata.net",
   "fy": "fyjs.netlify.app",
   "fyi": "tobihrbr.github.io/fyi",
