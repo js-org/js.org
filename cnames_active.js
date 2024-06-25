@@ -1573,6 +1573,7 @@ var cnames_active = {
   "jsonql": "joel-chu.github.io/jsonql-org",
   "jsonui": "yourtion.github.io/vue-json-ui-editor",
   "jsonuri": "aligay.github.io/jsonuri",
+  "jsorgtest": "ahmetcanisik.github.io/jsorgtest",
   "jsp": "hiren2001.github.io/jsp",
   "jstyle": "lxhom.github.io/jstyle", // noCF
   "jsxcad": "jsxcad.github.io",
@@ -3589,7 +3590,7 @@ var cnames_active = {
   "zyh": "zyh-chopper.github.io/zyh",
   "zykj": "cname.vercel-dns.com", // noCF
   "zyx": "zyx.alwaysdata.net",
-  "zyy": "zyyou.github.io/notes"
+  "zyy": "zyyou.github.io/notes",
   /*
    * please don't add your subdomain records down here!
    * insert them in alphabetical order to help reduce merge conflicts.
