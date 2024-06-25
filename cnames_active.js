@@ -2336,6 +2336,7 @@ var cnames_active = {
   "phx": "phxjs.github.io",
   "physics-demos": "lachlandk.github.io/physics-demos",
   "piano": "ronyeh.github.io/piano",
+  "picard": "picardjs.github.io",
   "picsim": "mazko.github.io/picsim.js",
   "pidoc": "smapiot.github.io/pidoc",
   "pig-game": "dhanushp.github.io/pig-game",
