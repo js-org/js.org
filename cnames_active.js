@@ -3031,6 +3031,7 @@ var cnames_active = {
   "styled-icons": "alias.zeit.co", // noCF
   "styli": "cname.vercel-dns.com", // noCF
   "stylis": "thysultan.github.io/stylis.js",
+  "stxiz": "stxiz.github.io",
   "subatomic": "thelazycodernothacker.github.io/Subatomic-Homepage",
   "subeditor": "shirtiny.github.io/SubEditor",
   "submodule": "submodule-js.github.io/site",
