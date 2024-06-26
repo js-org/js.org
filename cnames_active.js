@@ -1666,6 +1666,7 @@ var cnames_active = {
   "kumeru": "ultirequiem.github.io/kumeru",
   "kunal": "kunalghosh02.github.io",
   "kunkun": "smallkunkun.github.io",
+  "kxyzt": "kxyzt.github.io"
   "kyoto": "kyotojs.github.io",
   "l2dwidget": "xiazeyu.github.io/live2d-widget.js-doc",
   "lab": "labjs.netlify.app",
