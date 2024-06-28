@@ -1100,6 +1100,7 @@ var cnames_active = {
   "fikri": "ikrydev.github.io/fikri.js.org",
   "file-extension": "ultirequiem.github.io/file-extension",
   "filebokz": "kodie.github.io/filebokz",
+  "filejack": "cname.vercel-dns.com", // noCF
   "filer": "filerjs.github.io/filer",
   "fill100": "matteobruni.github.io/fill100",
   "filter": "mg98.github.io/filter.js",
@@ -1173,6 +1174,7 @@ var cnames_active = {
   "frontik": "fluxtech-me.github.io/frontik",
   "frontless": "nesterow.github.io/frontless",
   "fronts": "unadlib.github.io/fronts",
+  "frontsearch": "1d10t1c-stud10s.github.io/frontsearchjs",
   "frost": "cesiumlabs.github.io/frost",
   "frui": "ossphilippines.github.io/frui",
   "frzr": "pakastin.github.io/frzr",
@@ -1186,6 +1188,7 @@ var cnames_active = {
   "funbook": "egoist.github.io/funbook",
   "funcs": "funcs-package.github.io/docs",
   "fusilli": "anthemaker.github.io/Fusilli.js",
+  "fvuar": "fvuarjs.netlify.app",
   "fw": "fjs.alwaysdata.net",
   "fy": "fyjs.netlify.app",
   "fyi": "tobihrbr.github.io/fyi",
@@ -2235,6 +2238,7 @@ var cnames_active = {
   "opentype": "nodebox.github.io/opentype.js",
   "opmongo": "sanikava.github.io/OpMongo",
   "orbiton": "orbitonjs.github.io",
+  "order-ai": "orderai.onrender.com", // noCF
   "orga": "orgapp.github.io/orgajs",
   "origami": "origami-cms.github.io/cms",
   "os-gui": "1j01.github.io/os-gui",
@@ -2334,6 +2338,7 @@ var cnames_active = {
   "phx": "phxjs.github.io",
   "physics-demos": "lachlandk.github.io/physics-demos",
   "piano": "ronyeh.github.io/piano",
+  "picard": "picardjs.github.io",
   "picsim": "mazko.github.io/picsim.js",
   "pidoc": "smapiot.github.io/pidoc",
   "pig-game": "dhanushp.github.io/pig-game",
@@ -2642,6 +2647,7 @@ var cnames_active = {
   "retalk": "cname-china.vercel-dns.com", // noCF
   "rete": "retejs.github.io",
   "reto": "awmleer.github.io/reto",
+  "retos": "cname.vercel-dns.com", // noCF
   "retro-sound": "learosema.github.io/retro-sound",
   "retux": "crimx.github.io/retux",
   "revaluate": "hasharray.github.io/revaluate.js",
@@ -3008,6 +3014,7 @@ var cnames_active = {
   "stonk": "anujsharma141.github.io/stonk",
   "storage": "uzitech.github.io/storage.js",
   "storelocator": "storelocatorjs.github.io",
+  "story": "alltobebetter.github.io/story",
   "storybook": "storybooks.netlify.app", // noCF
   "storybooks": "storybooks.github.io",
   "str": "manelet.github.io/str",
@@ -3291,6 +3298,7 @@ var cnames_active = {
   "uptime": "intelligo-systems.github.io/uptime.js",
   "urmom": "urmomjs.github.io/urmom.js",
   "use-bootstrap": "use-bootstrap.github.io",
+  "use-bootstrap-dialog": "use-bootstrap.github.io/use-bootstrap-dialog",
   "use-bootstrap-select": "use-bootstrap.github.io/use-bootstrap-select",
   "use-bootstrap-tag": "use-bootstrap.github.io/use-bootstrap-tag",
   "use-bootstrap-toaster": "use-bootstrap.github.io/use-bootstrap-toaster",
@@ -3455,6 +3463,7 @@ var cnames_active = {
   "webpack-config-plugins": "namics.github.io/webpack-config-plugins",
   "webpack-inspect": "alexmost.github.io/webpack-inspect",
   "webpack-stats": "v-webpack.netlify.app",
+  "webpeer": "nuzulul.github.io/webpeerjs",
   "websheet": "pierreavn.github.io/websheetjs",
   "wechatpay": "thenorthmemory.github.io/wechatpay.js.org",
   "wechaty": "cdn.chatie.io", // noCF
