@@ -3185,6 +3185,7 @@ var cnames_active = {
   "toolzar": "toolzar.netlify.app",
   "topbot": "resign05.github.io/TobWebsite",
   "topgg": "topgg-node-sdk-docs.netlify.app",
+  "topoj": "toprise.github.io/Top-Online-Judge/",
   "tori": "boostcode.github.io/torijs",
   "torino": "torinojs.github.io", // noCF? (don´t add this in a new PR)
   "torlondev": "torlondev.github.io",
