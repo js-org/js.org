@@ -1122,7 +1122,6 @@ var cnames_active = {
   "flatpickr": "flatpickr.github.io",
   "flavor": "blackmirror1980.github.io/flavor-js",
   "fld-grd": "mrksbnch.github.io/fld-grd",
-  "flexmasonry": "kavanmevada.github.io/flex_masonry", // noCF
   "flightpkg": "cname.vercel-dns.com", // noCF
   "flipnote": "jaames.github.io/flipnote.js",
   "flood": "flood.jesec.io", // noCF
@@ -1604,7 +1603,6 @@ var cnames_active = {
   "kasfy": "kasfy.github.io/kasfy.js.org",
   "kasumi": "cname.vercel-dns.com", // noCF
   "katheesh": "katheesh.github.io/katheesh.js",
-  "kavan": "kavanmevada.gitlab.io",
   "kawaii": "moemoesoft.github.io/kawaii", // noCF
   "kcak11": "kcak11.github.io/js-org-web",
   "kdiacodes": "kdiacodes.github.io",
@@ -2576,7 +2574,6 @@ var cnames_active = {
   "reciple": "cname.vercel-dns.com", // noCF
   "recover": "luisvallejomohl.github.io/Recover.js",
   "recycle": "recyclejs.github.io/recycle",
-  "redfox": "kavanmevada.github.io",
   "rediagram": "kamiazya.github.io/rediagram",
   "redis": "noderedis.github.io/node_redis", // noCF? (don´t add this in a new PR)
   "redline": "abduvokhid.github.io/redline",
@@ -3139,7 +3136,6 @@ var cnames_active = {
   "tgsnake": "cname.vercel-dns.com", // noCF
   "thea": "idokutela.github.io/thea",
   "thegrid": "antoniandre.github.io/grid",
-  "thehorizon": "kavanmevada.github.io/the-horizon-blog",
   "theme-next": "hexo-theme-next.netlify.app",
   "themoviedb": "chrisenytc.github.io/themoviedb", // noCF? (don´t add this in a new PR)
   "thenandnow": "devdavmen.github.io/then-and-now",
