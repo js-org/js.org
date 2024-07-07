@@ -23,6 +23,7 @@ var cnames_restricted = [
     "account(s)",
     "ad(s)",
     "admin(s)",
+    "ai",
     "answer(s)",
     "api(s)",
     "app(s)",
