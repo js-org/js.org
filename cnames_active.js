@@ -2276,6 +2276,7 @@ var cnames_active = {
   "pantarei": "pantareijs.github.io/pantarei.js.org",
   "panza": "panza-org.github.io/panza-docs", // noCF
   "papanasi": "witty-plant-07a086e03.1.azurestaticapps.net", // noCF
+  "papapoulerotisserie": "papapoulerotisserie.github.io/papapoulewebsite",
   "paperclip": "crcn.github.io/paperclip.js.org", // noCF? (don´t add this in a new PR)
   "papyrus": "papyrusjs.netlify.app",
   "parallel": "parallel-js.github.io/parallel.js",
