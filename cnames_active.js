@@ -2622,6 +2622,7 @@ var cnames_active = {
   "rekit": "supnate.github.io/rekit", // noCF
   "relate": "jakelazaroff.github.io/relate", // noCF? (don´t add this in a new PR)
   "relaunch": "pd4d10.github.io/relaunch",
+  "razin" : "cname.vercel-dns.com",
   "relic": "relicjs.github.io",
   "rema": "heyrema.github.io/docs",
   "remark": "remarkjs.github.io/remark",
