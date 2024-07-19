@@ -1749,7 +1749,6 @@ var cnames_active = {
   "lingui": "cname.vercel-dns.com", // noCF
   "link-styler": "sheikhoo.github.io/link-styler",
   "linkcord": "nils-afk.github.io/linkcord.js.org", // noCF
-  "linkgames": "nils-afk.github.io/linkgames.js.org", // noCF
   "linkify": "hypercontext.github.io/linkifyjs",
   "lips": "jcubic.github.io/lips",
   "lipsum": "llxlr.github.io/lipsum.js",
