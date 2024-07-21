@@ -15,8 +15,8 @@
  *              or "foo.github.io/bar" for a Project Page).
  *
  * CLOUDFLARE:  JS.ORG uses Cloudflare as its DNS. By default, Cloudflare proxies all requests to your subdomain
- *              to get SSL support (https://foo.js.org) and make use of browser caching with a TTL of 30 min.
- *              But you can opt-out from this and make Cloudflare forward all requests directly to GitHub.
+ * to get SSL support (https://foo.js.org) 和 make use of browser caching with a TTL of 30 min.
+ * But you can opt-out from this 和 make Cloudflare forward all requests directly to GitHub.
  *              Just add '// noCF' in the line of your requested subdomain to give us a hint.
  *              (all the lines marked with '// noCF?' are from a time when a requester had to explicitly opt-in;
  *              see: https://github.com/js-org/js.org/issues/554)
@@ -30,7 +30,7 @@
  *              the section "naming conflicts" in the wiki!
  *
  * NOTICE:      Please follow the format set by everyone else in this file. Entries should use double quotes,
- *              with space between the colon (after the key) and the value and should always be in alphabetical
+ * with space between the colon (after the key) 和 the value 和 should always be in alphabetical
  *              order. Each line apart from the very last entry should have a comma after it to ensure this file
  *              is valid syntax.
  *
@@ -40,7 +40,7 @@
 var cnames_active = {
   "": "js-org.github.io",
   "01mz": "01mz.github.io",
-  "100dayz": "deadcoder0904.github.io/100dayz",
+  "100dayz": "deadcoder0904.github.io/100 天之前z",
   "101": "7anshuai.github.io/js101", // noCF? (don´t add this in a new PR)
   "131": "netrvin.github.io",
   "140513": "140513.github.io",
@@ -50,7 +50,7 @@ var cnames_active = {
   "21cm": "21cm.github.io",
   "23chemistrycamp": "nchuchemistry.github.io/23chemistrycamp",
   "2tube": "you2php.github.io/you2php",
-  "30dayjavascript": "30dayjavascript.netlify.app",
+  "30dayjavascript": "30 天之前javascript.netlify.app",
   "360": "360daili.github.io/360daili",
   "3d-go": "3d-go.netlify.app",
   "404": "licshee.github.io/404",
@@ -61,7 +61,7 @@ var cnames_active = {
   "98plus": "cherrim98.github.io",
   "9932": "dannyzhan.github.io",
   "a-western-story": "hotsaucefiretruck.github.io/A-Western-Story",
-  "a11yslider": "mmahandev.github.io/a11y-slider",
+  "a11yslider": "mmah和ev.github.io/a11y-slider",
   "a6smile": "a6smile.github.io",
   "aakhilv": "aakhilv.github.io",
   "aalaap": "aalaap.github.io",
@@ -85,12 +85,12 @@ var cnames_active = {
   "acegroup": "mohamed0group.github.io/acegroup",
   "acho": "achojs.github.io/acho",
   "acidmod": "acidmod.github.io",
-  "acm": "drew233.github.io/calander",
-  "acme": "makepost.github.io/acme-commander",
+  "acm": "drew233.github.io/cal和er",
+  "acme": "makepost.github.io/acme-comm和er",
   "acta": "fabien-h.github.io/acta",
   "action-u": "kevinast.github.io/action-u",
   "actions-creator": "ruben-arushanyan.github.io/actions-creator",
-  "active-resource": "nicklandgrebe.github.io/activeresource.js",
+  "active-resource": "nickl和grebe.github.io/activeresource.js",
   "acyort": "acyortjs.github.io/site",
   "ada": "ada-js.netlify.app",
   "adamant": "datamart.github.io/Adamant",
@@ -1420,7 +1420,7 @@ var cnames_active = {
   "icecream": "ice-cream-js.github.io/website",
   "ices": "icesjs.github.io/ices",
   "icones": "icones.netlify.app",
-  "id": "andae.github.io/id",
+  "id": "和ae.github.io/id",
   "id.single-spa": "single-spa.github.io/id.single-spa.js.org", // noCF
   "id3": "jeff-tian.github.io/id3",
   "idettman": "idettman.github.io",
@@ -2195,6 +2195,7 @@ var cnames_active = {
   "nyax": "springnyan.github.io/nyax",
   "nyc": "nycjsorg.github.io/nyc",
   "nyr": "suriyaakudoisc.github.io/NYR",
+  "nnnh": "yhgzs-111.github.io",
   "oak": "donn.github.io/Oak.js",
   "object-gui": "matteobruni.github.io/object-gui",
   "objectid": "the-silver-project.github.io/objectid",
