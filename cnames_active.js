@@ -875,6 +875,7 @@ var cnames_active = {
   "dodec-design": "dodec-design.github.io",
   "dogehq": "dogehq.github.io/dogehq",
   "dogstack": "dogstack.gitbooks.io", // noCF
+  "doing": "doing1024.github.io/note",
   "doja": "cname.vercel-dns.com", // noCF
   "dokdo": "wonderlandpark.github.io/dokdo",
   "dolan": "cname.vercel-dns.com", // noCF
@@ -3592,8 +3593,7 @@ var cnames_active = {
   "zyh": "zyh-chopper.github.io/zyh",
   "zykj": "cname.vercel-dns.com", // noCF
   "zyx": "zyx.alwaysdata.net",
-  "zyy": "zyyou.github.io/notes",
-  "doing": "doing1024.github.io/note"
+  "zyy": "zyyou.github.io/notes"
   /*
    * please don't add your subdomain records down here!
    * insert them in alphabetical order to help reduce merge conflicts.
