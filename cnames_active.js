@@ -2999,6 +2999,7 @@ var cnames_active = {
   "status-hx": "status-hx-js-org.versatile.org.uk", // noCF
   "steemsites": "yhozen.github.io/steemsites",
   "stego": "zeruniverse.github.io/CryptoStego", // noCF? (don´t add this in a new PR)
+  "stein": "cname.vercel-dns.com", //noCF
   "stepan": "stevermeister.github.io", // noCF? (don´t add this in a new PR)
   "stephenmccall": "stephenmccall.github.io", // noCF? (don´t add this in a new PR)
   "stethoscope": "stethoscope-js.github.io/stethoscope.js.org",
