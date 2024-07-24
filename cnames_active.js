@@ -1414,6 +1414,7 @@ var cnames_active = {
   "hypixel": "hypixelts.netlify.app",
   "hyssop": "lillupad.github.io/hyssop.js",
   "i18n4v": "shibukawa.github.io/i18n4v",
+  "i18n-collector": "gmaxlev.github.io/i18n-collector",
   "iagrib": "iagrib.github.io",
   "iamsurajdc": "iamsurajdc.github.io",
   "icecast": "jucrouzet.github.io/icecast.js",
