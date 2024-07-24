@@ -2338,6 +2338,7 @@ var cnames_active = {
   "piano": "ronyeh.github.io/piano",
   "picard": "picardjs.github.io",
   "picsim": "mazko.github.io/picsim.js",
+  "pict-node": "gmaxlev.github.io/pict-node",
   "pidoc": "smapiot.github.io/pidoc",
   "pig-game": "dhanushp.github.io/pig-game",
   "pigeon-maps": "pigeon-maps.netlify.app",
