@@ -1413,8 +1413,8 @@ var cnames_active = {
   "hyperhtml-styleguide": "albertosantini.github.io/hyperhtml-styleguide", // noCF
   "hypixel": "hypixelts.netlify.app",
   "hyssop": "lillupad.github.io/hyssop.js",
-  "i18n4v": "shibukawa.github.io/i18n4v",
   "i18n-collector": "gmaxlev.github.io/i18n-collector",
+  "i18n4v": "shibukawa.github.io/i18n4v",
   "iagrib": "iagrib.github.io",
   "iamsurajdc": "iamsurajdc.github.io",
   "icecast": "jucrouzet.github.io/icecast.js",
