@@ -3199,6 +3199,7 @@ var cnames_active = {
   "trier": "creimers.github.io/trier",
   "trilogy": "trilogy.netlify.app", // noCF
   "trivia": "gubareve.github.io/triviabot-docs",
+  "tristangpt": "https://tristangpt.vercel.app"
   "tropical": "tropicaljs.netlify.app", // noCF
   "troxel": "troxeljs.github.io",
   "troy": "troyxun.github.io",
