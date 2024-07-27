@@ -797,6 +797,7 @@ var cnames_active = {
   "discord-botlists": "sidisliveyt.github.io/discord-botlists",
   "discord-button-page": "kingofpanda-development.github.io/discord-button-page",
   "discord-cmds": "hosting.gitbook.io", // noCF
+  "discord-components": "skyra-project.github.io/discord-components",
   "discord-console-logger": "lucaslah.github.io/discord-console-logger",
   "discord-easy-leveling": "retrouser955.github.io/discord-easy-leveling",
   "discord-easy-slash": "amukh1.github.io/discord-easy-slash",
