@@ -2294,6 +2294,7 @@ var cnames_active = {
   "passepartout": "falkz.github.io/passepartout.js.org",
   "passphrase": "therootcompany.github.io/passphrase.js",
   "pastate": "birdleescut.github.io/pastate",
+  "paste": "cname.vercel-dns.com", // noCF
   "pastebin-alert": "ramadhanamizudin.github.io/pastebin-alert.js", // noCF? (don´t add this in a new PR)
   "pathtrace": "kovacsv.github.io/WebGLPathTrace", // noCF? (don´t add this in a new PR)
   "pawnote": "literateink.github.io/Pawnote",
