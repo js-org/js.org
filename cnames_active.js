@@ -15,8 +15,8 @@
  *              or "foo.github.io/bar" for a Project Page).
  *
  * CLOUDFLARE:  JS.ORG uses Cloudflare as its DNS. By default, Cloudflare proxies all requests to your subdomain
- * to get SSL support (https://foo.js.org) and make use of browser caching with a TTL of 30 min.
- * But you can opt-out from this and make Cloudflare forward all requests directly to GitHub.
+ *              to get SSL support (https://foo.js.org) and make use of browser caching with a TTL of 30 min.
+ *              But you can opt-out from this and make Cloudflare forward all requests directly to GitHub.
  *              Just add '// noCF' in the line of your requested subdomain to give us a hint.
  *              (all the lines marked with '// noCF?' are from a time when a requester had to explicitly opt-in;
  *              see: https://github.com/js-org/js.org/issues/554)
@@ -30,7 +30,7 @@
  *              the section "naming conflicts" in the wiki!
  *
  * NOTICE:      Please follow the format set by everyone else in this file. Entries should use double quotes,
- * with space between the colon (after the key) and the value and should always be in alphabetical
+ *              with space between the colon (after the key) and the value and should always be in alphabetical
  *              order. Each line apart from the very last entry should have a comma after it to ensure this file
  *              is valid syntax.
  *
