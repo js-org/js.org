@@ -399,6 +399,7 @@ var cnames_active = {
   "brandifyjs": "greybax.github.io/brandifyjs",
   "brandonmerritt": "brandonmerritt.github.io", // noCF? (don´t add this in a new PR)
   "brasil": "javascriptbrasil.github.io",
+  "brazil": "https://braziljs.github.io/2025-conf/",
   "brawley": "brawlie.github.io/brawley",
   "brawlstats": "brawlstatsjs.netlify.app",
   "breadbot": "centralomd.github.io/breadbot",
