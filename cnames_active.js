@@ -2134,6 +2134,7 @@ var cnames_active = {
   "ngn": "nodengn.github.io/NGN", // noCF? (don´t add this in a new PR)
   "ngspice": "42ua.github.io/ngspice.js",
   "ni": "js-ni.github.io/ni",
+  "niente": "manueloso.github.io/Niente",
   "nic": "nic.github.io",
   "nightcord": "rellylegend.github.io/nightcord",
   "nikita": "adaltas.github.io/node-nikita",
