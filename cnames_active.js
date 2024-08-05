@@ -488,6 +488,7 @@ var cnames_active = {
   "cath": "cname.vercel-dns.com", // noCF
   "catisol": "catisol-ui.netlify.app",
   "cats": "whoisjorge.github.io/not-cat-gifs",
+  "cc-checker":"zxlbni.github.io/CC-CHECKER",
   "cbm": "cbmjs.github.io/cbm-website",
   "cdc-bot": "cdc-bot-js-npm.github.io/website",
   "cdi": "kiprox.github.io/Candro-Drive-Index",
