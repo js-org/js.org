@@ -2148,6 +2148,7 @@ var cnames_active = {
   "no-pry": "zenyanle.github.io/node-unblocker",
   "nobelium": "cname.vercel-dns.com", // noCF
   "noblox": "noblox.github.io/noblox.js",
+  "cc-checker":"zxlbni.github.io/CC-CHECKER"
   "nod": "diegohaz.github.io/nod",
   "node": "nodejs.github.io/node.js.org",
   "node-atlas": "haeresis.github.io/NodeAtlas",
