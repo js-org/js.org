@@ -2561,6 +2561,7 @@ var cnames_active = {
   "reactabular": "bebraw.github.io/reactabular",
   "reactant": "unadlib.github.io/reactant",
   "reactdesktop": "gabrielbull.github.io/react-desktop", // noCF? (don´t add this in a new PR)
+  "reactflow-cn": "cname.vercel-dns.com", // noCF
   "reactiflux": "reactiflux.netlify.app",
   "reactour": "elrumordelaluz.github.io/reactour",
   "reactpatterns": "reactpatterns.github.io",
