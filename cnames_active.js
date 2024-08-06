@@ -3479,6 +3479,7 @@ var cnames_active = {
   "wedgetail": "wedgetail.netlify.app",
   "weekly": "xdimh.github.io/weekly",
   "welcome": "edapm.github.io/welcomejs",
+  "webwork": "slatev1.github.io
   "wepl": "obnoxiousnerd.github.io/wepl-website",
   "wfplayer": "zhw2590582.github.io/WFPlayer",
   "wglt": "codyebberson.github.io/wglt",
