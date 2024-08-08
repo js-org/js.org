@@ -3330,7 +3330,6 @@ var cnames_active = {
   "utscrooms": "sunakujira1.github.io/UTSCRooms",
   "uuid": "rumkin.github.io/uuid",
   "uvcharts": "imaginea.github.io/uvCharts", // noCF? (don´t add this in a new PR)
-  "webbuild": "fiftys7vencode.github.io/webbuild",
   "v-charts": "elemefe.github.io/v-charts",
   "v-decorators": "v-decorators.netlify.app",
   "v3.swup": "swup-v3-docs.netlify.app", // noCF
@@ -3464,6 +3463,7 @@ var cnames_active = {
   "web.quizlet": "redyetidev.github.io/Quizlet.JS-Web", // noCF
   "web230": "paylesworth.github.io/web230",
   "webassembly": "xtuc.github.io/webassemblyjs",
+  "webbuild": "fiftys7vencode.github.io/webbuild",
   "webconnect": "nuzulul.github.io/webConnect.js",
   "webfetch": "c1tizen.github.io/webfetch",
   "webmc": "michaljaz.github.io/webmc",
