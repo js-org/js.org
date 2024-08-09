@@ -568,6 +568,7 @@ var cnames_active = {
   "code-tour": "code-tour.netlify.app",
   "codebooky": "hiteshsubnani0128.github.io/codebooky",
   "codemade": "codemade.github.io", // noCF? (don´t add this in a new PR)
+  "codemirror-languageservice": "codemirror-languageservice.netlify.app",
   "codepan": "egoist.github.io/codepan",
   "codewing": "nicesapien.github.io/codewing",
   "codinsky": "izhaki.github.io/codinsky",
