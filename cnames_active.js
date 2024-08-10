@@ -934,6 +934,7 @@ var cnames_active = {
   "dynamic-record": "na-west1.surge.sh",
   "dynamicsnode": "crisfervil.github.io/DynamicsNode",
   "dynamotion": "cname.vercel-dns.com", // noCF`
+  "dynaspark": "dynaspark.onrender.com",
   "dyo": "dyo.github.io/dyo",
   "dyte": "dytejs.github.io",
   "e-query": "mjkhonline.github.io/e-query",
