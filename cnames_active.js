@@ -2069,6 +2069,7 @@ var cnames_active = {
   "mylas": "raouldeheer.github.io/Mylas",
   "mysketch": "dipanshkhandelwal.github.io/MySketch",
   "mythbusters": "cname.vercel-dns.com", // noCF
+  "mytrivia": "cpro95.github.io/mytrivia",
   "myurl": "marvnet.github.io/myurl",
   "mzaini30": "mzaini30.github.io",
   "mzplayer": "prince3661.github.io/Mzplayer",
