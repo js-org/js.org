@@ -1792,6 +1792,7 @@ var cnames_active = {
   "lostyle": "rtsao.github.io/lostyle",
   "lottiefy": "pd4d10.github.io/lottiefy",
   "loxt": "loxt.netlify.app",
+  "lp": "1aopao.github.io",
   "lps": "mauris.github.io/lps.js.org",
   "lribeiro": "lmribeiro.github.io",
   "ls": "links-js.github.io",
