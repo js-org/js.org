@@ -401,6 +401,7 @@ var cnames_active = {
   "brasil": "javascriptbrasil.github.io",
   "brawley": "brawlie.github.io/brawley",
   "brawlstats": "brawlstatsjs.netlify.app",
+  "brazil": "braziljs.github.io/2025-conf",
   "breadbot": "centralomd.github.io/breadbot",
   "brick-next": "easyops-cn.github.io/brick-next",
   "bricklayer": "ademilter.github.io/bricklayer", // noCF? (don´t add this in a new PR)
@@ -567,6 +568,7 @@ var cnames_active = {
   "code-tour": "code-tour.netlify.app",
   "codebooky": "hiteshsubnani0128.github.io/codebooky",
   "codemade": "codemade.github.io", // noCF? (don´t add this in a new PR)
+  "codemirror-languageservice": "codemirror-languageservice.netlify.app",
   "codepan": "egoist.github.io/codepan",
   "codewing": "nicesapien.github.io/codewing",
   "codinsky": "izhaki.github.io/codinsky",
@@ -1449,6 +1451,7 @@ var cnames_active = {
   "immybox": "immense.github.io/immybox", // noCF? (don´t add this in a new PR)
   "impress": "impress.github.io/impress.js",
   "imrc-datetime-picker": "smrsan76.github.io/imrc-datetime-picker",
+  "imvu": "imvujs.pages.dev", // noCF
   "indie": "indie-org.github.io/indie",
   "infinite-tree": "cheton.github.io/infinite-tree",
   "infoooze": "devxprite.github.io/infoooze",
@@ -1659,6 +1662,7 @@ var cnames_active = {
   "koutla-swiss": "leny.github.io/koutla-swiss",
   "kowalski": "k0walslk1.github.io",
   "kra": "kra-framework.github.io/kra-suite", // noCF
+  "krds": "krds-community.github.io/krds-react",
   "kremling": "canopytax.github.io/kremling.js.org",
   "kshitij": "kshitij98.github.io",
   "ksp": "keepsobp.github.io",
@@ -2165,6 +2169,7 @@ var cnames_active = {
   "noobscroll": "arguiot.github.io/NoobScroll",
   "nord": "anandchowdhary.github.io/nord.js",
   "nostalgist": "arianrhodsandlot.github.io/nostalgist",
+  "nostr": "nuzulul.github.io/NOSTRJS",
   "notasdeprogramador": "hugoroca.github.io/notasdeprogramador",
   "notebook": "wugenqiang.github.io/NoteBook",
   "noted": "carter-slade.github.io/Noted-", // noCF? (don´t add this in a new PR)
@@ -2559,6 +2564,7 @@ var cnames_active = {
   "reactabular": "bebraw.github.io/reactabular",
   "reactant": "unadlib.github.io/reactant",
   "reactdesktop": "gabrielbull.github.io/react-desktop", // noCF? (don´t add this in a new PR)
+  "reactflow-cn": "cname.vercel-dns.com", // noCF
   "reactiflux": "reactiflux.netlify.app",
   "reactour": "elrumordelaluz.github.io/reactour",
   "reactpatterns": "reactpatterns.github.io",
@@ -3459,6 +3465,7 @@ var cnames_active = {
   "web.quizlet": "redyetidev.github.io/Quizlet.JS-Web", // noCF
   "web230": "paylesworth.github.io/web230",
   "webassembly": "xtuc.github.io/webassemblyjs",
+  "webbuild": "fiftys7vencode.github.io/webbuild",
   "webconnect": "nuzulul.github.io/webConnect.js",
   "webfetch": "c1tizen.github.io/webfetch",
   "webmc": "michaljaz.github.io/webmc",
