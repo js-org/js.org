@@ -1185,6 +1185,7 @@ var cnames_active = {
   "fuck": "gerd2002.github.io/fuck.js",
   "fudgel": "fidian.github.io/fudgel",
   "fugapedia": "fugapediajs.github.io/website",
+  "fuling": "0fuling0.github.io/home",
   "fullscreen": "motyar.github.io/fullscreen",
   "funbook": "egoist.github.io/funbook",
   "funcs": "funcs-package.github.io/docs",
