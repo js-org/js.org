@@ -1271,10 +1271,10 @@ var cnames_active = {
   "govind": "emgk.github.io",
   "gr": "cname.vercel-dns.com", // noCF
   "gracile": "gracile.netlify.app",
+  "graffle": "jasonkuhrt.github.io/graphql-request",
   "gram": "gram-js.github.io/docs",
   "gramps": "gramps-graphql.github.io/gramps",
-  "graph": "tomas-wrobel.github.io/graph",
-  "graffle": "jasonkuhrt.github.io/graphql-request",
+  "graph": "tomas-wrobel.github.io/graph",  
   "graphene": "graphene-react.netlify.app",
   "graphgame": "uellenberg.github.io/Graphgame",
   "graphics2d": "keyten.github.io/Graphics2D", // noCF? (don´t add this in a new PR)
