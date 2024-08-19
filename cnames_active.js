@@ -74,6 +74,7 @@ var cnames_active = {
   "abelacostaportafolio": "asaa19971a.github.io/AbelAcostaAcostaPortafolio",
   "abhishek": "rpidanny.github.io/personal-collage",
   "abhishekmittal": "abhishek-mittal.github.io/abhishekmittal",
+  "abi": "abi-js.github.io",
   "abialbon": "abialbon.github.io",
   "aby": "icoldplayer.github.io/aby",
   "ac": "alauda.github.io/alauda-chart",
@@ -1272,6 +1273,7 @@ var cnames_active = {
   "govind": "emgk.github.io",
   "gr": "cname.vercel-dns.com", // noCF
   "gracile": "gracile.netlify.app",
+  "graffle": "jasonkuhrt.github.io/graphql-request",
   "gram": "gram-js.github.io/docs",
   "gramps": "gramps-graphql.github.io/gramps",
   "graph": "tomas-wrobel.github.io/graph",
@@ -1671,6 +1673,7 @@ var cnames_active = {
   "ktm": "developers-nepal.github.io/ktmjs",
   "kucos": "kucosjs.github.io",
   "kumeru": "ultirequiem.github.io/kumeru",
+  "kun": "lmk97.github.io/kun-docs",
   "kunal": "kunalghosh02.github.io",
   "kunkun": "smallkunkun.github.io",
   "kyoto": "kyotojs.github.io",
