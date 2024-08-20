@@ -2494,6 +2494,7 @@ var cnames_active = {
   "r": "r-js.github.io",
   "ractive": "ractivejs.github.io",
   "rad": "rapid-application-development-js.github.io/RAD.JS", // noCF? (don´t add this in a new PR)
+  "radashi": "radashi-org.github.io",
   "radi": "radi-js.github.io/radi",
   "radial": "ckgrafico.github.io/radial.js", // noCF? (don´t add this in a new PR)
   "rafaelmangolin": "rafaelmangolin.github.io", // noCF? (don´t add this in a new PR)
@@ -3170,6 +3171,7 @@ var cnames_active = {
   "tictactoe": "jeff-tian.github.io/tic-tac-toe-ai",
   "tiden": "tidenjs.netlify.app",
   "tidy": "tidy-js.github.io",
+  "tik": "nascjoao.github.io/tikjs",
   "timeout": "anshuman-verma.github.io/setTimeout",
   "timer": "timerjsorg.netlify.app",
   "timerizer": "callumacrae.github.io/timerizerJS", // noCF? (don´t add this in a new PR)
