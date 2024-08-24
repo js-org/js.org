@@ -1602,6 +1602,7 @@ var cnames_active = {
   "kairusds": "kairusds.github.io",
   "kali": "kali65536.github.io",
   "kalm": "fed135.github.io/kalm.github.io", // noCF? (don´t add this in a new PR)
+  "kalsel": "cname.vercel-dns.com", // noCF
   "kampala": "javascriptkampala.github.io/kampala",
   "kanji": "eidoriantan.github.io/kanji.js",
   "karateblobs": "karatewumpus.github.io/karateblobs",
