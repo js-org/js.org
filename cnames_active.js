@@ -1260,6 +1260,7 @@ var cnames_active = {
   "glottologist": "arguiot.github.io/Glottologist",
   "glyph": "zyrouge.github.io/glyph.css",
   "gnatale": "giosooul.github.io/gnatale.github.io",
+  "go": "northwoodssoftware.github.io/go.js.org",
   "god": "godow.github.io",
   "goji": "airbnb.github.io/goji-js",
   "gol": "goljs.github.io/GoL",
