@@ -3614,6 +3614,7 @@ var cnames_active = {
   "zombie": "assaf.github.io/zombie", // noCF? (don´t add this in a new PR)
   "zova": "cabloy.github.io/zova",
   "zustand-cn": "cname.vercel-dns.com", // noCF
+  "zxb": "zcs8.github.io"
   "zyh": "zyh-chopper.github.io/zyh",
   "zykj": "cname.vercel-dns.com", // noCF
   "zyx": "zyx.alwaysdata.net",
