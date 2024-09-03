@@ -3236,6 +3236,7 @@ var cnames_active = {
   "ts2jsdoc": "spatools.github.io/ts2jsdoc", // noCF? (don´t add this in a new PR)
   "tsch": "type-challenges.netlify.app",
   "tsdi": "knisterpeter.github.io/tsdi",
+  "tsemrtd": "li0ard.is-cool.dev/tsemrtd",
   "tslog": "fullstack-build.github.io/tslog",
   "tsubasa": "tsubasa.netlify.app",
   "tsx-browser-compiler": "rexskz.github.io/tsx-browser-compiler",
