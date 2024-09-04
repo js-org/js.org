@@ -3536,6 +3536,7 @@ var cnames_active = {
   "wss": "iguanren.github.io/wss",
   "wstool": "sy-records.github.io/wstool", // noCF
   "wugenqiang": "wugenqiang.github.io/wugenqiang.js.org",
+  "wumpus": "cname.vercel-dns.com",
   "www.next-auth": "cname.vercel-dns.com", // noCF
   "wyfe": "wangyuanstudio.github.io/WYFE", // noCF? (don´t add this in a new PR)
   "wynncraft": "frawolf.github.io/wynncraft.js",
