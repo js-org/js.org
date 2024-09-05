@@ -391,6 +391,7 @@ var cnames_active = {
   "boowindcss": "nawazishali.github.io/BoowindCSS", // noCF
   "bornaeon": "bornaeon.github.io",
   "botgram": "botgram.github.io/botgram",
+  "botlab": "cname.vercel-dns.com", // noCF
   "bottender": "yoctol.github.io/bottender",
   "bottlecap": "rwbeast.github.io/bottlecap",
   "boundless": "enigma-io.github.io/boundless",
