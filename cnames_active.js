@@ -2903,6 +2903,7 @@ var cnames_active = {
   "skyscript": "cname.vercel-dns.com", // noCF
   "skyware": "skyware-js.github.io/web", // noCF
   "slang": "ramadis.github.io/slang", // noCF? (don´t add this in a new PR)
+  "slapshot": "dvhsh.github.io/slapshot.ts",
   "slash-create": "snazzah.github.io/slash-create-website",
   "slate": "iamshouvikmitra.github.io/slate",
   "slidemenu": "alexkratky.github.io/SlideMenu.js",
