@@ -2154,6 +2154,7 @@ var cnames_active = {
   "nite": "manvalls.github.io/nite",
   "nitrate": "ranjithrd.github.io/nitrate",
   "nnmap": "marzavec.github.io/nnmap.js",
+  "nn": "ix520.github.io",
   "no-pry": "zenyanle.github.io/node-unblocker",
   "nobelium": "cname.vercel-dns.com", // noCF
   "noblox": "noblox.github.io/noblox.js",
