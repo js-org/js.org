@@ -3129,6 +3129,7 @@ var cnames_active = {
   "taxi": "craftedbygc.github.io/taxi",
   "tayyab": "itayyab.github.io",
   "tclock": "treeentertainment.github.io/tclock",
+  "tree": "202420505.github.io", // noCF
   "tdhandler": "hosting.gitbook.com",
   "tead": "teadjs.github.io",
   "techthinker": "tech-thinker.github.io",
