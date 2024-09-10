@@ -2237,6 +2237,7 @@ var cnames_active = {
   "omer": "omeroot.github.io", // noCF? (don´t add this in a new PR)
   "omg": "pengjiyuan.github.io/omg",
   "omid": "omidnikrah.github.io/omid",
+  "omniutils": "cname.vercel-dns.com", // noCF
   "onefx": "puncsky.github.io/onefx-home",
   "onemsg": "7f4243c7-d171-416a-ad3d-19ba04fe36f5.id.repl.co", // noCF
   "ongaku": "anshuman-verma.github.io/ongaku",
