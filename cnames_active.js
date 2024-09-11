@@ -2246,8 +2246,8 @@ var cnames_active = {
   "oox": "lipingruan.github.io/oox",
   "opcommands": "02550ce547-hosting.gitbook.io", // noCF
   "open-next": "serverless-stack.github.io/open-next",
-  "opennext": "opennextjs.github.io/docs",
   "openkey": "microlinkhq.github.io/openkey",
+  "opennext": "opennextjs.github.io/docs",
   "openrecord": "philwaldmann.github.io/openrecord",
   "opentrivia-guide": "turtlepaw.github.io/trivia-docs",
   "opentype": "nodebox.github.io/opentype.js",
