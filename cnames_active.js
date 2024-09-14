@@ -645,6 +645,7 @@ var cnames_active = {
   "cote": "dashersw.github.io/cote", // noCF? (don´t add this in a new PR)
   "cotton": "cottonjs.netlify.app",
   "country": "growmies.github.io/countryjs", // noCF? (don´t add this in a new PR)
+  "countdowns": "fiftys7vencode.github.io/countdowns",
   "cov19": "mixon00.github.io/cov19-cli",
   "cp": "nestedobjects.github.io/cp",
   "cplayer": "copay.github.io/cPlayer",
