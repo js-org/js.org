@@ -273,6 +273,7 @@ var cnames_active = {
   "awardify": "cname.vercel-dns.com", // noCF
   "awesome-alexa": "dolanmiu.github.io/MMM-awesome-alexa",
   "awesome-javascript": "kungfu321.github.io/awesome-javascript",
+  "elgarmattou" : "https://elgarmattou.github.io/elgarmattou/",
   "awesome-nuxt": "ansidev.github.io/awesome-nuxt",
   "awesome-vue": "rmjordas.github.io/awesome-vue",
   "awesome-web-monetization": "thomasbnt.github.io/awesome-web-monetization",
