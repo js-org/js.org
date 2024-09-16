@@ -151,6 +151,7 @@ var cnames_active = {
   "alien": "pschroen.github.io/alien.js",
   "aligos": "aligos.github.io", // noCF? (don´t add this in a new PR)
   "alipay": "thenorthmemory.github.io/alipay.js.org",
+  "alivzamuro": "https://alivzamuro.github.io/Portafolio/",
   "all": "learnsomuch.github.io/all.js", // noCF? (don´t add this in a new PR)
   "all-contributors": "all-contributors-js-org.netlify.app",
   "almeida": "almeidx.github.io",
