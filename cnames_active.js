@@ -2855,6 +2855,8 @@ var cnames_active = {
   "short": "shortit.netlify.app",
   "shortener": "jsmiith.github.io/shortener",
   "shortio": "ichiidev.github.io/short.io-docs",
+  "shovan" : "shovan312.github.io",
+  "shovanblog" : "https://local-sovereign-ce6.notion.site/d73a6fa722c84898b7bd2895d2bdb0fe?v=c12a545174934043a7e78f64f17caeab",
   "shuwan9": "shuwan9.github.io",
   "siddharth": "chaudhs769.github.io/siddharth.js.org",
   "sidekick": "cname.vercel-dns.com", // noCF
