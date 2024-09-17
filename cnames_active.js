@@ -3453,6 +3453,7 @@ var cnames_active = {
   "vuikit": "vuikit.netlify.app",
   "vulkava": "hosting.gitbook.io", // noCF
   "vxv": "vxv.netlify.app",
+  "vihanga" : "vihangapi.vercel.app",
   "w4ctech": "w4ctech.github.io",
   "w4j1e": "w4j1e.github.io",
   "wahtson": "wahtson.github.io",
