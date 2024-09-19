@@ -754,6 +754,7 @@ var cnames_active = {
   "defi": "finom.github.io/defi.js.org",
   "delegacias-fortaleza": "juliosampaio.github.io/delegacias-fortaleza", // noCF? (don´t add this in a new PR)
   "delet": "ds-development.github.io/delet",
+  "demo.linksharer": "linksharer.github.io/LinkSharer",
   "demo.upptime": "upptime.github.io/upptime", // noCF
   "democracy": "invisible-college.github.io/democracy",
   "denalon": "denalon.github.io",
@@ -1759,6 +1760,7 @@ var cnames_active = {
   "lineup": "lineupjs.github.io",
   "lineup-lite": "lineup-lite.netlify.app",
   "lineupengine": "lineupjs.github.io/lineupengine.js.org",
+  "linksharer": "linksharer.github.io/linksharer.js.org",
   "ling": "wangziling.github.io",
   "linghucong": "jiji262.github.io",
   "lingui": "cname.vercel-dns.com", // noCF
