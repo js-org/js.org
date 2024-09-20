@@ -1566,6 +1566,7 @@ var cnames_active = {
   "josecarloszamoragomezportfolio": "josecarloszamoragomez.github.io/Portfolio",
   "josep": "warlock.github.io",
   "josn": "iaseth.github.io/josn",
+  "jova": "bracketed.github.io/jova.js",
   "joycon": "cname.vercel-dns.com", // noCF
   "jparticles": "jparticles.github.io/Documentation",
   "js-fixerr": "anujsinghwd.github.io/js-fixerr",
