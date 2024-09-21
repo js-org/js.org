@@ -705,7 +705,7 @@ var cnames_active = {
   "cyris": "icyris.github.io",
   "d-patterns": "alias.zeit.co", // noCF
   "d4": "joelburget.github.io/d4",
-  "dai": "dai.github.io",
+  "dai": "dai.github.io/js.org",
   "daily.tmr": "tmr-daily.netlify.app", // noCF
   "daisy": "warengonzaga.github.io/daisy.js",
   "dakokonutboi": "dakokonutboi.github.io/portfolio",
