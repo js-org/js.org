@@ -1537,6 +1537,7 @@ var cnames_active = {
   "jcord": "discord-jcord.github.io/jcord",
   "jdc": "jdceeb.github.io",
   "jds": "alimanman.github.io/jds",
+  "jds25": "alimanman.github.io/jds25",
   "je": "cname-china.vercel-dns.com", // noCF
   "jelly": "hosting.gitbook.io", // noCF
   "jena": "javascript-in-jena.github.io", // noCF
