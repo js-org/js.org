@@ -3605,6 +3605,7 @@ var cnames_active = {
   "yup-phone": "abhisekp.github.io/yup-phone",
   "yurd": "thebigbot0000.github.io/yurd.js.org",
   "yusril": "yusrilhs.github.io", // noCF
+  "yuuka": "yuuka-docs.vercel.app",
   "yuye": "cyea.github.io",
   "yvm": "tophat.github.io/yvm",
   "zaimu": "zaimu.netlify.app", // noCF
