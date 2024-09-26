@@ -3030,6 +3030,7 @@ var cnames_active = {
   "stats": "js-org.github.io/stats.js.org",
   "status": "mattipv4.github.io/status-codes",
   "status-hx": "status-hx-js-org.versatile.org.uk", // noCF
+  "stax": "stax.serv00.net",
   "steemsites": "yhozen.github.io/steemsites",
   "stego": "zeruniverse.github.io/CryptoStego", // noCF? (don´t add this in a new PR)
   "stein": "cname.vercel-dns.com", // noCF
