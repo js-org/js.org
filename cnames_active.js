@@ -38,7 +38,7 @@
  */
 
 var cnames_active = {
-  "aryaejoumalai":"aryaejoumalai.github.io"
+  "aryaejoumalai":"aryaejoumalai.github.io/portfolio"
   "": "js-org.github.io",
   "01mz": "01mz.github.io",
   "100dayz": "deadcoder0904.github.io/100dayz",
