@@ -74,6 +74,7 @@ var cnames_active = {
   "abelacostaportafolio": "asaa19971a.github.io/AbelAcostaAcostaPortafolio",
   "abhishek": "rpidanny.github.io/personal-collage",
   "abhishekmittal": "abhishek-mittal.github.io/abhishekmittal",
+  "abhishekgupta": "imabhishek476.github.io/abhishekgupta"
   "abi": "abi-js.github.io",
   "abialbon": "abialbon.github.io",
   "aby": "icoldplayer.github.io/aby",
