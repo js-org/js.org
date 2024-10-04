@@ -534,6 +534,7 @@ var cnames_active = {
   "citeapa": "natsuozawa.github.io/citeapa",
   "city": "city.github.io",
   "civet": "civet-org.github.io",
+  "cj1899": "cj1899.github.io"
   "cjss": "cjss-group.github.io/CJSS",
   "ck": "chunkeat99.github.io/ck.js.org",
   "ckkibet": "ckkibet.github.io",
