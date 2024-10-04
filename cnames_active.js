@@ -771,6 +771,7 @@ var cnames_active = {
   "detect-resize": "noderaider.github.io/detect-resize", // noCF? (don´t add this in a new PR)
   "detector": "blackmirror1980.github.io/detector-js",
   "deterministic": "nodeguy.github.io/Deterministic.js",
+  "devhanza": "hansana.is-a.dev",
   "dev-panel": "involve-digital.github.io/dev-panel",
   "dev-sandbox": "iam-medvedev.github.io/dev-sandbox",
   "developerfolio": "saadpasta.github.io/developerFolio",
@@ -1340,6 +1341,7 @@ var cnames_active = {
   "hamed": "phpniki.github.io/hamed",
   "hana": "romantic-kare-c84899.netlify.app",
   "hanan": "hanandito.github.io/teddypicker",
+  "hansana": "hansana.is-a.dev",
   "hapi-sol": "yonjah.github.io/hapi-sol",
   "hapin": "ha-pin.github.io",
   "happy": "e24.github.io/happy", // noCF? (don´t add this in a new PR)
