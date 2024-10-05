@@ -1,1 +1,0 @@
-can.js.org
