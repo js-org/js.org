@@ -1350,6 +1350,7 @@ var cnames_active = {
   "hashparser": "rvanbaalen.github.io/hashparser",
   "hasura-om": "mrspartak.github.io/hasura-om",
   "hay": "hayjs.github.io/hay.js.org",
+  "havoc": "kyedevelopment.github.io/Havoc",
   "hbase": "adaltas.github.io/node-hbase-docs",
   "hcs": "kimcore.github.io/hcs.js", // noCF
   "headunit": "riipandi.github.io/headunit",
