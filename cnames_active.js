@@ -365,6 +365,7 @@ var cnames_active = {
   "blockauth": "faragly.github.io/blockauth",
   "blog.arga": "argaghulamahmad.netlify.app", // noCF
   "blog543": "saepulfariz.github.io/blog543",
+  "blogg":"chocolateater.github.io",
   "blogzen": "mzaini30.github.io/blogzen",
   "blooket": "redyetidev.github.io/blooket.js",
   "bloomer": "algusdark.github.io/bloomer",
