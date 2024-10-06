@@ -2406,6 +2406,7 @@ var cnames_active = {
   "polix": "polix.netlify.app",
   "polkadot": "polkadot-js.github.io",
   "polona": "huxinfeng.github.io/polona",
+  "polydns": "cname.vercel-dns.com", // noCF
   "polygon-clipping": "mfogel.github.io/polygon-clipping",
   "polythene": "arthurclemens.github.io/Polythene", // noCF? (don´t add this in a new PR)
   "pomidorus": "tatyshev.github.io/pomidorus",
