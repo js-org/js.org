@@ -2475,6 +2475,7 @@ var cnames_active = {
   "puppet": "anandchowdhary.github.io/puppet",
   "pure": "fengzilong.github.io/pure",
   "purplet": "purpletjs.netlify.app",
+  "puzzle": "puzzlelang.github.io",
   "pushoo": "imaegoo.github.io/pushoo",
   "pusu": "xliudaxia.github.io/pusu-ui",
   "pwa": "charistheo.github.io/pwa.js.org",
