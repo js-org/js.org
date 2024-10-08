@@ -2478,6 +2478,7 @@ var cnames_active = {
   "purplet": "purpletjs.netlify.app",
   "pushoo": "imaegoo.github.io/pushoo",
   "pusu": "xliudaxia.github.io/pusu-ui",
+  "puzzle": "puzzlelang.github.io",
   "pwa": "charistheo.github.io/pwa.js.org",
   "pwa-cookbook": "sylvainpolletvillard.github.io/pwa-cookbook",
   "pwa-workshop": "sylvainpolletvillard.github.io/pwa-workshop",
