@@ -1,2 +1,2 @@
 - [x] I have read and accepted the [Terms and Conditions](http://js.org/terms.html)
-- [x] There is reasonable content on the page: ***[puzzlelang.github.io]***
+- [x] There is reasonable content on the page: ***[insert URL here]***
