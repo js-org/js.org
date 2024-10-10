@@ -56,8 +56,7 @@ var cnames_active = {
   "404": "licshee.github.io/404",
   "766": "766.github.io",
   "7anshuai": "7anshuai.github.io", // noCF? (don´t add this in a new PR)
-  "8085sim": "ahmedazhar05.github.io/8085sim",
-  "85": "roru-cmd.github.io/85",
+  "8085sim": "ahmedazhar05.github.io/8085sim",  
   "98": "1j01.github.io/98",
   "98plus": "cherrim98.github.io",
   "9932": "dannyzhan.github.io",
@@ -1441,6 +1440,7 @@ var cnames_active = {
   "idettman": "idettman.github.io",
   "idraw": "idrawjs.github.io",
   "ienumerable": "mbasso.github.io/ienumerable",
+  "if": "roru-cmd.github.io/if",
   "iffe": "iffe-team.github.io",
   "iflow": "unadlib.github.io/iflow",
   "igecorp": "igecorp.github.io/ige-djs-website",
