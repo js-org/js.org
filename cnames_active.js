@@ -3046,6 +3046,7 @@ var cnames_active = {
   "storelocator": "storelocatorjs.github.io",
   "story": "alltobebetter.github.io/story",
   "storybook": "cname.vercel-dns.com", // noCF
+  "storybook-test2": "apex-loadbalancer.netlify.com", // noCF
   "storybooks": "storybooks.github.io",
   "str": "manelet.github.io/str",
   "stratic": "straticjs.github.io",
