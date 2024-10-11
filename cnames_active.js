@@ -2241,6 +2241,7 @@ var cnames_active = {
   "oktay": "98oktay.github.io/oktaybaskus",
   "olaindex": "wangningkai.github.io/OLAINDEX",
   "olivia": "oliviachang29.github.io",
+  "olovajs" : "cname.vercel-dns.com.", // noCF
   "omaha": "omahajs.github.io",
   "omega": "jczimm.github.io/omega", // noCF? (don´t add this in a new PR)
   "omer": "omeroot.github.io", // noCF? (don´t add this in a new PR)
@@ -2280,7 +2281,6 @@ var cnames_active = {
   "ovo": "ovojs.github.io/OvO",
   "oxi": "cname.vercel-dns.com", // noCF
   "oz": "openzagreb.github.io",
-  "olovajs" : "cname.vercel-dns.com.",
   "p2psc": "kognise.github.io/p2psc",
   "p3terx": "p3terx.github.io/P3TERX",
   "p7e4": "p7e4.github.io",
