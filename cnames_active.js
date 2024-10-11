@@ -679,6 +679,7 @@ var cnames_active = {
   "crystaldb": "erikmcm.github.io/CrystalDB",
   "crystalpay-sdk": "deadshumz.github.io/crystalpay-sdk",
   "css-variable": "jantimon.github.io/css-variable",
+  "cssfun": "8tentaculos.github.io/cssfun",
   "cssx": "salteadorneo.github.io/cssx",
   "csur": "cname.vercel-dns.com", // noCF
   "csv": "adaltas.github.io/node-csv-docs",
@@ -1770,6 +1771,7 @@ var cnames_active = {
   "linkcord": "nils-afk.github.io/linkcord.js.org", // noCF
   "linkify": "hypercontext.github.io/linkifyjs",
   "linksharer": "linksharer.github.io/linksharer.js.org",
+  "lion": "lion-web.netlify.app",
   "lips": "jcubic.github.io/lips",
   "lipsum": "llxlr.github.io/lipsum.js",
   "liquid-ajax-cart": "evgeniymukhamedjanov.github.io/liquid-ajax-cart",
@@ -1899,6 +1901,7 @@ var cnames_active = {
   "mca": "lem0nb.github.io/Minecraft_Auto_Builder",
   "mcd": "n9gc.github.io/mcdjs",
   "mcfly": "mcfly-js.netlify.app",
+  "mcstatus": "mcstatus-is-a-dev-hf68.onrender.com", // noCF
   "mctrl": "cname.vercel-dns.com", // noCF,
   "mcul": "russellsteadman.github.io/mcul",
   "md": "cname-china.vercel-dns.com", // noCF
@@ -2204,7 +2207,6 @@ var cnames_active = {
   "nsp": "hanul.github.io/NSP", // noCF? (don´t add this in a new PR)
   "nsptiles": "imthenachoman.github.io/nSPTiles", // noCF? (don´t add this in a new PR)
   "nsw-coronavirus": "maxgherman.github.io/nsw-coronavirus",
-  "nuclear": "nukeop.github.io/nuclear",
   "nugu": "vietcode.github.io/nugu",
   "null": "false.netlify.app",
   "num2words": "mcnagynorbi.github.io/num2words",
@@ -2405,6 +2407,7 @@ var cnames_active = {
   "polix": "polix.netlify.app",
   "polkadot": "polkadot-js.github.io",
   "polona": "huxinfeng.github.io/polona",
+  "polydns": "cname.vercel-dns.com", // noCF
   "polygon-clipping": "mfogel.github.io/polygon-clipping",
   "polythene": "arthurclemens.github.io/Polythene", // noCF? (don´t add this in a new PR)
   "pomidorus": "tatyshev.github.io/pomidorus",
@@ -2476,6 +2479,7 @@ var cnames_active = {
   "purplet": "purpletjs.netlify.app",
   "pushoo": "imaegoo.github.io/pushoo",
   "pusu": "xliudaxia.github.io/pusu-ui",
+  "puzzle": "puzzlelang.github.io",
   "pwa": "charistheo.github.io/pwa.js.org",
   "pwa-cookbook": "sylvainpolletvillard.github.io/pwa-cookbook",
   "pwa-workshop": "sylvainpolletvillard.github.io/pwa-workshop",
@@ -3030,6 +3034,7 @@ var cnames_active = {
   "stats": "js-org.github.io/stats.js.org",
   "status": "mattipv4.github.io/status-codes",
   "status-hx": "status-hx-js-org.versatile.org.uk", // noCF
+  "stax": "stax.serv00.net",
   "steemsites": "yhozen.github.io/steemsites",
   "stego": "zeruniverse.github.io/CryptoStego", // noCF? (don´t add this in a new PR)
   "stein": "cname.vercel-dns.com", // noCF
@@ -3518,6 +3523,7 @@ var cnames_active = {
   "whiteboard": "yhozen.github.io/whiteboard",
   "wi": "rstee.serv00.net",
   "wice": "yulioaj290.github.io/wice.js",
+  "wifidrop": "nuzulul.github.io/wifidrop",
   "wii": "andrewplus.github.io/Wii.JS",
   "wiki": "wiki-js-org.netlify.app", // noCF
   "wikidata-elements": "lisongx.github.io/wikidata-elements",
@@ -3604,6 +3610,7 @@ var cnames_active = {
   "yup-phone": "abhisekp.github.io/yup-phone",
   "yurd": "thebigbot0000.github.io/yurd.js.org",
   "yusril": "yusrilhs.github.io", // noCF
+  "yuuka": "yuukajs.github.io/docs",
   "yuye": "cyea.github.io",
   "yvm": "tophat.github.io/yvm",
   "zaimu": "zaimu.netlify.app", // noCF
