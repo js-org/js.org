@@ -1574,6 +1574,7 @@ var cnames_active = {
   "jparticles": "jparticles.github.io/Documentation",
   "js-fixerr": "anujsinghwd.github.io/js-fixerr",
   "js-labs": "cname.vercel-dns.com", // noCF
+  "js2lua": "xiangnanscu.github.io/js2lua", // noCF
   "jscord": "thepoptartcrpr.github.io/jscord",
   "jsdec": "liulihaocai.github.io/JSDec",
   "jsfe": "jsfe.netlify.app",
@@ -3051,7 +3052,7 @@ var cnames_active = {
   "storage": "uzitech.github.io/storage.js",
   "storelocator": "storelocatorjs.github.io",
   "story": "alltobebetter.github.io/story",
-  "storybook": "cname.vercel-dns.com", // noCF
+  "storybook": "apex-loadbalancer.netlify.app", // noCF
   "storybooks": "storybooks.github.io",
   "str": "manelet.github.io/str",
   "stratic": "straticjs.github.io",
