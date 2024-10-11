@@ -1600,6 +1600,7 @@ var cnames_active = {
   "just": "justjs.github.io",
   "justin-schroeder": "justin-schroeder.github.io",
   "juzgados": "mteyss.github.io/juzgados",
+  "jvdesign": "jvdesignbavaria.github.io",
   "jwc": "jwcjs.github.io/docs",
   "jwjawa": "cmdjwj.github.io",
   "jwt-autorefresh": "cchamberlain.github.io/jwt-autorefresh", // noCF? (don´t add this in a new PR)
