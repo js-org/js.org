@@ -132,9 +132,9 @@ var cnames_active = {
   "ajinkya": "steelx.github.io/ajinkyaxjs",
   "ajv": "epoberezkin.github.io/ajv",
   "akala": "npenin.github.io/akala",
+  "akar": "mahabubx7.github.io/akar",
   "akase": "cedmax.github.io/akase", // noCF? (don´t add this in a new PR)
   "akatsuki": "akatsukijs.github.io/akatsuki",
-  "akar": "mahabubx7.github.io/akar",
   "akhyar": "akhyarrh.github.io",
   "aksara": "sajenid.github.io/aksara.js",
   "akte": "akte.netlify.app",
