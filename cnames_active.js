@@ -2320,6 +2320,7 @@ var cnames_active = {
   "party": "yiliansource.github.io/party-js",
   "pas-ce-soir": "oldergod.github.io/pas-ce-soir",
   "passepartout": "falkz.github.io/passepartout.js.org",
+  "passkeys": "beyondcodebootcamp.github.io/passkeys",
   "passphrase": "therootcompany.github.io/passphrase.js",
   "pastate": "birdleescut.github.io/pastate",
   "paste": "cname.vercel-dns.com", // noCF
