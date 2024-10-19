@@ -110,6 +110,7 @@ var cnames_active = {
   "afilters": "dmytrohoi.github.io/afilters.js",
   "afmsavage": "afmsavage.github.io",
   "afterwind": "eedrxs.github.io/afterwind",
+  "africanwealth": "thenamelesstree.github.io/africanwealth",
   "agentnpm": "meetping.github.io/agentnpm",
   "aghasemi": "aghasemi.github.io",
   "agilecards": "otaklapka.github.io/agilecards",
@@ -2068,7 +2069,6 @@ var cnames_active = {
   "mujin": "mujin669.github.io",
   "multiple": "nexts.github.io/Multiple.js",
   "multiversus": "cname.vercel-dns.com", // noCF
-  "munhumutapaalpha": "munhumutapaalpha.github.io/wallet",
   "murajaah": "mzaini30.github.io/murajaah-js",
   "murathalitsever": "murathalitsever.github.io",
   "murmansk": "interfluve.github.io/Murmansk",
