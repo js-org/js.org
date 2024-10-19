@@ -342,6 +342,7 @@ var cnames_active = {
   "bestlist": "andrelucaas.github.io/bestlist",
   "bestof": "michaelrambeau.github.io/bestofjs",
   "bettertests": "antgonzales.github.io/bettertests.js.org",
+  "better-upload": "cname.vercel-dns.com",
   "between": "na-west1.surge.sh",
   "bfd": "mrsheldon.github.io/bfd.js",
   "bhailang": "dullabs.github.io/bhai-lang",
