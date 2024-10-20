@@ -1815,6 +1815,7 @@ var cnames_active = {
   "lribeiro": "lmribeiro.github.io",
   "ls": "links-js.github.io",
   "lt": "cname.vercel-dns.com", // noCF
+  "lua2js": "xiangnanscu.github.io/lua2js", // noCF
   "lucia": "lucia.netlify.app",
   "luciascript": "luciascript.netlify.app",
   "lucy": "lucy-bot.github.io",
