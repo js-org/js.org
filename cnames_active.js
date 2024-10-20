@@ -2909,6 +2909,7 @@ var cnames_active = {
   "single-page-web-app": "lukejpreston.github.io/single-page-web-app",
   "single-spa": "single-spa.github.io/single-spa.js.org",
   "sirkit": "seckwei.github.io/SirKit_CircuitSim", // noCF? (don´t add this in a new PR)
+  "sissi": "sissijs.github.io/sissi",
   "sistersbio": "kdiacodes.github.io/SistersBio",
   "sizle": "christoga.github.io/sizle", // noCF? (don´t add this in a new PR)
   "sjpm": "toggledtech.github.io/SJPM",
