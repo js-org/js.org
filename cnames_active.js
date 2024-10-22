@@ -1718,6 +1718,7 @@ var cnames_active = {
   "lazy": "gopirathod.github.io/lazy",
   "lazycipher": "lazycipher.github.io",
   "lazycoder": "prasantdev.github.io/lazycoder",
+  "lazyload": "gyanprabhat7.github.io/LazyLoad.JS",
   "lbox": "lbox-js.github.io",
   "lcookie": "lf112.github.io/lcookie",
   "ldf": "autplayed.github.io/ldf",
