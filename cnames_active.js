@@ -1716,6 +1716,7 @@ var cnames_active = {
   "lavashark": "hmes98318.github.io/LavaShark",
   "laveesh": "laveesh.github.io",
   "lazy": "gopirathod.github.io/lazy",
+  "lazyload": "gyanprabhat7.github.io/LazyLoad.JS",
   "lazycipher": "lazycipher.github.io",
   "lazycoder": "prasantdev.github.io/lazycoder",
   "lbox": "lbox-js.github.io",
