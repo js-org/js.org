@@ -2875,6 +2875,7 @@ var cnames_active = {
   "short": "shortit.netlify.app",
   "shortener": "jsmiith.github.io/shortener",
   "shortio": "ichiidev.github.io/short.io-docs",
+  "shoto": "cname.vercel-dns.com",
   "shrimple": "shrimplejs.github.io",
   "shuwan9": "shuwan9.github.io",
   "siddharth": "chaudhs769.github.io/siddharth.js.org",
