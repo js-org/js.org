@@ -414,6 +414,7 @@ var cnames_active = {
   "bricklayer": "ademilter.github.io/bricklayer", // noCF? (don´t add this in a new PR)
   "bricks": "easyops-cn.github.io/bricks",
   "bridge": "mystpi.github.io/bridge",
+  "brieftraeger": "stanislavaz.github.io/projectfirebase",
   "bright": "bright-js.github.io",
   "brigsby": "tynatsuhara.github.io/brigsby",
   "brizusan": "blackmyab.github.io/brizusan",
