@@ -317,6 +317,7 @@ var cnames_active = {
   "base62": "therootcompany.github.io/base62.js",
   "base64": "licshee.github.io/base64",
   "bash": "bashjs.github.io",
+  "baskly": "lyay23.github.io/lyay23",
   "bassdrum": "malte-wessel.github.io/bassdrum",
   "bastion": "snkrsnkampa.github.io/Bastion-Site",
   "battle-city": "shinima.github.io/battle-city",
