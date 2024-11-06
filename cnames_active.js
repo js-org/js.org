@@ -258,7 +258,7 @@ var cnames_active = {
   "audio-stream": "guywhogeek.github.io/audio-stream",
   "aui": "alauda.github.io/alauda-ui",
   "aunt": "79e.github.io/aunt",
-  "aurea":"jenriquezm2024.github.io/web/",
+  "aurea": "jenriquezm2024.github.io/web/",
   "autarky": "pranshuchittora.github.io/autarky",
   "auth": "cname.vercel-dns.com", // noCF
   "auto-immutable": "webkrafters.github.io/auto-immutable",
