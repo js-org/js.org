@@ -3137,6 +3137,7 @@ var cnames_active = {
   "synth": "lukehorvat.github.io/synth-mood",
   "syr": "dmikey.github.io/syr",
   "system-monitoring": "miladezzat.github.io/system-monitoring",
+  "synapic": "https://devyigit.github.io/Synapic-Search-Engine",
   "t": "l-js.mydevapp.tfuture.eu.org", // noCF
   "tab": "gdmcc.github.io/tab",
   "tabs": "mehrizi.github.io/tabs",
