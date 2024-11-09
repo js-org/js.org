@@ -2964,7 +2964,7 @@ var cnames_active = {
   "soda": "yieldray.github.io/soda",
   "solace": "cname.vercel-dns.com", // noCF
   "solder": "mcrocks999.github.io/solder.js",
-  "solid-file-upload": "https://swappea.github.io/solid-file-upload",
+  "solid-file-upload": "swappea.github.io/solid-file-upload",
   "solitude": "solitude-docs.netlify.app",
   "soloalert": "arnav-kr.github.io/soloalert",
   "solome": "solome.github.io",
