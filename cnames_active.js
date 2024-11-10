@@ -1673,6 +1673,7 @@ var cnames_active = {
   "kolorfield": "kodie.github.io/kolorfield",
   "komada": "dirigeants.github.io/komada",
   "komo": "jskull.github.io/komo",
+  "elitekamrul": "kamrullab.github.io",
   "komps": "bemky.github.io/komps",
   "konamicmd": "code-raisan.github.io/KonamiCommandJS",
   "konsumer": "konsumer.github.io", // noCF? (don´t add this in a new PR)
