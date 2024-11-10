@@ -2364,8 +2364,8 @@ var cnames_active = {
   "peter": "peterccpang.github.io",
   "pguth": "pguth.github.io",
   "ph1p": "ph1p.github.io",
-  "phantom":"eliasnau.github.io/phantomjs"
   "phaker": "phakerjs.github.io/phaker.js",
+  "phantom":"eliasnau.github.io/phantomjs",
   "pharaoh": "pharaoh-js.github.io", // noCF? (don´t add this in a new PR)
   "pharo": "pharojs.github.io/pharo-js-org",
   "phazor": "phazor-js.github.io/Phazor.js",
