@@ -1308,6 +1308,7 @@ var cnames_active = {
   "grub": "grubburg.github.io/blog",
   "gruft": "nikola.github.io/gruft", // noCF? (don´t add this in a new PR)
   "grumpy": "aidenybai.github.io/grumpy",
+  "gs": "greeningsiren.github.io",
   "gterminal": "gterminal-project.github.io",
   "gtfs": "gtfs-js.github.io/gtfs.js.org",
   "guide.guildedbot": "cname.vercel-dns.com", // noCF
