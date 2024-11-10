@@ -43,7 +43,7 @@ var cnames_active = {
   "100dayz": "deadcoder0904.github.io/100dayz",
   "101": "7anshuai.github.io/js101", // noCF? (don´t add this in a new PR)
   "131": "netrvin.github.io",
-  "sandbox": "cname.vercel-dns.com",
+  "sandbox": "ns1.vercel-dns.com",
   "140513": "140513.github.io",
   "1c": "oknosoft.github.io/1c",
   "1diaboliko84": "1diaboliko84.github.io",
