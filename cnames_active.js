@@ -3156,6 +3156,7 @@ var cnames_active = {
   "tanok": "brabadu.github.io/tanok",
   "tao": "zzyzxlab.github.io/tao.js",
   "tapi": "sinisimattia.github.io/tapi",
+  "tapedeck": "thankful-mud-0d3aedb10.5.azurestaticapps.net",
   "tara": "shakyatara.github.io",
   "tarant": "tarantx.github.io",
   "taro": "nervjs.github.io/taro-website",
