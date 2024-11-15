@@ -202,9 +202,9 @@ var cnames_active = {
   "aom": "scarych.github.io/aom",
   "aomex": "aomex.github.io",
   "apicluster": "ramsunvtech.github.io/apicluster", // noCF? (don´t add this in a new PR)
+  "api.lt": "cname.vercel-dns.com", // noCF
   "apilyertia": "apilyertia.github.io",
   "aping": "johnnythetank.github.io/apiNG", // noCF? (don´t add this in a new PR)
-  "api.lt": "cname.vercel-dns.com", // noCF
   "aplayer": "diygod.github.io/APlayer",
   "aplayer-react": "cname.vercel-dns.com", // noCF
   "apod": "marcosflorencio.github.io/angular-apod", // noCF? (don´t add this in a new PR)
