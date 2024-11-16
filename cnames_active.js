@@ -201,6 +201,7 @@ var cnames_active = {
   "aoitr": "dexaroffical.github.io/aoi.js-tr",
   "aom": "scarych.github.io/aom",
   "aomex": "aomex.github.io",
+  "api.lt": "cname.vercel-dns.com", // noCF
   "apicluster": "ramsunvtech.github.io/apicluster", // noCF? (don´t add this in a new PR)
   "apilyertia": "apilyertia.github.io",
   "aping": "johnnythetank.github.io/apiNG", // noCF? (don´t add this in a new PR)
@@ -600,7 +601,6 @@ var cnames_active = {
   "commandcord": "commandcord.github.io",
   "commandfox": "commandfox.github.io/mc-tools", // noCF? (don´t add this in a new PR)
   "commandkit": "cname.vercel-dns.com", // noCF
-  "comment.lt": "cname.vercel-dns.com", // noCF
   "commitlint": "conventional-changelog.github.io/commitlint",
   "common-utils": "common-utils.netlify.app",
   "common-utils-pkg": "iamdevlinph.github.io/common-utils-pkg",
