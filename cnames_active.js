@@ -1097,6 +1097,7 @@ var cnames_active = {
   "fancy-pants": "fancy-pants.tritarget.org",
   "fantas": "fantastiser.github.io",
   "farfetch": "websitebeaver.github.io/far-fetch",
+  "xiaochenaixuexi": "2023-08-30.github.io",
   "farfetchd": "achannarasappa.github.io/farfetchd", // noCF? (don´t add this in a new PR)
   "farzad": "wikiweb.github.io/farzad",
   "fast-ease": "caracal7.github.io/fast-ease",
