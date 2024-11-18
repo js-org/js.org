@@ -3529,6 +3529,7 @@ var cnames_active = {
   "webpack-stats": "v-webpack.netlify.app",
   "webpeer": "nuzulul.github.io/webpeerjs",
   "websheet": "pierreavn.github.io/websheetjs",
+  "websocket": "wuyunlong.github.io/ws",
   "wechatpay": "thenorthmemory.github.io/wechatpay.js.org",
   "wechaty": "cdn.chatie.io", // noCF
   "wedgetail": "wedgetail.netlify.app",
@@ -3575,7 +3576,6 @@ var cnames_active = {
   "wpwebpack": "oblakstudio.github.io/wpwebpack",
   "wq": "wqjs.alwaysdata.net",
   "writebar": "alexander-shvets.github.io/writebar",
-  "ws": "wuyunlong.github.io/ws",
   "wss": "iguanren.github.io/wss",
   "wstool": "sy-records.github.io/wstool", // noCF
   "wugenqiang": "wugenqiang.github.io/wugenqiang.js.org",
