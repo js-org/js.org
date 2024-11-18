@@ -3529,6 +3529,7 @@ var cnames_active = {
   "webpack-stats": "v-webpack.netlify.app",
   "webpeer": "nuzulul.github.io/webpeerjs",
   "websheet": "pierreavn.github.io/websheetjs",
+  "websocket": "wuyunlong.github.io/ws",
   "wechatpay": "thenorthmemory.github.io/wechatpay.js.org",
   "wechaty": "cdn.chatie.io", // noCF
   "wedgetail": "wedgetail.netlify.app",
