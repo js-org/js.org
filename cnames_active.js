@@ -1017,6 +1017,7 @@ var cnames_active = {
   "endersquid": "endersquidjs.github.io",
   "endpoint-imposter": "lukaszmakuch.github.io/endpoint-imposter",
   "energy": "energychain.github.io/energy",
+  "englishell": "tzador.github.io/englishell",
   "envshh": "sanjib-sen.github.io/envshh",
   "envy": "envyjs.github.io/os",
   "epi": "epispot.github.io/EpiJS",
