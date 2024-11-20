@@ -2200,6 +2200,7 @@ var cnames_active = {
   "noflux": "hosting.gitbook.io", // noCF
   "nomic": "basicer.github.io/nomic.js-ui",
   "noo": "uyouthe.github.io/noo",
+  "noob-api": "cname.vercel-dns.com", // noCF
   "noobscroll": "arguiot.github.io/NoobScroll",
   "nord": "anandchowdhary.github.io/nord.js",
   "nostalgist": "arianrhodsandlot.github.io/nostalgist",
