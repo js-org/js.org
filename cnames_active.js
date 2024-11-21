@@ -966,6 +966,7 @@ var cnames_active = {
   "ebay-wrapper": "tradebuddyhq.github.io/ebay-wrapper.js.org",
   "ebnsina": "ebnsina.github.io/js.ebnsina.me",
   "echo": "licshee.github.io/echo.js",
+  "echz": "zxxlbni.github.io/Noob",
   "eco": "quick-eco.netlify.app",
   "ecstar": "ecstar-js.github.io/Ecstar",
   "ed2k": "sunnyli.github.io/ed2k.js",
@@ -2197,7 +2198,6 @@ var cnames_active = {
   "noflux": "hosting.gitbook.io", // noCF
   "nomic": "basicer.github.io/nomic.js-ui",
   "noo": "uyouthe.github.io/noo",
-  "noob": "zxxlbni.github.io/Noob",
   "noobscroll": "arguiot.github.io/NoobScroll",
   "nord": "anandchowdhary.github.io/nord.js",
   "nostalgist": "arianrhodsandlot.github.io/nostalgist",
