@@ -1117,6 +1117,7 @@ var cnames_active = {
   "fff": "importantimport.github.io/fff",
   "fidel": "fidelxyz.github.io",
   "fikri": "ikrydev.github.io/fikri.js.org",
+  "file.lt": "cname.vercel-dns.com", // noCF
   "file-extension": "ultirequiem.github.io/file-extension",
   "filebokz": "kodie.github.io/filebokz",
   "filejack": "cname.vercel-dns.com", // noCF
