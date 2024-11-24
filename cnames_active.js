@@ -1019,7 +1019,7 @@ var cnames_active = {
   "energy": "energychain.github.io/energy",
   "englishell": "tzador.github.io/englishell",
   "envshh": "sanjib-sen.github.io/envshh",
-  "envy": "envy-group.github.io/webui", //transfer to new org (old org got hijacked)
+  "envy": "envy-group.github.io/webui",
   "epi": "epispot.github.io/EpiJS",
   "epicker": "eling486.github.io/EPicker-docs",
   "eplayer": "132yse.github.io/eplayer",
