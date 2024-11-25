@@ -1020,7 +1020,7 @@ var cnames_active = {
   "energy": "energychain.github.io/energy",
   "englishell": "tzador.github.io/englishell",
   "envshh": "sanjib-sen.github.io/envshh",
-  "envy": "envyjs.github.io/os",
+  "envy": "envy-group.github.io/webui",
   "epi": "epispot.github.io/EpiJS",
   "epicker": "eling486.github.io/EPicker-docs",
   "eplayer": "132yse.github.io/eplayer",
@@ -1119,6 +1119,7 @@ var cnames_active = {
   "fidel": "fidelxyz.github.io",
   "fikri": "ikrydev.github.io/fikri.js.org",
   "file-extension": "ultirequiem.github.io/file-extension",
+  "file.lt": "cname.vercel-dns.com", // noCF
   "filebokz": "kodie.github.io/filebokz",
   "filejack": "cname.vercel-dns.com", // noCF
   "filer": "filerjs.github.io/filer",
@@ -1927,6 +1928,7 @@ var cnames_active = {
   "media": "tobiasthaden.github.io/media.js",
   "media-style-palette": "rikakomoe.github.io/Media-Style-Palette",
   "mediainfo": "buzz.github.io/mediainfo.js",
+  "medicus": "arthurfiorette.github.io/medicus",
   "medit": "echosoar.github.io/medit",
   "medium": "factmaven.github.io/medium.js",
   "medium-converter": "gunar.github.io/medium-converter", // noCF
