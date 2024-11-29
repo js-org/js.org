@@ -3496,7 +3496,6 @@ var cnames_active = {
   "vuikit": "vuikit.netlify.app",
   "vulkava": "hosting.gitbook.io", // noCF
   "vxv": "vxv.netlify.app",
-  "w": "33tv.github.io/w"
   "w4ctech": "w4ctech.github.io",
   "w4j1e": "w4j1e.github.io",
   "wahtson": "wahtson.github.io",
@@ -3612,6 +3611,7 @@ var cnames_active = {
   "xterminal": "henryhale.github.io/xterminal",
   "xto6": "mohebifar.github.io/xto6", // noCF? (don´t add this in a new PR)
   "xtype": "lucono.github.io/xtypejs", // noCF? (don´t add this in a new PR)
+  "y": "33tv.github.io/y"
   "y2j": "ultirequiem.github.io/y2j",
   "y86": "quietshu.github.io/y86", // noCF? (don´t add this in a new PR)
   "yadl": "yadljs.github.io",
