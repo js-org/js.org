@@ -3053,7 +3053,6 @@ var cnames_active = {
   "starify-discord": "dastormer.github.io/starify-discord",
   "starratio": "starratio.github.io/star-ratio", // noCF
   "start": "deepsweet.github.io/start",
-  "starterdocs": "vtempest.github.io/Serverless-DOCS-Stack",
   "starterpk": "starterpk.github.io",
   "startup": "startup-js.github.io/startup",
   "state-machine-cat": "sverweij.github.io/state-machine-cat",
@@ -3126,6 +3125,7 @@ var cnames_active = {
   "svelte-formup": "kenoxa.github.io/svelte-formup",
   "svelte-lightbox": "cname.vercel-dns.com", // noCF
   "svelte-native-forms": "kevinast.github.io/svelte-native-forms",
+  "sveltestarter": "vtempest.github.io/Svelte-DOCS-Starter",
   "svelte-workshop": "korzio.github.io/svelte-workshop",
   "sveltestrap": "sveltestrap.github.io/sveltestrap",
   "svelteui": "transpiling.github.io/svelte-flat-ui",
