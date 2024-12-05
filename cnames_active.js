@@ -3501,6 +3501,7 @@ var cnames_active = {
   "vxv": "vxv.netlify.app",
   "w4ctech": "w4ctech.github.io",
   "w4j1e": "w4j1e.github.io",
+  "wahab": "wahaabm.github.io/wahab",
   "wahtson": "wahtson.github.io",
   "waline": "walinejs.github.io",
   "wangdabao": "wangdabaoqq.github.io/me",
