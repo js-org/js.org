@@ -2275,6 +2275,7 @@ var cnames_active = {
   "onlang": "rajatasusual.github.io/on-lang",
   "oox": "lipingruan.github.io/oox",
   "opcommands": "02550ce547-hosting.gitbook.io", // noCF
+  "openauth": "openauthjs.github.io/openauth",
   "open-next": "serverless-stack.github.io/open-next",
   "openkey": "microlinkhq.github.io/openkey",
   "opennext": "opennextjs.github.io/docs",
