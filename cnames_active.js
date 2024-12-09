@@ -1993,6 +1993,7 @@ var cnames_active = {
   "minigrid": "henriquea.github.io/minigrid", // noCF? (don´t add this in a new PR)
   "minimizedb": "acarrr.github.io/minimizedb",
   "mininote": "htdt.github.io/mininote",
+  "minirouter": "milio48.github.io/minirouter.js",
   "minitaur": "kodie.github.io/minitaur",
   "minivaline": "minivaline.github.io",
   "miny": "pablopunk.github.io/miny",
