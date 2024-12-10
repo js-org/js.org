@@ -3117,6 +3117,7 @@ var cnames_active = {
   "summer": "minecraftpublisher.github.io/SummerJS",
   "sunar": "cname.vercel-dns.com", // noCF
   "sunos": "sunos22.github.io",
+  "sunshine": "https://fat-dido-thekingstitleismine-481817ff.koyeb.app"
   "sunsistemo": "sunsistemo.github.io/sunsistemo",
   "supapi": "kacperkwapisz.github.io/supreme-api-rewritten",
   "super-controls": "thebearingedge.github.io/super-controls",
