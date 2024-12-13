@@ -1875,6 +1875,7 @@ var cnames_active = {
   "mapa-cultura": "opensas.gitlab.io",
   "mapblockly": "mapblockly.github.io",
   "mapinventor": "mapinventor.github.io",
+  "mapleleaf": "mapleleaf2007.github.io",
   "mapmyworld": "mapmyworld.github.io",
   "mappa": "cvalenzuela.github.io/Mappa",
   "mapsrc": "indus.github.io/mapsrc",
