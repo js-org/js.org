@@ -3192,6 +3192,7 @@ var cnames_active = {
   "telegram": "yuvapoojary.github.io/telegram.js-website",
   "teletype": "keyvank.github.io/teletype.js",
   "temme": "shinima.github.io/temme",
+  "templates.linksharer": "linksharer.github.io/Templates",
   "template-pro": "template-pro.github.io",
   "tenvoy": "togatech.github.io/tEnvoy",
   "tequila": "tequila-js.github.io",
