@@ -1689,6 +1689,7 @@ var cnames_active = {
   "kotori": "biyuehu.github.io/kotori-bot",
   "koutla-swiss": "leny.github.io/koutla-swiss",
   "kowalski": "k0walslk1.github.io",
+  "kowalskibot": "abocn.github.io/TelegramBot",
   "kra": "kra-framework.github.io/kra-suite", // noCF
   "krds": "krds-community.github.io/krds-react",
   "kremling": "canopytax.github.io/kremling.js.org",
