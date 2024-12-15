@@ -1705,6 +1705,7 @@ var cnames_active = {
   "kyoto": "kyotojs.github.io",
   "l2dwidget": "xiazeyu.github.io/live2d-widget.js-doc",
   "lab": "labjs.netlify.app",
+  "lin": "lin0js.github.io",
   "labelauty": "fntneves.github.io/jquery-labelauty", // noCF? (don´t add this in a new PR)
   "labs": "cname.vercel-dns.com", // noCF
   "labui": "ztl-uwu.github.io/Lab-Design-Guide",
