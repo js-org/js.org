@@ -927,6 +927,7 @@ var cnames_active = {
   "dreygur": "dreygur.github.io",
   "drop": "dt-is-not-available.github.io/drop",
   "drr": "xyligan-gp.github.io/discord-reactions-roles",
+  "drumpad": "danielmroczek.github.io/drumpad", // noCF
   "drupi": "drupijs.github.io/website",
   "dthings": "hosting.gitbook.io", // noCF
   "dtools": "mrsheldon.github.io/dtools.js",
