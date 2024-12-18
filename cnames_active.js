@@ -1925,9 +1925,9 @@ var cnames_active = {
   "md": "cname-china.vercel-dns.com", // noCF
   "md5": "cname-china.vercel-dns.com", // noCF
   "mdbf-css": "more-beautiful-div-framework.github.io",
-  "mdxe": "cname.vercel-dns.com", // noCF
   "mdcdev": "galleniz.github.io/mdcdev.js",
   "mde": "lukehorvat.github.io/mde-soundboard",
+  "mdxe": "cname.vercel-dns.com", // noCF
   "mechan": "dusterthefirst.github.io/mechan.js",
   "medan": "medan-js.github.io", // noCF
   "media": "tobiasthaden.github.io/media.js",
