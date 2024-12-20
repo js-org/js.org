@@ -2887,7 +2887,7 @@ var cnames_active = {
   "shirajuki": "shirajuki.github.io",
   "shiro": "shironekoa3.github.io/shiroim",
   "shiro-gg": "moyshik7.github.io/shiro-gg",
-  "shirtiny": "cname.vercel-dns.com",
+  "shirtiny": "cname.vercel-dns.com", // noCF
   "shobhitchittora": "shobhitchittora.github.io",
   "shop": "shopjs.netlify.app",
   "short": "shortit.netlify.app",
