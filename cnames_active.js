@@ -1499,6 +1499,7 @@ var cnames_active = {
   "integreat": "hosting.gitbook.com",
   "integro": "jpsilva.github.io/integro",
   "intelligo": "intelligo.netlify.app",
+  "intelligent": "intelligent-documentation.vercel.app",
   "inter": "interjs.github.io",
   "internetmarke": "schaechinger.github.io/internetmarke",
   "interview": "fengzilong.github.io/interview-101",
