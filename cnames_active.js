@@ -1502,6 +1502,7 @@ var cnames_active = {
   "inter": "interjs.github.io",
   "internetmarke": "schaechinger.github.io/internetmarke",
   "interview": "fengzilong.github.io/interview-101",
+  "intelligent": "intelligent-documentation.vercel.app"
   "invent": "isaiahpatton.github.io/InventJS",
   "invidjs": "invidjs.github.io/docs",
   "invoicing": "vahe.github.io/InvoicingJs",
