@@ -980,6 +980,7 @@ var cnames_active = {
   "eiphop": "eiphop.netlify.app",
   "eiyuu": "sinkaroid.github.io/eiyuu",
   "ejir": "ejir.github.io",
+  "ejunz": "ejunz-dev.github.io",
   "ekscss": "maxmilton.github.io/ekscss",
   "elastic-builder": "sudo-suhas.github.io/elastic-builder",
   "elasticmagic": "kindritskyimax.github.io/elasticmagic-js",
