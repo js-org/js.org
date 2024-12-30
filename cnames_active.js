@@ -1726,6 +1726,7 @@ var cnames_active = {
   "latte": "tehsenaus.github.io/latte-js",
   "laubstein": "laubstein.github.io", // noCF? (don´t add this in a new PR)
   "laue": "qingwei-li.github.io/laue",
+  "launchit": "hollowtechnology.github.io/Launchit/",
   "lavaclient": "lavaclient.github.io",
   "lavashark": "hmes98318.github.io/LavaShark",
   "laveesh": "laveesh.github.io",
