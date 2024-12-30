@@ -1494,6 +1494,7 @@ var cnames_active = {
   "insta": "androz2091.github.io/instajs-website",
   "instabousing": "jlbousing.github.io/instaBousing",
   "instacam": "xavierfoucrier.github.io/instacam",
+  "instance2d": "nikaxe-dev.github.io/Instance2d",
   "instaiva": "7orp3do.github.io/Instaiva",
   "instant": "instant.github.io",
   "integreat": "hosting.gitbook.com",
@@ -1503,7 +1504,6 @@ var cnames_active = {
   "internetmarke": "schaechinger.github.io/internetmarke",
   "interview": "fengzilong.github.io/interview-101",
   "invent": "isaiahpatton.github.io/InventJS",
-  "instance2d": "nikaxe-dev.github.io/Instance2d",
   "invidjs": "invidjs.github.io/docs",
   "invoicing": "vahe.github.io/InvoicingJs",
   "iot": "product-engineer.github.io/iot.js.org", // noCF
