@@ -1720,6 +1720,7 @@ var cnames_active = {
   "lang": "iso-639.github.io/language-code",
   "languages": "rsamaium.github.io/Languages",
   "lanye": "lanye.github.io",
+  "laogou": "shinianlaojinmao.github.io/"
   "larastrator": "the94air.github.io/larastrator",
   "lasers": "lukehorvat.github.io/need-more-lasers",
   "lass": "lassjs.github.io/lass",
