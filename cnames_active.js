@@ -2906,7 +2906,7 @@ var cnames_active = {
   "sidekik": "inf3cti0n95.github.io/sidekik",
   "sidewind": "sidewind.pages.dev",
   "sights": "sfxrescue.github.io/sights",
-  "sign": "cname.vercel-dns.com", // noCF
+  "signalyze": "cname.vercel-dns.com", // noCF
   "sign-poc": "imcotton.github.io/sign-poc", // noCF
   "signaldb": "maxnowack.github.io/signaldb", // noCF
   "signalz": "hosting.gitbook.io", // noCF
