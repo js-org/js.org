@@ -40,7 +40,7 @@
 var cnames_active = {
   "": "js-org.github.io",
   "01mz": "01mz.github.io",
-  "GrasslandForest": "killergames3.github.io"
+  "GrasslandForest": "killergames3.github.io/GrasslandForest"
   "zyx": "zyx.alwaysdata.net",
   "zyy": "zyyou.github.io/notes"
   /*
