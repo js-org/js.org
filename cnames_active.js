@@ -1831,6 +1831,7 @@ var cnames_active = {
   "lottiefy": "pd4d10.github.io/lottiefy",
   "loxt": "loxt.netlify.app",
   "lps": "mauris.github.io/lps.js.org",
+  "lrclib": "igorwastaken.github.io/lrclib-api",
   "lribeiro": "lmribeiro.github.io",
   "ls": "links-js.github.io",
   "lt": "cname.vercel-dns.com", // noCF
