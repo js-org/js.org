@@ -3199,6 +3199,7 @@ var cnames_active = {
   "telegram": "yuvapoojary.github.io/telegram.js-website",
   "teletype": "keyvank.github.io/teletype.js",
   "temme": "shinima.github.io/temme",
+  "template": "kariim-digital.github.io/template",
   "template-pro": "template-pro.github.io",
   "templates.linksharer": "linksharer.github.io/Templates", // noCF
   "tenvoy": "togatech.github.io/tEnvoy",
