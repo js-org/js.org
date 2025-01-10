@@ -906,6 +906,7 @@ var cnames_active = {
   "domiso": "un-ts.github.io/domiso",
   "domutils": "fb55.github.io/domutils",
   "domx": "linttrapmedia.github.io/domx",
+  "domxy": "domxy.github.io/domxy",
   "donavon": "donavon.github.io", // noCF? (don´t add this in a new PR)
   "donut": "665c97b7-c1b8-473c-b6b8-48006bfae344.repl.co", // noCF
   "dope": "fouad.github.io/dope", // noCF? (don´t add this in a new PR)
