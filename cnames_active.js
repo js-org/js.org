@@ -1646,6 +1646,7 @@ var cnames_active = {
   "kawaii": "moemoesoft.github.io/kawaii", // noCF
   "kcak11": "kcak11.github.io/js-org-web",
   "kdiacodes": "kdiacodes.github.io",
+  "kellyai": "cname.vercel-dns.com", // noCF
   "kelvinho": "kelvin2go.github.io", // noCF? (don´t add this in a new PR)
   "kewitz": "kewitz.github.io",
   "keyframe-refiner": "keyframe-refiner.github.io/keyframe-refiner",
