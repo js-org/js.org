@@ -116,7 +116,7 @@ var cnames_active = {
   "agma": "uwynell.github.io/agma.js",
   "agrawalnaman": "agrawalnaman.github.io",
   "agrawalrohit": "rohit0803.github.io/agrawal.github.io",
-  "agenda-tech-brasil": "abacatinhos.github.io/agenda-tech-brasil-site",
+  "agenda-tech-brasil-site": "abacatinhos.github.io/agenda-tech-brasil-site",
   "agros": "agrosjs.github.io",
   "agrume": "cname.vercel-dns.com", // noCF
   "ahmad": "aruzikulov.github.io/ahmad",
