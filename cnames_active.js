@@ -1183,6 +1183,7 @@ var cnames_active = {
   "foxhole-client": "foxhole-clientjs.netlify.app",
   "foxify": "foxifyjs.github.io/foxify",
   "foxman": "kaola-fed.github.io/foxman",
+  "foxogram": "foxogram-js.pages.dev",
   "fp": "iotcat.github.io/fp",
   "fr.single-spa": "single-spa.github.io/fr.single-spa.js.org", // noCF
   "frame-depth": "nwong212.github.io/frame-wizard",
@@ -3692,8 +3693,7 @@ var cnames_active = {
   "zyh": "zyh-chopper.github.io/zyh",
   "zykj": "cname.vercel-dns.com", // noCF
   "zyx": "zyx.alwaysdata.net",
-  "zyy": "zyyou.github.io/notes",
-  "foxogram": "foxogram-js.pages.dev"
+  "zyy": "zyyou.github.io/notes"
   /*
    * please don't add your subdomain records down here!
    * insert them in alphabetical order to help reduce merge conflicts.
