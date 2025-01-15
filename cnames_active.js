@@ -15,7 +15,7 @@
  *              or "foo.github.io/bar" for a Project Page).
  *
  * CLOUDFLARE:  JS.ORG uses Cloudflare as its DNS. By default, Cloudflare proxies all requests to your subdomain
- *              to get SSL support (https://foo.js.org) and make use of browser caching with a TTL of 30 min.
+ *              to get SSL support (https://foo.js.org) and make use of browser caching with a TTL of 30 min."
  *              But you can opt-out from this and make Cloudflare forward all requests directly to GitHub.
  *              Just add '// noCF' in the line of your requested subdomain to give us a hint.
  *              (all the lines marked with '// noCF?' are from a time when a requester had to explicitly opt-in;
@@ -3638,7 +3638,7 @@ var cnames_active = {
   "y86": "quietshu.github.io/y86", // noCF? (don´t add this in a new PR)
   "yadl": "yadljs.github.io",
   "yagolopez": "yagolopez.github.io",
-  "yak": "name.vercel-dns.com", // noCF
+  "yak": "cname.vercel-dns.com", // noCF
   "yake": "yakeing.github.io/HexoBlog",
   "yamdbf": "zajrik.github.io/yamdbf",
   "yan": "yvesyc.github.io/yan-js-org",
