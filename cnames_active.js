@@ -1462,6 +1462,7 @@ var cnames_active = {
   "id3": "jeff-tian.github.io/id3",
   "idettman": "idettman.github.io",
   "idraw": "idrawjs.github.io",
+  "ieat": "ctafsiras.github.io/ieatjs",
   "ienumerable": "mbasso.github.io/ienumerable",
   "iffe": "iffe-team.github.io",
   "iflow": "unadlib.github.io/iflow",
