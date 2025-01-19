@@ -1776,6 +1776,7 @@ var cnames_active = {
   "lgs": "lgsturkiye.github.io/lgs",
   "li": "mattsimmons1.github.io/li",
   "libcord": "tovade.github.io/libcord",
+  "libh": "ihasq.github.io/libh",
   "libphonenumbers": "libphonenumbers.github.io",
   "license-cop": "tobysmith568.github.io/license-cop",
   "lifeisyoung": "lifeisyoung.github.io",
