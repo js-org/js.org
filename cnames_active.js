@@ -258,7 +258,7 @@ var cnames_active = {
   "athena": "athena-js.github.io/athena",
   "athome": "simon300000.github.io/athome",
   "atils": "itsatelo.github.io/atils",
-  "atombundles": "lirantal.github.io/atombundles",
+  "atombundles": rantal.github.io/atombundles",
   "atomicreact": "atomicreact.github.io/AtomicReact",
   "atos": "yeytaken.github.io/atosjs",
   "atx": "aktarytech.github.io/atx",
@@ -322,7 +322,7 @@ var cnames_active = {
   "bard-ai": "evanzhoudev.github.io/bard-ai",
   "base-classes": "ruben-arushanyan.github.io/base-classes",
   "base62": "therootcompany.github.io/base62.js",
-  "base64": "licshee.github.io/base64",
+  "base64": cshee.github.io/base64",
   "bash": "bashjs.github.io",
   "bassdrum": "malte-wessel.github.io/bassdrum",
   "bastion": "snkrsnkampa.github.io/Bastion-Site",
@@ -408,7 +408,7 @@ var cnames_active = {
   "bottlecap": "rwbeast.github.io/bottlecap",
   "boundless": "enigma-io.github.io/boundless",
   "box": "capacitorset.github.io/box-js", // noCF
-  "boxed": "lionking27.github.io/boxed",
+  "boxed": onking27.github.io/boxed",
   "brain": "brainjs.github.io/brain.js.org",
   "brandi": "cname.vercel-dns.com", // noCF
   "brandifyjs": "greybax.github.io/brandifyjs",
@@ -433,7 +433,7 @@ var cnames_active = {
   "bud": "budjs.netlify.app",
   "bui": "kjantzer.github.io/bui",
   "builders": "cname.vercel-dns.com", // noCF
-  "bukumark": "ligmatv.github.io/Bukumark",
+  "bukumark": gmatv.github.io/Bukumark",
   "bullwinkle": "bullwinkle.github.io",
   "bun": "the94air.github.io/bun",
   "bundle": "cname.vercel-dns.com", // noCF
@@ -768,7 +768,7 @@ var cnames_active = {
   "defi": "finom.github.io/defi.js.org",
   "delegacias-fortaleza": "juliosampaio.github.io/delegacias-fortaleza", // noCF? (don´t add this in a new PR)
   "delet": "ds-development.github.io/delet",
-  "demo.linksharer": "linksharer.github.io/LinkSharer", // noCF
+  "demo.linksharer": nksharer.github.io/LinkSharer", // noCF
   "demo.upptime": "upptime.github.io/upptime", // noCF
   "democracy": "invisible-college.github.io/democracy",
   "denalon": "denalon.github.io",
@@ -908,7 +908,7 @@ var cnames_active = {
   "dominion": "dominion-framework.github.io",
   "domiso": "un-ts.github.io/domiso",
   "domutils": "fb55.github.io/domutils",
-  "domx": "linttrapmedia.github.io/domx",
+  "domx": nttrapmedia.github.io/domx",
   "domxy": "domxy.github.io/domxy",
   "donavon": "donavon.github.io", // noCF? (don´t add this in a new PR)
   "donut": "665c97b7-c1b8-473c-b6b8-48006bfae344.repl.co", // noCF
@@ -973,7 +973,7 @@ var cnames_active = {
   "eatery-nod-w": "kevinast.github.io/eatery-nod-w",
   "ebay-wrapper": "tradebuddyhq.github.io/ebay-wrapper.js.org",
   "ebnsina": "ebnsina.github.io/js.ebnsina.me",
-  "echo": "licshee.github.io/echo.js",
+  "echo": cshee.github.io/echo.js",
   "eco": "quick-eco.netlify.app",
   "ecstar": "ecstar-js.github.io/Ecstar",
   "ed2k": "sunnyli.github.io/ed2k.js",
@@ -1056,7 +1056,7 @@ var cnames_active = {
   "es6-module-seed": "blackmirror1980.github.io/es6-module-seed",
   "esbin": "esbin.netlify.app",
   "esboot": "moonlitusun.github.io/esboot",
-  "escape": "licshee.github.io/Escape.js", // noCF? (don´t add this in a new PR)
+  "escape": cshee.github.io/Escape.js", // noCF? (don´t add this in a new PR)
   "esfx": "esfx.github.io",
   "esg": "cname.vercel-dns.com", // noCF
   "eslint-plugin-wxml": "cname.vercel-dns.com", // noCF
@@ -1449,7 +1449,7 @@ var cnames_active = {
   "hyperform": "hyperform.github.io",
   "hyperhtml-styleguide": "albertosantini.github.io/hyperhtml-styleguide", // noCF
   "hypixel": "hypixelts.netlify.app",
-  "hyssop": "lillupad.github.io/hyssop.js",
+  "hyssop": llupad.github.io/hyssop.js",
   "i18n-collector": "gmaxlev.github.io/i18n-collector",
   "i18n4v": "shibukawa.github.io/i18n4v",
   "iagrib": "iagrib.github.io",
@@ -1521,7 +1521,7 @@ var cnames_active = {
   "ipe": "ipe.netlify.app",
   "ipe-plugins": "inpageedit.github.io/Plugins",
   "iphw": "spacemiqote.github.io/iphw",
-  "ipv4": "licshee.github.io/IPv4-CIDR-Prefix-Merger",
+  "ipv4": cshee.github.io/IPv4-CIDR-Prefix-Merger",
   "ipynb": "jirutka.github.io/ipynb2html", // noCF
   "iq": "cname.vercel-dns.com", // noCF
   "ir": "irjs.github.io/docs",
@@ -1602,7 +1602,7 @@ var cnames_active = {
   "js-labs": "cname.vercel-dns.com", // noCF
   "js2lua": "xiangnanscu.github.io/js2lua", // noCF
   "jscord": "thepoptartcrpr.github.io/jscord",
-  "jsdec": "liulihaocai.github.io/JSDec",
+  "jsdec": ulihaocai.github.io/JSDec",
   "jsfe": "jsfe.netlify.app",
   "jslabs": "cname.vercel-dns.com", // noCF
   "jsnippet": "jesseeisen.github.io/snippets", // noCF
@@ -1767,15 +1767,16 @@ var cnames_active = {
   "leoj": "leoaj.github.io", // noCF? (don´t add this in a new PR)
   "leoric": "cyjake.github.io/leoric",
   "lerna": "lerna.github.io/website",
-  "lessmd": "linuxenko.github.io/lessmd",
+  "lessmd": nuxenko.github.io/lessmd",
   "leste": "atwood-cai.github.io/leste.js", // noCF? (don´t add this in a new PR)
   "lete": "cname.vercel-dns.com", // noCF
   "lev": "lev-savranskiy.github.io",
   "level": "xv700.github.io/level",
   "lf": "lf112.github.io",
   "lgs": "lgsturkiye.github.io/lgs",
-  "li": "mattsimmons1.github.io/li",
-  "libcord": "tovade.github.io/libcord",
+  ": "mattsimmons1.github.io/li",
+  bcord": "tovade.github.io/libcord",
+  "libh": "ihasq.github.io/libh",
   "libphonenumbers": "libphonenumbers.github.io",
   "license-cop": "tobysmith568.github.io/license-cop",
   "lifeisyoung": "lifeisyoung.github.io",
