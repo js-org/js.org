@@ -1819,7 +1819,7 @@ var cnames_active = {
   "liveflow": "hasharray.github.io/liveflow.js",
   "livenotif": "siffreinsg.github.io/livenotif",
   "livevalidate": "thedhanawada.github.io/LiveValidateJS",
-  "lizzy": "https://stoyan.github.io/Lizzy.js/",
+  "lizzy": "stoyan.github.io/Lizzy.js",
   "lmadactyl": "hosting.gitbook.io", // noCF
   "lmajercik": "meiercheek.github.io",
   "localize": "localize.github.io",
