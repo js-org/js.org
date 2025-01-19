@@ -260,7 +260,7 @@ var cnames_active = {
   "atils": "itsatelo.github.io/atils",
   "atombundles": "lirantal.github.io/atombundles",
   "atomicreact": "atomicreact.github.io/AtomicReact",
-  "atos": "yeytaken.github.io/atosjs",
+  "atos": "cname.vercel-dns.com", // noCF
   "atx": "aktarytech.github.io/atx",
   "audio-stream": "guywhogeek.github.io/audio-stream",
   "aui": "alauda.github.io/alauda-ui",
@@ -1820,6 +1820,7 @@ var cnames_active = {
   "liveflow": "hasharray.github.io/liveflow.js",
   "livenotif": "siffreinsg.github.io/livenotif",
   "livevalidate": "thedhanawada.github.io/LiveValidateJS",
+  "lizzy": "stoyan.github.io/Lizzy.js",
   "lmadactyl": "hosting.gitbook.io", // noCF
   "lmajercik": "meiercheek.github.io",
   "localize": "localize.github.io",
