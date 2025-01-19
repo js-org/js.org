@@ -260,7 +260,7 @@ var cnames_active = {
   "atils": "itsatelo.github.io/atils",
   "atombundles": "lirantal.github.io/atombundles",
   "atomicreact": "atomicreact.github.io/AtomicReact",
-  "atos": "yeytaken.github.io/atosjs",
+  "atos": "cname.vercel-dns.com",
   "atx": "aktarytech.github.io/atx",
   "audio-stream": "guywhogeek.github.io/audio-stream",
   "aui": "alauda.github.io/alauda-ui",
