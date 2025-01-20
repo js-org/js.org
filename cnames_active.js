@@ -1963,6 +1963,7 @@ var cnames_active = {
   "mengd": "cname.vercel-dns.com", // noCF
   "menghafalquran": "mzaini30.github.io/menghafal-quran",
   "menu": "cohenerickson.github.io/menu",
+  "menu2png": "robertuptodateman.github.io/web-menuToPNG",
   "meow": "meow-js.github.io",
   "mercury": "henryqw.github.io/mercury",
   "merkletree": "miguelmota.github.io/merkletreejs",
