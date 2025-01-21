@@ -868,6 +868,7 @@ var cnames_active = {
   "ditox": "mnasyrov.github.io/ditox",
   "div": "div-js.github.io/div.js.org",
   "divifier": "eaaasun.github.io/divifier",
+  "diya": "diya-8ra.pages.dev", // noCF
   "djs-addon": "hosting.gitbook.io", // noCF
   "djs-application-commands": "hosting.gitbook.io",
   "djs-tickets": "pgamerx.github.io/djs-tickets",
@@ -876,7 +877,6 @@ var cnames_active = {
   "djsguide": "hosting.gitbook.com",
   "djskit": "rtxeon.github.io/djskit",
   "djvu": "russcoder.github.io/djvujs", // noCF
-  "diya": "https://diya-8ra.pages.dev/", // noCF
   "djzhao": "djzhao627.github.io",
   "dlite": "hosting.gitbook.com",
   "dls-docs": "shadowplay1.github.io/dls-docs",
