@@ -2427,6 +2427,7 @@ var cnames_active = {
   "pixiv": "cname.vercel-dns.com", // noCF
   "pixkit": "pixkit.m1dnightdev.repl.co",
   "pizzle": "pizzlejs.github.io",
+  "plain-blog": "weareoutman.github.io/plain-blog",
   "plait": "wildlyinaccurate.github.io/plait",
   "plan": "agauniyal.github.io/plan",
   "planisphere": "dai-shi.github.io/planisphere-site", // noCF? (don´t add this in a new PR)
