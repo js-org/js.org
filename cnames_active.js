@@ -1265,6 +1265,7 @@ var cnames_active = {
   "hegel": "jsmonk.github.io/hegel",
   "hell": "hell-js.github.io",
   "hello": "hello-js-org.github.io", // noCF? (don´t add this in a new PR)
+  "hellopgm": "hellopgrmm/hellopgrmm.github.io",
   "helly": "helly.netlify.app",
   "helma": "antville.github.io/helma",
   "helper": "tbnritzdoge.github.io/helperweb",
