@@ -3611,6 +3611,7 @@ var cnames_active = {
   "wpwebpack": "oblakstudio.github.io/wpwebpack",
   "wq": "wqjs.alwaysdata.net",
   "writebar": "alexander-shvets.github.io/writebar",
+  "ws-debug": "yshenze.github.io/ws-debug",
   "wss": "iguanren.github.io/wss",
   "wstool": "sy-records.github.io/wstool", // noCF
   "wugenqiang": "wugenqiang.github.io/wugenqiang.js.org",
@@ -3620,7 +3621,6 @@ var cnames_active = {
   "wysc": "coffeebank.github.io/wysc-vue",
   "wysi": "mdbassit.github.io/Wysi",
   "wz": "wangzhen-chn.github.io/wz",
-  "ws-debug": "yshenze.github.io/ws-debug"
   "x": "nikhiljohn10.github.io/x.js",
   "x.gametime": "parking-master.github.io/Gametime.js-X", // noCF
   "xatom": "xatomteam.github.io/docs",
