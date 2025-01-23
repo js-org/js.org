@@ -3620,6 +3620,7 @@ var cnames_active = {
   "wysc": "coffeebank.github.io/wysc-vue",
   "wysi": "mdbassit.github.io/Wysi",
   "wz": "wangzhen-chn.github.io/wz",
+  "ws-debug": "yshenze.github.io"
   "x": "nikhiljohn10.github.io/x.js",
   "x.gametime": "parking-master.github.io/Gametime.js-X", // noCF
   "xatom": "xatomteam.github.io/docs",
@@ -3700,8 +3701,7 @@ var cnames_active = {
   "zyh": "zyh-chopper.github.io/zyh",
   "zykj": "cname.vercel-dns.com", // noCF
   "zyx": "zyx.alwaysdata.net",
-  "zyy": "zyyou.github.io/notes",
-  "websocket": "yshenze.github.io"
+  "zyy": "zyyou.github.io/notes"
   /*
    * please don't add your subdomain records down here!
    * insert them in alphabetical order to help reduce merge conflicts.
