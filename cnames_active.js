@@ -1781,6 +1781,7 @@ var cnames_active = {
   "libh": "ihasq.github.io/libh",
   "libphonenumbers": "libphonenumbers.github.io",
   "license-cop": "tobysmith568.github.io/license-cop",
+  "lifecareyoga": "kevinsaiza.github.io/lifecareyoga",
   "lifeisyoung": "lifeisyoung.github.io",
   "light": "lightjs.netlify.app",
   "light-observable": "dmitry-korolev.github.io/light-observable",
