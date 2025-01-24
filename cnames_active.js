@@ -3655,6 +3655,7 @@ var cnames_active = {
   "yay-machine": "maurice.github.io/yay-machine",
   "yeetedmeme": "greymesa.github.io/greymesasite2",
   "yeisson-osorno": "yeissonosorno.github.io/portfolio",
+  "yellowdogsays": "shinianlaojinmao.github.io",
   "yennj12": "yennanliu.github.io",
   "yh": "hksat.github.io",
   "yiff": "codepupper.github.io/yiff",
