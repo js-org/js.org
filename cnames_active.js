@@ -3239,6 +3239,7 @@ var cnames_active = {
   "thepeachtimes": "thepeachtimes.github.io",
   "thi": "ngomjnhthj.github.io/thi",
   "thinkdigital": "tomowens08.github.io/thinkdigital",
+  "thiscord": "iojhi2ej.up.railway.app",
   "threadly": "spideyzac.github.io/Threadly",
   "threads": "andywer.github.io/threads.js",
   "threebody": "cnzc.github.io/threebody",
