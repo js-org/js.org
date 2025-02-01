@@ -993,6 +993,7 @@ var cnames_active = {
   "elasticmagic": "kindritskyimax.github.io/elasticmagic-js",
   "electron-react-boilerplate": "electron-react-boilerplate.github.io/site",
   "electron-settings": "nathanbuchar.github.io/electron-settings",
+  "elegance": "valdemar-dev.github.io/elegance-js",
   "elementail": "riipandi.github.io/elementail",
   "elementnet": "elementnet.github.io",
   "eleven": "elevendev.github.io",
