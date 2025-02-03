@@ -2617,6 +2617,7 @@ var cnames_active = {
   "react-querybuilder": "react-querybuilder.github.io",
   "react-redux": "react-redux-docs.netlify.app", // noCF
   "react-responsive-carousel": "leandrowd.github.io/react-responsive-carousel", // noCF? (don´t add this in a new PR)
+  "react-server-forms": "cname.vercel-dns.com", // noCF
   "react-showroom": "react-showroom.netlify.app",
   "react-starport": "react-starport.netlify.app",
   "react-styleguidist": "styleguidist.netlify.app",
