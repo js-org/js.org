@@ -2579,7 +2579,7 @@ var cnames_active = {
   "rayo": "getrayo.github.io/rayo.js",
   "rclone": "sntran.github.io/rclone.js",
   "rdf": "rdfjs.github.io", // noCF
-  "randomquestions": "mechtester.github.io/randomquestions/",
+  "randomquestions": "mechtester.github.io/randomquestions",
   "rdpmovy": "rdp-studio.github.io/rdpmovy.js",
   "react-atomic-ui": "react-atomic.github.io/react-atomic-ui",
   "react-autosuggest": "moroshko.github.io/react-autosuggest", // noCF? (don´t add this in a new PR)
