@@ -3466,6 +3466,7 @@ var cnames_active = {
   "vico": "bohdantkachenko.github.io/vico", // noCF? (don´t add this in a new PR)
   "video-react": "video-react.github.io",
   "vigour": "mokunshao.github.io/vigour",
+  "vihangayt": "vihanga-js-org.vercel.app",
   "villain": "btzr-io.github.io/Villain",
   "vinimdocarmo": "vinimdocarmo.github.io", // noCF? (don´t add this in a new PR)
   "vinton": "vinton.github.io/website",
@@ -3480,7 +3481,6 @@ var cnames_active = {
   "vitery": "viteryjs.github.io/vitery",
   "viteshell": "henryhale.github.io/viteshell",
   "vitestory": "melishev.github.io/vitestory",
-  "vihangayt": "vihanga-js-org.vercel.app",
   "vk-x": "vk-x.github.io",
   "vlite": "vlitejs.github.io",
   "vlr": "vlrjs.github.io/website",
