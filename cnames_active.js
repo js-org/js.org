@@ -2568,6 +2568,7 @@ var cnames_active = {
   "random-machine": "officialpiyush.github.io/random-machine",
   "randomer": "kzacharski.github.io/randomer",
   "randomimgapi": "hosting.gitbook.io",
+  "randomquestions": "mechtester.github.io/randomquestions",
   "rangeslider": "andreruffert.github.io/rangeslider.js", // noCF? (don´t add this in a new PR)
   "ranmess": "ultirequiem.github.io/ranmess",
   "rasti": "8tentaculos.github.io/rasti",
@@ -2579,7 +2580,6 @@ var cnames_active = {
   "rayo": "getrayo.github.io/rayo.js",
   "rclone": "sntran.github.io/rclone.js",
   "rdf": "rdfjs.github.io", // noCF
-  "randomquestions": "mechtester.github.io/randomquestions",
   "rdpmovy": "rdp-studio.github.io/rdpmovy.js",
   "react-atomic-ui": "react-atomic.github.io/react-atomic-ui",
   "react-autosuggest": "moroshko.github.io/react-autosuggest", // noCF? (don´t add this in a new PR)
