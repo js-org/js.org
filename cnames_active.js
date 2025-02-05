@@ -2552,6 +2552,7 @@ var cnames_active = {
   "quizizz": "zaida04.github.io/Quizizz.js",
   "quizlet": "redyetidev.github.io/Quizlet.JS",
   "quotobot": "team-gigabyte.github.io/quotobot",
+  "quizmaster": "mechtester.github.io/randomquestions",
   "r": "r-js.github.io",
   "ractive": "ractivejs.github.io",
   "rad": "rapid-application-development-js.github.io/RAD.JS", // noCF? (don´t add this in a new PR)
@@ -2567,7 +2568,6 @@ var cnames_active = {
   "random-machine": "officialpiyush.github.io/random-machine",
   "randomer": "kzacharski.github.io/randomer",
   "randomimgapi": "hosting.gitbook.io",
-  "quizmaster": "mechtester.github.io/randomquestions",
   "rangeslider": "andreruffert.github.io/rangeslider.js", // noCF? (don´t add this in a new PR)
   "ranmess": "ultirequiem.github.io/ranmess",
   "rasti": "8tentaculos.github.io/rasti",
