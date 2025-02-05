@@ -2550,9 +2550,9 @@ var cnames_active = {
   "quincy": "quincyx.github.io",
   "quiz-app": "odevlord.github.io/Quiz-App", // noCF? (don´t add this in a new PR)
   "quizizz": "zaida04.github.io/Quizizz.js",
+  "quizmaster": "mechtester.github.io/randomquestions",
   "quizlet": "redyetidev.github.io/Quizlet.JS",
   "quotobot": "team-gigabyte.github.io/quotobot",
-  "quizmaster": "mechtester.github.io/randomquestions",
   "r": "r-js.github.io",
   "ractive": "ractivejs.github.io",
   "rad": "rapid-application-development-js.github.io/RAD.JS", // noCF? (don´t add this in a new PR)
