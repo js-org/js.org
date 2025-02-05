@@ -1860,6 +1860,7 @@ var cnames_active = {
   "lvp": "luzhenqian.github.io/lvp.js",
   "lwjerri": "lwjerri.github.io",
   "lx": "blleng.github.io/lx-test",
+  "lxh": "www.linuxcenter.cn",
   "lychee": "cookiengineer.github.io/lycheeJS-website",
   "lyra": "amansahil.github.io/lyra.js.org",
   "lyz": "lihawhaw.github.io/lyzjs",
