@@ -1515,7 +1515,6 @@ var cnames_active = {
   "internetmarke": "schaechinger.github.io/internetmarke",
   "interview": "fengzilong.github.io/interview-101",
   "invent": "isaiahpatton.github.io/InventJS",
-  "invidjs": "invidjs.github.io/docs",
   "invoicing": "vahe.github.io/InvoicingJs",
   "iot": "product-engineer.github.io/iot.js.org", // noCF
   "ip-address": "beaugunderson.github.io/ip-address", // noCF? (don´t add this in a new PR)
@@ -2618,6 +2617,7 @@ var cnames_active = {
   "react-querybuilder": "react-querybuilder.github.io",
   "react-redux": "react-redux-docs.netlify.app", // noCF
   "react-responsive-carousel": "leandrowd.github.io/react-responsive-carousel", // noCF? (don´t add this in a new PR)
+  "react-server-forms": "cname.vercel-dns.com", // noCF
   "react-showroom": "react-showroom.netlify.app",
   "react-starport": "react-starport.netlify.app",
   "react-styleguidist": "styleguidist.netlify.app",
