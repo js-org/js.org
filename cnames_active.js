@@ -2133,6 +2133,7 @@ var cnames_active = {
   "namaste": "namaste-duniya.github.io/js",
   "name-my-colors": "domcoleman.github.io/name-my-colors",
   "namelessman": "namelessman.github.io",
+  "nandi": "nandi96.github.io",
   "nanimation": "imthenachoman.github.io/nAnimation", // noCF? (don´t add this in a new PR)
   "nanoexpress": "hosting.gitbook.com",
   "nanoweb": "tbo.github.io/nanoweb",
