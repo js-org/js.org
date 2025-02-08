@@ -3361,6 +3361,7 @@ var cnames_active = {
   "ulog": "download.github.io/ulog",
   "ultcombo": "ultcombo.github.io",
   "ulti": "ultirequiem.github.io",
+  "ultiblocks": "ultiblocks.github.io",
   "ultimatemedia": "ultimatemediaorg.github.io",
   "ultraviolet": "blobthekat.github.io/ultraviolet",
   "ultrax": "karimx32.github.io/UltraX-Package",
