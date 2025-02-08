@@ -2065,6 +2065,7 @@ var cnames_active = {
   "mojiscript": "joelnet.github.io/MojiScript",
   "mokunshao": "mokunshao.github.io",
   "mol": "eigenmethod.github.io/mol", // noCF
+  "molin": "molinmisha.github.io/cv"
   "moloko": "molokojs.netlify.app",
   "molti": "moltijs.github.io/molti",
   "mom": "momjs.github.io/mom",
