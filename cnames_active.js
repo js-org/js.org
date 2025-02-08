@@ -993,6 +993,7 @@ var cnames_active = {
   "elasticmagic": "kindritskyimax.github.io/elasticmagic-js",
   "electron-react-boilerplate": "electron-react-boilerplate.github.io/site",
   "electron-settings": "nathanbuchar.github.io/electron-settings",
+  "elegance": "valdemar-dev.github.io/elegance-js",
   "elementail": "riipandi.github.io/elementail",
   "elementnet": "elementnet.github.io",
   "eleven": "elevendev.github.io",
@@ -1003,6 +1004,7 @@ var cnames_active = {
   "elmo": "lap00zza.github.io/elmo",
   "elock": "yourtion.github.io/node-elock",
   "elode": "equneko.github.io/elode",
+  "elytra": "jonahemorgan.github.io/elytra.js",
   "emage": "douglasjunior.github.io/emage",
   "email-templates": "niftylettuce.github.io/email-templates",
   "embarrassed-themes": "kbothub.github.io/Embarrassed-Themes",
@@ -1514,7 +1516,6 @@ var cnames_active = {
   "internetmarke": "schaechinger.github.io/internetmarke",
   "interview": "fengzilong.github.io/interview-101",
   "invent": "isaiahpatton.github.io/InventJS",
-  "invidjs": "invidjs.github.io/docs",
   "invoicing": "vahe.github.io/InvoicingJs",
   "iot": "product-engineer.github.io/iot.js.org", // noCF
   "ip-address": "beaugunderson.github.io/ip-address", // noCF? (don´t add this in a new PR)
@@ -2134,6 +2135,7 @@ var cnames_active = {
   "name-my-colors": "domcoleman.github.io/name-my-colors",
   "namelessman": "namelessman.github.io",
   "nanimation": "imthenachoman.github.io/nAnimation", // noCF? (don´t add this in a new PR)
+  "nano": "planet-free.github.io/nano",
   "nanoexpress": "hosting.gitbook.com",
   "nanoweb": "tbo.github.io/nanoweb",
   "naseem": "naseemali925.github.io/about-me",
@@ -2431,7 +2433,6 @@ var cnames_active = {
   "plain-blog": "weareoutman.github.io/plain-blog",
   "plait": "wildlyinaccurate.github.io/plait",
   "plan": "agauniyal.github.io/plan",
-  "planet-free": "planet-free.github.io/planet-free",
   "planisphere": "dai-shi.github.io/planisphere-site", // noCF? (don´t add this in a new PR)
   "planner": "openplannerteam.github.io/planner.js",
   "platz": "fylipp.github.io/platz.js",
@@ -2552,6 +2553,7 @@ var cnames_active = {
   "quiz-app": "odevlord.github.io/Quiz-App", // noCF? (don´t add this in a new PR)
   "quizizz": "zaida04.github.io/Quizizz.js",
   "quizlet": "redyetidev.github.io/Quizlet.JS",
+  "quizmaster": "mechtester.github.io/quizmaster",
   "quotobot": "team-gigabyte.github.io/quotobot",
   "r": "r-js.github.io",
   "ractive": "ractivejs.github.io",
@@ -2617,6 +2619,7 @@ var cnames_active = {
   "react-querybuilder": "react-querybuilder.github.io",
   "react-redux": "react-redux-docs.netlify.app", // noCF
   "react-responsive-carousel": "leandrowd.github.io/react-responsive-carousel", // noCF? (don´t add this in a new PR)
+  "react-server-forms": "cname.vercel-dns.com", // noCF
   "react-showroom": "react-showroom.netlify.app",
   "react-starport": "react-starport.netlify.app",
   "react-styleguidist": "styleguidist.netlify.app",
