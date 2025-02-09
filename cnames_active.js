@@ -1063,6 +1063,7 @@ var cnames_active = {
   "escape": "licshee.github.io/Escape.js", // noCF? (don´t add this in a new PR)
   "esfx": "esfx.github.io",
   "esg": "cname.vercel-dns.com", // noCF
+  "eslco": "eslco.github.io",
   "eslint-plugin-wxml": "cname.vercel-dns.com", // noCF
   "esper": "codecombat.github.io/esper.js",
   "estudiantil": "milersant.github.io/estudiantil",
