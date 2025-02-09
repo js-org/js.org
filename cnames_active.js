@@ -1886,10 +1886,10 @@ var cnames_active = {
   "maker": "microsoft.github.io/maker.js",
   "makes": "makesjs.github.io",
   "mali": "malijs.github.io",
+  "mangascrape": "tzurs11.github.io/MangaScrape",
   "manic": "manicjs.github.io",
   "mansiart": "mansiart.github.io/mansiart",
   "manual.bluelightos": "hosting.gitbook.com", // noCF
-  "mangascrape": "tzurs11.github.io/MangaScrape",
   "manytimepad": "dipanshkhandelwal.github.io/ManyTimePad",
   "mapa-cultura": "opensas.gitlab.io",
   "mapblockly": "mapblockly.github.io",
