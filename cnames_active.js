@@ -928,6 +928,7 @@ var cnames_active = {
   "dragonman225": "dragonman225.github.io",
   "draw": "skillzzjesse.github.io/draw",
   "drawie": "cname.vercel-dns.com", // noCF
+  "drcklinn": "drcklinn.github.io"
   "dream": "joeleeofficial.github.io/dream",
   "dreamcord": "dreamcordjs.github.io/dreamcord",
   "dreamland": "mercuryworkshop.github.io/dreamland-website",
