@@ -1495,6 +1495,7 @@ var cnames_active = {
   "infoooze": "devxprite.github.io/infoooze",
   "inig": "inig.github.io",
   "initial-wu": "initial-wu.github.io",
+  "iniversity": "iniversity.js.org",
   "injectify": "injectify.github.io/docs",
   "ink": "colossalchicken.github.io/ink.js",
   "inklog": "lucaslah.github.io/inklog.js",
