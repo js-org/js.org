@@ -3593,8 +3593,8 @@ var cnames_active = {
   "wifidrop": "nuzulul.github.io/wifidrop",
   "wii": "andrewplus.github.io/Wii.JS",
   "wiki": "wiki-js-org.netlify.app", // noCF
-  "wikii": "https://xamyl.github.io/wikii",
   "wikidata-elements": "lisongx.github.io/wikidata-elements",
+  "wikii": "xamyl.github.io/wikii",
   "wildfire": "cheng-kang.github.io/wildfire",
   "william": "wdhdev.github.io/william.js", // noCF
   "willy": "willyarisky.github.io/willy",
