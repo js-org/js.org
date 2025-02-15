@@ -1450,6 +1450,7 @@ var cnames_active = {
   "hyder": "imprakashraghu.github.io/hyderjsweb",
   "hydro": "hydro-dev.github.io",
   "hyf": "yafey.github.io",
+  "hyfhao": "hyfhaozero.github.io",
   "hymity": "sarveshmrao.github.io/hymity",
   "hyperdrive": "hyperdrivejs.github.io",
   "hyperform": "hyperform.github.io",
