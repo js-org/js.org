@@ -674,6 +674,7 @@ var cnames_active = {
   "craco": "dilanx.github.io/craco",
   "craft": "cname.vercel-dns.com", // noCF
   "crank": "bikeshaving.github.io/crank",
+  "crapto1": "li0ard.github.io/crapto1_ts",
   "crawlx": "wind2sing.github.io/crawlx",
   "crawlyx": "theritikchoure.github.io/crawlyx",
   "creamcrop": "creamcropdev.github.io",
