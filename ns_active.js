@@ -14,6 +14,7 @@
 
 var ns_active = {
   "appshelf": ["ns31.cloudns.net", "ns32.cloudns.net", "ns33.cloudns.net", "ns34.cloudns.net"],
+  "anveshraman":["ns1.epizy.com","ns2.epizy.com"}
   "castyte": ["ns31.cloudns.net", "ns32.cloudns.net", "ns33.cloudns.net", "ns34.cloudns.net"],
   "engine262": ["ns1.he.net", "ns2.he.net", "ns3.he.net", "ns4.he.net", "ns5.he.net"],
   "lolifamily": ["glen.ns.cloudflare.com", "melany.ns.cloudflare.com"],
