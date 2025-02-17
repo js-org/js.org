@@ -2199,7 +2199,7 @@ var cnames_active = {
   "ngspice": "42ua.github.io/ngspice.js",
   "ni": "js-ni.github.io/ni",
   "nic": "nic.github.io",
-  "nice": "GCSBOSS.github.io/nice",
+  "nice": "gcsboss.github.io/nice",
   "nicetix": "indus.github.io/nicetix",
   "nightcord": "rellylegend.github.io/nightcord",
   "nikita": "adaltas.github.io/node-nikita",
