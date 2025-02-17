@@ -200,6 +200,7 @@ var cnames_active = {
   "antropodigital": "antropodigital.github.io/CirculodeEstudio",
   "antwar": "antwarjs.github.io/antwar",
   "anukul": "anukul.github.io",
+  "anvesh","sa-army.github.io",
   "aoi": "aoijs.github.io/website",
   "aoimysql": "cname.vercel-dns.com", // noCF
   "aoitr": "dexaroffical.github.io/aoi.js-tr",
