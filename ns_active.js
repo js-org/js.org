@@ -13,6 +13,7 @@
  */
 
 var ns_active = {
+  "urlicks": ["ns61.cloudns.net", "ns62.cloudns.com", "ns63.cloudns.net", "ns64.cloudns.uk"],
   "appshelf": ["ns31.cloudns.net", "ns32.cloudns.net", "ns33.cloudns.net", "ns34.cloudns.net"],
   "castyte": ["ns31.cloudns.net", "ns32.cloudns.net", "ns33.cloudns.net", "ns34.cloudns.net"],
   "engine262": ["ns1.he.net", "ns2.he.net", "ns3.he.net", "ns4.he.net", "ns5.he.net"],
