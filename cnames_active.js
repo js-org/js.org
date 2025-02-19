@@ -218,6 +218,7 @@ var cnames_active = {
   "apr": "ramitos.github.io/apr",
   "aprende-react": "ptcc.github.io/aprende-react",
   "aptrinh": "aptrinh.github.io",
+  "arabic": "cname.vercel-dns.com",
   "arc": "diegohaz.github.io/arc",
   "archipelago": "thephar.github.io/archipelago.js",
   "arcn": "alexakasanjeev.github.io/arcn",
