@@ -591,7 +591,8 @@ var cnames_active = {
   "codepan": "egoist.github.io/codepan",
   "codeshare": "cname.vercel-dns.com", // noCF
   "codewing": "nicesapien.github.io/codewing",
-  "codeium" : "cname.vercel-dns.com"
+  "codekori" "name.vercel-dns.com",
+  "codeium" : "cname.vercel-dns.com", // noCF
   "codinsky": "izhaki.github.io/codinsky",
   "coffea": "caffeinery.github.io/coffea",
   "coir": "channg.github.io/coir",
