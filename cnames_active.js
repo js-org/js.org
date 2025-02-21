@@ -2889,6 +2889,7 @@ var cnames_active = {
   "sequel": "sequeljs.github.io",
   "sequelize-cn": "apex-loadbalancer.netlify.app", // noCF
   "sequential": "lorenzoongithub.github.io/sequential",
+  "sera": "cname.vercel-dns.com"
   "serginator": "serginator.github.io", // noCF? (don´t add this in a new PR)
   "serializer": "haircvt.github.io/serializerjs", // noCF? (don´t add this in a new PR)
   "serlina": "djyde.github.io/serlina",
