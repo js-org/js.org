@@ -745,6 +745,7 @@ var cnames_active = {
   "datastream": "willfarrell.github.io/datastream",
   "datastructures": "deadcoder0904.github.io/datastructures",
   "date": "matthewmueller.github.io/date", // noCF? (don´t add this in a new PR)
+  "datenel": "astrian.github.io/datenel-doc",
   "dativejs": "dativejs.github.io",
   "davet": "egecelikci.github.io/davet",
   "dawn": "dawnelixir.github.io/dawn.js.org",
