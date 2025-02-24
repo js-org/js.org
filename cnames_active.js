@@ -2722,6 +2722,7 @@ var cnames_active = {
   "renzu": "aarvinr.github.io/renzu",
   "repackage": "cchamberlain.github.io/repackage", // noCF? (don´t add this in a new PR)
   "repeater": "repeaterjs.github.io/repeater",
+  "repl": "snowflyt.github.io/repl",
   "replay": "edbentley.github.io/replay",
   "request": "request.gitbooks.io", // noCF? (don´t add this in a new PR)
   "reselect": "reselect-docs.netlify.app",
