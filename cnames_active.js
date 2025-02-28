@@ -1840,6 +1840,7 @@ var cnames_active = {
   "logo": "js-org.github.io/logo",
   "loh": "codingstudios.github.io/loh",
   "loki": "oblador.github.io/loki",
+  "london": "londonjs.github.io",
   "lol": "xcss.github.io/lol",
   "loli": "tkzcm.github.io/loli",
   "lombok": "lombokjs.github.io",
