@@ -2044,6 +2044,7 @@ var cnames_active = {
   "mobbler": "megaemce.github.io/mobbler",
   "mobi": "mobidots.github.io",
   "mobx": "mobx-js-org.onrender.com", // noCF
+  "mobx-bonsai": "mobx-bonsai.netlify.app",
   "mobx-keystone": "mobx-keystone.netlify.app",
   "mobx-state-tree": "mobxjs.github.io/mobx-state-tree",
   "mocha1995": "doodlewind.github.io/mocha1995",
