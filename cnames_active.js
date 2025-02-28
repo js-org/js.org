@@ -124,6 +124,7 @@ var cnames_active = {
   "ahnotification": "ahmadhayyan.github.io/ahnotification.js",
   "ahooks": "ahooks.surge.sh",
   "ahooks-v2": "ahooks-v2.surge.sh",
+  "ahorcado_basico": "davidmelli234.github.io/ahorcado_basico/",
   "aider": "tjz101.github.io/aider-js-pages",
   "air": "openwebstudio.github.io/Air-Docs",
   "airesearch": "vtempest.github.io/ai-research-agent",
