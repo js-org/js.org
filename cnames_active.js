@@ -2430,6 +2430,7 @@ var cnames_active = {
   "pineapple": "totaltechgeek.github.io/pineapple",
   "pinf": "pinf.github.io", // noCF? (don´t add this in a new PR)
   "pinipig": "jmdisuanco.github.io/pinipig",
+  "pino-nest": "yamcodes.github.io/pino-nestjs",
   "pinyin": "hotoo.github.io/pinyin",
   "pipes": "pipesjs.github.io", // noCF? (don´t add this in a new PR)
   "pivot": "wnda.github.io/pivot",
