@@ -2175,6 +2175,7 @@ var cnames_active = {
   "neuro": "neurojs.netlify.app",
   "neutralino": "neutralinojs.github.io",
   "newbyte": "newbytee.github.io/newbyte",
+  "nest": "zewlox.github.io/nest",
   "newcar": "newcar-docs.netlify.app",
   "newspool": "68b0dfd0-2b8d-4335-9da2-5653f09d2d34.id.repl.co", // noCF
   "newton": "caracal7.github.io/newton.js",
