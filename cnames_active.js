@@ -433,7 +433,7 @@ var cnames_active = {
   "brum": "romantic-noyce-67d6ee.netlify.app",
   "bs": "cname.vercel-dns.com", // noCF
   "bt": "mldonkey.github.io/bt",
-  "bud": "budjs.netlify.app",
+  "bud": "roots-bud.netlify.app",
   "bui": "kjantzer.github.io/bui",
   "builders": "cname.vercel-dns.com", // noCF
   "bukumark": "ligmatv.github.io/Bukumark",
