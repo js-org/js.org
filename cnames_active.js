@@ -1668,7 +1668,6 @@ var cnames_active = {
   "keystone": "keystone-ssg.netlify.app",
   "keyvhq": "microlinkhq.github.io/keyvhq",
   "keyvify": "zyrouge.github.io/Keyvify",
-  "ksharp": "konraaadcz.github.io/ksharp-web",
   "kiai": "buape.github.io/utilities",
   "kilic": "kiliczsh.github.io",
   "kilobyte": "kilobytehq.github.io/open-js",
@@ -1715,6 +1714,7 @@ var cnames_active = {
   "kra": "kra-framework.github.io/kra-suite", // noCF
   "krds": "krds-community.github.io/krds-react",
   "kremling": "canopytax.github.io/kremling.js.org",
+  "ksharp": "konraaadcz.github.io/ksharp-web",
   "kshitij": "kshitij98.github.io",
   "ksp": "keepsobp.github.io",
   "kst": "lucaelin.github.io/KST", // noCF
