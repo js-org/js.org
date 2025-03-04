@@ -1714,6 +1714,7 @@ var cnames_active = {
   "kra": "kra-framework.github.io/kra-suite", // noCF
   "krds": "krds-community.github.io/krds-react",
   "kremling": "canopytax.github.io/kremling.js.org",
+  "ksharp": "konraaadcz.github.io/ksharp-web",
   "kshitij": "kshitij98.github.io",
   "ksp": "keepsobp.github.io",
   "kst": "lucaelin.github.io/KST", // noCF
