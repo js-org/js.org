@@ -1138,7 +1138,7 @@ var cnames_active = {
   "fikri": "ikrydev.github.io/fikri.js.org",
   "file-extension": "ultirequiem.github.io/file-extension",
   "file.lt": "cname.vercel-dns.com", // noCF
-  "filebokz": "kodie.github.io/filebokz",
+  "filebokz": "fivefifteen.github.io/filebokz",
   "filejack": "cname.vercel-dns.com", // noCF
   "filer": "filerjs.github.io/filer",
   "fill100": "matteobruni.github.io/fill100",
@@ -1330,7 +1330,7 @@ var cnames_active = {
   "gridl": "klattiation.github.io/gridl",
   "griffel": "microsoft.github.io/griffel",
   "groupme": "groupme-js.github.io/website",
-  "growfield": "kodie.github.io/growfield",
+  "growfield": "fivefifteen.github.io/growfield",
   "grpcity": "cname.vercel-dns.com", // noCF
   "grtblog": "grtsinry43.github.io/grtblog",
   "grub": "grubburg.github.io/blog",
@@ -1381,7 +1381,7 @@ var cnames_active = {
   "happy": "e24.github.io/happy", // noCF? (don´t add this in a new PR)
   "harry": "harry-yep.github.io",
   "hashchat": "hashchat-js.netlify.app",
-  "hashjump": "kodie.github.io/hashjump",
+  "hashjump": "fivefifteen.github.io/hashjump",
   "hashparser": "rvanbaalen.github.io/hashparser",
   "hasura-om": "mrspartak.github.io/hasura-om",
   "hay": "hayjs.github.io/hay.js.org",
@@ -1686,7 +1686,7 @@ var cnames_active = {
   "klasy-eris": "motiontheking.github.io/klasy-eris",
   "klayr-did": "aldhosutra.github.io/klayr-did",
   "klepto": "mwjaworski.github.io/klepto",
-  "kloner": "kodie.github.io/kloner",
+  "kloner": "fivefifteen.github.io/kloner",
   "kmeans": "jeff-tian.github.io/k-means",
   "knc": "chaituknag.github.io",
   "ko": "ko25july.github.io/ko.js.org",
