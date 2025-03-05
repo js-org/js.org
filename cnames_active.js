@@ -546,6 +546,7 @@ var cnames_active = {
   "chronos": "espinielli.github.io/chronos", // noCF? (don´t add this in a new PR)
   "chronosis": "jack-weilage.github.io/chronosis",
   "citation": "citation-js.github.io/site",
+  "cite": "citecount.netlify.app",
   "citeapa": "natsuozawa.github.io/citeapa",
   "city": "city.github.io",
   "civet": "civet-org.github.io",
