@@ -1258,6 +1258,7 @@ var cnames_active = {
   "genpass": "bnnanet.github.io/genpass.js",
   "genpasswd": "exos.github.io/genpasswd", // noCF? (don´t add this in a new PR)
   "geolocation-promise": "js-pugilist.github.io/geolocation-promise",
+  "geonet": "carolinaisslaying.github.io/geonet",
   "george": "georgeyue.github.io/george",
   "geotargeting": "sntran.github.io/geotargeting",
   "geppetto": "matthijsgroen.github.io/geppetto",
