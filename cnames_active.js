@@ -37,7 +37,7 @@
  *              BECAUSE OF THE RISK OF ABUSE, I'M NOT ACCEPTING REQUESTS FOR PAGES WITHOUT REASONABLE CONTENT!
  */
 
-var cnames_active = {
+ var cnames_active = {
   "": "js-org.github.io",
   "01mz": "01mz.github.io",
   "100dayz": "deadcoder0904.github.io/100dayz",
@@ -605,6 +605,7 @@ var cnames_active = {
   "colors": "xv700.github.io/colors",
   "colors-web": "yu-tou.github.io/colors-web",
   "colorsea": "waterbeside.github.io/colorsea",
+  "colortap": "fivefifteen.github.io/colortap",
   "colorwind": "siguici.github.io/colorwind",
   "comfortable": "ruben-arushanyan.github.io/comfortable",
   "comixngn": "seun40.github.io/comix-ngn", // noCF? (don´t add this in a new PR)
@@ -1138,7 +1139,7 @@ var cnames_active = {
   "fikri": "ikrydev.github.io/fikri.js.org",
   "file-extension": "ultirequiem.github.io/file-extension",
   "file.lt": "cname.vercel-dns.com", // noCF
-  "filebokz": "kodie.github.io/filebokz",
+  "filebokz": "fivefifteen.github.io/filebokz",
   "filejack": "cname.vercel-dns.com", // noCF
   "filer": "filerjs.github.io/filer",
   "fill100": "matteobruni.github.io/fill100",
@@ -1330,7 +1331,7 @@ var cnames_active = {
   "gridl": "klattiation.github.io/gridl",
   "griffel": "microsoft.github.io/griffel",
   "groupme": "groupme-js.github.io/website",
-  "growfield": "kodie.github.io/growfield",
+  "growfield": "fivefifteen.github.io/growfield",
   "grpcity": "cname.vercel-dns.com", // noCF
   "grtblog": "grtsinry43.github.io/grtblog",
   "grub": "grubburg.github.io/blog",
@@ -1381,7 +1382,7 @@ var cnames_active = {
   "happy": "e24.github.io/happy", // noCF? (don´t add this in a new PR)
   "harry": "harry-yep.github.io",
   "hashchat": "hashchat-js.netlify.app",
-  "hashjump": "kodie.github.io/hashjump",
+  "hashjump": "fivefifteen.github.io/hashjump",
   "hashparser": "rvanbaalen.github.io/hashparser",
   "hasura-om": "mrspartak.github.io/hasura-om",
   "hay": "hayjs.github.io/hay.js.org",
@@ -1686,7 +1687,7 @@ var cnames_active = {
   "klasy-eris": "motiontheking.github.io/klasy-eris",
   "klayr-did": "aldhosutra.github.io/klayr-did",
   "klepto": "mwjaworski.github.io/klepto",
-  "kloner": "kodie.github.io/kloner",
+  "kloner": "fivefifteen.github.io/kloner",
   "kmeans": "jeff-tian.github.io/k-means",
   "knc": "chaituknag.github.io",
   "ko": "ko25july.github.io/ko.js.org",
@@ -1701,7 +1702,6 @@ var cnames_active = {
   "kokkoro": "kokkorojs.github.io",
   "kokoro": "cool2645.github.io/kokoro",
   "kokoro-player": "cool2645.github.io/kokoro-player",
-  "kolorfield": "kodie.github.io/kolorfield",
   "komada": "dirigeants.github.io/komada",
   "komo": "jskull.github.io/komo",
   "komps": "bemky.github.io/komps",
@@ -2024,7 +2024,6 @@ var cnames_active = {
   "minimizedb": "acarrr.github.io/minimizedb",
   "mininote": "htdt.github.io/mininote",
   "minirouter": "milio48.github.io/minirouter.js",
-  "minitaur": "kodie.github.io/minitaur",
   "minivaline": "minivaline.github.io",
   "miny": "pablopunk.github.io/miny",
   "mirage": "camwang.github.io/mirage",
@@ -2391,7 +2390,6 @@ var cnames_active = {
   "pecis": "techpot-studio.github.io/Pecis",
   "pee": "enbyautumn.github.io/pee.js",
   "peekaboo": "nadavspi.github.io/peekaboo.js",
-  "peekfield": "kodie.github.io/peekfield",
   "pegasusdb": "tatsumaki-coderr.github.io/pegasus.db",
   "pegboard": "mplewis.github.io/pegboard",
   "pekanbaru": "pekanbarujs.github.io",
