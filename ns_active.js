@@ -21,6 +21,7 @@ var ns_active = {
   "ruby": ["alexis.ns.cloudflare.com", "connie.ns.cloudflare.com"],
   "samplasion": ["ns31.cloudns.net", "ns32.cloudns.net", "ns33.cloudns.net", "ns34.cloudns.net"],
   "shebang": ["dns1.p01.nsone.net", "dns2.p01.nsone.net", "dns3.p01.nsone.net", "dns4.p01.nsone.net"]
+  "wx": ["amir.ns.cloudflare.com", "violet.ns.cloudflare.com"],
 }
 
 /*
