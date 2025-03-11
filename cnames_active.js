@@ -97,6 +97,7 @@ var cnames_active = {
   "adamant": "datamart.github.io/Adamant",
   "adaptui": "cname.vercel-dns.com", // noCF
   "aderemi": "aderemi.github.io",
+  "adfreetube": "adfreetube.vercel.app",
   "adil": "adilzeshan.github.io/adil",
   "aditya": "aditya81070.github.io",
   "adnanbabakan": "adnanbabakan.github.io",
