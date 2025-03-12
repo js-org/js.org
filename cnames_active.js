@@ -2277,7 +2277,6 @@ var cnames_active = {
   "nyr": "suriyaakudoisc.github.io/NYR",
   "oak": "donn.github.io/Oak.js",
   "obfuscate": "complifyjs.pages.dev",
-  "obfuscator": "complifyjs.pages.dev",
   "object-gui": "matteobruni.github.io/object-gui",
   "objectid": "the-silver-project.github.io/objectid",
   "objectkv": "itsag.github.io/objectkv",
