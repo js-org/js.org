@@ -1427,6 +1427,7 @@ var cnames_active = {
   "holidaycss": "evgenyorekhov.github.io/holiday.css",
   "hooked-on-redux": "harryhope.github.io/hooked-on-redux",
   "hookstate": "hookstate.netlify.app", // noCF
+  "holo": "holo-js-org.github.io/www",
   "hooloo": "hooloo.github.io", // noCF? (don´t add this in a new PR)
   "hoshii": "reinhello.github.io/hoshii-docs",
   "houp": "houpjs.github.io/houp-docs",
