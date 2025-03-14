@@ -3366,6 +3366,7 @@ var cnames_active = {
   "typed-ui": "pi-cubed.github.io/typed-ui",
   "typedi": "freshgum-bubbles.github.io/typedi",
   "typeless": "typeless.netlify.app",
+  "typerinth": "kartoffelchipss.github.io",
   "typerun": "symsmith.github.io/typerun",
   "typescript-play": "agentcooper.github.io/typescript-play",
   "typewriter": "nicesapien.github.io/typewriter.js",
