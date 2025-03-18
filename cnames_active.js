@@ -658,6 +658,7 @@ var cnames_active = {
   "cork": "davej.github.io/CorkJS",
   "corki": "dvtate.github.io/corki",
   "corona": "soroushchehresa.github.io/awesome-coronavirus",
+  "cordlang": "cname.vercel-dns.com", //noCF cordlang :D
   "corps": "copay.github.io",
   "corx": "corx.kazult.repl.co", // noCF
   "cosmicord": "cname.vercel-dns.com", // noCF
