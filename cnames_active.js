@@ -650,6 +650,7 @@ var cnames_active = {
   "copywriting-correct": "rikakomoe.github.io/copywriting-correct",
   "cord": "lukadev-0.github.io/cord.js",
   "cordis": "cordis-lib.github.io",
+  "cordlang": "cname.vercel-dns.com", // noCF
   "cordova-multiplatform-template": "ckgrafico.github.io/Cordova-Multiplatform-Template", // noCF? (don´t add this in a new PR)
   "core-ln": "runcitadel.github.io/core-ln.ts",
   "coreact": "coreactjs.github.io/coreact",
