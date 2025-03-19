@@ -471,6 +471,7 @@ var cnames_active = {
   "caizhiyuannn": "caizhiyuannn.github.io",
   "calcium": "courageous-bublanina-6857c1.netlify.app",
   "calcy": "odevlord.github.io/Calcy", // noCF? (don´t add this in a new PR)
+  "calculator": "tech-preta.github.io/calculator"
   "calendarios": "helpdev.github.io/Calendarios", // noCF? (don´t add this in a new PR)
   "caliph-api": "caliphdev.github.io/caliph-api",
   "calisto": "cname.vercel-dns.com", // noCF
@@ -3734,8 +3735,7 @@ var cnames_active = {
   "zyh": "zyh-chopper.github.io/zyh",
   "zykj": "cname.vercel-dns.com", // noCF
   "zyx": "zyx.alwaysdata.net",
-  "zyy": "zyyou.github.io/notes",
-  "calculator": "calculator.https://tech-preta.github.io/calculator
+  "zyy": "zyyou.github.io/notes"
   /*
    * please don't add your subdomain records down here!
    * insert them in alphabetical order to help reduce merge conflicts.
