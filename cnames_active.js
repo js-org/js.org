@@ -3606,7 +3606,7 @@ var cnames_active = {
   "wfplayer": "zhw2590582.github.io/WFPlayer",
   "wglt": "codyebberson.github.io/wglt",
   "whadido": "jokester.github.io/whadido",
-  "whataboutme": "zeerunsyou.github.io/whataboutme.js.org",
+  "whataboutme": "zeerunsyou.github.io/whataboutme",
   "whatscode": "jastinxyz.github.io/whatscode.js",
   "whatsnext": "cname.vercel-dns.com", // noCF
   "whatsup": "whatsup.github.io",
