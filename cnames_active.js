@@ -3710,6 +3710,7 @@ var cnames_active = {
   "yvm": "tophat.github.io/yvm",
   "zaimu": "zaimu.netlify.app", // noCF
   "zaporizhzhia": "zaporizhzhiajs.github.io",
+  "zcjwyj": "zcjwyj.github.io/zcjwyj“,
   "zed": "paul-browne.github.io/Zed-framework",
   "zen": "tomelam.github.io/zen",
   "zenfuse": "zenfuse.github.io/zenfuse.js",
