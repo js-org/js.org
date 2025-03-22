@@ -1156,6 +1156,7 @@ var cnames_active = {
   "firenze": "fahad19.github.io/firenze", // noCF? (don´t add this in a new PR)
   "fireorm": "wovalle.github.io/fireorm",
   "fireworks": "crashmax-dev.github.io/fireworks-js",
+  "first-accord": "sticknologic.github.io/First-Accord",
   "fish": "cdaringe.github.io/fish",
   "five": "jackdcrawford.github.io/five",
   "flamecord": "flamexode.github.io/flamecord",
