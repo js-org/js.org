@@ -3056,7 +3056,7 @@ var cnames_active = {
   "spinonsubmit": "thedhanawada.github.io/SpinOnSubmitJS",
   "spirare": "waldenn.github.io/spirare", // noCF? (don´t add this in a new PR)
   "spiritual": "spiritual-js.github.io", // noCF? (don´t add this in a new PR)
-  "splayer": "satosouta.github.io/SPlayer",
+  "splayer": "catsouta.github.io/splayer-js",
   "splendid": "splendid-cms.github.io/website",
   "split": "nathancahill.github.io/split",
   "split-ease": "split-ease.netlify.app", // noCF
