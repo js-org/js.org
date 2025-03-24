@@ -3717,6 +3717,7 @@ var cnames_active = {
   "zero-dependency": "zero-dependency.github.io/zero-dependency",
   "zeroclick": "studiomotio.github.io/zeroclick",
   "zeroframe": "filips123.github.io/ZeroFrameJS",
+  "zcemu": "zcemu.github.io/jzsite"
   "zh-cn-ydk": "ydkjsy-zh.netlify.app",
   "zh-hans.single-spa": "single-spa.github.io/zh-hans.single-spa.js.org", // noCF
   "zh.mobx": "cname.vercel-dns.com", // noCF
