@@ -37,7 +37,7 @@
  *              BECAUSE OF THE RISK OF ABUSE, I'M NOT ACCEPTING REQUESTS FOR PAGES WITHOUT REASONABLE CONTENT!
  */
 
-var cnames_active = {
+ var cnames_active = {
   "": "js-org.github.io",
   "01mz": "01mz.github.io",
   "100dayz": "deadcoder0904.github.io/100dayz",
@@ -3630,7 +3630,6 @@ var cnames_active = {
   "within": "eric-brechemier.github.io/within", // noCF? (don´t add this in a new PR)
   "wiz": "karimsa.github.io/wiz", // noCF
   "wizzl": "wizzldev.github.io/wizzl.js",
-  "winver18": "winver18.github.io"
   "wjy": "wjy20030407.github.io",
   "wk": "alperr.github.io/wk",
   "wolvesville": "wolvesvillejs.github.io/website",
