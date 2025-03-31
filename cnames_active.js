@@ -3294,7 +3294,7 @@ var cnames_active = {
   "tixte": "macedonga.github.io/tixte.js",
   "tiza": "pd4d10.github.io/tiza",
   "tjys": "qikaile.github.io/tjys-notes",
-  "tl": "telethonian.github.io/tl-differ/",
+  "tl": "telethonian.github.io/tl-differ",
   "tmr": "tmr-blog.netlify.app",
   "tnt": "tntjs-docs.netlify.app",
   "toad": "wnda.github.io/toad",
