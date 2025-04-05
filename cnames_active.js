@@ -3270,6 +3270,7 @@ var cnames_active = {
   "threadly": "spideyzac.github.io/Threadly",
   "threads": "andywer.github.io/threads.js",
   "threebody": "cnzc.github.io/threebody",
+  "thema": "themakit.github.io",
   "thrive": "aarvinr.github.io/thrive",
   "ths": "ths-fe.github.io",
   "thundercats": "thundercatsjs.github.io/thundercats", // noCF? (don´t add this in a new PR)
