@@ -1220,6 +1220,7 @@ var cnames_active = {
   "frontless": "nesterow.github.io/frontless",
   "fronts": "unadlib.github.io/fronts",
   "frontsearch": "1d10t1c-stud10s.github.io/frontsearchjs",
+  "fuji": "fuji-halim-rabani.netlify.app",
   "frost": "cesiumlabs.github.io/frost",
   "frui": "ossphilippines.github.io/frui",
   "frzr": "pakastin.github.io/frzr",
