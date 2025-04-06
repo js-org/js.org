@@ -2857,6 +2857,7 @@ var cnames_active = {
   "scadies": "kysolva.github.io/scadies", // noCF
   "scancell": "russellsteadman.github.io/scancell",
   "scene": "daybrush.github.io/scenejs-page",
+  "schedule1mixer": "lucasn-e.github.io/schedule1-test",
   "schema": "hosting.gitbook.com",
   "schema-render": "barrior.github.io/schema-render",
   "schemy": "aeberdinelli.github.io/schemy",
