@@ -1783,6 +1783,7 @@ var cnames_active = {
   "lego": "polight.github.io/lego",
   "leipzig": "leipzigjs.github.io", // noCF? (don´t add this in a new PR)
   "lemn": "lemnjs.github.io/lemn",
+  "lems": "lemeshovich.github.io",
   "leo": "leo66123.github.io",
   "leoj": "leoaj.github.io", // noCF? (don´t add this in a new PR)
   "leoric": "cyjake.github.io/leoric",
