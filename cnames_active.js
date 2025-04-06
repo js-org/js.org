@@ -3260,6 +3260,7 @@ var cnames_active = {
   "tgx-core": "tgx-core.github.io/website",
   "thea": "idokutela.github.io/thea",
   "thegrid": "antoniandre.github.io/grid",
+  "thema": "themakit.github.io",
   "theme-next": "hexo-theme-next.netlify.app",
   "themoviedb": "chrisenytc.github.io/themoviedb", // noCF? (don´t add this in a new PR)
   "thenandnow": "devdavmen.github.io/then-and-now",
