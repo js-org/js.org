@@ -3268,6 +3268,7 @@ var cnames_active = {
   "theorem": "arguiot.github.io/TheoremJS",
   "thepeachtimes": "thepeachtimes.github.io",
   "thi": "ngomjnhthj.github.io/thi",
+  "thianda": "thianda91.github.io",
   "thinkdigital": "tomowens08.github.io/thinkdigital",
   "threadly": "spideyzac.github.io/Threadly",
   "threads": "andywer.github.io/threads.js",
