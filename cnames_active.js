@@ -190,7 +190,7 @@ var cnames_active = {
   "animegan": "tonylianlong.github.io/AnimeGAN.js",
   "animo": "thrivingkings.github.io/animo",
   "animorph": "claudiobmgrtnr.github.io/animorph",
-  "anish" : "https://anishcodes27.github.io",
+  "anish" : "anishcodes27.github.io",
   "ankareport": "ankareport.github.io",
   "ankit": "ankit-chaubey.github.io/ankit",
   "anna": "anna-wro.github.io/anna",
