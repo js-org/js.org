@@ -1232,6 +1232,7 @@ var cnames_active = {
   "fullscreen": "motyar.github.io/fullscreen",
   "funbook": "egoist.github.io/funbook",
   "funcs": "funcs-package.github.io/docs",
+  "fun-noti": "amr0khaled.github.io/fun-noti",
   "fusilli": "anthemaker.github.io/Fusilli.js",
   "fvuar": "fvuarjs.netlify.app",
   "fw": "fjs.alwaysdata.net",
