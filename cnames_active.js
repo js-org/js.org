@@ -3645,6 +3645,7 @@ var cnames_active = {
   "wordywordy": "sverweij.github.io/wordywordy",
   "workers": "worker-tools.github.io/workers.js.org",
   "worksnake": "worksnake.github.io",
+  "worlar": "worlarusham.netlify.app",
   "wowufoundme": "wowufoundme.github.io",
   "wpwebpack": "oblakstudio.github.io/wpwebpack",
   "wq": "wqjs.alwaysdata.net",
