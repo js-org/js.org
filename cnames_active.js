@@ -3245,6 +3245,7 @@ var cnames_active = {
   "temme": "shinima.github.io/temme",
   "template-pro": "template-pro.github.io",
   "templates.linksharer": "linksharer.github.io/Templates", // noCF
+  "tempmail": "email-echo-replica-project.vercel.app"
   "tenvoy": "togatech.github.io/tEnvoy",
   "tequila": "tequila-js.github.io",
   "term-web": "zhw2590582.github.io/term-web",
