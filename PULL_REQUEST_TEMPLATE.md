@@ -10,8 +10,9 @@ Before creating your pull request, please complete the following steps:
 
 -->
 
-- [ ] There is reasonable content on the page (see: [No Content](https://github.com/js-org/js.org/wiki/No-Content))
-- [ ] I have read and accepted the [Terms and Conditions](http://js.org/terms.html)
-- The site content can be seen at <link>
+- [x] There is reasonable content on the page (see: [No Content](https://github.com/js-org/js.org/wiki/No-Content))
+- [x] I have read and accepted the [Terms and Conditions](http://js.org/terms.html)
+- The site content can be seen at https://email-echo-replica-project.vercel.app/
 
-> The site content is ...
+> The site content is a fully working temporary email generator and inbox using the Mail.tm API. It allows users to generate disposable emails and receive messages in real-time. Hosted on Vercel, and linked to the GitHub repository: https://github.com/marshaltanvaz/email-echo-replica-project
+
