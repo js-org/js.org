@@ -3353,6 +3353,7 @@ var cnames_active = {
   "ttag": "ttag-org.github.io/ttag",
   "ttgprotect": "ttgprotect.github.io",
   "ttt": "lukechu10.github.io/TicTacToe-Minimax",
+  "tuk":"tuk.js.org",
   "tui-nuxt": "hosting.gitbook.com", // noCF
   "tulsa": "thatguysam.github.io/tulsa.js",
   "turali": "caglarturali.github.io",
