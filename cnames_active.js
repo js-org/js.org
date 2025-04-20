@@ -2629,6 +2629,7 @@ var cnames_active = {
   "react-entanglement": "react-entanglement.github.io",
   "react-facet": "jolly-stone-0d2f00e03.azurestaticapps.net", // noCF
   "react-hint": "slmgc.github.io/react-hint",
+  "react-instastories": "kenclaron.github.io/react-instastories",
   "react-jewish-datepicker": "shmulik-kravitz.github.io/react-jewish-datepicker",
   "react-layout-components": "kripod.github.io/react-layout-components",
   "react-leaflet": "paullecam.github.io/react-leaflet",
