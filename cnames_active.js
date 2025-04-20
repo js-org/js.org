@@ -459,7 +459,7 @@ var cnames_active = {
   "byteform": "byteform.netlify.app",
   "bytemd": "bytemd.netlify.app",
   "c": "cocobear.github.io",
-  "codebylikhon": "cname.vercel-dns.com", // noCF' after existing line
+  "codebylikhon": "codebylikhon.vercel.app",
   "c-3po": "ttag-org.github.io/c-3po",
   "c-installer": "llenax.github.io/c-installer",
   "c1200": "c1200.github.io",
