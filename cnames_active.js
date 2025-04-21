@@ -2574,7 +2574,7 @@ var cnames_active = {
   "quickpterodactyl": "condescending-haibt-c79013.netlify.app",
   "quickredis": "hosting.gitbook.io", // noCF
   "quickreplit": "lebyy.github.io/quick.replit",
-  "quickshadow": "cname.vercel-dns.com", // noCF
+  "quickshadow": "cname.vercel-dns.com",
   "quickuptime": "lebyy.github.io/quickuptimedocs",
   "quicli": "thecodeah.github.io/quicli",
   "quincy": "quincyx.github.io",
