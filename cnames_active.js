@@ -589,7 +589,7 @@ var cnames_active = {
   "cobalt-kit": "bernzrdo.github.io/cobalt-kit",
   "cocy": "krmax44.github.io/cocy",
   "code-tour": "code-tour.netlify.app",
-  "codebooky": "hiteshsubnani0128.github.io/codebooky",
+  "codebylikhon": "cname.vercel-dns.com", // noCF
   "codekori": "cname.vercel-dns.com", // noCF,
   "codemade": "codemade.github.io", // noCF? (don´t add this in a new PR)
   "codemirror-languageservice": "codemirror-languageservice.netlify.app",
@@ -695,7 +695,6 @@ var cnames_active = {
   "credo": "openwallet-foundation.github.io/credo-ts-docs",
   "crls": "lukecarr.github.io/crls",
   "crossani": "cname.vercel-dns.com", // noCF
-  "codebylikhon": "codebylikhon.vercel.app",
   "crossbell": "crossbell-box.github.io/crossbell.js",
   "crunch": "vukicevic.github.io/crunch", // noCF? (don´t add this in a new PR)
   "cryptokey": "rumkin.github.io/crypto-key",
