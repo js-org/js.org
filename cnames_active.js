@@ -2218,6 +2218,7 @@ var cnames_active = {
   "nic": "nic.github.io",
   "nice": "gcsboss.github.io/nice",
   "nicetix": "indus.github.io/nicetix",
+  "niel": "niel-n7els-projects.vercel.app",
   "nightcord": "rellylegend.github.io/nightcord",
   "nikita": "adaltas.github.io/node-nikita",
   "nikmartin": "nikmartin.github.io",
