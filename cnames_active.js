@@ -695,6 +695,7 @@ var cnames_active = {
   "credo": "openwallet-foundation.github.io/credo-ts-docs",
   "crls": "lukecarr.github.io/crls",
   "crossani": "cname.vercel-dns.com", // noCF
+  "codebylikhon": "https://codebylikhon.vercel.app",
   "crossbell": "crossbell-box.github.io/crossbell.js",
   "crunch": "vukicevic.github.io/crunch", // noCF? (don´t add this in a new PR)
   "cryptokey": "rumkin.github.io/crypto-key",
