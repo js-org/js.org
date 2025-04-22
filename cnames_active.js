@@ -3193,6 +3193,7 @@ var cnames_active = {
   "swearoo": "codeswithjames.github.io/swearoo",
   "sweetalert": "t4t5.github.io/sweetalert",
   "sweetconfirm": "koddr.github.io/sweetconfirm.js",
+  "sweetcreations": "sacgwapo.github.io/cake-business-website",
   "swipe": "lyfeyaj.github.io/swipe",
   "swiss": "suisse.onrender.com", // noCF
   "switchit": "dongryphon.github.io/switchit",
