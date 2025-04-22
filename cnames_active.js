@@ -1,4 +1,4 @@
-/*
+ /*
  ***** ACTIVE SUBDOMAINS
  * ***********************
  *
@@ -3138,6 +3138,7 @@ var cnames_active = {
   "story": "alltobebetter.github.io/story",
   "storybook": "apex-loadbalancer.netlify.app", // noCF
   "storybooks": "storybooks.github.io",
+  "stoxity": "stoxity.github.io",
   "str": "manelet.github.io/str",
   "stratic": "straticjs.github.io",
   "stream-regex": "getjerry.github.io/stream-regex",
