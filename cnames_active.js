@@ -294,7 +294,7 @@ var cnames_active = {
   "awoo": "awoojs.github.io/website",
   "aws-auth": "iamarkadyt.github.io/aws-auth",
   "axii": "ariesate.github.io/axii-site",
-  "axios-c": "Nom-nom-hub.github.io/axios-cache-lite",
+  "axios-cache-lite": "nom-nom-hub.github.io/axios-cache-lite",
   "axios-cache-interceptor": "arthurfiorette.github.io/axios-cache-interceptor",
   "axon": "caracal7.github.io/axon.js",
   "axtillar": "axtillarjs.netlify.app",
