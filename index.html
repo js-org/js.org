@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Gemini's Zoom Site</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"/>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      height: 100vh;
+      background: url('https://chat.openai.com/mnt/data/gemini-bg.jpg') no-repeat center center/cover;
+      font-family: 'Poppins', sans-serif;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      animation: zoomIn 20s ease-in-out infinite alternate;
+    }
+
+    @keyframes zoomIn {
+      0% {
+        background-size: 100%;
+      }
+      100% {
+        background-size: 110%;
+      }
+    }
+
+    .click-button {
+      display: flex;
+      align-items: center;
+      gap: 15px;
+      padding: 18px 40px;
+      font-size: 22px;
+      color: #fff;
+      background: linear-gradient(to right, #00c6ff, #0072ff);
+      border: none;
+      border-radius: 50px;
+      cursor: pointer;
+      box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3);
+      transition: all 0.3s ease;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .click-button:hover {
+      transform: scale(1.05);
+      background: linear-gradient(to right, #0072ff, #00c6ff);
+    }
+
+    .click-button i {
+      font-size: 26px;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Background Audio -->
+  <audio autoplay loop>
+    <source src="https://chat.openai.com/mnt/data/BAGHEERA%20%20SHIVA%20STOTRA%20VIDEO%20SONG%20%20Sriimurali%20&%20Rukmini%20%20Ajaneesh%20%20Dr.Suri%20%20Hombale%20Films.mp3" type="audio/mpeg">
+  </audio>
+
+  <button class="click-button" onclick="playAndOpen()">
+    <i class="fas fa-arrow-circle-right"></i> Go to Website
+  </button>
+
+  <audio id="clickSound" src="https://assets.mixkit.co/sfx/preview/mixkit-click-melodic-tone-1129.mp3"></audio>
+
+  <script>
+    function playAndOpen() {
+      const sound = document.getElementById('clickSound');
+      sound.play();
+      setTimeout(() => {
+        window.open('https://mine.is-a.dev', '_blank');
+      }, 300);
+    }
+  </script>
+
+</body>
+</html>
