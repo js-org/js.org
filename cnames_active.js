@@ -295,6 +295,7 @@ var cnames_active = {
   "aws-auth": "iamarkadyt.github.io/aws-auth",
   "axii": "ariesate.github.io/axii-site",
   "axios-cache-interceptor": "arthurfiorette.github.io/axios-cache-interceptor",
+  "axios-cache-lite": "nom-nom-hub.github.io/axios-cache-lite",
   "axon": "caracal7.github.io/axon.js",
   "axtillar": "axtillarjs.netlify.app",
   "azbuka-vkusa": "bullwinkle.github.io/azbuka-vkusa",
