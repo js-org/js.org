@@ -3670,6 +3670,7 @@ var cnames_active = {
   "xatom": "xatomteam.github.io/docs",
   "xchart": "cname.vercel-dns.com", // noCF
   "xdtoast": "mininxd.github.io/xdtoast",
+  "mine": "unique-error.github.io/mine",
   "xen": "hosting.gitbook.com",
   "xendb": "notmarx.github.io/Xen.db",
   "xhemj": "xhemj.now.sh", // noCF
