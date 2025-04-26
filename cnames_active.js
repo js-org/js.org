@@ -2049,6 +2049,7 @@ var cnames_active = {
   "mithril-ja": "shibukawa.github.io/mithril-ja", // noCF? (don´t add this in a new PR)
   "mitu": "godow.github.io/mitu",
   "mixery": "nahkd123.github.io/Mixery",
+  "mi-zhy": "mi-zhy.github.io/Mi-Zhy/"
   "mjy": "majianyu2007.github.io",
   "mm": "1ocalhost.github.io/mm",
   "mmcq": "nikola.github.io/MMCQ", // noCF? (don´t add this in a new PR)
