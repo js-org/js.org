@@ -1284,6 +1284,7 @@ var cnames_active = {
   "ghsamm": "ghsamm.github.io", // noCF? (don´t add this in a new PR)
   "giant-piano": "moroshko.github.io/giant-piano", // noCF? (don´t add this in a new PR)
   "gil": "imskeptical.github.io/gil.js",
+  "gioyeimg": "gioye.github.io/gioyeimg",
   "girish": "chaudhs769.github.io/girish.js.org",
   "girls": "girls-js.github.io",
   "girlscript": "girlscriptjaipur.github.io",
@@ -1295,7 +1296,6 @@ var cnames_active = {
   "gitme": "gitme.netlify.app",
   "gitmoji": "jeff-tian.github.io/gitmoji",
   "gitstyle": "inkerk.github.io/git-style-guide",
-  "gioyeimg": "gioye.github.io/gioyeimg/website",
   "givify": "cname.vercel-dns.com", // noCF
   "gka": "gkajs.github.io/gka",
   "glaze": "kripod.github.io/glaze",
