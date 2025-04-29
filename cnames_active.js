@@ -1295,6 +1295,7 @@ var cnames_active = {
   "gitme": "gitme.netlify.app",
   "gitmoji": "jeff-tian.github.io/gitmoji",
   "gitstyle": "inkerk.github.io/git-style-guide",
+  "gioyeimg": "gioye.github.io/gioyeimg/website",
   "givify": "cname.vercel-dns.com", // noCF
   "gka": "gkajs.github.io/gka",
   "glaze": "kripod.github.io/glaze",
