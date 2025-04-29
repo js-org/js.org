@@ -2386,6 +2386,7 @@ var cnames_active = {
   "passepartout": "falkz.github.io/passepartout.js.org",
   "passkeys": "beyondcodebootcamp.github.io/passkeys",
   "passphrase": "therootcompany.github.io/passphrase.js",
+  "passporthelper": "handel-ogbata.github.io/passport-helper",
   "pastate": "birdleescut.github.io/pastate",
   "paste": "cname.vercel-dns.com", // noCF
   "pastebin-alert": "ramadhanamizudin.github.io/pastebin-alert.js", // noCF? (don´t add this in a new PR)
