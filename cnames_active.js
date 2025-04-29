@@ -1201,6 +1201,7 @@ var cnames_active = {
   "fosspwa": "foss-pwa.github.io/app-store",
   "fov": "animafps.github.io/fov-utilities",
   "foxgpt": "coolgoagle.github.io/fox",
+  "fondfracz": "fondfracz.netlify.app",
   "foxhole-client": "foxhole-clientjs.netlify.app",
   "foxify": "foxifyjs.github.io/foxify",
   "foxman": "kaola-fed.github.io/foxman",
