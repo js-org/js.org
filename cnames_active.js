@@ -2426,6 +2426,7 @@ var cnames_active = {
   "pharo": "pharojs.github.io/pharo-js-org",
   "phazor": "phazor-js.github.io/Phazor.js",
   "phi": "phi-tools.netlify.app",
+  "philosophy": "cname.vercel-dns.com", // noCF
   "phisherman": "thewilloftheshadow.github.io/phisherman.js",
   "phobos": "phobosjs.github.io/phobos.js",
   "phoenix35": "phoenix35.github.io/js-help",
