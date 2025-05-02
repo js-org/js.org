@@ -38,7 +38,7 @@
  */
 
 var cnames_active = {
-"ngblog": "arbi-jridi.github.io/ngBlog“
+"ngblog": "arbi-jridi.github.io/ngBlog“,
   "": "js-org.github.io",
   "01mz": "01mz.github.io",
   "100dayz": "deadcoder0904.github.io/100dayz",
