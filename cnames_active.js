@@ -38,7 +38,6 @@
  */
 
 var cnames_active = {
-"ngblog": "arbi-jridi.github.io/ngBlog“,
   "": "js-org.github.io",
   "01mz": "01mz.github.io",
   "100dayz": "deadcoder0904.github.io/100dayz",
@@ -2213,6 +2212,7 @@ var cnames_active = {
   "ng-dux": "mister-what.github.io/ngDux",
   "ng-monaco-editor": "alauda.github.io/ng-monaco-editor",
   "ng-wig": "stevermeister.github.io/ngWig", // noCF? (don´t add this in a new PR)
+  "ngblog": "arbi-jridi.github.io/ngBlog“,
   "ngbook": "ngbook.github.io",
   "ngirc": "ngirc.github.io/ng-irc", // noCF
   "ngn": "nodengn.github.io/NGN", // noCF? (don´t add this in a new PR)
