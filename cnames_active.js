@@ -686,6 +686,7 @@ var cnames_active = {
   "crapto1": "li0ard.github.io/crapto1_ts",
   "crawlx": "wind2sing.github.io/crawlx",
   "crawlyx": "theritikchoure.github.io/crawlyx",
+  "crcalc": "lll69.github.io/crcalc.js",
   "creamcrop": "creamcropdev.github.io",
   "create-coffee-app": "legolovergo.github.io/create-coffee-app",
   "create-djs-app": "cname.vercel-dns.com", // noCF
