@@ -1601,6 +1601,7 @@ var cnames_active = {
   "jetaimetantquetuestoi": "dakokonutboi.github.io/jetaimetantquetuestoi",
   "jets": "nexts.github.io/Jets.js",
   "jinada": "redsplit.github.io/jinada",
+  "jinricp": "jinri-cp.github.io",
   "jjlc": "k-yak.github.io/JJLC", // noCF? (don´t add this in a new PR)
   "jk": "joname1.github.io",
   "jl": "crusj.github.io",
@@ -3748,8 +3749,7 @@ var cnames_active = {
   "zyh": "zyh-chopper.github.io/zyh",
   "zykj": "cname.vercel-dns.com", // noCF
   "zyx": "zyx.alwaysdata.net",
-  "zyy": "zyyou.github.io/notes",
-  "jinricp": "jinri-cp.github.io"
+  "zyy": "zyyou.github.io/notes"
   /*
    * please don't add your subdomain records down here!
    * insert them in alphabetical order to help reduce merge conflicts.
