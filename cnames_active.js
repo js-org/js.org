@@ -2230,6 +2230,7 @@ var cnames_active = {
   "niplayer": "niyuancheng.github.io/NiPlayerDocs",
   "nite": "manvalls.github.io/nite",
   "nitrate": "ranjithrd.github.io/nitrate",
+  "niu": "h105.hubuhost.com",
   "nnmap": "marzavec.github.io/nnmap.js",
   "no-pry": "zenyanle.github.io/node-unblocker",
   "nobelium": "cname.vercel-dns.com", // noCF
