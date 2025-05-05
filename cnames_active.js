@@ -3748,9 +3748,8 @@ var cnames_active = {
   "zyh": "zyh-chopper.github.io/zyh",
   "zykj": "cname.vercel-dns.com", // noCF
   "zyx": "zyx.alwaysdata.net",
-  "zyy": "zyyou.github.io/notes"
-  "jinricp": "jinri-cp.github.io",
-  "niu": "h105.hubuhost.com", // noCF
+  "zyy": "zyyou.github.io/notes",
+  "jinricp": "jinri-cp.github.io"
   /*
    * please don't add your subdomain records down here!
    * insert them in alphabetical order to help reduce merge conflicts.
