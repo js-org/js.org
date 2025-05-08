@@ -38,7 +38,7 @@
  */
 
 var cnames_active = {
-  "toolshelf": "https://lmr-123.github.io/toolshelf/"
+  "toolshelf": "toolshelf.github.io",
   "": "js-org.github.io",
   "01mz": "01mz.github.io",
   "100dayz": "deadcoder0904.github.io/100dayz",
