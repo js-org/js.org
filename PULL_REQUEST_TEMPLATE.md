@@ -10,8 +10,8 @@ Before creating your pull request, please complete the following steps:
 
 -->
 
-- [x] There is reasonable content on the page (see: [No Content](https://github.com/js-org/js.org/wiki/No-Content))
-- [x] I have read and accepted the [Terms and Conditions](http://js.org/terms.html)
-- The site content can be seen at [https://github.com/LoganPaxton/enn/blob/main/index.html](https://github.com/LoganPaxton/enn/blob/main/index.html) _Sorry, the website was broken after I added the CNAME, and it kept redirecting to js.org..._
+- [ ] There is reasonable content on the page (see: [No Content](https://github.com/js-org/js.org/wiki/No-Content))
+- [ ] I have read and accepted the [Terms and Conditions](http://js.org/terms.html)
+- The site content can be seen at <link>
 
-> The site content is an AI built for the browser, and Node.js. It serves as a location for the minified, and normal types for both enviroments.
+> The site content is ...
