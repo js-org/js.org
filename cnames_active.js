@@ -2566,6 +2566,7 @@ var cnames_active = {
   "qbsz": "qbsz.github.io",
   "qs": "kirjs.github.io/qs.js", // noCF? (don´t add this in a new PR)
   "quacky": "quacky-bot.github.io",
+  "quality-pro-solutions": "https://ak-web-dev.github.io/quality-pro-solutions"
   "quantlib": "quantlibjs.github.io",
   "quantum": "militia21.github.io/quantum",
   "que": "seatwork.github.io/que.js",
