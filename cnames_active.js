@@ -1045,7 +1045,7 @@ var cnames_active = {
   "endpoint-imposter": "lukaszmakuch.github.io/endpoint-imposter",
   "energy": "energychain.github.io/energy",
   "englishell": "tzador.github.io/englishell",
-  "enn": "https://loganpaxton.github.io/enn/",
+  "enn": "loganpaxton.github.io/enn",
   "envshh": "sanjib-sen.github.io/envshh",
   "envy": "envy-group.github.io/webui",
   "epi": "epispot.github.io/EpiJS",
