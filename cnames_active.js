@@ -2227,6 +2227,7 @@ var cnames_active = {
   "nicetix": "indus.github.io/nicetix",
   "nightcord": "rellylegend.github.io/nightcord",
   "nikita": "adaltas.github.io/node-nikita",
+  "nikitakridswashere": "nikitakridswashere.github.io",
   "nikmartin": "nikmartin.github.io",
   "nima": "nimaw.github.io",
   "ninh": "reeganexe.github.io/ninh",
