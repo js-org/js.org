@@ -622,6 +622,7 @@ var cnames_active = {
   "common-utils-pkg": "iamdevlinph.github.io/common-utils-pkg",
   "composedb": "ceramicstudio.github.io/js-composedb",
   "compoundinterest": "nategiraudeau.github.io/compound-interest-calculator",
+  "comptime": "feathers-studio.github.io/comptime.ts",
   "computed": "krmax44.github.io/rollup-plugin-computed",
   "concurrent-tasks": "samrith-s.github.io/concurrent-tasks",
   "concursos": "mteyss.github.io/concursos", // noCF? (don´t add this in a new PR)
