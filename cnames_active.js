@@ -557,6 +557,7 @@ var cnames_active = {
   "ck": "chunkeat99.github.io/ck.js.org",
   "ckkibet": "ckkibet.github.io",
   "clabe-validator": "center-key.github.io/clabe-validator",
+  "clarity": "cname.vercel-dns.com", // noCF
   "clark": "clarkdo.github.io/new-blog",
   "clarkdo": "clarkdo.github.io",
   "clash": "powerbox1000.github.io/clash",
