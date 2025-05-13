@@ -1942,6 +1942,7 @@ var cnames_active = {
   "markmsmith": "markmsmith.github.io",
   "markvis": "geekplux.github.io/markvis",
   "markvis-editor": "geekplux.github.io/markvis-editor",
+  "markxmind": "jinzcdev.github.io/markxmind",
   "mars": "marswong.github.io/blog",
   "martin": "martinbutler.github.io", // noCF? (don´t add this in a new PR)
   "martingollogly": "martingollogly.github.io", // noCF? (don´t add this in a new PR)
