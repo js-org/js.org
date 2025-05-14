@@ -571,6 +571,7 @@ var cnames_active = {
   "clickforhelp": "clickforhelp.netlify.app",
   "clickhouse": "depyronick.github.io/clickhouse-client",
   "clientworker": "chenyfan.github.io/ClientWorker",
+  "clipx": "clipx.dzr.app",
   "clock": "mirmousaviii.github.io/clock",
   "clockwork": "clockworkdev.github.io/ClockworkWebsite",
   "cluster-eventdispatcher": "chickendevlab.github.io/cluster-eventdispatcher",
