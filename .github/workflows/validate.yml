@@ -1,4 +1,4 @@
-name: Validate cnames and PR Template
+name: Validate
 
 on:
   push:
