@@ -49,7 +49,9 @@ jobs:
 
   validate-pr-template:
     if: github.event_name == 'pull_request'
+
     runs-on: ubuntu-latest
+
     steps:
       - name: Validate PR template
         uses: actions/github-script@v7
