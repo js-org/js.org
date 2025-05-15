@@ -571,6 +571,7 @@ var cnames_active = {
   "clickforhelp": "clickforhelp.netlify.app",
   "clickhouse": "depyronick.github.io/clickhouse-client",
   "clientworker": "chenyfan.github.io/ClientWorker",
+  "clipx": "cname.vercel-dns.com", // noCF
   "clock": "mirmousaviii.github.io/clock",
   "clockwork": "clockworkdev.github.io/ClockworkWebsite",
   "cluster-eventdispatcher": "chickendevlab.github.io/cluster-eventdispatcher",
@@ -2846,6 +2847,7 @@ var cnames_active = {
   "saigon": "saigonjs.github.io",
   "sailesh": "saileshkasaju.github.io/crud-react-redux-mongo",
   "sakiv": "sakiv.github.io",
+  "salary": "whz11.github.io/salarytools",
   "salvacam": "salvacam.github.io",
   "salvattore": "rnmp.github.io/salvattore",
   "sam": "jdubray.github.io/sam", // noCF? (don´t add this in a new PR)
@@ -3189,6 +3191,7 @@ var cnames_active = {
   "supernova-tool": "supernova-tool.github.io/supernova-site",
   "surgio": "cname.zeabur-dns.com", // noCF
   "suroadb": "nicamoq.github.io/SuroADB-Lite",
+  "surrealorm": "surrealorm.justwolf.dev", // noCF
   "surti": "cname.vercel-dns.com", // noCF
   "svelkit": "kenoxa.github.io/svelkit",
   "svelte-aplayer": "fengkx.github.io/svelte-aplayer",
