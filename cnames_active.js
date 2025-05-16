@@ -206,6 +206,7 @@ var cnames_active = {
   "aom": "scarych.github.io/aom",
   "aomex": "aomex.github.io",
   "api.lt": "cname.vercel-dns.com", // noCF
+  "api.nb-music": "nb-music.tianjiu-app.top", // noCF
   "apicluster": "ramsunvtech.github.io/apicluster", // noCF? (don´t add this in a new PR)
   "apilyertia": "apilyertia.github.io",
   "aping": "johnnythetank.github.io/apiNG", // noCF? (don´t add this in a new PR)
@@ -2180,6 +2181,7 @@ var cnames_active = {
   "nave": "naveteam.github.io/nave",
   "naveenjujaray": "naveenjujaray.github.io/blog",
   "nbabot": "eliotchignell.github.io/NBABot",
+  "nb-music": "nb-music.tianjiu-app.top", // noCF
   "ncub8": "ncub8.github.io", // noCF? (don´t add this in a new PR)
   "ncx": "cname.vercel-dns.com", // noCF
   "neaps": "neaps.github.io",
