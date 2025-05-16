@@ -60,7 +60,6 @@ var cnames_active = {
   "98": "1j01.github.io/98",
   "98plus": "cherrim98.github.io",
   "9932": "dannyzhan.github.io",
-  "api.nb-music": "nb-music.tianjiu-app.top", // noCF
   "a-western-story": "hotsaucefiretruck.github.io/A-Western-Story",
   "a11yslider": "mmahandev.github.io/a11y-slider",
   "a6smile": "a6smile.github.io",
@@ -207,6 +206,7 @@ var cnames_active = {
   "aom": "scarych.github.io/aom",
   "aomex": "aomex.github.io",
   "api.lt": "cname.vercel-dns.com", // noCF
+  "api.nb-music": "nb-music.tianjiu-app.top", // noCF
   "apicluster": "ramsunvtech.github.io/apicluster", // noCF? (don´t add this in a new PR)
   "apilyertia": "apilyertia.github.io",
   "aping": "johnnythetank.github.io/apiNG", // noCF? (don´t add this in a new PR)
@@ -3675,7 +3675,6 @@ var cnames_active = {
   "wstool": "sy-records.github.io/wstool", // noCF
   "wugenqiang": "wugenqiang.github.io/wugenqiang.js.org",
   "www.next-auth": "cname.vercel-dns.com", // noCF
-  "www.nb-music": "nb-music.tianjiu-app.top", // noCF
   "wyfe": "wangyuanstudio.github.io/WYFE", // noCF? (don´t add this in a new PR)
   "wynncraft": "frawolf.github.io/wynncraft.js",
   "wysc": "coffeebank.github.io/wysc-vue",
