@@ -1981,6 +1981,7 @@ var cnames_active = {
   "media": "tobiasthaden.github.io/media.js",
   "media-style-palette": "rikakomoe.github.io/Media-Style-Palette",
   "mediainfo": "buzz.github.io/mediainfo.js",
+  "medicheck": "cname.vercel-dns.com",
   "medicus": "arthurfiorette.github.io/medicus",
   "medit": "echosoar.github.io/medit",
   "medium": "factmaven.github.io/medium.js",
