@@ -1975,6 +1975,7 @@ var cnames_active = {
   "mdbf-css": "more-beautiful-div-framework.github.io",
   "mdcdev": "galleniz.github.io/mdcdev.js",
   "mde": "lukehorvat.github.io/mde-soundboard",
+  "mdjs": "xtnmoe.github.io/MdJs",
   "mdxe": "cname.vercel-dns.com", // noCF
   "mechan": "dusterthefirst.github.io/mechan.js",
   "medan": "medan-js.github.io", // noCF
