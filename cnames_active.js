@@ -2287,6 +2287,7 @@ var cnames_active = {
   "num2words": "mcnagynorbi.github.io/num2words",
   "numberproto": "vfdan.github.io/NumberProto.js",
   "numtoword-cli": "infysumanta.github.io/numtoword-cli",
+  "num-beauty": "menesesevandro.github.io/num-beauty",
   "nut": "nut-project.netlify.app",
   "nuxt-fluent-bootstrap": "disjfa.github.io/nuxt-fluent-bootstrap",
   "nuxtdoc": "hopeful-hoover-d87dd1.netlify.app",
