@@ -3759,6 +3759,7 @@ var cnames_active = {
   "zykj": "cname.vercel-dns.com", // noCF
   "zyx": "zyx.alwaysdata.net",
   "zyy": "zyyou.github.io/notes",
+  "typespark": "satyaprakashsamaI.github.io"
   
   /*
    * please don't add your subdomain records down here!
