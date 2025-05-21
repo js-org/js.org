@@ -909,6 +909,7 @@ var cnames_active = {
   "docsify": "docsifyjs.github.io/docsify",
   "docsify-es": "sidval.github.io/docsify-es",
   "docsify-ru": "truepatch.github.io/docsify-ru",
+  "docsify-sitemap": "tenelabs.github.io/docsify-sitemap",
   "docsite": "txd-team.github.io/docsite-doc-v1",
   "document-scanner": "websitebeaver.github.io/capacitor-document-scanner",
   "documentation": "documentationjs.github.io", // noCF? (don´t add this in a new PR)
