@@ -1515,7 +1515,7 @@ var cnames_active = {
   "iminfinity": "js-org-test.netlify.app",
   "immense": "immense.github.io", // noCF? (don´t add this in a new PR)
   "immybox": "immense.github.io/immybox", // noCF? (don´t add this in a new PR)
-  "impactminiblox":"progmem-cc.github.io/miniblox.impact.client.updatedv2",
+  "impactminiblox": "progmem-cc.github.io/miniblox.impact.client.updatedv2",
   "impress": "impress.github.io/impress.js",
   "imrc-datetime-picker": "smrsan76.github.io/imrc-datetime-picker",
   "imvu": "imvujs.pages.dev", // noCF
