@@ -3737,6 +3737,7 @@ var cnames_active = {
   "yuuka": "yuukajs.github.io/docs",
   "yuye": "cyea.github.io",
   "yvm": "tophat.github.io/yvm",
+  "yyds5": "cysell.github.io/yyds5-www" // noCF
   "zaimu": "zaimu.netlify.app", // noCF
   "zaporizhzhia": "zaporizhzhiajs.github.io",
   "zed": "paul-browne.github.io/Zed-framework",
