@@ -826,6 +826,7 @@ var cnames_active = {
   "dinos": "0xflotus.github.io/dinos",
   "dinosaur": "path08.github.io/Dinosaur",
   "dipole": "zheksoon.github.io/dipole",
+  "dingus": "guacamoleapps.github.io/dingus",
   "discm": "cname.vercel-dns.com", // noCF
   "discmds": "whitecluegaming.github.io/discmds",
   "discord": "cname.vercel-dns.com", // noCF
