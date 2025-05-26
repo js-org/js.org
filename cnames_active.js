@@ -679,6 +679,7 @@ var cnames_active = {
   "cppkies": "cppkies-team.github.io/Cppkies",
   "cq-websocket": "momocow.github.io/node-cq-websocket",
   "cqrs": "adrai.github.io/cqrs", // noCF? (don´t add this in a new PR)
+  "cqtvnews": "Larry18518.github.io/cqtvnews",
   "cr": "echosoar.github.io/cr",
   "crackabottle": "crack-a-bottle.github.io",
   "cracked": "billorcutt.github.io/Cracked",
