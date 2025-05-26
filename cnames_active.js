@@ -3696,6 +3696,7 @@ var cnames_active = {
   "xi102": "xi102.github.io",
   "xiangqiz": "xiangqiz.github.io/Hello",
   "xiaolan": "mcxiaolan.github.io",
+  "xism": "biologyscience.github.io/XInputSerialMapper",
   "xiyueta": "313801120.github.io/xiyueta",
   "xprmntl": "xprmntl.github.io", // noCF? (don´t add this in a new PR)
   "xs-dev": "hipsterbrown.github.io/xs-dev",
