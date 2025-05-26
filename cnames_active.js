@@ -1182,6 +1182,7 @@ var cnames_active = {
   "flood": "flood.jesec.io", // noCF
   "floppy": "hosting.gitbook.io", // noCF
   "flor": "florplayer.github.io",
+  "flower": "cat333t.github.io/flower-shop"
   "flowchart": "adrai.github.io/flowchart.js", // noCF? (don´t add this in a new PR)
   "flowcon": "oknosoft.github.io/flowcon",
   "flowjv": "pkishorez.github.io/flowjv",
