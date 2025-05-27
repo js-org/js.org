@@ -3127,6 +3127,7 @@ var cnames_active = {
   "stapp": "tinkoffcreditsystems.github.io/stapp",
   "starfield": "annikav9.github.io/starfield.js",
   "starify-discord": "dastormer.github.io/starify-discord",
+    "starlh": "baruc8080.github.io/star",
   "starratio": "starratio.github.io/star-ratio", // noCF
   "start": "deepsweet.github.io/start",
   "starterdocs": "vtempest.github.io/Serverless-DOCS-Stack",
@@ -3761,8 +3762,7 @@ var cnames_active = {
   "zyh": "zyh-chopper.github.io/zyh",
   "zykj": "cname.vercel-dns.com", // noCF
   "zyx": "zyx.alwaysdata.net",
-  "zyy": "zyyou.github.io/notes",
-  "starlh": "baruc8080.github.io/star"
+  "zyy": "zyyou.github.io/notes"
 
   /*
    * please don't add your subdomain records down here!
