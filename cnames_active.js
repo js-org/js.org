@@ -3552,8 +3552,6 @@ var cnames_active = {
   "vorpal": "dthree.github.io/vorpal", // noCF? (don´t add this in a new PR)
   "vortex": "puntillol59.github.io/vortex",
   "voxelcss": "jhwohlgemuth.github.io/voxelcss",
-  "vscode-api": "youngjuning.github.io/vscode-api",
-  "vscode-api-cn": "youngjuning.github.io/vscode-api-cn",
   "vscode-apielements": "xvincentx.github.io/vscode-apielements",
   "vssue": "vssue.netlify.app",
   "vuapix": "rwaness.github.io/vuapix",
@@ -3724,7 +3722,6 @@ var cnames_active = {
   "yiff": "codepupper.github.io/yiff",
   "ymlair": "ymlair.github.io/TimestampHumanDemo",
   "yolog": "jitesoft.github.io/yolog",
-  "youngjuning": "cname.vercel-dns.com", // noCF
   "youtim": "mortonfox.github.io/YouTim", // noCF? (don´t add this in a new PR)
   "youtube-box": "lucasmonteverde.github.io/youtube-box", // noCF? (don´t add this in a new PR)
   "youtube-ext": "zyrouge.github.io/youtube-ext",
@@ -3761,7 +3758,6 @@ var cnames_active = {
   "zodiacsigns": "dipanshkhandelwal.github.io/my-zodiac-sign",
   "zombie": "assaf.github.io/zombie", // noCF? (don´t add this in a new PR)
   "zova": "cabloy.github.io/zova",
-  "zustand-cn": "cname.vercel-dns.com", // noCF
   "zyh": "zyh-chopper.github.io/zyh",
   "zykj": "cname.vercel-dns.com", // noCF
   "zyx": "zyx.alwaysdata.net",
