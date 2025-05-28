@@ -38,7 +38,6 @@
  */
 
 var cnames_active = {
-  "er-api-sdk": "erbots.github.io/Er-Api-Sdk",
   "": "js-org.github.io",
   "01mz": "01mz.github.io",
   "100dayz": "deadcoder0904.github.io/100dayz",
@@ -1059,6 +1058,7 @@ var cnames_active = {
   "epoxy": "hosting.gitbook.com",
   "eq8": "eq8.github.io",
   "eqeq": "slikts.github.io/js-equality-game",
+  "er-api-sdk": "erbots.github.io/Er-Api-Sdk",
   "eraxdb": "emirhanbaltas34.github.io/erax.db-website",
   "eray": "erayarslan.github.io", // noCF? (don´t add this in a new PR)
   "erdem": "erdem85.github.io",
