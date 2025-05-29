@@ -3651,6 +3651,7 @@ var cnames_active = {
   "wildfire": "cheng-kang.github.io/wildfire",
   "william": "wdhdev.github.io/william.js", // noCF
   "willy": "willyarisky.github.io/willy",
+  "wina": "CoconutShoe114.github.io/wina-web",
   "windows": "munchkinhalfling.github.io/wasm-windows",
   "wiot": "iotcat.github.io/wIoT",
   "wire": "wire-ts.github.io",
@@ -3660,7 +3661,6 @@ var cnames_active = {
   "wizzl": "wizzldev.github.io/wizzl.js",
   "wjy": "wjy20030407.github.io",
   "wk": "alperr.github.io/wk",
-  "wina": "CoconutShoe114/wina-web",
   "wolvesville": "wolvesvillejs.github.io/website",
   "wonderest": "wonderest.github.io",
   "wonderfulcv": "wonderfulcv.netlify.app",
