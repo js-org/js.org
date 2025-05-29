@@ -3660,6 +3660,7 @@ var cnames_active = {
   "wizzl": "wizzldev.github.io/wizzl.js",
   "wjy": "wjy20030407.github.io",
   "wk": "alperr.github.io/wk",
+  "wina": "CoconutShoe114/wina-web",
   "wolvesville": "wolvesvillejs.github.io/website",
   "wonderest": "wonderest.github.io",
   "wonderfulcv": "wonderfulcv.netlify.app",
