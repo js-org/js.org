@@ -597,6 +597,7 @@ var cnames_active = {
   "codemirror-languageservice": "codemirror-languageservice.netlify.app",
   "codepan": "egoist.github.io/codepan",
   "codeshare": "cname.vercel-dns.com", // noCF
+  "codetriangle": "codetriang1e.github.io/Code-Triangle" ,
   "codewing": "nicesapien.github.io/codewing",
   "codinsky": "izhaki.github.io/codinsky",
   "coffea": "caffeinery.github.io/coffea",
