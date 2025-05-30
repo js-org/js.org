@@ -1423,7 +1423,6 @@ var cnames_active = {
   "hereby": "jakebailey.github.io/hereby",
   "heroku": "gary50613.github.io/herokuapi.js",
   "hexoplusplus": "hexoplusplus.github.io/docs",
-  "hfsyun": "hfsyun.github.io",
   "hibiki": "claritymoe.github.io/hibiki",
   "hiddenfrombots": "cname.vercel-dns.com", // noCF
   "highfive": "hosting.gitbook.io", // noCF
