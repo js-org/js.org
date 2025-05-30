@@ -2891,6 +2891,7 @@ var cnames_active = {
   "scramble": "ignatiusmb.github.io/scramble",
   "scrap": "nab138.github.io/scrap",
   "scratch": "scratch-js.github.io",
+  "scratchinfo": "cname.vercel-dns.com", // noCF
   "screentocodesandbox": "ckgrafico.github.io/ScreenshotToCodeSandbox",
   "scriptex": "scriptex.github.io",
   "scroller-motion": "scroller-motion.netlify.app",
