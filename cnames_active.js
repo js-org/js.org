@@ -2817,6 +2817,7 @@ var cnames_active = {
   "roosterapp": "roembol2000.github.io/roosterapp-mobile",
   "rose": "discord-rose.github.io/discord-rose",
   "rosmaro": "lukaszmakuch.github.io/rosmaro",
+  "rossini": "stoyan.github.io/rossini",
   "router-advanced": "oldergod.github.io/router-advanced",
   "router5": "hosting.gitbook.com",
   "routescape": "axtk.github.io/routescape",
