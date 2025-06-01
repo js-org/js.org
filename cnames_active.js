@@ -2759,6 +2759,7 @@ var cnames_active = {
   "repeater": "repeaterjs.github.io/repeater",
   "repl": "snowflyt.github.io/repl",
   "replay": "edbentley.github.io/replay",
+  "reqoal": "aldhosutra.github.io/reqoal",
   "reqsrv": "axtk.github.io/reqsrv",
   "request": "request.gitbooks.io", // noCF? (don´t add this in a new PR)
   "reselect": "reselect-docs.netlify.app",
