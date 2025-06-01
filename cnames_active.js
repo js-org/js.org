@@ -899,6 +899,7 @@ var cnames_active = {
   "dmitry": "dmitry-zaets.github.io",
   "dna": "dna-engine.github.io/dna-engine",
   "doars": "doars.github.io/doars",
+  "docanalyzer": "cname.vercel-dns.com", // noCF
   "docile": "russellsteadman.github.io/docile",
   "docs.astro-reactive": "astro-reactive-docs.netlify.app", // noCF
   "docs.guildedts": "guildedts.github.io/docs", // noCF
