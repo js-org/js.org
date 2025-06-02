@@ -3660,6 +3660,7 @@ var cnames_active = {
   "wiot": "iotcat.github.io/wIoT",
   "wire": "wire-ts.github.io",
   "with-immutable-props-to-js": "tophat.github.io/with-immutable-props-to-js",
+  "witherboss": "https://iamgunpoint.github.io/witherboss/",
   "within": "eric-brechemier.github.io/within", // noCF? (don´t add this in a new PR)
   "wiz": "karimsa.github.io/wiz", // noCF
   "wizzl": "wizzldev.github.io/wizzl.js",
