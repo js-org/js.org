@@ -2396,6 +2396,7 @@ var cnames_active = {
   "parkrun": "prouser123.github.io/parkrun.js",
   "parley": "tomas-wrobel.github.io/parley",
   "parrot": "pengudevelopment.github.io/parrot.js",
+  "parry" : "huparry.cn",
   "parse5": "inikulin.github.io/parse5",
   "particles": "tsparticles.github.io/website",
   "party": "yiliansource.github.io/party-js",
