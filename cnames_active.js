@@ -952,6 +952,7 @@ var cnames_active = {
   "dreamlo": "jmheartley.github.io/dreamlo.js",
   "dreygur": "dreygur.github.io",
   "drop": "dt-is-not-available.github.io/drop",
+  "dr": "https://wezn.github.io/my-js-site/",
   "drr": "xyligan-gp.github.io/discord-reactions-roles",
   "drupi": "drupijs.github.io/website",
   "dthings": "hosting.gitbook.io", // noCF
