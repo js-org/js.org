@@ -172,7 +172,7 @@ var cnames_active = {
   "ambush": "ambushjs.github.io",
   "amine": "am-77.github.io/amine",
   "amorphous": "ariabuckles.github.io/amorphous",
-  "ampmod": "ampm0d.github.io",
+  "ampmod": "ampmod.codeberg.page",
   "ampn": "ampn.github.io",
   "amrit": "amritsrivastava.github.io",
   "analytics": "analyticsjs.github.io/web-analytics",
