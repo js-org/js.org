@@ -753,7 +753,7 @@ var cnames_active = {
   "datacord": "d60a9765-dcf7-45e0-ac27-2280a8aff26f.id.repl.co", // noCF
   "dataenv": "pgamerx.github.io/dataenv",
   "dataflux": "massimocandela.github.io/dataflux",
-  "datamanager": "jvdesignbavaria.github.io/datamanager",
+  "datamanager": "jvdesign-dev.github.io/datamanager.js",
   "datastream": "willfarrell.github.io/datastream",
   "datastructures": "deadcoder0904.github.io/datastructures",
   "date": "matthewmueller.github.io/date", // noCF? (don´t add this in a new PR)
