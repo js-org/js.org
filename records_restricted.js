@@ -186,6 +186,7 @@ var cnames_restricted = [
     "program(s)",
     "project(s)",
     "prototype(s)",
+    "proxy",
     "pub(s)",
     "raw",
     "readme(s)",
