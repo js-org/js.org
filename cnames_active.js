@@ -3114,7 +3114,6 @@ var cnames_active = {
   "squircle": "cname.vercel-dns.com", // noCF
   "squirrelly": "squirrellyjs.netlify.app", // noCF
   "sr": "samrobbins85.github.io",
-  "sreeram": "sreeramofficial.github.io/sreeram",
   "sri": "jackub.github.io/subresource-integrity-fallback",
   "sri-shasum": "imcotton.github.io/sri", // noCF
   "ss": "cname-china.vercel-dns.com", // noCF
