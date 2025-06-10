@@ -1989,6 +1989,7 @@ var cnames_active = {
   "mediainfo": "buzz.github.io/mediainfo.js",
   "medicus": "arthurfiorette.github.io/medicus",
   "medit": "echosoar.github.io/medit",
+  "meditation-lifegraph": "openyeoreum.github.io",
   "medium": "factmaven.github.io/medium.js",
   "medium-converter": "gunar.github.io/medium-converter", // noCF
   "meed": "pinjasaur.github.io/meed",
