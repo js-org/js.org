@@ -1297,6 +1297,7 @@ var cnames_active = {
   "girls": "girls-js.github.io",
   "girlscript": "girlscriptjaipur.github.io",
   "git-terminal": "jcubic.github.io/git",
+  "git0": "vtempest.github.io/git0",
   "gitbanner": "asheeeshh.github.io/gitbanner",
   "gitdown": "gc.github.io/gitdown",
   "githubtouch": "github-touch.github.io",
@@ -2648,7 +2649,6 @@ var cnames_active = {
   "react-dropzone-uploader": "fortana-co.github.io/react-dropzone-uploader",
   "react-easy-swipe": "leandrowd.github.io/react-easy-swipe", // noCF? (don´t add this in a new PR)
   "react-entanglement": "react-entanglement.github.io",
-  "react-facet": "jolly-stone-0d2f00e03.azurestaticapps.net", // noCF
   "react-hint": "slmgc.github.io/react-hint",
   "react-instastories": "kenclaron.github.io/react-instastories",
   "react-jewish-datepicker": "shmulik-kravitz.github.io/react-jewish-datepicker",
@@ -3557,6 +3557,7 @@ var cnames_active = {
   "volantis": "cname-china.vercel-dns.com", // noCF
   "volantis-x": "volantis-x.github.io",
   "voloshins": "voloshins.github.io", // noCF? (don´t add this in a new PR)
+  "vona": "vonajs.github.io/vona",
   "vorpal": "dthree.github.io/vorpal", // noCF? (don´t add this in a new PR)
   "vortex": "puntillol59.github.io/vortex",
   "voxelcss": "jhwohlgemuth.github.io/voxelcss",
