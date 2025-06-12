@@ -2188,6 +2188,7 @@ var cnames_active = {
   "nave": "naveteam.github.io/nave",
   "naveenjujaray": "naveenjujaray.github.io/blog",
   "nbabot": "eliotchignell.github.io/NBABot",
+  "nb-scraper": "chakszzz.github.io/NB-Scraper",
   "ncub8": "ncub8.github.io", // noCF? (don´t add this in a new PR)
   "ncx": "cname.vercel-dns.com", // noCF
   "neaps": "neaps.github.io",
