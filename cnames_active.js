@@ -687,6 +687,7 @@ var cnames_active = {
   "crank": "bikeshaving.github.io/crank",
   "crapto1": "li0ard.github.io/crapto1_ts",
   "crawlx": "wind2sing.github.io/crawlx",
+  "crax": "craxjs.github.io",
   "crawlyx": "theritikchoure.github.io/crawlyx",
   "crcalc": "lll69.github.io/crcalc.js",
   "creamcrop": "creamcropdev.github.io",
