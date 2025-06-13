@@ -220,6 +220,7 @@ var cnames_active = {
   "aptrinh": "aptrinh.github.io",
   "arc": "diegohaz.github.io/arc",
   "archipelago": "thephar.github.io/archipelago.js",
+  "archive-redux": "superpsychosilver.github.io/internet-archive-redux",
   "arcn": "alexakasanjeev.github.io/arcn",
   "arctic": "pilcrowonpaper.github.io/arctic",
   "arda": "ardasoyturk-portfolio.netlify.app",
