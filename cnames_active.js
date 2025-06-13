@@ -1774,6 +1774,7 @@ var cnames_active = {
   "laubstein": "laubstein.github.io", // noCF? (don´t add this in a new PR)
   "laue": "qingwei-li.github.io/laue",
   "lavaclient": "lavaclient.github.io",
+  "lavacord": "lavacord.github.io/Lavacord",
   "lavashark": "hmes98318.github.io/LavaShark",
   "laveesh": "laveesh.github.io",
   "lazy": "gopirathod.github.io/lazy",
@@ -2189,6 +2190,7 @@ var cnames_active = {
   "nautilus": "ignigena.github.io/nautilus",
   "nave": "naveteam.github.io/nave",
   "naveenjujaray": "naveenjujaray.github.io/blog",
+  "nb-scraper": "chakszzz.github.io/NB-Scraper",
   "nbabot": "eliotchignell.github.io/NBABot",
   "ncub8": "ncub8.github.io", // noCF? (don´t add this in a new PR)
   "ncx": "cname.vercel-dns.com", // noCF
@@ -3258,7 +3260,6 @@ var cnames_active = {
   "tarant": "tarantx.github.io",
   "taro": "nervjs.github.io/taro-website",
   "tart": "tart.github.io/tartJS", // noCF? (don´t add this in a new PR)
-  "tatsumaki": "mrjacz.github.io/tatsumaki.js",
   "tauber": "ranjithrd.github.io/tauber",
   "taufik-nurrohman": "taufik-nurrohman.github.io",
   "taxi": "craftedbygc.github.io/taxi",
