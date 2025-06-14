@@ -275,6 +275,7 @@ var cnames_active = {
   "autodocs": "bguiz.github.io/autodocs", // noCF? (don´t add this in a new PR)
   "automata": "cname.vercel-dns.com", // noCF
   "automic": "automicjs.github.io",
+  "automind": "https://theautomind.github.io/"
   "avg": "biyuehu.github.io/avgjs",
   "avi": "avinassh.github.io/avi", // noCF? (don´t add this in a new PR)
   "avner": "avnerus.github.io", // noCF? (don´t add this in a new PR)
