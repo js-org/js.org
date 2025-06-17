@@ -1,0 +1,6 @@
+{
+  "owner": "chandra-12-p",
+  "repo": "fresh-doodh",
+  "branch": "main",
+  "path": "/"
+}
