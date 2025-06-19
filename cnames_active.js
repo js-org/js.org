@@ -1442,6 +1442,7 @@ var cnames_active = {
   "hiven": "hivenapp.github.io/hiven.js",
   "hk": "akura-co.github.io/hk", // noCF? (don´t add this in a new PR)
   "hltvbot": "nescabir.github.io/HLTVBot",
+  "hnxml": "modern-school.github.io/hnxml",
   "hmsscioly": "scioly.netlify.app",
   "hoa": "thehoa.github.io",
   "hoast": "hoast.github.io/hoast",
