@@ -1444,6 +1444,7 @@ var cnames_active = {
   "hk": "akura-co.github.io/hk", // noCF? (don´t add this in a new PR)
   "hltvbot": "nescabir.github.io/HLTVBot",
   "hmsscioly": "scioly.netlify.app",
+  "hnxml": "modern-school.github.io/hnxml",
   "hoa": "thehoa.github.io",
   "hoast": "hoast.github.io/hoast",
   "hois": "hoisw.github.io",
@@ -1613,6 +1614,7 @@ var cnames_active = {
   "jessm": "jessi-mhernandez.github.io/JessicaM",
   "jetaimetantquetuestoi": "dakokonutboi.github.io/jetaimetantquetuestoi",
   "jets": "nexts.github.io/Jets.js",
+  "jetup": "aldhosutra.github.io/jetup",
   "jinada": "redsplit.github.io/jinada",
   "jjlc": "k-yak.github.io/JJLC", // noCF? (don´t add this in a new PR)
   "jk": "joname1.github.io",
