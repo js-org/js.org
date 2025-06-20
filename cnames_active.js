@@ -1298,6 +1298,7 @@ var cnames_active = {
   "girish": "chaudhs769.github.io/girish.js.org",
   "girls": "girls-js.github.io",
   "girlscript": "girlscriptjaipur.github.io",
+  "git-as-card": "cname.vercel-dns.com", // noCF
   "git-terminal": "jcubic.github.io/git",
   "git0": "vtempest.github.io/git0",
   "gitbanner": "asheeeshh.github.io/gitbanner",
@@ -3435,6 +3436,7 @@ var cnames_active = {
   "umair": "mumairofficial.github.io",
   "umentor": "umentor.github.io/umentor",
   "umm": "umm233.github.io",
+  "unbranded": "unbranded-bot.github.io/website",
   "underbase": "sundowndev.github.io/underbase",
   "undercut": "undercut.netlify.app",
   "uneditable": "iamcristye.github.io/Uneditable.js",
