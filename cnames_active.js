@@ -2184,6 +2184,7 @@ var cnames_active = {
   "nano-queries": "vitonsky.github.io/nano-queries",
   "nanoexpress": "hosting.gitbook.com",
   "nanoweb": "tbo.github.io/nanoweb",
+  "napi-kupak": "nagynorbii.github.io/napi-kupak",
   "naseem": "naseemali925.github.io/about-me",
   "nashi": "cname.vercel-dns.com", // noCF
   "nastya-piu": "nastya-piu.github.io",
