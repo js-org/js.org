@@ -3561,7 +3561,7 @@ var cnames_active = {
   "vncz": "xvincentx.github.io/vncz",
   "vnpay": "cname.vercel-dns.com", // noCF
   "vocab": "battleofplassey.github.io/ministry-of-vocabulary",
-  "volantis": "cname-china.vercel-dns.com", // noCF
+  "volantis": "volantis-x.github.io/community",
   "volantis-x": "volantis-x.github.io",
   "voloshins": "voloshins.github.io", // noCF? (don´t add this in a new PR)
   "vona": "vonajs.github.io/vona",
