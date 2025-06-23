@@ -3459,6 +3459,7 @@ var cnames_active = {
   "unoconv": "blog.ryanwu.me",
   "unreal": "sprayxe.github.io/unreal.js.org",
   "unsafe": "unsafely.github.io/unsafe.js",
+  "unuse": "un-ts.github.io/unuse",
   "up": "codefeathers.github.io/up",
   "updates.flightpkg": "cname.vercel-dns.com", // noCF
   "updevs-db": "up-devs.github.io/db-docs",
