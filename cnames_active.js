@@ -807,6 +807,7 @@ var cnames_active = {
   "deterministic": "nodeguy.github.io/Deterministic.js",
   "dev-panel": "involve-digital.github.io/dev-panel",
   "dev-sandbox": "iam-medvedev.github.io/dev-sandbox",
+  "devboost": "kelvinzer0.github.io/devboost-vscode",
   "developerfolio": "saadpasta.github.io/developerFolio",
   "devfolio": "anilseervi.github.io/DevFolio",
   "device": "vpodk.github.io/device",
@@ -1949,6 +1950,7 @@ var cnames_active = {
   "marionette": "marionettejs.github.io/marionettejs.com",
   "mark": "henry-luo.github.io/mark",
   "markbox": "markbox.netlify.app",
+  "markdown-html": "pj-568.github.io/MARKDOWN.HTML",
   "markdown-notepad": "jz222.github.io/markdown-notepad",
   "markdownify": "amitmerchant1990.github.io/electron-markdownify",
   "marked": "cname.vercel-dns.com", // noCF
@@ -3460,6 +3462,7 @@ var cnames_active = {
   "unoconv": "blog.ryanwu.me",
   "unreal": "sprayxe.github.io/unreal.js.org",
   "unsafe": "unsafely.github.io/unsafe.js",
+  "unuse": "un-ts.github.io/unuse",
   "up": "codefeathers.github.io/up",
   "updates.flightpkg": "cname.vercel-dns.com", // noCF
   "updevs-db": "up-devs.github.io/db-docs",
