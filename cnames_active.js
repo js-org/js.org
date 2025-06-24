@@ -1178,7 +1178,7 @@ var cnames_active = {
   "flap": "slurmulon.github.io/flap",
   "flare": "nsaunders.github.io/flare",
   "flaregram": "adityash4rma.github.io/flaregram-website",
-  "flash": "flashcardjs.github.io",
+  "flareway": "flareway.netlify.app", "flash": "flashcardjs.github.io",
   "flatpickr": "flatpickr.github.io",
   "flavor": "blackmirror1980.github.io/flavor-js",
   "fld-grd": "mrksbnch.github.io/fld-grd",
