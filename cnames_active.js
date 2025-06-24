@@ -2789,6 +2789,7 @@ var cnames_active = {
   "reststops": "thomasbrueggemann.github.io/reststops",
   "resume": "xaoxuu.github.io/resume.js.org",
   "resume-builder": "blopa.github.io/Resume-Builder",
+  "resumebuilder": "resumebuilder-dracu.netlify.app",
   "retalk": "cname-china.vercel-dns.com", // noCF
   "rete": "retejs.github.io",
   "reto": "awmleer.github.io/reto",
@@ -3570,7 +3571,7 @@ var cnames_active = {
   "vncz": "xvincentx.github.io/vncz",
   "vnpay": "cname.vercel-dns.com", // noCF
   "vocab": "battleofplassey.github.io/ministry-of-vocabulary",
-  "volantis": "cname-china.vercel-dns.com", // noCF
+  "volantis": "volantis-x.github.io/community",
   "volantis-x": "volantis-x.github.io",
   "voloshins": "voloshins.github.io", // noCF? (don´t add this in a new PR)
   "vona": "vonajs.github.io/vona",
