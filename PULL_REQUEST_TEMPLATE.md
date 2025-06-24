@@ -12,6 +12,6 @@ Before creating your pull request, please complete the following steps:
 
 - [ ] There is reasonable content on the page (see: [No Content](https://github.com/js-org/js.org/wiki/No-Content))
 - [ ] I have read and accepted the [Terms and Conditions](http://js.org/terms.html)
-- The site content can be seen at <link>
+- The site content can be seen at <israrxy.github.io/->
 
-> The site content is ...
+> The site content is my portfolio 
