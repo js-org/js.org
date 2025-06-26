@@ -1843,6 +1843,7 @@ var cnames_active = {
   "ling": "wangziling.github.io",
   "linghucong": "jiji262.github.io",
   "lingui": "cname.vercel-dns.com", // noCF
+  "link": "cname.vercel-dns.com", // noCF
   "link-styler": "sheikhoo.github.io/link-styler",
   "linkcord": "nils-afk.github.io/linkcord.js.org", // noCF
   "linkify": "hypercontext.github.io/linkifyjs",
