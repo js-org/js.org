@@ -1304,7 +1304,7 @@ var cnames_active = {
   "git-terminal": "jcubic.github.io/git",
   "git0": "vtempest.github.io/git0",
   "gitbanner": "asheeeshh.github.io/gitbanner",
-  "gitcrate": "gitcrate.github.io",
+  "gitcrate": "gitcrate.pages.dev",
   "gitdown": "gc.github.io/gitdown",
   "githubtouch": "github-touch.github.io",
   "gitinit": "silly-shirley-8e44e3.netlify.app",
