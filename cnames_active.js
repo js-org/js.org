@@ -110,6 +110,7 @@ var cnames_active = {
   "afilters": "dmytrohoi.github.io/afilters.js",
   "afmsavage": "afmsavage.github.io",
   "afterwind": "eedrxs.github.io/afterwind",
+  "agahi": "teneplaysofficial.github.io/agahi",
   "agenda-tech-brasil-site": "abacatinhos.github.io/agenda-tech-brasil-site",
   "agentnpm": "meetping.github.io/agentnpm",
   "aghasemi": "aghasemi.github.io",
