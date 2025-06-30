@@ -344,7 +344,7 @@ var cnames_active = {
   "be": "davidep87.github.io/bejs.github.io",
   "beaga": "beagajs.github.io/beaga",
   "beamwind": "kenoxa.github.io/beamwind",
-  "bear": "bytexiong.github.io/VitePress.Bear.Core",
+  "bear": "bytexiong.github.io/VitePress.BearPlatform",
   "beatzoid": "beatzoid.github.io",
   "bedstack": "agnyz.github.io/bedstack",
   "bee": "beejsdev.github.io",
