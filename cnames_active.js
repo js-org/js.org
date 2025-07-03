@@ -836,12 +836,12 @@ var cnames_active = {
   "discord": "cname.vercel-dns.com", // noCF
   "discord-achievements": "shadowplay1.github.io/da-docs",
   "discord-addons": "freiikdev.github.io/discord-addons",
-  "discord-yargs": "discord-yargs.github.io/website",
   "discord-anti-spam": "michael-j-scofield.github.io/discord-anti-spam",
   "discord-bio": "asdfugil.github.io/discord.bio",
   "discord-botlists": "sidisliveyt.github.io/discord-botlists",
   "discord-button-page": "kingofpanda-development.github.io/discord-button-page",
   "discord-cmds": "hosting.gitbook.io", // noCF
+  "discord-yargs": "discord-yargs.github.io/website",
   "discord-components": "skyra-project.github.io/discord-components",
   "discord-console-logger": "lucaslah.github.io/discord-console-logger",
   "discord-easy-leveling": "retrouser955.github.io/discord-easy-leveling",
