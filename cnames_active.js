@@ -38,7 +38,6 @@
  */
 
 var cnames_active = {
-  "discord-yargs": "discord-yargs.github.io/landing",
   "": "js-org.github.io",
   "01mz": "01mz.github.io",
   "100dayz": "deadcoder0904.github.io/100dayz",
@@ -750,6 +749,7 @@ var cnames_active = {
   "danmol": "dan12mol.github.io", // noCF? (don´t add this in a new PR)
   "dap": "jooher.github.io/dap",
   "dapit": "dafitrah.github.io",
+  "discord-yargs": "discord-yargs.github.io/landing",
   "darkroom": "ajzat34.github.io/darkroom",
   "darshit": "dgupta777.github.io",
   "data-dashboard": "dna-engine.github.io/data-dashboard",
