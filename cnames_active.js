@@ -748,7 +748,6 @@ var cnames_active = {
   "danmaku": "weizhenye.github.io/Danmaku",
   "danmol": "dan12mol.github.io", // noCF? (don´t add this in a new PR)
   "dap": "jooher.github.io/dap",
-  "discord-yargs": "discord-yargs.github.io/website",
   "dapit": "dafitrah.github.io",
   "darkroom": "ajzat34.github.io/darkroom",
   "darshit": "dgupta777.github.io",
@@ -837,6 +836,7 @@ var cnames_active = {
   "discord": "cname.vercel-dns.com", // noCF
   "discord-achievements": "shadowplay1.github.io/da-docs",
   "discord-addons": "freiikdev.github.io/discord-addons",
+  "discord-yargs": "discord-yargs.github.io/website",
   "discord-anti-spam": "michael-j-scofield.github.io/discord-anti-spam",
   "discord-bio": "asdfugil.github.io/discord.bio",
   "discord-botlists": "sidisliveyt.github.io/discord-botlists",
