@@ -2145,6 +2145,7 @@ var cnames_active = {
   "mscgen": "sverweij.github.io/mscgen_js",
   "msemoji": "dellzhackintosh.github.io/msemoji",
   "msolers": "msolers.github.io/bloghugo",
+  "msolutions-engineering": "cname.vercel-dns.com",
   "msp430": "mazko.github.io/MSP430.js",
   "mtproto-core": "alik0211.github.io/mtproto-core-website",
   "mubaidr": "mubaidr.github.io",
