@@ -865,6 +865,7 @@ var cnames_active = {
   "discord-twitch": "tovade.github.io/discord-twitch",
   "discord-voice": "discord-voice.netlify.app",
   "discord-vr": "hosting.gitbook.io", // noCF
+  "discord-yargs": "discord-yargs.github.io/website",
   "discord4node": "mrsheldon.github.io/Discord4Node",
   "discordeno": "discordeno.github.io/discordeno",
   "discordhy": "readthedocs.io",
