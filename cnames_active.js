@@ -1592,7 +1592,8 @@ var cnames_active = {
   "jacob": "jacob-marshall.github.io/jacob",
   "jacob-ebey": "jacob-ebey.github.io",
   "jacques": "jacquesmarais.github.io/jacques", // noCF? (don´t add this in a new PR)
-  "jadl": "jadl.netlify.app",
+  "jadl": "jadl.netlify.app", 
+  "jaguarmelayunews": {"owner": "newbie0-tech","repo": "jaguarmelayunews","branch": "main"},
   "jaibascript": "vasco3.github.io/jaibascript",
   "jaipur": "jaipurjs-website-7b695.netlify.app",
   "jakarta": "jakartajs.github.io/jakartajs", // noCF? (don´t add this in a new PR)
