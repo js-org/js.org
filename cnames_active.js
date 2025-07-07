@@ -2353,8 +2353,8 @@ var cnames_active = {
   "onii": "oniijs.github.io/onii",
   "onlang": "rajatasusual.github.io/on-lang",
   "oox": "lipingruan.github.io/oox",
-  "open-apis": "harys722.github.io/open-apis",
   "opcommands": "02550ce547-hosting.gitbook.io", // noCF
+  "open-api": "harys722.github.io/open-apis",
   "open-next": "serverless-stack.github.io/open-next",
   "openauth": "openauthjs.github.io/openauth",
   "openkey": "microlinkhq.github.io/openkey",
