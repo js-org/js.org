@@ -3228,6 +3228,7 @@ var cnames_active = {
   "surti": "cname.vercel-dns.com", // noCF
   "svelkit": "kenoxa.github.io/svelkit",
   "svelte-aplayer": "fengkx.github.io/svelte-aplayer",
+  "svelte-cookie-banner": "sebaofficial.github.io/svelte-cookie-banner",
   "svelte-formup": "kenoxa.github.io/svelte-formup",
   "svelte-lightbox": "cname.vercel-dns.com", // noCF
   "svelte-native-forms": "kevinast.github.io/svelte-native-forms",
