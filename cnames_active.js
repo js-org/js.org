@@ -2610,6 +2610,7 @@ var cnames_active = {
   "quickdb": "plexidev.github.io/quick.db-docs",
   "quickerdb": "maniabots.github.io/QuickerDB",
   "quickmongo": "quickmongo.netlify.app",
+  "quickpaste": "v3xes.github.io/quickpaste",
   "quickpterodactyl": "condescending-haibt-c79013.netlify.app",
   "quickredis": "hosting.gitbook.io", // noCF
   "quickreplit": "lebyy.github.io/quick.replit",
