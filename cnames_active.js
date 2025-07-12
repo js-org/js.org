@@ -2263,6 +2263,7 @@ var cnames_active = {
   "nite": "manvalls.github.io/nite",
   "nitrate": "ranjithrd.github.io/nitrate",
   "nnmap": "marzavec.github.io/nnmap.js",
+  "nnsa-s": "nnsa-s.github.io/nnsa",
   "no-pry": "zenyanle.github.io/node-unblocker",
   "noblox": "noblox.github.io/noblox.js",
   "nod": "diegohaz.github.io/nod",
