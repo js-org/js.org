@@ -3647,6 +3647,7 @@ var cnames_active = {
   "webassembly": "xtuc.github.io/webassemblyjs",
   "webbuild": "fiftys7vencode.github.io/webbuild",
   "webconnect": "nuzulul.github.io/webConnect.js",
+  "webdeepdive" "project-zyne-2025-wdd.vercel.app",
   "webfetch": "c1tizen.github.io/webfetch",
   "webmc": "michaljaz.github.io/webmc",
   "webminer": "web-miner.github.io",
