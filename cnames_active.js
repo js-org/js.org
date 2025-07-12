@@ -1508,6 +1508,13 @@ var cnames_active = {
   "id3": "jeff-tian.github.io/id3",
   "idettman": "idettman.github.io",
   "idraw": "idrawjs.github.io",
+
+  "idro": {
+  "owner": "harshhhh16",
+  "repo": "idro-website",
+  "branch": "main"
+   },
+  
   "ienumerable": "mbasso.github.io/ienumerable",
   "iffe": "iffe-team.github.io",
   "iflow": "unadlib.github.io/iflow",
