@@ -70,6 +70,7 @@ var cnames_active = {
   "abbyz": "abbyzhoum.github.io",
   "abcdb": "hosting.gitbook.com", // noCF
   "abdalla": "the94air.github.io/abdalla",
+  "mussaplayz": "mussaplayz.github.io/Portfolio/",
   "abelacostaportafolio": "asaa19971a.github.io/AbelAcostaAcostaPortafolio",
   "abhishek": "rpidanny.github.io/personal-collage",
   "abhishekmittal": "abhishek-mittal.github.io/abhishekmittal",
