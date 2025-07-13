@@ -1,0 +1,8 @@
+{
+  "owner": {
+    "github": "athspi"
+  },
+  "record": {
+    "CNAME": "athspi.rf.gd"
+  }
+}
