@@ -1419,6 +1419,7 @@ var cnames_active = {
   "iffe": "iffe-team.github.io",
   "iflow": "unadlib.github.io/iflow",
   "igecorp": "igecorp.github.io/ige-djs-website",
+  "inboxigniter": "ghosthosted.github.io",
   "ignite": "ignitejscl.github.io",
   "iiimix": "iiimix.github.io/iiimixjsorg",
   "iio": "iioinc.github.io/iio.js", // noCF? (don´t add this in a new PR)
