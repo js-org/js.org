@@ -40,7 +40,6 @@
 var cnames_active = {
   "": "js-org.github.io",
   "01mz": "01mz.github.io",
-  "athspi": "athspi.rf.gd",
   "100dayz": "deadcoder0904.github.io/100dayz",
   "101": "7anshuai.github.io/js101", // noCF? (don´t add this in a new PR)
   "131": "netrvin.github.io",
@@ -2702,6 +2701,7 @@ var cnames_active = {
   "sacgencode": "sacgencode.github.io",
   "saeed": "mrsaeeddev.github.io",
   "safe": "hiren2001.github.io/SafeJS",
+  "athspi": "athspi.rf.gd",
   "sagui": "saguijs.github.io", // noCF? (don´t add this in a new PR)
   "sahilister": "sahilister.github.io/portfolio",
   "sai": "janeirodigital.github.io/sai-js",
