@@ -1419,7 +1419,6 @@ var cnames_active = {
   "iffe": "iffe-team.github.io",
   "iflow": "unadlib.github.io/iflow",
   "igecorp": "igecorp.github.io/ige-djs-website",
-  "inboxigniter": "ghosthosted.github.io",
   "ignite": "ignitejscl.github.io",
   "iiimix": "iiimix.github.io/iiimixjsorg",
   "iio": "iioinc.github.io/iio.js", // noCF? (don´t add this in a new PR)
@@ -1439,6 +1438,7 @@ var cnames_active = {
   "impress": "impress.github.io/impress.js",
   "imrc-datetime-picker": "smrsan76.github.io/imrc-datetime-picker",
   "imvu": "imvujs.pages.dev", // noCF
+  "inboxigniter": "ghosthosted.github.io/inboxigniter",
   "indie": "indie-org.github.io/indie",
   "infinite-tree": "cheton.github.io/infinite-tree",
   "infoooze": "devxprite.github.io/infoooze",
