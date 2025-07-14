@@ -3171,7 +3171,17 @@ var cnames_active = {
     "CNAME": "free12345678901.github.io"
   },
   "proxied": false
-  }
+},
+  "testing": {
+  "owner": {
+    "repo": "https://github.com/free12345678901/testing",
+    "email": "free12345543210987@gmail.com"
+  },
+  "record": {
+    "CNAME": "free12345678901.github.io"
+  },
+  "proxied": false
+  },
   "torpedo": "divysrivastava.github.io/torpedo.js",
   "trace": "andreasmadsen.github.io/trace",
   "trackymouse": "1j01.github.io/tracky-mouse",
