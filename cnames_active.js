@@ -1741,6 +1741,7 @@ var cnames_active = {
   "lister": "jpbulman.github.io/lister",
   "listore": "yieldray.github.io/listore",
   "lite-web-server": "chasyumen.github.io/lite-web-server",
+  "litebox": "vercel.cdn.yt-blog.top", // noCF
   "litecanvas": "litecanvas.github.io",
   "litedom": "mardix.github.io/litedom", // noCF
   "lithium": "ranjithrd.github.io/lithium",
