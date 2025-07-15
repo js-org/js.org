@@ -3548,6 +3548,7 @@ var cnames_active = {
   "zed": "paul-browne.github.io/Zed-framework",
   "zen": "tomelam.github.io/zen",
   "zephyr": "zephyr-dh.github.io/zephyr",
+  "zer0": "cname.vercel-dns.com", // noCF
   "zero-dependency": "zero-dependency.github.io/zero-dependency",
   "zeroclick": "studiomotio.github.io/zeroclick",
   "zeroframe": "filips123.github.io/ZeroFrameJS",
