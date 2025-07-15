@@ -3539,6 +3539,7 @@ var cnames_active = {
   "yu": "yuxizhe.github.io/yu",
   "yuko": "notmarx.github.io/Yuko-Website",
   "yup-phone": "abhisekp.github.io/yup-phone",
+  "yurbajs": "yurba.js.org",
   "yurd": "thebigbot0000.github.io/yurd.js.org",
   "yuuka": "yuukajs.github.io/docs",
   "yuye": "cyea.github.io",
