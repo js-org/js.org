@@ -1936,7 +1936,7 @@ var cnames_active = {
   "minidrone": "mechazawa.github.io/minidrone-js",
   "minify": "minify-js.github.io",
   "minigrid": "henriquea.github.io/minigrid", // noCF? (don´t add this in a new PR)
-  "minigfm": "vercel.cdn.yt-blog.top",
+  "minigfm": "vercel.cdn.yt-blog.top", // noCF
   "minimizedb": "acarrr.github.io/minimizedb",
   "mininote": "htdt.github.io/mininote",
   "minirouter": "milio48.github.io/minirouter.js",
