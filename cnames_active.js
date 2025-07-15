@@ -2086,6 +2086,7 @@ var cnames_active = {
   "nested-error": "ultirequiem.github.io/nested_error",
   "nestjs-toolkit": "globalartinc.github.io/nestjs-toolkit",
   "neteasecloudmusicapi": "w4ctech.github.io/NeteaseCloudMusicApi",
+  "neteasecloudmusicapireborn": "neteasecloudmusicapireborn.github.io/api"
   "neurax-api": "configneurax.netlify.app",
   "neureact": "kasmirawijayathunga.github.io/neureact",
   "neuro": "neurojs.netlify.app",
@@ -2106,7 +2107,7 @@ var cnames_active = {
   "nextkit-fetcher": "ultirequiem.github.io/nextkit-fetcher",
   "nexus": "nexusdi.github.io/core",
   "nflow": "nflow-js.github.io", // noCF? (don´t add this in a new PR)
-  "nfui": "no-frills-ui.netlify.app",
+  "ni": "no-frills-ui.netlify.app",
   "nfwyst": "nfwyst.github.io",
   "ng-app": "zackschuster.github.io/ng-app",
   "ng-chess": "kaykayehnn.github.io/ng-chess",
