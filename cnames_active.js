@@ -3221,6 +3221,7 @@ var cnames_active = {
   "typed-ui": "pi-cubed.github.io/typed-ui",
   "typedi": "freshgum-bubbles.github.io/typedi",
   "typeless": "typeless.netlify.app",
+  "typeorm-pino-logger": "angelxmoreno.github.io/typeorm-pino-logger",
   "typerinth": "kartoffelchipss.github.io/Typerinth",
   "typerun": "symsmith.github.io/typerun",
   "typescript-play": "agentcooper.github.io/typescript-play",
