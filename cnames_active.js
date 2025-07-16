@@ -3031,7 +3031,7 @@ var cnames_active = {
   "surti": "cname.vercel-dns.com", // noCF
   "svelkit": "kenoxa.github.io/svelkit",
   "svelte-aplayer": "fengkx.github.io/svelte-aplayer",
-  "svelte-cookie-banner": "sebaofficial.github.io/svelte-cookie-banner",
+  "svelte-cookie-consent": "sebaofficial.github.io/svelte-cookie-consent",
   "svelte-formup": "kenoxa.github.io/svelte-formup",
   "svelte-lightbox": "cname.vercel-dns.com", // noCF
   "svelte-native-forms": "kevinast.github.io/svelte-native-forms",
@@ -3448,6 +3448,7 @@ var cnames_active = {
   "wedgetail": "wedgetail.netlify.app",
   "weekly": "xdimh.github.io/weekly",
   "welcome": "edapm.github.io/welcomejs",
+  "welson": "gnh1201.github.io/welsonjs",
   "wepl": "obnoxiousnerd.github.io/wepl-website",
   "wfplayer": "zhw2590582.github.io/WFPlayer",
   "wglt": "codyebberson.github.io/wglt",
@@ -3549,6 +3550,7 @@ var cnames_active = {
   "zed": "paul-browne.github.io/Zed-framework",
   "zen": "tomelam.github.io/zen",
   "zephyr": "zephyr-dh.github.io/zephyr",
+  "zer0": "cname.vercel-dns.com", // noCF
   "zero-dependency": "zero-dependency.github.io/zero-dependency",
   "zeroclick": "studiomotio.github.io/zeroclick",
   "zeroframe": "filips123.github.io/ZeroFrameJS",
