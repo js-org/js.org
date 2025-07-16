@@ -1748,7 +1748,6 @@ var cnames_active = {
   "liudun": "haveataste.github.io/liudun",
   "liuence": "lxyzai.github.io/liuence",
   "liunian": "liunnn1994.github.io",
-  "live": "cname.vercel-dns.com", // noCF
   "live-editor": "geard-dev.github.io/web-based-live-code-editor",
   "liveflow": "hasharray.github.io/liveflow.js",
   "livenotif": "siffreinsg.github.io/livenotif",
@@ -2010,6 +2009,7 @@ var cnames_active = {
   "morocco": "moroccojs.github.io",
   "morse": "the-silver-project.github.io/morse",
   "mosaic": "tilework.github.io/mosaic.js.org",
+  "motion-live": "cname.vercel-dns.com", // noCF
   "mp": "cncdn.github.io",
   "mp3tag": "eidoriantan.github.io/mp3tag.js",
   "mpe": "weareroli.github.io/mpejs", // noCF? (don´t add this in a new PR)
