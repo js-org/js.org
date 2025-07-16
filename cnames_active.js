@@ -1660,7 +1660,7 @@ var cnames_active = {
   "lan": "careteenl.github.io/lan",
   "lance": "lancepioch.com",
   "landrielportafolio": "arielandriel30.github.io/landrielportafolio",
-  "landroid-web": "lll69.github.io/landroid-web",
+  "landroid": "lll69.github.io/landroid-web",
   "lang": "iso-639.github.io/language-code",
   "languages": "rsamaium.github.io/Languages",
   "lanye": "lanye.github.io",
