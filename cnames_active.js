@@ -1348,6 +1348,7 @@ var cnames_active = {
   "hereby": "jakebailey.github.io/hereby",
   "heroku": "gary50613.github.io/herokuapi.js",
   "hexoplusplus": "hexoplusplus.github.io/docs",
+  "he1219": "he1219/he1219",
   "hibiki": "claritymoe.github.io/hibiki",
   "hiddenfrombots": "cname.vercel-dns.com", // noCF
   "highfive": "hosting.gitbook.io", // noCF
@@ -3574,7 +3575,7 @@ var cnames_active = {
   "zyh": "zyh-chopper.github.io/zyh",
   "zykj": "cname.vercel-dns.com", // noCF
   "zyx": "zyx.alwaysdata.net",
-  "zyy": "zyyou.github.io/notes"
+  "zyy": "zyyou.github.io/notes",
   /*
    * please don't add your subdomain records down here!
    * insert them in alphabetical order to help reduce merge conflicts.
