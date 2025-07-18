@@ -1,4 +1,4 @@
-/*
+"bonniefitnesshub": "noahkal2025.github.io/bonniefitnesshub"/*
  ***** ACTIVE SUBDOMAINS (NS records)
  * ***********************
  *
