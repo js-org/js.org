@@ -1435,6 +1435,7 @@ var cnames_active = {
   "immense": "immense.github.io", // noCF? (don´t add this in a new PR)
   "immybox": "immense.github.io/immybox", // noCF? (don´t add this in a new PR)
   "impactminiblox": "progmem-cc.github.io/miniblox.impact.client.updatedv2",
+  "impostergame": "wh1tet1ger55.github.io/impostergame",
   "impress": "impress.github.io/impress.js",
   "imrc-datetime-picker": "smrsan76.github.io/imrc-datetime-picker",
   "imvu": "imvujs.pages.dev", // noCF
