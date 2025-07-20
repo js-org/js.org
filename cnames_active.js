@@ -1890,6 +1890,7 @@ var cnames_active = {
   "megdb": "megalithoffical.github.io",
   "meiosis": "foxdonut.github.io/meiosis", // noCF? (don´t add this in a new PR)
   "melies-hugo": "cristinafsanz.github.io/melies-hugo",
+  "melikostussayaci": "banethemask.github.io",
   "melody": "trivago.github.io/melody-web",
   "membean": "redyetidev.github.io/membean",
   "memer-api": "cname.vercel-dns.com", // noCF
