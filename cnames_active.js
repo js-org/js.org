@@ -1271,6 +1271,7 @@ var cnames_active = {
   "graphics2d": "keyten.github.io/Graphics2D", // noCF? (don´t add this in a new PR)
   "graphql-pokemon": "favware.github.io/graphql-pokemon",
   "graphstore": "besync.github.io/graphstore",
+  "greenenergy": "amchandrakanta.github.io/greenenergy"
   "gregory": "f3z0.github.io",
   "grep": "42ua.github.io/grep",
   "greylock": "datamart.github.io/Greylock",
