@@ -1859,6 +1859,7 @@ var cnames_active = {
   "matrix": "crashmax-dev.github.io/matrix-canvas",
   "matrix-rref-solver": "arisweedler.github.io/matrix-rref-solver",
   "matters2ipfs": "contributionls.github.io/matters2ipfs",
+  "mahbubhs": "mahbubhs.github.io"
   "mauricio": "mauricionobrega.github.io/www",
   "max": "toorusr.github.io/max.js.org",
   "maxnachlinger": "maxnachlinger.github.io", // noCF? (don´t add this in a new PR)
