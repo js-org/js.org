@@ -1,0 +1,5 @@
+{
+  "owner": "nolan639",
+  "repo": "AIdea",
+  "branch": "main"
+}
