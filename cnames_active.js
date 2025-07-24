@@ -1233,6 +1233,7 @@ var cnames_active = {
   "gitinit": "silly-shirley-8e44e3.netlify.app",
   "gitme": "gitme.netlify.app",
   "gitmoji": "jeff-tian.github.io/gitmoji",
+  "gitnifty": "teneplaysofficial.github.io/gitnifty",
   "gitstyle": "inkerk.github.io/git-style-guide",
   "givify": "cname.vercel-dns.com", // noCF
   "gka": "gkajs.github.io/gka",
