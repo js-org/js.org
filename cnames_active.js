@@ -3116,8 +3116,8 @@ var cnames_active = {
   "text-encryption-tool": "tanvishgg.github.io/Text-Encryption-Tool",
   "text-to-handwriting": "ankit-chaubey.github.io/text-to-handwriting",
   "textillate": "jschr.github.io/textillate", // noCF? (don´t add this in a new PR)
-  "textstorage": "princeunadkat-dev.github.io/text-storage",
   "textmark": "sahilister.github.io/textmark",
+  "textstorage": "princeunadkat-dev.github.io/text-storage",
   "tgind": "panditsiddharth.github.io/tginddoc",
   "tgsnake": "cname.vercel-dns.com", // noCF
   "tgx-core": "tgx-core.github.io/website",
