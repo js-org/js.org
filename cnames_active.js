@@ -567,6 +567,7 @@ var cnames_active = {
   "codemade": "codemade.github.io", // noCF? (don´t add this in a new PR)
   "codemirror-languageservice": "codemirror-languageservice.netlify.app",
   "codeshare": "cname.vercel-dns.com", // noCF
+  "codetwix": "nolan639.github.io/Codetwix",
   "codewing": "nicesapien.github.io/codewing",
   "codinsky": "izhaki.github.io/codinsky",
   "coffea": "caffeinery.github.io/coffea",
