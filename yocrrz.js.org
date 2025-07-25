@@ -1,0 +1,7 @@
+{
+  "owner": {
+    "github": "YOCRRZ224"
+  },
+  "repo": "portfolio",
+  "branch": "main"
+}
