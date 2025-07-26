@@ -2906,13 +2906,13 @@ var cnames_active = {
   "soniq": "fullstack-build.github.io/soniq",
   "sonnet": "sonnetjs.github.io",
   "sonny": "sonnylazuardi.github.io", // noCF? (don´t add this in a new PR)
-  "sova": "cname.vercel-dns.com", // noCF
   "sop": "kuboschek.github.io/sop",
   "soukai": "noeldemartin.github.io/soukai",
   "soundcloud-scraper": "soundcloud-scraper.netlify.app",
   "soundpad": "mcpe-pc.github.io/soundpad.js",
   "sourcemod": "infinixius.github.io/sourcemod.js",
   "southwest": "southwest-js.github.io",
+  "sova": "cname.vercel-dns.com", // noCF
   "spa": "sucom.github.io/SPA.js",
   "spaas": "pakastin.github.io/spaas",
   "space": "pschroen.github.io/space.js",
