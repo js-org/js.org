@@ -38,7 +38,7 @@
  */
 
 var cnames_active = {
-  "": "js-org.github.io",
+  "": "js-org.github.io",  
   "01mz": "01mz.github.io",
   "100dayz": "deadcoder0904.github.io/100dayz",
   "101": "7anshuai.github.io/js101", // noCF? (don´t add this in a new PR)
@@ -1218,6 +1218,7 @@ var cnames_active = {
   "ghapi": "haydennyyy.github.io/node-ghapi",
   "ghastly": "hkwu.github.io/ghastly",
   "ghsamm": "ghsamm.github.io", // noCF? (don´t add this in a new PR)
+  "ghost-shell": "andreyantipov.github.io/ghost-shell",
   "giant-piano": "moroshko.github.io/giant-piano", // noCF? (don´t add this in a new PR)
   "gil": "imskeptical.github.io/gil.js",
   "gioyeimg": "gioye.github.io/gioyeimg",
