@@ -1217,6 +1217,7 @@ var cnames_active = {
   "getlink": "ilovecode1.github.io/linkjs", // noCF? (don´t add this in a new PR)
   "ghapi": "haydennyyy.github.io/node-ghapi",
   "ghastly": "hkwu.github.io/ghastly",
+  "ghost-shell": "andreyantipov.github.io/ghost-shell",
   "ghsamm": "ghsamm.github.io", // noCF? (don´t add this in a new PR)
   "giant-piano": "moroshko.github.io/giant-piano", // noCF? (don´t add this in a new PR)
   "gil": "imskeptical.github.io/gil.js",
