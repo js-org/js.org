@@ -2420,6 +2420,7 @@ var cnames_active = {
   "producthunt-trending": "xiaomingplus.github.io/producthunt-trending",
   "profanity-finder": "gautamkrishnar.github.io/profanity-finder.js",
   "profile": "treboryx.github.io/Profile",
+  "profilie": "profilie.github.io",
   "program-builder": "program-builder.netlify.app",
   "progressbars": "josephabbey.github.io/progressbars",
   "projects-tracker": "iamdevlinph.github.io/projects-tracker",
