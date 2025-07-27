@@ -2030,6 +2030,8 @@ var cnames_active = {
   "msemoji": "zdalez.github.io/msemoji",
   "msolers": "msolers.github.io/bloghugo",
   "msp430": "mazko.github.io/MSP430.js",
+  "msx31": "maheshsthr.github.io/msx31",
+
   "mtproto-core": "alik0211.github.io/mtproto-core-website",
   "mubaidr": "mubaidr.github.io",
   "muc": "jsmuc.github.io",
