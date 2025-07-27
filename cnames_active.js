@@ -2708,6 +2708,7 @@ var cnames_active = {
   "ruwan": "rpgee.github.io",
   "rva": "fanyer.github.io/rva",
   "ryaneldon": "ry-e.github.io",
+  "s4s": "https://izum02.github.io/s4s-static-docker/editor.html",
   "saaskit": "cname.vercel-dns.com", // noCF
   "sacgencode": "sacgencode.github.io",
   "saeed": "mrsaeeddev.github.io",
