@@ -3589,4 +3589,10 @@ var cnames_active = {
    * insert them in alphabetical order to help reduce merge conflicts.
    * <3
    */
+  "artorki": {
+    "owner": "artorki",
+    "repo": "Resume",
+    "branch": "main",
+    "https": true
+  },
 }
