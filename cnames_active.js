@@ -2745,6 +2745,7 @@ var cnames_active = {
   "schema": "hosting.gitbook.com",
   "schema-render": "barrior.github.io/schema-render",
   "schemy": "aeberdinelli.github.io/schemy",
+  "s0t0": "misho64.github.io/linktree",
   "scopes": "kelleyvanevert.github.io/scopes",
   "scramb": "jastinxyz.github.io/scramb",
   "scramble": "ignatiusmb.github.io/scramble",
