@@ -2267,6 +2267,7 @@ var cnames_active = {
   "padmemesamidala": "padmemesamidala.github.io/PadmemesAmidalaWeb",
   "pagelike": "iamanishroy.github.io/pagelike",
   "pageobject": "clebert.github.io/pageobject",
+  "pageos": "pageos-apps.pages.dev",
   "pagetalk": "seatwork.github.io/pagetalk",
   "pagination": "superraytin.github.io/paginationjs-site", // noCF
   "pagination-djs": "imranbarbhuiya.github.io/pagination.djs",
