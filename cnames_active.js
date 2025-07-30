@@ -1332,6 +1332,7 @@ var cnames_active = {
   "hapi-sol": "yonjah.github.io/hapi-sol",
   "hapin": "ha-pin.github.io",
   "happy": "e24.github.io/happy", // noCF? (don´t add this in a new PR)
+  "ham3": "lansr12345.github.io/HaM3",
   "harry": "harry-yep.github.io",
   "hashchat": "hashchat-js.netlify.app",
   "hashjump": "fivefifteen.github.io/hashjump",
@@ -3594,4 +3595,3 @@ var cnames_active = {
    * <3
    */
 }
-"ham3": "lansr12345.github.io/HaM3"
