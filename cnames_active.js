@@ -445,6 +445,7 @@ var cnames_active = {
   "cachi": "eddiejibson.github.io/cachi",
   "cacophony": "ctoth.github.io/cacophony",
   "caffeine": "ccrraaiigg.github.io/caffeine",
+  "caicai": "qianxunclub.github.io/CaiCai",
   "caissa": "agentx-cgn.github.io/caissa",
   "caizhiyuannn": "caizhiyuannn.github.io",
   "calcium": "courageous-bublanina-6857c1.netlify.app",
@@ -3589,8 +3590,7 @@ var cnames_active = {
   "zyh": "zyh-chopper.github.io/zyh",
   "zykj": "cname.vercel-dns.com", // noCF
   "zyx": "zyx.alwaysdata.net",
-  "zyy": "zyyou.github.io/notes",
-  "caicai": "qianxunclub.github.io/CaiCai"
+  "zyy": "zyyou.github.io/notes"
   /*
    * please don't add your subdomain records down here!
    * insert them in alphabetical order to help reduce merge conflicts.
