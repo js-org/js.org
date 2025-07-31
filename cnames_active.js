@@ -3182,6 +3182,7 @@ var cnames_active = {
   "trakas": "trakas.github.io",
   "translate": "xuanzhi33.github.io/translate.js",
   "transposer": "francesco-dipi.github.io/transposer",
+  "tree-cli": "yangshun.github.io/tree-node-cli",
   "trestle": "whiskeedev.github.io/trestle",
   "trier": "creimers.github.io/trier",
   "trilogy": "trilogy.netlify.app", // noCF
