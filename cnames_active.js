@@ -2139,6 +2139,8 @@ var cnames_active = {
   "nightcord": "rellylegend.github.io/nightcord",
   "nikita": "adaltas.github.io/node-nikita",
   "nikmartin": "nikmartin.github.io",
+  "nikunja" : "cname.vercel-dns.com", // noCF
+  "nikunja-sarma" : "cname.vercel-dns.com", // noCF
   "nima": "nimaw.github.io",
   "ninh": "reeganexe.github.io/ninh",
   "nintenbot": "nintenzone.github.io/NintenBot",
