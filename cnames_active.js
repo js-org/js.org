@@ -1020,6 +1020,7 @@ var cnames_active = {
   "esbin": "esbin.netlify.app",
   "esboot": "moonlitusun.github.io/esboot",
   "escape": "licshee.github.io/Escape.js", // noCF? (don´t add this in a new PR)
+  "esdora": "esdora-js.github.io",
   "esfx": "esfx.github.io",
   "esg": "cname.vercel-dns.com", // noCF
   "eslint-plugin-wxml": "eslint-plugin-wxml.netlify.app",
