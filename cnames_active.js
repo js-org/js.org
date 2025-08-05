@@ -1358,6 +1358,7 @@ var cnames_active = {
   "heroku": "gary50613.github.io/herokuapi.js",
   "hexoplusplus": "hexoplusplus.github.io/docs",
   "hibiki": "claritymoe.github.io/hibiki",
+  "hicatgamer": "samuelthorn.github.io/bingohicat/",
   "hiddenfrombots": "cname.vercel-dns.com", // noCF
   "highfive": "hosting.gitbook.io", // noCF
   "highway": "dogstudio.github.io/highway",
