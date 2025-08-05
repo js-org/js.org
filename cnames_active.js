@@ -86,6 +86,7 @@ var cnames_active = {
   "acebooks": "mohamed0group.github.io/acebooks",
   "acegroup": "mohamed0group.github.io/acegroup",
   "acho": "achojs.github.io/acho",
+  "achtlv": "achtlv.github.io"
   "acidmod": "acidmod.github.io",
   "acm": "drew233.github.io/calander",
   "acme": "makepost.github.io/acme-commander",
@@ -276,7 +277,7 @@ var cnames_active = {
   "awesome-nuxt": "ansidev.github.io/awesome-nuxt",
   "awesome-vue": "rmjordas.github.io/awesome-vue",
   "awesome-web-monetization": "thomasbnt.github.io/awesome-web-monetization",
-  "awesome-web-react": "dataformsjs.github.io/awesome-web-react",
+  "awesome-web-react": "dataformsjs.github.io/awesome-web-react"，
   "awesomefeed": "arojunior.github.io/awesome-feed",
   "awesomehub": "awesomehub.netlify.app",
   "awk": "42ua.github.io/awk",
@@ -290,13 +291,13 @@ var cnames_active = {
   "azlyrics-ext": "zyrouge.github.io/azlyrics-ext",
   "azurapi": "azurapi.github.io/azurapi-js",
   "bachors": "bachors.github.io",
-  "backlog": "backlog-js.github.io/backlog.js.org", // noCF? (don´t add this in a new PR)
+  "backlog": "backlog-js.github.io/backlog.js.org"， // noCF? (don´t add this in a new PR)
   "backstage": "backstagejs.github.io/backstage",
-  "backupie": "cname.vercel-dns.com", // noCF
-  "badger": "just-glue-it.github.io/badger", // noCF? (don´t add this in a new PR)
+  "backupie": "cname.vercel-dns.com"， // noCF
+  "badger": "just-glue-it.github.io/badger"， // noCF? (don´t add this in a new PR)
   "badlee": "badlee.github.io",
   "badonker": "redsplit.github.io/badonker",
-  "badrudeen": "badrudeen.github.io", // noCF? (don´t add this in a new PR)
+  "badrudeen": "badrudeen.github.io"， // noCF? (don´t add this in a new PR)
   "baicai": "zibaicai.github.io/baicaijsorg",
   "bakhtiyar": "bakszero.github.io",
   "bali": "balijs.github.io",
@@ -304,7 +305,7 @@ var cnames_active = {
   "bananasplit": "diegoulloao.github.io/bananasplit-js",
   "bancho": "thepoon.github.io/bancho.js",
   "bandicoot": "canopytax.github.io/bandicoot.js.org",
-  "bandung": "zufrizalyordan.github.io/bandungjs",
+  "bandung": "zufrizalyordan.github.io/bandungjs"，
   "bane": "kemosaf.github.io/bane",
   "baoshuo": "renbaoshuo.github.io/baoshuo.css",
   "bara": "barajs.github.io/bara",
@@ -315,7 +316,7 @@ var cnames_active = {
   "base62": "therootcompany.github.io/base62.js",
   "base64": "licshee.github.io/base64",
   "bash": "bashjs.github.io",
-  "bassdrum": "malte-wessel.github.io/bassdrum",
+  "bassdrum": "malte-wessel.github.io/bassdrum"，
   "bathtiles": "laurenyoo.github.io/website-bathtiles.js",
   "battle-city": "shinima.github.io/battle-city",
   "battlerite": "dragory.github.io/battlerite.js",
@@ -332,9 +333,9 @@ var cnames_active = {
   "beatzoid": "beatzoid.github.io",
   "bedstack": "agnyz.github.io/bedstack",
   "bee": "beejsdev.github.io",
-  "begin": "advanced-webapps-class.github.io/begin", // noCF? (don´t add this in a new PR)
+  "begin": "advanced-webapps-class.github.io/begin"， // noCF? (don´t add this in a new PR)
   "belfast": "chrislaughlin.github.io/belfastjs",
-  "benjick": "benjick.github.io",
+  "benjick": "benjick.github.io"，
   "berk": "berkelmas.github.io",
   "bernard": "ojengwa.github.io",
   "berzan": "newbytee.github.io/berzan",
@@ -342,69 +343,69 @@ var cnames_active = {
   "bestlist": "andrelucaas.github.io/bestlist",
   "bestof": "michaelrambeau.github.io/bestofjs",
   "better-upload": "better-upload.pages.dev",
-  "bettertests": "antgonzales.github.io/bettertests.js.org",
-  "between": "na-west1.surge.sh",
-  "bhailang": "dullabs.github.io/bhai-lang",
+  "bettertests": "antgonzales.github.io/bettertests.js.org"，
+  "between": "na-west1.surge.sh"，
+  "bhailang": "dullabs.github.io/bhai-lang"，
   "bigbrainbot": "112batman.github.io/bigbrainbot-website",
   "biggames": "jacobhumston.github.io/biggames.js",
-  "bijou": "explosion-scratch.github.io/bijou.js",
+  "bijou": "explosion-scratch.github.io/bijou.js"，
   "bin": "sujalgoel.github.io/impostor-bin",
-  "bind-action-dispatchers": "cchamberlain.github.io/bind-action-dispatchers", // noCF? (don´t add this in a new PR)
+  "bind-action-dispatchers": "cchamberlain.github.io/bind-action-dispatchers"， // noCF? (don´t add this in a new PR)
   "bingo": "thewilloftheshadow.github.io/bingo.js",
-  "bingsu": "bingsu-js.gitlab.io",
-  "bingus": "bingusjs.github.io",
+  "bingsu": "bingsu-js.gitlab.io"，
+  "bingus": "bingusjs.github.io"，
   "birb": "birbjs.github.io/Documentation",
   "biscord": "vinzerr.github.io/biscord-website",
-  "biu": "aprilorange.github.io/biu", // noCF? (don´t add this in a new PR)
+  "biu": "aprilorange.github.io/biu"， // noCF? (don´t add this in a new PR)
   "bkk": "rayriffy.github.io/bkk",
   "blazeb2": "blazeb2.github.io",
-  "blego": "mattstypa.github.io/blego.js.org",
+  "blego": "mattstypa.github.io/blego.js.org"，
   "blessmyrains": "dusterthefirst.github.io/blessmyrains",
   "bliss": "beyondcodebootcamp.github.io/bliss",
   "blizzard": "benweier.github.io/blizzard.js",
-  "blockauth": "faragly.github.io/blockauth",
+  "blockauth": "faragly.github.io/blockauth"，
   "blog543": "saepulfariz.github.io/blog543",
-  "blogzen": "mzaini30.github.io/blogzen",
+  "blogzen": "mzaini30.github.io/blogzen"，
   "blooket": "redyetidev.github.io/blooket.js",
-  "bloomer": "algusdark.github.io/bloomer",
-  "blotter": "bradley.github.io/Blotter",
-  "bloxy": "visualizememe.github.io/bloxy",
+  "bloomer": "algusdark.github.io/bloomer"，
+  "blotter": "bradley.github.io/Blotter"，
+  "bloxy": "visualizememe.github.io/bloxy"，
   "blu": "maxherrmann.github.io/blu",
   "blueconfig": "a-312.github.io/node-blueconfig",
   "blurple": "blurplejs.github.io/docs",
   "bo": "lfb.github.io/bojs",
   "boats": "discordboats.github.io",
-  "bodybuilder": "danpaz.github.io/bodybuilder", // noCF? (don´t add this in a new PR)
+  "bodybuilder": "danpaz.github.io/bodybuilder"， // noCF? (don´t add this in a new PR)
   "boger": "boger.netlify.app",
-  "boilerplates": "ckgrafico.github.io/frontend-boilerplates",
+  "boilerplates": "ckgrafico.github.io/frontend-boilerplates"，
   "bolao": "ziyou3012.github.io",
   "boldom": "marcisbee.github.io/boldom",
   "bombsweeper": "pakastin.github.io/bombsweeper",
   "bonzibuddy": "fardindadev.github.io/bonzibuddy",
   "bookmarklets": "zelnickb.github.io/bookmarklets",
-  "bool": "booljs.github.io",
+  "bool": "booljs.github.io"，
   "booru": "atlasthebot.github.io/booru",
   "bootstrap-confirmation": "mistic100.github.io/Bootstrap-Confirmation", // noCF? (don´t add this in a new PR)
-  "bootstrap-validate": "pascalebeier.github.io/bootstrap-validate",
-  "bootstrap-vue-arsenic": "ycs77.github.io/bootstrap-vue-arsenic",
-  "boowindcss": "nawazishali.github.io/BoowindCSS", // noCF
-  "bornaeon": "bornaeon.github.io",
-  "botgram": "botgram.github.io/botgram",
-  "bottender": "yoctol.github.io/bottender",
+  "bootstrap-validate": "pascalebeier.github.io/bootstrap-validate"，
+  "bootstrap-vue-arsenic": "ycs77.github.io/bootstrap-vue-arsenic"，
+  "boowindcss": "nawazishali.github.io/BoowindCSS"， // noCF
+  "bornaeon": "bornaeon.github.io"，
+  "botgram": "botgram.github.io/botgram"，
+  "bottender": "yoctol.github.io/bottender"，
   "bottlecap": "rwbeast.github.io/bottlecap",
   "boundless": "enigma-io.github.io/boundless",
   "box": "capacitorset.github.io/box-js", // noCF
-  "boxed": "lionking27.github.io/boxed",
+  "boxed": "lionking27.github.io/boxed"，
   "brain": "brainjs.github.io/brain.js.org",
-  "brandi": "cname.vercel-dns.com", // noCF
+  "brandi": "cname.vercel-dns.com"， // noCF
   "brandifyjs": "greybax.github.io/brandifyjs",
-  "brandonmerritt": "brandonmerritt.github.io", // noCF? (don´t add this in a new PR)
+  "brandonmerritt": "brandonmerritt.github.io"， // noCF? (don´t add this in a new PR)
   "brasil": "javascriptbrasil.github.io",
   "brawley": "brawlie.github.io/brawley",
   "brawlstats": "brawlstatsjs.netlify.app",
   "brazil": "braziljs.github.io/2025-conf",
   "brick-next": "easyops-cn.github.io/brick-next",
-  "bricklayer": "ademilter.github.io/bricklayer", // noCF? (don´t add this in a new PR)
+  "bricklayer": "ademilter.github.io/bricklayer"， // noCF? (don´t add this in a new PR)
   "bricks": "easyops-cn.github.io/bricks",
   "bright": "bright-js.github.io",
   "brigsby": "tynatsuhara.github.io/brigsby",
@@ -412,22 +413,22 @@ var cnames_active = {
   "brotat": "mariobob.github.io/brotat-website",
   "browserless": "microlinkhq.github.io/browserless",
   "brum": "romantic-noyce-67d6ee.netlify.app",
-  "bs": "cname.vercel-dns.com", // noCF
+  "bs": "cname.vercel-dns.com"， // noCF
   "bt": "mldonkey.github.io/bt",
-  "bud": "roots-bud.netlify.app",
+  "bud": "roots-bud.netlify.app"，
   "bui": "kjantzer.github.io/bui",
   "builders": "cname.vercel-dns.com", // noCF
-  "bullwinkle": "bullwinkle.github.io",
+  "bullwinkle": "bullwinkle.github.io"，
   "bun": "the94air.github.io/bun",
-  "bundle": "cname.vercel-dns.com", // noCF
-  "bunicorn": "ragokan.github.io/bunicorn",
+  "bundle": "cname.vercel-dns.com"， // noCF
+  "bunicorn": "ragokan.github.io/bunicorn"，
   "bunjil": "bunjil.netlify.app",
-  "bunyan-fork": "cchamberlain.github.io/bunyan-fork", // noCF? (don´t add this in a new PR)
-  "bunyan-pmx": "cchamberlain.github.io/bunyan-pmx", // noCF? (don´t add this in a new PR)
-  "bunyan-serializer": "cchamberlain.github.io/bunyan-serializer", // noCF? (don´t add this in a new PR)
-  "burst": "hugeen.github.io/burst", // noCF? (don´t add this in a new PR)
-  "bustime": "agarzola.github.io/bustime", // noCF? (don´t add this in a new PR)
-  "butterfly": "cname.vercel-dns.com", // noCF
+  "bunyan-fork": "cchamberlain.github.io/bunyan-fork"， // noCF? (don´t add this in a new PR)
+  "bunyan-pmx": "cchamberlain.github.io/bunyan-pmx"， // noCF? (don´t add this in a new PR)
+  "bunyan-serializer": "cchamberlain.github.io/bunyan-serializer"， // noCF? (don´t add this in a new PR)
+  "burst": "hugeen.github.io/burst"， // noCF? (don´t add this in a new PR)
+  "bustime": "agarzola.github.io/bustime"， // noCF? (don´t add this in a new PR)
+  "butterfly": "cname.vercel-dns.com"， // noCF
   "buttermilk": "buttermilk.netlify.app",
   "buymeacoffee": "warengonzaga.github.io/buymeacoffee.js",
   "bwb": "shbwb.github.io/bwb",
@@ -441,7 +442,7 @@ var cnames_active = {
   "c-3po": "ttag-org.github.io/c-3po",
   "c-installer": "llenax.github.io/c-installer",
   "c1200": "c1200.github.io",
-  "cable": "whatgoodisaroad.github.io/cablejs", // noCF? (don´t add this in a new PR)
+  "cable": "whatgoodisaroad.github.io/cablejs"， // noCF? (don´t add this in a new PR)
   "cachi": "eddiejibson.github.io/cachi",
   "cacophony": "ctoth.github.io/cacophony",
   "caffeine": "ccrraaiigg.github.io/caffeine",
@@ -449,14 +450,14 @@ var cnames_active = {
   "caissa": "agentx-cgn.github.io/caissa",
   "caizhiyuannn": "caizhiyuannn.github.io",
   "calcium": "courageous-bublanina-6857c1.netlify.app",
-  "calcy": "odevlord.github.io/Calcy", // noCF? (don´t add this in a new PR)
-  "calisto": "cname.vercel-dns.com", // noCF
+  "calcy": "odevlord.github.io/Calcy"， // noCF? (don´t add this in a new PR)
+  "calisto": "cname.vercel-dns.com"， // noCF
   "camelcase": "ultirequiem.github.io/camelcase",
   "campfire": "xyzshantaram.github.io/campfire",
   "candy": "candy02058912.github.io/portfolio",
   "candyland": "candyland-js.github.io/candyland",
-  "cans": "djyde.github.io/cans", // noCF
-  "cantara": "cantarajs.github.io/cantara",
+  "cans": "djyde.github.io/cans"， // noCF
+  "cantara": "cantarajs.github.io/cantara"，
   "canvabase": "mezotv.github.io/canvabase",
   "canvacord": "canvacord.netlify.app",
   "canvas": "anshuman-verma.github.io/canvas",
@@ -1467,38 +1468,38 @@ var cnames_active = {
   "integreat": "hosting.gitbook.com",
   "integro": "jpsilva.github.io/integro",
   "intelligo": "intelligo.netlify.app",
-  "inter": "interjs.github.io",
+  "inter": "interjs.github.io"，
   "internetmarke": "schaechinger.github.io/internetmarke",
   "interview": "fengzilong.github.io/interview-101",
   "invent": "isaiahpatton.github.io/InventJS",
   "invoicing": "vahe.github.io/InvoicingJs",
-  "iot": "product-engineer.github.io/iot.js.org", // noCF
-  "ip-address": "beaugunderson.github.io/ip-address", // noCF? (don´t add this in a new PR)
+  "iot": "product-engineer.github.io/iot.js.org"， // noCF
+  "ip-address": "beaugunderson.github.io/ip-address"， // noCF? (don´t add this in a new PR)
   "ipang": "ipang-dwi.github.io/ipang",
   "ipc": "alperr.github.io/ipc",
   "ipe": "ipe.netlify.app",
   "ipe-plugins": "inpageedit.github.io/Plugins",
   "iphw": "spacemiqote.github.io/iphw",
   "ipv4": "licshee.github.io/IPv4-CIDR-Prefix-Merger",
-  "ipynb": "jirutka.github.io/ipynb2html", // noCF
-  "iq": "cname.vercel-dns.com", // noCF
+  "ipynb": "jirutka.github.io/ipynb2html"， // noCF
+  "iq": "cname.vercel-dns.com"， // noCF
   "ir": "irjs.github.io/docs",
   "iresume": "supremefish.github.io/iresume",
   "iro": "jaames.github.io/iro.js",
   "iron-oxide": "carsonmckinstry.github.io/iron-oxide-documentation",
   "irouter": "alhaqhassan.github.io/irouter.js",
-  "is": "arasatasaygin.github.io/is.js", // noCF? (don´t add this in a new PR)
+  "is": "arasatasaygin.github.io/is.js"， // noCF? (don´t add this in a new PR)
   "is-number": "ultirequiem.github.io/is-number",
   "isadb": "renato425.github.io/isadb.github.io",
   "isbot": "omrilotan.github.io/isbot",
   "iscaptive": "marvnet.github.io/iscaptive",
-  "ishan": "ishanthukral.github.io/ishan.js", // noCF? (don´t add this in a new PR)
-  "isic": "isic.github.io/isic-docs",
+  "ishan": "ishanthukral.github.io/ishan.js"， // noCF? (don´t add this in a new PR)
+  "isic": "isic.github.io/isic-docs"，
   "isimon": "nsleep.github.io",
   "islisp": "ta2gch.github.io/islisp.js.org",
   "istanbul": "istanbuljs.github.io",
   "itemszop": "michaljaz.github.io/itemszop",
-  "itsashis4u": "itsashis4u.github.io", // noCF? (don´t add this in a new PR)
+  "itsashis4u": "itsashis4u.github.io"， // noCF? (don´t add this in a new PR)
   "itunes-bridge": "angrykiller.github.io/iTunes-bridge",
   "itzik": "itzik.netlify.app",
   "iwanttocountfromone": "realcyguy.github.io/iwanttocountfromone.js",
@@ -1506,13 +1507,13 @@ var cnames_active = {
   "jackyef": "jackyef.github.io/jackyef",
   "jacob": "jacob-marshall.github.io/jacob",
   "jacob-ebey": "jacob-ebey.github.io",
-  "jacques": "jacquesmarais.github.io/jacques", // noCF? (don´t add this in a new PR)
+  "jacques": "jacquesmarais.github.io/jacques"， // noCF? (don´t add this in a new PR)
   "jadl": "jadl.netlify.app",
   "jaibascript": "vasco3.github.io/jaibascript",
   "jaipur": "jaipurjs-website-7b695.netlify.app",
-  "jakarta": "jakartajs.github.io/jakartajs", // noCF? (don´t add this in a new PR)
-  "james": "jamesrowen.github.io/james", // noCF? (don´t add this in a new PR)
-  "jargon": "hugogiraudel.github.io/SJSJ", // noCF? (don´t add this in a new PR)
+  "jakarta": "jakartajs.github.io/jakartajs"， // noCF? (don´t add this in a new PR)
+  "james": "jamesrowen.github.io/james"， // noCF? (don´t add this in a new PR)
+  "jargon": "hugogiraudel.github.io/SJSJ"， // noCF? (don´t add this in a new PR)
   "jaset": "maxherrmann.github.io/jaset",
   "jason": "ultirequiem.github.io/jason-formatter",
   "jasonliang": "jasonliang-dev.github.io",
@@ -1523,24 +1524,24 @@ var cnames_active = {
   "jcord": "discord-jcord.github.io/jcord",
   "jds": "alimanman.github.io/jds",
   "jds25": "alimanman.github.io/jds25",
-  "je": "cname-china.vercel-dns.com", // noCF
-  "jelly": "hosting.gitbook.io", // noCF
+  "je": "cname-china.vercel-dns.com"， // noCF
+  "jelly": "hosting.gitbook.io"， // noCF
   "jena": "javascript-in-jena.github.io", // noCF
   "jericho-player": "sidisliveyt.github.io/Jericho-Player",
   "jessm": "jessi-mhernandez.github.io/JessicaM",
   "jets": "nexts.github.io/Jets.js",
   "jetup": "aldhosutra.github.io/jetup",
   "jinada": "redsplit.github.io/jinada",
-  "jjlc": "k-yak.github.io/JJLC", // noCF? (don´t add this in a new PR)
+  "jjlc": "k-yak.github.io/JJLC"， // noCF? (don´t add this in a new PR)
   "jk": "joname1.github.io",
   "job": "izemil.github.io/job",
   "jobs": "alias.zeit.co", // noCF
   "joe": "joeleeofficial.github.io/joe",
   "joelmathew": "rec0il99.github.io/joelmathew",
-  "jogja": "jogjajs.github.io", // noCF
+  "jogja": "jogjajs.github.io"， // noCF
   "john": "jozhn.github.io",
   "jokes": "jeff-tian.github.io/jokes",
-  "jomb": "mrtampan.github.io/jomb-music",
+  "jomb": "mrtampan.github.io/jomb-music"，
   "jonathangt": "jonathangt.github.io/portafolio",
   "jonny": "shirajuki.github.io/jonny",
   "jonnynl": "shirajuki.github.io/jonnynl",
@@ -1550,41 +1551,41 @@ var cnames_active = {
   "josecarloszamoragomezportfolio": "josecarloszamoragomez.github.io/Portfolio",
   "josn": "iaseth.github.io/josn",
   "jova": "bracketed.github.io/jova.js",
-  "joycon": "cname.vercel-dns.com", // noCF
+  "joycon": "cname.vercel-dns.com"， // noCF
   "jparticles": "jparticles.github.io/Documentation",
   "js-fixerr": "anujsinghwd.github.io/js-fixerr",
-  "js-labs": "cname.vercel-dns.com", // noCF
+  "js-labs": "cname.vercel-dns.com"， // noCF
   "js-utils": "teneplaysofficial.github.io/js-utils-kit",
-  "js2lua": "xiangnanscu.github.io/js2lua", // noCF
+  "js2lua": "xiangnanscu.github.io/js2lua"， // noCF
   "jscord": "thepoptartcrpr.github.io/jscord",
   "jsdec": "liulihaocai.github.io/JSDec",
   "jsfe": "jsfe.netlify.app",
-  "jslabs": "cname.vercel-dns.com", // noCF
-  "jsnippet": "jesseeisen.github.io/snippets", // noCF
+  "jslabs": "cname.vercel-dns.com"， // noCF
+  "jsnippet": "jesseeisen.github.io/snippets"， // noCF
   "jsoboro": "jsoboro.github.io",
   "json-diff-kit": "rexskz.github.io/json-diff-kit",
   "json-e": "json-e.github.io/json-e",
-  "json-formatter": "arnav-kr.github.io/json-formatter",
+  "json-formatter": "arnav-kr.github.io/json-formatter"，
   "json-schema-faker": "json-schema-faker.github.io/website-jsf",
-  "json-to-plain-text": "sumithemmadi.github.io/json-to-plain-text",
-  "jsonapi": "ethanresnick.github.io/json-api",
+  "json-to-plain-text": "sumithemmadi.github.io/json-to-plain-text"，
+  "jsonapi": "ethanresnick.github.io/json-api"，
   "jsonapi-serde": "dasprid.github.io/jsonapi-serde-js",
   "jsoning": "khalby786.github.io/jsoning",
   "jsonql": "joel-chu.github.io/jsonql-org",
   "jsonui": "yourtion.github.io/vue-json-ui-editor",
   "jsonuri": "aligay.github.io/jsonuri",
   "jsp": "hiren2001.github.io/jsp",
-  "jstyle": "lxhom.github.io/jstyle", // noCF
+  "jstyle": "lxhom.github.io/jstyle"， // noCF
   "jsxcad": "jsxcad.github.io",
-  "juancarlosqr": "juancarlosqr.github.io", // noCF? (don´t add this in a new PR)
-  "julianflancheros": "julianflancheros.github.io/Prueba",
+  "juancarlosqr": "juancarlosqr.github.io"， // noCF? (don´t add this in a new PR)
+  "julianflancheros": "julianflancheros.github.io/Prueba"，
   "july": "onlyjuly.github.io",
   "juno-106": "stevengoldberg.github.io/juno-106", // noCF? (don´t add this in a new PR)
   "justin-schroeder": "justin-schroeder.github.io",
   "juzgados": "mteyss.github.io/juzgados",
   "jwc": "jwcjs.github.io/docs",
   "jwjawa": "cmdjwj.github.io",
-  "jwt-autorefresh": "cchamberlain.github.io/jwt-autorefresh", // noCF? (don´t add this in a new PR)
+  "jwt-autorefresh": "cchamberlain.github.io/jwt-autorefresh"， // noCF? (don´t add this in a new PR)
   "jwtonline": "boneyt92.github.io/jwtonline",
   "kafka": "tulios.github.io/kafkajs",
   "kaguwo": "kaguwos-portfolio.netlify.app",
@@ -1592,18 +1593,18 @@ var cnames_active = {
   "kainy": "kainy.github.io/js.org",
   "kairusds": "kairusds.github.io",
   "kali": "kali65536.github.io",
-  "kalm": "fed135.github.io/kalm.github.io", // noCF? (don´t add this in a new PR)
+  "kalm": "fed135.github.io/kalm.github.io"， // noCF? (don´t add this in a new PR)
   "kampala": "javascriptkampala.github.io/kampala",
   "kanji": "eidoriantan.github.io/kanji.js",
   "karateblobs": "karatewumpus.github.io/karateblobs",
-  "karl": "focused-bassi-cc0eff.netlify.app",
+  "karl": "focused-bassi-cc0eff.netlify.app"，
   "karolina-and-ryan": "mockturtlesoup.github.io/karolina-and-ryan",
   "kasfy": "kasfy.github.io/kasfy.js.org",
-  "kasumi": "cname.vercel-dns.com", // noCF
+  "kasumi": "cname.vercel-dns.com"， // noCF
   "katheesh": "katheesh.github.io/katheesh.js",
   "kawaii": "moemoesoft.github.io/kawaii", // noCF
   "kcak11": "kcak11.github.io/js-org-web",
-  "kelvinho": "kelvin2go.github.io", // noCF? (don´t add this in a new PR)
+  "kelvinho": "kelvin2go.github.io"， // noCF? (don´t add this in a new PR)
   "kewitz": "kewitz.github.io",
   "keyframe-refiner": "keyframe-refiner.github.io/keyframe-refiner",
   "keypress": "rumkin.github.io/keypress.js.org",
@@ -1618,7 +1619,7 @@ var cnames_active = {
   "kiranremmarasu": "kiranremmarasu.github.io/kiranremmarasu",
   "kite": "kite-js.github.io/kite",
   "kiwidocs": "arguiot.github.io/KiwiDocs",
-  "kkapi": "cname.vercel-dns.com", // noCF
+  "kkapi": "cname.vercel-dns.com"， // noCF
   "kkna": "importantimport.github.io/kkna",
   "klasa": "dirigeants.github.io/klasa-website",
   "klayr-did": "aldhosutra.github.io/klayr-did",
@@ -1627,9 +1628,9 @@ var cnames_active = {
   "kmeans": "jeff-tian.github.io/k-means",
   "knc": "chaituknag.github.io",
   "ko": "ko25july.github.io/ko.js.org",
-  "ko.mobx": "cname.vercel-dns.com", // noCF
-  "ko.redux": "deminoth.github.io/redux", // noCF
-  "koa-rest-api-boilerplate": "posquit0.github.io/koa-rest-api-boilerplate",
+  "ko.mobx": "cname.vercel-dns.com"， // noCF
+  "ko.redux": "deminoth.github.io/redux"， // noCF
+  "koa-rest-api-boilerplate": "posquit0.github.io/koa-rest-api-boilerplate"，
   "kobra": "johnsylvain.github.io/kobra",
   "kodadot": "kodadot.github.io",
   "kody": "thomasbrueggemann.github.io/kody",
@@ -1640,35 +1641,35 @@ var cnames_active = {
   "kokoro-player": "cool2645.github.io/kokoro-player",
   "komada": "dirigeants.github.io/komada",
   "komo": "jskull.github.io/komo",
-  "komps": "bemky.github.io/komps",
+  "komps": "bemky.github.io/komps"，
   "konamicmd": "code-raisan.github.io/KonamiCommandJS",
-  "konsumer": "konsumer.github.io", // noCF? (don´t add this in a new PR)
+  "konsumer": "konsumer.github.io"， // noCF? (don´t add this in a new PR)
   "koolclash": "sukkaw.github.io/Koolshare-Clash",
   "koot": "cmux.github.io/koot",
   "kotori": "biyuehu.github.io/kotori-bot",
   "koutla-swiss": "leny.github.io/koutla-swiss",
   "kowalski": "k0walslk1.github.io",
-  "kra": "kra-framework.github.io/kra-suite", // noCF
+  "kra": "kra-framework.github.io/kra-suite"， // noCF
   "krds": "krds-community.github.io/krds-react",
   "kremling": "canopytax.github.io/kremling.js.org",
   "kshitij": "kshitij98.github.io",
-  "kst": "lucaelin.github.io/KST", // noCF
+  "kst": "lucaelin.github.io/KST"， // noCF
   "ktm": "developers-nepal.github.io/ktmjs",
   "kucos": "kucosjs.github.io",
   "kumeru": "ultirequiem.github.io/kumeru",
   "kun": "lmk97.github.io/kun-docs",
   "kunal": "kunalghosh02.github.io",
   "kunkun": "smallkunkun.github.io",
-  "kyoto": "kyotojs.github.io",
+  "kyoto": "kyotojs.github.io"，
   "l2dwidget": "xiazeyu.github.io/live2d-widget.js-doc",
   "lab": "labjs.netlify.app",
-  "labelauty": "fntneves.github.io/jquery-labelauty", // noCF? (don´t add this in a new PR)
-  "labs": "cname.vercel-dns.com", // noCF
+  "labelauty": "fntneves.github.io/jquery-labelauty"， // noCF? (don´t add this in a new PR)
+  "labs": "cname.vercel-dns.com"， // noCF
   "labui": "ztl-uwu.github.io/Lab-Design-Guide",
   "lad": "ladjs.github.io/lad",
-  "lambda": "lambdajs.github.io", // noCF? (don´t add this in a new PR)
-  "lan": "careteenl.github.io/lan",
-  "lance": "lancepioch.com",
+  "lambda": "lambdajs.github.io"， // noCF? (don´t add this in a new PR)
+  "lan": "careteenl.github.io/lan"，
+  "lance": "lancepioch.com"，
   "landrielportafolio": "arielandriel30.github.io/landrielportafolio",
   "landroid": "lll69.github.io/landroid-web",
   "lang": "iso-639.github.io/language-code",
@@ -1678,7 +1679,7 @@ var cnames_active = {
   "lass": "lassjs.github.io/lass",
   "latex": "michael-brade.github.io/LaTeX.js",
   "latte": "tehsenaus.github.io/latte-js",
-  "laubstein": "laubstein.github.io", // noCF? (don´t add this in a new PR)
+  "laubstein": "laubstein.github.io"， // noCF? (don´t add this in a new PR)
   "laue": "qingwei-li.github.io/laue",
   "lavaclient": "lavaclient.github.io",
   "lavacord": "lavacord.github.io/Lavacord",
@@ -1871,22 +1872,22 @@ var cnames_active = {
   "matters2ipfs": "contributionls.github.io/matters2ipfs",
   "mauricio": "mauricionobrega.github.io/www",
   "max": "toorusr.github.io/max.js.org",
-  "maxnachlinger": "maxnachlinger.github.io", // noCF? (don´t add this in a new PR)
+  "maxnachlinger": "maxnachlinger.github.io"， // noCF? (don´t add this in a new PR)
   "maxtracking": "maxtracking.github.io", // noCF? (don´t add this in a new PR)
   "maxvalid": "techmonowar.github.io/maxvalid",
   "maze95": "maze95.github.io",
-  "mc": "magicarbon.github.io/mc", // noCF? (don´t add this in a new PR)
+  "mc": "magicarbon.github.io/mc"， // noCF? (don´t add this in a new PR)
   "mca": "lem0nb.github.io/Minecraft_Auto_Builder",
   "mcd": "n9gc.github.io/mcdjs",
   "mcfly": "mcfly-js.netlify.app",
-  "mctrl": "cname.vercel-dns.com", // noCF,
+  "mctrl": "cname.vercel-dns.com"， // noCF,
   "mcul": "russellsteadman.github.io/mcul",
   "md": "cname-china.vercel-dns.com", // noCF
   "md5": "cname-china.vercel-dns.com", // noCF
   "mdbf-css": "more-beautiful-div-framework.github.io",
   "mdcdev": "galleniz.github.io/mdcdev.js",
   "mdjs": "xtnmoe.github.io/MdJs",
-  "mdxe": "cname.vercel-dns.com", // noCF
+  "mdxe": "cname.vercel-dns.com"， // noCF
   "mechan": "dusterthefirst.github.io/mechan.js",
   "medan": "medan-js.github.io", // noCF
   "media": "tobiasthaden.github.io/media.js",
@@ -1935,7 +1936,7 @@ var cnames_active = {
   "mikado": "nextapps-de.github.io/mikado",
   "milesgitgud": "milesgitgud.github.io/homepage",
   "militia": "militia21.github.io/militia",
-  "million": "cname.vercel-dns.com", // noCF
+  "million": "cname.vercel-dns.com"， // noCF
   "mimeo": "mimeojs.github.io",
   "mimic": "500tech.github.io/mimic",
   "mina": "centuryuna.github.io/mina",
@@ -1944,12 +1945,12 @@ var cnames_active = {
   "minehutsupport": "baibeebambi.github.io/minehutsupport",
   "minerva-ui": "cname.vercel-dns.com", // noCF
   "minesweeper": "derflatulator.github.io/minesweeper",
-  "mingyi": "liangmingyi.github.io", // noCF? (don´t add this in a new PR)
+  "mingyi": "liangmingyi.github.io"， // noCF? (don´t add this in a new PR)
   "minich": "anventech.github.io/minich-docs",
   "minidrone": "mechazawa.github.io/minidrone-js",
   "minify": "minify-js.github.io",
-  "minigfm": "vercel.cdn.yt-blog.top", // noCF
-  "minigrid": "henriquea.github.io/minigrid", // noCF? (don´t add this in a new PR)
+  "minigfm": "vercel.cdn.yt-blog.top"， // noCF
+  "minigrid": "henriquea.github.io/minigrid"， // noCF? (don´t add this in a new PR)
   "minimizedb": "acarrr.github.io/minimizedb",
   "mininote": "htdt.github.io/mininote",
   "minirouter": "milio48.github.io/minirouter.js",
@@ -1965,17 +1966,17 @@ var cnames_active = {
   "mithril": "mithriljs.github.io/docs",
   "mithril-by-examples": "tbreuss.github.io/mithril-by-examples",
   "mithril-ja": "shibukawa.github.io/mithril-ja", // noCF? (don´t add this in a new PR)
-  "mitu": "godow.github.io/mitu",
+  "mitu": "godow.github.io/mitu"，
   "mixery": "nahkd123.github.io/Mixery",
   "mjy": "majianyu2007.github.io",
   "mm": "1ocalhost.github.io/mm",
-  "mmcq": "nikola.github.io/MMCQ", // noCF? (don´t add this in a new PR)
+  "mmcq": "nikola.github.io/MMCQ"， // noCF? (don´t add this in a new PR)
   "mmzdupz": "mmzdupz.github.io",
   "mnmlcss": "barelyhuman.github.io/mnml.css",
   "mo": "mirmousaviii.github.io/mo",
   "mobbler": "megaemce.github.io/mobbler",
   "mobi": "mobidots.github.io",
-  "mobx": "mobx-js-org.onrender.com", // noCF
+  "mobx": "mobx-js-org.onrender.com"， // noCF
   "mobx-bonsai": "mobx-bonsai.netlify.app",
   "mobx-keystone": "mobx-keystone.netlify.app",
   "mobx-state-tree": "mobxjs.github.io/mobx-state-tree",
@@ -2023,8 +2024,8 @@ var cnames_active = {
   "morocco": "moroccojs.github.io",
   "morse": "the-silver-project.github.io/morse",
   "mosaic": "tilework.github.io/mosaic.js.org",
-  "motion-live": "cname.vercel-dns.com", // noCF
-  "mp": "cncdn.github.io",
+  "motion-live": "cname.vercel-dns.com"， // noCF
+  "mp": "cncdn.github.io"，
   "mp3tag": "eidoriantan.github.io/mp3tag.js",
   "mpe": "weareroli.github.io/mpejs", // noCF? (don´t add this in a new PR)
   "mrinjamul": "mrinjamul.github.io/mrinjamul.js.org",
@@ -2130,8 +2131,8 @@ var cnames_active = {
   "ng-monaco-editor": "alauda.github.io/ng-monaco-editor",
   "ng-wig": "stevermeister.github.io/ngWig", // noCF? (don´t add this in a new PR)
   "ngbook": "ngbook.github.io",
-  "ngirc": "ngirc.github.io/ng-irc", // noCF
-  "ngn": "nodengn.github.io/NGN", // noCF? (don´t add this in a new PR)
+  "ngirc": "ngirc.github.io/ng-irc"， // noCF
+  "ngn": "nodengn.github.io/NGN"， // noCF? (don´t add this in a new PR)
   "ngspice": "42ua.github.io/ngspice.js",
   "ni": "js-ni.github.io/ni",
   "nic": "nic.github.io",
@@ -2152,16 +2153,16 @@ var cnames_active = {
   "nod": "diegohaz.github.io/nod",
   "node": "nodejs.github.io/node.js.org",
   "node-atlas": "haeresis.github.io/NodeAtlas",
-  "node-file-router": "cname.vercel-dns.com", // noCF
+  "node-file-router": "cname.vercel-dns.com"， // noCF
   "node-slate": "center-key.github.io/node-slate",
-  "node-system-stats": "joniii11.github.io/node-system-stats",
+  "node-system-stats": "joniii11.github.io/node-system-stats"，
   "node-vimeo": "sidisliveyt.github.io/node-vimeo",
   "nodebook": "hosting.gitbook.io",
   "nodegarden": "pakastin.github.io/nodegarden",
   "nodehawk": "samrith-s.github.io/nodehawk",
   "nodeppt": "ksky521.github.io/nodeppt",
   "noderize": "cretezy.github.io/noderize",
-  "noflux": "hosting.gitbook.io", // noCF
+  "noflux": "hosting.gitbook.io"， // noCF
   "nomic": "basicer.github.io/nomic.js-ui",
   "noo": "uyouthe.github.io/noo",
   "noobscroll": "arguiot.github.io/NoobScroll",
@@ -2171,11 +2172,11 @@ var cnames_active = {
   "nostr": "nuzulul.github.io/NOSTRJS",
   "notasdeprogramador": "hugoroca.github.io/notasdeprogramador",
   "notebook": "wugenqiang.github.io/NoteBook",
-  "noted": "carter-slade.github.io/Noted-", // noCF? (don´t add this in a new PR)
+  "noted": "carter-slade.github.io/Noted-"， // noCF? (don´t add this in a new PR)
   "notepad": "amitmerchant1990.github.io/notepad",
   "nothing": "cbtak.github.io/nothing",
   "notibar": "duyetdev.github.io/notibar.js",
-  "notion-cms": "cname.vercel-dns.com", // noCF
+  "notion-cms": "cname.vercel-dns.com"， // noCF
   "nougat": "nougatlang.github.io",
   "novasheets": "novasheets.netlify.app",
   "now": "leodog896.github.io/jsnow",
@@ -2188,7 +2189,7 @@ var cnames_active = {
   "npmgraph": "cname.vercel-dns.com", // noCF
   "nrgy": "mnasyrov.github.io/nrgy",
   "nsp": "hanul.github.io/NSP", // noCF? (don´t add this in a new PR)
-  "nsptiles": "imthenachoman.github.io/nSPTiles", // noCF? (don´t add this in a new PR)
+  "nsptiles": "imthenachoman.github.io/nSPTiles"， // noCF? (don´t add this in a new PR)
   "nsw-coronavirus": "maxgherman.github.io/nsw-coronavirus",
   "nugu": "vietcode.github.io/nugu",
   "null": "false.netlify.app",
@@ -2197,44 +2198,44 @@ var cnames_active = {
   "nut": "nut-project.netlify.app",
   "nuxt-fluent-bootstrap": "disjfa.github.io/nuxt-fluent-bootstrap",
   "nuxtdoc": "hopeful-hoover-d87dd1.netlify.app",
-  "nva": "ali322.github.io/nva",
+  "nva": "ali322.github.io/nva"，
   "nxse": "nxse.github.io",
   "nyax": "springnyan.github.io/nyax",
   "nyc": "nycjsorg.github.io/nyc",
-  "nyr": "suriyaakudoisc.github.io/NYR",
+  "nyr": "suriyaakudoisc.github.io/NYR"，
   "oak": "donn.github.io/Oak.js",
   "obfuscate": "complifyjs.pages.dev",
   "object-gui": "matteobruni.github.io/object-gui",
   "objectid": "the-silver-project.github.io/objectid",
   "objectmodel": "sylvainpolletvillard.github.io/ObjectModel", // noCF? (don´t add this in a new PR)
-  "observable-hooks": "crimx.github.io/observable-hooks",
+  "observable-hooks": "crimx.github.io/observable-hooks"，
   "octofetch": "maartenvn.github.io/OctoFetch",
   "odararmy": "odararmy.github.io",
   "odin": "foxifyjs.github.io/odin",
   "oec": "crellison.github.io/oec",
   "oem": "linttrapmedia.github.io/oem",
-  "of": "r37r0m0d3l.github.io/of",
+  "of": "r37r0m0d3l.github.io/of"，
   "officetohtml": "meshesha.github.io/officetohtml",
   "offreddit": "pantheonlbs.github.io/offreddit",
   "oguz": "okb1100.github.io",
   "oh-vue-icons": "oh-vue-icons.netlify.app",
-  "ohmy": "mountainwang.github.io/ohmy",
+  "ohmy": "mountainwang.github.io/ohmy"，
   "oib": "andreicek.github.io/oib.js",
   "oktay": "98oktay.github.io/oktaybaskus",
   "olaindex": "wangningkai.github.io/OLAINDEX",
-  "olova": "cname.vercel-dns.com", // noCF
-  "omaha": "omahajs.github.io",
-  "omer": "omeroot.github.io", // noCF? (don´t add this in a new PR)
+  "olova": "cname.vercel-dns.com"， // noCF
+  "omaha": "omahajs.github.io"，
+  "omer": "omeroot.github.io"， // noCF? (don´t add this in a new PR)
   "omg": "pengjiyuan.github.io/omg",
   "omid": "omidnikrah.github.io/omid",
-  "omniutils": "cname.vercel-dns.com", // noCF
+  "omniutils": "cname.vercel-dns.com"， // noCF
   "ongaku": "anshuman-verma.github.io/ongaku",
   "onii": "oniijs.github.io/onii",
   "onlang": "rajatasusual.github.io/on-lang",
   "oox": "lipingruan.github.io/oox",
-  "opcommands": "02550ce547-hosting.gitbook.io", // noCF
+  "opcommands": "02550ce547-hosting.gitbook.io"， // noCF
   "open-api": "harys722.github.io/open-api",
-  "open-next": "serverless-stack.github.io/open-next",
+  "open-next": "serverless-stack.github.io/open-next"，
   "openauth": "openauthjs.github.io/openauth",
   "openkey": "microlinkhq.github.io/openkey",
   "opennext": "opennextjs.github.io/docs",
@@ -2243,7 +2244,7 @@ var cnames_active = {
   "opentype": "nodebox.github.io/opentype.js",
   "opmongo": "sanikava.github.io/OpMongo",
   "orbiton": "orbitonjs.github.io",
-  "order-ai": "orderai.onrender.com", // noCF
+  "order-ai": "orderai.onrender.com"， // noCF
   "orga": "orgapp.github.io/orgajs",
   "origami": "origami-cms.github.io/cms",
   "os-gui": "1j01.github.io/os-gui",
@@ -2257,38 +2258,38 @@ var cnames_active = {
   "ourcord": "ourcord.netlify.app",
   "overtone": "biologyscience.github.io/overtone",
   "overtrack": "aidant.github.io/overtrack.js",
-  "ovo": "ovojs.github.io/OvO",
-  "oxi": "cname.vercel-dns.com", // noCF
-  "oxycors": "cname.vercel-dns.com", // noCF
+  "ovo": "ovojs.github.io/OvO"，
+  "oxi": "cname.vercel-dns.com"， // noCF
+  "oxycors": "cname.vercel-dns.com"， // noCF
   "oz": "openzagreb.github.io",
   "p2psc": "kognise.github.io/p2psc",
   "p3terx": "p3terx.github.io/P3TERX",
   "p7e4": "p7e4.github.io",
-  "pa": "johnmwirigimahugu.github.io/pa",
+  "pa": "johnmwirigimahugu.github.io/pa"，
   "packit": "pouya-eghbali.github.io/packit",
   "pacman": "8tentaculos.github.io/jsPacman",
-  "pad": "ebraminio.github.io/pad.js", // noCF? (don´t add this in a new PR)
+  "pad": "ebraminio.github.io/pad.js"， // noCF? (don´t add this in a new PR)
   "pad-project": "adaltas.github.io/node-pad-docs",
   "padmemesamidala": "padmemesamidala.github.io/PadmemesAmidalaWeb",
   "pagelike": "iamanishroy.github.io/pagelike",
   "pageobject": "clebert.github.io/pageobject",
   "pagetalk": "seatwork.github.io/pagetalk",
-  "pagination": "superraytin.github.io/paginationjs-site", // noCF
+  "pagination": "superraytin.github.io/paginationjs-site"， // noCF
   "pagination-djs": "imranbarbhuiya.github.io/pagination.djs",
   "paint": "christianliebel.github.io/paint",
   "pairings": "davebc.github.io/pairings",
   "palette": "pakastin.github.io/palette",
-  "pam": "pambot.netlify.app",
+  "pam": "pambot.netlify.app"，
   "pamatcher": "pmros.github.io/pamatcher", // noCF? (don´t add this in a new PR)
   "panda": "theaarushgupta.github.io/panda",
   "pangkeyd": "pangkeyd.github.io",
   "pantarei": "pantareijs.github.io/pantarei.js.org",
-  "panza": "panza-org.github.io/panza-docs", // noCF
-  "papanasi": "witty-plant-07a086e03.1.azurestaticapps.net", // noCF
-  "paperclip": "crcn.github.io/paperclip.js.org", // noCF? (don´t add this in a new PR)
+  "panza": "panza-org.github.io/panza-docs"， // noCF
+  "papanasi": "witty-plant-07a086e03.1.azurestaticapps.net"， // noCF
+  "paperclip": "crcn.github.io/paperclip.js.org"， // noCF? (don´t add this in a new PR)
   "papyrus": "papyrusjs.netlify.app",
   "parallel": "parallel-js.github.io/parallel.js",
-  "parametric-svg": "parametric-svg.github.io", // noCF? (don´t add this in a new PR)
+  "parametric-svg": "parametric-svg.github.io"， // noCF? (don´t add this in a new PR)
   "parkrun": "prouser123.github.io/parkrun.js",
   "parley": "tomas-wrobel.github.io/parley",
   "parrot": "pengudevelopment.github.io/parrot.js",
@@ -2300,17 +2301,17 @@ var cnames_active = {
   "passkeys": "beyondcodebootcamp.github.io/passkeys",
   "passphrase": "therootcompany.github.io/passphrase.js",
   "pastate": "birdleescut.github.io/pastate",
-  "paste": "cname.vercel-dns.com", // noCF
-  "pastebin-alert": "ramadhanamizudin.github.io/pastebin-alert.js", // noCF? (don´t add this in a new PR)
-  "pathtrace": "kovacsv.github.io/WebGLPathTrace", // noCF? (don´t add this in a new PR)
+  "paste": "cname.vercel-dns.com"， // noCF
+  "pastebin-alert": "ramadhanamizudin.github.io/pastebin-alert.js"， // noCF? (don´t add this in a new PR)
+  "pathtrace": "kovacsv.github.io/WebGLPathTrace"， // noCF? (don´t add this in a new PR)
   "pax": "nathan.github.io/pax",
   "payment-crypto": "kiogia.github.io/payment-crypto",
   "pc": "jeffpar.github.io/pc",
   "pcl": "cname.vercel-dns.com", // noCF
   "pdf": "iamcristye.github.io/PDF",
-  "pdf-lib": "hopding.github.io/pdf-lib", // noCF
-  "pdfium": "cname.vercel-dns.com", // noCF
-  "pdfutils": "gottox.github.io/node-pdfutils", // noCF? (don´t add this in a new PR)
+  "pdf-lib": "hopding.github.io/pdf-lib"， // noCF
+  "pdfium": "cname.vercel-dns.com"， // noCF
+  "pdfutils": "gottox.github.io/node-pdfutils"， // noCF? (don´t add this in a new PR)
   "pecis": "techpot-studio.github.io/Pecis",
   "pee": "enbyautumn.github.io/pee.js",
   "peek": "wezn.github.io/my-js-site",
@@ -2320,7 +2321,7 @@ var cnames_active = {
   "pekanbaru": "pekanbarujs.github.io",
   "pencil": "pencil-js.github.io/website",
   "penguins": "luisvallejomohl.github.io/Penguins.js",
-  "penn-sdk": "pennlabs.github.io/penn-sdk-node", // noCF? (don´t add this in a new PR)
+  "penn-sdk": "pennlabs.github.io/penn-sdk-node"， // noCF? (don´t add this in a new PR)
   "penpow": "penpow.github.io",
   "pentris": "justinjc.github.io/pentris2", // noCF? (don´t add this in a new PR)
   "pereira": "pereirajs.github.io/pagina",
@@ -2330,10 +2331,10 @@ var cnames_active = {
   "perspective": "leopoldthecoder.github.io/Perspective",
   "peter": "peterccpang.github.io",
   "pguth": "pguth.github.io",
-  "ph1p": "ph1p.github.io",
+  "ph1p": "ph1p.github.io"，
   "phaker": "phakerjs.github.io/phaker.js",
   "phantom": "eliasnau.github.io/phantomjs",
-  "pharaoh": "pharaoh-js.github.io", // noCF? (don´t add this in a new PR)
+  "pharaoh": "pharaoh-js.github.io"， // noCF? (don´t add this in a new PR)
   "pharo": "pharojs.github.io/pharo-js-org",
   "phazor": "phazor-js.github.io/Phazor.js",
   "phi": "phi-tools.netlify.app",
@@ -2355,17 +2356,17 @@ var cnames_active = {
   "pika": "xiaopika.github.io/pika.js.org",
   "piling": "flekschas.github.io/piling.js",
   "pineapple": "totaltechgeek.github.io/pineapple",
-  "pinf": "pinf.github.io", // noCF? (don´t add this in a new PR)
+  "pinf": "pinf.github.io"， // noCF? (don´t add this in a new PR)
   "pinipig": "jmdisuanco.github.io/pinipig",
   "pino-nest": "yamcodes.github.io/pino-nestjs",
   "pinyin": "hotoo.github.io/pinyin",
-  "pipes": "pipesjs.github.io", // noCF? (don´t add this in a new PR)
+  "pipes": "pipesjs.github.io"， // noCF? (don´t add this in a new PR)
   "pivot": "wnda.github.io/pivot",
   "pivotgrid": "iskandr1.github.io/Pivot",
   "pivottable": "nicolaskruchten.github.io/pivottable",
   "pixelanimator": "grough.github.io/pixel-animator",
-  "pixelart": "meriadec.github.io/PixelartJS", // noCF? (don´t add this in a new PR)
-  "pixiv": "cname.vercel-dns.com", // noCF
+  "pixelart": "meriadec.github.io/PixelartJS"， // noCF? (don´t add this in a new PR)
+  "pixiv": "cname.vercel-dns.com"， // noCF
   "pixpact": "legendsayantan.github.io/pixpact",
   "pizzle": "pizzlejs.github.io",
   "plain-blog": "weareoutman.github.io/plain-blog",
@@ -2376,159 +2377,159 @@ var cnames_active = {
   "platz": "fylipp.github.io/platz.js",
   "player": "player.netlify.app",
   "playjs": "hunghg255.github.io/playjs",
-  "pliers": "pliersjs.github.io", // noCF? (don´t add this in a new PR)
+  "pliers": "pliersjs.github.io"， // noCF? (don´t add this in a new PR)
   "plotyxd": "plotyxd.github.io",
   "plumier": "plumier.github.io",
   "pnpm": "pnpm.github.io",
   "pod": "mileallen.github.io/pod",
-  "poegems": "max-arias.github.io/poeGems", // noCF? (don´t add this in a new PR)
+  "poegems": "max-arias.github.io/poeGems"， // noCF? (don´t add this in a new PR)
   "pogo": "aaronduino.github.io/pogo",
   "pogtopia": "alexander9673.github.io/Pogtopia",
-  "poke": "gregjw.github.io/poke",
+  "poke": "gregjw.github.io/poke"，
   "polen": "the-guild-org.github.io/polen",
   "polished": "styled-components.github.io/polished",
   "polix": "polix.netlify.app",
-  "polkadot": "polkadot-js.github.io",
+  "polkadot": "polkadot-js.github.io"，
   "polona": "huxinfeng.github.io/polona",
-  "polydns": "cname.vercel-dns.com", // noCF
+  "polydns": "cname.vercel-dns.com"， // noCF
   "polygon-clipping": "mfogel.github.io/polygon-clipping",
-  "polythene": "arthurclemens.github.io/Polythene", // noCF? (don´t add this in a new PR)
+  "polythene": "arthurclemens.github.io/Polythene"， // noCF? (don´t add this in a new PR)
   "pomidorus": "tatyshev.github.io/pomidorus",
   "pong-zh": "xiaozhu2021.github.io/javascript-pong",
   "popcorn-api": "nirewen.github.io/popcorn-api",
-  "popper": "fezvrasta.github.io/popper.js",
-  "popup": "simondmc.github.io/popup-site",
+  "popper": "fezvrasta.github.io/popper.js"，
+  "popup": "simondmc.github.io/popup-site"，
   "portafolio-web": "velazquezadrian.github.io/Portafolio-web",
   "portafolioalejandrarobles": "alerobles3.github.io/portafolioalejandrarobles",
-  "portafolioluis": "luisself2020.github.io/portafolioluis",
-  "portafoliorufino": "rufino-hdez.github.io/portafolio",
-  "portainer-update": "flweber.github.io/portainer-stack-updater",
-  "porter": "ahopkins.github.io/porterjs", // noCF? (don´t add this in a new PR)
+  "portafolioluis": "luisself2020.github.io/portafolioluis"，
+  "portafoliorufino": "rufino-hdez.github.io/portafolio"，
+  "portainer-update": "flweber.github.io/portainer-stack-updater"，
+  "porter": "ahopkins.github.io/porterjs"， // noCF? (don´t add this in a new PR)
   "portfolito": "sleelin.github.io/portfolito",
   "portpilot": "portpilot.pages.dev",
-  "poru": "cname.vercel-dns.com", // noCF
+  "poru": "cname.vercel-dns.com"， // noCF
   "post-type-discovery": "twozeroone.github.io/post-type-discovery",
-  "postlit": "postlit.github.io/postlit.js-site",
-  "potion": "finnfiddle.github.io/potion",
-  "pp": "promptpay.github.io",
+  "postlit": "postlit.github.io/postlit.js-site"，
+  "potion": "finnfiddle.github.io/potion"，
+  "pp": "promptpay.github.io"，
   "pplayer": "m4tec.github.io/PenguinPlayer",
   "pptx": "meshesha.github.io/jspptxjs.github.io",
   "pranab": "pranabdas.github.io/pranab",
-  "pranshuchittora": "pranshuchittora.github.io",
-  "pratyay": "cname.vercel-dns.de", // noCF
-  "praveen": "praveenscience.github.io/praveen.js.org",
+  "pranshuchittora": "pranshuchittora.github.io"，
+  "pratyay": "cname.vercel-dns.de"， // noCF
+  "praveen": "praveenscience.github.io/praveen.js.org"，
   "precision": "jaiko86.github.io/precisionjs-home",
   "presence": "yomorun.github.io/presence.js.org",
-  "preset": "awesome-starter.github.io/website",
+  "preset": "awesome-starter.github.io/website"，
   "pretty-print-json": "center-key.github.io/pretty-print-json",
   "prettylog": "moosecoop.github.io/PrettyLog",
   "pristine": "sha256.github.io/Pristine", // noCF
-  "producify": "jesobreira.github.io/producify",
-  "producthunt-trending": "xiaomingplus.github.io/producthunt-trending",
+  "producify": "jesobreira.github.io/producify"，
+  "producthunt-trending": "xiaomingplus.github.io/producthunt-trending"，
   "profanity-finder": "gautamkrishnar.github.io/profanity-finder.js",
   "profile": "treboryx.github.io/Profile",
   "profilie": "profilie.github.io",
   "program-builder": "program-builder.netlify.app",
   "progressbars": "josephabbey.github.io/progressbars",
   "projects-tracker": "iamdevlinph.github.io/projects-tracker",
-  "promethium": "promethiumjs.github.io/docs", // noCF
-  "pronouns": "cname.vercel-dns.com", // noCF
+  "promethium": "promethiumjs.github.io/docs"， // noCF
+  "pronouns": "cname.vercel-dns.com"， // noCF
   "propresenter": "thewilloftheshadow.github.io/propresenter",
   "proteic": "proteus-h2020.github.io/proteic",
   "proto-message-helper": "rexskz.github.io/proto-message-helper",
   "proton": "jonathanzzero.github.io/proton",
-  "proton-native": "kusti8.github.io/proton-native",
+  "proton-native": "kusti8.github.io/proton-native"，
   "protonio": "aktilacengiz.github.io/protonio",
   "prototyped": "ardalanamini.github.io/prototyped.js",
   "protype": "arguiot.github.io/ProType",
-  "proxy-memoize": "dai-shi.github.io/proxy-memoize",
-  "proxy.meow": "cname.vercel-dns.com", // noCF
+  "proxy-memoize": "dai-shi.github.io/proxy-memoize"，
+  "proxy.meow": "cname.vercel-dns.com"， // noCF
   "proyecto-estadistica-2020": "eduardodevop.github.io/proyecto-estadistica-2020",
   "pruf": "signalwerk.github.io/pruf",
   "pruthvisoni": "pruthvisooni.github.io",
   "ps": "spindlyskit.github.io/ps.js",
-  "pt-pt.single-spa": "single-spa.github.io/pt-pt.single-spa.js.org", // noCF
+  "pt-pt.single-spa": "single-spa.github.io/pt-pt.single-spa.js.org"， // noCF
   "ptero": "pterojs.github.io/ptero.js-docs",
-  "ptrdo": "ptrdo.github.io",
-  "pubg": "ickerio.github.io/pubg.js",
+  "ptrdo": "ptrdo.github.io"，
+  "pubg": "ickerio.github.io/pubg.js"，
   "publish-subscribe": "r37r0m0d3l.github.io/publish_subscribe",
   "published": "fiverr.github.io/published",
-  "puebi": "puebi.netlify.app", // noCF
-  "pulsy": "ngdream.github.io/pulsyjs",
-  "puppet": "anandchowdhary.github.io/puppet",
+  "puebi": "puebi.netlify.app"， // noCF
+  "pulsy": "ngdream.github.io/pulsyjs"，
+  "puppet": "anandchowdhary.github.io/puppet"，
   "pure": "fengzilong.github.io/pure",
   "purplet": "purpletjs.netlify.app",
   "pushoo": "imaegoo.github.io/pushoo",
-  "pusu": "xliudaxia.github.io/pusu-ui",
+  "pusu": "xliudaxia.github.io/pusu-ui"，
   "puzzle": "puzzlelang.github.io",
-  "pwa": "charistheo.github.io/pwa.js.org",
-  "pwa-cookbook": "sylvainpolletvillard.github.io/pwa-cookbook",
-  "pwa-workshop": "sylvainpolletvillard.github.io/pwa-workshop",
+  "pwa": "charistheo.github.io/pwa.js.org"，
+  "pwa-cookbook": "sylvainpolletvillard.github.io/pwa-cookbook"，
+  "pwa-workshop": "sylvainpolletvillard.github.io/pwa-workshop"，
   "py-like": "ruben-arushanyan.github.io/py-like",
   "qbit": "fudan-mse.github.io/qbit",
-  "qs": "kirjs.github.io/qs.js", // noCF? (don´t add this in a new PR)
+  "qs": "kirjs.github.io/qs.js"， // noCF? (don´t add this in a new PR)
   "quacky": "quacky-bot.github.io",
   "quantlib": "quantlibjs.github.io",
-  "quantum": "militia21.github.io/quantum",
+  "quantum": "militia21.github.io/quantum"，
   "que": "seatwork.github.io/que.js",
-  "querybuilder": "mistic100.github.io/jQuery-QueryBuilder", // noCF? (don´t add this in a new PR)
-  "quick": "d7b7ae5e1e-hosting.gitbook.io", // noCF
+  "querybuilder": "mistic100.github.io/jQuery-QueryBuilder"， // noCF? (don´t add this in a new PR)
+  "quick": "d7b7ae5e1e-hosting.gitbook.io"， // noCF
   "quick-crud": "kingrayhan.github.io/quick-crud",
   "quickdb": "plexidev.github.io/quick.db-docs",
-  "quickmongo": "quickmongo.netlify.app",
+  "quickmongo": "quickmongo.netlify.app"，
   "quickpterodactyl": "condescending-haibt-c79013.netlify.app",
-  "quickredis": "hosting.gitbook.io", // noCF
+  "quickredis": "hosting.gitbook.io"， // noCF
   "quickreplit": "lebyy.github.io/quick.replit",
-  "quickshadow": "cname.vercel-dns.com", // noCF
-  "quickuptime": "lebyy.github.io/quickuptimedocs",
+  "quickshadow": "cname.vercel-dns.com"， // noCF
+  "quickuptime": "lebyy.github.io/quickuptimedocs"，
   "quicli": "thecodeah.github.io/quicli",
   "quincy": "quincyx.github.io",
-  "quiz-app": "odevlord.github.io/Quiz-App", // noCF? (don´t add this in a new PR)
+  "quiz-app": "odevlord.github.io/Quiz-App"， // noCF? (don´t add this in a new PR)
   "quizizz": "zaida04.github.io/Quizizz.js",
-  "quizmaster": "mechtester.github.io/quizmaster",
+  "quizmaster": "mechtester.github.io/quizmaster"，
   "quotobot": "team-gigabyte.github.io/quotobot",
   "r": "r-js.github.io",
-  "ractive": "ractivejs.github.io",
-  "rad": "rapid-application-development-js.github.io/RAD.JS", // noCF? (don´t add this in a new PR)
+  "ractive": "ractivejs.github.io"，
+  "rad": "rapid-application-development-js.github.io/RAD.JS"， // noCF? (don´t add this in a new PR)
   "radashi": "radashi-org.github.io",
   "radi": "radi-js.github.io/radi",
-  "radial": "ckgrafico.github.io/radial.js", // noCF? (don´t add this in a new PR)
-  "rafaelmangolin": "rafaelmangolin.github.io", // noCF? (don´t add this in a new PR)
-  "rahul": "rahulsukla.github.io/rahul", // noCF? (don´t add this in a new PR)
-  "rahulbussa": "rahulbussa.github.io",
+  "radial": "ckgrafico.github.io/radial.js"， // noCF? (don´t add this in a new PR)
+  "rafaelmangolin": "rafaelmangolin.github.io"， // noCF? (don´t add this in a new PR)
+  "rahul": "rahulsukla.github.io/rahul"， // noCF? (don´t add this in a new PR)
+  "rahulbussa": "rahulbussa.github.io"，
   "ralmaz": "ralmaz.github.io",
-  "ralphi": "yonjah.github.io/ralphi",
-  "random-item": "ultirequiem.github.io/random_item",
+  "ralphi": "yonjah.github.io/ralphi"，
+  "random-item": "ultirequiem.github.io/random_item"，
   "random-machine": "officialpiyush.github.io/random-machine",
   "randomer": "kzacharski.github.io/randomer",
-  "rangeslider": "andreruffert.github.io/rangeslider.js", // noCF? (don´t add this in a new PR)
-  "ranmess": "ultirequiem.github.io/ranmess",
-  "rasti": "8tentaculos.github.io/rasti",
-  "rate-limiter-api": "abhisekp.github.io/rate-limiter-api",
+  "rangeslider": "andreruffert.github.io/rangeslider.js"， // noCF? (don´t add this in a new PR)
+  "ranmess": "ultirequiem.github.io/ranmess"，
+  "rasti": "8tentaculos.github.io/rasti"，
+  "rate-limiter-api": "abhisekp.github.io/rate-limiter-api"，
   "ravelloh": "ravello-h.github.io",
-  "rax": "alibaba.github.io/rax",
-  "rax0-6": "raxjs.github.io/website-rax-v0.6",
+  "rax": "alibaba.github.io/rax"，
+  "rax0-6": "raxjs.github.io/website-rax-v0.6"，
   "raylen": "ausername-1.github.io/raylen.js",
   "rayo": "getrayo.github.io/rayo.js",
   "rclone": "sntran.github.io/rclone.js",
-  "rdf": "rdfjs.github.io", // noCF
-  "rdpmovy": "rdp-studio.github.io/rdpmovy.js",
+  "rdf": "rdfjs.github.io"， // noCF
+  "rdpmovy": "rdp-studio.github.io/rdpmovy.js"，
   "react-atomic-ui": "react-atomic.github.io/react-atomic-ui",
-  "react-autosuggest": "moroshko.github.io/react-autosuggest", // noCF? (don´t add this in a new PR)
-  "react-autowhatever": "moroshko.github.io/react-autowhatever", // noCF? (don´t add this in a new PR)
+  "react-autosuggest": "moroshko.github.io/react-autosuggest"， // noCF? (don´t add this in a new PR)
+  "react-autowhatever": "moroshko.github.io/react-autowhatever"， // noCF? (don´t add this in a new PR)
   "react-character-map": "vpukhanov.github.io/react-character-map",
   "react-chartjs-2": "reactchartjs.github.io/react-chartjs-2",
   "react-chef": "web-slate.github.io/react-chef",
-  "react-ck": "abelflopes.github.io/react-ck",
+  "react-ck": "abelflopes.github.io/react-ck"，
   "react-comfort": "ruben-arushanyan.github.io/react-comfort",
   "react-component-shell": "ruben-arushanyan.github.io/react-component-shell",
   "react-coroutine": "alexeyraspopov.github.io/react-coroutine",
-  "react-day-picker": "gpbl.github.io/react-day-picker", // noCF
+  "react-day-picker": "gpbl.github.io/react-day-picker"， // noCF
   "react-dnd-cn": "apex-loadbalancer.netlify.app",
   "react-dropzone": "react-dropzone.netlify.app",
   "react-dropzone-uploader": "fortana-co.github.io/react-dropzone-uploader",
-  "react-easy-swipe": "leandrowd.github.io/react-easy-swipe", // noCF? (don´t add this in a new PR)
-  "react-entanglement": "react-entanglement.github.io",
+  "react-easy-swipe": "leandrowd.github.io/react-easy-swipe"， // noCF? (don´t add this in a new PR)
+  "react-entanglement": "react-entanglement.github.io"，
   "react-hint": "slmgc.github.io/react-hint",
   "react-instastories": "kenclaron.github.io/react-instastories",
   "react-jewish-datepicker": "shmulik-kravitz.github.io/react-jewish-datepicker",
@@ -2538,32 +2539,32 @@ var cnames_active = {
   "react-native-csv": "react-native-csv.github.io",
   "react-native-document-scanner": "websitebeaver.github.io/react-native-document-scanner-plugin",
   "react-native-elements": "react-native-elements.github.io/playground",
-  "react-native-error-boundary": "cname.vercel-dns.com", // noCF
-  "react-native-flex-layout": "cname.vercel-dns.com", // noCF
-  "react-native-floating-labels": "mayank-patel.github.io/react-native-floating-labels",
-  "react-observatory": "hosting.gitbook.com",
+  "react-native-error-boundary": "cname.vercel-dns.com"， // noCF
+  "react-native-flex-layout": "cname.vercel-dns.com"， // noCF
+  "react-native-floating-labels": "mayank-patel.github.io/react-native-floating-labels"，
+  "react-observatory": "hosting.gitbook.com"，
   "react-papaparse": "react-papaparse.github.io",
   "react-pivottable": "plotly.github.io/react-pivottable",
   "react-querybuilder": "react-querybuilder.github.io",
-  "react-redux": "react-redux-docs.netlify.app", // noCF
+  "react-redux": "react-redux-docs.netlify.app"， // noCF
   "react-responsive-carousel": "leandrowd.github.io/react-responsive-carousel", // noCF? (don´t add this in a new PR)
-  "react-server-forms": "cname.vercel-dns.com", // noCF
+  "react-server-forms": "cname.vercel-dns.com"， // noCF
   "react-showroom": "react-showroom.netlify.app",
   "react-starport": "react-starport.netlify.app",
   "react-styleguidist": "styleguidist.netlify.app",
   "react-table-ui": "guptasiddhant.github.io/react-table-ui",
   "react-telegram": "appbak3r.github.io/react-telegram",
-  "react-through": "hosting.gitbook.com", // noCF
+  "react-through": "hosting.gitbook.com"， // noCF
   "react-toulouse": "moox.github.io/react-toulouse",
   "react-tracked": "dai-shi.github.io/react-tracked",
   "react-ui-animate": "dipeshrai123.github.io/react-ui-animate-docs",
   "react-uicomp": "dipeshrai123.github.io/React-UIComp-Docs",
   "react-unimodal": "chrisli-03.github.io/react-unimodal",
-  "react-wheel-picker": "cname.vercel-dns.com", // noCF
+  "react-wheel-picker": "cname.vercel-dns.com"， // noCF
   "reactabular": "bebraw.github.io/reactabular",
   "reactant": "unadlib.github.io/reactant",
-  "reactdesktop": "gabrielbull.github.io/react-desktop", // noCF? (don´t add this in a new PR)
-  "reactflow-cn": "cname.vercel-dns.com", // noCF
+  "reactdesktop": "gabrielbull.github.io/react-desktop"， // noCF? (don´t add this in a new PR)
+  "reactflow-cn": "cname.vercel-dns.com"， // noCF
   "reactiflux": "reactiflux.netlify.app",
   "reactpatterns": "reactpatterns.github.io",
   "reactql": "leebenson.github.io/reactql-site",
@@ -2577,16 +2578,16 @@ var cnames_active = {
   "reask": "mcsh.github.io/reask",
   "reassign": "hasharray.github.io/reassign.js",
   "rebatov": "rebatov.github.io",
-  "rebem": "rebem.github.io", // noCF? (don´t add this in a new PR)
-  "reciple": "cname.vercel-dns.com", // noCF
+  "rebem": "rebem.github.io"， // noCF? (don´t add this in a new PR)
+  "reciple": "cname.vercel-dns.com"， // noCF
   "recover": "luisvallejomohl.github.io/Recover.js",
   "recycle": "recyclejs.github.io/recycle",
-  "rediagram": "kamiazya.github.io/rediagram",
-  "redis": "noderedis.github.io/node_redis", // noCF? (don´t add this in a new PR)
-  "redline": "abduvokhid.github.io/redline",
+  "rediagram": "kamiazya.github.io/rediagram"，
+  "redis": "noderedis.github.io/node_redis"， // noCF? (don´t add this in a new PR)
+  "redline": "abduvokhid.github.io/redline"，
   "redom": "redom.github.io/redom-docs",
-  "reduce": "reducejs.github.io", // noCF? (don´t add this in a new PR)
-  "redux": "redux-docs.netlify.app", // noCF
+  "reduce": "reducejs.github.io"， // noCF? (don´t add this in a new PR)
+  "redux": "redux-docs.netlify.app"， // noCF
   "redux-actions": "hosting.gitbook.com", // noCF
   "redux-agent": "bard.github.io/redux-agent",
   "redux-aggregate": "redux-aggregate.netlify.app",
@@ -2594,7 +2595,7 @@ var cnames_active = {
   "redux-cool": "ruben-arushanyan.github.io/redux-cool",
   "redux-data-structures": "adrienjt.github.io/redux-data-structures",
   "redux-dynamic-modules": "microsoft.github.io/redux-dynamic-modules",
-  "redux-leaves": "redux-leaves.netlify.app",
+  "redux-leaves": "redux-leaves.netlify.app"，
   "redux-loop": "redux-loop.github.io/redux-loop",
   "redux-nakshatra": "agenthunt.github.io/redux-nakshatra",
   "redux-observable": "redux-observable.github.io/redux-observable",
@@ -2648,7 +2649,7 @@ var cnames_active = {
   "resume": "xaoxuu.github.io/resume.js.org",
   "resume-builder": "blopa.github.io/Resume-Builder",
   "resumebuilder": "resumebuilder-dracu.netlify.app",
-  "retalk": "cname-china.vercel-dns.com", // noCF
+  "retalk": "cname-china.vercel-dns.com"， // noCF
   "rete": "retejs.github.io",
   "reto": "awmleer.github.io/reto",
   "retos": "cname.vercel-dns.com", // noCF
@@ -2960,11 +2961,11 @@ var cnames_active = {
   "squeak": "bertfreudenberg.github.io/SqueakJS",
   "squid": "squidjs.github.io/squid",
   "squircle": "cname.vercel-dns.com", // noCF
-  "squirrelly": "squirrellyjs.netlify.app", // noCF
+  "squirrelly": "squirrellyjs.netlify.app"， // noCF
   "sr": "samrobbins85.github.io",
   "sri": "jackub.github.io/subresource-integrity-fallback",
-  "sri-shasum": "imcotton.github.io/sri", // noCF
-  "ss": "cname-china.vercel-dns.com", // noCF
+  "sri-shasum": "imcotton.github.io/sri"， // noCF
+  "ss": "cname-china.vercel-dns.com"， // noCF
   "sse": "dt-is-not-available.github.io/sse",
   "st": "lizs365.github.io/st",
   "st-collab": "stoppedwummpython.github.io/st-collab",
@@ -2974,33 +2975,33 @@ var cnames_active = {
   "stack-styled": "stack-styled.netlify.app",
   "stacks": "cname.vercel-dns.com", // noCF
   "stahlstadt": "dist1.storyblok.com",
-  "stampit": "hosting.gitbook.com", // noCF
+  "stampit": "hosting.gitbook.com"， // noCF
   "stamps": "ronald-baars.github.io/stamps",
   "stampy": "stampylongr.github.io",
-  "standard-resource": "hosting.gitbook.com", // noCF
+  "standard-resource": "hosting.gitbook.com"， // noCF
   "stapp": "tinkoffcreditsystems.github.io/stapp",
   "starfield": "annikav9.github.io/starfield.js",
-  "starify-discord": "dastormer.github.io/starify-discord",
-  "starratio": "starratio.github.io/star-ratio", // noCF
+  "starify-discord": "dastormer.github.io/starify-discord"，
+  "starratio": "starratio.github.io/star-ratio"， // noCF
   "start": "deepsweet.github.io/start",
   "starterdocs": "vtempest.github.io/Serverless-DOCS-Stack",
-  "starterpk": "starterpk.github.io",
-  "startup": "startup-js.github.io/startup",
+  "starterpk": "starterpk.github.io"，
+  "startup": "startup-js.github.io/startup"，
   "state-machine-cat": "sverweij.github.io/state-machine-cat",
-  "staticinstance": "staticinstance.github.io", // noCF? (don´t add this in a new PR)
+  "staticinstance": "staticinstance.github.io"， // noCF? (don´t add this in a new PR)
   "statisfy": "yarn-development.github.io/statisfynpm",
   "stats": "js-org.github.io/stats.js.org",
   "statsmonit": "cabrata.github.io/StatsMonit",
   "status": "mattipv4.github.io/status-codes",
-  "status-hx": "status-hx-js-org.dns.huangxin.org", // noCF
+  "status-hx": "status-hx-js-org.dns.huangxin.org"， // noCF
   "stax": "stax.serv00.net",
   "steemsites": "yhozen.github.io/steemsites",
-  "stego": "zeruniverse.github.io/CryptoStego", // noCF? (don´t add this in a new PR)
-  "stein": "cname.vercel-dns.com", // noCF
-  "stepan": "stevermeister.github.io", // noCF? (don´t add this in a new PR)
-  "stephenmccall": "stephenmccall.github.io", // noCF? (don´t add this in a new PR)
+  "stego": "zeruniverse.github.io/CryptoStego"， // noCF? (don´t add this in a new PR)
+  "stein": "cname.vercel-dns.com"， // noCF
+  "stepan": "stevermeister.github.io"， // noCF? (don´t add this in a new PR)
+  "stephenmccall": "stephenmccall.github.io"， // noCF? (don´t add this in a new PR)
   "stethoscope": "stethoscope-js.github.io/stethoscope.js.org",
-  "steven": "stpeng.github.io",
+  "steven": "stpeng.github.io"，
   "sticksy": "kovart.github.io/sticksy",
   "stino": "stinobe.github.io/Stino",
   "stockings": "kgroat.github.io/stockings",
@@ -3008,93 +3009,93 @@ var cnames_active = {
   "stonk": "anujsharma141.github.io/stonk",
   "storage": "uzitech.github.io/storage.js",
   "storelocator": "storelocatorjs.github.io",
-  "storybook": "apex-loadbalancer.netlify.app", // noCF
+  "storybook": "apex-loadbalancer.netlify.app"， // noCF
   "storybooks": "storybooks.github.io",
   "str": "manelet.github.io/str",
   "stratic": "straticjs.github.io",
-  "stream-regex": "getjerry.github.io/stream-regex",
+  "stream-regex": "getjerry.github.io/stream-regex"，
   "stress": "julindra.github.io/stress.js",
-  "structure": "hosting.gitbook.io", // noCF
+  "structure": "hosting.gitbook.io"， // noCF
   "strudel": "strudeljs.netlify.app",
   "strygwyr": "sinkaroid.github.io/strygwyr",
   "stuck": "linuxenko.github.io/unstuck-webpack",
-  "studios": "botstudios.github.io/Studios",
-  "style": "dhilipsiva.github.io/style.js", // noCF? (don´t add this in a new PR)
+  "studios": "botstudios.github.io/Studios"，
+  "style": "dhilipsiva.github.io/style.js"， // noCF? (don´t add this in a new PR)
   "styled-css-grid": "styled-css-grid.netlify.app",
   "stylis": "thysultan.github.io/stylis.js",
   "subatomic": "thelazycodernothacker.github.io/Subatomic-Homepage",
   "subeditor": "shirtiny.github.io/SubEditor",
   "submodule": "submodule-js.github.io/site",
   "subplayer": "zhw2590582.github.io/SubPlayer",
-  "suchary": "skorotkiewicz.github.io/suchary",
+  "suchary": "skorotkiewicz.github.io/suchary"，
   "sudarshan": "sudarshanraul.github.io",
   "sudoku": "andreynering.github.io/sudoku",
   "suggestcord": "suggestcord.github.io/docs",
   "suggester": "suggester.github.io/Documentation",
-  "sulky": "shingle.github.io/sulky", // noCF? (don´t add this in a new PR)
+  "sulky": "shingle.github.io/sulky"， // noCF? (don´t add this in a new PR)
   "sum": "ultirequiem.github.io/sum",
-  "suman": "devsumanmdn.github.io",
-  "summer": "minecraftpublisher.github.io/SummerJS",
-  "sunar": "cname.vercel-dns.com", // noCF
+  "suman": "devsumanmdn.github.io"，
+  "summer": "minecraftpublisher.github.io/SummerJS"，
+  "sunar": "cname.vercel-dns.com"， // noCF
   "sunos": "sunos22.github.io",
   "sunsistemo": "sunsistemo.github.io/sunsistemo",
-  "supapi": "kacperkwapisz.github.io/supreme-api-rewritten",
+  "supapi": "kacperkwapisz.github.io/supreme-api-rewritten"，
   "super-controls": "thebearingedge.github.io/super-controls",
   "super-trim": "beeblebrox3.github.io/super-trim",
   "supernova-tool": "supernova-tool.github.io/supernova-site",
   "surgio": "surgio-documentation.netlify.app",
   "suroadb": "nicamoq.github.io/SuroADB-Lite",
-  "surrealorm": "surrealorm.justwolf.dev", // noCF
-  "surti": "cname.vercel-dns.com", // noCF
+  "surrealorm": "surrealorm.justwolf.dev"， // noCF
+  "surti": "cname.vercel-dns.com"， // noCF
   "svelkit": "kenoxa.github.io/svelkit",
-  "svelte-aplayer": "fengkx.github.io/svelte-aplayer",
+  "svelte-aplayer": "fengkx.github.io/svelte-aplayer"，
   "svelte-cookie-consent": "sebaofficial.github.io/svelte-cookie-consent",
   "svelte-formup": "kenoxa.github.io/svelte-formup",
-  "svelte-lightbox": "cname.vercel-dns.com", // noCF
+  "svelte-lightbox": "cname.vercel-dns.com"， // noCF
   "svelte-native-forms": "kevinast.github.io/svelte-native-forms",
-  "svelte-workshop": "korzio.github.io/svelte-workshop",
+  "svelte-workshop": "korzio.github.io/svelte-workshop"，
   "sveltestrap": "sveltestrap.github.io/sveltestrap",
   "svg-crowbar": "cy6erskunk.github.io/svg-crowbar",
   "svg-skeleton": "yyued.github.io/SVG-Skeleton",
   "sw-yx": "sw-yx.github.io",
   "swearoo": "codeswithjames.github.io/swearoo",
   "sweetalert": "t4t5.github.io/sweetalert",
-  "sweetconfirm": "koddr.github.io/sweetconfirm.js",
-  "swgear": "aldhosutra.github.io/swgear",
-  "swipe": "lyfeyaj.github.io/swipe",
+  "sweetconfirm": "koddr.github.io/sweetconfirm.js"，
+  "swgear": "aldhosutra.github.io/swgear"，
+  "swipe": "lyfeyaj。github。io/swipe",
   "switchit": "dongryphon.github.io/switchit",
   "swordcss": "swordcss.netlify.app",
-  "swot": "swot-node.netlify.app", // noCF
+  "swot": "swot-node.netlify.app"， // noCF
   "swup": "swup.github.io/docs",
   "sx": "screenrecx.netlify.app",
   "sxcu": "m-phoenix852.github.io/sxcu.js-docs",
-  "sxw": "sxwjs.github.io",
+  "sxw": "sxwjs.github.io"，
   "sydinh": "sydinh.github.io",
   "synclyrics": "stef-00012.github.io/SyncLyrics-npm",
   "synergies": "lukasbach.github.io/synergies",
   "synth": "lukehorvat.github.io/synth-mood",
-  "syr": "dmikey.github.io/syr",
+  "syr": "dmikey.github.io/syr"，
   "system-monitoring": "miladezzat.github.io/system-monitoring",
-  "t": "l-js.mydevapp.tfuture.eu.org", // noCF
+  "t": "l-js.mydevapp.tfuture.eu.org"， // noCF
   "tab": "gdmcc.github.io/tab",
   "tabs": "mehrizi.github.io/tabs",
   "tagscript": "cname.vercel-dns.com", // noCF
-  "tagster": "goschevski.github.io/tagster", // noCF? (don´t add this in a new PR)
+  "tagster": "goschevski.github.io/tagster"， // noCF? (don´t add this in a new PR)
   "taha": "orcxzjeeeee.github.io/taha",
   "tailwind-baseline": "apkoponen.github.io/tailwind-baseline-site",
   "takeout": "takeout-bysourfruit.github.io",
   "talk": "zonayedpca.github.io/talk.js",
-  "talker": "secondstreet.github.io/talker.js", // noCF? (don´t add this in a new PR)
+  "talker": "secondstreet.github.io/talker.js"， // noCF? (don´t add this in a new PR)
   "tama": "etk.gitlab.io",
-  "tampered-console": "hosting.gitbook.io", // noCF
+  "tampered-console": "hosting.gitbook.io"， // noCF
   "tanmay": "tan-mayhem.github.io/tanmay",
   "tanok": "brabadu.github.io/tanok",
   "tao": "zzyzxlab.github.io/tao.js",
   "tapi": "sinisimattia.github.io/tapi",
-  "tara": "shakyatara.github.io",
+  "tara": "shakyatara.github.io"，
   "tarant": "tarantx.github.io",
   "taro": "nervjs.github.io/taro-website",
-  "tart": "tart.github.io/tartJS", // noCF? (don´t add this in a new PR)
+  "tart": "tart.github.io/tartJS"， // noCF? (don´t add this in a new PR)
   "tauber": "ranjithrd.github.io/tauber",
   "taufik-nurrohman": "taufik-nurrohman.github.io",
   "taxi": "craftedbygc.github.io/taxi",
@@ -3103,65 +3104,65 @@ var cnames_active = {
   "tdhandler": "hosting.gitbook.com",
   "tead": "teadjs.github.io",
   "tech-human-id": "abhisekp.github.io/tech-human-id",
-  "techthinker": "tech-thinker.github.io",
+  "techthinker": "tech-thinker.github.io"，
   "techxuexi": "techxuexi.netlify.app",
   "techy": "hosting.gitbook.com",
   "tejas": "harshsinghdev.github.io/tejas",
-  "telaviv": "dustin-h.github.io/telaviv", // noCF? (don´t add this in a new PR)
-  "telegraf": "telegraf.github.io/telegraf", // noCF? (don´t add this in a new PR)
-  "telegram": "yuvapoojary.github.io/telegram.js-website",
+  "telaviv": "dustin-h.github.io/telaviv"， // noCF? (don´t add this in a new PR)
+  "telegraf": "telegraf.github.io/telegraf"， // noCF? (don´t add this in a new PR)
+  "telegram": "yuvapoojary.github.io/telegram.js-website"，
   "teletype": "keyvank.github.io/teletype.js",
-  "temme": "shinima.github.io/temme",
-  "template-pro": "template-pro.github.io",
-  "templates.linksharer": "linksharer.github.io/Templates", // noCF
+  "temme": "shinima.github.io/temme"，
+  "template-pro": "template-pro.github.io"，
+  "templates.linksharer": "linksharer.github.io/Templates"， // noCF
   "tenvoy": "togatech.github.io/tEnvoy",
   "tequila": "tequila-js.github.io",
   "term-web": "zhw2590582.github.io/term-web",
-  "termestry": "redyetidev.github.io/termestry",
+  "termestry": "redyetidev.github.io/termestry"，
   "termi": "wearetermi.github.io/termi",
-  "terminal": "gottox.github.io/terminal.js", // noCF? (don´t add this in a new PR)
+  "terminal": "gottox.github.io/terminal.js"， // noCF? (don´t add this in a new PR)
   "tess": "det171.github.io/Tess.js",
   "testframe": "testingrequired.github.io/testframe",
   "testio": "yavrumian.github.io/test.io",
   "tetr": "proximitynow19.github.io/TETR.JS",
-  "text-encryption-tool": "tanvishgg.github.io/Text-Encryption-Tool",
-  "text-to-handwriting": "ankit-chaubey.github.io/text-to-handwriting",
-  "textillate": "jschr.github.io/textillate", // noCF? (don´t add this in a new PR)
+  "text-encryption-tool": "tanvishgg.github.io/Text-Encryption-Tool"，
+  "text-to-handwriting": "ankit-chaubey.github.io/text-to-handwriting"，
+  "textillate": "jschr.github.io/textillate"， // noCF? (don´t add this in a new PR)
   "textmark": "sahilister.github.io/textmark",
   "textstorage": "princeunadkat-dev.github.io/text-storage",
   "tgind": "panditsiddharth.github.io/tginddoc",
-  "tgsnake": "cname.vercel-dns.com", // noCF
+  "tgsnake": "cname.vercel-dns.com"， // noCF
   "tgx-core": "tgx-core.github.io/website",
   "thea": "idokutela.github.io/thea",
   "thegrid": "antoniandre.github.io/grid",
   "thema": "themakit.github.io",
   "theme-next": "hexo-theme-next.netlify.app",
-  "themoviedb": "chrisenytc.github.io/themoviedb", // noCF? (don´t add this in a new PR)
+  "themoviedb": "chrisenytc.github.io/themoviedb"， // noCF? (don´t add this in a new PR)
   "thenandnow": "devdavmen.github.io/then-and-now",
-  "theorem": "arguiot.github.io/TheoremJS",
+  "theorem": "arguiot.github.io/TheoremJS"，
   "thepeachtimes": "thepeachtimes.github.io",
   "thi": "ngomjnhthj.github.io/thi",
   "thinkdigital": "tomowens08.github.io/thinkdigital",
   "threadly": "spideyzac.github.io/Threadly",
-  "threads": "andywer.github.io/threads.js",
+  "threads": "andywer.github.io/threads.js"，
   "threebody": "cnzc.github.io/threebody",
   "ths": "ths-fe.github.io",
-  "thundercats": "thundercatsjs.github.io/thundercats", // noCF? (don´t add this in a new PR)
+  "thundercats": "thundercatsjs.github.io/thundercats"， // noCF? (don´t add this in a new PR)
   "tictactoe": "jeff-tian.github.io/tic-tac-toe-ai",
   "tiden": "tidenjs.netlify.app",
   "tidy": "tidy-js.github.io",
   "tik": "nascjoao.github.io/tikjs",
   "timeout": "anshuman-verma.github.io/setTimeout",
   "timer": "timerjsorg.netlify.app",
-  "timerizer": "callumacrae.github.io/timerizerJS", // noCF? (don´t add this in a new PR)
+  "timerizer": "callumacrae.github.io/timerizerJS"， // noCF? (don´t add this in a new PR)
   "timesheet": "nishantpainter.github.io/timesheet",
   "timezones": "ultirequiem.github.io/timezones",
   "tina": "tinajs.github.io/tina",
   "tinance": "redgroot.github.io/tinance",
-  "tint": "tintjs.github.io", // noCF? (don´t add this in a new PR)
-  "tiny-swiper": "joe223.github.io/tiny-swiper",
+  "tint": "tintjs.github.io"， // noCF? (don´t add this in a new PR)
+  "tiny-swiper": "joe223.github.io/tiny-swiper"，
   "tinylibs": "arthurfiorette.github.io/tinylibs",
-  "tinylinux": "e8johan.github.io/tiny-js", // noCF? (don´t add this in a new PR)
+  "tinylinux": "e8johan.github.io/tiny-js"， // noCF? (don´t add this in a new PR)
   "tinymanager": "nishantpainter.github.io/tiny-manager",
   "tit": "wenjiasen.github.io/tit",
   "tixol": "vcxiz.github.io/tixol",
@@ -3171,18 +3172,18 @@ var cnames_active = {
   "tmr": "tmr-blog.netlify.app",
   "tnt": "tntjs-docs.netlify.app",
   "toad": "wnda.github.io/toad",
-  "tom": "cname.vercel-dns.com", // noCF
+  "tom": "cname.vercel-dns.com"， // noCF
   "tom-select": "orchidjs.github.io/tom-select",
-  "tooling": "slikts.github.io/tooling",
+  "tooling": "slikts.github.io/tooling"，
   "tools-kit": "blackb1rd-development.github.io/tools-kit",
   "toolzar": "toolzar.netlify.app",
-  "topbot": "resign05.github.io/TobWebsite",
-  "topgg": "topgg-node-sdk-docs.netlify.app",
+  "topbot": "resign05.github.io/TobWebsite"，
+  "topgg": "topgg-node-sdk-docs.netlify.app"，
   "tori": "boostcode.github.io/torijs",
-  "torino": "torinojs.github.io", // noCF? (don´t add this in a new PR)
+  "torino": "torinojs.github.io"， // noCF? (don´t add this in a new PR)
   "torlondev": "torlondev.github.io",
   "torpedo": "divysrivastava.github.io/torpedo.js",
-  "trace": "andreasmadsen.github.io/trace",
+  "trace": "andreasmadsen.github.io/trace"，
   "trackymouse": "1j01.github.io/tracky-mouse",
   "trakas": "trakas.github.io",
   "translate": "xuanzhi33.github.io/translate.js",
@@ -3190,12 +3191,12 @@ var cnames_active = {
   "tree-cli": "yangshun.github.io/tree-node-cli",
   "trestle": "whiskeedev.github.io/trestle",
   "trier": "creimers.github.io/trier",
-  "trilogy": "trilogy.netlify.app", // noCF
+  "trilogy": "trilogy.netlify.app"， // noCF
   "trivia": "gubareve.github.io/triviabot-docs",
-  "tropical": "tropicaljs.netlify.app", // noCF
+  "tropical": "tropicaljs.netlify.app"， // noCF
   "troxel": "troxeljs.github.io",
   "troy": "troyxun.github.io",
-  "trpc": "trpc-node.github.io/trpc.js.org",
+  "trpc": "trpc-node.github.io/trpc.js.org"，
   "true-myth": "chriskrycho.github.io/true-myth",
   "truecaller": "sumithemmadi.github.io/truecallerjs",
   "truncate": "remanufacturing.github.io/react-truncate",
@@ -3203,12 +3204,12 @@ var cnames_active = {
   "try-catch-finally": "c24w.github.io/try-catch-finally.js",
   "trygit": "trygit.netlify.app",
   "ts-creator": "ts-creator.netlify.app",
-  "ts-dax": "lukecarr.github.io/ts-dax",
+  "ts-dax": "lukecarr.github.io/ts-dax"，
   "ts-module-browser": "iam-medvedev.github.io/ts-module-browser",
   "ts-react-boilerplate": "lapanti.github.io/ts-react-boilerplate",
-  "ts2jsdoc": "spatools.github.io/ts2jsdoc", // noCF? (don´t add this in a new PR)
+  "ts2jsdoc": "spatools.github.io/ts2jsdoc"， // noCF? (don´t add this in a new PR)
   "tsch": "type-challenges.netlify.app",
-  "tsdi": "knisterpeter.github.io/tsdi",
+  "tsdi": "knisterpeter.github.io/tsdi"，
   "tsemrtd": "li0ard.github.io/tsemrtd",
   "tslog": "fullstack-build.github.io/tslog",
   "tsubasa": "tsubasa.netlify.app",
