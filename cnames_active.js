@@ -3138,6 +3138,7 @@ var cnames_active = {
   "thegrid": "antoniandre.github.io/grid",
   "thema": "themakit.github.io",
   "theme-next": "hexo-theme-next.netlify.app",
+  "thesilentsheikhofficial": "thesilentsheikhofficial.github.io/MyCoolProject"
   "themoviedb": "chrisenytc.github.io/themoviedb", // noCF? (don´t add this in a new PR)
   "thenandnow": "devdavmen.github.io/then-and-now",
   "theorem": "arguiot.github.io/TheoremJS",
