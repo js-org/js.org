@@ -3347,6 +3347,7 @@ var cnames_active = {
   "various": "variousjs.github.io/website",
   "varvara": "marcmarine.github.io/varvara",
   "vayne": "vaynejs.github.io",
+  "vault": "vault-rho-lac.vercel.app",
   "vbuild": "egoist.github.io/vbuild",
   "vdcs": "hopae-official.github.io/Verifiable-Digital-Credentials",
   "ve-table": "xiguaxigua.github.io/ve-table",
