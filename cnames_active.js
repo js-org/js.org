@@ -751,6 +751,7 @@ var cnames_active = {
   "denepo": "denepo.github.io",
   "denisvieira": "denisvieira05.github.io",
   "deno-algorithm": "hylerrix.github.io/deno-algorithm",
+  "deno-docs": "fbikdot.github.io/deno-docs",
   "deno-tutorial": "hylerrix.github.io/deno-tutorial",
   "deox": "deox.netlify.app",
   "deportes": "andreapins.github.io/Deportes-Gacetis",
