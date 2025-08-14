@@ -1676,6 +1676,7 @@ var cnames_active = {
   "lang": "iso-639.github.io/language-code",
   "languages": "rsamaium.github.io/Languages",
   "lanye": "lanye.github.io",
+  "lakhdeep": "lakhdeep.vercel.app",
   "larastrator": "the94air.github.io/larastrator",
   "lass": "lassjs.github.io/lass",
   "latex": "michael-brade.github.io/LaTeX.js",
