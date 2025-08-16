@@ -3168,6 +3168,7 @@ var cnames_active = {
   "tinylibs": "arthurfiorette.github.io/tinylibs",
   "tinylinux": "e8johan.github.io/tiny-js", // noCF? (don´t add this in a new PR)
   "tinymanager": "nishantpainter.github.io/tiny-manager",
+  "tiny-notify": "rohit-chouhan.github.io/tiny-notify",
   "tit": "wenjiasen.github.io/tit",
   "tixol": "vcxiz.github.io/tixol",
   "tixte": "macedonga.github.io/tixte.js",
