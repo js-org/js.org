@@ -1706,6 +1706,7 @@ var cnames_active = {
   "leet": "leetcodes.github.io",
   "leet-xt": "binbard.github.io/leet-xt",
   "leetcode": "cname.vercel-dns.com", // noCF
+  "legacy": "mta-web-jade.vercel.app",
   "legendz": "botstudios.github.io/LEGENDZ",
   "lego": "polight.github.io/lego",
   "leipzig": "leipzigjs.github.io", // noCF? (don´t add this in a new PR)
