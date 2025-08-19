@@ -982,6 +982,7 @@ var cnames_active = {
   "emojifier": "badlydrawnletters.github.io/emojifier-docs",
   "emojipanel": "danbovey.github.io/EmojiPanel",
   "emotify": "aryanbaburajan.github.io/Emotify",
+  "emox":"DerEmox.github.io/emox",
   "empathy": "the94air.github.io/empathy-docs",
   "emre": "emrekara37.github.io",
   "emulisp": "grahack.github.io/EmuLisp", // noCF? (don´t add this in a new PR)
