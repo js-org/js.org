@@ -2967,6 +2967,7 @@ var cnames_active = {
   "sr": "samrobbins85.github.io",
   "sri": "jackub.github.io/subresource-integrity-fallback",
   "sri-shasum": "imcotton.github.io/sri", // noCF
+  "sri-marker": "rohit-chouhan.github.io/sri-marker", 
   "ss": "cname-china.vercel-dns.com", // noCF
   "sse": "dt-is-not-available.github.io/sse",
   "st": "lizs365.github.io/st",
