@@ -3083,6 +3083,7 @@ var cnames_active = {
   "syr": "dmikey.github.io/syr",
   "system-monitoring": "miladezzat.github.io/system-monitoring",
   "t": "l-js.mydevapp.tfuture.eu.org", // noCF
+  "t8": "t8js.github.io",
   "tab": "gdmcc.github.io/tab",
   "tabs": "mehrizi.github.io/tabs",
   "tagscript": "cname.vercel-dns.com", // noCF
