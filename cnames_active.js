@@ -1979,6 +1979,7 @@ var cnames_active = {
   "mo": "mirmousaviii.github.io/mo",
   "mobbler": "megaemce.github.io/mobbler",
   "mobi": "mobidots.github.io",
+  "mobileconfiginstaller": "rohit-chouhan.github.io/mobile-config-installer",
   "mobx": "mobx-js-org.onrender.com", // noCF
   "mobx-bonsai": "mobx-bonsai.netlify.app",
   "mobx-keystone": "mobx-keystone.netlify.app",
