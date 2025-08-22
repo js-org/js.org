@@ -2691,6 +2691,7 @@ var cnames_active = {
   "rocketact": "jdf2e.github.io/rocketact",
   "rockjins": "rockjins.github.io",
   "roghib": "hosting.gitbook.com",
+  "rohan": "apex-loadbalancer.netlify.com",
   "romanager": "imacodr.github.io/romanager",
   "romcal": "romcal.github.io",
   "room": "atercerosb.github.io/roomHomepage",
