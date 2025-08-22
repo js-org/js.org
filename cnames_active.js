@@ -2105,6 +2105,7 @@ var cnames_active = {
   "nestcord": "globalartinc.github.io/nestcord",
   "nested-error": "ultirequiem.github.io/nested_error",
   "nestjs-toolkit": "globalartinc.github.io/nestjs-toolkit",
+  "nestmap": "norman-mei.github.io/norman-mei.github.io-nestmcollegemap",
   "neteasecloudmusicapi": "w4ctech.github.io/NeteaseCloudMusicApi",
   "neurax-api": "configneurax.netlify.app",
   "neureact": "kasmirawijayathunga.github.io/neureact",
