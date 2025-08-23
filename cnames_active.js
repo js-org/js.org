@@ -1659,6 +1659,7 @@ var cnames_active = {
   "kst": "lucaelin.github.io/KST", // noCF
   "ktm": "developers-nepal.github.io/ktmjs",
   "kucos": "kucosjs.github.io",
+  "kumarxbala": "kumaxbala12.github.io/kumarxbala.js.org",
   "kumeru": "ultirequiem.github.io/kumeru",
   "kun": "lmk97.github.io/kun-docs",
   "kunal": "kunalghosh02.github.io",
