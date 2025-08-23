@@ -3350,6 +3350,7 @@ var cnames_active = {
   "vanilla-swr": "droyson.github.io/vanilla-swr",
   "vanillaboot": "eyallior.github.io/vanillaboot",
   "vanillarouter": "vanillarouter.github.io",
+  "vanisher": "kiron0.github.io/vanisher",
   "vansul": "vansul.github.io",
   "vant-react-native": "youngjuning.github.io/vant-react-native",
   "vanya": "cname.vercel-dns.com", // noCF
