@@ -1197,6 +1197,7 @@ var cnames_active = {
   "gatsby-source-pixiv": "poipoii.github.io/gatsby-source-pixiv",
   "gazosekai": "starkblaze01.github.io/Gazo_Sekai",
   "gba": "frogweezer.github.io/gba.js.org",
+  "gbc": "https://bladeelectro.github.io/GameBoy-Online/",
   "gcommands": "garlic-team.github.io/GCommands",
   "gcse": "abemedia.github.io/jquery-gcse",
   "gdal3": "bugra9.github.io/gdal3.js",
