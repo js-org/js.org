@@ -372,6 +372,7 @@ var cnames_active = {
   "bloxy": "visualizememe.github.io/bloxy",
   "blu": "maxherrmann.github.io/blu",
   "blueconfig": "a-312.github.io/node-blueconfig",
+  "bluematter": "bluematterin.github.io/pubdev-verification",
   "blurple": "blurplejs.github.io/docs",
   "bo": "lfb.github.io/bojs",
   "boats": "discordboats.github.io",
