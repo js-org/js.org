@@ -3114,6 +3114,7 @@ var cnames_active = {
   "tclock": "treeentertainment.github.io/tclock",
   "tdhandler": "hosting.gitbook.com",
   "tead": "teadjs.github.io",
+  "teamspeak": "teamspeakjs.github.io/teamspeak.js.org",
   "tech-human-id": "abhisekp.github.io/tech-human-id",
   "techthinker": "tech-thinker.github.io",
   "techxuexi": "techxuexi.netlify.app",
