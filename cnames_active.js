@@ -1342,6 +1342,7 @@ var cnames_active = {
   "harry": "harry-yep.github.io",
   "hashchat": "hashchat-js.netlify.app",
   "hashjump": "fivefifteen.github.io/hashjump",
+  "hashfs": "defucc.github.io/hashfs",
   "hasura-om": "mrspartak.github.io/hasura-om",
   "hay": "hayjs.github.io/hay.js.org",
   "hbase": "adaltas.github.io/node-hbase-docs",
