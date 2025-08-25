@@ -51,7 +51,7 @@ var cnames_active = {
   "23chemistrycamp": "nchuchemistry.github.io/23chemistrycamp",
   "2tube": "you2php.github.io/you2php",
   "30dayjavascript": "30dayjavascript.netlify.app",
-  "360": "360daili.github.io/360daili",
+   "360": "360daili.github.io/360daili",
   "3d-go": "3d-go.netlify.app",
   "404": "licshee.github.io/404",
   "766": "766.github.io",
@@ -1666,6 +1666,7 @@ var cnames_active = {
   "kunal": "kunalghosh02.github.io",
   "kunkun": "smallkunkun.github.io",
   "kyoto": "kyotojs.github.io",
+   "kyz-uzatuu-begimai": "https://arsenmirlanov05-ux.github.io",
   "l2dwidget": "xiazeyu.github.io/live2d-widget.js-doc",
   "lab": "labjs.netlify.app",
   "labelauty": "fntneves.github.io/jquery-labelauty", // noCF? (don´t add this in a new PR)
