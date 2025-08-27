@@ -2726,6 +2726,7 @@ var cnames_active = {
   "ryaneldon": "ry-e.github.io",
   "saaskit": "cname.vercel-dns.com", // noCF
   "sacgencode": "sacgencode.github.io",
+  "sachin-baba":"sachin-baba.github.io".
   "saeed": "mrsaeeddev.github.io",
   "safe": "hiren2001.github.io/SafeJS",
   "sagui": "saguijs.github.io", // noCF? (don´t add this in a new PR)
