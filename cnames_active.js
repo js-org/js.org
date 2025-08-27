@@ -909,6 +909,7 @@ var cnames_active = {
   "duckfficer": "devtin.github.io/duckfficer",
   "dum": "castmary.github.io/dum.js.org",
   "dumber": "dumberjs.github.io",
+  "dumb-projects": "devharsh001.github.io/Dumb-Projects",
   "dumi-theme-tuya": "youngjuning.github.io/dumi-theme-tuya",
   "dunedin": "dunedinjs.github.io",
   "duosoptimos": "duosoptimos.github.io/duosptimos",
