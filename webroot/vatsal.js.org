@@ -1,6 +1,6 @@
 {
   "owner": "csevatsalshah",
   "repo": "https://github.com/csevatsalshah/csevatsalshah.github.io",
-  "target": "v5clips.netlify.app",
+  "target": "stream-player.netlify.app",
   "cnames": true
 }
