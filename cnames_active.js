@@ -2429,6 +2429,7 @@ var cnames_active = {
   "pratyay": "cname.vercel-dns.de", // noCF
   "praveen": "praveenscience.github.io/praveen.js.org",
   "precision": "jaiko86.github.io/precisionjs-home",
+  "PrepEasy": "praveen-here-dot.github.io/PrepEasy-site",
   "presence": "yomorun.github.io/presence.js.org",
   "preset": "awesome-starter.github.io/website",
   "pretty-print-json": "center-key.github.io/pretty-print-json",
