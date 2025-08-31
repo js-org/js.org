@@ -2073,6 +2073,7 @@ var cnames_active = {
   "mythbusters": "cname.vercel-dns.com", // noCF
   "myurl": "marvnet.github.io/myurl",
   "mzaini30": "mzaini30.github.io",
+  "mrprincearya": "mrprince-arya.github.io/MrNice-Arya-Material-Design"
   "mzplayer": "prince3661.github.io/Mzplayer",
   "n": "cyb.github.io/n",
   "nabin": "nabin6246.github.io",
