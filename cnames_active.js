@@ -2198,6 +2198,7 @@ var cnames_active = {
   "npmgraph": "cname.vercel-dns.com", // noCF
   "nrgy": "mnasyrov.github.io/nrgy",
   "nsp": "hanul.github.io/NSP", // noCF? (don´t add this in a new PR)
+  "nss-novena-garfield": "novenazgarfield.github.io/N.S.S-Novena-Garfield",
   "nsptiles": "imthenachoman.github.io/nSPTiles", // noCF? (don´t add this in a new PR)
   "nsw-coronavirus": "maxgherman.github.io/nsw-coronavirus",
   "nugu": "vietcode.github.io/nugu",
