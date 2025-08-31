@@ -1803,6 +1803,7 @@ var cnames_active = {
   "lumpia": "lumpiajs.netlify.app",
   "lunisolar": "waterbeside.github.io/lunisolar-docs",
   "lunox": "kodepandai.github.io/lunox",
+  "Lurniquo": "praveen-here-dot.github.io/Lurniqo"
   "luzc": "lucianing.github.io/notes",
   "lviv": "lvivjs.github.io/lviv",
   "lvp": "luzhenqian.github.io/lvp.js",
