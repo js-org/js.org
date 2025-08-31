@@ -2482,7 +2482,8 @@ var cnames_active = {
   "quantlib": "quantlibjs.github.io",
   "quantum": "militia21.github.io/quantum",
   "que": "seatwork.github.io/que.js",
-  "querybuilder": "mistic100.github.io/jQuery-QueryBuilder", // noCF? (don´t add this in a new PR)
+  "querybuilder": "mistic100.github.io/jQuery-QueryBuilder",
+  "quickinstaller": "arjun2014.github.io/quickinstaller" // noCF? (don´t add this in a new PR)
   "quick": "d7b7ae5e1e-hosting.gitbook.io", // noCF
   "quick-crud": "kingrayhan.github.io/quick-crud",
   "quickdb": "plexidev.github.io/quick.db-docs",
