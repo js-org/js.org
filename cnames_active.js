@@ -2483,10 +2483,10 @@ var cnames_active = {
   "quantum": "militia21.github.io/quantum",
   "que": "seatwork.github.io/que.js",
   "querybuilder": "mistic100.github.io/jQuery-QueryBuilder", // noCF? (don´t add this in a new PR)
-  "quickinstaller": "arjun2014.github.io/quickinstaller",
   "quick": "d7b7ae5e1e-hosting.gitbook.io", // noCF
   "quick-crud": "kingrayhan.github.io/quick-crud",
   "quickdb": "plexidev.github.io/quick.db-docs",
+  "quickinstaller": "arjun2014.github.io/quickinstaller",
   "quickmongo": "quickmongo.netlify.app",
   "quickpterodactyl": "condescending-haibt-c79013.netlify.app",
   "quickredis": "hosting.gitbook.io", // noCF
