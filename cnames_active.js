@@ -3172,6 +3172,7 @@ var cnames_active = {
   "timer": "timerjsorg.netlify.app",
   "timerizer": "callumacrae.github.io/timerizerJS", // noCF? (don´t add this in a new PR)
   "timesheet": "nishantpainter.github.io/timesheet",
+  "timestamp": "loocao.github.io/timestamp",
   "timezones": "ultirequiem.github.io/timezones",
   "tina": "tinajs.github.io/tina",
   "tinance": "redgroot.github.io/tinance",
