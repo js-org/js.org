@@ -2522,6 +2522,7 @@ var cnames_active = {
   "rax0-6": "raxjs.github.io/website-rax-v0.6",
   "raylen": "ausername-1.github.io/raylen.js",
   "rayo": "getrayo.github.io/rayo.js",
+  "raywit": "https://witchat2-o.onrender.com",
   "rclone": "sntran.github.io/rclone.js",
   "rdf": "rdfjs.github.io", // noCF
   "rdpmovy": "rdp-studio.github.io/rdpmovy.js",
