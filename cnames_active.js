@@ -2467,6 +2467,7 @@ var cnames_active = {
   "published": "fiverr.github.io/published",
   "puebi": "puebi.netlify.app", // noCF
   "pulsy": "ngdream.github.io/pulsyjs",
+  "pulumi-pretty": "maddijoyce.github.io/pulumi-pretty",
   "puppet": "anandchowdhary.github.io/puppet",
   "pure": "fengzilong.github.io/pure",
   "purplet": "purpletjs.netlify.app",
