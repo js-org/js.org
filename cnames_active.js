@@ -199,6 +199,7 @@ var cnames_active = {
   "aoi": "aoijs.github.io/website",
   "aom": "scarych.github.io/aom",
   "aomex": "aomex.github.io",
+  "api.just": "js-just.github.io/raw-api", // noCF
   "apicluster": "ramsunvtech.github.io/apicluster", // noCF? (don´t add this in a new PR)
   "apilyertia": "apilyertia.github.io",
   "aping": "johnnythetank.github.io/apiNG", // noCF? (don´t add this in a new PR)
