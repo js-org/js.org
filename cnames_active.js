@@ -2446,6 +2446,7 @@ var cnames_active = {
   "projects-tracker": "iamdevlinph.github.io/projects-tracker",
   "promethium": "promethiumjs.github.io/docs", // noCF
   "pronouns": "cname.vercel-dns.com", // noCF
+  "pragyan": "cname.vercel-dns.com", // noCF
   "propresenter": "thewilloftheshadow.github.io/propresenter",
   "proteic": "proteus-h2020.github.io/proteic",
   "proto-message-helper": "rexskz.github.io/proto-message-helper",
