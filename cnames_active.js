@@ -2021,6 +2021,7 @@ var cnames_active = {
   "moloko": "molokojs.netlify.app",
   "molti": "moltijs.github.io/molti",
   "mom": "momjs.github.io/mom",
+  "momentlabs": "mig-Rwa/portfolio-photography-nu.vercel.app"
   "momentum": "wemakeweb.github.io/momentum", // noCF? (don´t add this in a new PR)
   "monaco-tailwindcss": "monaco-tailwindcss.netlify.app",
   "monaco-unified": "monaco-unified.netlify.app",
