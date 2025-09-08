@@ -2393,6 +2393,7 @@ var cnames_active = {
   "player": "player.netlify.app",
   "playjs": "hunghg255.github.io/playjs",
   "pliers": "pliersjs.github.io", // noCF? (don´t add this in a new PR)
+  "pliplupp": "epicwappy20.github.io/pliplupp",
   "plotyxd": "plotyxd.github.io",
   "plumier": "plumier.github.io",
   "pnpm": "pnpm.github.io",
