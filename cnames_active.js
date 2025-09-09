@@ -1078,6 +1078,7 @@ var cnames_active = {
   "farzad": "wikiweb.github.io/farzad",
   "fast-ease": "caracal7.github.io/fast-ease",
   "fasteer": "fasteerjs.github.io",
+  "fatih": "fatih5252.github.io",
   "faux": "fauxos.github.io",
   "fcanvas": "fcanvas.github.io/docs",
   "fcbosque": "cronopio.github.io/fcbosque", // noCF? (don´t add this in a new PR)
