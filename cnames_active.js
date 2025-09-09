@@ -1418,6 +1418,7 @@ var cnames_active = {
   "hyf": "yafey.github.io",
   "hymity": "sarveshmrao.github.io/hymity",
   "hyperdrive": "hyperdrivejs.github.io",
+  "hylexcrypt": "TwinCiphers.github.io/HylexCrypt-TU2050",
   "hyperform": "hyperform.github.io",
   "hyperhtml-styleguide": "albertosantini.github.io/hyperhtml-styleguide", // noCF
   "hypixel": "hypixelts.netlify.app",
