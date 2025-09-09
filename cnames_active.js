@@ -593,6 +593,7 @@ var cnames_active = {
   "common-utils": "common-utils.netlify.app",
   "common-utils-pkg": "iamdevlinph.github.io/common-utils-pkg",
   "composedb": "ceramicstudio.github.io/js-composedb",
+  "composite": "compositejs.github.io",
   "compoundinterest": "nategiraudeau.github.io/compound-interest-calculator",
   "comptime": "feathers-studio.github.io/comptime.ts",
   "computed": "krmax44.github.io/rollup-plugin-computed",
@@ -717,6 +718,7 @@ var cnames_active = {
   "dataenv": "pgamerx.github.io/dataenv",
   "dataflux": "massimocandela.github.io/dataflux",
   "datamanager": "jvdesign-dev.github.io/datamanager.js",
+  "datasense": "github.com/compositejs/datasense",
   "datastream": "willfarrell.github.io/datastream",
   "datastructures": "deadcoder0904.github.io/datastructures",
   "date": "matthewmueller.github.io/date", // noCF? (don´t add this in a new PR)
@@ -1378,6 +1380,7 @@ var cnames_active = {
   "hiren": "hiren2001.github.io/hiren.js.org",
   "hiteshsubnani": "hiteshsubnani0128.github.io/hiteshsubnani",
   "hiven": "hivenapp.github.io/hiven.js",
+  "hje": "github.com/compositejs/hje",
   "hk": "akura-co.github.io/hk", // noCF? (don´t add this in a new PR)
   "hltvbot": "nescabir.github.io/HLTVBot",
   "hmsscioly": "scioly.netlify.app",
@@ -1684,6 +1687,7 @@ var cnames_active = {
   "landrielportafolio": "arielandriel30.github.io/landrielportafolio",
   "landroid": "lll69.github.io/landroid-web",
   "lang": "iso-639.github.io/language-code",
+  "langpack": "github.com/compositejs/langpack",
   "languages": "rsamaium.github.io/Languages",
   "lanye": "lanye.github.io",
   "larastrator": "the94air.github.io/larastrator",
