@@ -899,6 +899,7 @@ var cnames_active = {
   "dream": "joeleeofficial.github.io/dream",
   "dreamland": "mercuryworkshop.github.io/dreamland-website",
   "dreamlo": "jmheartley.github.io/dreamlo.js",
+  "dressed": "cname.vercel-dns.com", // noCF
   "dreygur": "dreygur.github.io",
   "drop": "dt-is-not-available.github.io/drop",
   "drr": "xyligan-gp.github.io/discord-reactions-roles",
