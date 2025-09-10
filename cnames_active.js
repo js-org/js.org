@@ -1685,6 +1685,7 @@ var cnames_active = {
   "landrielportafolio": "arielandriel30.github.io/landrielportafolio",
   "landroid": "lll69.github.io/landroid-web",
   "lang": "iso-639.github.io/language-code",
+  "langpack": "compositejs.github.io/langpack",
   "languages": "rsamaium.github.io/Languages",
   "lanye": "lanye.github.io",
   "larastrator": "the94air.github.io/larastrator",
