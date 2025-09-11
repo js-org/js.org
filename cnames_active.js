@@ -3622,7 +3622,7 @@ var cnames_active = {
   "zykj": "cname.vercel-dns.com", // noCF
   "zyx": "zyx.alwaysdata.net",
   "zyy": "zyyou.github.io/notes"
-  "keyliahub": "keyliahub.github.io/keylia",
+ 
 
   /*
    * please don't add your subdomain records down here!
