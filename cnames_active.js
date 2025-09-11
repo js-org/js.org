@@ -718,6 +718,7 @@ var cnames_active = {
   "dataenv": "pgamerx.github.io/dataenv",
   "dataflux": "massimocandela.github.io/dataflux",
   "datamanager": "jvdesign-dev.github.io/datamanager.js",
+  "datasense": "compositejs.github.io/datasense",
   "datastream": "willfarrell.github.io/datastream",
   "datastructures": "deadcoder0904.github.io/datastructures",
   "date": "matthewmueller.github.io/date", // noCF? (don´t add this in a new PR)
