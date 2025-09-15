@@ -502,6 +502,7 @@ var cnames_active = {
   "cennznet": "cennznet.github.io/cennznet-ui",
   "ceruttimaicon": "ceruttimaicon.github.io",
   "ceyhun": "ceyhunmelek.github.io/ceyhun",
+  "cfc": "https://cfc-snowy.vercel.app",
   "cgoatone": "cgoatone.github.io",
   "chain-able": "fluents.github.io/chain-able-site",
   "chainson": "abcdan.github.io/chainson",
