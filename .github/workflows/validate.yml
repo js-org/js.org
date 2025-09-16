@@ -1,4 +1,4 @@
-name: Validate cnames_active.js
+name: Validate
 
 on:
   push:
@@ -7,12 +7,17 @@ on:
   pull_request:
     branches:
       - master
+    types:
+      - opened
+      - reopened
+      - edited
+      - synchronize
 
 permissions:
   contents: read
 
 jobs:
-  validate:
+  validate-cnames:
     runs-on: ubuntu-latest
 
     env:
@@ -41,3 +46,41 @@ jobs:
       - name: Validate cnames_active.js
         run: node index.js --validate ../cnames_active.js
         working-directory: cleanup
+
+  validate-pr-template:
+    if: github.event_name == 'pull_request'
+
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Validate PR template
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const body = context.payload.pull_request.body || "";
+
+            // 1. Check both checkboxes
+            const checkbox1 = /\[x\].*?There is reasonable content/i.test(body);
+            const checkbox2 = /\[x\].*?I have read and accepted/i.test(body);
+
+            // 2. URL must be on the exact "The site content can be seen at ..." line
+            // https://regex101.com/r/N36fsT
+            const urlLineRegex = /^[ \t]*-[ \t]*The site content can be seen at[ \t]+(?:<)?(?:\[.*?\]\()?https?:\/\/[^\s>()]+(?:\))?(?:>)?/m;
+            const urlMatch = urlLineRegex.exec(body);
+            const urlValid = urlMatch !== null;
+
+            // 3. Explanation must follow the blockquote marker
+            const explanationMatch = />\s*The site content is(?:\s*|\s*\n)(.+)/i.exec(body);
+            const explanation = explanationMatch && explanationMatch[1].trim().length > 10;
+
+            if (!checkbox1 || !checkbox2 || !urlValid || !explanation) {
+              core.setFailed(
+                "❌ PR template is not properly filled:\n" +
+                `Checkbox1: ${checkbox1 ? '✅' : '❌'}\n` +
+                `Checkbox2: ${checkbox2 ? '✅' : '❌'}\n` +
+                `URL on correct line: ${urlValid ? '✅' : '❌'}\n` +
+                `Explanation: ${explanation ? '✅' : '❌'}`
+              );
+            } else {
+              console.log("✅ PR template format is valid.");
+            }
