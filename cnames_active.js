@@ -473,7 +473,7 @@ var cnames_active = {
   "capjs": "tiagorangel1.github.io/cap",
   "capsid": "capsidjs.github.io/capsid",
   "capsule": "capsule-js-org.github.io/capsule",
-  "captcha": "https://wowcaptcha.netlify.app/",
+  "captcha": "wowcaptcha.netlify.app/",
   "captcha-canvas": "shashank3736.github.io/captcha-canvas",
   "car": "pakastin.github.io/car",
   "carakan": "masnormen.github.io/carakanjs",
