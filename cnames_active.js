@@ -1119,7 +1119,7 @@ var cnames_active = {
   "eye": "arguiot.github.io/EyeJS",
   "f1": "marinofranz.github.io/f1.ts",
   "faceapp": "negarang.github.io/face-app",
-  "facebook": "facebook-js-sdk.vercel.app",
+  "facebook": "cname.vercel-dns.com", // noCF
   "facepalm": "santiagogil.github.io/facepalm",
   "facreative": "facreative.github.io",
   "fairy": "fairymeee.github.io",
