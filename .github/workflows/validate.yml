@@ -64,7 +64,8 @@ jobs:
             const checkbox2 = /\[x\].*?I have read and accepted/i.test(body);
 
             // 2. URL must be on the exact "The site content can be seen at ..." line
-            const urlLineRegex = /^[ \t]*-[ \t]*The site content can be seen at[ \t]+(https?:\/\/[^\s]+)/m;
+            // https://regex101.com/r/N36fsT
+            const urlLineRegex = /^[ \t]*-[ \t]*The site content can be seen at[ \t]+(?:<)?(?:\[.*?\]\()?https?:\/\/[^\s>()]+(?:\))?(?:>)?/m;
             const urlMatch = urlLineRegex.exec(body);
             const urlValid = urlMatch !== null;
 
