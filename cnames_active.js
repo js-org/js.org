@@ -3412,6 +3412,7 @@ var cnames_active = {
   "vitery": "viteryjs.github.io/vitery",
   "viteshell": "henryhale.github.io/viteshell",
   "vitestory": "melishev.github.io/vitestory",
+  "vite-plugin-readable-classnames": "teplostanski.github.io/vite-plugin-readable-classnames",
   "vk-x": "vk-x.github.io",
   "vlite": "vlitejs.github.io",
   "vlr": "vlrjs.github.io/website",
