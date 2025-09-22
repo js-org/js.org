@@ -3603,6 +3603,7 @@ var cnames_active = {
   "yuuka": "yuukajs.github.io/docs",
   "yuye": "cyea.github.io",
   "yvm": "tophat.github.io/yvm",
+  "zafeer": "portfolio-phi-one-18.vercel.app/",
   "zaimu": "zaimu.netlify.app", // noCF
   "zaporizhzhia": "zaporizhzhiajs.github.io",
   "zare": "ismailbinmujeeb.github.io/zare",
