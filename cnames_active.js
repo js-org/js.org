@@ -2436,6 +2436,7 @@ var cnames_active = {
   "pp": "promptpay.github.io",
   "pplayer": "m4tec.github.io/PenguinPlayer",
   "pptx": "meshesha.github.io/jspptxjs.github.io",
+  "pg": "elaborate-babka-cee6c1.netlify.app",
   "pranab": "pranabdas.github.io/pranab",
   "pranshuchittora": "pranshuchittora.github.io",
   "pratyay": "cname.vercel-dns.de", // noCF
