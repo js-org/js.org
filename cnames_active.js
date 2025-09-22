@@ -1365,6 +1365,7 @@ var cnames_active = {
   "helma": "antville.github.io/helma",
   "helpers4": "helpers4.github.io",
   "helpful": "togatech.github.io/helpful.js",
+  "help4help": "b1b78d9ba11434fa.vercel-dns-017.com",
   "hepsiburada": "berkaltiok.github.io/hepsiburada",
   "hereby": "jakebailey.github.io/hereby",
   "heroku": "gary50613.github.io/herokuapi.js",
