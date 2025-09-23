@@ -3451,6 +3451,7 @@ var cnames_active = {
   "vue-showdown": "vue-showdown.netlify.app",
   "vue-svg-loader": "vue-svg-loader.netlify.app",
   "vue-tiny-validate": "vue-tiny-validate.netlify.app",
+  'valodokagames': 'valodokagames.github.io', // This is the new line!
   "vue-treeselect": "riophae.github.io/vue-treeselect",
   "vue-utterances": "glitch.edgeapp.net",
   "vuejsindy": "vuejsindy.github.io",
