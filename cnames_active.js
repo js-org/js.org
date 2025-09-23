@@ -3583,6 +3583,7 @@ var cnames_active = {
   "yan": "yvesyc.github.io/yan-js-org",
   "yana": "lukasbach.github.io/yana-homepage",
   "yargs": "yargs.github.io", // noCF? (don´t add this in a new PR)
+  "yasin": "cname.vercel-dns.com",
   "yay-machine": "maurice.github.io/yay-machine",
   "yennj12": "yennanliu.github.io",
   "yh": "hksat.github.io",
