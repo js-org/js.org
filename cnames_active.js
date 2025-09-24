@@ -3629,7 +3629,7 @@ var cnames_active = {
   "zykj": "cname.vercel-dns.com", // noCF
   "zyx": "zyx.alwaysdata.net",
   "zyy": "zyyou.github.io/notes"
-  /*
+   github.com/nxnthx478/garant_site
    * please don't add your subdomain records down here!
    * insert them in alphabetical order to help reduce merge conflicts.
    * <3
