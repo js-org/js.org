@@ -743,6 +743,7 @@ var cnames_active = {
   "deck-of-cards": "pakastin.github.io/deck-of-cards",
   "declarativ": "fennifith.github.io/declarativ", // noCF
   "deep-mandelbrot": "munsocket.github.io/deep-mandelbrot",
+  "deepaksingh": "iamdeepaksingh.github.io/deepaksingh.github.io",
   "deepcodes": "deepduggal.github.io/deepcodes",
   "deepintr": "deepintr.github.io",
   "deepkit-graphql": "cname.vercel-dns.com", // noCF
