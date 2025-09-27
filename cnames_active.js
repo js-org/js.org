@@ -3221,6 +3221,7 @@ var cnames_active = {
   "transposer": "francesco-dipi.github.io/transposer",
   "tree-cli": "yangshun.github.io/tree-node-cli",
   "trestle": "whiskeedev.github.io/trestle",
+  "triangle": "aktomik.github.io/triangleOS",
   "trier": "creimers.github.io/trier",
   "trilogy": "trilogy.netlify.app", // noCF
   "trivia": "gubareve.github.io/triviabot-docs",
