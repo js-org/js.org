@@ -3587,6 +3587,7 @@ var cnames_active = {
   "yana": "lukasbach.github.io/yana-homepage",
   "yargs": "yargs.github.io", // noCF? (don´t add this in a new PR)
   "yay-machine": "maurice.github.io/yay-machine",
+  "ydb": "ydb-platform.github.io/ydb-js-sdk",
   "yennj12": "yennanliu.github.io",
   "yh": "hksat.github.io",
   "yiff": "codepupper.github.io/yiff",
