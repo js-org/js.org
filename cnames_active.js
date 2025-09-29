@@ -2765,7 +2765,7 @@ var cnames_active = {
   "sanddance": "danmarshall.github.io/SandDance",
   "sandeepkhandewale": "learner1024.github.io",
   "sandmine": "spreehertz.github.io/Sandmine.js",
-  "sanjay": "sanjay282007.github.io",
+  "sanjay": "sanjay282007.github.io/Portfolio",
   "saso": "huruji.github.io/saso",
   "sass": "medialize.github.io/playground.sass.js", // noCF? (don´t add this in a new PR)
   "saulosantiago": "saulosilva.github.io", // noCF? (don´t add this in a new PR)
