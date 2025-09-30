@@ -2891,7 +2891,7 @@ var cnames_active = {
   "skeld": "skeldjs.github.io/SkeldJS",
   "skeptical-coder": "rbpinheiro.github.io/skeptical-coder",
   "sketch": "keiww.github.io/sketch",
-  "skiyee": "skiyee-ui.netlify.app",
+  "skiyee": "netlify-cname.xingpingcn.top", // noCF
   "skratch": "websyncs.github.io/skratch",
   "sksamim": "esksamim.github.io/sksamim",
   "skyle": "skylejs.github.io/skyle",
