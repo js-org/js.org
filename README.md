@@ -54,6 +54,8 @@ As above with adding a subdomain to a GitHub Pages site, the final step is to ma
 
 ---
 
+## Content Requirements
+
 > [!IMPORTANT]
 > Please be aware that there are some rules that apply to website content hosted on JS.ORG subdomains:
 >
