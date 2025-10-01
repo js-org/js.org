@@ -2867,6 +2867,7 @@ var cnames_active = {
   "simonhans": "simonhans.github.io",
   "simpldb": "hosting.gitbook.io", // noCF
   "simple": "lescinskiscom.github.io/simple-js",
+  "simple-life": "simple-life.onrender.com",
   "simple-pip": "frogweezer.github.io/simple-pip",
   "simplecounter": "tomkiernan120.github.io/simplecounter",
   "simplecrypto": "danang-id.github.io/simple-crypto-js",
