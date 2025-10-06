@@ -3043,6 +3043,7 @@ var cnames_active = {
   "storage": "uzitech.github.io/storage.js",
   "storelocator": "storelocatorjs.github.io",
   "storybook": "apex-loadbalancer.netlify.app", // noCF
+  "storybooker": "guptasiddhant.github.io/storybooker",
   "storybooks": "storybooks.github.io",
   "stpcloud": "stoeaves.github.io/StpCloud",
   "str": "manelet.github.io/str",
