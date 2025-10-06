@@ -138,6 +138,7 @@ var cnames_active = {
   "akase": "cedmax.github.io/akase", // noCF? (don´t add this in a new PR)
   "akhyar": "akhyar.pages.dev",
   "aksara": "sajenid.github.io/aksara.js",
+  "aksharamukha": "paramsiddharth.github.io",
   "akte": "akte.netlify.app",
   "alasql": "alasql.github.io", // noCF? (don´t add this in a new PR)
   "alastor": "aidenybai.github.io/alastor",
