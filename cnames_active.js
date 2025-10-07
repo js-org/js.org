@@ -598,7 +598,7 @@ var cnames_active = {
   "common-utils": "common-utils.netlify.app",
   "common-utils-pkg": "iamdevlinph.github.io/common-utils-pkg",
   "composedb": "ceramicstudio.github.io/js-composedb",
-  "composify" : "composify-js.github.io/composify",
+  "composify": "composify-js.github.io/composify",
   "composite": "compositejs.github.io",
   "compoundinterest": "nategiraudeau.github.io/compound-interest-calculator",
   "comptime": "feathers-studio.github.io/comptime.ts",
