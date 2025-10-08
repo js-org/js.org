@@ -1087,6 +1087,7 @@ var cnames_active = {
   "farfetch": "websitebeaver.github.io/far-fetch",
   "farfetchd": "achannarasappa.github.io/farfetchd", // noCF? (don´t add this in a new PR)
   "farhan": "bloghugo.github.io",
+  "farhan": "bloghugo.github.io/jekyllBear",
   "farzad": "wikiweb.github.io/farzad",
   "fast-ease": "caracal7.github.io/fast-ease",
   "fasteer": "fasteerjs.github.io",
