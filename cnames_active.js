@@ -1635,6 +1635,7 @@ var cnames_active = {
   "keyvhq": "microlinkhq.github.io/keyvhq",
   "keyvify": "zyrouge.github.io/Keyvify",
   "kilobyte": "kilobytehq.github.io/open-js",
+  "kidneysync": "kidneysync.github.io/KidneySync"
   "kilvin": "rofrischmann.github.io/kilvin",
   "kim": "khareemnurulla.github.io/kim",
   "kimera": "ultirequiem.github.io/kimera",
