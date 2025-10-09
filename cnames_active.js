@@ -2223,6 +2223,7 @@ var cnames_active = {
   "null": "false.netlify.app",
   "nullscript": "nullscript-lang.github.io/docs",
   "num2words": "mcnagynorbi.github.io/num2words",
+  "numerica": "alyshukry.github.io/numerica",
   "numtoword-cli": "infysumanta.github.io/numtoword-cli",
   "nut": "nut-project.netlify.app",
   "nuxt-fluent-bootstrap": "disjfa.github.io/nuxt-fluent-bootstrap",
