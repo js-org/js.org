@@ -252,6 +252,7 @@ var cnames_active = {
   "async-selector-kit": "humflelump.github.io/async-selector-kit",
   "atavic": "atavic.github.io",
   "atenas": "atenasjs.netlify.app",
+  "atdx": "farhanblog.github.io/atdx",
   "athena": "athena-js.github.io/athena",
   "athome": "simon300000.github.io/athome",
   "atombundles": "lirantal.github.io/atombundles",
