@@ -1870,6 +1870,7 @@ var cnames_active = {
   "mariateresazamoragomez": "josecarloszamoragomez.github.io/Maria-Teresa-Zamora-G-mez",
   "maridreycupcakes": "danyflores.github.io/MariDrey-CupCakes",
   "marie": "marie-js.github.io/MARIE.js",
+  "mario-calc": "mario-calc.github.io/mario-calc",
   "mark": "henry-luo.github.io/mark",
   "markbox": "markbox.netlify.app",
   "markdown-html": "pj-568.github.io/MARKDOWN.HTML",
