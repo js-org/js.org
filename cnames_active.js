@@ -3404,6 +3404,7 @@ var cnames_active = {
   "vendywira": "vendywira.github.io",
   "vento": "ventojs.github.io/vento",
   "venture": "cname.vercel-dns.com", // noCF
+  "verify-bitcoin-message": "mothepro.github.io/verify-bitcoin-message",
   "verifyr": "arze1.github.io/verifyr-site",
   "verse": "druidic.github.io/verse",
   "vesselize": "vesselize.github.io/docs",
