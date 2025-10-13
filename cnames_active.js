@@ -1163,6 +1163,7 @@ var cnames_active = {
   "foxman": "kaola-fed.github.io/foxman",
   "foxochat": "foxogram-js.pages.dev",
   "fp": "iotcat.github.io/fp",
+  "fr0stb1rd": "fr0stb1rd.pages.dev",
   "fr.single-spa": "single-spa.github.io/fr.single-spa.js.org", // noCF
   "frame-depth": "nwong212.github.io/frame-wizard",
   "framelet": "potatoland4492.github.io/Framelet",
