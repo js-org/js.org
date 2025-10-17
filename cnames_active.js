@@ -358,11 +358,11 @@ var cnames_active = {
   "bingo": "thewilloftheshadow.github.io/bingo.js",
   "bingsu": "bingsu-js.gitlab.io",
   "bingus": "bingusjs.github.io",
+  "bini": "binidu01.github.io/bini",
   "bip39-recast": "imcotton.github.io/at-key-bip39-recast", // noCF
   "birb": "birbjs.github.io/Documentation",
   "biscord": "vinzerr.github.io/biscord-website",
   "biu": "aprilorange.github.io/biu", // noCF? (don´t add this in a new PR)
-  "bini": "binidu01.github.io/bini",
   "bkk": "rayriffy.github.io/bkk",
   "blazeb2": "blazeb2.github.io",
   "blego": "mattstypa.github.io/blego.js.org",
