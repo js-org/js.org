@@ -1892,6 +1892,7 @@ var cnames_active = {
   "massroom": "massroom.github.io",
   "master-portfolio": "vimalverma558.github.io/Master-Portfolio",
   "mate": "theinternetfolks.github.io/mate",
+  "materialis": "hexo-theme-materialis-demo.vercel.app",
   "materialish": "jamesplease.github.io/materialish",
   "materialize-bootbox": "iqbalfn.github.io/materialize-bootbox",
   "mathflow": "mathflowjs.github.io",
