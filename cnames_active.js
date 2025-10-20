@@ -1060,6 +1060,7 @@ var cnames_active = {
   "excmd": "elliottcable.github.io/excmd.js",
   "executor": "executor.netlify.app",
   "exeform": "hosting.gitbook.com", // noCF
+  "exhost": ["146.59.72.76", "95.168.92.124"],
   "exome": "exome.pages.dev", // noCF
   "exp": "magicops.github.io/JQuery-expression-builder",
   "express-kun": "hanipcode.github.io/express-kun",
@@ -3653,6 +3654,7 @@ var cnames_active = {
   "zykj": "cname.vercel-dns.com", // noCF
   "zyx": "zyx.alwaysdata.net",
   "zyy": "zyyou.github.io/notes"
+  
   /*
    * please don't add your subdomain records down here!
    * insert them in alphabetical order to help reduce merge conflicts.
