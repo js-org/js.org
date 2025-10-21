@@ -2055,6 +2055,7 @@ var cnames_active = {
   "morocco": "moroccojs.github.io",
   "morse": "the-silver-project.github.io/morse",
   "mosaic": "tilework.github.io/mosaic.js.org",
+  "mostage": "mirmousaviii.github.io/mostage-editor",
   "motion-live": "cname.vercel-dns.com", // noCF
   "mp": "cncdn.github.io",
   "mp3tag": "eidoriantan.github.io/mp3tag.js",
