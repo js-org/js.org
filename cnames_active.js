@@ -798,7 +798,7 @@ var cnames_active = {
   "dipole": "zheksoon.github.io/dipole",
   "discm": "cname.vercel-dns.com", // noCF
   "discmds": "whitecluegaming.github.io/discmds",
-  "discord": "cname.vercel-dns.com", // noCF
+  "discord": "discordjs-website.crawlgg.workers.dev",
   "discord-achievements": "shadowplay1.github.io/da-docs",
   "discord-addons": "freiikdev.github.io/discord-addons",
   "discord-anti-spam": "michael-j-scofield.github.io/discord-anti-spam",
