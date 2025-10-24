@@ -2137,6 +2137,7 @@ var cnames_active = {
   "nestjs-toolkit": "globalartinc.github.io/nestjs-toolkit",
   "neteasecloudmusicapi": "w4ctech.github.io/NeteaseCloudMusicApi",
   "neteasecloudmusicapienhanced": "neteasecloudmusicapienhanced.github.io/api-enhanced",
+  "netvlyx": "brajesh2022.github.io/netvlyx",
   "neurax-api": "configneurax.netlify.app",
   "neureact": "kasmirawijayathunga.github.io/neureact",
   "neuro": "neurojs.netlify.app",
