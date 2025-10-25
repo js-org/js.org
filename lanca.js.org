@@ -1,0 +1,6 @@
+{
+  "owner": "kakashilancaster",
+  "repo": "LancaWeb",
+  "branch": "main",
+  "file": "/"
+}
