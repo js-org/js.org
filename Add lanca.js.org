@@ -1696,6 +1696,7 @@ var cnames_active = {
   "lad": "ladjs.github.io/lad",
   "lambda": "lambdajs.github.io", // noCF? (don´t add this in a new PR)
   "lan": "careteenl.github.io/lan",
+  "lanca": "kakashilancaster.github.io/LancaWeb",
   "lance": "lancepioch.com",
   "landrielportafolio": "arielandriel30.github.io/landrielportafolio",
   "landroid": "lll69.github.io/landroid-web",
