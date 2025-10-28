@@ -1,4 +1,4 @@
-/*
+"genai": "code-whisperer-news.lovable.app",/*
  ***** ACTIVE SUBDOMAINS
  * ***********************
  *
