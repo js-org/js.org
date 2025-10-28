@@ -1,4 +1,6 @@
-/*
+/*genai: {
+  CNAME: 'code-whisperer-news.lovable.app'
+},
  ***** ACTIVE SUBDOMAINS
  * ***********************
  *
