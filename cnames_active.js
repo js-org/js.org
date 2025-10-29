@@ -726,6 +726,7 @@ var cnames_active = {
   "dataenv": "pgamerx.github.io/dataenv",
   "dataflux": "massimocandela.github.io/dataflux",
   "datamanager": "jvdesign-dev.github.io/datamanager.js",
+  "datapack": "jacobwennebro.github.io/datapackjs",
   "datasense": "compositejs.github.io/datasense",
   "datastream": "willfarrell.github.io/datastream",
   "datastructures": "deadcoder0904.github.io/datastructures",
