@@ -2097,7 +2097,7 @@ var cnames_active = {
   "mysketch": "dipanshkhandelwal.github.io/MySketch",
   "mythbusters": "cname.vercel-dns.com", // noCF
   "myurl": "marvnet.github.io/myurl",
-  "lotobottg": "sliderts.github.io",
+  "blingo-bot": "suite-concerns-flood-advisory.trycloudflare.com",
   "mzaini30": "mzaini30.github.io",
   "mzplayer": "prince3661.github.io/Mzplayer",
   "n": "cyb.github.io/n",
