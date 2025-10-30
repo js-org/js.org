@@ -1847,6 +1847,7 @@ var cnames_active = {
   "madankumar": "jmadankumar.github.io",
   "madebyzen": "mzaini30.github.io/madebyzen",
   "madewithdativejs": "madewithdativejs.github.io",
+  "madvid": "madvid.js.org",
   "magickwand": "mmomtchev.github.io/magickwand.js",
   "magidoc": "magidoc-org.github.io/magidoc",
   "magnet": "magnetjs.github.io/Magnet", // noCF? (don´t add this in a new PR)
@@ -3656,7 +3657,6 @@ var cnames_active = {
   "zykj": "cname.vercel-dns.com", // noCF
   "zyx": "zyx.alwaysdata.net",
   "zyy": "zyyou.github.io/notes"
-  "madvid": "madvid.js.org"
   /*
    * please don't add your subdomain records down here!
    * insert them in alphabetical order to help reduce merge conflicts.
