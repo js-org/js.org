@@ -140,6 +140,7 @@ var cnames_active = {
   "aksara": "sajenid.github.io/aksara.js",
   "aksharamukha": "paramsiddharth.github.io/aksharamukha.js",
   "akte": "akte.netlify.app",
+  
   "alasql": "alasql.github.io", // noCF? (don´t add this in a new PR)
   "alastor": "aidenybai.github.io/alastor",
   "ale": "alecefe.github.io",
@@ -3189,6 +3190,7 @@ var cnames_active = {
   "thegrid": "antoniandre.github.io/grid",
   "thema": "themakit.github.io",
   "theme-next": "hexo-theme-next.netlify.app",
+  "theinditers": "inditers-website.pages.dev"
   "themoviedb": "chrisenytc.github.io/themoviedb", // noCF? (don´t add this in a new PR)
   "thenandnow": "devdavmen.github.io/then-and-now",
   "theorem": "arguiot.github.io/TheoremJS",
