@@ -2749,7 +2749,7 @@ var cnames_active = {
   "ru.redux-saga": "hosting.gitbook.com", // noCF
   "ru.single-spa": "single-spa.github.io/ru.single-spa.js.org", // noCF
   "rub": "rubo-21.github.io",
-  "rubidium": "love-kogasa.github.io",
+  "rubidium": "love-kogasa.github.io/Rubidium-NodeLoader",
   "ruhuman": "ruhuman.github.io", // noCF? (don´t add this in a new PR)
   "runtimex": "minecraftpublisher.github.io/RuntimeX",
   "runty": "nderscore.github.io/runty",
