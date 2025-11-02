@@ -419,6 +419,7 @@ var cnames_active = {
   "brotat": "mariobob.github.io/brotat-website",
   "browserless": "microlinkhq.github.io/browserless",
   "brum": "romantic-noyce-67d6ee.netlify.app",
+  "browse4extact": "browse4extract.github.io/b4e-website",
   "bs": "cname.vercel-dns.com", // noCF
   "bt": "mldonkey.github.io/bt",
   "bud": "roots-bud.netlify.app",
