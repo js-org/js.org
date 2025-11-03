@@ -599,6 +599,7 @@ var cnames_active = {
   "commitlint": "conventional-changelog.github.io/commitlint",
   "common-utils": "common-utils.netlify.app",
   "common-utils-pkg": "iamdevlinph.github.io/common-utils-pkg",
+  "compactr": "compactr.github.io",
   "composedb": "ceramicstudio.github.io/js-composedb",
   "composify": "composify-js.github.io/composify",
   "composite": "compositejs.github.io",
