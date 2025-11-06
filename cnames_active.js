@@ -115,6 +115,7 @@ var cnames_active = {
   "agentify": "agentify-js-org.github.io/pages",
   "agentnpm": "meetping.github.io/agentnpm",
   "agilecards": "otaklapka.github.io/agilecards",
+  "atagulgames": "ama07a.github.io/atagulshop",
   "agma": "uwynell.github.io/agma.js",
   "agrawalnaman": "agrawalnaman.github.io",
   "agrawalrohit": "rohit0803.github.io/agrawal.github.io",
