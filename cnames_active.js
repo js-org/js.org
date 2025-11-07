@@ -1776,7 +1776,7 @@ var cnames_active = {
   "link-styler": "sheikhoo.github.io/link-styler",
   "linkify": "hypercontext.github.io/linkifyjs",
   "linksharer": "linksharer.github.io/linksharer.js.org",
-  "lion": "ing-bank.github.io/lion/",
+  "lion": "ing-bank.github.io/lion",
   "lips": "jcubic.github.io/lips",
   "lipsum": "llxlr.github.io/lipsum.js",
   "liquid-ajax-cart": "evgeniymukhamedjanov.github.io/liquid-ajax-cart",
