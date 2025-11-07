@@ -915,6 +915,7 @@ var cnames_active = {
   "dreamlo": "jmheartley.github.io/dreamlo.js",
   "dressed": "cname.vercel-dns.com", // noCF
   "dreygur": "dreygur.github.io",
+  "driftingpixels": "https://driftingpixels.github.io/driftai/"
   "drop": "dt-is-not-available.github.io/drop",
   "drr": "xyligan-gp.github.io/discord-reactions-roles",
   "dthings": "hosting.gitbook.io", // noCF
