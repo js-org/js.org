@@ -2851,6 +2851,7 @@ var cnames_active = {
   "shandler": "hosting.gitbook.io", // noCF
   "sharding": "infinitytmbots.github.io/discord-hybrid-sharding",
   "share": "jeff-tian.github.io/weshare",
+  "sharda-fee": "sharda-university-fee-calculator.vercel.app",
   "sharec": "lamartire.github.io/sharec",
   "shareon": "shareon.kytta.codeberg.page", // noCF
   "sharingan": "techmonowar.github.io/sharingan",
