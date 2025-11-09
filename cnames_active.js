@@ -3666,4 +3666,10 @@ var cnames_active = {
    * insert them in alphabetical order to help reduce merge conflicts.
    * <3
    */
+  "safallya": {
+  "owner": "safallya",
+  "repo": "https://github.com/Safallya19/bgsmbangalore",
+  "branch": "master"
+}
+
 }
