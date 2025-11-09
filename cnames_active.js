@@ -2314,6 +2314,7 @@ var cnames_active = {
   "pagelike": "iamanishroy.github.io/pagelike",
   "pageobject": "clebert.github.io/pageobject",
   "pagetalk": "seatwork.github.io/pagetalk",
+  "Pageyanje": "ornoirbruce5-debug.github.io/Pageyanje",
   "pagination": "superraytin.github.io/paginationjs-site", // noCF
   "pagination-djs": "imranbarbhuiya.github.io/pagination.djs",
   "paint": "christianliebel.github.io/paint",
