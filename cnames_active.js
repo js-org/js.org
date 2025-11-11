@@ -3089,6 +3089,7 @@ var cnames_active = {
   "suman": "devsumanmdn.github.io",
   "summer": "minecraftpublisher.github.io/SummerJS",
   "sunar": "cname.vercel-dns.com", // noCF
+  "sunilkumar": "realsunil.github.io/sunilkumar",
   "sunos": "sunos22.github.io",
   "sunsistemo": "sunsistemo.github.io/sunsistemo",
   "supapi": "kacperkwapisz.github.io/supreme-api-rewritten",
