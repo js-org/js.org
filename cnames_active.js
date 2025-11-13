@@ -2201,6 +2201,7 @@ var cnames_active = {
   "noderize": "cretezy.github.io/noderize",
   "noflux": "hosting.gitbook.io", // noCF
   "nomic": "basicer.github.io/nomic.js-ui",
+  "nomini": "nonnorm.github.io/nomini",
   "noo": "uyouthe.github.io/noo",
   "noobscroll": "arguiot.github.io/NoobScroll",
   "nord": "anandchowdhary.github.io/nord.js",
