@@ -202,6 +202,7 @@ var cnames_active = {
   "aom": "scarych.github.io/aom",
   "aomex": "aomex.github.io",
   "api.just": "js-just.github.io/raw-api", // noCF
+  "api.snaplabs": "sl-api-v1.onrender.com", // noCF
   "apicluster": "ramsunvtech.github.io/apicluster", // noCF? (don´t add this in a new PR)
   "apilyertia": "apilyertia.github.io",
   "aping": "johnnythetank.github.io/apiNG", // noCF? (don´t add this in a new PR)
@@ -2938,7 +2939,6 @@ var cnames_active = {
   "smoove": "abemedia.github.io/jquery-smoove",
   "snail-ide": "snail-ide.github.io",
   "snake": "pakastin.github.io/snake",
-  "api.snaplabs": "sl-api-v1.onrender.com", // noCF
   "snaplabs": "cname.vercel-dns.com", // noCF
   "snapshot": "vishnupsatish.github.io/snapshot",
   "snekfetch": "devsnek.github.io/snekfetch",
