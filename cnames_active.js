@@ -445,6 +445,7 @@ var cnames_active = {
   "byteforge": "piscilus.github.io/byteforge",
   "byteform": "byteform.netlify.app",
   "bytemd": "bytemd.netlify.app",
+  "background": "background-0.netlify.app",
   "c": "cocobear.github.io",
   "c-3po": "ttag-org.github.io/c-3po",
   "c-installer": "llenax.github.io/c-installer",
