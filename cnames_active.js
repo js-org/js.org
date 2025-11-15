@@ -294,6 +294,7 @@ var cnames_active = {
   "azlyrics-ext": "zyrouge.github.io/azlyrics-ext",
   "azurapi": "azurapi.github.io/azurapi-js",
   "bachors": "bachors.github.io",
+  "background": "background-0.netlify.app",
   "backlog": "backlog-js.github.io/backlog.js.org", // noCF? (don´t add this in a new PR)
   "backstage": "backstagejs.github.io/backstage",
   "backupie": "cname.vercel-dns.com", // noCF
@@ -445,7 +446,6 @@ var cnames_active = {
   "byteforge": "piscilus.github.io/byteforge",
   "byteform": "byteform.netlify.app",
   "bytemd": "bytemd.netlify.app",
-  "background": "background-0.netlify.app",
   "c": "cocobear.github.io",
   "c-3po": "ttag-org.github.io/c-3po",
   "c-installer": "llenax.github.io/c-installer",
