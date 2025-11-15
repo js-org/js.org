@@ -1677,6 +1677,7 @@ var cnames_active = {
   "konsumer": "konsumer.github.io", // noCF? (don´t add this in a new PR)
   "koolclash": "sukkaw.github.io/Koolshare-Clash",
   "koot": "cmux.github.io/koot",
+  "koreanseal": "cname.vercel-dns.com", // noCF
   "kotori": "biyuehu.github.io/kotori-bot",
   "koutla-swiss": "leny.github.io/koutla-swiss",
   "kowalski": "k0walslk1.github.io",
