@@ -2393,6 +2393,7 @@ var cnames_active = {
   "picsim": "mazko.github.io/picsim.js",
   "pict-node": "gmaxlev.github.io/pict-node",
   "pidoc": "smapiot.github.io/pidoc",
+  "piexe": "apex-loadbalancer.netlify.app",
   "pig-game": "dhanushp.github.io/pig-game",
   "pigeon-maps": "pigeon-maps.netlify.app",
   "piii": "piiijs.github.io/piii.js.org",
