@@ -2148,6 +2148,7 @@ var cnames_active = {
   "neutralino": "neutralinojs.github.io",
   "newbyte": "newbytee.github.io/newbyte",
   "newcar": "newcar-docs.netlify.app",
+  "news": "https://nikovlod.github.io/news",
   "newton": "caracal7.github.io/newton.js",
   "newyear": "dndrbots.github.io/new_year_counter",
   "nexbase-core": "petrunov.github.io/nexbase-core",
