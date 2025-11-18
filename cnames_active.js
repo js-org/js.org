@@ -3656,6 +3656,7 @@ var cnames_active = {
   "zhangnew": "zhangnew.github.io",
   "zhaomenghuan": "zhaomenghuan.github.io",
   "zhd": "zhdmitry.github.io",
+  "zhin": "zhin.pages.dev",
   "zignis": "zhike-team.github.io/zignis",
   "ziphive": "cname.vercel-dns.com", // noCF
   "zizhujy": "jeff-tian.github.io/zizhujy",
@@ -3666,8 +3667,7 @@ var cnames_active = {
   "zyh": "zyh-chopper.github.io/zyh",
   "zykj": "cname.vercel-dns.com", // noCF
   "zyx": "zyx.alwaysdata.net",
-  "zyy": "zyyou.github.io/notes",
-  "zhin": "zhin.pages.dev"
+  "zyy": "zyyou.github.io/notes"
   /*
    * please don't add your subdomain records down here!
    * insert them in alphabetical order to help reduce merge conflicts.
