@@ -606,7 +606,7 @@ var cnames_active = {
   "composify": "composify-js.github.io/composify",
   "composite": "compositejs.github.io",
   "compoundinterest": "nategiraudeau.github.io/compound-interest-calculator",
-  "comptime": "feathers-studio.github.io/comptime.ts",
+  "comptime": "feathers-studio.github.io/comptime.ts", // noCF
   "computed": "krmax44.github.io/rollup-plugin-computed",
   "concursos": "mteyss.github.io/concursos", // noCF? (don´t add this in a new PR)
   "conductor": "hosting.gitbook.com",
