@@ -1067,6 +1067,7 @@ var cnames_active = {
   "exeform": "hosting.gitbook.com", // noCF
   "exome": "exome.pages.dev", // noCF
   "exp": "magicops.github.io/JQuery-expression-builder",
+  "expass": "expass.github.io/expass/",
   "express-kun": "hanipcode.github.io/express-kun",
   "expressad": "flweber.github.io/express-ad-basicauth",
   "expressdynamichelpers": "marvnet.github.io/express-dynamic-helpers-patch",
