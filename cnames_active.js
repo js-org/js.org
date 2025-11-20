@@ -1189,6 +1189,7 @@ var cnames_active = {
   "fronts": "unadlib.github.io/fronts",
   "frontsearch": "1d10t1c-stud10s.github.io/frontsearchjs",
   "frost": "cesiumlabs.github.io/frost",
+  "frostchicken": "atharvabulusu-creator.github.io/frostchicken",
   "frui": "ossphilippines.github.io/frui",
   "frzr": "pakastin.github.io/frzr",
   "fs-nextra": "bdistin.github.io/fs-nextra",
