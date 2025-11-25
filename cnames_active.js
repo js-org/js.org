@@ -2551,6 +2551,7 @@ var cnames_active = {
   "random-item": "ultirequiem.github.io/random_item",
   "random-machine": "officialpiyush.github.io/random-machine",
   "randomer": "kzacharski.github.io/randomer",
+  "randomseats": "randomseats-3rg.pages.dev", // High priority school project. JS usage is proven in source code (Ctrl+U). Please review by November 29th if possible. (Proof Repo: codemaster0524/RandomSeats)
   "rangeslider": "andreruffert.github.io/rangeslider.js", // noCF? (don´t add this in a new PR)
   "ranmess": "ultirequiem.github.io/ranmess",
   "rasti": "8tentaculos.github.io/rasti",
