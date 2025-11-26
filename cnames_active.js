@@ -1052,7 +1052,6 @@ var cnames_active = {
   "ethavatar": "filips123.github.io/EthAvatar.JS",
   "euc": "wnda.github.io/euc",
   "euclid": "anandthakker.github.io/euclid", // noCF? (don´t add this in a new PR)
-  "eunsunglee": "html-hub.pages.dev", // Project Hub / Portfolio for sub-projects (e.g., eunsunglee.js.org/calendar).
   "eva": "eva-engine.github.io",
   "eval": "jshawl.github.io/eval", // noCF? (don´t add this in a new PR)
   "event-storage": "albe.github.io/node-event-storage",
@@ -2552,7 +2551,7 @@ var cnames_active = {
   "random-item": "ultirequiem.github.io/random_item",
   "random-machine": "officialpiyush.github.io/random-machine",
   "randomer": "kzacharski.github.io/randomer",
-  "randomseats": "randomseats-3rg.pages.dev", // High priority school project. JS usage is proven in source code (Ctrl+U). Please review by November 29th if possible. (Proof Repo: codemaster0524/RandomSeats)
+  "randomseats": "randomseats-3rg.pages.dev", // High priority school project. Pure JS usage is proven (Ctrl+U). Used for educational purposes in multiple classes.
   "rangeslider": "andreruffert.github.io/rangeslider.js", // noCF? (don´t add this in a new PR)
   "ranmess": "ultirequiem.github.io/ranmess",
   "rasti": "8tentaculos.github.io/rasti",
