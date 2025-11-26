@@ -575,6 +575,7 @@ var cnames_active = {
   "cobalt-kit": "bernzrdo.github.io/cobalt-kit",
   "cocy": "krmax44.github.io/cocy",
   "code-tour": "code-tour.netlify.app",
+  "codeberry": "codeberry-compressor.vercel.app",
   "codebooky": "hiteshsubnani0128.github.io/codebooky",
   "codemade": "codemade.github.io", // noCF? (don´t add this in a new PR)
   "codemirror-languageservice": "codemirror-languageservice.netlify.app",
