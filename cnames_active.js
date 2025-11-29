@@ -2868,6 +2868,7 @@ var cnames_active = {
   "shell": "adaltas.github.io/node-shell",
   "sheweny": "sheweny.github.io/framework",
   "shex": "shexjs.github.io/shex.js",
+  "shift": "https://shift-wasm.pages.dev/",
   "shikwasa": "jessuni.github.io/shikwasa",
   "shilong": "echoheim.github.io/shilong",
   "shine": "shinenelson.github.io/shine.js.org",
