@@ -2274,7 +2274,7 @@ var cnames_active = {
   "omer": "omeroot.github.io", // noCF? (don´t add this in a new PR)
   "omg": "pengjiyuan.github.io/omg",
   "omid": "omidnikrah.github.io/omid",
-  "onebots":"lc-cn.github.io/onebots",
+  "onebots": "lc-cn.github.io/onebots",
   "omniutils": "cname.vercel-dns.com", // noCF
   "ongaku": "anshuman-verma.github.io/ongaku",
   "onii": "oniijs.github.io/onii",
