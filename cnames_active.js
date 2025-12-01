@@ -512,6 +512,7 @@ var cnames_active = {
   "cgoatone": "cgoatone.github.io",
   "chain-able": "fluents.github.io/chain-able-site",
   "chainson": "abcdan.github.io/chainson",
+  "chalkboard": "qwertyiscoding.github.io/chalkboard",
   "chandzhang": "chandzhang.github.io",
   "charge": "charge-js.netlify.app",
   "chariot": "riyacchi.github.io/chariot.js",
