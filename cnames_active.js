@@ -1226,6 +1226,7 @@ var cnames_active = {
   "geekr": "ruanyl.github.io/geekr", // noCF? (don´t add this in a new PR)
   "gemstone": "pierreavn.github.io/gemstone",
   "genanki": "krmanik.github.io/genanki-js",
+  "gencodebarre": "mikefri.github.io",
   "generate-license-file": "tobyandtoby.github.io/generate-license-file",
   "genius-lyrics": "zyrouge.github.io/genius-lyrics",
   "genoacms": "genoacms.github.io/docs",
