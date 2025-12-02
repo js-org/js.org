@@ -2258,6 +2258,7 @@ var cnames_active = {
   "octofetch": "maartenvn.github.io/OctoFetch",
   "odararmy": "odararmy.github.io",
   "odin": "foxifyjs.github.io/odin",
+  "ody": "domutala.github.io/ody",
   "oec": "crellison.github.io/oec",
   "oem": "linttrapmedia.github.io/oem",
   "of": "r37r0m0d3l.github.io/of",
