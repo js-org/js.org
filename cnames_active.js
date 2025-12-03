@@ -3431,6 +3431,7 @@ var cnames_active = {
   "verify-bitcoin-message": "mothepro.github.io/verify-bitcoin-message",
   "verifyr": "arze1.github.io/verifyr-site",
   "verse": "druidic.github.io/verse",
+  "vesium": "vesiumjs.github.io",
   "vesselize": "vesselize.github.io/docs",
   "vest": "vestjs.netlify.app",
   "veza": "kyranet.github.io/veza",
