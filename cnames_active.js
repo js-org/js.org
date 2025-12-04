@@ -2204,6 +2204,7 @@ var cnames_active = {
   "nodebook": "hosting.gitbook.io",
   "nodegarden": "pakastin.github.io/nodegarden",
   "nodehawk": "samrith-s.github.io/nodehawk",
+  "nodelink": "apex-loadbalancer.netlify.app",
   "nodeppt": "ksky521.github.io/nodeppt",
   "noderize": "cretezy.github.io/noderize",
   "noflux": "hosting.gitbook.io", // noCF
