@@ -34,7 +34,7 @@
  *              order. Each line apart from the very last entry should have a comma after it to ensure this file
  *              is valid syntax.
  *
- *              BECAUSE OF THE RISK OF ABUSE, I'M NOT ACCEPTING REQUESTS FOR PAGES WITHOUT REASONABLE CONTENT!
+ *              BECAUSE OF THE RISK OF ABUSE, I'M NOT ACCEPTING REUESTS FOR PAGES WITHOUT REASONABLE CONTENT!
  */
 
 var cnames_active = {
@@ -61,7 +61,7 @@ var cnames_active = {
   "98plus": "cherrim98.github.io",
   "9932": "dannyzhan.github.io",
   "a-western-story": "hotsaucefiretruck.github.io/A-Western-Story",
-  "a11y-live": "kvnq-poza.github.io/a11y-live",
+  "a11y-live": "kvn-poza.github.io/a11y-live",
   "a11yslider": "mmahandev.github.io/a11y-slider",
   "a6smile": "a6smile.github.io",
   "aalaap": "aalaap.github.io",
@@ -141,7 +141,7 @@ var cnames_active = {
   "aksara": "sajenid.github.io/aksara.js",
   "aksharamukha": "paramsiddharth.github.io/aksharamukha.js",
   "akte": "akte.netlify.app",
-  "alasql": "alasql.github.io", // noCF? (don´t add this in a new PR)
+  "alasl": "alasql.github.io", // noCF? (don´t add this in a new PR)
   "alastor": "aidenybai.github.io/alastor",
   "ale": "alecefe.github.io",
   "alertbox": "simple-alertbox.github.io/alertbox",
@@ -2524,6 +2524,7 @@ var cnames_active = {
   "que": "seatwork.github.io/que.js",
   "querybuilder": "mistic100.github.io/jQuery-QueryBuilder", // noCF? (don´t add this in a new PR)
   "quick": "d7b7ae5e1e-hosting.gitbook.io", // noCF
+  "qik": "https://qikjs-org.github.io/"
   "quick-crud": "kingrayhan.github.io/quick-crud",
   "quickdb": "plexidev.github.io/quick.db-docs",
   "quickinstaller": "arjun2014.github.io/quickinstaller",
