@@ -3456,6 +3456,7 @@ var cnames_active = {
   "vitedge": "vitedge.netlify.app",
   "vitery": "viteryjs.github.io/vitery",
   "viteshell": "henryhale.github.io/viteshell",
+  "vitest": "vitest-270.pages.dev",
   "vitestory": "melishev.github.io/vitestory",
   "vk-x": "vk-x.github.io",
   "vlite": "vlitejs.github.io",
