@@ -1373,6 +1373,7 @@ var cnames_active = {
   "hay": "hayjs.github.io/hay.js.org",
   "hbase": "adaltas.github.io/node-hbase-docs",
   "hcs": "kimcore.github.io/hcs.js", // noCF
+  "hydrate": "cname.vercel-dns.com", // noCF
   "heartseekers": "rajington.github.io/heartseekers", // noCF? (don´t add this in a new PR)
   "heax": "coderosh.github.io/heaxjs", // noCF
   "hegel": "jsmonk.github.io/hegel",
@@ -1437,7 +1438,6 @@ var cnames_active = {
   "humble": "humblejs.github.io",
   "hx": "hx-js-org.dns.huangxin.org", // noCF
   "hybrids": "hybridsjs.github.io/hybrids",
-  "hydrate": "cname.vercel-dns.com",
   "hyder": "imprakashraghu.github.io/hyderjsweb",
   "hydro": "hydro-dev.github.io",
   "hyf": "yafey.github.io",
