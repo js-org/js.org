@@ -362,6 +362,7 @@ var cnames_active = {
   "bini": "binidu01.github.io/bini",
   "bip39-recast": "imcotton.github.io/at-key-bip39-recast", // noCF
   "birb": "birbjs.github.io/Documentation",
+    "birdwrite": "birdwrite.vercel.app",
   "biscord": "vinzerr.github.io/biscord-website",
   "biu": "aprilorange.github.io/biu", // noCF? (don´t add this in a new PR)
   "bkk": "rayriffy.github.io/bkk",
