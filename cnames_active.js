@@ -2440,6 +2440,7 @@ var cnames_active = {
   "polished": "styled-components.github.io/polished",
   "polix": "polix.netlify.app",
   "polkadot": "polkadot-js.github.io",
+  "pools": "phederal.github.io/pools",
   "polona": "huxinfeng.github.io/polona",
   "polydns": "cname.vercel-dns.com", // noCF
   "polygon-clipping": "mfogel.github.io/polygon-clipping",
