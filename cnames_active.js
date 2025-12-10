@@ -789,6 +789,7 @@ var cnames_active = {
   "device": "vpodk.github.io/device",
   "devlunch": "superzackx.github.io/DevLunch",
   "devsession": "lukasbach.github.io/devsession",
+  "designsheff": "designsheff-svg.github.io/ds",
   "dgelong": "alexeyraspopov.github.io/dgelong", // noCF? (don´t add this in a new PR)
   "dgs-docs": "shadowplay1.github.io/discord-giveaways-super",
   "dhimasanb": "dhimasanb.github.io",
@@ -943,7 +944,6 @@ var cnames_active = {
   "dynamotion": "cname.vercel-dns.com", // noCF`
   "dyo": "dyo.github.io/dyo",
   "dyte": "dytejs.github.io",
-  "designsheff": "designsheff-svg.github.io",
   "e-query": "mjkhonline.github.io/e-query",
   "eagleeye": "webkrafters.github.io/eagleeye",
   "eahmed234": "eahmed234.github.io",
