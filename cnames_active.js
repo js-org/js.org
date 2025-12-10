@@ -2857,6 +2857,7 @@ var cnames_active = {
   "serlina": "djyde.github.io/serlina",
   "service-mocker": "service-mocker.github.io/service-mocker",
   "serviceberry": "bob-gray.github.io/serviceberry",
+  "servify-express": "aarondoran.github.io/servify-express",
   "sesam": "lennertderyck.github.io/sesam",
   "setheum": "setheum-js.github.io",
   "sfml": "xadillax.github.io/node-sfml",
