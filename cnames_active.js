@@ -1438,6 +1438,7 @@ var cnames_active = {
   "hx": "hx-js-org.dns.huangxin.org", // noCF
   "hybrids": "hybridsjs.github.io/hybrids",
   "hyder": "imprakashraghu.github.io/hyderjsweb",
+  "hydrate": "cname.vercel-dns.com", // noCF
   "hydro": "hydro-dev.github.io",
   "hyf": "yafey.github.io",
   "hymity": "sarveshmrao.github.io/hymity",
