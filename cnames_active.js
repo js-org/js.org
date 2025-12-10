@@ -777,6 +777,7 @@ var cnames_active = {
   "deputy": "ry4nolson.github.io/Deputy", // noCF? (don´t add this in a new PR)
   "des-docs": "shadowplay1.github.io/des-docs",
   "designdevresources": "designdevresource.netlify.app",
+  "designsheff": "designsheff-svg.github.io/ds",
   "detalk": "detalkjs.netlify.app", // noCF
   "detect-resize": "noderaider.github.io/detect-resize", // noCF? (don´t add this in a new PR)
   "detector": "blackmirror1980.github.io/detector-js",
@@ -789,7 +790,6 @@ var cnames_active = {
   "device": "vpodk.github.io/device",
   "devlunch": "superzackx.github.io/DevLunch",
   "devsession": "lukasbach.github.io/devsession",
-  "designsheff": "designsheff-svg.github.io/ds",
   "dgelong": "alexeyraspopov.github.io/dgelong", // noCF? (don´t add this in a new PR)
   "dgs-docs": "shadowplay1.github.io/discord-giveaways-super",
   "dhimasanb": "dhimasanb.github.io",
