@@ -38,6 +38,7 @@
  */
 
 var cnames_active = {
+  "pandavault": "cloud-8zr.pages.dev",
   "": "js-org.github.io",
   "01mz": "01mz.github.io",
   "100dayz": "deadcoder0904.github.io/100dayz",
