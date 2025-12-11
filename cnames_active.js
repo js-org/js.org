@@ -38,7 +38,6 @@
  */
 
 var cnames_active = {
-  "otisium": "otisium.dedyn.io",
   "": "js-org.github.io",
   "01mz": "01mz.github.io",
   "100dayz": "deadcoder0904.github.io/100dayz",
@@ -2304,6 +2303,7 @@ var cnames_active = {
   "oslo": "pilcrowonpaper.github.io/oslo",
   "osom": "kikobeats.github.io/osom",
   "ot": "otjs-docs.github.io",
+  "otisium": "otisium.dedyn.io",
   "otimizacao": "jmmccota.github.io/Otimizacao",
   "otp": "60-min-code.github.io/gen-totp",
   "ourcord": "ourcord.netlify.app",
