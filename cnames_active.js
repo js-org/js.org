@@ -1505,6 +1505,7 @@ var cnames_active = {
   "inter": "interjs.github.io",
   "internetmarke": "schaechinger.github.io/internetmarke",
   "interview": "fengzilong.github.io/interview-101",
+  "intx": "devanshtech73-crypto.github.io/jsorg",
   "invent": "isaiahpatton.github.io/InventJS",
   "invoicing": "vahe.github.io/InvoicingJs",
   "iot": "product-engineer.github.io/iot.js.org", // noCF
@@ -3680,7 +3681,7 @@ var cnames_active = {
   "zykj": "cname.vercel-dns.com", // noCF
   "zyx": "zyx.alwaysdata.net",
   "zyy": "zyyou.github.io/notes",
-  "intx": "devanshtech73-crypto.github.io/jsorg"
+  
   /*
    * please don't add your subdomain records down here!
    * insert them in alphabetical order to help reduce merge conflicts.
