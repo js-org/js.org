@@ -3127,6 +3127,7 @@ var cnames_active = {
   "svg-crowbar": "cy6erskunk.github.io/svg-crowbar",
   "svg-skeleton": "yyued.github.io/SVG-Skeleton",
   "sw-yx": "sw-yx.github.io",
+  "swarpc": "gwennlbh.github.io/swarpc",
   "swearoo": "codeswithjames.github.io/swearoo",
   "sweetalert": "t4t5.github.io/sweetalert",
   "sweetconfirm": "koddr.github.io/sweetconfirm.js",
