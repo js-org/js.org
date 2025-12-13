@@ -2576,8 +2576,8 @@ var cnames_active = {
   "react-chartjs-2": "reactchartjs.github.io/react-chartjs-2",
   "react-chef": "web-slate.github.io/react-chef",
   "react-ck": "abelflopes.github.io/react-ck",
-  "react-compare-slider": "cname.vercel-dns.com",
   "react-comfort": "ruben-arushanyan.github.io/react-comfort",
+  "react-compare-slider": "cname.vercel-dns.com",
   "react-component-shell": "ruben-arushanyan.github.io/react-component-shell",
   "react-coroutine": "alexeyraspopov.github.io/react-coroutine",
   "react-day-picker": "gpbl.github.io/react-day-picker", // noCF
