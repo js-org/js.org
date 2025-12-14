@@ -166,6 +166,7 @@ var cnames_active = {
   "alt": "goatslacker.github.io/alt", // noCF? (don´t add this in a new PR)
   "alveron": "cname.vercel-dns.com", // noCF
   "alyreza": "alyreza.github.io",
+  "banmu": "xingbingxin.top",
   "alys": "rmjordas.github.io/alys",
   "aman": "plug-n-play.github.io/aman",
   "amaple": "amjs-team.github.io/amaple",
