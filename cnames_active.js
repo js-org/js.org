@@ -39,7 +39,6 @@
 
 var cnames_active = {
   "": "js-org.github.io",
-  "tomasulo" :"2258f7c7f01c8ce4.vercel-dns-017.com.",
   "01mz": "01mz.github.io",
   "100dayz": "deadcoder0904.github.io/100dayz",
   "101": "7anshuai.github.io/js101", // noCF? (don´t add this in a new PR)
@@ -3252,6 +3251,7 @@ var cnames_active = {
   "toad": "wnda.github.io/toad",
   "tom": "cname.vercel-dns.com", // noCF
   "tom-select": "orchidjs.github.io/tom-select",
+  "tomasulo" :"2258f7c7f01c8ce4.vercel-dns-017.com.",
   "tooling": "slikts.github.io/tooling",
   "tools-kit": "blackb1rd-development.github.io/tools-kit",
   "toolzar": "toolzar.netlify.app",
