@@ -269,6 +269,7 @@ var cnames_active = {
   "autodocs": "bguiz.github.io/autodocs", // noCF? (don´t add this in a new PR)
   "automata": "cname.vercel-dns.com", // noCF
   "automic": "automicjs.github.io",
+  "avc": "https://yo8aiv.github.io/avc/",
   "avg": "biyuehu.github.io/avgjs",
   "avi": "avinassh.github.io/avi", // noCF? (don´t add this in a new PR)
   "avner": "avnerus.github.io", // noCF? (don´t add this in a new PR)
@@ -3640,6 +3641,7 @@ var cnames_active = {
   "yh": "hksat.github.io",
   "yiff": "codepupper.github.io/yiff",
   "ymlair": "ymlair.github.io/TimestampHumanDemo",
+  "yo8": "https://yo8aiv.github.io/yo8/",
   "yolog": "jitesoft.github.io/yolog",
   "youtim": "mortonfox.github.io/YouTim", // noCF? (don´t add this in a new PR)
   "youtube-box": "lucasmonteverde.github.io/youtube-box", // noCF? (don´t add this in a new PR)
