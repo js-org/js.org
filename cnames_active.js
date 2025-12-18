@@ -3036,6 +3036,7 @@ var cnames_active = {
   "sri-shasum": "imcotton.github.io/sri", // noCF
   "ss": "cname-china.vercel-dns.com", // noCF
   "sse": "dt-is-not-available.github.io/sse",
+  "ss-tech": "ssemyy-sds.github.io"
   "st": "lizs365.github.io/st",
   "st-collab": "stoppedwummpython.github.io/st-collab",
   "staart": "staart.netlify.app",
