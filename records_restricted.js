@@ -18,6 +18,7 @@
 var cnames_restricted = [
     "(1/2/3/...)",
     "(a/b/c/...)",
+    "shop",
     "a11y",
     "about",
     "account(s)",
