@@ -2217,6 +2217,7 @@ var cnames_active = {
   "noo": "uyouthe.github.io/noo",
   "noobscroll": "arguiot.github.io/NoobScroll",
   "nord": "anandchowdhary.github.io/nord.js",
+  "nortejs": "nortejs.github.io/nortejs",
   "noshift": "otoneko1102.github.io/NoShift.js",
   "nostalgist": "arianrhodsandlot.github.io/nostalgist",
   "nostr": "nuzulul.github.io/NOSTRJS",
