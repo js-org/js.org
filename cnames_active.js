@@ -977,6 +977,7 @@ var cnames_active = {
   "elasticmagic": "kindritskyimax.github.io/elasticmagic-js",
   "electron-react-boilerplate": "electron-react-boilerplate.github.io/site",
   "electron-settings": "nathanbuchar.github.io/electron-settings",
+  "elephant": "cname.vercel-dns.com", // noCF
   "elegance": "valdemar-dev.github.io/elegance-js",
   "elementa": "dhbmarcos.github.io/elementa",
   "elementnet": "elementnet.github.io",
