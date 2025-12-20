@@ -1150,6 +1150,7 @@ var cnames_active = {
   "flowpainter": "sirajchokshi.github.io/FlowPainter",
   "fluorite": "chisel.github.io/fluorite",
   "fluxoff": "kingscott.github.io/flux-off", // noCF? (don´t add this in a new PR)
+  "fluxora": "fluxora-tools.github.io",
   "flvplayer": "zhw2590582.github.io/FlvPlayer",
   "flybook": "rhiokim.github.io/flybook",
   "fmateoc": "fmateoc.github.io",
@@ -3686,8 +3687,7 @@ var cnames_active = {
   "zyh": "zyh-chopper.github.io/zyh",
   "zykj": "cname.vercel-dns.com", // noCF
   "zyx": "zyx.alwaysdata.net",
-  "zyy": "zyyou.github.io/notes",
-  "fluxora": "fluxora-tools.github.io"
+  "zyy": "zyyou.github.io/notes"
   /*
    * please don't add your subdomain records down here!
    * insert them in alphabetical order to help reduce merge conflicts.
