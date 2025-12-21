@@ -1849,6 +1849,7 @@ var cnames_active = {
   "lyra": "amansahil.github.io/lyra.js.org",
   "lyz": "lihawhaw.github.io/lyzjs",
   "lzbible": "edwinyosorahardjo.github.io/lzbible",
+  "loadericon": "loadericon.pages.dev",
   "m01i0ng": "m01i0ng.github.io",
   "m3ripple": "yuyake-litrain.github.io/m3ripple-web",
   "m8bot": "mapreiff.github.io/m8-bot-site",
