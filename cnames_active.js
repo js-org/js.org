@@ -361,6 +361,7 @@ var cnames_active = {
   "bingus": "bingusjs.github.io",
   "bini": "binidu01.github.io/bini",
   "bip39-recast": "imcotton.github.io/at-key-bip39-recast", // noCF
+  "bipisir": "bipisir.pages.dev",
   "birb": "birbjs.github.io/Documentation",
   "biscord": "vinzerr.github.io/biscord-website",
   "biu": "aprilorange.github.io/biu", // noCF? (don´t add this in a new PR)
