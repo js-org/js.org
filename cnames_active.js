@@ -1,3 +1,7 @@
+
+
+"pappify": "dileep100code.github.io/pappify",
+
 /*
  ***** ACTIVE SUBDOMAINS
  * ***********************
