@@ -1651,6 +1651,7 @@ var cnames_active = {
   "keystone": "keystone-ssg.netlify.app",
   "keyvhq": "microlinkhq.github.io/keyvhq",
   "keyvify": "zyrouge.github.io/Keyvify",
+  "kfg": "drysius.github.io/kfg",
   "kilobyte": "kilobytehq.github.io/open-js",
   "kilvin": "rofrischmann.github.io/kilvin",
   "kim": "khareemnurulla.github.io/kim",
@@ -1666,7 +1667,6 @@ var cnames_active = {
   "klepto": "mwjaworski.github.io/klepto",
   "kloner": "fivefifteen.github.io/kloner",
   "kmeans": "jeff-tian.github.io/k-means",
-  "kfg": "drysius.github.io/kfg",
   "knc": "chaituknag.github.io",
   "ko": "ko25july.github.io/ko.js.org",
   "ko.mobx": "cname.vercel-dns.com", // noCF
