@@ -88,7 +88,7 @@ var cnames_active = {
   "acegroup": "mohamed0group.github.io/acegroup",
   "acho": "achojs.github.io/acho",
   "acidmod": "acidmod.github.io",
-  "ackerjs": "acker-technologies.github.io/ackerjs",
+  "acker": "acker-technologies.github.io/ackerjs",
   "acm": "drew233.github.io/calander",
   "acme": "makepost.github.io/acme-commander",
   "action-u": "kevinast.github.io/action-u",
@@ -484,6 +484,7 @@ var cnames_active = {
   "carakan": "masnormen.github.io/carakanjs",
   "cardtabs": "blekerfeld.github.io/CardTabs",
   "cargo": "herber.github.io/cargo",
+  "caridad-ui": "decaldas.github.io/caridad-ui",
   "carloseduardo": "karllossouza.github.io/carloseduardo.js.org",
   "carmi": "wix-incubator.github.io/carmi",
   "carrier": "theritikchoure.github.io/carrierjs",
@@ -902,6 +903,7 @@ var cnames_active = {
   "doom": "alauda.github.io/doom",
   "dope": "fouad.github.io/dope", // noCF? (don´t add this in a new PR)
   "dot-microservices": "dot-microservices.github.io/dot",
+  "dotlink": "aarondoran.github.io/Node-URL-shortener",
   "doz": "dozjs.github.io/website",
   "dplayer": "diygod.github.io/DPlayer", // noCF
   "dpm": "xyligan-gp.github.io/discord-player-music",
@@ -1850,7 +1852,6 @@ var cnames_active = {
   "lyz": "lihawhaw.github.io/lyzjs",
   "lzbible": "edwinyosorahardjo.github.io/lzbible",
   "m01i0ng": "m01i0ng.github.io",
-  "m3ripple": "yuyake-litrain.github.io/m3ripple-web",
   "m8bot": "mapreiff.github.io/m8-bot-site",
   "ma124": "ma124.netlify.app",
   "macaron": "macaron-css.github.io/macaron",
@@ -2217,6 +2218,7 @@ var cnames_active = {
   "noo": "uyouthe.github.io/noo",
   "noobscroll": "arguiot.github.io/NoobScroll",
   "nord": "anandchowdhary.github.io/nord.js",
+  "nortejs": "nortejs.github.io/nortejs",
   "noshift": "otoneko1102.github.io/NoShift.js",
   "nostalgist": "arianrhodsandlot.github.io/nostalgist",
   "nostr": "nuzulul.github.io/NOSTRJS",
@@ -2996,6 +2998,7 @@ var cnames_active = {
   "spacebot": "spacebot2.github.io",
   "spark": "hammerheadstudios.github.io/SparkCode",
   "spark-handler": "cname.vercel-dns.com", // noCF
+  "sparkle-ripple": "yuyake-litrain.github.io/sparkle-ripple-web",
   "spax": "crossjs.github.io/spax-site",
   "spectragram": "adrianengine.github.io/jquery-spectragram", // noCF? (don´t add this in a new PR)
   "speedybot": "valgaze.github.io/speedybot",
