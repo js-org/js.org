@@ -2261,6 +2261,7 @@ var cnames_active = {
   "object-gui": "matteobruni.github.io/object-gui",
   "objectid": "the-silver-project.github.io/objectid",
   "objectmodel": "sylvainpolletvillard.github.io/ObjectModel", // noCF? (don´t add this in a new PR)
+  "obozy-wedrowne": "czerwinskazoska-beep.github.io/obozy-wedrowne",
   "observable-hooks": "crimx.github.io/observable-hooks",
   "octofetch": "maartenvn.github.io/OctoFetch",
   "odararmy": "odararmy.github.io",
