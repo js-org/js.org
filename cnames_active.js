@@ -1362,6 +1362,7 @@ var cnames_active = {
   "han": "han-js.hanlu.im", // noCF
   "hana": "romantic-kare-c84899.netlify.app",
   "hanan": "hanandito.github.io/teddypicker",
+  "hanja-park": "quiz-park.github.io",
   "hapi-sol": "yonjah.github.io/hapi-sol",
   "hanja-park": "quiz-park.github.io",
   "hapin": "ha-pin.github.io",
