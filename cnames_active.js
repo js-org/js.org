@@ -1387,6 +1387,7 @@ var cnames_active = {
   "helpful": "togatech.github.io/helpful.js",
   "hepsiburada": "berkaltiok.github.io/hepsiburada",
   "hereby": "jakebailey.github.io/hereby",
+  "heroicflashcards": "reno479011.github.io",
   "heroku": "gary50613.github.io/herokuapi.js",
   "hexoplusplus": "hexoplusplus.github.io/docs",
   "hibiki": "claritymoe.github.io/hibiki",
