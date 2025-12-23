@@ -1411,6 +1411,7 @@ var cnames_active = {
   "hoa": "thehoa.github.io",
   "hoast": "hoast.github.io/hoast",
   "hois": "hoisw.github.io",
+  "holedev": "holedev.com",
   "holidaycss": "evgenyorekhov.github.io/holiday.css",
   "holo": "holo-js-org.github.io/www",
   "hooked-on-redux": "harryhope.github.io/hooked-on-redux",
