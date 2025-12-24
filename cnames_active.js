@@ -1813,9 +1813,9 @@ var cnames_active = {
   "lizzy": "stoyan.github.io/Lizzy.js",
   "llama-ui": "olegshulyakov.github.io/llama.ui",
   "lmadactyl": "hosting.gitbook.io", // noCF
-  "locio": "kiron0.github.io/locio",
   "localize": "localize.github.io",
   "localsync": "noderaider.github.io/localsync", // noCF? (don´t add this in a new PR)
+  "locio": "kiron0.github.io/locio",
   "loginlock-portfolio": "chucky22mendoza.github.io/loginlock",
   "logo": "js-org.github.io/logo",
   "loh": "codingstudios.github.io/loh",
