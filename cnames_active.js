@@ -3415,6 +3415,7 @@ var cnames_active = {
   "vac": "mlinquan.github.io/vue-awesome-countdown",
   "valence-native": "valence-native.github.io/valence-native",
   "validarium": "lundegaard.github.io/validarium",
+  "validation-br": "cname.vercel-dns.com",
   "validator": "ppoffice.github.io/validator.js", // noCF? (don´t add this in a new PR)
   "valine": "xcss.github.io/valine",
   "valirator": "massive-angular.github.io/valirator",
