@@ -2705,7 +2705,7 @@ var cnames_active = {
   "reqoal": "aldhosutra.github.io/reqoal",
   "reqsrv": "axtk.github.io/reqsrv",
   "request": "request.gitbooks.io", // noCF? (don´t add this in a new PR)
-  "resafe": "https://ofabiodev.github.io/resafe",
+  "resafe": "ofabiodev.github.io/resafe",
   "reselect": "reselect-docs.netlify.app",
   "reshape": "reshape.netlify.app",
   "reshift": "hasharray.github.io/reshift.js",
