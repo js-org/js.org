@@ -1743,6 +1743,7 @@ var cnames_active = {
   "lean-stack": "lean-stack.github.io", // noCF? (don´t add this in a new PR)
   "leap-year": "ultirequiem.github.io/leap-year",
   "learn": "in-tech-gration.github.io/LearnJavascript",
+  "learn-flash-tests": "flash-tests.wuaze.com",
   "learnathon": "learn-a-thon.netlify.app",
   "learngitbranching": "pcottle.github.io/learnGitBranching",
   "learns": "cname.vercel-dns.com", // noCF
