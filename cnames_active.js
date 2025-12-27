@@ -420,6 +420,7 @@ var cnames_active = {
   "brotat": "mariobob.github.io/brotat-website",
   "browse4extact": "browse4extract.github.io/b4e-website",
   "browserless": "microlinkhq.github.io/browserless",
+  "browser-ocr": "oshekharo.github.io/Browser-OCR",
   "brum": "romantic-noyce-67d6ee.netlify.app",
   "bs": "cname.vercel-dns.com", // noCF
   "bt": "mldonkey.github.io/bt",
