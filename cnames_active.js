@@ -3365,6 +3365,7 @@ var cnames_active = {
   "unicornly": "unicornly.github.io/unicornly",
   "unique-session": "molaga.github.io/unique-session",
   "universal-api": "raxjs.github.io/universal-api",
+  "universitymasters": "jonathanbaquero01.github.io/UniversityMasters",
   "unle": "lochyj.github.io/unle",
   "uno": "theatom06.github.io/uno.js",
   "unoconv": "blog.ryanwu.me",
