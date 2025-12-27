@@ -1484,6 +1484,7 @@ var cnames_active = {
   "impactminiblox": "progmem-cc.github.io/miniblox.impact.client.updatedv2",
   "impress": "impress.github.io/impress.js",
   "imrc-datetime-picker": "smrsan76.github.io/imrc-datetime-picker",
+  'imtahan': 'imtahan-design.github.io'
   "imvu": "imvujs.pages.dev", // noCF
   "indie": "indie-org.github.io/indie",
   "infinite-tree": "cheton.github.io/infinite-tree",
