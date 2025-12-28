@@ -583,6 +583,7 @@ var cnames_active = {
   "codetwix": "nolan639.github.io/Codetwix",
   "codetype": "vedantkawade3.github.io/codeType",
   "codewing": "nicesapien.github.io/codewing",
+  "codevending": "tomatagen-alt.github.io/codevending",
   "codinsky": "izhaki.github.io/codinsky",
   "coffea": "caffeinery.github.io/coffea",
   "coir": "channg.github.io/coir",
