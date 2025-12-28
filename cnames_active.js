@@ -502,6 +502,7 @@ var cnames_active = {
   "cdc-bot": "cdc-bot-js-npm.github.io/website",
   "cdi": "kiprox.github.io/Candro-Drive-Index",
   "cdll": "cdll.github.io",
+  "cdnjs": "cdnjs.yyds5.eu.org", // noCF
   "cdoor": "cdoor.github.io",
   "cebu": "javascriptcebu.netlify.app",
   "cekdomain": "cekdomain.netlify.app",
