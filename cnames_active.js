@@ -3434,6 +3434,7 @@ var cnames_active = {
   "vansul": "vansul.github.io",
   "vant-react-native": "youngjuning.github.io/vant-react-native",
   "vanya": "cname.vercel-dns.com", // noCF
+  "vandora": "keshavrathore28.github.io",
   "vapory": "vaporyjs.github.io",
   "various": "variousjs.github.io/website",
   "varvara": "marcmarine.github.io/varvara",
