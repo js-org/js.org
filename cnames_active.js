@@ -122,6 +122,7 @@ var cnames_active = {
   "agros": "agrosjs.github.io",
   "agrume": "cname.vercel-dns.com", // noCF
   "ahmad": "aruzikulov.github.io/ahmad",
+  "ahbhinder": "ahazoorbhinder.github.io",
   "ahnotification": "ahmadhayyan.github.io/ahnotification.js",
   "ahooks": "ahooks.surge.sh",
   "ahooks-v2": "ahooks-v2.surge.sh",
