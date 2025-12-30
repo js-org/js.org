@@ -1103,6 +1103,7 @@ var cnames_active = {
   "fast-ease": "caracal7.github.io/fast-ease",
   "fasteer": "fasteerjs.github.io",
   "faux": "fauxos.github.io",
+  "favicon": "kaerez.github.io/favicon",
   "fcanvas": "fcanvas.github.io/docs",
   "fcbosque": "cronopio.github.io/fcbosque", // noCF? (don´t add this in a new PR)
   "fe": "xcss.github.io/FE",
@@ -3672,6 +3673,7 @@ var cnames_active = {
   "zare": "ismailbinmujeeb.github.io/zare",
   "zed": "paul-browne.github.io/Zed-framework",
   "zen": "tomelam.github.io/zen",
+  "zeno": "zeno-security.github.io/zeno",
   "zephyr": "zephyr-dh.github.io/zephyr",
   "zer0": "cname.vercel-dns.com", // noCF
   "zero-dependency": "zero-dependency.github.io/zero-dependency",
