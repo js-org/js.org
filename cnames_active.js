@@ -1474,6 +1474,7 @@ var cnames_active = {
   "imagecapture": "googlechrome.github.io/imagecapture-polyfill",
   "imagin": "ilrc.github.io/imagin",
   "imagine": "karimayachi.github.io/imagine",
+  "imagynexai": "imagynexai.vercel.app",
   "imap-mailbox": "vsdparibas.github.io/imap-mailbox-doc",
   "imask": "unmanner.github.io/imaskjs",
   "imbue": "ghosts.github.io/Imbue",
