@@ -18,8 +18,8 @@ Before creating your pull request, please read and complete the following steps:
 
 -->
 
-- [ ] There is reasonable content on the page (see: [No Content](https://github.com/js-org/js.org/wiki/No-Content))
-- [ ] I have read and accepted the [Terms and Conditions](http://js.org/terms.html)
-- The site content can be seen at <link>
+- [x] There is reasonable content on the page (see: [No Content](https://github.com/js-org/js.org/wiki/No-Content))
+- [x] I have read and accepted the [Terms and Conditions](http://js.org/terms.html)
+- The site content can be seen at https://imagynexai.vercel.app/
 
-> The site content is ...
+> The site content is a community-driven AI image generation platform built using Next.js. It allows users to generate high-quality art using Pollinations AI, participate in weekly ranking seasons, and remix other creators' work. It is a tool for the JS ecosystem to explore generative AI.
