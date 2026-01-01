@@ -3048,6 +3048,7 @@ var cnames_active = {
   "sse": "dt-is-not-available.github.io/sse",
   "st": "lizs365.github.io/st",
   "st-collab": "stoppedwummpython.github.io/st-collab",
+  "staark": "doars.github.io/staark"
   "staart": "staart.netlify.app",
   "stable-fn": "ultirequiem.github.io/stable-fn",
   "stabs": "wnda.github.io/stabs",
