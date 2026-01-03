@@ -3391,6 +3391,7 @@ var cnames_active = {
   "use-bootstrap-tag": "use-bootstrap.github.io/use-bootstrap-tag",
   "use-bootstrap-toaster": "use-bootstrap.github.io/use-bootstrap-toaster",
   "use-cookie-consent": "use-cookie-consent.github.io/use-cookie-consent-docs",
+  "use-git" : "teneplaysofficial.github.io/use-git",
   "use-github": "ultirequiem.github.io/use-github",
   "usedapp": "crypto-meta.github.io/usedapp.js.org",
   "useful-apis": "yuu0007.github.io/useful-apis",
