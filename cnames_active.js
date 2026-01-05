@@ -2298,6 +2298,7 @@ var cnames_active = {
   "open-next": "serverless-stack.github.io/open-next",
   "openauth": "openauthjs.github.io/openauth",
   "openkey": "microlinkhq.github.io/openkey",
+  "openlablog": "openlablog.github.io",
   "opennext": "opennextjs.github.io/docs",
   "openrecord": "philwaldmann.github.io/openrecord",
   "opentrivia-guide": "turtlepaw.github.io/trivia-docs",
