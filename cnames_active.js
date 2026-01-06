@@ -1022,6 +1022,7 @@ var cnames_active = {
   "epicker": "eling486.github.io/EPicker-docs",
   "eplayer": "132yse.github.io/eplayer",
   "epoxy": "hosting.gitbook.com",
+  "epoxylang": "iamsatyanchal.github.io/epoxylang",
   "eq8": "eq8.github.io",
   "eqeq": "slikts.github.io/js-equality-game",
   "er-api-sdk": "erbots.github.io/Er-Api-Sdk",
