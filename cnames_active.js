@@ -1633,6 +1633,7 @@ var cnames_active = {
   "kafka": "tulios.github.io/kafkajs",
   "kaguwo": "kaguwos-portfolio.netlify.app",
   "kahoot": "na-west1.surge.sh",
+  "kaiblog": "kaihchs118.github.io/kaiblog",
   "kainy": "kainy.github.io/js.org",
   "kairusds": "kairusds.github.io",
   "kali": "kali65536.github.io",
