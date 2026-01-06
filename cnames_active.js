@@ -1775,6 +1775,7 @@ var cnames_active = {
   "libphonenumbers": "libphonenumbers.github.io",
   "license-cop": "tobysmith568.github.io/license-cop",
   "lifeisyoung": "lifeisyoung.github.io",
+  "lifenote": "notes-aa45.onrender.com", 
   "lift-html": "jlarky.github.io/lift-html",
   "light": "lightjs.netlify.app",
   "light-observable": "dmitry-korolev.github.io/light-observable",
