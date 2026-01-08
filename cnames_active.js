@@ -1627,6 +1627,7 @@ var cnames_active = {
   "just": "js-just.github.io", // noCF
   "justin-schroeder": "justin-schroeder.github.io",
   "juzgados": "mteyss.github.io/juzgados",
+  "jovial": "jovialiss.github.io"
   "jwc": "jwcjs.github.io/docs",
   "jwjawa": "cmdjwj.github.io",
   "jwt-autorefresh": "cchamberlain.github.io/jwt-autorefresh", // noCF? (don´t add this in a new PR)
