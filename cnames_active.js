@@ -1593,6 +1593,7 @@ var cnames_active = {
   "josecarloszamoragomezportfolio": "josecarloszamoragomez.github.io/Portfolio",
   "josn": "iaseth.github.io/josn",
   "jova": "bracketed.github.io/jova.js",
+  "jovial": "jovialiss.github.io",
   "joycon": "cname.vercel-dns.com", // noCF
   "jparticles": "jparticles.github.io/Documentation",
   "js-fixerr": "anujsinghwd.github.io/js-fixerr",
@@ -1627,7 +1628,6 @@ var cnames_active = {
   "just": "js-just.github.io", // noCF
   "justin-schroeder": "justin-schroeder.github.io",
   "juzgados": "mteyss.github.io/juzgados",
-  "jovial": "jovialiss.github.io"
   "jwc": "jwcjs.github.io/docs",
   "jwjawa": "cmdjwj.github.io",
   "jwt-autorefresh": "cchamberlain.github.io/jwt-autorefresh", // noCF? (don´t add this in a new PR)
