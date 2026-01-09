@@ -293,6 +293,7 @@ var cnames_active = {
   "azbuka-vkusa": "bullwinkle.github.io/azbuka-vkusa",
   "aziz": "iaziz786.netlify.app",
   "azlyrics-ext": "zyrouge.github.io/azlyrics-ext",
+  "azura": "hosting.discloud.app",
   "azurapi": "azurapi.github.io/azurapi-js",
   "bachors": "bachors.github.io",
   "backlog": "backlog-js.github.io/backlog.js.org", // noCF? (don´t add this in a new PR)
