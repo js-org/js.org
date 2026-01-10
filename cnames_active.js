@@ -1168,6 +1168,7 @@ var cnames_active = {
   "forceify": "dalisoft.github.io/Forceify",
   "form": "the94air.github.io/form",
   "formast": "tencent-cdc.github.io/formast",
+  "formpath": "formpath.github.io",
   "formred": "zewish.github.io/formred",
   "formvuelate": "formvuelate.netlify.app",
   "fortnite": "ickerio.github.io/fortnite.js",
