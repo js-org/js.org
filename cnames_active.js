@@ -2558,6 +2558,7 @@ var cnames_active = {
   "r": "r-js.github.io",
   "ractive": "ractivejs.github.io",
   "rad": "rapid-application-development-js.github.io/RAD.JS", // noCF? (don´t add this in a new PR)
+  "radioplay": "radioplay.pages.dev",
   "radashi": "radashi-org.github.io",
   "radi": "radi-js.github.io/radi",
   "radial": "ckgrafico.github.io/radial.js", // noCF? (don´t add this in a new PR)
