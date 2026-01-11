@@ -2962,6 +2962,7 @@ var cnames_active = {
   "slim": "eavichay.github.io/slim.js",
   "slimetype": "slimewell.github.io/slimetype",
   "slinky": "alizahid.github.io/slinky",
+  "slyde": "tygo-van-den-hurk.github.io/Slyde",
   "smartestchatbot": "lebyy.github.io/smartestchatbotdocs",
   "smartquotes": "kellym.github.io/smartquotes.js",
   "smiley": "smiley422.github.io",
