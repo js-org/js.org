@@ -1,3 +1,3 @@
-"tenduan": {
-  "cname": "https://ronamuhamad.github.io/"
+"ronamuhamad": {
+  "cname": "ronamuhamad.github.io"
 }
