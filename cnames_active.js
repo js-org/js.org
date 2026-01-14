@@ -49,6 +49,7 @@ var cnames_active = {
   "1ib": "1ib.github.io",
   "21cm": "21cm.github.io",
   "23chemistrycamp": "nchuchemistry.github.io/23chemistrycamp",
+  "2bar": "justdeveloper1.github.io/2Bar", // noCF
   "2tube": "you2php.github.io/you2php",
   "30dayjavascript": "30dayjavascript.netlify.app",
   "360": "360daili.github.io/360daili",
