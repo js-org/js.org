@@ -603,7 +603,7 @@ var cnames_active = {
   "comixngn": "seun40.github.io/comix-ngn", // noCF? (don´t add this in a new PR)
   "commandcord": "commandcord.github.io",
   "commandfox": "commandfox.github.io/mc-tools", // noCF? (don´t add this in a new PR)
-  "commandkit": "commandkit.netlify.app",
+  "commandkit": "216.198.79.1", // noCF
   "commitlint": "conventional-changelog.github.io/commitlint",
   "common-utils": "common-utils.netlify.app",
   "common-utils-pkg": "iamdevlinph.github.io/common-utils-pkg",
