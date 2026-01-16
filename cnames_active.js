@@ -3535,6 +3535,7 @@ var cnames_active = {
   "vuikit": "vuikit.netlify.app",
   "vulkava": "hosting.gitbook.io", // noCF
   "vxv": "vxv.netlify.app",
+  "wrbxy": "edu-production-2436.up.railway.app",
   "w2d": "bananahackers.github.io/w2d", // noCF
   "w4ctech": "w4ctech.github.io",
   "w4j1e": "w4j1e.github.io",
