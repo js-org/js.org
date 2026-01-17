@@ -1926,6 +1926,7 @@ var cnames_active = {
   "matrix-rref-solver": "arisweedler.github.io/matrix-rref-solver",
   "matters2ipfs": "contributionls.github.io/matters2ipfs",
   "mauricio": "mauricionobrega.github.io/www",
+  "mayanksahu": "itsmaxyd.github.io",
   "max": "toorusr.github.io/max.js.org",
   "maxnachlinger": "maxnachlinger.github.io", // noCF? (don´t add this in a new PR)
   "maxtracking": "maxtracking.github.io", // noCF? (don´t add this in a new PR)
