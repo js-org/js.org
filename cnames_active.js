@@ -338,7 +338,7 @@ var cnames_active = {
   "beamwind": "kenoxa.github.io/beamwind",
   "bear": "bytexiong.github.io/VitePress.BearPlatform",
   "beatzoid": "beatzoid.github.io",
-  "bedstack": "cname.vercel-dns.com",
+  "bedstack": "cname.vercel-dns.com", // noCF
   "bee": "beejsdev.github.io",
   "begin": "advanced-webapps-class.github.io/begin", // noCF? (don´t add this in a new PR)
   "belfast": "chrislaughlin.github.io/belfastjs",
