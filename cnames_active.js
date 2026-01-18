@@ -806,6 +806,7 @@ var cnames_active = {
   "dime": "anut-py.github.io/dime",
   "dinesh": "dineshondev.github.io/dinesh", // noCF? (don´t add this in a new PR)
   "dinosaur": "path08.github.io/Dinosaur",
+  "diphfolio": "diphidiph.github.io/Diphifolio"
   "dipole": "zheksoon.github.io/dipole",
   "discm": "cname.vercel-dns.com", // noCF
   "discmds": "whitecluegaming.github.io/discmds",
