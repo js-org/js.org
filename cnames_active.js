@@ -1086,7 +1086,6 @@ var cnames_active = {
   "extraction": "rse.github.io/extraction", // noCF? (don´t add this in a new PR)
   "eye": "arguiot.github.io/EyeJS",
   "ezoradom": "4614s.github.io/ezoradom-the-functions",
-  "fax-lang": "luvion1.github.io/Fax-lang",
   "f1": "marinofranz.github.io/f1.ts",
   "facepalm": "santiagogil.github.io/facepalm",
   "facreative": "facreative.github.io",
@@ -1108,6 +1107,7 @@ var cnames_active = {
   "fasteer": "fasteerjs.github.io",
   "faux": "fauxos.github.io",
   "favicon": "kaerez.github.io/favicon",
+  "fax-lang": "luvion1.github.io/Fax-lang",
   "fcanvas": "fcanvas.github.io/docs",
   "fcbosque": "cronopio.github.io/fcbosque", // noCF? (don´t add this in a new PR)
   "fe": "xcss.github.io/FE",
