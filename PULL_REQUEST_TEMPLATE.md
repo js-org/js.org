@@ -20,6 +20,6 @@ Before creating your pull request, please read and complete the following steps:
 
 - [ ] There is reasonable content on the page (see: [No Content](https://github.com/js-org/js.org/wiki/No-Content))
 - [ ] I have read and accepted the [Terms and Conditions](http://js.org/terms.html)
-- The site content can be seen at <link>
+- The site content can be seen at astin7.github.io/cybermonitor/
 
-> The site content is ...
+> The site content is a web-based dashboard designed for real-time system monitoring and hardware tracking. It provides users with a clean, professional interface to visualize system performance, diagnostics, and security status. The site features a responsive layout, interactive components for data display, and a modern dark mode aesthetic. The project is built entirely within the modern JavaScript ecosystem using React 19 and Vite. It leverages Tailwind CSS with the @tailwindcss/vite plugin for styling and utilizes React Router for seamless single-page navigation. Additionally, it incorporates several popular JS libraries like lucide-react for iconography and @formspree/react for functional form handling. By hosting on JS.ORG, my goal is to showcase how these modern JavaScript tool.
