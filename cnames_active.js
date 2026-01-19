@@ -709,7 +709,7 @@ var cnames_active = {
   "cville": "cvjs.github.io",
   "cvss": "cvssjs.github.io",
   "cyberflame": "cyberflameu.github.io",
-  "cybermonitor": "astin7.github.io/cybermonitor/"
+  "cybermonitor": "astin7.github.io/cybermonitor/",
   "cybernaut": "clebert.github.io/cybernaut",
   "cycle": "cyclejs.github.io",
   "cyclow": "pmros.github.io/cyclow", // noCF
