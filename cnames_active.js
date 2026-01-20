@@ -1660,6 +1660,7 @@ var cnames_active = {
   "keyvhq": "microlinkhq.github.io/keyvhq",
   "keyvify": "zyrouge.github.io/Keyvify",
   "kfg": "drysius.github.io/kfg",
+  "khilesh": "cname.vercel-dns.com", // noCF
   "kilobyte": "kilobytehq.github.io/open-js",
   "kilvin": "rofrischmann.github.io/kilvin",
   "kim": "khareemnurulla.github.io/kim",
