@@ -3601,7 +3601,6 @@ var cnames_active = {
   "wikii": "xamyl.github.io/Wikii",
   "wildfire": "cheng-kang.github.io/wildfire",
   "william": "wdhdev.github.io/william.js", // noCF
-  "windows": "munchkinhalfling.github.io/wasm-windows",
   "wiot": "iotcat.github.io/wIoT",
   "wire": "wire-ts.github.io",
   "with-immutable-props-to-js": "tophat.github.io/with-immutable-props-to-js",
