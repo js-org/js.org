@@ -1849,6 +1849,7 @@ var cnames_active = {
   "lucia": "lucia.netlify.app",
   "luciascript": "luciascript.netlify.app",
   "lucy": "lucy-bot.github.io",
+  "ludmillamorais.dev": "ludmorais.github.io/ludmillamorais.dev/",
   "lukemetoki": "luke2m.github.io",
   "lume.shiraha": "importantimport.github.io/lume_theme_shiraha", // noCF
   "lumi": "furioustsunami.github.io/lumijs",
