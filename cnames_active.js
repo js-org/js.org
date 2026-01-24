@@ -1418,7 +1418,7 @@ var cnames_active = {
   "hltvbot": "nescabir.github.io/HLTVBot",
   "hmsscioly": "scioly.netlify.app",
   "hnxml": "modern-school.github.io/hnxml",
-  "hisabkhata-akib.js.org": "cname.vercel-dns.com",
+  "hisabkhata-akib": "cname.vercel-dns.com",
   "hoa": "thehoa.github.io",
   "hoast": "hoast.github.io/hoast",
   "hois": "hoisw.github.io",
