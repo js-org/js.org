@@ -2759,6 +2759,7 @@ var cnames_active = {
   "rize": "g-plane.github.io/rize",
   "rmodal": "zewish.github.io/rmodal.js",
   "rn-material": "cname.vercel-dns.com", // noCF
+ "hishabkhata": "cname.vercel-dns.com",,
   "roadmafia": "roadmafia.github.io",
   "roam": "roam-cn.github.io",
   "robo-wizard": "hipsterbrown.github.io/robo-wizard",
