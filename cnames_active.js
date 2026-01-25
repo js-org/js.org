@@ -38,7 +38,6 @@
  */
 
 var cnames_active = {
-  "azurajs-scalar": "D3vEduardo.github.io/azurajs-scalar",
   "": "js-org.github.io",
   "01mz": "01mz.github.io",
   "100dayz": "deadcoder0904.github.io/100dayz",
@@ -297,6 +296,7 @@ var cnames_active = {
   "azlyrics-ext": "zyrouge.github.io/azlyrics-ext",
   "azura": "hosting.discloud.app", // noCF
   "azurapi": "azurapi.github.io/azurapi-js",
+  "azurajs-scalar": "D3vEduardo.github.io/azurajs-scalar",
   "bachors": "bachors.github.io",
   "backlog": "backlog-js.github.io/backlog.js.org", // noCF? (don´t add this in a new PR)
   "backstage": "backstagejs.github.io/backstage",
