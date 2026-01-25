@@ -2652,6 +2652,7 @@ var cnames_active = {
   "readit": "teebu.github.io/readit",
   "readmix": "iaseth.github.io/readmix",
   "reager": "reagerssalss.github.io/reager",
+  "realstitch": "itsdragun.github.io",
   "realt": "vnkitaev.github.io/realt",
   "reask": "mcsh.github.io/reask",
   "reassign": "hasharray.github.io/reassign.js",
