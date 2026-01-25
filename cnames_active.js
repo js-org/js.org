@@ -38,6 +38,7 @@
  */
 
 var cnames_active = {
+  "azurajs-scalar": "D3vEduardo.github.io/azurajs-scalar",
   "": "js-org.github.io",
   "01mz": "01mz.github.io",
   "100dayz": "deadcoder0904.github.io/100dayz",
