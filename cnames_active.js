@@ -60,6 +60,7 @@ var cnames_active = {
   "98": "1j01.github.io/98",
   "98plus": "cherrim98.github.io",
   "9932": "dannyzhan.github.io",
+  "giahuy208": "api-plantsvsbrainrots.vercel.app",
   "a-western-story": "hotsaucefiretruck.github.io/A-Western-Story",
   "a11y-live": "kvnq-poza.github.io/a11y-live",
   "a11yslider": "mmahandev.github.io/a11y-slider",
