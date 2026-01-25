@@ -3462,6 +3462,7 @@ var cnames_active = {
   "vk-x": "vk-x.github.io",
   "vlite": "vlitejs.github.io",
   "vlr": "vlrjs.github.io/website",
+  "vmsg": "jnvc583.github.io/vmsg",
   "vncz": "xvincentx.github.io/vncz",
   "vnpay": "cname.vercel-dns.com", // noCF
   "vocab": "battleofplassey.github.io/ministry-of-vocabulary",
