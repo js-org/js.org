@@ -187,6 +187,7 @@ var cnames_active = {
   "angularstompdk": "davinkevin.github.io/AngularStompDK", // noCF? (don´t add this in a new PR)
   "anilist": "instellate.github.io/anilist.js",
   "anime": "meguminsama.github.io/anime",
+  "animecursor": "shuninyu.github.io/anime-cursor",
   "animegan": "tonylianlong.github.io/AnimeGAN.js",
   "animo": "thrivingkings.github.io/animo",
   "animorph": "claudiobmgrtnr.github.io/animorph",
