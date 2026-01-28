@@ -2335,6 +2335,7 @@ var cnames_active = {
   "oxi": "cname.vercel-dns.com", // noCF
   "oxycors": "cname.vercel-dns.com", // noCF
   "oz": "openzagreb.github.io",
+  "osmium": "pipo7obd.up.railway.app" // noCF
   "p2psc": "kognise.github.io/p2psc",
   "p3terx": "p3terx.github.io/P3TERX",
   "p7e4": "p7e4.github.io",
@@ -3718,7 +3719,6 @@ var cnames_active = {
   "zykj": "cname.vercel-dns.com", // noCF
   "zyx": "zyx.alwaysdata.net",
   "zyy": "zyyou.github.io/notes",
-  "osmium": "hosting.discloud.app" // noCF
   /*
    * please don't add your subdomain records down here!
    * insert them in alphabetical order to help reduce merge conflicts.
