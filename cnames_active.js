@@ -1055,6 +1055,7 @@ var cnames_active = {
   "esfx": "esfx.github.io",
   "esg": "cname.vercel-dns.com", // noCF
   "eslint-plugin-wxml": "eslint-plugin-wxml.netlify.app",
+  "esencianatural": "kennyto14.github.io/esencia_natural",
   "esper": "codecombat.github.io/esper.js",
   "estudiantil": "milersant.github.io/estudiantil",
   "eta": "alias.zeit.co", // noCF
