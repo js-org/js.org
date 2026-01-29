@@ -1057,6 +1057,7 @@ var cnames_active = {
   "eslint-plugin-wxml": "eslint-plugin-wxml.netlify.app",
   "esper": "codecombat.github.io/esper.js",
   "estudiantil": "milersant.github.io/estudiantil",
+  "esencianaturalhn": "https://kennyto14.github.io/esencia_natural",
   "eta": "alias.zeit.co", // noCF
   "eth": "eth-js.github.io/eth-dev-tools",
   "ethavatar": "filips123.github.io/EthAvatar.JS",
