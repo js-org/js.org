@@ -1,3 +1,4 @@
+"binnax": "binnax.github.io/binnax.github.io",
 /*
  ***** ACTIVE SUBDOMAINS
  * ***********************
