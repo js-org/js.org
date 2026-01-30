@@ -296,6 +296,7 @@ var cnames_active = {
   "aziz": "iaziz786.netlify.app",
   "azlyrics-ext": "zyrouge.github.io/azlyrics-ext",
   "azura": "hosting.discloud.app", // noCF
+  "azurajs-scalar": "d3veduardo.github.io/azurajs-scalar",
   "azurapi": "azurapi.github.io/azurapi-js",
   "bachors": "bachors.github.io",
   "backlog": "backlog-js.github.io/backlog.js.org", // noCF? (don´t add this in a new PR)
