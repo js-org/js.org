@@ -1992,6 +1992,7 @@ var cnames_active = {
   "mi": "stevenjoezhang.github.io",
   "micanto": "micanto-music.github.io/micanto",
   "michaelfarnik": "michaloslav.github.io/MichaelFarnik",
+  "michael": "mjohnson2026gc-web.github.io/michael",
   "microdoc": "maxmilton.github.io/microdoc",
   "microfeedback": "microfeedback.github.io",
   "microlink": "microlinkhq.github.io/microlinkjs",
