@@ -1898,6 +1898,7 @@ var cnames_active = {
   "mapa-cultura": "opensas.gitlab.io",
   "mapblockly": "mapblockly.github.io",
   "mapinventor": "mapinventor.github.io",
+  "maplibre-merge-protocol": "indus.github.io/maplibre-merge-protocol",
   "mapmyworld": "mapmyworld.github.io",
   "mappa": "cvalenzuela.github.io/Mappa",
   "mapsrc": "indus.github.io/mapsrc",
@@ -2522,6 +2523,7 @@ var cnames_active = {
   "proxy-memoize": "dai-shi.github.io/proxy-memoize",
   "proxy.meow": "cname.vercel-dns.com", // noCF
   "proyecto-estadistica-2020": "eduardodevop.github.io/proyecto-estadistica-2020",
+  "proyectoeliza": "yaredsermeno.github.io/eliza",
   "pruf": "signalwerk.github.io/pruf",
   "pruthvisoni": "pruthvisooni.github.io",
   "ps": "spindlyskit.github.io/ps.js",
