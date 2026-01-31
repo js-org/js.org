@@ -1363,6 +1363,7 @@ var cnames_active = {
   "h3": "h3rald.github.io/h3",
   "h7ml": "h7ml.github.io/web",
   "ha-store": "fed135.github.io/ha-store",
+  "habit-tracker": "divyanshsingh112.github.io",
   "habra": "jarvis394.github.io/habra",
   "hacktm": "hacktm.netlify.app",
   "hahuutin": "hahuutin.github.io",
