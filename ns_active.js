@@ -17,6 +17,7 @@ var ns_active = {
   "lolifamily": ["glen.ns.cloudflare.com", "melany.ns.cloudflare.com"],
   "mermaid": ["dns1.p04.nsone.net", "dns2.p04.nsone.net", "dns3.p04.nsone.net", "dns4.p04.nsone.net"],
   "ruby": ["alexis.ns.cloudflare.com", "connie.ns.cloudflare.com"]
+  "t50": ["carter.ns.cloudflare.com", "emily.ns.cloudflare.com"]
 }
 
 /*
