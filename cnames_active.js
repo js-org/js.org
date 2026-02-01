@@ -1653,6 +1653,7 @@ var cnames_active = {
   "kanji": "eidoriantan.github.io/kanji.js",
   "karateblobs": "karatewumpus.github.io/karateblobs",
   "karl": "focused-bassi-cc0eff.netlify.app",
+  "karthikeyans2006": "karthikeyans2006.github.io",
   "karolina-and-ryan": "mockturtlesoup.github.io/karolina-and-ryan",
   "kasfy": "kasfy.github.io/kasfy.js.org",
   "kasumi": "cname.vercel-dns.com", // noCF
