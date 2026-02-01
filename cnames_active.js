@@ -2595,6 +2595,7 @@ var cnames_active = {
   "raylen": "ausername-1.github.io/raylen.js",
   "rayo": "getrayo.github.io/rayo.js",
   "rclone": "sntran.github.io/rclone.js",
+  "rcr": "vercel-radio-stat.vercel.app",
   "rdf": "rdfjs.github.io", // noCF
   "rdpmovy": "rdp-studio.github.io/rdpmovy.js",
   "react-atomic-ui": "react-atomic.github.io/react-atomic-ui",
