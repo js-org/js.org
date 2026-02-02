@@ -2830,6 +2830,7 @@ var cnames_active = {
   "sanddance": "danmarshall.github.io/SandDance",
   "sandeepkhandewale": "learner1024.github.io",
   "sandmine": "spreehertz.github.io/Sandmine.js",
+  "santiago-portafolio": "quiroivan02-cyber.github.io",
   "saso": "huruji.github.io/saso",
   "sass": "medialize.github.io/playground.sass.js", // noCF? (don´t add this in a new PR)
   "saturon": "cname.vercel-dns.com", // noCF
