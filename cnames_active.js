@@ -3523,6 +3523,7 @@ var cnames_active = {
   "vue": "vuejs.github.io/vue.js.org",
   "vue-admin": "mingdev123.github.io/vue-admin",
   "vue-aplayer": "sevenoutman.github.io/vue-aplayer",
+  "vue-asyncx": "xuyimingwork.github.io/vue-asyncx",
   "vue-auth3": "tachibana-shin.github.io/vue-auth3",
   "vue-coffee": "vue-coffee-guide.netlify.app",
   "vue-core": "triotech-fr.github.io/vue-core",
