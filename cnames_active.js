@@ -96,6 +96,7 @@ var cnames_active = {
   "actions-creator": "ruben-arushanyan.github.io/actions-creator",
   "active-resource": "nicklandgrebe.github.io/activeresource.js",
   "acyort": "acyortjs.github.io/site",
+  "aichixia": "cname.vercel-dns.com",
   "ada": "ada-js.netlify.app",
   "adamant": "datamart.github.io/Adamant",
   "adaptui": "cname.vercel-dns.com", // noCF
