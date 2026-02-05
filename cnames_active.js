@@ -2311,6 +2311,7 @@ var cnames_active = {
   "opcommands": "02550ce547-hosting.gitbook.io", // noCF
   "opds": "kartoffelchipss.github.io/opds-ts",
   "open-api": "harys722.github.io/open-api",
+  "open-ask-ai": "easyops-cn.github.io/open-ask-ai",
   "open-next": "serverless-stack.github.io/open-next",
   "openauth": "openauthjs.github.io/openauth",
   "opencc": "opencc-wasm.pages.dev",
