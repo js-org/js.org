@@ -451,7 +451,7 @@ var cnames_active = {
   "byteforge": "piscilus.github.io/byteforge",
   "byteform": "byteform.netlify.app",
   "bytemd": "bytemd.netlify.app",
-  "bigbro": "216.198.79.1",
+  "bigbro": "edad5cd57712a2e9.vercel-dns-017.com",
   "c": "cocobear.github.io",
   "c-3po": "ttag-org.github.io/c-3po",
   "c-installer": "llenax.github.io/c-installer",
