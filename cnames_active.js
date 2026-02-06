@@ -2922,6 +2922,7 @@ var cnames_active = {
   "shobhitchittora": "shobhitchittora.github.io",
   "short": "shortit.netlify.app",
   "shortio": "ichiidev.github.io/short.io-docs",
+  "shovel": "bikeshaving.github.io/shovel",
   "shrimple": "shrimplejs.github.io",
   "shuffle": "vestride.github.io/Shuffle",
   "shuwan9": "shuwan9.github.io",
