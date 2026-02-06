@@ -1630,6 +1630,7 @@ var cnames_active = {
   "jsonuri": "aligay.github.io/jsonuri",
   "jsp": "hiren2001.github.io/jsp",
   "jssc": "justdeveloper1.github.io/JSSC", // noCF
+  "jie4ma": "jie4ma.github.io",
   "jstyle": "lxhom.github.io/jstyle", // noCF
   "jsxcad": "jsxcad.github.io",
   "juancarlosqr": "juancarlosqr.github.io", // noCF? (don´t add this in a new PR)
