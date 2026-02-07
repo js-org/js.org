@@ -368,6 +368,7 @@ var cnames_active = {
   "birb": "birbjs.github.io/Documentation",
   "biscord": "vinzerr.github.io/biscord-website",
   "biu": "aprilorange.github.io/biu", // noCF? (don´t add this in a new PR)
+  "bigbro": "cname.vercel-dns.com", // noCF
   "bkk": "rayriffy.github.io/bkk",
   "blazeb2": "blazeb2.github.io",
   "blego": "mattstypa.github.io/blego.js.org",
@@ -451,7 +452,6 @@ var cnames_active = {
   "byteforge": "piscilus.github.io/byteforge",
   "byteform": "byteform.netlify.app",
   "bytemd": "bytemd.netlify.app",
-  "bigbro": "edad5cd57712a2e9.vercel-dns-017.com",
   "c": "cocobear.github.io",
   "c-3po": "ttag-org.github.io/c-3po",
   "c-installer": "llenax.github.io/c-installer",
