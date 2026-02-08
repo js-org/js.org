@@ -1634,8 +1634,8 @@ var cnames_active = {
   "jstyle": "lxhom.github.io/jstyle", // noCF
   "jsxcad": "jsxcad.github.io",
   "juancarlosqr": "juancarlosqr.github.io", // noCF? (don´t add this in a new PR)
-  "julianflancheros": "cname.vercel-dns.com",
-  "julien": "julien.github.io", // noCF? (don´t add this in a new PR)
+  "julianflancheros": "cname.vercel-dns.com", // noCF
+  "july": "onlyjuly.github.io",
   "juno-106": "stevengoldberg.github.io/juno-106", // noCF? (don´t add this in a new PR)
   "just": "js-just.github.io", // noCF
   "justin-schroeder": "justin-schroeder.github.io",
