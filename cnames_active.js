@@ -1778,6 +1778,7 @@ var cnames_active = {
   "leoric": "cyjake.github.io/leoric",
   "lerna": "lerna.github.io/website",
   "leste": "atwood-cai.github.io/leste.js", // noCF? (don´t add this in a new PR)
+  "lestin": "lestintech.github.io/lestin-website",
   "lete": "cname.vercel-dns.com", // noCF
   "lev": "lev-savranskiy.github.io",
   "level": "xv700.github.io/level",
