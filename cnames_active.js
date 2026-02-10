@@ -3212,6 +3212,7 @@ var cnames_active = {
   "tart": "tart.github.io/tartJS", // noCF? (don´t add this in a new PR)
   "tauber": "ranjithrd.github.io/tauber",
   "taufik-nurrohman": "taufik-nurrohman.github.io",
+  "ttwstar": "lxttwx.github.io",
   "taxi": "craftedbygc.github.io/taxi",
   "taxum": "dasprid.github.io/taxum",
   "tayyab": "itayyab.github.io",
