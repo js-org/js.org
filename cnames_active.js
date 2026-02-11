@@ -1649,6 +1649,7 @@ var cnames_active = {
   "kahoot": "na-west1.surge.sh",
   "kainy": "kainy.github.io/js.org",
   "kairusds": "kairusds.github.io",
+  "kaleidopixel": "fzxx.github.io/KaleidoPixel",
   "kali": "kali65536.github.io",
   "kalm": "fed135.github.io/kalm.github.io", // noCF? (don´t add this in a new PR)
   "kampala": "javascriptkampala.github.io/kampala",
