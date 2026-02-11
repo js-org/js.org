@@ -1895,6 +1895,7 @@ var cnames_active = {
   "mailbox": "vsdparibas.github.io/mailboxjs-doc",
   "majestic": "moityjs.github.io/majestic",
   "maker": "microsoft.github.io/maker.js",
+  "maki-bot": "proximaae69.github.io",
   "makes": "makesjs.github.io",
   "mali": "malijs.github.io",
   "mangascrape": "tzurs11.github.io/MangaScrape",
