@@ -2263,7 +2263,7 @@ var cnames_active = {
   "npmdocs": "cname.vercel-dns.com", // noCF
   "npmer": "rumkin.github.io/npm-watch",
   "npmgraph": "cname.vercel-dns.com", // noCF
-  "nrost" : "ajrgit.github.io/nrosts",
+  "nrosts" : "ajrgit.github.io/nrosts",
   "nrgy": "mnasyrov.github.io/nrgy",
   "nsp": "hanul.github.io/NSP", // noCF? (don´t add this in a new PR)
   "nsptiles": "imthenachoman.github.io/nSPTiles", // noCF? (don´t add this in a new PR)
