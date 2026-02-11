@@ -1920,6 +1920,7 @@ var cnames_active = {
   "marked": "cname.vercel-dns.com", // noCF
   "markliu": "markliuyuxiang.github.io",
   "markmap": "gera2ld.github.io/markmap-lib",
+  "markmapu": "markmap-universe.github.io",
   "markmsmith": "markmsmith.github.io",
   "markvis": "geekplux.github.io/markvis",
   "markvis-editor": "geekplux.github.io/markvis-editor",
