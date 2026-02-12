@@ -944,6 +944,7 @@ var cnames_active = {
   "dumber": "dumberjs.github.io",
   "dumi-theme-tuya": "youngjuning.github.io/dumi-theme-tuya",
   "dunedin": "dunedinjs.github.io",
+  "duoko": "boslw.github.io/duoko",
   "duosoptimos": "duosoptimos.github.io/duosptimos",
   "duration": "imranbarbhuiya.github.io/duration",
   "dv-scalebar": "indus.github.io/dv-scalebar",
