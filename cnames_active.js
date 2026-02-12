@@ -2845,6 +2845,7 @@ var cnames_active = {
   "saturon": "cname.vercel-dns.com", // noCF
   "saulosantiago": "saulosilva.github.io", // noCF? (don´t add this in a new PR)
   "sawyer": "sqwwy.github.io/sawyer.js.org",
+  "saytoit": "rameshreddy-adutla.github.io/saytoit",
   "sazerac": "sazeracjs.github.io/sazerac-site",
   "sb": "santiaguf.github.io",
   "sc136": "sc136.github.io/sc-136",
