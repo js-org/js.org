@@ -132,6 +132,7 @@ var cnames_active = {
   "airesearch": "vtempest.github.io/ai-research-agent",
   "airtable-plus": "victorhahn.github.io/airtable-plus",
   "ais": "yunyoujun.github.io/ais.js",
+  "aitools": "igs-rogenlo.github.io/aitools",
   "aitt": "aittssal.github.io/aitt",
   "ajaxable": "artf.github.io/ajaxable",
   "ajinkya": "steelx.github.io/ajinkyaxjs",
