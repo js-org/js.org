@@ -951,6 +951,7 @@ var cnames_active = {
   "dvan": "dvan.netlify.app",
   "dvd": "cdaringe.github.io/dvd-corner-bounce",
   "dynaflo": "trevorhanus.github.io/dynaflo",
+  "dynamic-music-card": "cname.vercel-dns.com", // noCF
   "dynamic-record": "na-west1.surge.sh",
   "dynamicsnode": "crisfervil.github.io/DynamicsNode",
   "dynamotion": "cname.vercel-dns.com", // noCF`
