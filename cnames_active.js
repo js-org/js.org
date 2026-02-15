@@ -1632,6 +1632,7 @@ var cnames_active = {
   "jsonui": "yourtion.github.io/vue-json-ui-editor",
   "jsonuri": "aligay.github.io/jsonuri",
   "jsp": "hiren2001.github.io/jsp",
+  "jspt": "levkris.github.io/jspt",
   "jssc": "justdeveloper1.github.io/JSSC", // noCF
   "jstyle": "lxhom.github.io/jstyle", // noCF
   "jsxcad": "jsxcad.github.io",
