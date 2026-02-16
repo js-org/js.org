@@ -1539,6 +1539,7 @@ var cnames_active = {
   "iq": "cname.vercel-dns.com", // noCF
   "ir": "irjs.github.io/docs",
   "iresume": "supremefish.github.io/iresume",
+  "irmus": "fakhriker.github.io",
   "iro": "jaames.github.io/iro.js",
   "iron-oxide": "carsonmckinstry.github.io/iron-oxide-documentation",
   "irouter": "alhaqhassan.github.io/irouter.js",
