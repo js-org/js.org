@@ -690,6 +690,7 @@ var cnames_active = {
   "createrest": "atomixinteractions.github.io/createrest",
   "creaturegen": "ryancromebook.github.io/creaturegen",
   "credo": "openwallet-foundation.github.io/credo-ts-docs",
+  "cribestgames": "cribest7890.github.io/cribestgames",
   "croot": "crootjs.github.io",
   "crossani": "cname.vercel-dns.com", // noCF
   "crossbell": "crossbell-box.github.io/crossbell.js",
