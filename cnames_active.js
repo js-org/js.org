@@ -38,6 +38,7 @@
  */
 
 var cnames_active = {
+  "cribestgames": "cribest7890.github.io/cribestgames",
   "": "js-org.github.io",
   "01mz": "01mz.github.io",
   "100dayz": "deadcoder0904.github.io/100dayz",
