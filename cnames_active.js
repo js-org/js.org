@@ -1853,6 +1853,7 @@ var cnames_active = {
   "lostyle": "rtsao.github.io/lostyle",
   "lottiefy": "pd4d10.github.io/lottiefy",
   "loxt": "loxt.netlify.app",
+  "miniwash": "miniwash.pages.dev",
   "lps": "mauris.github.io/lps.js.org",
   "lrclib": "igorwastaken.github.io/lrclib-api",
   "lribeiro": "lmribeiro.github.io",
