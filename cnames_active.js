@@ -2008,7 +2008,7 @@ var cnames_active = {
   "microfeedback": "microfeedback.github.io",
   "microlink": "microlinkhq.github.io/microlinkjs",
   "mics": "download.github.io/mics",
-  "middy": "plnt9.github.io/middy",
+  "middy": "middy.pages.dev",
   "miguelsr": "miguelsr.github.io", // noCF? (don´t add this in a new PR)
   "mikado": "nextapps-de.github.io/mikado",
   "milesgitgud": "milesgitgud.github.io/homepage",
