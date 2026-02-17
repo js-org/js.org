@@ -3685,6 +3685,7 @@ var cnames_active = {
   "yagolopez": "yagolopez.github.io",
   "yak": "cname.vercel-dns.com", // noCF
   "yake": "yakeing.github.io/HexoBlog",
+  "yaka": "cname.vercel-dns.com",
   "yamdbf": "zajrik.github.io/yamdbf",
   "yan": "yvesyc.github.io/yan-js-org",
   "yana": "lukasbach.github.io/yana-homepage",
