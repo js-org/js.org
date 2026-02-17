@@ -3739,7 +3739,8 @@ var cnames_active = {
   "zyh": "zyh-chopper.github.io/zyh",
   "zykj": "cname.vercel-dns.com", // noCF
   "zyx": "zyx.alwaysdata.net",
-  "zyy": "zyyou.github.io/notes"
+  "zyy": "zyyou.github.io/notes",
+  "bitshares-wallet-extension": "pi314x.github.io/bitshares-wallet-extension"
   /*
    * please don't add your subdomain records down here!
    * insert them in alphabetical order to help reduce merge conflicts.
