@@ -1305,6 +1305,7 @@ var cnames_active = {
   "gol": "goljs.github.io/GoL",
   "gondel": "namics.github.io/gondel",
   "goober": "cristianbote.github.io/goober",
+  "goohub": "gooneeshark.github.io/goohub",
   "good": "amirhossein693.github.io/good",
   "goodshare": "koddr.github.io/goodshare.js",
   "gosling": "gosling-lang.github.io/gosling.js",
