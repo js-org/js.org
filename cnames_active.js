@@ -1164,6 +1164,7 @@ var cnames_active = {
   "flowout": "falkz.github.io/flowout.js",
   "flowpainter": "sirajchokshi.github.io/FlowPainter",
   "fluorite": "chisel.github.io/fluorite",
+  "fluxer": "cname.vercel-dns.com", // noCF
   "fluxoff": "kingscott.github.io/flux-off", // noCF? (don´t add this in a new PR)
   "flvplayer": "zhw2590582.github.io/FlvPlayer",
   "flybook": "rhiokim.github.io/flybook",
@@ -2543,6 +2544,7 @@ var cnames_active = {
   "ps": "spindlyskit.github.io/ps.js",
   "pt-pt.single-spa": "single-spa.github.io/pt-pt.single-spa.js.org", // noCF
   "ptero": "pterojs.github.io/ptero.js-docs",
+  "ptml": "axzr.github.io/ptml",
   "ptrdo": "ptrdo.github.io",
   "pubg": "ickerio.github.io/pubg.js",
   "publish-subscribe": "r37r0m0d3l.github.io/publish_subscribe",
@@ -3684,6 +3686,7 @@ var cnames_active = {
   "yadl": "yadljs.github.io",
   "yagolopez": "yagolopez.github.io",
   "yak": "cname.vercel-dns.com", // noCF
+  "yaka": "cname.vercel-dns.com", // noCF
   "yake": "yakeing.github.io/HexoBlog",
   "yamdbf": "zajrik.github.io/yamdbf",
   "yan": "yvesyc.github.io/yan-js-org",
