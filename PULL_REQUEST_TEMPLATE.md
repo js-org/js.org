@@ -18,8 +18,9 @@ Before creating your pull request, please read and complete the following steps:
 
 -->
 
-- [ ] There is reasonable content on the page (see: [No Content](https://github.com/js-org/js.org/wiki/No-Content))
-- [ ] I have read and accepted the [Terms and Conditions](http://js.org/terms.html)
-- The site content can be seen at <link>
+- [x] There is only one entry added to cnames_active.js
+- [x] The entry is in alphabetical order
 
-> The site content is ...
+Website: https://rezaanandap.github.io
+Project: Personal microsite / link hub (similar to Linktree) for my projects and social links.
+
