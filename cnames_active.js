@@ -1443,6 +1443,7 @@ var cnames_active = {
   "ht": "paul-browne.github.io/html-in-javascript",
   "html-webpack-plugin": "jantimon.github.io/html-webpack-plugin-repl",
   "htmljar": "syntacstudio.github.io/html-jar",
+  "htmltopptx-converter": "htmltopptx-converter.onrender.com",
   "htony": "themetony.github.io/hugo-theme-tony",
   "http4ts": "http4ts.github.io/http4ts",
   "httpfy": "devxprite.github.io/httpfy",
