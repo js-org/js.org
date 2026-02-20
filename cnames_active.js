@@ -728,6 +728,7 @@ var cnames_active = {
   "daily.tmr": "tmr-daily.netlify.app", // noCF
   "daisy": "warengonzaga.github.io/daisy.js",
   "daksh0225": "daksh0225.github.io",
+  "designtocraft": "https://designtocraft.github.io",
   "damo": "damodharanj.github.io",
   "damon233": "whatdamon.github.io",
   "dan": "danielh-dev.netlify.app",
