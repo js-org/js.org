@@ -716,6 +716,7 @@ var cnames_active = {
   "cville": "cvjs.github.io",
   "cvss": "cvssjs.github.io",
   "cwd": "anghunk.github.io/cwd",
+  "cwctech": "surajtalwade8-eng.github.io/technician-system",
   "cyberflame": "cyberflameu.github.io",
   "cybernaut": "clebert.github.io/cybernaut",
   "cycle": "cyclejs.github.io",
