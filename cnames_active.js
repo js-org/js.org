@@ -765,6 +765,7 @@ var cnames_active = {
   "dbots": "dbots-pkg.github.io/dbots-website",
   "dbotsgg": "valredstone.github.io/dbots.gg",
   "ddnet": "sans3108.github.io/DDNet",
+  "designtocraft": "designtocraft.github.io",
   "decimalsystem": "uellenberg.github.io/DecimalSystem",
   "deck-of-cards": "pakastin.github.io/deck-of-cards",
   "declarativ": "fennifith.github.io/declarativ", // noCF
