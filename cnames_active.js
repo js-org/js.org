@@ -2827,6 +2827,7 @@ var cnames_active = {
   "saeed": "mrsaeeddev.github.io",
   "safe": "hiren2001.github.io/SafeJS",
   "sagui": "saguijs.github.io", // noCF? (don´t add this in a new PR)
+  "sagarpatil": "sagarpatil.github.io",
   "sahilister": "sahilister.github.io/portfolio",
   "sai": "hackers4peace.github.io/sai-js",
   "saigon": "saigonjs.github.io",
