@@ -788,6 +788,7 @@ var cnames_active = {
   "deportes": "andreapins.github.io/Deportes-Gacetis",
   "deputy": "ry4nolson.github.io/Deputy", // noCF? (don´t add this in a new PR)
   "des-docs": "shadowplay1.github.io/des-docs",
+  "designtocraft": "https://designtocraft.github.io/Designtocraft",
   "designdevresources": "designdevresource.netlify.app",
   "detalk": "detalkjs.netlify.app", // noCF
   "detect-resize": "noderaider.github.io/detect-resize", // noCF? (don´t add this in a new PR)
