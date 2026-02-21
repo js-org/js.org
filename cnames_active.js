@@ -424,6 +424,7 @@ var cnames_active = {
   "bright": "bright-js.github.io",
   "brigsby": "tynatsuhara.github.io/brigsby",
   "brizusan": "blackmyab.github.io/brizusan",
+  "brainbeebd": "glitchforge97.github.io",
   "brotat": "mariobob.github.io/brotat-website",
   "browse4extact": "browse4extract.github.io/b4e-website",
   "browser-ocr": "oshekharo.github.io/Browser-OCR",
