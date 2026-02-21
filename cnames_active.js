@@ -312,6 +312,7 @@ var cnames_active = {
   "bali": "balijs.github.io",
   "balm": "balmjs.github.io/balm.js.org",
   "banana": "smammadov409-gif.github.io/banana",
+  "bangla": "https://pixeltoart.github.io/bangla/",
   "bananasplit": "diegoulloao.github.io/bananasplit-js",
   "bancho": "thepoon.github.io/bancho.js",
   "bandicoot": "canopytax.github.io/bandicoot.js.org",
