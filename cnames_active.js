@@ -1835,6 +1835,7 @@ var cnames_active = {
   "liunian": "liunnn1994.github.io",
   "live-editor": "geard-dev.github.io/web-based-live-code-editor",
   "liveflow": "hasharray.github.io/liveflow.js",
+  "livemarkup": "forhadkhan.github.io/livemarkup",
   "livenotif": "siffreinsg.github.io/livenotif",
   "livevalidate": "thedhanawada.github.io/LiveValidateJS",
   "lizzy": "stoyan.github.io/Lizzy.js",
