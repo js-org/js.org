@@ -1771,7 +1771,7 @@ var cnames_active = {
   "learnathon": "learn-a-thon.netlify.app",
   "learngitbranching": "pcottle.github.io/learnGitBranching",
   "learns": "cname.vercel-dns.com", // noCF
-  "ledger-email": "WilledMercury75.github.io/Ledger-Email-Client",
+  "ledger-email": "willedmercury75.github.io/Ledger-Email-Client/",
   "lee": "lee981265.github.io",
   "leeks": "ohlookitsderpy.github.io/leeks.js",
   "leet": "leetcodes.github.io",
