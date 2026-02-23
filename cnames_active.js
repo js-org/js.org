@@ -3530,7 +3530,7 @@ var cnames_active = {
   "volantis": "volantis-x.github.io/community",
   "volantis-x": "volantis-x.github.io",
   "voloshins": "voloshins.github.io", // noCF? (don´t add this in a new PR)
-  "voltaross": "voltaross.github.io",
+  "voltaross": "voltaross.github.io/Volts",
   "vona": "vonajs.github.io/vona",
   "vorpal": "dthree.github.io/vorpal", // noCF? (don´t add this in a new PR)
   "vortex": "puntillol59.github.io/vortex",
