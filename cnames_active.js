@@ -49,7 +49,6 @@ var cnames_active = {
   "1ib": "1ib.github.io",
   "21cm": "21cm.github.io",
   "23chemistrycamp": "nchuchemistry.github.io/23chemistrycamp",
-  "2bar": "justdeveloper1.github.io/2Bar", // noCF
   "2tube": "you2php.github.io/you2php",
   "30dayjavascript": "30dayjavascript.netlify.app",
   "360": "360daili.github.io/360daili",
@@ -1635,7 +1634,7 @@ var cnames_active = {
   "jsonuri": "aligay.github.io/jsonuri",
   "jsp": "hiren2001.github.io/jsp",
   "jspt": "levkris.github.io/jspt",
-  "jssc": "justdeveloper1.github.io/JSSC", // noCF
+  "jssc": "justdevw.github.io/JSSC", // noCF
   "jstyle": "lxhom.github.io/jstyle", // noCF
   "jsu": "jsutils.pages.dev",
   "jsx2html": "maddouri.github.io/jsx2html",
