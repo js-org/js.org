@@ -1577,6 +1577,7 @@ var cnames_active = {
   "javali": "diogomoretti.github.io/javali",
   "javascript-kitchen": "jskitchen.github.io",
   "jayzou": "jayzou.github.io",
+  "jazzstandardle": "xavc2003.github.io/JazzStandardle",
   "jbone": "kupriyanenko.github.io/jbone", // noCF? (don´t add this in a new PR)
   "jcord": "discord-jcord.github.io/jcord",
   "jds": "alimanman.github.io/jds",
