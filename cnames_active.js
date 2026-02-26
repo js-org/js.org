@@ -986,6 +986,7 @@ var cnames_active = {
   "eiyuu": "sinkaroid.github.io/eiyuu",
   "ejir": "ejir.github.io",
   "ekscss": "maxmilton.github.io/ekscss",
+  "elk": "exelkonsol.github.io/elk",
   "elastic-builder": "sudo-suhas.github.io/elastic-builder",
   "elasticmagic": "kindritskyimax.github.io/elasticmagic-js",
   "electron-react-boilerplate": "electron-react-boilerplate.github.io/site",
