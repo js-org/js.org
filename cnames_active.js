@@ -3136,6 +3136,7 @@ var cnames_active = {
   "storelocator": "storelocatorjs.github.io",
   "storybook": "apex-loadbalancer.netlify.app", // noCF
   "storybooker": "guptasiddhant.github.io/storybooker",
+  "stop-pay": "pandadreamgs.github.io",
   "storybooks": "storybooks.github.io",
   "stpcloud": "stoeaves.github.io/StpCloud",
   "str": "manelet.github.io/str",
