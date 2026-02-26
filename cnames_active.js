@@ -1096,8 +1096,8 @@ var cnames_active = {
   "eye": "arguiot.github.io/EyeJS",
   "ezoradom": "4614s.github.io/ezoradom-the-functions",
   "f1": "marinofranz.github.io/f1.ts",
-  "facepalm": "santiagogil.github.io/facepalm",
   "faah": "cname.vercel-dns.com", // noCF
+  "facepalm": "santiagogil.github.io/facepalm",
   "facreative": "facreative.github.io",
   "fairy": "fairymeee.github.io",
   "fakeyou": "leunamcrack.github.io/fakeyou.js",
