@@ -2513,6 +2513,7 @@ var cnames_active = {
   "pranshuchittora": "pranshuchittora.github.io",
   "pratyay": "cname.vercel-dns.de", // noCF
   "praveen": "praveenscience.github.io/praveen.js.org",
+  "pradupta": "pradupta.github.io/web
   "precision": "jaiko86.github.io/precisionjs-home",
   "presence": "yomorun.github.io/presence.js.org",
   "preset": "awesome-starter.github.io/website",
