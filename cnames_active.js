@@ -790,6 +790,7 @@ var cnames_active = {
   "deputy": "ry4nolson.github.io/Deputy", // noCF? (don´t add this in a new PR)
   "des-docs": "shadowplay1.github.io/des-docs",
   "designdevresources": "designdevresource.netlify.app",
+  "designdevresources": "designdevresource.netlify.app",
   "detalk": "detalkjs.netlify.app", // noCF
   "detect-resize": "noderaider.github.io/detect-resize", // noCF? (don´t add this in a new PR)
   "detector": "blackmirror1980.github.io/detector-js",
@@ -2836,6 +2837,7 @@ var cnames_active = {
   "sai": "hackers4peace.github.io/sai-js",
   "saigon": "saigonjs.github.io",
   "sailesh": "saileshkasaju.github.io/crud-react-redux-mongo",
+  "sakib": "pixeltoart.github.io/sakib",
   "sakiv": "sakiv.github.io",
   "salary": "whz11.github.io/salarytools",
   "salvacam": "salvacam.github.io",
