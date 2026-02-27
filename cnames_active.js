@@ -2425,7 +2425,7 @@ var cnames_active = {
   "personalkanban": "nishantpainter.github.io/personal-kanban",
   "perspective": "leopoldthecoder.github.io/Perspective",
   "peter": "peterccpang.github.io",
-  "peterkumar": "peteroin.github.io/peterkumar",
+  "peter-3d-hub": "peteroin.github.io/peterkumar",
   "pguth": "pguth.github.io",
   "ph1p": "ph1p.github.io",
   "phaker": "phakerjs.github.io/phaker.js",
