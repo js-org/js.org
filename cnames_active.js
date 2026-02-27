@@ -293,6 +293,7 @@ var cnames_active = {
   "axios-cache-interceptor": "arthurfiorette.github.io/axios-cache-interceptor",
   "axios-cache-lite": "nom-nom-hub.github.io/axios-cache-lite",
   "axon": "caracal7.github.io/axon.js",
+  "ayvazyan": "ayvazyangevorg.github.io",
   "azbuka-vkusa": "bullwinkle.github.io/azbuka-vkusa",
   "aziz": "iaziz786.netlify.app",
   "azlyrics-ext": "zyrouge.github.io/azlyrics-ext",
