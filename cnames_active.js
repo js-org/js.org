@@ -3337,6 +3337,7 @@ var cnames_active = {
   "troxel": "troxeljs.github.io",
   "troy": "troyxun.github.io",
   "trpc": "trpc-node.github.io/trpc.js.org",
+  "trpvp": "therealemintr.github.io/trpvp/",
   "true-myth": "chriskrycho.github.io/true-myth",
   "truecaller": "sumithemmadi.github.io/truecallerjs",
   "truncate": "remanufacturing.github.io/react-truncate",
