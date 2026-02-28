@@ -299,7 +299,6 @@ var cnames_active = {
   "azura": "hosting.discloud.app", // noCF
   "azurajs-scalar": "d3veduardo.github.io/azurajs-scalar",
   "azurapi": "azurapi.github.io/azurapi-js",
-  "blog": "static-blog-dev.pages.dev",
   "bachors": "bachors.github.io",
   "backlog": "backlog-js.github.io/backlog.js.org", // noCF? (don´t add this in a new PR)
   "backstage": "backstagejs.github.io/backstage",
@@ -2573,6 +2572,7 @@ var cnames_active = {
   "py-like": "ruben-arushanyan.github.io/py-like",
   "qbit": "fudan-mse.github.io/qbit",
   "qs": "kirjs.github.io/qs.js", // noCF? (don´t add this in a new PR)
+  "quillstack": "quillstack.pages.dev",
   "quacky": "quacky-bot.github.io",
   "quanta": "solarbrowser.github.io/w4q",
   "quantlib": "quantlibjs.github.io",
