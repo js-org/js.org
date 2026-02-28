@@ -2361,6 +2361,7 @@ var cnames_active = {
   "p3terx": "p3terx.github.io/P3TERX",
   "p7e4": "p7e4.github.io",
   "pa": "johnmwirigimahugu.github.io/pa",
+  "pokergame": "lamisreal.github.io/PokerGame",
   "packit": "pouya-eghbali.github.io/packit",
   "pacman": "8tentaculos.github.io/jsPacman",
   "pad": "ebraminio.github.io/pad.js", // noCF? (don´t add this in a new PR)
@@ -2483,7 +2484,6 @@ var cnames_active = {
   "pogo": "aaronduino.github.io/pogo",
   "pogtopia": "alexander9673.github.io/Pogtopia",
   "poke": "gregjw.github.io/poke",
-  "pokergame": "lamisreal.github.io/PokerGame",
   "polen": "the-guild-org.github.io/polen",
   "polished": "styled-components.github.io/polished",
   "polix": "polix.netlify.app",
