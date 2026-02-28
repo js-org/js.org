@@ -2483,6 +2483,7 @@ var cnames_active = {
   "pogo": "aaronduino.github.io/pogo",
   "pogtopia": "alexander9673.github.io/Pogtopia",
   "poke": "gregjw.github.io/poke",
+  "pokergame": "lamisreal.github.io/PokerGame",
   "polen": "the-guild-org.github.io/polen",
   "polished": "styled-components.github.io/polished",
   "polix": "polix.netlify.app",
