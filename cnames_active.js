@@ -991,6 +991,7 @@ var cnames_active = {
   "electron-react-boilerplate": "electron-react-boilerplate.github.io/site",
   "electron-settings": "nathanbuchar.github.io/electron-settings",
   "elegance": "valdemar-dev.github.io/elegance-js",
+  "element-hooks": "xueelf.github.io/element-hooks",
   "elementa": "dhbmarcos.github.io/elementa",
   "elementnet": "elementnet.github.io",
   "eleven": "elevendev.github.io",
