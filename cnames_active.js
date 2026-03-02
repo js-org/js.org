@@ -2592,6 +2592,7 @@ var cnames_active = {
   "quickshadow": "cname.vercel-dns.com", // noCF
   "quickuptime": "lebyy.github.io/quickuptimedocs",
   "quicli": "thecodeah.github.io/quicli",
+  "quillstack": "quillstack.pages.dev",
   "quincy": "quincyx.github.io",
   "quiz-app": "odevlord.github.io/Quiz-App", // noCF? (don´t add this in a new PR)
   "quizizz": "zaida04.github.io/Quizizz.js",
