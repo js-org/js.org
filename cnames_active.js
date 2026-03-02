@@ -2572,7 +2572,6 @@ var cnames_active = {
   "py-like": "ruben-arushanyan.github.io/py-like",
   "qbit": "fudan-mse.github.io/qbit",
   "qs": "kirjs.github.io/qs.js", // noCF? (don´t add this in a new PR)
-  "quillstack": "quillstack.pages.dev",
   "quacky": "quacky-bot.github.io",
   "quanta": "solarbrowser.github.io/w4q",
   "quantlib": "quantlibjs.github.io",
@@ -2591,6 +2590,7 @@ var cnames_active = {
   "quickshadow": "cname.vercel-dns.com", // noCF
   "quickuptime": "lebyy.github.io/quickuptimedocs",
   "quicli": "thecodeah.github.io/quicli",
+  "quillstack": "quillstack.pages.dev",
   "quincy": "quincyx.github.io",
   "quiz-app": "odevlord.github.io/Quiz-App", // noCF? (don´t add this in a new PR)
   "quizizz": "zaida04.github.io/Quizizz.js",
