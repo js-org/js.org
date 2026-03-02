@@ -968,6 +968,7 @@ var cnames_active = {
   "easy-enigma": "armoredvortex.github.io/easy-enigma",
   "easy-sewa": "prasuco.github.io/easy-sewa",
   "easybuy": "danielwetan.github.io/easybuy",
+  "easyframe": "shuninyu.github.io/easy-frame",
   "easyht": "yellowface233.github.io/easyht-website",
   "easypass": "cgluwxh.github.io/easypass",
   "eatery-nod-w": "kevinast.github.io/eatery-nod-w",
