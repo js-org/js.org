@@ -958,6 +958,7 @@ var cnames_active = {
   "dyo": "dyo.github.io/dyo",
   "dyte": "dytejs.github.io",
   "e-query": "mjkhonline.github.io/e-query",
+  "ea": "janit.github.io/ea",
   "eagleeye": "webkrafters.github.io/eagleeye",
   "eahmed234": "eahmed234.github.io",
   "ease": "chisel.github.io/ease",
@@ -1627,6 +1628,7 @@ var cnames_active = {
   "jsoboro": "jsoboro.github.io",
   "json-diff-kit": "rexskz.github.io/json-diff-kit",
   "json-e": "json-e.github.io/json-e",
+  "json-format": "cname.vercel-dns.com", // noCF
   "json-formatter": "limitedhype.github.io/json-formatter",
   "json-schema-faker": "json-schema-faker.github.io/website-jsf",
   "json-to-plain-text": "sumithemmadi.github.io/json-to-plain-text",
