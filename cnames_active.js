@@ -2941,6 +2941,7 @@ var cnames_active = {
   "shift": "shift-wasm.pages.dev",
   "shikwasa": "jessuni.github.io/shikwasa",
   "shilong": "echoheim.github.io/shilong",
+  "rojas": "nelson-rojas.github.io",
   "shine": "shinenelson.github.io/shine.js.org",
   "shinobu": "shinobujs.github.io/Shinobu",
   "shiraha": "importantimport.github.io/shiraha",
