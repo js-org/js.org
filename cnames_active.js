@@ -70,7 +70,7 @@ var cnames_active = {
   "ab64": "un-ts.github.io/ab64",
   "abbw": "abbw.github.io",
   "abbyz": "abbyzhoum.github.io",
-  "abcdb": "hosting.gitbook.com", // noCF
+  "abcdb": "hosting.gitbook.com", // noCFl
   "abdalla": "the94air.github.io/abdalla",
   "abelacostaportafolio": "asaa19971a.github.io/AbelAcostaAcostaPortafolio",
   "abhishek": "rpidanny.github.io/personal-collage",
@@ -2671,7 +2671,7 @@ var cnames_active = {
   "react-through": "hosting.gitbook.com", // noCF
   "react-toulouse": "moox.github.io/react-toulouse",
   "react-tracked": "dai-shi.github.io/react-tracked",
-  "react-ui-animate": "dipeshrai123.github.io/react-ui-animate-docs",
+  "real-estate-project": "nelson-rojas.github.io", "dipeshrai123.github.io/react-ui-animate-docs",
   "react-uicomp": "dipeshrai123.github.io/React-UIComp-Docs",
   "react-unimodal": "chrisli-03.github.io/react-unimodal",
   "react-wheel-picker": "cname.vercel-dns.com", // noCF
