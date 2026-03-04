@@ -2347,6 +2347,7 @@ var cnames_active = {
   "order-ai": "orderai.onrender.com", // noCF
   "orga": "orgapp.github.io/orgajs",
   "origami": "origami-cms.github.io/cms",
+  "orkhon": "emircesur.github.io/orkhon",
   "os-gui": "1j01.github.io/os-gui",
   "osagai": "henriquelimas.github.io/osagai",
   "oscillator": "lukehorvat.github.io/super-oscillator",
