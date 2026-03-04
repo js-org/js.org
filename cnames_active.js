@@ -810,6 +810,7 @@ var cnames_active = {
   "diabolo": "cname.vercel-dns.com", // noCF
   "diamond": "diamondpkg.github.io/website",
   "dicey": "basicer.github.io/dicey",
+  "dictionary":"lomos-software.github.io/Dictionary/"
   "did": "ceramicnetwork.github.io/js-did",
   "diddle": "jylescoad-ward.github.io/diddle.js",
   "diffract": "ameyms.github.io/diffract", // noCF? (don´t add this in a new PR)
