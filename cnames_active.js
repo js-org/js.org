@@ -3503,6 +3503,7 @@ var cnames_active = {
   "vayne": "vaynejs.github.io",
   "vbuild": "egoist.github.io/vbuild",
   "vdcs": "hopae-official.github.io/Verifiable-Digital-Credentials",
+  "vdfreight": "omagad-noway.github.io",
   "ve-table": "xiguaxigua.github.io/ve-table",
   "vega": "cname.vercel-dns.com", // noCF
   "velite": "zce.github.io/velite",
