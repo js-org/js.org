@@ -308,6 +308,7 @@ var cnames_active = {
   "badlee": "badlee.github.io",
   "badonker": "redsplit.github.io/badonker",
   "badrudeen": "badrudeen.github.io", // noCF? (don´t add this in a new PR)
+  "bahrain": "bahrain-js.github.io/bahrain.js",
   "baicai": "zibaicai.github.io/baicaijsorg",
   "bakhtiyar": "bakszero.github.io",
   "bali": "balijs.github.io",
