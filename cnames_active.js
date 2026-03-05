@@ -789,6 +789,7 @@ var cnames_active = {
   "deox": "deox.netlify.app",
   "deportes": "andreapins.github.io/Deportes-Gacetis",
   "deputy": "ry4nolson.github.io/Deputy", // noCF? (don´t add this in a new PR)
+  "derbysystem": "fynnob.github.io/derbysystem/",
   "des-docs": "shadowplay1.github.io/des-docs",
   "designdevresources": "designdevresource.netlify.app",
   "detalk": "detalkjs.netlify.app", // noCF
