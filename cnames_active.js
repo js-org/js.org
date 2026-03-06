@@ -939,6 +939,7 @@ var cnames_active = {
   "dreygur": "dreygur.github.io",
   "drop": "dt-is-not-available.github.io/drop",
   "drr": "xyligan-gp.github.io/discord-reactions-roles",
+  "dry": "cname.vercel-dns.com", // noCF
   "dthings": "hosting.gitbook.io", // noCF
   "dtune": "rotekoppen.github.io/dtune",
   "du": "ruanyl.github.io/du", // noCF? (don´t add this in a new PR)
