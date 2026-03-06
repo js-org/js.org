@@ -308,6 +308,7 @@ var cnames_active = {
   "badlee": "badlee.github.io",
   "badonker": "redsplit.github.io/badonker",
   "badrudeen": "badrudeen.github.io", // noCF? (don´t add this in a new PR)
+  "bahrain": "bahrain-js.github.io/bahrain.js",
   "baicai": "zibaicai.github.io/baicaijsorg",
   "bakhtiyar": "bakszero.github.io",
   "bali": "balijs.github.io",
@@ -938,6 +939,7 @@ var cnames_active = {
   "dreygur": "dreygur.github.io",
   "drop": "dt-is-not-available.github.io/drop",
   "drr": "xyligan-gp.github.io/discord-reactions-roles",
+  "dry": "cname.vercel-dns.com", // noCF
   "dthings": "hosting.gitbook.io", // noCF
   "dtune": "rotekoppen.github.io/dtune",
   "du": "ruanyl.github.io/du", // noCF? (don´t add this in a new PR)
