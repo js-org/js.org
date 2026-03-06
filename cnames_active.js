@@ -1641,6 +1641,7 @@ var cnames_active = {
   "jsonapi-serde": "dasprid.github.io/jsonapi-serde-js",
   "jsoning": "khalby786.github.io/jsoning",
   "jsonql": "joel-chu.github.io/jsonql-org",
+  "jsonstudio": "sundegan.github.io/JsonStudio",
   "jsonui": "yourtion.github.io/vue-json-ui-editor",
   "jsonuri": "aligay.github.io/jsonuri",
   "jsp": "hiren2001.github.io/jsp",
