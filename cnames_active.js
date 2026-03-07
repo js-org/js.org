@@ -2277,6 +2277,7 @@ var cnames_active = {
   "noted": "carter-slade.github.io/Noted-", // noCF? (don´t add this in a new PR)
   "notepad": "amitmerchant1990.github.io/notepad",
   "nothing": "cbtak.github.io/nothing",
+  "nothing-reminder": "spydernet3.github.io/Nothing-Reminder",
   "notibar": "duyetdev.github.io/notibar.js",
   "notion-cms": "cname.vercel-dns.com", // noCF
   "nougat": "nougatlang.github.io",
