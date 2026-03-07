@@ -2960,6 +2960,7 @@ var cnames_active = {
   "shortio": "ichiidev.github.io/short.io-docs",
   "shovel": "bikeshaving.github.io/shovel",
   "shrimple": "shrimplejs.github.io",
+  "shubhamdev": "portfolio-shubham-virid-18.vercel.app",
   "shuffle": "vestride.github.io/Shuffle",
   "shuwan9": "shuwan9.github.io",
   "sidekick": "cname.vercel-dns.com", // noCF
@@ -3765,8 +3766,7 @@ var cnames_active = {
   "zyh": "zyh-chopper.github.io/zyh",
   "zykj": "cname.vercel-dns.com", // noCF
   "zyx": "zyx.alwaysdata.net",
-  "zyy": "zyyou.github.io/notes",
-  "shubhamdev": "portfolio-shubham-virid-18.vercel.app"
+  "zyy": "zyyou.github.io/notes"
   /*
    * please don't add your subdomain records down here!
    * insert them in alphabetical order to help reduce merge conflicts.
