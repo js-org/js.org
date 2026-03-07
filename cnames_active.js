@@ -3097,6 +3097,7 @@ var cnames_active = {
   "spritewerk": "bildepunkt.github.io/spritewerk", // noCF? (don´t add this in a new PR)
   "spud": "nikop100.github.io/spud",
   "spx": "spxjs.netlify.app",
+  "spydernet3": "spydernet3.github.io/Nothing-Reminder",
   "spyter": "cname.vercel-dns.com", // noCF
   "sql": "sql-js.github.io/sql.js",
   "sql2struct": "ymlair.github.io/sql2struct",
