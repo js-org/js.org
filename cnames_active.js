@@ -2277,6 +2277,7 @@ var cnames_active = {
   "noted": "carter-slade.github.io/Noted-", // noCF? (don´t add this in a new PR)
   "notepad": "amitmerchant1990.github.io/notepad",
   "nothing": "cbtak.github.io/nothing",
+  "nothing-reminder": "spydernet3.github.io/Nothing-Reminder",
   "notibar": "duyetdev.github.io/notibar.js",
   "notion-cms": "cname.vercel-dns.com", // noCF
   "nougat": "nougatlang.github.io",
@@ -3097,7 +3098,6 @@ var cnames_active = {
   "spritewerk": "bildepunkt.github.io/spritewerk", // noCF? (don´t add this in a new PR)
   "spud": "nikop100.github.io/spud",
   "spx": "spxjs.netlify.app",
-  "spydernet3": "spydernet3.github.io/Nothing-Reminder",
   "spyter": "cname.vercel-dns.com", // noCF
   "sql": "sql-js.github.io/sql.js",
   "sql2struct": "ymlair.github.io/sql2struct",
