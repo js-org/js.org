@@ -3379,6 +3379,7 @@ var cnames_active = {
   "turbo": "turbo.github.io",
   "turboprisma": "cname.vercel-dns.com", // noCF
   "tusk": "cname.vercel-dns.com", // noCF
+  "tutoring-manager-app": "tutoring-manager-one.vercel.app",
   "tw-themes": "kevinast.github.io/tw-themes",
   "twallpaper": "crashmax-dev.github.io/twallpaper",
   "twcopy": "the94air.github.io/twcopy",
