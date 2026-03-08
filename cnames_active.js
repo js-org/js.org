@@ -1,4 +1,4 @@
-/*
+f/*
  ***** ACTIVE SUBDOMAINS
  * ***********************
  *
@@ -2665,6 +2665,7 @@ var cnames_active = {
   "react-native-error-boundary": "cname.vercel-dns.com", // noCF
   "react-native-flex-layout": "cname.vercel-dns.com", // noCF
   "react-native-floating-labels": "mayank-patel.github.io/react-native-floating-labels",
+  "react-observable-context": "github.com/webKrafters/react-observable-context",
   "react-observatory": "hosting.gitbook.com",
   "react-papaparse": "react-papaparse.github.io",
   "react-pivottable": "plotly.github.io/react-pivottable",
