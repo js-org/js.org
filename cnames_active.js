@@ -2398,6 +2398,7 @@ var cnames_active = {
   "paperclip": "crcn.github.io/paperclip.js.org", // noCF? (don´t add this in a new PR)
   "papyrus": "papyrusjs.netlify.app",
   "parallel": "parallel-js.github.io/parallel.js",
+  "param141": "param141.github.io",
   "parametric-svg": "parametric-svg.github.io", // noCF? (don´t add this in a new PR)
   "parkrun": "prouser123.github.io/parkrun.js",
   "parley": "tomas-wrobel.github.io/parley",
