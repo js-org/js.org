@@ -1,7 +1,7 @@
 /*
  ***** ACTIVE SUBDOMAINS
  * ***********************
- *
+ *​"insureeuro": "ghs.google.com"
  * for the moment the following subdomains are active
  * file a pull request to add your own GitHub Page
  *
