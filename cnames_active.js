@@ -2584,6 +2584,7 @@ var cnames_active = {
   "pwa-workshop": "sylvainpolletvillard.github.io/pwa-workshop",
   "py-like": "ruben-arushanyan.github.io/py-like",
   "qbit": "fudan-mse.github.io/qbit",
+  "qijiu3011": "qijiu3011.github.io",
   "qs": "kirjs.github.io/qs.js", // noCF? (don´t add this in a new PR)
   "quacky": "quacky-bot.github.io",
   "quanta": "solarbrowser.github.io/w4q",
