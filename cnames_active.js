@@ -2791,6 +2791,7 @@ var cnames_active = {
   "reyes": "michaelbreyes.github.io/reyes",
   "rgbstrip": "xrealneon.github.io/RGBStrip",
   "rickdesantis": "rickdesantis.github.io",
+  "ridesync": "rahulkoti2277.github.io/carpool-app",
   "riffy": "cname.vercel-dns.com", // noCF
   "riiickyy": "riiickyy.github.io",
   "riklewis": "riklewis.github.io",
