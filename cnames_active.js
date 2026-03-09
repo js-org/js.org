@@ -902,6 +902,7 @@ var cnames_active = {
   "document-scanner": "websitebeaver.github.io/capacitor-document-scanner",
   "documentation": "documentationjs.github.io", // noCF? (don´t add this in a new PR)
   "docx": "dolanmiu.github.io/docx",
+  "dochelper-eu": "sixshot1968.github.io/dochelper-eu",
   "dodec-design": "dodec-design.github.io",
   "dogehq": "dogehq.github.io/dogehq",
   "dogstack": "dogstack.gitbooks.io", // noCF
