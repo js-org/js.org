@@ -1207,6 +1207,7 @@ var cnames_active = {
   "frame-depth": "nwong212.github.io/frame-wizard",
   "framelet": "potatoland4492.github.io/Framelet",
   "framework": "frameworkjavascript.github.io",
+  "frameworks": "martinproject.github.io/frameworks",
   "frameworkless": "mtimofiiv.github.io/frameworkless",
   "frankmosca": "alias.zeit.co", // noCF
   "freegpt": "ashishagarwal2023.github.io/freegpt.js.org",
