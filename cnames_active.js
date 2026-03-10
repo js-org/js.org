@@ -816,6 +816,7 @@ var cnames_active = {
   "diddle": "jylescoad-ward.github.io/diddle.js",
   "diffract": "ameyms.github.io/diffract", // noCF? (don´t add this in a new PR)
   "dime": "anut-py.github.io/dime",
+  "digitalvote": "danishkhank.github.io",
   "dinesh": "dineshondev.github.io/dinesh", // noCF? (don´t add this in a new PR)
   "dinosaur": "path08.github.io/Dinosaur",
   "dipole": "zheksoon.github.io/dipole",
