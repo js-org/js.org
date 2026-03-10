@@ -280,6 +280,7 @@ var cnames_active = {
   "avstream": "akash-joshi.github.io/avstream.js",
   "awai": "cname.vercel-dns.com", // noCF
   "awardify": "cname.vercel-dns.com", // noCF
+  "awakeningcodex": "dazzlingspree.github.io/awakeningcodex",
   "awesome-alexa": "dolanmiu.github.io/MMM-awesome-alexa",
   "awesome-javascript": "kungfu321.github.io/awesome-javascript",
   "awesome-nuxt": "ansidev.github.io/awesome-nuxt",
