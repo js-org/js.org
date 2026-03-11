@@ -750,7 +750,7 @@ var cnames_active = {
   "datamanager": "jvdesign-dev.github.io/datamanager.js",
   "datapack": "jacobwennebro.github.io/datapackjs",
   "datasense": "compositejs.github.io/datasense",
-  "datastream": "willfarrell.github.io/datastream",
+  "datastream": "datastreamjs.pages.dev",
   "datastructures": "deadcoder0904.github.io/datastructures",
   "date": "matthewmueller.github.io/date", // noCF? (don´t add this in a new PR)
   "datenel": "astrian.github.io/datenel-doc",
