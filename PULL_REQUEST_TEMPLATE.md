@@ -2,7 +2,11 @@
 
 Thanks for creating a pull request to request a new subdomain from JS.ORG
 
-Before creating your pull request, please read and complete the following steps:
+⚠️ Before continuing, your site content MUST be DIRECTLY related to the JavaScript ecosystem/community
+Having a site that is built with JavaScript is not a justification by itself for requesting a JS.ORG subdomain
+If you cannot explain why your site is relevant to JavaScript developers specifically, JS.ORG isn't for you
+
+📝 Please read and complete the following steps to correctly submit your request:
 
 - Ensure that your pull request changes only the cnames_active.js file, adding a single new line for your subdomain request
   - Follow the existing format established by the other entries, a new line with the subdomain as the key and the target hostname as the value
@@ -14,7 +18,6 @@ Before creating your pull request, please read and complete the following steps:
   - Explain what your site content is and how it relates to the JavaScript community/ecosystem, so we can validate your request
 
 - Ensure that your site content follows the content requirements set out in our README: https://github.com/js-org/js.org#content-requirements
-  - Notably, make sure that your site is not a personal site, and that it is clearly content that is relevant to the JavaScript community/ecosystem
 
 -->
 
@@ -22,4 +25,4 @@ Before creating your pull request, please read and complete the following steps:
 - [ ] I have read and accepted the [Terms and Conditions](http://js.org/terms.html)
 - The site content can be seen at <link>
 
-> The site content is ...
+> The site content is ... and is relevant to JavaScript developers specifically because ...
