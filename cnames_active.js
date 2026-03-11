@@ -1760,6 +1760,7 @@ var cnames_active = {
   "langpack": "compositejs.github.io/langpack",
   "languages": "rsamaium.github.io/Languages",
   "lanye": "lanye.github.io",
+  "latebutgreat": "melnykk-dev.github.io/LateButGreat",
   "larastrator": "the94air.github.io/larastrator",
   "lass": "lassjs.github.io/lass",
   "latex": "michael-brade.github.io/LaTeX.js",
