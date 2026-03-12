@@ -2242,7 +2242,7 @@ var cnames_active = {
   "nikita": "adaltas.github.io/node-nikita",
   "nikmartin": "nikmartin.github.io",
   "nima": "nimaw.github.io",
-  "nimod": "nimod-preview.vercel.app",
+  "nimodpacs": "nimod-preview.vercel.app",
   "ninh": "reeganexe.github.io/ninh",
   "nintenbot": "nintenzone.github.io/NintenBot",
   "niplayer": "niyuancheng.github.io/NiPlayerDocs",
