@@ -2394,7 +2394,6 @@ var cnames_active = {
   "pamatcher": "pmros.github.io/pamatcher", // noCF? (don´t add this in a new PR)
   "panda": "theaarushgupta.github.io/panda",
   "pangkeyd": "pangkeyd.github.io",
-  "psw1": "cuyovv.github.io",
   "pantarei": "pantareijs.github.io/pantarei.js.org",
   "panza": "panza-org.github.io/panza-docs", // noCF
   "papanasi": "witty-plant-07a086e03.1.azurestaticapps.net", // noCF
@@ -2566,6 +2565,7 @@ var cnames_active = {
   "pruf": "signalwerk.github.io/pruf",
   "pruthvisoni": "pruthvisooni.github.io",
   "ps": "spindlyskit.github.io/ps.js",
+  "psw1": "cuyovv.github.io",
   "pt-pt.single-spa": "single-spa.github.io/pt-pt.single-spa.js.org", // noCF
   "ptero": "pterojs.github.io/ptero.js-docs",
   "ptml": "axzr.github.io/ptml",
