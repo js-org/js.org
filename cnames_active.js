@@ -153,8 +153,7 @@ var cnames_active = {
   "alexanderalvarez": "alexanderalvarez9.github.io",
   "alfred": "amilajack.github.io/alfred",
   "algebra": "nicolewhite.github.io/algebra.js", // noCF? (don´t add this in a new PR)
-  "algoviz": "algo-viz-nu-five.vercel.app",
-
+  "algoviz": "cname.vercel-dns.com", // noCF
   "ali": "alibouhrouche.netlify.app",
   "ali-react-table": "alibaba.github.io/ali-react-table",
   "alien": "pschroen.github.io/alien.js",
