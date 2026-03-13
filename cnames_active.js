@@ -192,6 +192,7 @@ var cnames_active = {
   "anime": "meguminsama.github.io/anime",
   "animecursor": "shuninyu.github.io/anime-cursor",
   "animegan": "tonylianlong.github.io/AnimeGAN.js",
+  "aniliberty": "coredip.github.io/anilibria-tizen-wgt",
   "animo": "thrivingkings.github.io/animo",
   "animorph": "claudiobmgrtnr.github.io/animorph",
   "ankareport": "ankareport.github.io",
