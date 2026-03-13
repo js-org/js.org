@@ -1133,6 +1133,7 @@ var cnames_active = {
   "fe": "xcss.github.io/FE",
   "feature-u": "kevinast.github.io/feature-u",
   "feeble": "feeblejs.github.io/feeble",
+  "felpscnotes": "joseanelimajp040-lgtm.github.io/FelpscNotes",
   "fela": "cname.vercel-dns.com", // noCF
   "festercluck": "festercluck.github.io", // noCF? (don´t add this in a new PR)
   "fetch-json": "center-key.github.io/fetch-json",
