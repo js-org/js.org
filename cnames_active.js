@@ -1945,6 +1945,7 @@ var cnames_active = {
   "markdown-notepad": "jz222.github.io/markdown-notepad",
   "markdownify": "amitmerchant1990.github.io/electron-markdownify",
   "marked": "cname.vercel-dns.com", // noCF
+  "markit": "saurabhiam.github.io/markit",
   "markliu": "markliuyuxiang.github.io",
   "markmap": "gera2ld.github.io/markmap-lib",
   "markmapu": "markmap-universe.github.io",
