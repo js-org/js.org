@@ -1654,6 +1654,7 @@ var cnames_active = {
   "jspt": "levkris.github.io/jspt",
   "jssc": "justdevw.github.io/JSSC", // noCF
   "jstyle": "lxhom.github.io/jstyle", // noCF
+  "jnumathmp-8": "mdruhulamin98.github.io",
   "jsu": "jsutils.pages.dev",
   "jsx2html": "maddouri.github.io/jsx2html",
   "jsxcad": "jsxcad.github.io",
