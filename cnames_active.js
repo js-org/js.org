@@ -2338,6 +2338,7 @@ var cnames_active = {
   "omg": "pengjiyuan.github.io/omg",
   "omid": "omidnikrah.github.io/omid",
   "omniutils": "cname.vercel-dns.com", // noCF
+  "onepieceworldmap": "paradoxsid.github.io/One-Piece-Journey",
   "ongaku": "anshuman-verma.github.io/ongaku",
   "onii": "oniijs.github.io/onii",
   "onlang": "rajatasusual.github.io/on-lang",
