@@ -688,6 +688,7 @@ var cnames_active = {
   "crcalc": "lll69.github.io/crcalc.js",
   "creamcrop": "creamcropdev.github.io",
   "create-coffee-app": "legolovergo.github.io/create-coffee-app",
+  "creatorcoreai": "https://creatorcoreai.netlify.app/",
   "create-next-app": "create-next-app.github.io",
   "create-project": "chalarangelo.github.io/create-js-project",
   "create-ts-fast": "yangshun.github.io/create-ts-fast",
