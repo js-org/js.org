@@ -485,6 +485,7 @@ var cnames_active = {
   "canvasconstructor": "kyranet.github.io/canvas-constructor",
   "canvasui": "canvasui.github.io/docs",
   "canvg": "canvg.github.io/canvg",
+  "classic-math-games": "webdevchaos987.github.io",
   "canvo": "canvojs.github.io",
   "cap": "cap-js.github.io/docs",
   "capital": "capitaljs.github.io/capitaljs",
