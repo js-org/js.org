@@ -279,6 +279,7 @@ var cnames_active = {
   "avi": "avinassh.github.io/avi", // noCF? (don´t add this in a new PR)
   "avner": "avnerus.github.io", // noCF? (don´t add this in a new PR)
   "avo": "benjaminbhollon.github.io/avo-js",
+  "avocado": "soma-dun.vercel.app",
   "avstream": "akash-joshi.github.io/avstream.js",
   "awai": "cname.vercel-dns.com", // noCF
   "awardify": "cname.vercel-dns.com", // noCF
