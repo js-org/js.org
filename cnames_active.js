@@ -1362,7 +1362,7 @@ var cnames_active = {
   "guildedbot": "guilded-bot-npm.github.io/Guilded-Bot-Docs",
   "guildedts": "cname.vercel-dns.com", // noCF
   "guildeno": "guildeno.github.io/guildeno",
-  "guilds": "andrewdku.github.io/guilds.js",
+  "guilds": "guildsjs.github.io/guilds.js",
   "guilherme": "guilhermedelemos.github.io/guilherme",
   "guillotine": "matiasgagliano.github.io/guillotine", // noCF? (don´t add this in a new PR)
   "guitar": "ronyeh.github.io/guitar",
@@ -2016,6 +2016,7 @@ var cnames_active = {
   "mesh": "crcn.github.io/mesh.js.org", // noCF? (don´t add this in a new PR)
   "meshesha": "meshesha.github.io",
   "metadata": "oknosoft.github.io/metadata.js",
+  "metapulse": "noyjoyluckclub.github.io/metapulse",
   "metascraper": "microlinkhq.github.io/metascraper",
   "meth": "meth-meth-method.github.io/meth",
   "metho": "jonrandy.github.io/metho",
