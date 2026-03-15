@@ -633,6 +633,7 @@ var cnames_active = {
   "connect.stacks": "cname.vercel-dns.com", // noCF
   "consent": "datamart.github.io/Consent",
   "consono": "r37r0m0d3l.github.io/consono",
+  "connectologyia": "leandrofrancisco03.github.io/connectologyTest",
   "construyendotrabajo": "mteyss.github.io/construyendotrabajo", // noCF? (don´t add this in a new PR)
   "consultant": "jense5.github.io/consultant",
   "contentkit": "contentkit-docs.netlify.app", // noCF
