@@ -2212,6 +2212,7 @@ var cnames_active = {
   "next-auth": "alias.zeit.co", // noCF
   "next-crud": "next-crud.netlify.app",
   "next-qrcode": "next-qrcode.github.io",
+  "nextqr": "cname.vercel-dns.com", // noCF
   "next-redux-cookie-wrapper": "bjoluc.github.io/next-redux-cookie-wrapper",
   "next-share": "next-share.github.io",
   "next.awesome-vue": "awesome-vue.netlify.app", // noCF
