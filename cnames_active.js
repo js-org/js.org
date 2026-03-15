@@ -2220,11 +2220,11 @@ var cnames_active = {
   "next-auth": "alias.zeit.co", // noCF
   "next-crud": "next-crud.netlify.app",
   "next-qrcode": "next-qrcode.github.io",
-  "nextqr": "cname.vercel-dns.com", // noCF
   "next-redux-cookie-wrapper": "bjoluc.github.io/next-redux-cookie-wrapper",
   "next-share": "next-share.github.io",
   "next.awesome-vue": "awesome-vue.netlify.app", // noCF
   "nextkit-fetcher": "ultirequiem.github.io/nextkit-fetcher",
+  "nextqr": "cname.vercel-dns.com", // noCF
   "nexus": "nexusdi.github.io/core",
   "nflow": "nflow-js.github.io", // noCF? (don´t add this in a new PR)
   "nfui": "no-frills-ui.netlify.app",
