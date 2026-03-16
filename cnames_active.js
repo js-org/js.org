@@ -3351,6 +3351,7 @@ var cnames_active = {
   "transposer": "francesco-dipi.github.io/transposer",
   "tree-cli": "yangshun.github.io/tree-node-cli",
   "treebark": "danmarshall.github.io/treebark",
+  "treedegrees": "14cd7a78b5121102.vercel-dns-017.com", // noCF
   "trestle": "whiskeedev.github.io/trestle",
   "triangle": "aktomik.github.io/triangleOS",
   "trier": "creimers.github.io/trier",
