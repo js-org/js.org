@@ -1932,6 +1932,7 @@ var cnames_active = {
   "mapmyworld": "mapmyworld.github.io",
   "mappa": "cvalenzuela.github.io/Mappa",
   "mapsrc": "indus.github.io/mapsrc",
+  "marathilipi": "yuyutsu.github.io/marathilipi",
   "maquette": "afassoftware.github.io/maquette",
   "marble": "jsguy.github.io/marble",
   "marcelo": "marcelooggero.github.io/bootstrap",
