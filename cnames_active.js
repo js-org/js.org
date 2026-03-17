@@ -2357,6 +2357,7 @@ var cnames_active = {
   "openrecord": "philwaldmann.github.io/openrecord",
   "opentrivia-guide": "turtlepaw.github.io/trivia-docs",
   "opentype": "nodebox.github.io/opentype.js",
+  "opk": "cname.vercel-dns.com", // noCF
   "opmongo": "sanikava.github.io/OpMongo",
   "orbiton": "orbitonjs.github.io",
   "order-ai": "orderai.onrender.com", // noCF
