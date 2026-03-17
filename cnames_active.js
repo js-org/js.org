@@ -3454,6 +3454,7 @@ var cnames_active = {
   "updevs-db": "up-devs.github.io/db-docs",
   "uplo": "jpalumickas.github.io/uplo",
   "uppload": "uppload.netlify.app",
+  "upload-smith": "upload-smith.vercel.app",
   "upptime": "upptime.github.io/upptime.js.org",
   "upresent": "bobbybee.github.io/uPresent", // noCF? (don´t add this in a new PR)
   "upset": "upsetjs.github.io",
