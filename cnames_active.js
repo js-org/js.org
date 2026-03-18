@@ -2084,6 +2084,7 @@ var cnames_active = {
   "mobx-state-tree": "mobxjs.github.io/mobx-state-tree",
   "mocha1995": "doodlewind.github.io/mocha1995",
   "mock-cmdr": "ncjones.github.io/mock-cmdr",
+  "mock-extended": "tobysmith568.github.io/mock-extended",
   "mock-middleware": "luobotang.github.io/mock-middleware",
   "mockjs-lite": "52cik.github.io/mockjs-lite", // noCF
   "mockyeah": "mockyeah.netlify.app",
