@@ -2054,6 +2054,8 @@ var cnames_active = {
   "minigfm": "vercel.cdn.yt-blog.top", // noCF
   "minigrid": "henriquea.github.io/minigrid", // noCF? (don´t add this in a new PR)
   "minimizedb": "acarrr.github.io/minimizedb",
+  "minimal-todo": "https://d3iklzumyggx8e.cloudfront.net/",
+  "_2dabaa253a5b2922f069551dbf47ae18.minimal-todo.js.org.": "_12d9af3aecc0312afaac685fa95ca8c9.jkddzztszm.acm-validations.aws.",
   "mininote": "htdt.github.io/mininote",
   "minirouter": "milio48.github.io/minirouter.js",
   "minivaline": "minivaline.github.io",
