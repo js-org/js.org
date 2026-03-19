@@ -3390,6 +3390,7 @@ var cnames_active = {
   "tulsa": "thatguysam.github.io/tulsa.js",
   "turbine": "tschoffelen.github.io/turbine",
   "turbo": "turbo.github.io",
+  "turboforge": "turboforge-dev.github.io/turboforge",
   "turboprisma": "cname.vercel-dns.com", // noCF
   "tusk": "cname.vercel-dns.com", // noCF
   "tw-themes": "kevinast.github.io/tw-themes",
