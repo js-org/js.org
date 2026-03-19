@@ -3186,6 +3186,7 @@ var cnames_active = {
   "subatomic": "thelazycodernothacker.github.io/Subatomic-Homepage",
   "subeditor": "shirtiny.github.io/SubEditor",
   "submodule": "submodule-js.github.io/site",
+  "subs": "montagesubs.github.io/ass-subset",
   "subplayer": "zhw2590582.github.io/SubPlayer",
   "suchary": "skorotkiewicz.github.io/suchary",
   "sudarshan": "sudarshanraul.github.io",
