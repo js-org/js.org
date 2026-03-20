@@ -3016,6 +3016,7 @@ var cnames_active = {
   "sketch": "keiww.github.io/sketch",
   "skillsync": "adityasugandhi.github.io/skillsync-mcp",
   "skiyee": "netlify-cname.xingpingcn.top", // noCF
+  "skooly": "classly-amber.vercel.app",
   "skratch": "websyncs.github.io/skratch",
   "sksamim": "esksamim.github.io/sksamim",
   "skyle": "skylejs.github.io/skyle",
