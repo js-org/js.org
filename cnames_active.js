@@ -3187,6 +3187,7 @@ var cnames_active = {
   "subeditor": "shirtiny.github.io/SubEditor",
   "submodule": "submodule-js.github.io/site",
   "subplayer": "zhw2590582.github.io/SubPlayer",
+  "subs": "montagesubs.github.io", // noCF
   "suchary": "skorotkiewicz.github.io/suchary",
   "sudarshan": "sudarshanraul.github.io",
   "sudoku": "andreynering.github.io/sudoku",
@@ -3233,6 +3234,7 @@ var cnames_active = {
   "sxcu": "m-phoenix852.github.io/sxcu.js-docs",
   "sxw": "sxwjs.github.io",
   "sydinh": "sydinh.github.io",
+  "sygnal": "tpresley.github.io/sygnal",
   "synclyrics": "stef-00012.github.io/SyncLyrics-npm",
   "synergies": "lukasbach.github.io/synergies",
   "synth": "lukehorvat.github.io/synth-mood",
@@ -3391,6 +3393,7 @@ var cnames_active = {
   "tulsa": "thatguysam.github.io/tulsa.js",
   "turbine": "tschoffelen.github.io/turbine",
   "turbo": "turbo.github.io",
+  "turboforge": "turboforge-dev.github.io/turboforge",
   "turboprisma": "cname.vercel-dns.com", // noCF
   "tusk": "cname.vercel-dns.com", // noCF
   "tw-themes": "kevinast.github.io/tw-themes",
