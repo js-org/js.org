@@ -701,7 +701,7 @@ var cnames_active = {
   "cryptons-api": "agenthackeryt.github.io/cryptons-api",
   "crystaldb": "erikmcm.github.io/CrystalDB",
   "crystalpay-sdk": "deadshumz.github.io/crystalpay-sdk",
-  "css-animator": "rukkit-official.github.io/CSS-animator/", 
+  "css-animator": "rukkit-official.github.io/CSS-animator",
   "css-variable": "jantimon.github.io/css-variable",
   "cssfun": "8tentaculos.github.io/cssfun",
   "cssx": "salteadorneo.github.io/cssx",
