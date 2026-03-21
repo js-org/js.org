@@ -1203,6 +1203,7 @@ var cnames_active = {
   "foxify": "foxifyjs.github.io/foxify",
   "foxman": "kaola-fed.github.io/foxman",
   "foxochat": "foxogram-js.pages.dev",
+  "foxweb": "foxweb.pages.dev",
   "fp": "iotcat.github.io/fp",
   "fr.single-spa": "single-spa.github.io/fr.single-spa.js.org", // noCF
   "fragment": "fragmentjs.webnova.it",
