@@ -210,7 +210,7 @@ var cnames_active = {
   "api.just": "js-just.github.io/raw-api", // noCF
   "apicluster": "ramsunvtech.github.io/apicluster", // noCF? (don´t add this in a new PR)
   "apilyertia": "apilyertia.github.io",
-  "aping": "johnnythetank.github.io/apiNG", // noCF? (don´t add this in a new PR)h
+  "aping": "johnnythetank.github.io/apiNG", // noCF? (don´t add this in a new PR)
   "aplayer": "diygod.github.io/APlayer",
   "aplayer-react": "cname.vercel-dns.com", // noCF
   "apod": "marcosflorencio.github.io/angular-apod", // noCF? (don´t add this in a new PR)
@@ -231,7 +231,7 @@ var cnames_active = {
   "ari": "arbo77.github.io/ari",
   "ariang": "p3terx.github.io/ariang", // noCF
   "arief": "1997arief.github.io",
-    "ariel-dashboard": "reuvenkazorer27.github.io/ariel-dashboard",
+  "ariel-dashboard": "reuvenkazorer27.github.io/ariel-dashboard",
   "aries": "timoglastra.github.io/aries-credo-redirect",
   "arime": "ninbryan.github.io/arime", // noCF? (don´t add this in a new PR)
   "arithmy": "arithmy.netlify.app",
