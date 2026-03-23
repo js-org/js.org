@@ -61,26 +61,25 @@ jobs:
             const body = context.payload.pull_request.body || "";
 
             // 1. Check both checkboxes
-            const checkbox1 = /\[x\].*?There is reasonable content/i.test(body);
-            const checkbox2 = /\[x\].*?I have read and accepted/i.test(body);
+            const reasonableContent = /^[ \t]*-[ \t]+\[x\].*?There is reasonable content on the page/im.test(body);
+            const termsAndConditions = /^[ \t]*-[ \t]+\[x\].*?I have read and accepted the \[Terms and Conditions\]/im.test(body);
 
             // 2. URL must be on the exact "The site content can be seen at ..." line
             // https://regex101.com/r/N36fsT
-            const urlLineRegex = /^[ \t]*-[ \t]*The site content can be seen at[ \t]+(?:<)?(?:\[.*?\]\()?https?:\/\/[^\s>()]+(?:\))?(?:>)?/m;
-            const urlMatch = urlLineRegex.exec(body);
-            const urlValid = urlMatch !== null;
+            const urlMatch = /^[ \t]*-[ \t]*The site content can be seen at[ \t]+(?:<)?(?:\[.*?\]\()?https?:\/\/[^\s>()]+(?:\))?(?:>)?/im.exec(body);
+            const url = !!urlMatch;
 
             // 3. Explanation must follow the blockquote marker
-            const explanationMatch = />\s*The site content is(?:\s*|\s*\n)(.+)/i.exec(body);
-            const explanation = explanationMatch && explanationMatch[1].trim().length > 10;
+            const explanationMatch = />\s*The site content is(?:\s*|\s*\n)(.+)(?:\s*|\s*\n)and is relevant to JavaScript developers specifically because(?:\s*|\s*\n)(.+)/i.exec(body);
+            const explanation = explanationMatch && explanationMatch[1].trim().length > 10 && explanationMatch[2].trim().length > 10;
 
-            if (!checkbox1 || !checkbox2 || !urlValid || !explanation) {
+            if (!reasonableContent || !termsAndConditions || !url || !explanation) {
               core.setFailed(
                 "❌ PR template is not properly filled:\n" +
-                `Checkbox1: ${checkbox1 ? '✅' : '❌'}\n` +
-                `Checkbox2: ${checkbox2 ? '✅' : '❌'}\n` +
-                `URL on correct line: ${urlValid ? '✅' : '❌'}\n` +
-                `Explanation: ${explanation ? '✅' : '❌'}`
+                `Reasonable content: ${reasonableContent ? '✅' : '❌'}\n` +
+                `Terms and conditions: ${termsAndConditions ? '✅' : '❌'}\n` +
+                `Content URL: ${url ? '✅' : '❌'}\n` +
+                `Content Explanation: ${explanation ? '✅' : '❌'}`
               );
             } else {
               console.log("✅ PR template format is valid.");
