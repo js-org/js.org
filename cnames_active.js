@@ -2772,6 +2772,7 @@ var cnames_active = {
   "remote-faces": "dai-shi.github.io/remote-faces",
   "rengular": "chigix.github.io/rengular",
   "repackage": "cchamberlain.github.io/repackage", // noCF? (don´t add this in a new PR)
+  "repeat-js": "hifirsty999.github.io",
   "repeater": "repeaterjs.github.io/repeater",
   "repl": "snowflyt.github.io/repl",
   "replay": "edbentley.github.io/replay",
@@ -2857,7 +2858,6 @@ var cnames_active = {
   "ruwan": "rpgee.github.io",
   "rva": "fanyer.github.io/rva",
   "ryaneldon": "ry-e.github.io",
-  "repeat-js": "hifirsty999.github.io",
   "saaskit": "cname.vercel-dns.com", // noCF
   "sacgencode": "sacgencode.github.io",
   "saeed": "mrsaeeddev.github.io",
