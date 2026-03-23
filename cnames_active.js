@@ -1958,6 +1958,7 @@ var cnames_active = {
   "mars": "marswong.github.io/blog",
   "martin": "martinbutler.github.io", // noCF? (don´t add this in a new PR)
   "martingollogly": "martingollogly.github.io", // noCF? (don´t add this in a new PR)
+  "martinsubira": "ficciontvpatagonia-tech.github.io/Martin_Subira_Director_WEB",
   "marxist": "wuz.github.io/marxistjs",
   "masha": "smarttelemax.github.io/MaSha",
   "masonry-grid": "trigensoftware.github.io/masonry-grid",
