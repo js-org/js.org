@@ -23,8 +23,7 @@ jobs:
       pull-requests: write
 
     steps:
-      - name: Generate message
-        id: message
+      - name: Generate comment
         uses: actions/github-script@ed597411d8f924073f98dfc5c65a23a2325f34cd # v8.0.0
         with:
           script: |
@@ -59,32 +58,44 @@ jobs:
 
             // 2. PR description validation result, linking to the raw PR template file for reference
             if (descriptionCheck.conclusion === 'failure') {
-              const descriptionAnnotations = await github.rest.checks.listAnnotations({
+              const annotations = await github.rest.checks.listAnnotations({
                 owner: context.repo.owner,
                 repo: context.repo.repo,
                 check_run_id: descriptionCheck.id,
               });
-              if (!descriptionAnnotations.data[0]) throw new Error("Could not find annotations for PR description check run");
+              if (!annotations.data[0]) throw new Error("Could not find annotations for PR description check run");
 
               messages.push(
                 "**❌ PR description validation failed due to being incorrectly formatted.**",
                 `_[Use the provided template and ensure all information is provided](https://raw.githubusercontent.com/${context.repo.owner}/${context.repo.repo}/${context.payload.repository.default_branch}/PULL_REQUEST_TEMPLATE.md)._`,
                 "",
-                descriptionAnnotations.data[0].message.split("\n").slice(1).join("\n"),
+                annotations.data[0].message.split("\n").slice(1).join("\n"),
                 "", "---", "",
               );
             }
 
             if (messages.length) {
               messages.push("**⚠️ You must resolve these issues before your JS.org subdomain request can be accepted.**");
-              core.setOutput("message", messages.join("\n"));
             } else {
-              core.setOutput("message", "✅ All validations passed! Please wait for the JS.org maintainers to process your subdomain request.");
+              messages.push("✅ All validations passed! Please wait for the JS.org maintainers to process your subdomain request.");
             }
 
-      - name: Post comment
-        uses: thollander/actions-comment-pull-request@24bffb9b452ba05a4f3f77933840a6a841d1b32b # v3.0.1
-        with:
-          message: ${{ steps.message.outputs.message }}
-          comment-tag: jsorg-validation
-          pr-number: ${{ github.event.workflow_run.pull_requests[0].number }}
+            const existingComment = await github.rest.issues.listComments({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.payload.workflow_run.pull_requests[0].number,
+            }).then(r => r.data.find(c => c.user.login === 'github-actions[bot]' && c.body.startsWith("<!-- jsorg-validation -->\n\n")));
+
+            await existingComment
+              ? github.rest.issues.updateComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                comment_id: existingComment.id,
+                body: `<!-- jsorg-validation -->\n\n${messages.join("\n")}`,
+              })
+              : github.rest.issues.createComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: context.payload.workflow_run.pull_requests[0].number,
+                body: `<!-- jsorg-validation -->\n\n${messages.join("\n")}`,
+              });
