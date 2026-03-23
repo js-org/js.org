@@ -11,8 +11,8 @@ permissions: {}
 
 jobs:
   comment:
-    # Only leave comments on PRs, except when the PR is from Dependabot
-    if: github.event.workflow_run.event == 'pull_request' && github.event.workflow_run.pull_requests[0].user.login != 'dependabot[bot]'
+    # Only leave comments on PRs
+    if: github.event.workflow_run.event == 'pull_request'
 
     name: PR comment
     runs-on: ubuntu-latest
@@ -27,6 +27,18 @@ jobs:
         uses: actions/github-script@ed597411d8f924073f98dfc5c65a23a2325f34cd # v8.0.0
         with:
           script: |
+            // Find PR via API as workflow_run.pull_requests is not populated for forks
+            const pr = await github.rest.repos.listPullRequestsAssociatedWithCommit({
+              owner: context.payload.workflow_run.head_repository.owner.login,
+              repo: context.payload.workflow_run.head_repository.name,
+              commit_sha: context.payload.workflow_run.head_sha,
+            }).then(r => r.data.sort((a, b) => new Date(b.updated_at) - new Date(a.updated_at)).find(p => ["open", "draft"].includes(p.state)));
+            if (!pr) throw new Error("Could not find associated PR for workflow run");
+
+            // Skip Dependabot PRs as they skip PR description validation
+            if (pr.user.login === "dependabot[bot]") return;
+
+            // Locate the validation checks for the workflow run
             const workflowRun = await github.rest.actions.getWorkflowRun({
               owner: context.repo.owner,
               repo: context.repo.repo,
@@ -48,16 +60,16 @@ jobs:
             const messages = [];
             
             // 1. cnames_active.js validation result, linking to the files changed tab for annotations
-            if (cnamesCheck.conclusion === 'failure') {
+            if (cnamesCheck.conclusion === "failure") {
               messages.push(
                 "**❌ `cnames_active.js` validation failed due to being incorrectly formatted.**",
-                `_[Check file annotations for failure details](${context.payload.workflow_run.pull_requests[0].html_url}/files)._`,
+                `_[Check file annotations for failure details](${pr.html_url}/files)._`,
                 "", "---", "",
               );
             }
 
             // 2. PR description validation result, linking to the raw PR template file for reference
-            if (descriptionCheck.conclusion === 'failure') {
+            if (descriptionCheck.conclusion === "failure") {
               const annotations = await github.rest.checks.listAnnotations({
                 owner: context.repo.owner,
                 repo: context.repo.repo,
@@ -80,11 +92,12 @@ jobs:
               messages.push("✅ All validations passed! Please wait for the JS.org maintainers to process your subdomain request.");
             }
 
+            // Create, or update, a comment on the PR with the validation results
             const existingComment = await github.rest.issues.listComments({
               owner: context.repo.owner,
               repo: context.repo.repo,
-              issue_number: context.payload.workflow_run.pull_requests[0].number,
-            }).then(r => r.data.find(c => c.user.login === 'github-actions[bot]' && c.body.startsWith("<!-- jsorg-validation -->\n\n")));
+              issue_number: pr.number,
+            }).then(r => r.data.find(c => c.user.login === "github-actions[bot]" && c.body.startsWith("<!-- jsorg-validation -->\n\n")));
 
             await existingComment
               ? github.rest.issues.updateComment({
@@ -96,6 +109,6 @@ jobs:
               : github.rest.issues.createComment({
                 owner: context.repo.owner,
                 repo: context.repo.repo,
-                issue_number: context.payload.workflow_run.pull_requests[0].number,
+                issue_number: pr.number,
                 body: `<!-- jsorg-validation -->\n\n${messages.join("\n")}`,
               });
