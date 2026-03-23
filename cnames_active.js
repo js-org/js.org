@@ -2857,6 +2857,7 @@ var cnames_active = {
   "ruwan": "rpgee.github.io",
   "rva": "fanyer.github.io/rva",
   "ryaneldon": "ry-e.github.io",
+  "repeat-js": "hifirsty999.github.io",
   "saaskit": "cname.vercel-dns.com", // noCF
   "sacgencode": "sacgencode.github.io",
   "saeed": "mrsaeeddev.github.io",
@@ -3789,8 +3790,7 @@ var cnames_active = {
   "zykj": "cname.vercel-dns.com", // noCF
   "zylog": "cname.vercel-dns.com", // noCF
   "zyx": "zyx.alwaysdata.net",
-  "zyy": "zyyou.github.io/notes",
-  "repeat-js": "hifirsty999.github.io"
+  "zyy": "zyyou.github.io/notes"
   /*
    * please don't add your subdomain records down here!
    * insert them in alphabetical order to help reduce merge conflicts.
