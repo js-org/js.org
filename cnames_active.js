@@ -3034,6 +3034,7 @@ var cnames_active = {
   "slimetype": "slimewell.github.io/slimetype",
   "slinky": "alizahid.github.io/slinky",
   "slyde": "tygo-van-den-hurk.github.io/Slyde",
+  "sm64": "improvedlabs.github.io/sm64-webport2",
   "smartestchatbot": "lebyy.github.io/smartestchatbotdocs",
   "smartquotes": "kellym.github.io/smartquotes.js",
   "smiley": "smiley422.github.io",
