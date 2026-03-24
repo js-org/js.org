@@ -3756,6 +3756,7 @@ var cnames_active = {
   "yurba": "cname.vercel-dns.com", // noCF
   "yurd": "thebigbot0000.github.io/yurd.js.org",
   "yuuka": "yuukajs.github.io/docs",
+  "yunite": "discify.github.io/yunite.js",
   "yuye": "cyea.github.io",
   "yvm": "tophat.github.io/yvm",
   "zaimu": "zaimu.netlify.app", // noCF
