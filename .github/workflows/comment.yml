@@ -27,12 +27,16 @@ jobs:
         uses: actions/github-script@ed597411d8f924073f98dfc5c65a23a2325f34cd # v8.0.0
         with:
           script: |
-            // Find PR via API as workflow_run.pull_requests is not populated for forks
-            const pr = await github.rest.repos.listPullRequestsAssociatedWithCommit({
-              owner: context.payload.workflow_run.head_repository.owner.login,
-              repo: context.payload.workflow_run.head_repository.name,
-              commit_sha: context.payload.workflow_run.head_sha,
-            }).then(r => r.data.sort((a, b) => new Date(b.updated_at) - new Date(a.updated_at)).find(p => ["open", "draft"].includes(p.state)));
+            // Find associated PR for this workflow run, handling workflow_run.pull_requests being empty when from a fork.
+            const pr = context.payload.workflow_run.pull_requests[0] || await github.rest.pulls.list({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              state: "open",
+              head: `${context.payload.workflow_run.head_repository.owner.login}:${context.payload.workflow_run.head_branch}`,
+              sort: "updated",
+              direction: "desc",
+              per_page: 100,
+            }).then(r => r.data[0]);
             if (!pr) throw new Error("Could not find associated PR for workflow run");
 
             // Skip Dependabot PRs as they skip PR description validation
