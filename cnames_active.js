@@ -65,7 +65,7 @@ var cnames_active = {
   "a11y-live": "kvnq-poza.github.io/a11y-live",
   "a11yslider": "mmahandev.github.io/a11y-slider",
   "a2ui-sdk": "easyops-cn.github.io/a2ui-sdk",
-  "aryanweblabs": "AryanWebLabs.github.io",
+  "aryanweblabs": "aryanweblabs.github.io",
   "a6smile": "a6smile.github.io",
   "aalaap": "aalaap.github.io",
   "aaron": "57aaron.github.io",
