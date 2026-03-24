@@ -13,20 +13,20 @@ on:
       - edited
       - synchronize
 
-permissions:
-  contents: read
+permissions: {}
 
 jobs:
   validate-cnames:
+    name: cnames_active.js
     runs-on: ubuntu-latest
 
-    env:
-      GH_EVENT_HASH: ${{ github.event_name == 'pull_request' && github.event.pull_request.head.sha || github.sha }}
+    permissions:
+      contents: read
 
     steps:
       - uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6.0.2
         with:
-          ref: ${{ env.GH_EVENT_HASH }}
+          ref: ${{ github.event_name == 'pull_request' && github.event.pull_request.head.sha || github.sha }}
 
       - uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6.0.2
         with:
@@ -47,40 +47,41 @@ jobs:
         run: node index.js --validate ../cnames_active.js
         working-directory: cleanup
 
-  validate-pr-template:
-    # Only validate PR templates for PRs, except when the PR is from Dependabot
+  validate-description:
+    # Only validate descriptions for PRs, except when the PR is from Dependabot
     if: github.event_name == 'pull_request' && github.event.pull_request.user.login != 'dependabot[bot]'
 
+    name: PR description
     runs-on: ubuntu-latest
 
+    permissions: {}
+
     steps:
-      - name: Validate PR template
+      - name: Validate PR description
         uses: actions/github-script@ed597411d8f924073f98dfc5c65a23a2325f34cd # v8.0.0
         with:
           script: |
             const body = context.payload.pull_request.body || "";
+            const failures = [];
 
             // 1. Check both checkboxes
             const reasonableContent = /^[ \t]*-[ \t]+\[x\].*?There is reasonable content on the page/im.test(body);
+            if (!reasonableContent) failures.push("Reasonable content checkbox is not checked.");
+
             const termsAndConditions = /^[ \t]*-[ \t]+\[x\].*?I have read and accepted the \[Terms and Conditions\]/im.test(body);
+            if (!termsAndConditions) failures.push("Terms and conditions checkbox is not checked.");
 
             // 2. URL must be on the exact "The site content can be seen at ..." line
             // https://regex101.com/r/N36fsT
-            const urlMatch = /^[ \t]*-[ \t]*The site content can be seen at[ \t]+(?:<)?(?:\[.*?\]\()?https?:\/\/[^\s>()]+(?:\))?(?:>)?/im.exec(body);
-            const url = !!urlMatch;
+            const url = /^[ \t]*-[ \t]*The site content can be seen at[ \t]+(?:<)?(?:\[.*?\]\()?https?:\/\/[^\s>()]+(?:\))?(?:>)?/im.exec(body);
+            if (!url) failures.push("Content URL is missing or not in the correct format.");
 
             // 3. Explanation must follow the blockquote marker
-            const explanationMatch = />\s*The site content is(?:\s*|\s*\n)(.+)(?:\s*|\s*\n)and is relevant to JavaScript developers specifically because(?:\s*|\s*\n)(.+)/i.exec(body);
-            const explanation = explanationMatch && explanationMatch[1].trim().length > 10 && explanationMatch[2].trim().length > 10;
+            const explanation = />\s*The site content is(?:\s*|\s*\n)(.+)(?:\s*|\s*\n)and is relevant to JavaScript developers specifically because(?:\s*|\s*\n)(.+)/i.exec(body);
+            if (!explanation || explanation[1].trim().length <= 10 || explanation[2].trim().length <= 10) failures.push("Content explanation is missing or too short.");
 
-            if (!reasonableContent || !termsAndConditions || !url || !explanation) {
-              core.setFailed(
-                "❌ PR template is not properly filled:\n" +
-                `Reasonable content: ${reasonableContent ? '✅' : '❌'}\n` +
-                `Terms and conditions: ${termsAndConditions ? '✅' : '❌'}\n` +
-                `Content URL: ${url ? '✅' : '❌'}\n` +
-                `Content Explanation: ${explanation ? '✅' : '❌'}`
-              );
+            if (failures.length) {
+              core.setFailed(["❌ PR description format is invalid.", ...failures.map(f => `- ${f}`)].join("\n"));
             } else {
-              console.log("✅ PR template format is valid.");
+              console.log("✅ PR description format is valid.");
             }
