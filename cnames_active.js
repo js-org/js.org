@@ -3554,6 +3554,7 @@ var cnames_active = {
   "viperhtml": "viperhtml.github.io",
   "virtual-clock": "dvdgiessen.github.io/virtual-clock",
   "virtual-keyboard": "virtual-keyboard-javascript.github.io",
+  "vishalwork": "vishalwork.github.io",
   "visual": "idescat.github.io/visual",
   "visualize-it": "kevinast.github.io/visualize-it",
   "visualized-execution": "codaisseur.github.io/visualized-execution",
