@@ -1128,6 +1128,7 @@ var cnames_active = {
   "fasteer": "fasteerjs.github.io",
   "faux": "fauxos.github.io",
   "favicon": "kaerez.github.io/favicon",
+  "favium": "cname.vercel-dns.com", // noCF
   "fcanvas": "fcanvas.github.io/docs",
   "fcbosque": "cronopio.github.io/fcbosque", // noCF? (don´t add this in a new PR)
   "fe": "xcss.github.io/FE",
