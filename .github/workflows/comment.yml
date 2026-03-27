@@ -1,0 +1,118 @@
+name: Comment
+
+on:
+  workflow_run:
+    workflows:
+      - Validate
+    types:
+      - completed
+
+permissions: {}
+
+jobs:
+  comment:
+    # Only leave comments on PRs
+    if: github.event.workflow_run.event == 'pull_request'
+
+    name: PR comment
+    runs-on: ubuntu-latest
+
+    permissions:
+      actions: read
+      checks: read
+      pull-requests: write
+
+    steps:
+      - name: Generate comment
+        uses: actions/github-script@ed597411d8f924073f98dfc5c65a23a2325f34cd # v8.0.0
+        with:
+          script: |
+            // Find associated PR for this workflow run, handling workflow_run.pull_requests being empty when from a fork.
+            const pr = context.payload.workflow_run.pull_requests[0] || await github.rest.pulls.list({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              state: "open",
+              head: `${context.payload.workflow_run.head_repository.owner.login}:${context.payload.workflow_run.head_branch}`,
+              sort: "updated",
+              direction: "desc",
+              per_page: 100,
+            }).then(r => r.data[0]);
+            if (!pr) throw new Error("Could not find associated PR for workflow run");
+
+            // Skip Dependabot PRs as they skip PR description validation
+            if (pr.user.login === "dependabot[bot]") return;
+
+            // Locate the validation checks for the workflow run
+            const workflowRun = await github.rest.actions.getWorkflowRun({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              run_id: context.payload.workflow_run.id,
+            });
+
+            const checks = await github.rest.checks.listForSuite({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              check_suite_id: workflowRun.data.check_suite_id,
+            });
+
+            const cnamesCheck = checks.data.check_runs.find(check => check.name === "cnames_active.js");
+            if (!cnamesCheck) throw new Error("Could not find cnames_active.js check run");
+
+            const descriptionCheck = checks.data.check_runs.find(check => check.name === "PR description");
+            if (!descriptionCheck) throw new Error("Could not find PR description check run");
+            
+            const messages = [];
+            
+            // 1. cnames_active.js validation result, linking to the files changed tab for annotations
+            if (cnamesCheck.conclusion === "failure") {
+              messages.push(
+                "**❌ `cnames_active.js` validation failed due to being incorrectly formatted.**",
+                `_[Check file annotations for failure details](${pr.html_url}/files)._`,
+                "", "---", "",
+              );
+            }
+
+            // 2. PR description validation result, linking to the raw PR template file for reference
+            if (descriptionCheck.conclusion === "failure") {
+              const annotations = await github.rest.checks.listAnnotations({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                check_run_id: descriptionCheck.id,
+              });
+              if (!annotations.data[0]) throw new Error("Could not find annotations for PR description check run");
+
+              messages.push(
+                "**❌ PR description validation failed due to being incorrectly formatted.**",
+                `_[Use the provided template and ensure all information is provided](https://raw.githubusercontent.com/${context.repo.owner}/${context.repo.repo}/${context.payload.repository.default_branch}/PULL_REQUEST_TEMPLATE.md)._`,
+                "",
+                annotations.data[0].message.split("\n").slice(1).join("\n"),
+                "", "---", "",
+              );
+            }
+
+            if (messages.length) {
+              messages.push("**⚠️ You must resolve these issues before your JS.org subdomain request can be accepted.**");
+            } else {
+              messages.push("✅ All validations passed! Please wait for the JS.org maintainers to process your subdomain request.");
+            }
+
+            // Create, or update, a comment on the PR with the validation results
+            const existingComment = await github.rest.issues.listComments({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: pr.number,
+            }).then(r => r.data.find(c => c.user.login === "github-actions[bot]" && c.body.startsWith("<!-- jsorg-validation -->\n\n")));
+
+            await existingComment
+              ? github.rest.issues.updateComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                comment_id: existingComment.id,
+                body: `<!-- jsorg-validation -->\n\n${messages.join("\n")}`,
+              })
+              : github.rest.issues.createComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: pr.number,
+                body: `<!-- jsorg-validation -->\n\n${messages.join("\n")}`,
+              });
