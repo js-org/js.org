@@ -1698,6 +1698,7 @@ var cnames_active = {
   "keyvhq": "microlinkhq.github.io/keyvhq",
   "keyvify": "zyrouge.github.io/Keyvify",
   "kfg": "drysius.github.io/kfg",
+  "kickstack": "cname.vercel-dns.com", // noCF
   "kilobyte": "kilobytehq.github.io/open-js",
   "kilvin": "rofrischmann.github.io/kilvin",
   "kim": "khareemnurulla.github.io/kim",
@@ -3048,6 +3049,7 @@ var cnames_active = {
   "snapshot": "vishnupsatish.github.io/snapshot",
   "snekfetch": "devsnek.github.io/snekfetch",
   "snip": "ashy-sea-0a4231910.5.azurestaticapps.net", // noCF
+  "snipify": "cname.vercel-dns.com", // noCF
   "snippet": "jmas.github.io/gist",
   "snow": "cname.vercel-dns.com", // noCF
   "snowbox": "yuxizhe.github.io/snowbox",
