@@ -360,6 +360,7 @@ var cnames_active = {
   "better-upload": "better-upload.pages.dev",
   "bettertests": "antgonzales.github.io/bettertests.js.org",
   "between": "na-west1.surge.sh",
+  "biobrain": "biobrain-production.up.railway.app",
   "bhailang": "dullabs.github.io/bhai-lang",
   "bigbrainbot": "112batman.github.io/bigbrainbot-website",
   "bigbro": "cname.vercel-dns.com", // noCF
