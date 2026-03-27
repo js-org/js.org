@@ -2960,6 +2960,7 @@ var cnames_active = {
   "sheet": "sheetjs.github.io/sheet.js.org",
   "shekhar": "shekharreddy4.github.io/Shekhar",
   "shell": "adaltas.github.io/node-shell",
+  "shepu": "shepu9462-art.github.io",
   "sheweny": "sheweny.github.io/framework",
   "shex": "shexjs.github.io/shex.js",
   "shift": "shift-wasm.pages.dev",
@@ -3794,6 +3795,7 @@ var cnames_active = {
   "zylog": "cname.vercel-dns.com", // noCF
   "zyx": "zyx.alwaysdata.net",
   "zyy": "zyyou.github.io/notes"
+  
   /*
    * please don't add your subdomain records down here!
    * insert them in alphabetical order to help reduce merge conflicts.
