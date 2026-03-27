@@ -3,8 +3,8 @@
 Thanks for creating a pull request to request a new subdomain from JS.ORG
 
 ⚠️ Before continuing, your site content MUST be DIRECTLY related to the JavaScript ecosystem/community
-Building a website with JavaScript doesn't automatically entitle a project to a JS.ORG subdomain
-You must be able to explain why your website is specifically relevant to other JavaScript developers
+Using JavaScript on your website is not justification by itself for requesting a subdomain from JS.ORG
+You must explain why your website content, not the code, is specifically relevant to other JavaScript developers
 
 📝 Please read and complete the following steps to correctly submit your request:
 
