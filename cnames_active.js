@@ -1678,6 +1678,7 @@ var cnames_active = {
   "kairusds": "kairusds.github.io",
   "kaleidopixel": "fzxx.github.io/KaleidoPixel",
   "kali": "kali65536.github.io",
+  "BruceDawnsown": "https://ricardosouza.js.org",
   "kalm": "fed135.github.io/kalm.github.io", // noCF? (don´t add this in a new PR)
   "kampala": "javascriptkampala.github.io/kampala",
   "kanji": "eidoriantan.github.io/kanji.js",
