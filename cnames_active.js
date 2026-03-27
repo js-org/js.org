@@ -21,6 +21,7 @@
  *              (all the lines marked with '// noCF?' are from a time when a requester had to explicitly opt-in;
  *              see: https://github.com/js-org/js.org/issues/554)
  *
+ *
  * IMPORTANT:   To authorize yourself as the owner of the GitHub Page you must have added a valid CNAME file
  *              (with the requested domain, e.g.: "foo.js.org") to your repository.
  *              The requested subdomain must match either your GitHub username or the name of your project
@@ -3796,6 +3797,7 @@ var cnames_active = {
   "zylog": "cname.vercel-dns.com", // noCF
   "zyx": "zyx.alwaysdata.net",
   "zyy": "zyyou.github.io/notes"
+  "BruceDawnsown: "https://ricardosouza.js.org"
   /*
    * please don't add your subdomain records down here!
    * insert them in alphabetical order to help reduce merge conflicts.
