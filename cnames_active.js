@@ -3606,6 +3606,7 @@ var cnames_active = {
   "vue-redux": "vue-redux-docs.netlify.app", // noCF
   "vue-roast": "kronicker.github.io/vue-roast",
   "vue-route-timeline": "disjfa.github.io/vue-route-timeline",
+  "virtualos": "fakeos-virtualos.vercel.app",
   "vue-showdown": "vue-showdown.netlify.app",
   "vue-svg-loader": "vue-svg-loader.netlify.app",
   "vue-tiny-validate": "vue-tiny-validate.netlify.app",
