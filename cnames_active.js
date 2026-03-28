@@ -686,6 +686,7 @@ var cnames_active = {
   "crawlyx": "theritikchoure.github.io/crawlyx",
   "crax": "craxjs.github.io",
   "crcalc": "lll69.github.io/crcalc.js",
+  "crazysnake": "oskibobby13.github.io/crazy-snake",
   "creamcrop": "creamcropdev.github.io",
   "create-coffee-app": "legolovergo.github.io/create-coffee-app",
   "create-next-app": "create-next-app.github.io",
