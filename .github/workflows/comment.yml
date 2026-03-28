@@ -91,7 +91,10 @@ jobs:
             }
 
             if (messages.length) {
-              messages.push("**⚠️ You must resolve these issues before your JS.org subdomain request can be accepted.**");
+              messages.push(
+                "**⚠️ You must resolve these issues before your JS.org subdomain request can be accepted.**",
+                "_[Edit your PR to fix the issues, do not create a new PR](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request#making-changes-to-files-in-your-pull-request)._",
+              );
             } else {
               messages.push("✅ All validations passed! Please wait for the JS.org maintainers to process your subdomain request.");
             }
