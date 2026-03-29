@@ -2179,6 +2179,7 @@ var cnames_active = {
   "nabin": "nabin6246.github.io",
   "nacl-check": "magnusmarx.github.io/NaCL",
   "naja": "naja-js.github.io/naja",
+  "nako": "nakobot.vercel.app",
   "namaste": "namaste-duniya.github.io/js",
   "namelessman": "namelessman.github.io",
   "nanimation": "imthenachoman.github.io/nAnimation", // noCF? (don´t add this in a new PR)
