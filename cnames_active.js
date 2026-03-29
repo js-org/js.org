@@ -1793,6 +1793,7 @@ var cnames_active = {
   "learn": "in-tech-gration.github.io/LearnJavascript",
   "learnathon": "learn-a-thon.netlify.app",
   "learngitbranching": "pcottle.github.io/learnGitBranching",
+  "langs": "langlangfcs.github.io",
   "learns": "cname.vercel-dns.com", // noCF
   "lee": "lee981265.github.io",
   "leeks": "ohlookitsderpy.github.io/leeks.js",
