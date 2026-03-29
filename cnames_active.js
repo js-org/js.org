@@ -2480,6 +2480,7 @@ var cnames_active = {
   "piii": "piiijs.github.io/piii.js.org",
   "pika": "xiaopika.github.io/pika.js.org",
   "piling": "flekschas.github.io/piling.js",
+  "pindrop": "e6yzc47d.up.railway.app",
   "pineapple": "totaltechgeek.github.io/pineapple",
   "pinf": "pinf.github.io", // noCF? (don´t add this in a new PR)
   "pinipig": "jmdisuanco.github.io/pinipig",
