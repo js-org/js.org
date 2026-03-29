@@ -2179,7 +2179,6 @@ var cnames_active = {
   "nabin": "nabin6246.github.io",
   "nacl-check": "magnusmarx.github.io/NaCL",
   "naja": "naja-js.github.io/naja",
-  "nako": "nako.github.io",
   "namaste": "namaste-duniya.github.io/js",
   "namelessman": "namelessman.github.io",
   "nanimation": "imthenachoman.github.io/nAnimation", // noCF? (don´t add this in a new PR)
@@ -3677,6 +3676,7 @@ var cnames_active = {
   "wi": "rstee.serv00.net",
   "wice": "yulioaj290.github.io/wice.js",
   "wifidrop": "nuzulul.github.io/wifidrop",
+  "wihbu": "nako.github.io",
   "wii": "andrewplus.github.io/Wii.JS",
   "wiki": "wiki-js-org.netlify.app", // noCF
   "wikidata-elements": "lisongx.github.io/wikidata-elements",
