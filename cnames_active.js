@@ -1646,7 +1646,7 @@ var cnames_active = {
   "json-diff-kit": "rexskz.github.io/json-diff-kit",
   "json-e": "json-e.github.io/json-e",
   "json-format": "cname.vercel-dns.com", // noCF
-  "json-formatter": "limitedhype.github.io/json-formatter",
+  "json-formatter": "arnav-kr.github.io/json-formatter",
   "json-schema-faker": "json-schema-faker.github.io/website-jsf",
   "json-to-plain-text": "sumithemmadi.github.io/json-to-plain-text",
   "json2ts": "sagar-json2ts.netlify.app",
@@ -3270,6 +3270,7 @@ var cnames_active = {
   "tapi": "sinisimattia.github.io/tapi",
   "tara": "shakyatara.github.io",
   "tarant": "tarantx.github.io",
+  "tarikh": "cname.vercel-dns.com", // noCF
   "taro": "nervjs.github.io/taro-website",
   "tart": "tart.github.io/tartJS", // noCF? (don´t add this in a new PR)
   "tauber": "ranjithrd.github.io/tauber",
