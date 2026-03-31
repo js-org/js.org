@@ -3262,6 +3262,7 @@ var cnames_active = {
   "tao": "zzyzxlab.github.io/tao.js",
   "tapi": "sinisimattia.github.io/tapi",
   "tara": "shakyatara.github.io",
+  "tarikh": "cname.vercel-dns.com", // noCF
   "tarant": "tarantx.github.io",
   "taro": "nervjs.github.io/taro-website",
   "tart": "tart.github.io/tartJS", // noCF? (don´t add this in a new PR)
