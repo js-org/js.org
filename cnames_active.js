@@ -158,7 +158,7 @@ var cnames_active = {
   "ali-react-table": "alibaba.github.io/ali-react-table",
   "alien": "pschroen.github.io/alien.js",
   "aligos": "aligos.github.io", // noCF? (don´t add this in a new PR)
-  "alipay": "thenorthmemory.github.io/alipay.js.org",
+  "alipay": "thenorthmemory.github.io/alipay.js.org", // noCF
   "all": "learnsomuch.github.io/all.js", // noCF? (don´t add this in a new PR)
   "all-contributors": "all-contributors-js-org.netlify.app",
   "almeida": "almeidx.github.io",
@@ -1552,7 +1552,7 @@ var cnames_active = {
   "invoicing": "vahe.github.io/InvoicingJs",
   "iot": "product-engineer.github.io/iot.js.org", // noCF
   "ip-address": "beaugunderson.github.io/ip-address", // noCF? (don´t add this in a new PR)
-  "ipa": "signipa.vercel.app",
+  "ipa": "cname.vercel-dns.com", // noCF
   "ipang": "ipang-dwi.github.io/ipang",
   "ipc": "alperr.github.io/ipc",
   "ipe": "ipe.netlify.app",
