@@ -682,8 +682,7 @@ var cnames_active = {
   "crackabottle": "crack-a-bottle.github.io",
   "cracked": "billorcutt.github.io/Cracked",
   "craco": "dilanx.github.io/craco",
-  "craft": "cname.vercel-dns.com", // noCF
-  "crank": "bikeshaving.github.io/crank",
+  "craftix-clan": "yugsh4as-alt.github.io/craftix-website",
   "crapto1": "li0ard.github.io/crapto1_ts",
   "crawlx": "wind2sing.github.io/crawlx",
   "crawlyx": "theritikchoure.github.io/crawlyx",
