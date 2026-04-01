@@ -78,7 +78,7 @@ var cnames_active = {
   "abhishekmittal": "abhishek-mittal.github.io/abhishekmittal",
   "abi": "abi-js.github.io",
   "abialbon": "abialbon.github.io",
-  "abongslot": "abongslot-web.vercel.app",
+  "abongslot": "cname.vercel-dns.com", // noCF
   "abra": "abracadabra-demo.pages.dev",
   "abracadabra": "doc-cgg.pages.dev",
   "aby": "icoldplayer.github.io/aby",
