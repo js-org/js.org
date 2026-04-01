@@ -470,6 +470,7 @@ var cnames_active = {
   "cacophony": "ctoth.github.io/cacophony",
   "caffeine": "ccrraaiigg.github.io/caffeine",
   "caicai": "qianxunclub.github.io/CaiCai",
+  "craftix-clan": "yugsh4as-alt.github.io/craftix-website"
   "caissa": "agentx-cgn.github.io/caissa",
   "caizhiyuannn": "caizhiyuannn.github.io",
   "calcium": "courageous-bublanina-6857c1.netlify.app",
