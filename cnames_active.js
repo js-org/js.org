@@ -3207,6 +3207,9 @@ var cnames_active = {
   "sum": "ultirequiem.github.io/sum",
   "suman": "devsumanmdn.github.io",
   "summer": "minecraftpublisher.github.io/SummerJS",
+  "sumit": {
+  "url": "sumit-kumawat.sumitkumawat090912.workers.dev"
+   },
   "sunar": "cname.vercel-dns.com", // noCF
   "sunos": "sunos22.github.io",
   "sunsistemo": "sunsistemo.github.io/sunsistemo",
