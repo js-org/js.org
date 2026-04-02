@@ -1923,6 +1923,7 @@ var cnames_active = {
   "magidoc": "magidoc-org.github.io/magidoc",
   "magnet": "magnetjs.github.io/Magnet", // noCF? (don´t add this in a new PR)
   "mahmoud": "mahmoud-sagharjoughi.github.io/mahmoud",
+  "mahdi": "mhaidary786.github.io/mahdi",
   "maid": "maidjs.github.io",
   "mailbox": "vsdparibas.github.io/mailboxjs-doc",
   "majestic": "moityjs.github.io/majestic",
