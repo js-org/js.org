@@ -2504,7 +2504,7 @@ var cnames_active = {
   "planner": "openplannerteam.github.io/planner.js",
   "plasticchairclub": "username260104.github.io",
   "platz": "fylipp.github.io/platz.js",
-  "platzifc": "platzifc-web.vercel.app",
+  "platzifc": "cname.vercel-dns.com", // noCF
   "player": "player.netlify.app",
   "playjs": "hunghg255.github.io/playjs",
   "pliers": "pliersjs.github.io", // noCF? (don´t add this in a new PR)
