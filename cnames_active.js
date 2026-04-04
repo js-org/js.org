@@ -1400,6 +1400,7 @@ var cnames_active = {
   "hamed": "phpniki.github.io/hamed",
   "han": "han-js.hanlu.im", // noCF
   "hana": "romantic-kare-c84899.netlify.app",
+  "hankmeme": "hank-the-hamster.vercel.app",
   "hanan": "hanandito.github.io/teddypicker",
   "hapi-sol": "yonjah.github.io/hapi-sol",
   "hapin": "ha-pin.github.io",
