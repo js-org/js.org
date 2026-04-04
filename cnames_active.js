@@ -1410,6 +1410,7 @@ var cnames_active = {
   "hashjump": "fivefifteen.github.io/hashjump",
   "hashkeys": "defucc.github.io/hashkeys",
   "hasura-om": "mrspartak.github.io/hasura-om",
+  "havish06" : "https://uni-cc-puce.vercel.app/",
   "hawiah": "cname.vercel-dns.com", // noCF
   "hay": "hayjs.github.io/hay.js.org",
   "hbase": "adaltas.github.io/node-hbase-docs",
