@@ -2017,7 +2017,7 @@ var cnames_active = {
   "memer-api": "cname.vercel-dns.com", // noCF
   "memoz": "60-min-code.github.io/memoz",
   "mengd": "cname.vercel-dns.com", // noCF
-  "menghafalquran": "mzaini30.github.io/menghafal-quran",
+  "menghafalquran": "mzaini30.github.io/menghafal-quran", 
   "menu": "cohenerickson.github.io/menu",
   "meow": "meow-js.github.io",
   "mercury": "henryqw.github.io/mercury",
@@ -2259,6 +2259,7 @@ var cnames_active = {
   "nightcord": "rellylegend.github.io/nightcord",
   "nikita": "adaltas.github.io/node-nikita",
   "nikmartin": "nikmartin.github.io",
+  nkelevate": "nkconstruction089-sketch.github.io",
   "nima": "nimaw.github.io",
   "ninh": "reeganexe.github.io/ninh",
   "nintenbot": "nintenzone.github.io/NintenBot",
