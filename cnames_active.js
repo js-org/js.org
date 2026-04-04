@@ -116,7 +116,6 @@ var cnames_active = {
   "agahi": "teneplaysofficial.github.io/agahi",
   "agenda-tech-brasil-site": "abacatinhos.github.io/agenda-tech-brasil-site",
   "agentify": "agentify-js-org.github.io/pages",
-  "jsedit": "cname.vercel-dns.com", // noCF
   "agentnpm": "meetping.github.io/agentnpm",
   "agilecards": "otaklapka.github.io/agilecards",
   "agma": "uwynell.github.io/agma.js",
@@ -1638,6 +1637,7 @@ var cnames_active = {
   "joycon": "cname.vercel-dns.com", // noCF
   "jparticles": "jparticles.github.io/Documentation",
   "js-fixerr": "anujsinghwd.github.io/js-fixerr",
+  "jsedit": "cname.vercel-dns.com", // noCF
   "js-labs": "cname.vercel-dns.com", // noCF
   "js-utils": "teneplaysofficial.github.io/js-utils-kit",
   "js2lua": "xiangnanscu.github.io/js2lua", // noCF
