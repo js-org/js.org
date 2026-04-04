@@ -490,6 +490,7 @@ var cnames_active = {
   "canvg": "canvg.github.io/canvg",
   "canvo": "canvojs.github.io",
   "cap": "cap-js.github.io/docs",
+  "capb": "capb.pages.dev",
   "capital": "capitaljs.github.io/capitaljs",
   "capjs": "tiagorangel1.github.io/cap",
   "capsid": "capsidjs.github.io/capsid",
