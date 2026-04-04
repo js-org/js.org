@@ -1040,6 +1040,7 @@ var cnames_active = {
   "energy": "energychain.github.io/energy",
   "englishell": "tzador.github.io/englishell",
   "enn": "loganpaxton.github.io/enn",
+  "env": "cname.vercel-dns.com", // noCF
   "envshh": "sanjib-sen.github.io/envshh",
   "epi": "epispot.github.io/EpiJS",
   "epicker": "eling486.github.io/EPicker-docs",
