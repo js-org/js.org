@@ -657,6 +657,7 @@ var cnames_active = {
   "core-ln": "runcitadel.github.io/core-ln.ts",
   "coreact": "coreactjs.github.io/coreact",
   "coredi": "empla.github.io/coredi",
+  "coreify-env": "cname.vercel-dns.com", // noCF
   "coreutils": "ultirequiem.github.io/coreutils",
   "cork": "davej.github.io/CorkJS",
   "corki": "dvtate.github.io/corki",
@@ -1040,7 +1041,6 @@ var cnames_active = {
   "energy": "energychain.github.io/energy",
   "englishell": "tzador.github.io/englishell",
   "enn": "loganpaxton.github.io/enn",
-  "env": "cname.vercel-dns.com", // noCF
   "envshh": "sanjib-sen.github.io/envshh",
   "epi": "epispot.github.io/EpiJS",
   "epicker": "eling486.github.io/EPicker-docs",
