@@ -2259,7 +2259,7 @@ var cnames_active = {
   "nightcord": "rellylegend.github.io/nightcord",
   "nikita": "adaltas.github.io/node-nikita",
   "nikmartin": "nikmartin.github.io",
-  nkelevate": "nkconstruction089-sketch.github.io",
+  "nkelevate": "nkconstruction089-sketch.github.io",
   "nima": "nimaw.github.io",
   "ninh": "reeganexe.github.io/ninh",
   "nintenbot": "nintenzone.github.io/NintenBot",
