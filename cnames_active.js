@@ -660,6 +660,7 @@ var cnames_active = {
   "core-ln": "runcitadel.github.io/core-ln.ts",
   "coreact": "coreactjs.github.io/coreact",
   "coredi": "empla.github.io/coredi",
+  "coreify-env": "cname.vercel-dns.com", // noCF
   "coreutils": "ultirequiem.github.io/coreutils",
   "cork": "davej.github.io/CorkJS",
   "corki": "dvtate.github.io/corki",
