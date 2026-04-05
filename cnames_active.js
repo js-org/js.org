@@ -617,6 +617,7 @@ var cnames_active = {
   "commandcord": "commandcord.github.io",
   "commandfox": "commandfox.github.io/mc-tools", // noCF? (don´t add this in a new PR)
   "commandkit": "cname.vercel-dns.com", // noCF
+  "commandzero": "commandzero.pages.dev",
   "commerce": "commerce-js.github.io/commerce.js",
   "commitlint": "conventional-changelog.github.io/commitlint",
   "common-utils": "common-utils.netlify.app",
@@ -732,7 +733,6 @@ var cnames_active = {
   "cypresscameroon": "cypress-cameroon.github.io",
   "cyrena": "cyrenajs.github.io/cyrena",
   "cyris": "icyris.github.io",
-  "commandzero": "commandzero.pages.dev",
   "d-patterns": "alias.zeit.co", // noCF
   "d4": "joelburget.github.io/d4",
   "daily.tmr": "tmr-daily.netlify.app", // noCF
