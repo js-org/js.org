@@ -735,6 +735,7 @@ var cnames_active = {
   "cyris": "icyris.github.io",
   "d-patterns": "alias.zeit.co", // noCF
   "d4": "joelburget.github.io/d4",
+  "distats": "cname.vercel-dns.com", // noCF
   "daily.tmr": "tmr-daily.netlify.app", // noCF
   "daisy": "warengonzaga.github.io/daisy.js",
   "daksh0225": "daksh0225.github.io",
