@@ -1639,6 +1639,7 @@ var cnames_active = {
   "joycon": "cname.vercel-dns.com", // noCF
   "jparticles": "jparticles.github.io/Documentation",
   "js-fixerr": "anujsinghwd.github.io/js-fixerr",
+  "jsedit": "cname.vercel-dns.com", // noCF
   "js-labs": "cname.vercel-dns.com", // noCF
   "js-utils": "teneplaysofficial.github.io/js-utils-kit",
   "js2lua": "xiangnanscu.github.io/js2lua", // noCF
