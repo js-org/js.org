@@ -1060,6 +1060,7 @@ var cnames_active = {
   "eren": "eren885.github.io",
   "erest": "yourtion.github.io/node-erest",
   "erikng": "eriknguyen.github.io",
+  "erin": "blstmo-abandoned-us-for-the-milk.github.io/docs",
   "erine": "cyberghxst.github.io/erine-docs",
   "ero": "mst-2.github.io/ero",
   "erpeel": "fikriks.github.io/erpeel",
