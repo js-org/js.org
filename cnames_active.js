@@ -40,7 +40,6 @@
 var cnames_active = {
   "": "js-org.github.io",
   "01mz": "01mz.github.io",
-  "distats": "distats.vercel.app",
   "100dayz": "deadcoder0904.github.io/100dayz",
   "101": "7anshuai.github.io/js101", // noCF? (don´t add this in a new PR)
   "131": "netrvin.github.io",
@@ -736,6 +735,7 @@ var cnames_active = {
   "cyris": "icyris.github.io",
   "d-patterns": "alias.zeit.co", // noCF
   "d4": "joelburget.github.io/d4",
+  "distats": "distats.vercel.app",
   "daily.tmr": "tmr-daily.netlify.app", // noCF
   "daisy": "warengonzaga.github.io/daisy.js",
   "daksh0225": "daksh0225.github.io",
