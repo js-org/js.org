@@ -3742,6 +3742,7 @@ var cnames_active = {
   "xsmcp": "moeru-ai.github.io/xsmcp",
   "xss": "tennc.github.io/xss",
   "xstate": "davidkpiano.github.io/xstate",
+  "xtding": "my-portfolio-one-ebon-84.vercel.app",
   "xterminal": "henryhale.github.io/xterminal",
   "xtype": "lucono.github.io/xtypejs", // noCF? (don´t add this in a new PR)
   "y2j": "ultirequiem.github.io/y2j",
