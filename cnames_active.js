@@ -3255,6 +3255,7 @@ var cnames_active = {
   "synth": "lukehorvat.github.io/synth-mood",
   "syr": "dmikey.github.io/syr",
   "system-monitoring": "miladezzat.github.io/system-monitoring",
+  "studworks": "studworks.onrender.com",
   "t": "l-js.mydevapp.tfuture.eu.org", // noCF
   "t8": "t8js.github.io",
   "tab": "gdmcc.github.io/tab",
@@ -3810,6 +3811,8 @@ var cnames_active = {
   "zylog": "cname.vercel-dns.com", // noCF
   "zyx": "zyx.alwaysdata.net",
   "zyy": "zyyou.github.io/notes"
+  
+  
   /*
    * please don't add your subdomain records down here!
    * insert them in alphabetical order to help reduce merge conflicts.
