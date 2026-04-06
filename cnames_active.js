@@ -1475,6 +1475,7 @@ var cnames_active = {
   "httpfy": "devxprite.github.io/httpfy",
   "httpman": "httpman.github.io",
   "httpunit": "samzh72.github.io/httpunit",
+  "hussain": "ghulamhussain6.github.io", // noCF
   "hub": "yyued.github.io/hub.js",
   "hubble": "hubble.netlify.app",
   "hubo": "huvboo.github.io",
