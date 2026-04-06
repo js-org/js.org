@@ -3743,6 +3743,7 @@ var cnames_active = {
   "xss": "tennc.github.io/xss",
   "xstate": "davidkpiano.github.io/xstate",
   "xterminal": "henryhale.github.io/xterminal",
+  "xtding": "cname.vercel-dns.com", // noCF
   "xtype": "lucono.github.io/xtypejs", // noCF? (don´t add this in a new PR)
   "y2j": "ultirequiem.github.io/y2j",
   "y86": "quietshu.github.io/y86", // noCF? (don´t add this in a new PR)
