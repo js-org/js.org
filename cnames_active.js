@@ -1684,6 +1684,7 @@ var cnames_active = {
   "jwtonline": "boneyt92.github.io/jwtonline",
   "kafka": "tulios.github.io/kafkajs",
   "kaguwo": "kaguwos-portfolio.netlify.app",
+  "kyotv": "kyotv.vercel.app",
   "kahoot": "na-west1.surge.sh",
   "kainy": "kainy.github.io/js.org",
   "kairusds": "kairusds.github.io",
