@@ -2401,6 +2401,7 @@ var cnames_active = {
   "p7e4": "p7e4.github.io",
   "pa": "johnmwirigimahugu.github.io/pa",
   "packit": "pouya-eghbali.github.io/packit",
+  "packy": "t128n.github.io/packy",
   "pacman": "8tentaculos.github.io/jsPacman",
   "pad": "ebraminio.github.io/pad.js", // noCF? (don´t add this in a new PR)
   "pad-project": "adaltas.github.io/node-pad-docs",
