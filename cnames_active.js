@@ -1846,6 +1846,7 @@ var cnames_active = {
   "lineupengine": "lineupjs.github.io/lineupengine.js.org",
   "ling": "wangziling.github.io",
   "linghucong": "jiji262.github.io",
+  "link": "link.youloge.com",
   "link-styler": "sheikhoo.github.io/link-styler",
   "linkify": "hypercontext.github.io/linkifyjs",
   "linksharer": "linksharer.github.io/linksharer.js.org",
