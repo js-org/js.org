@@ -1083,6 +1083,7 @@ var cnames_active = {
   "esper": "codecombat.github.io/esper.js",
   "estudiantil": "milersant.github.io/estudiantil",
   "eta": "alias.zeit.co", // noCF
+  "etag": "etag.youloge.com", // noCF
   "eth": "eth-js.github.io/eth-dev-tools",
   "ethavatar": "filips123.github.io/EthAvatar.JS",
   "euc": "wnda.github.io/euc",
