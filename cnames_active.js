@@ -1148,6 +1148,7 @@ var cnames_active = {
   "filejack": "cname.vercel-dns.com", // noCF
   "filer": "filerjs.github.io/filer",
   "fill100": "matteobruni.github.io/fill100",
+  "fillo": "cname.vercel-dns.com", // noCF
   "filter": "mg98.github.io/filter.js",
   "finance": "financejs.github.io/finance.js",
   "financial": "financialjsorg.netlify.app",
