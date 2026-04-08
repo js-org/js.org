@@ -2049,7 +2049,8 @@ var cnames_active = {
   "mics": "download.github.io/mics",
   "middy": "middy.pages.dev",
   "miguelsr": "miguelsr.github.io", // noCF? (don´t add this in a new PR)
-  "mikado": "nextapps-de.github.io/mikado",
+"mikado": "nextapps-de.github.io/mikado",
+"miknox": "miknox.web.app", // noCF
   "milesgitgud": "milesgitgud.github.io/homepage",
   "militia": "militia21.github.io/militia",
   "million": "cname.vercel-dns.com", // noCF
