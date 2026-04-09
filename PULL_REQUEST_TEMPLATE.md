@@ -21,8 +21,8 @@ You must explain why your website content, not the code, is specifically relevan
 
 -->
 
-- [ ] There is reasonable content on the page (see: [No Content](https://github.com/js-org/js.org/wiki/No-Content))
-- [ ] I have read and accepted the [Terms and Conditions](http://js.org/terms.html)
-- The site content can be seen at <link>
+- [x] There is reasonable content on the page (see: [No Content](https://github.com/js-org/js.org/wiki/No-Content))
+- [x] I have read and accepted the [Terms and Conditions](http://js.org/terms.html)
+- The site content can be seen at https://scrooch-project.github.io
 
-> The site content is ... and is relevant to JavaScript developers specifically because ...
+> The site content is a homepage and the docs for Scrooch and is relevant to JavaScript developers specifically because it relies on Javascript which helps you create a Scratch Mod. If you need an example of a Scrooch based mod, go to https://studio.cattymod.app.
