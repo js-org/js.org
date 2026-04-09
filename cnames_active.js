@@ -2925,6 +2925,7 @@ var cnames_active = {
   "scrollery": "scrollery.netlify.app",
   "scrollmirror": "scrollmirror.netlify.app",
   "scrollyvideo": "dkaoster.github.io/scrolly-video",
+  "scrooch": "scrooch-project.github.io",
   "scsaver": "hamalt.github.io/scsaver",
   "sdg": "faylearn.github.io/sdgs",
   "sdh": "sdh.netlify.app",
