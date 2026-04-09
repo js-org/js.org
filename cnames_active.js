@@ -801,6 +801,7 @@ var cnames_active = {
   "des-docs": "shadowplay1.github.io/des-docs",
   "designdevresources": "designdevresource.netlify.app",
   "desktop": "throvn.github.io/desktop.js-website",
+  "destinebroker": "alexhohner2024.github.io",
   "detalk": "detalkjs.netlify.app", // noCF
   "detect-resize": "noderaider.github.io/detect-resize", // noCF? (don´t add this in a new PR)
   "detector": "blackmirror1980.github.io/detector-js",
