@@ -3555,6 +3555,7 @@ var cnames_active = {
   "velite": "zce.github.io/velite",
   "velt": "veltjs.github.io",
   "vendywira": "vendywira.github.io",
+  "veniamingram": "geminiuserexample.github.io/veniamingram",
   "vento": "ventojs.github.io/vento",
   "verify-bitcoin-message": "mothepro.github.io/verify-bitcoin-message",
   "verifyr": "arze1.github.io/verifyr-site",
@@ -3815,7 +3816,6 @@ var cnames_active = {
   "zylog": "cname.vercel-dns.com", // noCF
   "zyx": "zyx.alwaysdata.net",
   "zyy": "zyyou.github.io/notes"
-  "veniamingram": "geminiuserexample.github.io/veniamingram"
   /*
    * please don't add your subdomain records down here!
    * insert them in alphabetical order to help reduce merge conflicts.
