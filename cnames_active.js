@@ -3555,7 +3555,7 @@ var cnames_active = {
   "velite": "zce.github.io/velite",
   "velt": "veltjs.github.io",
   "vendywira": "vendywira.github.io",
-  "veniamingram": "geminiuserexample.github.io/veniamingram",
+  "veniamingram": "veniamin-gram.pages.dev",
   "vento": "ventojs.github.io/vento",
   "verify-bitcoin-message": "mothepro.github.io/verify-bitcoin-message",
   "verifyr": "arze1.github.io/verifyr-site",
