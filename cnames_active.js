@@ -219,6 +219,7 @@ var cnames_active = {
   "applied": "omahajs.github.io/applied",
   "apprun": "yysun.github.io/apprun",
   "appsocket": "appsocket.netlify.app",
+  "sealist": "abdurlahman.github.io/main",
   "apr": "ramitos.github.io/apr",
   "aprende-react": "ptcc.github.io/aprende-react",
   "aptrinh": "aptrinh.github.io",
