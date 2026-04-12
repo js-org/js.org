@@ -1247,6 +1247,7 @@ var cnames_active = {
   "fw": "fjs.alwaysdata.net",
   "fy": "fyjs.netlify.app",
   "fyi": "tobihrbr.github.io/fyi",
+ "foggylearning": "notlazylee-gif.github.io/Fog-WIP",
   "g": "nodebox.github.io/g.js",
   "g-point": "bdvela.github.io/g-point",
   "gaiman": "jcubic.github.io/gaiman",
