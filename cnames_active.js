@@ -1115,6 +1115,7 @@ var cnames_active = {
   "extraction": "rse.github.io/extraction", // noCF? (don´t add this in a new PR)
   "eye": "arguiot.github.io/EyeJS",
   "ezoradom": "4614s.github.io/ezoradom-the-functions",
+  "ezrin": "ezorik.github.io",
   "f1": "marinofranz.github.io/f1.ts",
   "faah": "cname.vercel-dns.com", // noCF
   "facepalm": "santiagogil.github.io/facepalm",
@@ -3811,7 +3812,6 @@ var cnames_active = {
   "zodiacsigns": "dipanshkhandelwal.github.io/my-zodiac-sign",
   "zombie": "assaf.github.io/zombie", // noCF? (don´t add this in a new PR)
   "zoo": "ivankra.github.io/javascript-zoo",
-  "ezrin": "ezorik.github.io",
   "zova": "cabloy.github.io/zova",
   "zyh": "zyh-chopper.github.io/zyh",
   "zykj": "cname.vercel-dns.com", // noCF
