@@ -2658,7 +2658,7 @@ var cnames_active = {
   "ravelloh": "ravello-h.github.io",
   "rax": "alibaba.github.io/rax",
   "rax0-6": "raxjs.github.io/website-rax-v0.6",
-  "ray": "1RB.github.io/ray",
+  "ray": "1rb.github.io/ray",
   "raylen": "ausername-1.github.io/raylen.js",
   "rayo": "getrayo.github.io/rayo.js",
   "rclone": "sntran.github.io/rclone.js",
