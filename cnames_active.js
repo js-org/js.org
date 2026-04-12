@@ -2091,6 +2091,7 @@ var cnames_active = {
   "mm": "1ocalhost.github.io/mm",
   "mmzdupz": "mmzdupz.github.io",
   "mnmlcss": "barelyhuman.github.io/mnml.css",
+  "moaaz": "moaaz-portfolio.github.io",
   "mo": "mirmousaviii.github.io/mo",
   "mobbler": "megaemce.github.io/mobbler",
   "mobi": "mobidots.github.io",
