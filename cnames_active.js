@@ -1755,6 +1755,7 @@ var cnames_active = {
   "krds": "krds-community.github.io/krds-react",
   "kremling": "canopytax.github.io/kremling.js.org",
   "kshitij": "kshitij98.github.io",
+  "ksproc": "qwer11121-coder.github.io/KSP-Resonant-Orbit-Calculator",
   "kst": "lucaelin.github.io/KST", // noCF
   "ktm": "developers-nepal.github.io/ktmjs",
   "kucos": "kucosjs.github.io",
