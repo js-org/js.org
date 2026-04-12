@@ -1115,6 +1115,7 @@ var cnames_active = {
   "extraction": "rse.github.io/extraction", // noCF? (don´t add this in a new PR)
   "eye": "arguiot.github.io/EyeJS",
   "ezoradom": "4614s.github.io/ezoradom-the-functions",
+  "ezrin": "ezorik.github.io",
   "f1": "marinofranz.github.io/f1.ts",
   "faah": "cname.vercel-dns.com", // noCF
   "facepalm": "santiagogil.github.io/facepalm",
