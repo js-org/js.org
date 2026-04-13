@@ -2178,6 +2178,7 @@ var cnames_active = {
   "muxfm": "muxfm.github.io/docs",
   "mvc": "morozovsk.github.io/mvc", // noCF
   "mw": "agauniyal.github.io/mw",
+  "mwq": "mwql.github.io/mwaqqp/", 
   "mwap": "jacob-ebey.github.io/mwap",
   "mx-space": "mx-space.github.io/docs", // noCF
   "my-app": "osidecrotchets.github.io/my-app",
