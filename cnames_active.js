@@ -2274,6 +2274,7 @@ var cnames_active = {
   "nitrate": "ranjithrd.github.io/nitrate",
   "nnmap": "marzavec.github.io/nnmap.js",
   "no-pry": "zenyanle.github.io/node-unblocker",
+  "nobs-recipes": "vivpalshaun-gif.github.io/nobs-recipes",
   "noblox": "noblox.github.io/noblox.js",
   "nod": "diegohaz.github.io/nod",
   "node": "nodejs.github.io/node.js.org",
