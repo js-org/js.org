@@ -80,6 +80,7 @@ var cnames_active = {
   "abialbon": "abialbon.github.io",
   "abra": "abracadabra-demo.pages.dev",
   "abracadabra": "doc-cgg.pages.dev",
+  "abukartona": "cname.vercel-dns.com",
   "aby": "icoldplayer.github.io/aby",
   "ac": "alauda.github.io/alauda-chart",
   "acarsy": "acarsy.github.io",
