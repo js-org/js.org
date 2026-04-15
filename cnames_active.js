@@ -2973,6 +2973,7 @@ var cnames_active = {
   "shadng": "alimjanablikim.github.io/sng-ui",
   "shandler": "hosting.gitbook.io", // noCF
   "sharding": "infinitytmbots.github.io/discord-hybrid-sharding",
+  "shardwire": "unloopedmido.github.io/shardwire",
   "share": "jeff-tian.github.io/weshare",
   "sharec": "lamartire.github.io/sharec",
   "shareon": "shareon.kytta.codeberg.page", // noCF
@@ -3624,6 +3625,7 @@ var cnames_active = {
   "vue-mdc": "na-west1.surge.sh",
   "vue-minesweeper": "disjfa.github.io/vue-minesweeper",
   "vue-multiselect": "shentao.github.io/vue-multiselect",
+  "vue-pick": "syazwanz.github.io/vue-pick",
   "vue-polkadot": "vue-polkadot.github.io",
   "vue-redux": "vue-redux-docs.netlify.app", // noCF
   "vue-roast": "kronicker.github.io/vue-roast",
