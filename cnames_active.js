@@ -2354,6 +2354,7 @@ var cnames_active = {
   "oib": "andreicek.github.io/oib.js",
   "oktay": "98oktay.github.io/oktaybaskus",
   "olaindex": "wangningkai.github.io/OLAINDEX",
+  "olon": "olonjs.io",
   "olova": "cname.vercel-dns.com", // noCF
   "omaha": "omahajs.github.io",
   "omer": "omeroot.github.io", // noCF? (don´t add this in a new PR)
