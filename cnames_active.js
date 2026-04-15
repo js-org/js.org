@@ -3327,6 +3327,7 @@ var cnames_active = {
   "tgsnake": "cname.vercel-dns.com", // noCF
   "tgx-core": "tgx-core.github.io/website",
   "thea": "idokutela.github.io/thea",
+  "the-backrooms": "samuelkuzmic.github.io",
   "thegrid": "antoniandre.github.io/grid",
   "thema": "themakit.github.io",
   "theme-next": "hexo-theme-next.netlify.app",
