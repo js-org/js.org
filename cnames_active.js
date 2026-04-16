@@ -2928,6 +2928,7 @@ var cnames_active = {
   "scrollmirror": "scrollmirror.netlify.app",
   "scrollyvideo": "dkaoster.github.io/scrolly-video",
   "scsaver": "hamalt.github.io/scsaver",
+  "sd-design": "sensational-caramel-b44e12.netlify.app",
   "sdg": "faylearn.github.io/sdgs",
   "sdh": "sdh.netlify.app",
   "sdjwt": "openwallet-foundation-labs.github.io/sd-jwt-js",
