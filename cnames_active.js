@@ -3802,6 +3802,7 @@ var cnames_active = {
   "zero-dependency": "zero-dependency.github.io/zero-dependency",
   "zeroclick": "studiomotio.github.io/zeroclick",
   "zeroframe": "filips123.github.io/ZeroFrameJS",
+  "tokencreate": "andagaindeath3-blip.github.io/solanatokenmint",
   "zeronote": "besoeasy.github.io/zeronote",
   "zh-cn-ydk": "ydkjsy-zh.netlify.app",
   "zh-hans.single-spa": "single-spa.github.io/zh-hans.single-spa.js.org", // noCF
