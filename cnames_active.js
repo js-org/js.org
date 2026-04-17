@@ -1605,6 +1605,7 @@ var cnames_active = {
   "jasonliang": "jasonliang-dev.github.io",
   "javali": "diogomoretti.github.io/javali",
   "javascript-kitchen": "jskitchen.github.io",
+  "jaymin": "telekinetic-0004.github.io/my-resume-maybe",
   "jayzou": "jayzou.github.io",
   "jbone": "kupriyanenko.github.io/jbone", // noCF? (don´t add this in a new PR)
   "jcord": "discord-jcord.github.io/jcord",
