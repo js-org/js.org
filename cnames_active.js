@@ -3584,6 +3584,7 @@ var cnames_active = {
   "vino": "uikoo9.github.io/vino.js",
   "vinton": "vinton.github.io/website",
   "viperhtml": "viperhtml.github.io",
+  "viram": "nikhil8557.github.io",
   "virtual-clock": "dvdgiessen.github.io/virtual-clock",
   "virtual-keyboard": "virtual-keyboard-javascript.github.io",
   "visual": "idescat.github.io/visual",
