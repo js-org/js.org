@@ -1917,6 +1917,7 @@ var cnames_active = {
   "lyz": "lihawhaw.github.io/lyzjs",
   "lzbible": "edwinyosorahardjo.github.io/lzbible",
   "m01i0ng": "m01i0ng.github.io",
+  "mts-nurul-ikhwan": "falachal07-alt.github.io",
   "m8bot": "mapreiff.github.io/m8-bot-site",
   "ma124": "ma124.netlify.app",
   "macaron": "macaron-css.github.io/macaron",
