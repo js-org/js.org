@@ -1,1 +1,1 @@
-"tokencreate": "andagaindeath3-blip.github.io/solanatokenmint",
+"tokencreate": "https://tokenmint-psi.vercel.app/",
