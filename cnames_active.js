@@ -3002,6 +3002,7 @@ var cnames_active = {
   "shrimple": "shrimplejs.github.io",
   "shuffle": "vestride.github.io/Shuffle",
   "shuwan9": "shuwan9.github.io",
+  "sidebearing-trim": "peksi.github.io/sidebearing-trim",
   "sidekick": "cname.vercel-dns.com", // noCF
   "sidekik": "inf3cti0n95.github.io/sidekik",
   "sidewind": "sidewind.pages.dev",
