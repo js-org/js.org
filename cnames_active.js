@@ -2182,6 +2182,7 @@ var cnames_active = {
   "mx-space": "mx-space.github.io/docs", // noCF
   "my-app": "osidecrotchets.github.io/my-app",
   "my-server": "nirrius.github.io/my-server",
+  "my-todo": "denzel0304.github.io",
   "mylas": "raouldeheer.github.io/Mylas",
   "mysketch": "dipanshkhandelwal.github.io/MySketch",
   "mythbusters": "cname.vercel-dns.com", // noCF
