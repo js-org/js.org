@@ -521,6 +521,7 @@ var cnames_active = {
   "cdll": "cdll.github.io",
   "cdoor": "cdoor.github.io",
   "cebu": "javascriptcebu.netlify.app",
+  "ceift": "nationalassembly.github.io/Ceift",
   "cekdomain": "cekdomain.netlify.app",
   "celery-node": "actumn.github.io/celery.node",
   "cenap": "cenapyuce.github.io",
