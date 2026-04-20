@@ -3115,6 +3115,7 @@ var cnames_active = {
   "spyter": "cname.vercel-dns.com", // noCF
   "sql": "sql-js.github.io/sql.js",
   "sql2struct": "ymlair.github.io/sql2struct",
+  "sqlboot": "cname.vercel-dns.com", // noCF
   "sqlchart": "sqlchart.github.io/sqlchart",
   "squeak": "bertfreudenberg.github.io/SqueakJS",
   "squid": "squidjs.github.io/squid",
