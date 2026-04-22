@@ -33,7 +33,7 @@ jobs:
           repository: js-org/js.org-cleanup
           path: cleanup
 
-      - uses: actions/setup-node@6044e13b5dc448c55e2357c09f80417699197238 # v6.2.0
+      - uses: actions/setup-node@53b83947a5a98c8d113130e565377fae1a50d02f # v6.3.0
         with:
           node-version-file: cleanup/.nvmrc
           cache: npm
@@ -77,7 +77,7 @@ jobs:
             if (!url) failures.push("Content URL is missing or not in the correct format.");
 
             // 3. Explanation must follow the blockquote marker
-            const explanation = />\s*The site content is(?:\s*|\s*\n)(.+)(?:\s*|\s*\n)and is relevant to JavaScript developers specifically because(?:\s*|\s*\n)(.+)/i.exec(body);
+            const explanation = />\s*The site content is(?:\s*|\s*\n)(.+)(?:\s*|\s*\n)(?:and(?: it)?|\. It) is relevant to JavaScript developers specifically because(?:\s*|\s*\n)(.+)/i.exec(body);
             if (!explanation || explanation[1].trim().length <= 10 || explanation[2].trim().length <= 10) failures.push("Content explanation is missing or too short.");
 
             if (failures.length) {
