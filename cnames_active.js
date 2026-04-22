@@ -2921,6 +2921,7 @@ var cnames_active = {
   "scene": "daybrush.github.io/scenejs-page",
   "schema": "hosting.gitbook.com",
   "schema-render": "barrior.github.io/schema-render",
+  "schematex": "cname.vercel-dns.com", // noCF
   "schemy": "aeberdinelli.github.io/schemy",
   "scopes": "kelleyvanevert.github.io/scopes",
   "scramb": "jastinxyz.github.io/scramb",
@@ -3143,6 +3144,7 @@ var cnames_active = {
   "spyter": "cname.vercel-dns.com", // noCF
   "sql": "sql-js.github.io/sql.js",
   "sql2struct": "ymlair.github.io/sql2struct",
+  "sqlboot": "cname.vercel-dns.com", // noCF
   "sqlchart": "sqlchart.github.io/sqlchart",
   "squeak": "bertfreudenberg.github.io/SqueakJS",
   "squid": "squidjs.github.io/squid",
