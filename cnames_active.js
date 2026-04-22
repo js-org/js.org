@@ -2884,6 +2884,7 @@ var cnames_active = {
   "sacgencode": "sacgencode.github.io",
   "saeed": "mrsaeeddev.github.io",
   "safe": "hiren2001.github.io/SafeJS",
+  "sagiri": "sagiriworld.github.io",
   "sagui": "saguijs.github.io", // noCF? (don´t add this in a new PR)
   "sahilister": "sahilister.github.io/portfolio",
   "sai": "hackers4peace.github.io/sai-js",
