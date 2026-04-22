@@ -1953,6 +1953,7 @@ var cnames_active = {
   "marathilipi": "yuyutsu.github.io/marathilipi",
   "marble": "jsguy.github.io/marble",
   "marcelo": "marcelooggero.github.io/bootstrap",
+  "marceloassis": "marceloassis123.github.io/portfolio-js-org",
   "mareact": "ipudu.github.io/mareact",
   "mariateresazamoragomez": "josecarloszamoragomez.github.io/Maria-Teresa-Zamora-G-mez",
   "maridreycupcakes": "danyflores.github.io/MariDrey-CupCakes",
