@@ -3484,7 +3484,7 @@ var cnames_active = {
   "uni-helper": "uni-helper.netlify.app",
   "uni-ku": "uni-ku.netlify.app",
   "unicorn": "mirai-explorer.github.io/unicorn",
-  "univs": "nil23787.github.io/UniVS"
+  "univs": "https://nil23787.github.io/UniVS"
   "unicornly": "unicornly.github.io/unicornly",
   "unique-session": "molaga.github.io/unique-session",
   "universal-api": "raxjs.github.io/universal-api",
