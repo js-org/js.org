@@ -2713,7 +2713,6 @@ var cnames_active = {
   "react-starport": "react-starport.netlify.app",
   "react-styleguidist": "styleguidist.netlify.app",
   "react-table-ui": "guptasiddhant.github.io/react-table-ui",
-  "react-telegram": "appbak3r.github.io/react-telegram",
   "react-through": "hosting.gitbook.com", // noCF
   "react-toulouse": "moox.github.io/react-toulouse",
   "react-trace": "buzinas.github.io/react-trace",
