@@ -93,6 +93,7 @@ var cnames_active = {
   "acker": "acker-technologies.github.io/ackerjs",
   "acm": "drew233.github.io/calander",
   "acme": "makepost.github.io/acme-commander",
+  "acraft": "alamcraft.github.io",
   "action-u": "kevinast.github.io/action-u",
   "actions-creator": "ruben-arushanyan.github.io/actions-creator",
   "active-resource": "nicklandgrebe.github.io/activeresource.js",
