@@ -2993,6 +2993,7 @@ var cnames_active = {
   "shex": "shexjs.github.io/shex.js",
   "shift": "shift-wasm.pages.dev",
   "shikwasa": "jessuni.github.io/shikwasa",
+  "shuey": "103.169.142.0", // noCF
   "shilong": "echoheim.github.io/shilong",
   "shine": "shinenelson.github.io/shine.js.org",
   "shinobu": "shinobujs.github.io/Shinobu",
