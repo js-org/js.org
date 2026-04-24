@@ -1719,6 +1719,7 @@ var cnames_active = {
   "kimera": "ultirequiem.github.io/kimera",
   "kindavishal": "kindavishal.netlify.app",
   "kiranremmarasu": "kiranremmarasu.github.io/kiranremmarasu",
+  "kiss": "sisyphuszheng.github.io/kiss",
   "kite": "kite-js.github.io/kite",
   "kiwidocs": "arguiot.github.io/KiwiDocs",
   "kkapi": "cname.vercel-dns.com", // noCF
@@ -1765,7 +1766,6 @@ var cnames_active = {
   "kunal": "kunalghosh02.github.io",
   "kunkun": "smallkunkun.github.io",
   "kyoto": "kyotojs.github.io",
-  "kiss": "sisyphuszheng.github.io/kiss",
   "l2dwidget": "xiazeyu.github.io/live2d-widget.js-doc",
   "lab": "labjs.netlify.app",
   "labelauty": "fntneves.github.io/jquery-labelauty", // noCF? (don´t add this in a new PR)
