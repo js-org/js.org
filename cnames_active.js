@@ -1303,6 +1303,7 @@ var cnames_active = {
   "gitbanner": "asheeeshh.github.io/gitbanner",
   "gitcrate": "gitcrate.github.io",
   "gitdown": "gc.github.io/gitdown",
+  "githubclip": "gvzq.github.io/githubclip",
   "githubtouch": "github-touch.github.io",
   "gitinit": "silly-shirley-8e44e3.netlify.app",
   "gitme": "gitme.netlify.app",
