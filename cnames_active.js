@@ -3289,6 +3289,7 @@ var cnames_active = {
   "tama": "etk.gitlab.io",
   "tampered-console": "hosting.gitbook.io", // noCF
   "tanmay": "tan-mayhem.github.io/tanmay",
+  "talonario-rifa": "saaqes.github.io/talonario",
   "tanok": "brabadu.github.io/tanok",
   "tao": "zzyzxlab.github.io/tao.js",
   "tapi": "sinisimattia.github.io/tapi",
