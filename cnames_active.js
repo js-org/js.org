@@ -1251,6 +1251,7 @@ var cnames_active = {
   "fyi": "tobihrbr.github.io/fyi",
   "g": "nodebox.github.io/g.js",
   "g-point": "bdvela.github.io/g-point",
+  "gaiamod": "gaiamod-main.github.io",
   "gaiman": "jcubic.github.io/gaiman",
   "gal": "galmail.github.io", // noCF? (don´t add this in a new PR)
   "gaman": "gamanjs.github.io",
