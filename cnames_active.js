@@ -3163,6 +3163,7 @@ var cnames_active = {
   "staart": "staart.netlify.app",
   "stable-fn": "ultirequiem.github.io/stable-fn",
   "stabs": "wnda.github.io/stabs",
+  "stack-picker": "memiux.github.io/stack-picker",
   "stack-styled": "stack-styled.netlify.app",
   "stacks": "cname.vercel-dns.com", // noCF
   "stahlstadt": "dist1.storyblok.com",
