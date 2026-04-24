@@ -3134,7 +3134,7 @@ var cnames_active = {
   "splitting": "shshaw.github.io/Splitting",
   "spotify": "backtrackapp.github.io/spotify.js",
   "spotify-api": "spotifyapidocs.netlify.app",
-  "spotistats": "spotistats-app.netlify.app",
+  "spotistats": "spotistats.otbeaumont.me",
   "spread": "spreadjs.github.io",
   "spreadsheet": "chiefofgxbxl.github.io/Spreadsheet.js",
   "spring": "hosting.gitbook.com",
