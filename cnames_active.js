@@ -1677,6 +1677,7 @@ var cnames_active = {
   "juancarlosqr": "juancarlosqr.github.io", // noCF? (don´t add this in a new PR)
   "julianflancheros": "julianflancheros.github.io/Prueba",
   "july": "onlyjuly.github.io",
+  "june.exam.generate": "junelouise.github.io", // noCF
   "juno-106": "stevengoldberg.github.io/juno-106", // noCF? (don´t add this in a new PR)
   "just": "js-just.github.io", // noCF
   "justin-schroeder": "justin-schroeder.github.io",
@@ -3839,3 +3840,4 @@ var cnames_active = {
    * <3
    */
 }
+Add june.exam.generate.js.org
