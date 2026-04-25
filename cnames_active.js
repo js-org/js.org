@@ -3744,6 +3744,7 @@ var cnames_active = {
   "wysi": "mdbassit.github.io/Wysi",
   "wz": "wangzhen-chn.github.io/wz",
   "x": "nikhiljohn10.github.io/x.js",
+  "xiangqi-game": "xiangqi-game.pages.dev",
   "x.gametime": "parking-master.github.io/Gametime.js-X", // noCF
   "xatom": "xatomteam.github.io/docs",
   "xdtoast": "mininxd.github.io/xdtoast",
