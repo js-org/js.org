@@ -1729,6 +1729,7 @@ var cnames_active = {
   "kloner": "fivefifteen.github.io/kloner",
   "kmeans": "jeff-tian.github.io/k-means",
   "knc": "chaituknag.github.io",
+  "knowaboutpakistan": "abdulahaddha2-ship-it.github.io/Know-about-pakistans",
   "ko": "ko25july.github.io/ko.js.org",
   "ko.mobx": "cname.vercel-dns.com", // noCF
   "ko.redux": "deminoth.github.io/redux", // noCF
