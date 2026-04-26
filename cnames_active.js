@@ -1107,6 +1107,7 @@ var cnames_active = {
   "exp": "magicops.github.io/JQuery-expression-builder",
   "expass": "expass.github.io/expass",
   "express-kun": "hanipcode.github.io/express-kun",
+  "express-route-cache": "code-y02.github.io/express-route-cache",
   "expressad": "flweber.github.io/express-ad-basicauth",
   "expressdynamichelpers": "marvnet.github.io/express-dynamic-helpers-patch",
   "exprtk": "mmomtchev.github.io/exprtk.js",
