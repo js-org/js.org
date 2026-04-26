@@ -1391,6 +1391,7 @@ var cnames_active = {
   "guvercin": "guvercinjs.github.io",
   "gyps": "huijari.github.io/Gyps",
   "gyre": "wridder.github.io/GyreJS", // noCF? (don´t add this in a new PR)
+  "gettic": "darking053official.github.io",
   "gyx": "yourtion.github.io/gyx.js.org",
   "h": "makenowjust.github.io/h.js",
   "h3": "h3rald.github.io/h3",
