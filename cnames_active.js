@@ -1390,9 +1390,9 @@ var cnames_active = {
   "gustwind": "gustwind.netlify.app",
   "guvercin": "guvercinjs.github.io",
   "gyps": "huijari.github.io/Gyps",
+  "gettic": "darking053official.github.io",
   "gyre": "wridder.github.io/GyreJS", // noCF? (don´t add this in a new PR)
   "gyx": "yourtion.github.io/gyx.js.org",
-  "gettic": "darking053official.github.io",
   "h": "makenowjust.github.io/h.js",
   "h3": "h3rald.github.io/h3",
   "h7ml": "h7ml.github.io/web",
