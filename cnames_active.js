@@ -1357,6 +1357,7 @@ var cnames_active = {
   "gridiron": "noderaider.github.io/gridiron",
   "gridl": "klattiation.github.io/gridl",
   "griffel": "microsoft.github.io/griffel",
+  "gettic": "darking053official.github.io",
   "groundstate": "axtk.github.io/groundstate",
   "groupme": "groupme-js.github.io/website",
   "growfield": "fivefifteen.github.io/growfield",
@@ -1390,7 +1391,6 @@ var cnames_active = {
   "gustwind": "gustwind.netlify.app",
   "guvercin": "guvercinjs.github.io",
   "gyps": "huijari.github.io/Gyps",
-  "gettic": "darking053official.github.io",
   "gyre": "wridder.github.io/GyreJS", // noCF? (don´t add this in a new PR)
   "gyx": "yourtion.github.io/gyx.js.org",
   "h": "makenowjust.github.io/h.js",
