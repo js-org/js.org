@@ -1289,6 +1289,7 @@ var cnames_active = {
   "get": "get-js-org.dns.huangxin.org", // noCF
   "getdot": "enderandfiredev.github.io/getdot",
   "getlink": "ilovecode1.github.io/linkjs", // noCF? (don´t add this in a new PR)
+  "gettic": "darking053official.github.io/gettic",
   "ghapi": "haydennyyy.github.io/node-ghapi",
   "ghastly": "hkwu.github.io/ghastly",
   "ghost-shell": "andreyantipov.github.io/ghost-shell",
