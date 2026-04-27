@@ -3186,6 +3186,7 @@ var cnames_active = {
   "statisfy": "yarn-development.github.io/statisfynpm",
   "stats": "js-org.github.io/stats.js.org",
   "statsmonit": "cabrata.github.io/StatsMonit",
+  "statterra": "kristiansarluska.github.io",
   "status": "mattipv4.github.io/status-codes",
   "status-hx": "status-hx-js-org.dns.huangxin.org", // noCF
   "stax": "stax.serv00.net",
