@@ -1989,6 +1989,7 @@ var cnames_active = {
   "mathflow": "mathflowjs.github.io",
   "matrix": "crashmax-dev.github.io/matrix-canvas",
   "matrix-rref-solver": "arisweedler.github.io/matrix-rref-solver",
+  "matrixexecutors": "ryxen-dev.github.io",
   "matters2ipfs": "contributionls.github.io/matters2ipfs",
   "mauricio": "mauricionobrega.github.io/www",
   "max": "toorusr.github.io/max.js.org",
