@@ -2655,12 +2655,13 @@ var cnames_active = {
   "rahul": "rahulsukla.github.io/rahul", // noCF? (don´t add this in a new PR)
   "rahulbussa": "rahulbussa.github.io",
   "ralmaz": "ralmaz.github.io",
-  "rankify": "byteratter.github.io",
   "ralphi": "yonjah.github.io/ralphi",
   "random-item": "ultirequiem.github.io/random_item",
   "random-machine": "officialpiyush.github.io/random-machine",
   "randomer": "kzacharski.github.io/randomer",
   "rangeslider": "andreruffert.github.io/rangeslider.js", // noCF? (don´t add this in a new PR)
+  "rankify": "byteratter.github.io",
+
   "ranmess": "ultirequiem.github.io/ranmess",
   "rasti": "8tentaculos.github.io/rasti",
   "rate-limiter-api": "abhisekp.github.io/rate-limiter-api",
