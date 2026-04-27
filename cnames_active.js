@@ -2661,7 +2661,6 @@ var cnames_active = {
   "randomer": "kzacharski.github.io/randomer",
   "rangeslider": "andreruffert.github.io/rangeslider.js", // noCF? (don´t add this in a new PR)
   "rankify": "byteratter.github.io",
-
   "ranmess": "ultirequiem.github.io/ranmess",
   "rasti": "8tentaculos.github.io/rasti",
   "rate-limiter-api": "abhisekp.github.io/rate-limiter-api",
