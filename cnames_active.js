@@ -2325,6 +2325,7 @@ var cnames_active = {
   "nrgy": "mnasyrov.github.io/nrgy",
   "nsp": "hanul.github.io/NSP", // noCF? (don´t add this in a new PR)
   "nsptiles": "imthenachoman.github.io/nSPTiles", // noCF? (don´t add this in a new PR)
+  "nsspce": "cname.vercel-dns.com", // noCF
   "nsw-coronavirus": "maxgherman.github.io/nsw-coronavirus",
   "nugu": "vietcode.github.io/nugu",
   "null": "false.netlify.app",
