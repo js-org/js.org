@@ -3161,6 +3161,7 @@ var cnames_active = {
   "sri-shasum": "imcotton.github.io/sri", // noCF
   "ss": "netnr-ss.pages.dev",
   "sse": "dt-is-not-available.github.io/sse",
+  "sssandbox": "lewistp867-star.github.io",
   "st": "lizs365.github.io/st",
   "st-collab": "stoppedwummpython.github.io/st-collab",
   "staark": "doars.github.io/staark",
