@@ -147,7 +147,7 @@ var cnames_active = {
   "akte": "akte.netlify.app",
   "alasql": "alasql.github.io", // noCF? (don´t add this in a new PR)
   "alastor": "aidenybai.github.io/alastor",
-  "alamin": "alaminjava.github.io/portfolio",
+  "alamin": "alaminjava.github.io/alamin/",
   "ale": "alecefe.github.io",
   "alertbox": "simple-alertbox.github.io/alertbox",
   "alertism": "assassinaguilar.github.io/Alertism",
