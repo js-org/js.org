@@ -2993,6 +2993,7 @@ var cnames_active = {
   "sheet": "sheetjs.github.io/sheet.js.org",
   "shekhar": "shekharreddy4.github.io/Shekhar",
   "shell": "adaltas.github.io/node-shell",
+  "shess": "vuvrtroopers.github.io/shess",
   "sheweny": "sheweny.github.io/framework",
   "shex": "shexjs.github.io/shex.js",
   "shift": "shift-wasm.pages.dev",
