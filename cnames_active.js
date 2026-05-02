@@ -174,6 +174,7 @@ var cnames_active = {
   "alyreza": "alyreza.github.io",
   "alys": "rmjordas.github.io/alys",
   "aman": "plug-n-play.github.io/aman",
+  "amethyst": "devodrag.github.io",
   "amaple": "amjs-team.github.io/amaple",
   "amaribot": "amaribot.github.io/amaribot.js",
   "amine": "am-77.github.io/amine",
