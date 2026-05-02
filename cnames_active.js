@@ -668,6 +668,7 @@ var cnames_active = {
   "corki": "dvtate.github.io/corki",
   "corona": "soroushchehresa.github.io/awesome-coronavirus",
   "corps": "copay.github.io",
+  "cortex": "hepsi33.github.io",
   "cosmos": "cosmos-xyz.github.io/cosmos",
   "cosova": "hardo.github.io/cosova",
   "costro": "costrojs.github.io",
