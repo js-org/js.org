@@ -2342,6 +2342,7 @@ var cnames_active = {
   "nyax": "springnyan.github.io/nyax",
   "nyc": "nycjsorg.github.io/nyc",
   "nyr": "suriyaakudoisc.github.io/NYR",
+  "nodecraftagency": "d0b077082bc24ae5.vercel-dns-017.com",
   "oak": "donn.github.io/Oak.js",
   "obfuscate": "complifyjs.pages.dev",
   "object-gui": "matteobruni.github.io/object-gui",
