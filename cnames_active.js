@@ -700,6 +700,7 @@ var cnames_active = {
   "create-ts-fast": "yangshun.github.io/create-ts-fast",
   "createrest": "atomixinteractions.github.io/createrest",
   "creaturegen": "ryancromebook.github.io/creaturegen",
+  "creativerse": "yourusername.github.io/creativerse",
   "credo": "openwallet-foundation.github.io/credo-ts-docs",
   "croot": "crootjs.github.io",
   "crossani": "cname.vercel-dns.com", // noCF
