@@ -365,6 +365,7 @@ var cnames_active = {
   "bettertests": "antgonzales.github.io/bettertests.js.org",
   "between": "na-west1.surge.sh",
   "bhailang": "dullabs.github.io/bhai-lang",
+  "bheeshut-studio": "cname.vercel-dns.com", // noCF
   "bigbrainbot": "112batman.github.io/bigbrainbot-website",
   "bigbro": "cname.vercel-dns.com", // noCF
   "biggames": "jacobhumston.github.io/biggames.js",
