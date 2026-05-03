@@ -256,6 +256,7 @@ var cnames_active = {
   "astro": "withastro.github.io",
   "astro-pure": "cname.vercel-dns.com", // noCF
   "astro-reactive": "astro-reactive.netlify.app",
+  "astro-star": "hanlife02.github.io/Astro-star-docs",
   "astrobench": "kupriyanenko.github.io/astrobench", // noCF? (don´t add this in a new PR)
   "astx-redux-util": "kevinast.github.io/astx-redux-util",
   "async-af": "asyncaf.github.io/AsyncAF",
