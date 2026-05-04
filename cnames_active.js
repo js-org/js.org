@@ -2478,6 +2478,7 @@ var cnames_active = {
   "persian-tools": "persian-tools.github.io/persian-tools",
   "personalkanban": "nishantpainter.github.io/personal-kanban",
   "perspective": "leopoldthecoder.github.io/Perspective",
+  "pfsubmit": "helpful-moxie-f44a22.netlify.app",
   "peter": "peterccpang.github.io",
   "pguth": "pguth.github.io",
   "ph1p": "ph1p.github.io",
