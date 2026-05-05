@@ -38,6 +38,7 @@
  */
 
 var cnames_active = {
+  "genie": "project-genie-beta.vercel.app",
   "": "js-org.github.io",
   "01mz": "01mz.github.io",
   "100dayz": "deadcoder0904.github.io/100dayz",
