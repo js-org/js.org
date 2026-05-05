@@ -395,6 +395,7 @@ var cnames_active = {
   "blu": "maxherrmann.github.io/blu",
   "blueconfig": "a-312.github.io/node-blueconfig",
   "blurple": "blurplejs.github.io/docs",
+  "blx": "pimiscool14.github.io",
   "bo": "lfb.github.io/bojs",
   "boats": "discordboats.github.io",
   "bodybuilder": "danpaz.github.io/bodybuilder", // noCF? (don´t add this in a new PR)
