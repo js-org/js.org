@@ -1865,6 +1865,7 @@ var cnames_active = {
   "liquivelte": "liquivelte.github.io/docs",
   "listenin": "cname.vercel-dns.com", // noCF
   "lister": "jpbulman.github.io/lister",
+  "listify": "nightrunner91.github.io",
   "listore": "yieldray.github.io/listore",
   "lite-web-server": "chasyumen.github.io/lite-web-server",
   "litebox": "vercel.cdn.yt-blog.top", // noCF
