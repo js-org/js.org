@@ -2652,6 +2652,7 @@ var cnames_active = {
   "quotobot": "team-gigabyte.github.io/quotobot",
   "r": "r-js.github.io",
   "ractive": "ractivejs.github.io",
+  "raja189-think-edge": "raja189-think-edge.pages.dev",
   "rad": "rapid-application-development-js.github.io/RAD.JS", // noCF? (don´t add this in a new PR)
   "radashi": "radashi-org.github.io",
   "radi": "radi-js.github.io/radi",
