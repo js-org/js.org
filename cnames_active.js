@@ -3344,6 +3344,7 @@ var cnames_active = {
   "textillate": "jschr.github.io/textillate", // noCF? (don´t add this in a new PR)
   "textmark": "sahilister.github.io/textmark",
   "textstorage": "princeunadkat-dev.github.io/text-storage",
+  "tg3digital": "tg3digital.onrender.com",
   "tgind": "panditsiddharth.github.io/tginddoc",
   "tgsnake": "cname.vercel-dns.com", // noCF
   "tgx-core": "tgx-core.github.io/website",
