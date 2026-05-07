@@ -1857,6 +1857,7 @@ var cnames_active = {
   "linghucong": "jiji262.github.io",
   "link-styler": "sheikhoo.github.io/link-styler",
   "linkify": "hypercontext.github.io/linkifyjs",
+  "linkpark": "darshanx256.github.io/LinkPark",
   "linksharer": "linksharer.github.io/linksharer.js.org",
   "lion": "ing-bank.github.io/lion",
   "lips": "jcubic.github.io/lips",
