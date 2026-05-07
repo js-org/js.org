@@ -3125,6 +3125,7 @@ var cnames_active = {
   "sparkle-ripple": "yuyake-litrain.github.io/sparkle-ripple-web",
   "spax": "crossjs.github.io/spax-site",
   "spectragram": "adrianengine.github.io/jquery-spectragram", // noCF? (don´t add this in a new PR)
+  "speedhackdemonlist": "philbon-alt.github.io/SDL",
   "speedybot": "valgaze.github.io/speedybot",
   "speroxu": "speroxu.github.io",
   "spicydevs": "spicydevs.github.io",
