@@ -2962,7 +2962,7 @@ var cnames_active = {
   "seemple": "finom.github.io/seemple.js.org",
   "seesaw": "cajogos.github.io/seesaw",
   "segno": "keimeno.github.io/segno",
-  "segura": "seguramax.github.io/portfolio",
+  "segura": "seguramax.github.io/Portfolio/",
   "segoe-mdl2-css": "ckgrafico.github.io/Segoe-mdl2-assets-css", // noCF? (don´t add this in a new PR)
   "seia": "importantimport.github.io/seia",
   "select_io": "selaromi.github.io/select_io", // noCF? (don´t add this in a new PR)
