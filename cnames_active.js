@@ -975,6 +975,7 @@ var cnames_active = {
   "dynamotion": "cname.vercel-dns.com", // noCF`
   "dyo": "dyo.github.io/dyo",
   "dyte": "dytejs.github.io",
+  "dolphinqueen": "dolphinmeme.netlify.app",
   "e-query": "mjkhonline.github.io/e-query",
   "ea": "janit.github.io/ea",
   "eagleeye": "webkrafters.github.io/eagleeye",
