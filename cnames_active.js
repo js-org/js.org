@@ -704,6 +704,7 @@ var cnames_active = {
   "croot": "crootjs.github.io",
   "crossani": "cname.vercel-dns.com", // noCF
   "crossbell": "crossbell-box.github.io/crossbell.js",
+  "craftgate": "sudohecker12.github.io",
   "crunch": "vukicevic.github.io/crunch", // noCF? (don´t add this in a new PR)
   "cryptons-api": "agenthackeryt.github.io/cryptons-api",
   "crystaldb": "erikmcm.github.io/CrystalDB",
