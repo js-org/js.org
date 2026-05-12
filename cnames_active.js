@@ -1298,6 +1298,7 @@ var cnames_active = {
   "ghapi": "haydennyyy.github.io/node-ghapi",
   "ghastly": "hkwu.github.io/ghastly",
   "ghost-shell": "andreyantipov.github.io/ghost-shell",
+  "gh995": "gh995.github.io/bio",
   "ghsamm": "ghsamm.github.io", // noCF? (don´t add this in a new PR)
   "giant-piano": "moroshko.github.io/giant-piano", // noCF? (don´t add this in a new PR)
   "gil": "imskeptical.github.io/gil.js",
