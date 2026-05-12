@@ -2020,12 +2020,10 @@ var cnames_active = {
   "mechan": "dusterthefirst.github.io/mechan.js",
   "medan": "medan-js.github.io", // noCF
   "media": "tobiasthaden.github.io/media.js",
-  "mediavault": "cname.vercel-dns.com", // noCF
   "media-style-palette": "rikakomoe.github.io/Media-Style-Palette",
   "mediainfo": "buzz.github.io/mediainfo.js",
+  "mediavault": "cname.vercel-dns.com", // noCF
   "medicus": "arthurfiorette.github.io/medicus",
-  "medit": "echosoar.github.io/medit",
-  "medium": "factmaven.github.io/medium.js",
   "meed": "pinjasaur.github.io/meed",
   "mega": "qgustavor.github.io/megajs-docs",
   "megdb": "megalithoffical.github.io",
