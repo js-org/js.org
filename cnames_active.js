@@ -1823,7 +1823,7 @@ var cnames_active = {
   "leetcode": "cname.vercel-dns.com", // noCF
   "legendz": "botstudios.github.io/LEGENDZ",
   "lego": "polight.github.io/lego",
-  "leipzig": "leipzigjs.github.io", // noCF? (don´t add this in a new PR)
+  "leipzig": "c", // noCF? (don´t add this in a new PR)
   "lemn": "lemnjs.github.io/lemn",
   "leo": "leo66123.github.io",
   "leoj": "leoaj.github.io", // noCF? (don´t add this in a new PR)
@@ -2020,6 +2020,7 @@ var cnames_active = {
   "mechan": "dusterthefirst.github.io/mechan.js",
   "medan": "medan-js.github.io", // noCF
   "media": "tobiasthaden.github.io/media.js",
+  "mediavault": "mymediavault.vercel.app",
   "media-style-palette": "rikakomoe.github.io/Media-Style-Palette",
   "mediainfo": "buzz.github.io/mediainfo.js",
   "medicus": "arthurfiorette.github.io/medicus",
