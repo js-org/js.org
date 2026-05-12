@@ -2020,7 +2020,7 @@ var cnames_active = {
   "mechan": "dusterthefirst.github.io/mechan.js",
   "medan": "medan-js.github.io", // noCF
   "media": "tobiasthaden.github.io/media.js",
-  "mediavault": "mymediavault.vercel.app",
+  "mediavault": "cname.vercel-dns.com", // noCF
   "media-style-palette": "rikakomoe.github.io/Media-Style-Palette",
   "mediainfo": "buzz.github.io/mediainfo.js",
   "medicus": "arthurfiorette.github.io/medicus",
