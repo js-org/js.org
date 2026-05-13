@@ -741,6 +741,7 @@ var cnames_active = {
   "d-patterns": "alias.zeit.co", // noCF
   "d4": "joelburget.github.io/d4",
   "daily.tmr": "tmr-daily.netlify.app", // noCF
+  "dairy": "yamanweb1.github.io/bethany-hamilton",
   "daisy": "warengonzaga.github.io/daisy.js",
   "daksh0225": "daksh0225.github.io",
   "damo": "damodharanj.github.io",
