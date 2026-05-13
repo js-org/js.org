@@ -2098,7 +2098,7 @@ var cnames_active = {
   "mithril-ja": "shibukawa.github.io/mithril-ja", // noCF? (don´t add this in a new PR)
   "mitu": "godow.github.io/mitu",
   "mixery": "nahkd123.github.io/Mixery",
-  "mixi2": "otoneko1102.github.io/mixi2-js",
+  "mixi2": "otnc.github.io/mixi2-js",
   "mjy": "majianyu2007.github.io",
   "mm": "1ocalhost.github.io/mm",
   "mmzdupz": "mmzdupz.github.io",
@@ -2308,7 +2308,7 @@ var cnames_active = {
   "noobscroll": "arguiot.github.io/NoobScroll",
   "nord": "anandchowdhary.github.io/nord.js",
   "nortejs": "nortejs.github.io/nortejs",
-  "noshift": "otoneko1102.github.io/NoShift.js",
+  "noshift": "otnc.github.io/NoShift.js",
   "nostalgist": "arianrhodsandlot.github.io/nostalgist",
   "nostr": "nuzulul.github.io/NOSTRJS",
   "notasdeprogramador": "hugoroca.github.io/notasdeprogramador",
@@ -3352,6 +3352,7 @@ var cnames_active = {
   "tgind": "panditsiddharth.github.io/tginddoc",
   "tgsnake": "cname.vercel-dns.com", // noCF
   "tgx-core": "tgx-core.github.io/website",
+  "thai-qr-payment": "uunw.github.io/thai-qr-payment",
   "thea": "idokutela.github.io/thea",
   "thegrid": "antoniandre.github.io/grid",
   "thema": "themakit.github.io",
