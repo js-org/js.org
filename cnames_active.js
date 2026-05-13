@@ -1542,6 +1542,7 @@ var cnames_active = {
   "imvu": "imvujs.pages.dev", // noCF
   "indie": "indie-org.github.io/indie",
   "inference": "cname.vercel-dns.com", // noCF
+  "infernodrift": "canimal4.github.io/InfernoDrift",
   "infinite-tree": "cheton.github.io/infinite-tree",
   "infoooze": "devxprite.github.io/infoooze",
   "ingot": "ingotjs.github.io",
