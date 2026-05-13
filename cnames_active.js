@@ -763,6 +763,7 @@ var cnames_active = {
   "datasense": "compositejs.github.io/datasense",
   "datastream": "datastreamjs.pages.dev",
   "datastructures": "deadcoder0904.github.io/datastructures",
+  "datatrix": "datatrix.github.io",
   "date": "matthewmueller.github.io/date", // noCF? (don´t add this in a new PR)
   "datenel": "astrian.github.io/datenel-doc",
   "dativejs": "dativejs.github.io",
