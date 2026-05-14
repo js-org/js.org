@@ -1656,7 +1656,7 @@ var cnames_active = {
   "js-utils": "teneplaysofficial.github.io/js-utils-kit",
   "js2lua": "xiangnanscu.github.io/js2lua", // noCF
   "jscord": "thepoptartcrpr.github.io/jscord",
-    "js-leadmachine": "nilegazer00.github.io/nileGazer00-js-leadmachine",
+  "js-leadmachine": "nilegazer00.github.io/nilegazer00-js-leadmachine",
   "jsdec": "liulihaocai.github.io/JSDec",
   "jsfe": "jsfe.netlify.app",
   "jslabs": "cname.vercel-dns.com", // noCF
