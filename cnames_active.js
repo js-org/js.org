@@ -1,4 +1,4 @@
-/*
+х/*
  ***** ACTIVE SUBDOMAINS
  * ***********************
  *
@@ -726,7 +726,7 @@ var cnames_active = {
   "custard": "custard-pkg.github.io",
   "custardui": "custardui.github.io",
   "custom-captcha": "mcnagynorbi.github.io/custom-captcha",
-  "custom-controls": "mrdani307.github.io",
+  "custom-controls": "mrdani307.github.io/Custom-controls",
   "customary": "customaryjs.github.io",
   "cville": "cvjs.github.io",
   "cvss": "cvssjs.github.io",
