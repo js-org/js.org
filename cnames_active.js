@@ -1654,11 +1654,9 @@ var cnames_active = {
   "js-fixerr": "anujsinghwd.github.io/js-fixerr",
   "js-labs": "cname.vercel-dns.com", // noCF
   "js-utils": "teneplaysofficial.github.io/js-utils-kit",
-  "js2lua": "xiangnanscu.github.io/js2lua", // noCF
-  "jscord": "thepoptartcrpr.github.io/jscord",
+    "js2lua": "xiangnanscu.github.io/js2lua", // noCF
   "jscord": "thepoptartcrpr.github.io/jscord",
   "js-leadmachine": "NileGazer00.github.io/NileGazer00-js-leadmachine",
-  "jsdec": "liulihaocai.github.io/JSDec",
   "jsdec": "liulihaocai.github.io/JSDec",
   "jsfe": "jsfe.netlify.app",
   "jslabs": "cname.vercel-dns.com", // noCF
