@@ -2837,6 +2837,7 @@ var cnames_active = {
   "revolt": "revoltchat.github.io/revolt.js",
   "rexs": "uellenberg.github.io/REXS",
   "reyes": "michaelbreyes.github.io/reyes",
+  "rgatu-guide": "calladius.github.io/rgatu-guide",
   "rgbstrip": "xrealneon.github.io/RGBStrip",
   "rickdesantis": "rickdesantis.github.io",
   "riffy": "cname.vercel-dns.com", // noCF
