@@ -3251,6 +3251,7 @@ var cnames_active = {
   "super-trim": "beeblebrox3.github.io/super-trim",
   "supermouse": "cname.vercel-dns.com", // noCF
   "supernova-tool": "supernova-tool.github.io/supernova-site",
+  "supersaverkit": "nambongwoo.github.io/SuperSaver-Kit",
   "surgio": "surgio-documentation.netlify.app",
   "suroadb": "nicamoq.github.io/SuroADB-Lite",
   "surrealorm": "surrealorm.justwolf.dev", // noCF
