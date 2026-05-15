@@ -1,0 +1,62 @@
+@import "tailwindcss";
+
+body{
+  background: linear-gradient(to right, darkblue, skyblue, darkblue);
+  overflow-x: hidden;
+  line-height: 1.5;
+}
+
+
+@keyframes marquee {
+  0% {
+    transform: translateX(0%);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
+
+
+.animate-marquee {
+  animation: marquee 25s linear infinite;
+}
+
+
+.animate-marquees{
+  animation: marquee 25s linear infinite;
+}
+
+
+main {
+  padding-top: 80px; /* if navbar is fixed */
+}
+
+@keyframes gradient-x {
+  0%, 100% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+}
+
+.animate-gradient-x {
+  background-size: 200% 200%;
+  animation: gradient-x 8s ease infinite;
+}
+
+        .animate-gradient {
+          background-size: 400% 400%;
+          animation: gradientMove 15s ease infinite;
+        }
+        @keyframes gradientMove {
+          0% {
+            background-position: 0% 50%;
+          }
+          50% {
+            background-position: 100% 50%;
+          }
+          100% {
+            background-position: 0% 50%;
+          }
+        }
