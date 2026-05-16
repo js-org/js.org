@@ -657,6 +657,7 @@ var cnames_active = {
   "coord": "itsacorn.github.io/jscoord",
   "copyer": "tsycode.github.io/copyer.js",
   "copywriting-correct": "rikakomoe.github.io/copywriting-correct",
+  "coralsbirdcams": "your-github-username.github.io",
   "cord": "lukadev-0.github.io/cord.js",
   "cordlang": "cname.vercel-dns.com", // noCF
   "cordova-multiplatform-template": "ckgrafico.github.io/Cordova-Multiplatform-Template", // noCF? (don´t add this in a new PR)
