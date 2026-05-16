@@ -3756,6 +3756,7 @@ var cnames_active = {
   "wugenqiang": "wugenqiang.github.io/wugenqiang.js.org",
   "www.next-auth": "cname.vercel-dns.com", // noCF
   "wynncraft": "frawolf.github.io/wynncraft.js",
+    "m7cyweb": "m7mddevgh.github.io",
   "wysc": "coffeebank.github.io/wysc-vue",
   "wysi": "mdbassit.github.io/Wysi",
   "wz": "wangzhen-chn.github.io/wz",
