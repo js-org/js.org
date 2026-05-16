@@ -1243,7 +1243,7 @@ var cnames_active = {
   "frui": "ossphilippines.github.io/frui",
   "frzr": "pakastin.github.io/frzr",
   "fs-nextra": "bdistin.github.io/fs-nextra",
-  "FutureStackintel":"futurestackintel.github.io",
+  "futurestackintel":"futurestackintel.github.io",
   "fucao": "fusuhub.github.io",
   "fuck": "gerd2002.github.io/fuck.js",
   "fudgel": "fidian.github.io/fudgel",
