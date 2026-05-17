@@ -75,6 +75,7 @@ var cnames_active = {
   "abdalla": "the94air.github.io/abdalla",
   "abelacostaportafolio": "asaa19971a.github.io/AbelAcostaAcostaPortafolio",
   "abhishek": "rpidanny.github.io/personal-collage",
+  "abhishekmed101": "abhishekmed101.netlify.app",
   "abhishekmittal": "abhishek-mittal.github.io/abhishekmittal",
   "abi": "abi-js.github.io",
   "abialbon": "abialbon.github.io",
