@@ -2984,10 +2984,10 @@ var cnames_active = {
   "serializer": "haircvt.github.io/serializerjs", // noCF? (don´t add this in a new PR)
   "serlina": "djyde.github.io/serlina",
   "service-mocker": "service-mocker.github.io/service-mocker",
-  'shooter': '4xw1n.github.io',
   "serviceberry": "bob-gray.github.io/serviceberry",
   "servify-express": "aarondoran.github.io/servify-express",
   "sesam": "lennertderyck.github.io/sesam",
+  "shooter": "4xw1n.github.io",
   "setheum": "setheum-js.github.io",
   "sfml": "xadillax.github.io/node-sfml",
   "shadng": "alimjanablikim.github.io/sng-ui",
