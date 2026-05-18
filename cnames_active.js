@@ -3371,6 +3371,7 @@ var cnames_active = {
   "tictactoe": "jeff-tian.github.io/tic-tac-toe-ai",
   "tiden": "tidenjs.netlify.app",
   "tidy": "tidy-js.github.io",
+  "tidyup": "tidyup-app.pages.dev",
   "tik": "nascjoao.github.io/tikjs",
   "timeout": "anshuman-verma.github.io/setTimeout",
   "timer": "timerjsorg.netlify.app",
