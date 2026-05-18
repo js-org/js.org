@@ -3288,6 +3288,7 @@ var cnames_active = {
   "synth": "lukehorvat.github.io/synth-mood",
   "syr": "dmikey.github.io/syr",
   "system-monitoring": "miladezzat.github.io/system-monitoring",
+  "subratadriving": "s07114587-ops.github.io/subratadriving",
   "t": "l-js.mydevapp.tfuture.eu.org", // noCF
   "t8": "t8js.github.io",
   "tab": "gdmcc.github.io/tab",
