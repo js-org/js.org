@@ -1992,6 +1992,7 @@ var cnames_active = {
   "masonry-grid": "trigensoftware.github.io/masonry-grid",
   "massroom": "massroom.github.io",
   "master-portfolio": "vimalverma558.github.io/Master-Portfolio",
+  "masteryard": "dawawama.github.io/Master-Yard",
   "mate": "theinternetfolks.github.io/mate",
   "materialish": "jamesplease.github.io/materialish",
   "materialize-bootbox": "iqbalfn.github.io/materialize-bootbox",
