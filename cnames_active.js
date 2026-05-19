@@ -1609,7 +1609,7 @@ var cnames_active = {
   "jaipur": "jaipurjs-website-7b695.netlify.app",
   "jakarta": "jakartajs.github.io/jakartajs", // noCF? (don´t add this in a new PR)
   "james": "jamesrowen.github.io/james", // noCF? (don´t add this in a new PR)
-  "japkgen": "japkgen.opendnf.cloud",
+  "japkgen": "japkgen.opendnf.cloud", // noCF
   "jargon": "hugogiraudel.github.io/SJSJ", // noCF? (don´t add this in a new PR)
   "jaset": "maxherrmann.github.io/jaset",
   "jason": "ultirequiem.github.io/jason-formatter",
