@@ -1245,7 +1245,7 @@ var cnames_active = {
   "fs-nextra": "bdistin.github.io/fs-nextra",
   "fucao": "fusuhub.github.io",
   "fuck": "gerd2002.github.io/fuck.js",
-  "fuwari": "zjhcx.github.io/blog"
+  "fuwari": "zjhcx.github.io/blog",
   "fudgel": "fidian.github.io/fudgel",
   "fugapedia": "fugapediajs.github.io/website",
   "fullscreen": "motyar.github.io/fullscreen",
@@ -3849,7 +3849,7 @@ var cnames_active = {
   "zykj": "cname.vercel-dns.com", // noCF
   "zylog": "cname.vercel-dns.com", // noCF
   "zyx": "zyx.alwaysdata.net",
-  "zyy": "zyyou.github.io/notes"
+  "zyy": "zyyou.github.io/notes",
   "zjhcx": "zjhcx.github.io"
   /*
    * please don't add your subdomain records down here!
