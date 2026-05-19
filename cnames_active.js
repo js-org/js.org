@@ -1245,13 +1245,13 @@ var cnames_active = {
   "fs-nextra": "bdistin.github.io/fs-nextra",
   "fucao": "fusuhub.github.io",
   "fuck": "gerd2002.github.io/fuck.js",
-  "fuwari": "zjhcx.github.io/blog",
   "fudgel": "fidian.github.io/fudgel",
   "fugapedia": "fugapediajs.github.io/website",
   "fullscreen": "motyar.github.io/fullscreen",
   "funbook": "egoist.github.io/funbook",
   "funcs": "funcs-package.github.io/docs",
   "fusilli": "anthemaker.github.io/Fusilli.js",
+  "fuwari": "zjhcx.github.io/blog",
   "fvuar": "fvuarjs.netlify.app",
   "fw": "fjs.alwaysdata.net",
   "fy": "fyjs.netlify.app",
@@ -3836,6 +3836,7 @@ var cnames_active = {
   "zhaomenghuan": "zhaomenghuan.github.io",
   "zhd": "zhdmitry.github.io",
   "zhin": "zhin.pages.dev",
+  "zjhcx": "zjhcx.github.io",
   "zignis": "zhike-team.github.io/zignis",
   "zigzag": "cname.vercel-dns.com", // noCF
   "ziphive": "cname.vercel-dns.com", // noCF
@@ -3849,8 +3850,7 @@ var cnames_active = {
   "zykj": "cname.vercel-dns.com", // noCF
   "zylog": "cname.vercel-dns.com", // noCF
   "zyx": "zyx.alwaysdata.net",
-  "zyy": "zyyou.github.io/notes",
-  "zjhcx": "zjhcx.github.io"
+  "zyy": "zyyou.github.io/notes"
   /*
    * please don't add your subdomain records down here!
    * insert them in alphabetical order to help reduce merge conflicts.
