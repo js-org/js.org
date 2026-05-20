@@ -3745,6 +3745,7 @@ var cnames_active = {
   "wonderest": "wonderest.github.io",
   "wonderfulcv": "wonderfulcv.netlify.app",
   "woodsman": "haximilian.github.io/woodsman",
+  "whoapi": "who-api.github.io",
   "wooyun": "jiji262.github.io/wooyun_articles",
   "woq": "nicamoq.github.io/WoqHentai",
   "wordywordy": "sverweij.github.io/wordywordy",
