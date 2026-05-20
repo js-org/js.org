@@ -2838,6 +2838,7 @@ var cnames_active = {
   "revolt": "revoltchat.github.io/revolt.js",
   "rexs": "uellenberg.github.io/REXS",
   "reyes": "michaelbreyes.github.io/reyes",
+  "react-alert-box": "https://noumanqamar450.github.io/react-alert-box/",
   "rgbstrip": "xrealneon.github.io/RGBStrip",
   "rickdesantis": "rickdesantis.github.io",
   "riffy": "cname.vercel-dns.com", // noCF
@@ -2895,7 +2896,6 @@ var cnames_active = {
   "ruwan": "rpgee.github.io",
   "rva": "fanyer.github.io/rva",
   "ryaneldon": "ry-e.github.io",
-  "react-alert-box": "https://noumanqamar450.github.io/react-alert-box/",
   "saaskit": "cname.vercel-dns.com", // noCF
   "sacgencode": "sacgencode.github.io",
   "saeed": "mrsaeeddev.github.io",
