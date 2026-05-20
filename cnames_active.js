@@ -2635,6 +2635,7 @@ var cnames_active = {
   "quanta": "solarbrowser.github.io/w4q",
   "quantlib": "quantlibjs.github.io",
   "quantum": "militia21.github.io/quantum",
+  "quantum-cryptanalysis": "starj1023.github.io/Quantum-Cryptanalysis",
   "que": "seatwork.github.io/que.js",
   "querybuilder": "mistic100.github.io/jQuery-QueryBuilder", // noCF? (don´t add this in a new PR)
   "quick": "d7b7ae5e1e-hosting.gitbook.io", // noCF
@@ -2655,7 +2656,6 @@ var cnames_active = {
   "quizizz": "zaida04.github.io/Quizizz.js",
   "quizmaster": "mechtester.github.io/quizmaster",
   "quotobot": "team-gigabyte.github.io/quotobot",
-  "quantum-cryptanalysis": "starj1023.github.io/Quantum-Cryptanalysis",
   "r": "r-js.github.io",
   "ractive": "ractivejs.github.io",
   "rad": "rapid-application-development-js.github.io/RAD.JS", // noCF? (don´t add this in a new PR)
