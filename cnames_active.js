@@ -3723,7 +3723,7 @@ var cnames_active = {
   "which-node": "tobysmith568.github.io/which-node-js",
   "whistle": "whistle-lang.github.io/website",
   "whiteboard": "yhozen.github.io/whiteboard",
-  "whoasked": "mathdebate09.github.io/who-asked",
+  "whoasked": "mathdebate09.github.io/who-asked"
   "whoapi": "who-api.github.io",
   "wi": "rstee.serv00.net",
   "wice": "yulioaj290.github.io/wice.js",
