@@ -1301,7 +1301,7 @@ var cnames_active = {
   "ghsamm": "ghsamm.github.io", // noCF? (don´t add this in a new PR)
   "giant-piano": "moroshko.github.io/giant-piano", // noCF? (don´t add this in a new PR)
   "gil": "imskeptical.github.io/gil.js",
-  "gioapps": "giosooul.github.io/privacy-policy",
+  "gioapps": "giosooul.github.io/gioapps.github.io/privacy-policy"
   "gioyeimg": "gioye.github.io/gioyeimg",
   "girls": "girls-js.github.io",
   "girlscript": "girlscriptjaipur.github.io",
