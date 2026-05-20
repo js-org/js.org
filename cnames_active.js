@@ -3724,6 +3724,7 @@ var cnames_active = {
   "whistle": "whistle-lang.github.io/website",
   "whiteboard": "yhozen.github.io/whiteboard",
   "whoasked": "mathdebate09.github.io/who-asked",
+  "whoapi": "who-api.github.io",
   "wi": "rstee.serv00.net",
   "wice": "yulioaj290.github.io/wice.js",
   "wifidrop": "nuzulul.github.io/wifidrop",
