@@ -184,7 +184,6 @@ var cnames_active = {
   "analytics": "analyticsjs.github.io/web-analytics",
   "andresito": "andresitodeguzman.github.io/andresito",
   "anenth": "anenth.github.io", // noCF? (don´t add this in a new PR)
-  "angle": "2b742d18b83a9507.vercel-dns-017.com",
   "angular-cn": "ng-docs.github.io/angular-cn.js.org",
   "angular-jsf": "json-schema-faker.github.io/angular-jsf", // noCF? (don´t add this in a new PR)
   "angular-mfe": "rx-ts.github.io/angular-mfe",
