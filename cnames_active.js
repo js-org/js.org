@@ -184,6 +184,7 @@ var cnames_active = {
   "analytics": "analyticsjs.github.io/web-analytics",
   "andresito": "andresitodeguzman.github.io/andresito",
   "anenth": "anenth.github.io", // noCF? (don´t add this in a new PR)
+  "angle": "2b742d18b83a9507.vercel-dns-017.com",
   "angular-cn": "ng-docs.github.io/angular-cn.js.org",
   "angular-jsf": "json-schema-faker.github.io/angular-jsf", // noCF? (don´t add this in a new PR)
   "angular-mfe": "rx-ts.github.io/angular-mfe",
@@ -3312,6 +3313,7 @@ var cnames_active = {
   "tarikh": "cname.vercel-dns.com", // noCF
   "taro": "nervjs.github.io/taro-website",
   "tart": "tart.github.io/tartJS", // noCF? (don´t add this in a new PR)
+  "taskforge": "f6be0ad38104e0ce.vercel-dns-017.com",
   "tauber": "ranjithrd.github.io/tauber",
   "taufik-nurrohman": "taufik-nurrohman.github.io",
   "taxi": "craftedbygc.github.io/taxi",
