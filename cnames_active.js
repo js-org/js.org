@@ -481,6 +481,7 @@ var cnames_active = {
   "calisto": "cname.vercel-dns.com", // noCF
   "camelcase": "ultirequiem.github.io/camelcase",
   "campfire": "xyzshantaram.github.io/campfire",
+  "campusnyamugerera": "irkzdjimmy.github.io/campus_nyamugerera",
   "candy": "candy02058912.github.io/portfolio",
   "candyland": "candyland-js.github.io/candyland",
   "cans": "djyde.github.io/cans", // noCF
