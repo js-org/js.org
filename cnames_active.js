@@ -1594,6 +1594,7 @@ var cnames_active = {
   "isic": "isic.github.io/isic-docs",
   "isimon": "nsleep.github.io",
   "islisp": "ta2gch.github.io/islisp.js.org",
+  "isolated-function": "kikobeats.github.io/isolated-function",
   "istanbul": "istanbuljs.github.io",
   "itemszop": "michaljaz.github.io/itemszop",
   "itsashis4u": "itsashis4u.github.io", // noCF? (don´t add this in a new PR)
@@ -2682,6 +2683,7 @@ var cnames_active = {
   "rclone": "sntran.github.io/rclone.js",
   "rdf": "rdfjs.github.io", // noCF
   "rdpmovy": "rdp-studio.github.io/rdpmovy.js",
+  "react-alert-box": "noumanqamar450.github.io/react-alert-box",
   "react-atomic-ui": "react-atomic.github.io/react-atomic-ui",
   "react-autosuggest": "moroshko.github.io/react-autosuggest", // noCF? (don´t add this in a new PR)
   "react-autowhatever": "moroshko.github.io/react-autowhatever", // noCF? (don´t add this in a new PR)
@@ -2962,6 +2964,7 @@ var cnames_active = {
   "secrethitler": "finncowbell.github.io/DetectiveDictator",
   "secsb": "secsb.github.io",
   "secure-event-emitter": "ruben-arushanyan.github.io/secure-event-emitter",
+  "securitool": "replikantek.github.io/security-toolbox",
   "security-list": "lissy93.github.io/personal-security-checklist",
   "sed": "42ua.github.io/sed",
   "see-more-demo": "wangdabaoqq.github.io/vuepress",
