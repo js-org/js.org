@@ -420,6 +420,7 @@ var cnames_active = {
   "box": "capacitorset.github.io/box-js", // noCF
   "boxed": "lionking27.github.io/boxed",
   "bozoloop": "valgaze.github.io/bozoloop",
+  "bquery": "bquery.github.io/bQuery",
   "brain": "brainjs.github.io/brain.js.org",
   "brandi": "cname.vercel-dns.com", // noCF
   "brandifyjs": "greybax.github.io/brandifyjs",
