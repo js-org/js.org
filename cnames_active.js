@@ -1138,6 +1138,7 @@ var cnames_active = {
   "fancy-pants": "fancy-pants.tritarget.org",
   "fandom": "fandomjs.netlify.app", // noCF
   "fantas": "fantastiser.github.io",
+  "fhemtni": "masriadib01-cmyk.github.io/FHEMTNI-",
   "farfetch": "websitebeaver.github.io/far-fetch",
   "farfetchd": "achannarasappa.github.io/farfetchd", // noCF? (don´t add this in a new PR)
   "farzad": "wikiweb.github.io/farzad",
