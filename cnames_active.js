@@ -2898,6 +2898,7 @@ var cnames_active = {
   "rut": "jeam.github.io/rut",
   "ruwan": "rpgee.github.io",
   "rva": "fanyer.github.io/rva",
+  "salzig666": "salzig666.github.io/mi-pagina-web",
   "ryaneldon": "ry-e.github.io",
   "saaskit": "cname.vercel-dns.com", // noCF
   "sacgencode": "sacgencode.github.io",
