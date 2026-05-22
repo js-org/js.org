@@ -472,6 +472,7 @@ var cnames_active = {
   "cachi": "eddiejibson.github.io/cachi",
   "cacophony": "ctoth.github.io/cacophony",
   "caffeine": "ccrraaiigg.github.io/caffeine",
+  "cagriatav8": "cagriatav8.github.io",
   "caicai": "qianxunclub.github.io/CaiCai",
   "caissa": "agentx-cgn.github.io/caissa",
   "caizhiyuannn": "caizhiyuannn.github.io",
