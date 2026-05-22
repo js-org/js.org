@@ -3215,9 +3215,9 @@ var cnames_active = {
   "sticksy": "kovart.github.io/sticksy",
   "stino": "stinobe.github.io/Stino",
   "stockings": "kgroat.github.io/stockings",
+  "stockpriceprediction": "20a77589c9312607.vercel-dns-017.com",
   "stoneyallen": "stoneyallen.github.io",
   "stonk": "anujsharma141.github.io/stonk",
-  "stockpriceprediction": "20a77589c9312607.vercel-dns-017.com",
   "storage": "uzitech.github.io/storage.js",
   "storelocator": "storelocatorjs.github.io",
   "storybook": "apex-loadbalancer.netlify.app", // noCF
