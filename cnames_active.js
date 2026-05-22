@@ -40,7 +40,6 @@
 var cnames_active = {
   "": "js-org.github.io",
   "01mz": "01mz.github.io",
-  "sc-store": "sc-store.onrender.com",
   "100dayz": "deadcoder0904.github.io/100dayz",
   "101": "7anshuai.github.io/js101", // noCF? (don´t add this in a new PR)
   "131": "netrvin.github.io",
@@ -2943,6 +2942,7 @@ var cnames_active = {
   "schematex": "cname.vercel-dns.com", // noCF
   "schemy": "aeberdinelli.github.io/schemy",
   "scopes": "kelleyvanevert.github.io/scopes",
+  "sc-store": "sc-store.onrender.com",
   "scramb": "jastinxyz.github.io/scramb",
   "scramble": "ignatiusmb.github.io/scramble",
   "scratch": "scratch-js.github.io",
