@@ -2932,6 +2932,7 @@ var cnames_active = {
   "saykit": "cname.vercel-dns.com", // noCF
   "sazerac": "sazeracjs.github.io/sazerac-site",
   "sb": "santiaguf.github.io",
+  "sc-store": "sc-store.onrender.com",
   "sc136": "sc136.github.io/sc-136",
   "scadies": "kysolva.github.io/scadies", // noCF
   "scafix": "cname.vercel-dns.com", // noCF
@@ -2942,7 +2943,6 @@ var cnames_active = {
   "schematex": "cname.vercel-dns.com", // noCF
   "schemy": "aeberdinelli.github.io/schemy",
   "scopes": "kelleyvanevert.github.io/scopes",
-  "sc-store": "sc-store.onrender.com",
   "scramb": "jastinxyz.github.io/scramb",
   "scramble": "ignatiusmb.github.io/scramble",
   "scratch": "scratch-js.github.io",
