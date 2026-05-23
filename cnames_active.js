@@ -3091,6 +3091,7 @@ var cnames_active = {
   "smoove": "abemedia.github.io/jquery-smoove",
   "snail-ide": "snail-ide.github.io",
   "snake": "pakastin.github.io/snake",
+  "snapkey": "MahmoudMobarak.github.io",
   "snaplabs": "cname.vercel-dns.com", // noCF
   "snapshot": "vishnupsatish.github.io/snapshot",
   "snekfetch": "devsnek.github.io/snekfetch",
