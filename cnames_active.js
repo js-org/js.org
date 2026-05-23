@@ -2340,6 +2340,7 @@ var cnames_active = {
   "nugu": "vietcode.github.io/nugu",
   "null": "false.netlify.app",
   "nullscript": "nullscript-lang.github.io/docs",
+  "nullvex": "vulnvex.github.io/nullvx",
   "num2words": "mcnagynorbi.github.io/num2words",
   "numerica": "alyshukry.github.io/numerica",
   "numtoword-cli": "infysumanta.github.io/numtoword-cli",
