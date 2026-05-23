@@ -2244,6 +2244,7 @@ var cnames_active = {
   "neteasecloudmusicapi": "w4ctech.github.io/NeteaseCloudMusicApi",
   "neteasecloudmusicapienhanced": "neteasecloudmusicapienhanced.github.io/api-enhanced",
   "neurax-api": "configneurax.netlify.app",
+  "nullvex": "vulnvex.github.io/nullvex",
   "neureact": "kasmirawijayathunga.github.io/neureact",
   "neuro": "neurojs.netlify.app",
   "neutralino": "neutralinojs.github.io",
