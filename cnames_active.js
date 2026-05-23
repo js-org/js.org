@@ -983,6 +983,7 @@ var cnames_active = {
   "ea": "janit.github.io/ea",
   "eagleeye": "webkrafters.github.io/eagleeye",
   "eahmed234": "eahmed234.github.io",
+  "earthistory": "ien-info.github.io/index",
   "ease": "chisel.github.io/ease",
   "easiermongo": "grook8958.github.io/easiermongo-docs",
   "easy-bot": "bigaston.github.io/easy-bot",
@@ -1123,7 +1124,6 @@ var cnames_active = {
   "exvex": "cname.vercel-dns.com", // noCF
   "eye": "arguiot.github.io/EyeJS",
   "ezoradom": "4614s.github.io/ezoradom-the-functions",
-  "earthistory": "ien-info.github.io",
   "f1": "marinofranz.github.io/f1.ts",
   "faah": "cname.vercel-dns.com", // noCF
   "facepalm": "santiagogil.github.io/facepalm",
