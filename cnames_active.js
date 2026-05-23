@@ -136,6 +136,7 @@ var cnames_active = {
   "ais": "yunyoujun.github.io/ais.js",
   "aitt": "aittssal.github.io/aitt",
   "ajaxable": "artf.github.io/ajaxable",
+  "ajielt7": "ajielt7.github.io",
   "ajinkya": "steelx.github.io/ajinkyaxjs",
   "ajv": "epoberezkin.github.io/ajv",
   "akala": "npenin.github.io/akala",
