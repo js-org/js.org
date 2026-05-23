@@ -3060,12 +3060,12 @@ var cnames_active = {
   "sizle": "christoga.github.io/sizle", // noCF? (don´t add this in a new PR)
   "sjpm": "toggledtech.github.io/SJPM",
   "sjy": "cname.vercel-dns.com", // noCF
-  "skiff": "priyanshu-1622.github.io/skiff-website",
   "skeld": "skeldjs.github.io/SkeldJS",
   "skeptical-coder": "rbpinheiro.github.io/skeptical-coder",
   "sketch": "keiww.github.io/sketch",
   "skillsync": "adityasugandhi.github.io/skillsync-mcp",
   "skiyee": "netlify-cname.xingpingcn.top", // noCF
+  "skiff": "priyanshu-1622.github.io/skiff-website",
   "skratch": "websyncs.github.io/skratch",
   "sksamim": "esksamim.github.io/sksamim",
   "skyle": "skylejs.github.io/skyle",
