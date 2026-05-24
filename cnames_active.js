@@ -1939,6 +1939,7 @@ var cnames_active = {
   "macaron": "macaron-css.github.io/macaron",
   "machinelearning": "marink.github.io/machinelearning",
   "maclary": "maclary.github.io/maclary",
+  "macospython-old": "cname.vercel-dns.com", // noCF
   "macosnotif": "mattipv4.github.io/macOSNotifJS",
   "mad": "madindx.github.io/mad",
   "madankumar": "jmadankumar.github.io",
