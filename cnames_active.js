@@ -2161,6 +2161,7 @@ var cnames_active = {
   "moro": "omidfi.github.io/moro",
   "morocco": "moroccojs.github.io",
   "morse": "the-silver-project.github.io/morse",
+  "morse-learn": "oriafik8-svg.github.io/pwa-project-morse",
   "mosaic": "tilework.github.io/mosaic.js.org",
   "mostage": "mirmousaviii.github.io/mostage",
   "motion-live": "cname.vercel-dns.com", // noCF
