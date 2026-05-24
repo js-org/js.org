@@ -537,6 +537,7 @@ var cnames_active = {
   "charge": "charge-js.netlify.app",
   "chariot": "riyacchi.github.io/chariot.js",
   "chatexchange": "jacob-gray.github.io/ChatExchangeJS",
+  "Charly": "albacordobacarlosantonioxd-cloud.github.io/Charly-api",
   "chatgpt": "chatgptjs.github.io/chatgpt.js",
   "checkers": "davidpomerenke.github.io/checkers",
   "cheerio": "cheeriojs.github.io/cheerio",
@@ -623,6 +624,7 @@ var cnames_active = {
   "commandkit": "cname.vercel-dns.com", // noCF
   "commerce": "commerce-js.github.io/commerce.js",
   "commitlint": "conventional-changelog.github.io/commitlint",
+  "charly-api": "albacordobacarlosantonioxd-cloud.github.io/Charly-api",
   "common-utils": "common-utils.netlify.app",
   "common-utils-pkg": "iamdevlinph.github.io/common-utils-pkg",
   "compactr": "compactr.github.io",
