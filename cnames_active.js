@@ -2009,7 +2009,7 @@ var cnames_active = {
   "maxtracking": "maxtracking.github.io", // noCF? (don´t add this in a new PR)
   "maxvalid": "techmonowar.github.io/maxvalid",
   "mazeasta": "mazeasta.github.io",
-  "maze95": "maze95.github.io",  
+  "maze95": "maze95.github.io",
   "mc": "magicarbon.github.io/mc", // noCF? (don´t add this in a new PR)
   "mca": "lem0nb.github.io/Minecraft_Auto_Builder",
   "mcd": "n9gc.github.io/mcdjs",
