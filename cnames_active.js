@@ -2454,6 +2454,8 @@ var cnames_active = {
   "parse5": "inikulin.github.io/parse5",
   "particles": "tsparticles.github.io/website",
   "party": "yiliansource.github.io/party-js",
+  "productifety": "aymenejouahri-cyber.github.io/productifety-",
+
   "pas-ce-soir": "oldergod.github.io/pas-ce-soir",
   "passepartout": "falkz.github.io/passepartout.js.org",
   "passkeys": "beyondcodebootcamp.github.io/passkeys",
