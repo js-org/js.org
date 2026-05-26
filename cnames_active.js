@@ -1908,6 +1908,7 @@ var cnames_active = {
   "loog": "israelroldan.github.io/loog",
   "lostyle": "rtsao.github.io/lostyle",
   "lottiefy": "pd4d10.github.io/lottiefy",
+  "love": "cname.vercel-dns.com", // noCF
   "loxt": "loxt.netlify.app",
   "lps": "mauris.github.io/lps.js.org",
   "lrclib": "igorwastaken.github.io/lrclib-api",
