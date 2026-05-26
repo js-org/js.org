@@ -1,4 +1,7 @@
-
+/*
+   * please don't add your subdomain records down here!
+   * insert them in alphabetical order to help reduce merge conflicts.
+   * <3
 var cnames_active = {
   "": "js-org.github.io",
   "01mz": "01mz.github.io",
@@ -1976,7 +1979,7 @@ var cnames_active = {
   "mca": "lem0nb.github.io/Minecraft_Auto_Builder",
   "mcd": "n9gc.github.io/mcdjs",
   "mcfly": "mcfly-js.netlify.app",
-  "mctrl": "cname.vercel-dns.com",,
+  "mctrl": "cname.vercel-dns.com",
   "mcul": "russellsteadman.github.io/mcul",
   "md": "cname-china.vercel-dns.com",
   "md5": "cname-china.vercel-dns.com",
