@@ -2439,11 +2439,11 @@ var cnames_active = {
   "palette": "pakastin.github.io/palette",
   "pam": "pambot.netlify.app",
   "pamatcher": "pmros.github.io/pamatcher", // noCF? (don´t add this in a new PR)
+  "pandamonkey": "doctorrrrbuild.github.io/pandamonkey-site",
   "panda": "theaarushgupta.github.io/panda",
   "pangkeyd": "pangkeyd.github.io",
   "pantarei": "pantareijs.github.io/pantarei.js.org",
   "panza": "panza-org.github.io/panza-docs", // noCF
-  "pandamonkey": "https://doctorrrrbuild.github.io/pandamonkey-site",
   "papanasi": "witty-plant-07a086e03.1.azurestaticapps.net", // noCF
   "paperclip": "crcn.github.io/paperclip.js.org", // noCF? (don´t add this in a new PR)
   "papyrus": "papyrusjs.netlify.app",
