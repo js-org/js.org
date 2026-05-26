@@ -976,7 +976,7 @@ var cnames_active = {
   "dynaflo": "trevorhanus.github.io/dynaflo",
   "dynamic-record": "na-west1.surge.sh",
   "dynamicsnode": "crisfervil.github.io/DynamicsNode",
-  "dynamotion": "cname.vercel-dns.com", // noCF`
+  "dynamotion": "cname.vercel-dns.com",
   "dyo": "dyo.github.io/dyo",
   "dyte": "dytejs.github.io",
   "e-query": "mjkhonline.github.io/e-query",
@@ -2361,7 +2361,7 @@ var cnames_active = {
   "observable-hooks": "crimx.github.io/observable-hooks",
   "octofetch": "maartenvn.github.io/OctoFetch",
   "odararmy": "odararmy.github.io",
-  "odialang": "cname.vercel-dns.com", // noCF`
+  "odialang": "cname.vercel-dns.com",
   "odin": "foxifyjs.github.io/odin",
   "oec": "crellison.github.io/oec",
   "oem": "linttrapmedia.github.io/oem",
