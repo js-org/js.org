@@ -857,7 +857,7 @@ var cnames_active = {
   "discord-mini-games": "tanvishgg.github.io/Discord-Mini-Games.js",
   "discord-moderator": "xyligan-gp.github.io/discord-moderator",
   "discord-music-player": "sushibtw.github.io/discord-music-player",
-  "discord-player": "androz2091.github.io",
+  "discord-player": "androz2091.github.io/discord-player",
   "discord-portable-player": "lolollllo.github.io/discord-portable-player",
   "discord-rankup": "x404dev.github.io/discord-rankup",
   "discord-sensei": "demonicious.github.io/discord-sensei",
