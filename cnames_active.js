@@ -2464,6 +2464,7 @@ var cnames_active = {
   "pathfinder": "kvnq-poza.github.io/pathfinder",
   "pathtrace": "kovacsv.github.io/WebGLPathTrace", // noCF? (don´t add this in a new PR)
   "pax": "nathan.github.io/pax",
+  "productifety": "aymenejouahri-cyber.github.io/productifety-",
   "payment-crypto": "kiogia.github.io/payment-crypto",
   "pc": "jeffpar.github.io/pc",
   "pcl": "cname.vercel-dns.com", // noCF
