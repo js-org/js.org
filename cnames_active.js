@@ -2590,6 +2590,7 @@ var cnames_active = {
   "pristine": "sha256.github.io/Pristine", // noCF
   "producify": "jesobreira.github.io/producify",
   "producthunt-trending": "xiaomingplus.github.io/producthunt-trending",
+  "productifety": "aymenejouahri-cyber.github.io/productifety-",
   "profanity-finder": "gautamkrishnar.github.io/profanity-finder.js",
   "profile": "treboryx.github.io/Profile",
   "profilie": "profilie.github.io",
