@@ -395,6 +395,7 @@ var cnames_active = {
   "bloxy": "visualizememe.github.io/bloxy",
   "blu": "maxherrmann.github.io/blu",
   "blueconfig": "a-312.github.io/node-blueconfig",
+  "bluelog": "fc12b95edca61210.vercel-dns-017.com.",
   "blurple": "blurplejs.github.io/docs",
   "bo": "lfb.github.io/bojs",
   "boats": "discordboats.github.io",
