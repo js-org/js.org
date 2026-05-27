@@ -1257,8 +1257,8 @@ var cnames_active = {
   "fy": "fyjs.netlify.app",
   "fyi": "tobihrbr.github.io/fyi",
   "g": "nodebox.github.io/g.js",
-  "gabriel": "gabo-tech.github.io/gabriel",
   "g-point": "bdvela.github.io/g-point",
+  "gabriel": "gabo-tech.github.io/gabriel",
   "gaiman": "jcubic.github.io/gaiman",
   "gal": "galmail.github.io", // noCF? (don´t add this in a new PR)
   "gaman": "gamanjs.github.io",
