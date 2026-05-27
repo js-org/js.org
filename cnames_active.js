@@ -2454,8 +2454,6 @@ var cnames_active = {
   "parse5": "inikulin.github.io/parse5",
   "particles": "tsparticles.github.io/website",
   "party": "yiliansource.github.io/party-js",
-  "productifety": "aymenejouahri-cyber.github.io/productifety-",
-
   "pas-ce-soir": "oldergod.github.io/pas-ce-soir",
   "passepartout": "falkz.github.io/passepartout.js.org",
   "passkeys": "beyondcodebootcamp.github.io/passkeys",
@@ -2592,6 +2590,7 @@ var cnames_active = {
   "pristine": "sha256.github.io/Pristine", // noCF
   "producify": "jesobreira.github.io/producify",
   "producthunt-trending": "xiaomingplus.github.io/producthunt-trending",
+  "productifety": "aymenejouahri-cyber.github.io/productifety-",
   "profanity-finder": "gautamkrishnar.github.io/profanity-finder.js",
   "profile": "treboryx.github.io/Profile",
   "profilie": "profilie.github.io",
@@ -2619,7 +2618,6 @@ var cnames_active = {
   "pt-pt.single-spa": "single-spa.github.io/pt-pt.single-spa.js.org", // noCF
   "ptero": "pterojs.github.io/ptero.js-docs",
   "ptml": "axzr.github.io/ptml",
-  "productifety": "aymenejouahri-cyber.github.io/productifety-",
   "ptrdo": "ptrdo.github.io",
   "pubg": "ickerio.github.io/pubg.js",
   "publish-subscribe": "r37r0m0d3l.github.io/publish_subscribe",
