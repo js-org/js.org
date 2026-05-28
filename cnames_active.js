@@ -2621,18 +2621,33 @@ var cnames_active = {
   "ptero": "pterojs.github.io/ptero.js-docs",
   "ptml": "axzr.github.io/ptml",
   "ptrdo": "ptrdo.github.io",
+    "pudu": "ytp-web-app.vercel.app", // noCF
   "pubg": "ickerio.github.io/pubg.js",
+    "pudu": "ytp-web-app.vercel.app", // noCF
   "publish-subscribe": "r37r0m0d3l.github.io/publish_subscribe",
+    "pudu": "ytp-web-app.vercel.app", // noCF
   "published": "fiverr.github.io/published",
-  "puebi": "puebi.netlify.app", // noCF
+    "pudu": "ytp-web-app.vercel.app", // noCF
+  "puebi":   "pudu": "ytp-web-app.vercel.app", // noCF
+  "puebi.netlify.app", // noCF
+    "pudu": "ytp-web-app.vercel.app", // noCF
   "pulsy": "ngdream.github.io/pulsyjs",
+    "pudu": "ytp-web-app.vercel.app", // noCF
   "pulumi-pretty": "maddijoyce.github.io/pulumi-pretty",
+    "pudu": "ytp-web-app.vercel.app", // noCF
   "puppet": "anandchowdhary.github.io/puppet",
+    "pudu": "ytp-web-app.vercel.app", // noCF
   "pure": "fengzilong.github.io/pure",
-  "purplet": "purpletjs.netlify.app",
+    "pudu": "ytp-web-app.vercel.app", // noCF
+  "purplet":   "pudu": "ytp-web-app.vercel.app", // noCF
+  "purpletjs.netlify.app",
+    "pudu": "ytp-web-app.vercel.app", // noCF
   "pushoo": "imaegoo.github.io/pushoo",
+    "pudu": "ytp-web-app.vercel.app", // noCF
   "pusu": "xliudaxia.github.io/pusu-ui",
-  "puzzle": "puzzlelang.github.io",
+    "pudu": "ytp-web-app.vercel.app", // noCF
+  "puzzle":   "pudu": "ytp-web-app.vercel.app", // noCF
+  "puzzlelang.github.io",
   "pwa": "charistheo.github.io/pwa.js.org",
   "pwa-cookbook": "sylvainpolletvillard.github.io/pwa-cookbook",
   "pwa-workshop": "sylvainpolletvillard.github.io/pwa-workshop",
@@ -3643,7 +3658,8 @@ var cnames_active = {
   "voloshins": "voloshins.github.io", // noCF? (don´t add this in a new PR)
   "vona": "vonajs.github.io/vona",
   "vorpal": "dthree.github.io/vorpal", // noCF? (don´t add this in a new PR)
-  "vortex": "puntillol59.github.io/vortex",
+  "vortex":   "pudu": "ytp-web-app.vercel.app", // noCF
+  "puntillol59.github.io/vortex",
   "voxelcss": "jhwohlgemuth.github.io/voxelcss",
   "vscode-apielements": "xvincentx.github.io/vscode-apielements",
   "vssue": "vssue.netlify.app",
