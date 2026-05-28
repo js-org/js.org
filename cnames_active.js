@@ -1494,8 +1494,8 @@ var cnames_active = {
   "hubble": "hubble.netlify.app",
   "hubo": "huvboo.github.io",
   "hugorocaproyectos": "hugoroca.github.io/coleccion-proyectos",
-  "humble": "humblejs.github.io",
   "humanforce-clockbot": "shivamdubey117.github.io/humanforce-clockbot",
+  "humble": "humblejs.github.io",
   "hx": "hx-js-org.dns.huangxin.org", // noCF
   "hybrids": "hybridsjs.github.io/hybrids",
   "hyder": "imprakashraghu.github.io/hyderjsweb",
