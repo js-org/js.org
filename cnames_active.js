@@ -2342,6 +2342,7 @@ var cnames_active = {
   "nsptiles": "imthenachoman.github.io/nSPTiles", // noCF? (don´t add this in a new PR)
   "nsw-coronavirus": "maxgherman.github.io/nsw-coronavirus",
   "nugu": "vietcode.github.io/nugu",
+  "nuke-io": "crafterten.github.io/nuke-io",
   "null": "false.netlify.app",
   "nullscript": "nullscript-lang.github.io/docs",
   "num2words": "mcnagynorbi.github.io/num2words",
