@@ -2837,7 +2837,7 @@ var cnames_active = {
   "resumebuilder": "resumebuilder-dracu.netlify.app",
   "retalk": "cname-china.vercel-dns.com", // noCF
   "rete": "retejs.github.io",
-  "rethink":"legologlar.github.io/ReThink"
+  "rethink":"legologlar.github.io/ReThink",
   "reto": "awmleer.github.io/reto",
   "retos": "cname.vercel-dns.com", // noCF
   "retro-sound": "learosema.github.io/retro-sound",
