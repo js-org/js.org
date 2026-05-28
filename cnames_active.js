@@ -81,6 +81,7 @@ var cnames_active = {
   "abra": "abracadabra-demo.pages.dev",
   "abracadabra": "doc-cgg.pages.dev",
   "aby": "icoldplayer.github.io/aby",
+  "aceincc": "aceincc.github.io/aceincc",
   "ac": "alauda.github.io/alauda-chart",
   "acarsy": "acarsy.github.io",
   "accent": "sripkunda.github.io/accent",
