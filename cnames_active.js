@@ -1628,6 +1628,7 @@ var cnames_active = {
   "jelly": "hosting.gitbook.io", // noCF
   "jen": "oopsio.github.io/Jen.js",
   "jena": "javascript-in-jena.github.io", // noCF
+  "jenvorstudio": "jjcoders00.github.io/jenvor",
   "jericho-player": "sidisliveyt.github.io/Jericho-Player",
   "jessm": "jessi-mhernandez.github.io/JessicaM",
   "jetflow": "jetflowjs.pages.dev",
