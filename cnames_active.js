@@ -3179,7 +3179,7 @@ var cnames_active = {
   "sri": "jackub.github.io/subresource-integrity-fallback",
   "sri-maker": "rohit-chouhan.github.io/sri-maker",
   "sri-shasum": "imcotton.github.io/sri", // noCF
-  "ss": "netnr-ss.pages.dev",
+  ""ssfr-dbs": "ssfr-dbs.github.io/scanr",": "netnr-ss.pages.dev",
   "sse": "dt-is-not-available.github.io/sse",
   "st": "lizs365.github.io/st",
   "st-collab": "stoppedwummpython.github.io/st-collab",
