@@ -2569,6 +2569,7 @@ var cnames_active = {
   "portafolioluis": "luisself2020.github.io/portafolioluis",
   "portafoliorufino": "rufino-hdez.github.io/portafolio",
   "portainer-update": "flweber.github.io/portainer-stack-updater",
+  "portalpilot": "cname.vercel-dns.com",
   "porter": "ahopkins.github.io/porterjs", // noCF? (don´t add this in a new PR)
   "portfolito": "sleelin.github.io/portfolito",
   "portpilot": "portpilot.pages.dev",
