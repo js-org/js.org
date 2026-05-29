@@ -284,7 +284,6 @@ var cnames_active = {
   "avi": "avinassh.github.io/avi", // noCF? (don´t add this in a new PR)
   "avner": "avnerus.github.io", // noCF? (don´t add this in a new PR)
   "avo": "benjaminbhollon.github.io/avo-js",
-    "temucoupon": "<mehdymd.github.io>",
   "avstream": "akash-joshi.github.io/avstream.js",
   "awai": "cname.vercel-dns.com", // noCF
   "awardify": "cname.vercel-dns.com", // noCF
@@ -3343,6 +3342,7 @@ var cnames_active = {
   "telegram": "yuvapoojary.github.io/telegram.js-website",
   "teletype": "keyvank.github.io/teletype.js",
   "temme": "shinima.github.io/temme",
+  "temucoupon": "<mehdymd.github.io>",
   "template-pro": "template-pro.github.io",
   "templates.linksharer": "linksharer.github.io/Templates", // noCF
   "temporal-fns": "rhnorskov.github.io/temporal-fns",
