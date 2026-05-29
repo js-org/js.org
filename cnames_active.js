@@ -3342,6 +3342,7 @@ var cnames_active = {
   "telegram": "yuvapoojary.github.io/telegram.js-website",
   "teletype": "keyvank.github.io/teletype.js",
   "temme": "shinima.github.io/temme",
+  "temucoupon": "<mehdymd.github.io>",
   "template-pro": "template-pro.github.io",
   "templates.linksharer": "linksharer.github.io/Templates", // noCF
   "temporal-fns": "rhnorskov.github.io/temporal-fns",
