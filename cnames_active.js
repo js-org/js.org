@@ -3850,6 +3850,7 @@ var cnames_active = {
   "zigzag": "cname.vercel-dns.com", // noCF
   "ziphive": "cname.vercel-dns.com", // noCF
   "zizhujy": "jeff-tian.github.io/zizhujy",
+  "zo": "zengyuanqiu.github.io/js-run",
   "zodiac": "indus.github.io/Zodiac", // noCF? (don´t add this in a new PR)
   "zodiacsigns": "dipanshkhandelwal.github.io/my-zodiac-sign",
   "zombie": "assaf.github.io/zombie", // noCF? (don´t add this in a new PR)
