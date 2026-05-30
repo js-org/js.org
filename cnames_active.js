@@ -1833,7 +1833,7 @@ var cnames_active = {
   "leipzig": "leipzigjs.github.io", // noCF? (don´t add this in a new PR)
   "lemn": "lemnjs.github.io/lemn",
   "leo": "leo66123.github.io",
-  "leotable": "cname.vercel-dns.com",
+  "leotable": "cname.vercel-dns.com", // noCF
   "leoj": "leoaj.github.io", // noCF? (don´t add this in a new PR)
   "leoric": "cyjake.github.io/leoric",
   "lerna": "lerna.github.io/website",
