@@ -973,6 +973,7 @@ var cnames_active = {
   "dv-scalebar": "indus.github.io/dv-scalebar",
   "dva-plus": "anyesu.github.io/dva-plus",
   "dvan": "dvan.netlify.app",
+  "dorzadeh": "alifari479.github.io",
   "dvd": "cdaringe.github.io/dvd-corner-bounce",
   "dynaflo": "trevorhanus.github.io/dynaflo",
   "dynamic-record": "na-west1.surge.sh",
