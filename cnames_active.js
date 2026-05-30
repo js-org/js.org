@@ -1055,6 +1055,7 @@ var cnames_active = {
   "englishell": "tzador.github.io/englishell",
   "enn": "loganpaxton.github.io/enn",
   "envshh": "sanjib-sen.github.io/envshh",
+  "envx": "cname.vercel-dns.com", // noCF
   "epi": "epispot.github.io/EpiJS",
   "epicker": "eling486.github.io/EPicker-docs",
   "eplayer": "132yse.github.io/eplayer",
@@ -2849,6 +2850,7 @@ var cnames_active = {
   "rexs": "uellenberg.github.io/REXS",
   "reyes": "michaelbreyes.github.io/reyes",
   "rgbstrip": "xrealneon.github.io/RGBStrip",
+  "ribbons": "tsparticles.github.io/ribbons",
   "rickdesantis": "rickdesantis.github.io",
   "riffy": "cname.vercel-dns.com", // noCF
   "riiickyy": "riiickyy.github.io",
@@ -3516,6 +3518,7 @@ var cnames_active = {
   "unicorn": "mirai-explorer.github.io/unicorn",
   "unicornly": "unicornly.github.io/unicornly",
   "unique-session": "molaga.github.io/unique-session",
+  "unit": "cname.vercel-dns.com", // noCF
   "universal-api": "raxjs.github.io/universal-api",
   "unle": "lochyj.github.io/unle",
   "uno": "theatom06.github.io/uno.js",
