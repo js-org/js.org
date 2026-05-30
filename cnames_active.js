@@ -3455,6 +3455,7 @@ var cnames_active = {
   "unicorn": "mirai-explorer.github.io/unicorn",
   "unicornly": "unicornly.github.io/unicornly",
   "unique-session": "molaga.github.io/unique-session",
+  "unit": "cname.vercel-dns.com", // noCF
   "universal-api": "raxjs.github.io/universal-api",
   "unle": "lochyj.github.io/unle",
   "uno": "theatom06.github.io/uno.js",
