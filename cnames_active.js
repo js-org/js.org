@@ -1055,6 +1055,7 @@ var cnames_active = {
   "englishell": "tzador.github.io/englishell",
   "enn": "loganpaxton.github.io/enn",
   "envshh": "sanjib-sen.github.io/envshh",
+  "envx": "cname.vercel-dns.com", // noCF
   "epi": "epispot.github.io/EpiJS",
   "epicker": "eling486.github.io/EPicker-docs",
   "eplayer": "132yse.github.io/eplayer",
