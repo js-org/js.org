@@ -477,6 +477,7 @@ var cnames_active = {
   "caicai": "qianxunclub.github.io/CaiCai",
   "caissa": "agentx-cgn.github.io/caissa",
   "caizhiyuannn": "caizhiyuannn.github.io",
+  "cakgup": "cakgup.github.io",
   "calcium": "courageous-bublanina-6857c1.netlify.app",
   "calcy": "odevlord.github.io/Calcy", // noCF? (don´t add this in a new PR)
   "calisto": "cname.vercel-dns.com", // noCF
