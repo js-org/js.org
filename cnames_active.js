@@ -3306,6 +3306,7 @@ var cnames_active = {
   "tab": "gdmcc.github.io/tab",
   "tabs": "mehrizi.github.io/tabs",
   "tagscript": "cname.vercel-dns.com", // noCF
+  "tag-spider-x": "tag-spider-x.netlify.app",
   "tagster": "goschevski.github.io/tagster", // noCF? (don´t add this in a new PR)
   "taha": "orcxzjeeeee.github.io/taha",
   "tailwind-baseline": "apkoponen.github.io/tailwind-baseline-site",
