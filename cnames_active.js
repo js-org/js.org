@@ -1908,6 +1908,7 @@ var cnames_active = {
   "london": "londonjs.github.io",
   "longlast": "benchristel.github.io/longlast",
   "loog": "israelroldan.github.io/loog",
+  "lookup": "lookup-js-org.pages.dev",
   "lostyle": "rtsao.github.io/lostyle",
   "lottiefy": "pd4d10.github.io/lottiefy",
   "loxt": "loxt.netlify.app",
