@@ -423,6 +423,7 @@ var cnames_active = {
   "bozoloop": "valgaze.github.io/bozoloop",
   "bquery": "bquery.github.io/bQuery",
   "brain": "brainjs.github.io/brain.js.org",
+  "brainfuck": "viktorchampion.github.io/BrainfuckInterpreter",
   "brandi": "cname.vercel-dns.com", // noCF
   "brandifyjs": "greybax.github.io/brandifyjs",
   "brandonmerritt": "brandonmerritt.github.io", // noCF? (don´t add this in a new PR)
@@ -3869,3 +3870,4 @@ var cnames_active = {
    * <3
    */
 }
+//Add brainfuck.js.org
