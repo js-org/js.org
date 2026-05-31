@@ -3870,4 +3870,3 @@ var cnames_active = {
    * <3
    */
 }
-//Add brainfuck.js.org
