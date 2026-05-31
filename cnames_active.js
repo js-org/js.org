@@ -3811,6 +3811,7 @@ var cnames_active = {
   "yay-machine": "maurice.github.io/yay-machine",
   "ydb": "ydb-platform.github.io/ydb-js-sdk",
   "yennj12": "yennanliu.github.io",
+  "yes_or_no": "satous-31.github.io",
   "yh": "hksat.github.io",
   "yiff": "codepupper.github.io/yiff",
   "ymlair": "ymlair.github.io/TimestampHumanDemo",
