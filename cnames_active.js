@@ -1799,6 +1799,7 @@ var cnames_active = {
   "languages": "rsamaium.github.io/Languages",
   "lanye": "lanye.github.io",
   "larastrator": "the94air.github.io/larastrator",
+  "laria": "sammael-ag.github.io/LARIA",
   "lass": "lassjs.github.io/lass",
   "latex": "michael-brade.github.io/LaTeX.js",
   "latte": "tehsenaus.github.io/latte-js",
