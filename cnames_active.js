@@ -1658,6 +1658,7 @@ var cnames_active = {
   "jparticles": "jparticles.github.io/Documentation",
   "js-fixerr": "anujsinghwd.github.io/js-fixerr",
   "js-labs": "cname.vercel-dns.com", // noCF
+  "js-run": "zengyuanqiu.github.io/js-run",
   "js-utils": "teneplaysofficial.github.io/js-utils-kit",
   "js-validation": "phpdevsr.github.io/js-validation",
   "js2lua": "xiangnanscu.github.io/js2lua", // noCF
@@ -3850,7 +3851,6 @@ var cnames_active = {
   "zigzag": "cname.vercel-dns.com", // noCF
   "ziphive": "cname.vercel-dns.com", // noCF
   "zizhujy": "jeff-tian.github.io/zizhujy",
-  "zo": "zengyuanqiu.github.io/js-run",
   "zodiac": "indus.github.io/Zodiac", // noCF? (don´t add this in a new PR)
   "zodiacsigns": "dipanshkhandelwal.github.io/my-zodiac-sign",
   "zombie": "assaf.github.io/zombie", // noCF? (don´t add this in a new PR)
