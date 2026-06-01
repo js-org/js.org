@@ -666,6 +666,7 @@ var cnames_active = {
   "core-ln": "runcitadel.github.io/core-ln.ts",
   "coreact": "coreactjs.github.io/coreact",
   "coredi": "empla.github.io/coredi",
+  "coreify": "cname.vercel-dns.com", // noCF
   "coreutils": "ultirequiem.github.io/coreutils",
   "cork": "davej.github.io/CorkJS",
   "corki": "dvtate.github.io/corki",
@@ -1659,6 +1660,7 @@ var cnames_active = {
   "jparticles": "jparticles.github.io/Documentation",
   "js-fixerr": "anujsinghwd.github.io/js-fixerr",
   "js-labs": "cname.vercel-dns.com", // noCF
+  "js-run": "zengyuanqiu.github.io/js-run",
   "js-utils": "teneplaysofficial.github.io/js-utils-kit",
   "js-validation": "phpdevsr.github.io/js-validation",
   "js2lua": "xiangnanscu.github.io/js2lua", // noCF
