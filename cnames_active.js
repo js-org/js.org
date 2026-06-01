@@ -3224,6 +3224,7 @@ var cnames_active = {
   "stino": "stinobe.github.io/Stino",
   "stockings": "kgroat.github.io/stockings",
   "stoneyallen": "stoneyallen.github.io",
+  "stackly": "smrafiu2-max.github.io",
   "stonk": "anujsharma141.github.io/stonk",
   "storage": "uzitech.github.io/storage.js",
   "storelocator": "storelocatorjs.github.io",
