@@ -2499,7 +2499,8 @@ var cnames_active = {
   "ph1p": "ph1p.github.io",
   "phaker": "phakerjs.github.io/phaker.js",
   "phantom": "eliasnau.github.io/phantomjs",
-  "pharaoh": "pharaoh-js.github.io", // noCF? (don´t add this in a new PR)
+  "pharaoh": "pharaoh-js.github.io", 
+  "primeearn": "cname.vercel-dns.com",// noCF? (don´t add this in a new PR)
   "pharo": "pharojs.github.io/pharo-js-org",
   "phazor": "phazor-js.github.io/Phazor.js",
   "phi": "phi-tools.netlify.app",
