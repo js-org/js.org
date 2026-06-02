@@ -3200,6 +3200,7 @@ var cnames_active = {
   "stamps": "ronald-baars.github.io/stamps",
   "stampy": "stampylongr.github.io",
   "standard-resource": "hosting.gitbook.com", // noCF
+  "standard-tool": "finom.github.io/standard-tool",
   "stapp": "tinkoffcreditsystems.github.io/stapp",
   "starfield": "annikav9.github.io/starfield.js",
   "starify-discord": "dastormer.github.io/starify-discord",
