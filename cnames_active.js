@@ -1476,6 +1476,7 @@ var cnames_active = {
   "hooks": "teneplaysofficial.github.io/hooks",
   "hookstate": "hookstate.netlify.app", // noCF
   "hooloo": "hooloo.github.io", // noCF? (don´t add this in a new PR)
+  "hormonize": "hormonize-fit.github.io/hormonizr-fit",
   "hoshii": "reinhello.github.io/hoshii-docs",
   "houp": "houpjs.github.io/houp-docs",
   "hours": "cname.vercel-dns.com", // noCF
