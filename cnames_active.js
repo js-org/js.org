@@ -1472,6 +1472,7 @@ var cnames_active = {
   "hois": "hoisw.github.io",
   "holidaycss": "evgenyorekhov.github.io/holiday.css",
   "holo": "holo-js-org.github.io/www",
+  "hollow-expedition": "pixelalien0.github.io",
   "hooked-on-redux": "harryhope.github.io/hooked-on-redux",
   "hooks": "teneplaysofficial.github.io/hooks",
   "hookstate": "hookstate.netlify.app", // noCF
