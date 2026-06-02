@@ -1,4 +1,4 @@
-/*
+"vaishnavi": "Akshithreddy2009.github.io/website",/*
  ***** ACTIVE SUBDOMAINS
  * ***********************
  *
