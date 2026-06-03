@@ -638,6 +638,7 @@ var cnames_active = {
   "concursos": "mteyss.github.io/concursos", // noCF? (don´t add this in a new PR)
   "conductor": "hosting.gitbook.com",
   "confetti": "tsparticles.github.io/confetti",
+  "conferintaat2026": "magami1881904.github.io/conf2026",
   "conflict": "conflictjs.github.io/site",
   "conglo": "schwarzkopfb.github.io/conglo",
   "connect.stacks": "cname.vercel-dns.com", // noCF
