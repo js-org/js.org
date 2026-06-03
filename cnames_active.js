@@ -2549,6 +2549,7 @@ var cnames_active = {
   "pliers": "pliersjs.github.io", // noCF? (don´t add this in a new PR)
   "plotyxd": "plotyxd.github.io",
   "plumier": "plumier.github.io",
+  "pmtools": "cname.vercel-dns.com", // noCF
   "pnpm": "pnpm.github.io",
   "pod": "mileallen.github.io/pod",
   "poegems": "max-arias.github.io/poeGems", // noCF? (don´t add this in a new PR)
