@@ -3575,6 +3575,7 @@ var cnames_active = {
   "v4.webpack": "webpack.github.io/v4.webpack.js.org", // noCF
   "v4f": "v4f.netlify.app",
   "vac": "mlinquan.github.io/vue-awesome-countdown",
+  "vaishnavi-tyre-re-trading-company": "Akshithreddy2009.github.io/vaishnavi-tyre-re-trading-company",
   "valence-native": "valence-native.github.io/valence-native",
   "validarium": "lundegaard.github.io/validarium",
   "validation-br": "cname.vercel-dns.com", // noCF
