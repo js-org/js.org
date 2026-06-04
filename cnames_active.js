@@ -2524,6 +2524,7 @@ var cnames_active = {
   "pika": "xiaopika.github.io/pika.js.org",
   "piling": "flekschas.github.io/piling.js",
   "pineapple": "totaltechgeek.github.io/pineapple",
+  "pingpaid": "anxovatomica.github.io",
   "pinf": "pinf.github.io", // noCF? (don´t add this in a new PR)
   "pinipig": "jmdisuanco.github.io/pinipig",
   "pino-nest": "yamcodes.github.io/pino-nestjs",
