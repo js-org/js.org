@@ -3688,6 +3688,7 @@ var cnames_active = {
   "vuepress-theme-cool": "friendlyuser.github.io/vuepress-theme-cool",
   "vuikit": "vuikit.netlify.app",
   "vulkava": "hosting.gitbook.io", // noCF
+  "vxt": "noah227.github.io/vxt-docs",
   "vxv": "vxv.netlify.app",
   "w2d": "bananahackers.github.io/w2d", // noCF
   "w4ctech": "w4ctech.github.io",
