@@ -3604,6 +3604,7 @@ var cnames_active = {
   "vbuild": "egoist.github.io/vbuild",
   "vdcs": "hopae-official.github.io/Verifiable-Digital-Credentials",
   "ve-table": "xiguaxigua.github.io/ve-table",
+  "vedankmusic": "vedanktamrakar.github.io/vedank-music",
   "vega": "cname.vercel-dns.com", // noCF
   "velite": "zce.github.io/velite",
   "velt": "veltjs.github.io",
@@ -3869,7 +3870,6 @@ var cnames_active = {
   "zylog": "cname.vercel-dns.com", // noCF
   "zyx": "zyx.alwaysdata.net",
   "zyy": "zyyou.github.io/notes",
-  "vedankmusic": "vedanktamrakar.github.io/vedank-music",
   /*
    * please don't add your subdomain records down here!
    * insert them in alphabetical order to help reduce merge conflicts.
