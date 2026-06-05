@@ -168,6 +168,7 @@ var cnames_active = {
   "almeida": "almeidx.github.io",
   "almin": "almin.github.io",
   "alova": "alovajs.github.io",
+  "whiteboard3112": "whiteboard3112.up.railway.app",
   "alpha-coders": "biologyscience.github.io/alpha-coders",
   "alphabetify": "davidpomerenke.github.io/alphabetify",
   "alpine-ajax": "imacrayon.github.io/alpine-ajax",
