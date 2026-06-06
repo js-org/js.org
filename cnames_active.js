@@ -332,6 +332,7 @@ var cnames_active = {
   "baoshuo": "renbaoshuo.github.io/baoshuo.css",
   "bara": "barajs.github.io/bara",
   "barba": "barbajs.github.io/barba",
+  "barath": "barathraj0812.github.io",
   "barbagrigia": "barbagrigia.github.io",
   "bard-ai": "evanzhoudev.github.io/bard-ai",
   "base-classes": "ruben-arushanyan.github.io/base-classes",
