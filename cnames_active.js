@@ -3380,6 +3380,7 @@ var cnames_active = {
   "thenandnow": "devdavmen.github.io/then-and-now",
   "theorem": "arguiot.github.io/TheoremJS",
   "thepeachtimes": "thepeachtimes.github.io",
+  "thethousands": "arhqzs.github.io/the-thousands",
   "thi": "ngomjnhthj.github.io/thi",
   "thinkdigital": "tomowens08.github.io/thinkdigital",
   "threadly": "spideyzac.github.io/Threadly",
