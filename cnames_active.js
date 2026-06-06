@@ -411,11 +411,12 @@ var cnames_active = {
   "bookmarklets": "zelnickb.github.io/bookmarklets",
   "bool": "booljs.github.io",
   "booru": "atlasthebot.github.io/booru",
-  "borio": "borio.edgeone.dev",
+  "booru": "atlasthebot.github.io/booru",
   "bootstrap-confirmation": "mistic100.github.io/Bootstrap-Confirmation", // noCF? (don´t add this in a new PR)
   "bootstrap-validate": "pascalebeier.github.io/bootstrap-validate",
   "bootstrap-vue-arsenic": "ycs77.github.io/bootstrap-vue-arsenic",
   "boowindcss": "nawazishali.github.io/BoowindCSS", // noCF
+  "borio": "borio.edgeone.dev",
   "botgram": "botgram.github.io/botgram",
   "bottender": "yoctol.github.io/bottender",
   "bottlecap": "rwbeast.github.io/bottlecap",
