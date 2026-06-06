@@ -54,6 +54,7 @@ var cnames_active = {
   "30dayjavascript": "30dayjavascript.netlify.app",
   "360": "360daili.github.io/360daili",
   "3d-go": "3d-go.netlify.app",
+  "3dboss": "216.198.79.1",
   "404": "licshee.github.io/404",
   "766": "766.github.io",
   "7anshuai": "7anshuai.github.io", // noCF? (don´t add this in a new PR)
