@@ -1529,6 +1529,7 @@ var cnames_active = {
   "ignite": "ignitejscl.github.io",
   "iiimix": "iiimix.github.io/iiimixjsorg",
   "iio": "iioinc.github.io/iio.js", // noCF? (don´t add this in a new PR)
+  "iitquestpro": "gen-lang-client-0382471615.web.app",
   "illustrator": "illustratorjs.netlify.app",
   "imagecapture": "googlechrome.github.io/imagecapture-polyfill",
   "imagin": "ilrc.github.io/imagin",
