@@ -67,6 +67,7 @@ var cnames_active = {
   "a2ui-sdk": "easyops-cn.github.io/a2ui-sdk",
   "a6smile": "a6smile.github.io",
   "aalaap": "aalaap.github.io",
+  "toehead2005": "ryota.github.io",
   "aaron": "57aaron.github.io",
   "ab64": "un-ts.github.io/ab64",
   "abbw": "abbw.github.io",
