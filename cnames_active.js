@@ -709,6 +709,7 @@ var cnames_active = {
   "crossani": "cname.vercel-dns.com", // noCF
   "crossbell": "crossbell-box.github.io/crossbell.js",
   "crunch": "vukicevic.github.io/crunch", // noCF? (don´t add this in a new PR)
+  "crypto-game-miner": "crypto-game-miner.github.io",
   "cryptons-api": "agenthackeryt.github.io/cryptons-api",
   "crystaldb": "erikmcm.github.io/CrystalDB",
   "crystalpay-sdk": "deadshumz.github.io/crystalpay-sdk",
