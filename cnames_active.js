@@ -2608,6 +2608,7 @@ var cnames_active = {
   "promptshield": "promptshield-io.github.io/promptshield",
   "pronouns": "cname.vercel-dns.com", // noCF
   "propresenter": "thewilloftheshadow.github.io/propresenter",
+  "protech": "https://amrithaekambaram-web.github.io"
   "proteic": "proteus-h2020.github.io/proteic",
   "proto-message-helper": "rexskz.github.io/proto-message-helper",
   "proton": "jonathanzzero.github.io/proton",
