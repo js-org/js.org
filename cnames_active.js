@@ -3510,6 +3510,7 @@ var cnames_active = {
   "umair": "mumairofficial.github.io",
   "umentor": "umentor.github.io/umentor",
   "umm": "umm233.github.io",
+  "umaru": "fallen11091.github.io/umaru-",
   "unbranded": "unbranded-bot.github.io/website",
   "underbase": "sundowndev.github.io/underbase",
   "undercut": "undercut.netlify.app",
