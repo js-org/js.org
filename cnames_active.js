@@ -2101,6 +2101,7 @@ var cnames_active = {
   "mirror": "hmsjy2017.github.io/Google-Mirrors",
   "mirrors": "llxlr.github.io/mirrors",
   "miru": "miru-project.github.io/docs",
+  "mirej-c-ministere": "CNAME:akouassa220-art.github.io/MIREJ-JC",
   "mis101bird": "mis101bird.github.io", // noCF? (don´t add this in a new PR)
   "mission-control": "capevace.github.io/mission-control",
   "miteshtagadiya": "miteshtagadiya.github.io/miteshtagadiya",
