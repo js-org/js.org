@@ -546,6 +546,7 @@ var cnames_active = {
   "chenyuhu": "chenyuhu.github.io",
   "chernivtsi": "chernivtsijs.github.io",
   "chess-barebones": "iamawebgeek.github.io/chess-barebones",
+  "chess-rush": "wechess-fun-web.6545823.workers.dev",
   "chig": "eliotchignell.github.io",
   "chirashi": "chirashijs.github.io/chirashi",
   "chitchat": "chitchatjs.github.io",
