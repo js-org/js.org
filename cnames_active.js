@@ -2909,7 +2909,7 @@ var cnames_active = {
   "ruwan": "rpgee.github.io",
   "rva": "fanyer.github.io/rva",
   "ryaneldon": "ry-e.github.io",
-  "saasifytext": "cname.vercel-dns.com",
+   "saasifytext": "cname.vercel-dns.com", // noCF
   "saaskit": "cname.vercel-dns.com", // noCF
   "sacgencode": "sacgencode.github.io",
   "saeed": "mrsaeeddev.github.io",
