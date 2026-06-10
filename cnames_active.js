@@ -2350,6 +2350,7 @@ var cnames_active = {
   "num2words": "mcnagynorbi.github.io/num2words",
   "numerica": "alyshukry.github.io/numerica",
   "numtoword-cli": "infysumanta.github.io/numtoword-cli",
+  "nurussunnah": "nurussunnah-ac.github.io",
   "nut": "nut-project.netlify.app",
   "nuxt-fluent-bootstrap": "disjfa.github.io/nuxt-fluent-bootstrap",
   "nuxtdoc": "hopeful-hoover-d87dd1.netlify.app",
