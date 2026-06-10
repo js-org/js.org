@@ -2478,6 +2478,7 @@ var cnames_active = {
   "pdf": "iamcristye.github.io/PDF",
   "pdf-lib": "hopding.github.io/pdf-lib", // noCF
   "pdfium": "cname.vercel-dns.com", // noCF
+  "pdfnote": "borish127.github.io",
   "pdfutils": "gottox.github.io/node-pdfutils", // noCF? (don´t add this in a new PR)
   "pecis": "techpot-studio.github.io/Pecis",
   "pee": "enbyautumn.github.io/pee.js",
