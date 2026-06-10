@@ -1727,6 +1727,7 @@ var cnames_active = {
   "katheesh": "katheesh.github.io/katheesh.js",
   "kawaii": "moemoesoft.github.io/kawaii", // noCF
   "kcak11": "kcak11.github.io/js-org-web",
+  "kelas": "kelasjs.github.io/website",
   "kelvinho": "kelvin2go.github.io", // noCF? (don´t add this in a new PR)
   "kewitz": "kewitz.github.io",
   "key": "bernzrdo.github.io/key",
