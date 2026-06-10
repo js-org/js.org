@@ -1420,6 +1420,7 @@ var cnames_active = {
   "han": "han-js.hanlu.im", // noCF
   "hana": "romantic-kare-c84899.netlify.app",
   "hanan": "hanandito.github.io/teddypicker",
+  "handschrift": "tomhenniger.github.io/text-to-lac",
   "hapi-sol": "yonjah.github.io/hapi-sol",
   "hapin": "ha-pin.github.io",
   "happy": "e24.github.io/happy", // noCF? (don´t add this in a new PR)
