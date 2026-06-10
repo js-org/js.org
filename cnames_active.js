@@ -273,6 +273,7 @@ var cnames_active = {
   "atos": "cname.vercel-dns.com", // noCF
   "atx": "aktarytech.github.io/atx",
   "audio-transcriber": "shriansh2002.github.io/gemini-audio-transcriber-site",
+  "auditiq": "pjcan2002-a11y.github.io/AuditIQ",
   "aui": "alauda.github.io/alauda-ui",
   "aunt": "79e.github.io/aunt",
   "autarky": "pranshuchittora.github.io/autarky",
