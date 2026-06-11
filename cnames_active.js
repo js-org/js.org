@@ -2925,6 +2925,7 @@ var cnames_active = {
   "sam": "jdubray.github.io/sam", // noCF? (don´t add this in a new PR)
   "samathgen": "sadykhzadeh.github.io/samathgen",
   "samlify": "tngan.github.io/samlify",
+  "samengine": "216.198.79.1",
   "samply": "yury-shevchenko.github.io/samply",
   "samplyr": "arze1.github.io/samplyr-site",
   "sampoder": "sampoder.github.io",
