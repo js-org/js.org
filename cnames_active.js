@@ -509,6 +509,7 @@ var cnames_active = {
   "carloseduardo": "karllossouza.github.io/carloseduardo.js.org",
   "carmi": "wix-incubator.github.io/carmi",
   "carrier": "theritikchoure.github.io/carrierjs",
+  "careerai": "ai-assistant-six-wine.vercel.app",
   "carrot": "kemosaf.github.io/carrot",
   "cart": "cname.vercel-dns.com", // noCF
   "cartodb-demo": "opensas.github.io/cartodb-demo", // noCF? (don´t add this in a new PR)
