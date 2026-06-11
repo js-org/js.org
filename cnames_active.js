@@ -890,6 +890,7 @@ var cnames_active = {
   "ditox": "mnasyrov.github.io/ditox",
   "div": "div-js.github.io/div.js.org",
   "divifier": "eaaasun.github.io/divifier",
+  "divyanshtube": "cname.vercel-dns.com",
   "diya": "diya-8ra.pages.dev", // noCF
   "djs-addon": "hosting.gitbook.io", // noCF
   "djs-application-commands": "hosting.gitbook.io",
