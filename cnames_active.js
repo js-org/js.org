@@ -255,6 +255,7 @@ var cnames_active = {
   "assay": "assay-ai.github.io/assay",
   "assembly-line": "rubenverg.github.io/assembly-line.js",
   "assistant": "coolmlgplayer-js.github.io",
+  "assistantai": "ai-assistant-six-wine.vercel.app",
   "ast": "kindy.github.io/ast",
   "astral": "espinielli.github.io/astraljs", // noCF? (don´t add this in a new PR)
   "astro": "withastro.github.io",
@@ -509,7 +510,6 @@ var cnames_active = {
   "carloseduardo": "karllossouza.github.io/carloseduardo.js.org",
   "carmi": "wix-incubator.github.io/carmi",
   "carrier": "theritikchoure.github.io/carrierjs",
-  "careerai": "ai-assistant-six-wine.vercel.app",
   "carrot": "kemosaf.github.io/carrot",
   "cart": "cname.vercel-dns.com", // noCF
   "cartodb-demo": "opensas.github.io/cartodb-demo", // noCF? (don´t add this in a new PR)
