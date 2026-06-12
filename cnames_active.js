@@ -2914,6 +2914,7 @@ var cnames_active = {
   "saeed": "mrsaeeddev.github.io",
   "safe": "hiren2001.github.io/SafeJS",
   "sageshadowstream": "shadowstream-bgo0.onrender.com",
+  "sageshadowstream-admin": "sageshadowstream-admin-panel.onrender.com",
   "sagui": "saguijs.github.io", // noCF? (don´t add this in a new PR)
   "sahilister": "sahilister.github.io/portfolio",
   "sai": "hackers4peace.github.io/sai-js",
