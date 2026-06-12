@@ -1819,6 +1819,7 @@ var cnames_active = {
   "ldf": "autplayed.github.io/ldf",
   "ldo": "o-development.github.io/ldo.js.org",
   "le": "letui.github.io",
+  "level-up-ly": "tahazied615-design.github.io",
   "leaf": "5c46aa0430-hosting.gitbook.io", // noCF
   "lean-stack": "lean-stack.github.io", // noCF? (don´t add this in a new PR)
   "leap-year": "ultirequiem.github.io/leap-year",
