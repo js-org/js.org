@@ -343,6 +343,7 @@ var cnames_active = {
   "bathtiles": "laurenyoo.github.io/website-bathtiles.js", // noCF
   "battle-city": "shinima.github.io/battle-city",
   "battlerite": "dragory.github.io/battlerite.js",
+  "baymin": "cname.vercel-dns.com", // noCF
   "bb": "bbtalkjs.github.io",
   "bbn": "jammer99.github.io/bbn",
   "bc": "mazko.github.io/bc.js",
