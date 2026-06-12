@@ -2259,6 +2259,7 @@ var cnames_active = {
   "newton": "caracal7.github.io/newton.js",
   "newyear": "dndrbots.github.io/new_year_counter",
   "nexbase-core": "petrunov.github.io/nexbase-core",
+  "nexmc": "fresy01.github.io/nexmc",
   "next": "zeit.github.io/next-site",
   "next-admin": "cname.vercel-dns.com", // noCF
   "next-auth": "alias.zeit.co", // noCF
@@ -2269,7 +2270,6 @@ var cnames_active = {
   "next.awesome-vue": "awesome-vue.netlify.app", // noCF
   "nextkit-fetcher": "ultirequiem.github.io/nextkit-fetcher",
   "nextqr": "cname.vercel-dns.com", // noCF
-  "nexmc": "fresy01.github.io/nexmc",
   "nexus": "nexusdi.github.io/core",
   "nflow": "nflow-js.github.io", // noCF? (don´t add this in a new PR)
   "nfui": "no-frills-ui.netlify.app",
