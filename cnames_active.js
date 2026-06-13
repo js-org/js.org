@@ -1905,7 +1905,7 @@ var cnames_active = {
   "logo": "js-org.github.io/logo",
   "loh": "codingstudios.github.io/loh",
   "loki": "oblador.github.io/loki",
-  "lokoji": "cname.vercel-dns.com",
+  "lokoji": "cname.vercel-dns.com", // noCF
   "lol": "xcss.github.io/lol",
   "loli": "tkzcm.github.io/loli",
   "lombok": "lombokjs.github.io",
