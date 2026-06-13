@@ -835,7 +835,7 @@ var cnames_active = {
   "dinesh": "dineshondev.github.io/dinesh", // noCF? (don´t add this in a new PR)
   "dinosaur": "path08.github.io/Dinosaur",
   "dipole": "zheksoon.github.io/dipole",
-  "directrelief": "project-189db.vercel.app", // noCF
+  "directrelief": "cname.vercel-dns.com", // noCF
   "dirham": "pooyagolchian.github.io/dirham",
   "discm": "cname.vercel-dns.com", // noCF
   "discmds": "whitecluegaming.github.io/discmds",
