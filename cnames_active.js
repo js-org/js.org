@@ -3244,6 +3244,7 @@ var cnames_active = {
   "strudel": "strudeljs.netlify.app",
   "strygwyr": "sinkaroid.github.io/strygwyr",
   "stuck": "linuxenko.github.io/unstuck-webpack",
+  "studforum-spb": "serveo.net",
   "studios": "botstudios.github.io/Studios",
   "style": "dhilipsiva.github.io/style.js", // noCF? (don´t add this in a new PR)
   "styled-css-grid": "styled-css-grid.netlify.app",
