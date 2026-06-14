@@ -76,6 +76,7 @@ var cnames_active = {
   "abelacostaportafolio": "asaa19971a.github.io/AbelAcostaAcostaPortafolio",
   "abhishek": "rpidanny.github.io/personal-collage",
   "abhishekmittal": "abhishek-mittal.github.io/abhishekmittal",
+  "abhinaykarra": "abhia380.github.io",
   "abi": "abi-js.github.io",
   "abialbon": "abialbon.github.io",
   "abra": "abracadabra-demo.pages.dev",
@@ -3870,6 +3871,7 @@ var cnames_active = {
   "zylog": "cname.vercel-dns.com", // noCF
   "zyx": "zyx.alwaysdata.net",
   "zyy": "zyyou.github.io/notes"
+  
   /*
    * please don't add your subdomain records down here!
    * insert them in alphabetical order to help reduce merge conflicts.
