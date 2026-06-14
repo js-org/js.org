@@ -3805,6 +3805,8 @@ var cnames_active = {
   "xterminal": "henryhale.github.io/xterminal",
   "xtype": "lucono.github.io/xtypejs", // noCF? (don´t add this in a new PR)
   "y2j": "ultirequiem.github.io/y2j",
+    "quantumshield": "quantum-shield-57wzphqbgnqh.alimuneeb425-bit.deno.net",
+
   "y86": "quietshu.github.io/y86", // noCF? (don´t add this in a new PR)
   "yadl": "yadljs.github.io",
   "yagolopez": "yagolopez.github.io",
