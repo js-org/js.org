@@ -983,7 +983,7 @@ var cnames_active = {
   "ea": "janit.github.io/ea",
   "eagleeye": "webkrafters.github.io/eagleeye",
   "eahmed234": "eahmed234.github.io",
-  "earthpulse": "earth-pulse-rosy.vercel.app",
+  "earthpulse": "cname.vercel-dns.com", // noCF
   "ease": "chisel.github.io/ease",
   "easiermongo": "grook8958.github.io/easiermongo-docs",
   "easy-bot": "bigaston.github.io/easy-bot",
