@@ -249,6 +249,7 @@ var cnames_active = {
   "arthurmbandeira": "arthurmbandeira.github.io",
   "artificial": "fabiosmuu.github.io/artificial",
   "artitalk": "artitalkjs.github.io/docs",
+  "aryan-raj": "ishu025.github.io",
   "asdivyansh": "asdivyansh.github.io",
   "ass": "weizhenye.github.io/ASS",
   "ass-editor": "jeff-tian.github.io/ass",
