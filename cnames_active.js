@@ -3302,7 +3302,7 @@ var cnames_active = {
   "sxcu": "m-phoenix852.github.io/sxcu.js-docs",
   "sxw": "sxwjs.github.io",
   "sydinh": "sydinh.github.io",
-  "syedmuhammadabid": "syedmuhammadabid.github.io"
+  "syedmuhammadabid": "syedmuhammadabid.github.io",
   "sygnal": "tpresley.github.io/sygnal",
   "synclyrics": "stef-00012.github.io/SyncLyrics-npm",
   "synergies": "lukasbach.github.io/synergies",
