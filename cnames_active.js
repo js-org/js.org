@@ -1633,6 +1633,7 @@ var cnames_active = {
   "jena": "javascript-in-jena.github.io", // noCF
   "jericho-player": "sidisliveyt.github.io/Jericho-Player",
   "jessm": "jessi-mhernandez.github.io/JessicaM",
+  "jeremysharpless": "JeremySharpless.github.io",
   "jetflow": "jetflowjs.pages.dev",
   "jets": "nexts.github.io/Jets.js",
   "jetup": "aldhosutra.github.io/jetup",
