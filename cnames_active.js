@@ -143,7 +143,7 @@ var cnames_active = {
   "akala": "npenin.github.io/akala",
   "akar": "mahabubx7.github.io/akar",
   "akase": "cedmax.github.io/akase", // noCF? (don´t add this in a new PR)
-  "akash": "phpirate.github.io/akashjs",
+  "akash": "hish.github.io/akashjs",
   "akhyar": "akhyar.pages.dev",
   "aksara": "sajenid.github.io/aksara.js",
   "aksharamukha": "paramsiddharth.github.io/aksharamukha.js",
@@ -2028,6 +2028,7 @@ var cnames_active = {
   "mdcdev": "galleniz.github.io/mdcdev.js",
   "mdjs": "xtnmoe.github.io/MdJs",
   "mdld": "davay42.github.io/mdld-parse",
+  "mdsvr": "satoshiman.github.io/mdsvr",
   "mdxe": "cname.vercel-dns.com", // noCF
   "mechan": "dusterthefirst.github.io/mechan.js",
   "medan": "medan-js.github.io", // noCF
@@ -2543,7 +2544,7 @@ var cnames_active = {
   "planner": "openplannerteam.github.io/planner.js",
   "plasticchairclub": "username260104.github.io",
   "platz": "fylipp.github.io/platz.js",
-  "play.akash": "phpirate.github.io/akashjs-playground", // noCF
+  "play.akash": "hish.github.io/akashjs-playground", // noCF
   "player": "player.netlify.app",
   "playjs": "hunghg255.github.io/playjs",
   "pliers": "pliersjs.github.io", // noCF? (don´t add this in a new PR)
