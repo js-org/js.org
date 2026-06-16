@@ -2510,6 +2510,7 @@ var cnames_active = {
   "phoenix35": "phoenix35.github.io/js-help",
   "photo-sphere-viewer": "photo-sphere-viewer.netlify.app",
   "phpjs": "binarykorra.github.io/phpJS",
+  "photocard": "bdnetworks.github.io/photocard",
   "phx": "phxjs.github.io",
   "physics-demos": "lachlandk.github.io/physics-demos",
   "piano": "ronyeh.github.io/piano",
