@@ -267,7 +267,7 @@ var cnames_active = {
   "atavic": "atavic.github.io",
   "atenas": "atenasjs.netlify.app",
   "athena": "athena-js.github.io/athena",
-  "athena-ar": "cname.vercel-dns.com",
+  "athena-ar": "cname.vercel-dns.com", // noCF
   "athome": "simon300000.github.io/athome",
   "atombundles": "lirantal.github.io/atombundles",
   "atomicreact": "atomicreact.github.io/AtomicReact",
