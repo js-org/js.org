@@ -3343,6 +3343,7 @@ var cnames_active = {
   "tead": "teadjs.github.io",
   "teamspeak": "teamspeakjs.github.io/teamspeak.js.org",
   "tech-human-id": "abhisekp.github.io/tech-human-id",
+  "techmart": "cname.vercel-dns.com",
   "techthinker": "tech-thinker.github.io",
   "techxuexi": "techxuexi.netlify.app",
   "techy": "hosting.gitbook.com",
