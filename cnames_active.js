@@ -1060,6 +1060,7 @@ var cnames_active = {
   "envx": "cname.vercel-dns.com", // noCF
   "epi": "epispot.github.io/EpiJS",
   "epicker": "eling486.github.io/EPicker-docs",
+  "epl": "abneeshsingh21.github.io/epl-website",
   "eplayer": "132yse.github.io/eplayer",
   "epoxy": "hosting.gitbook.com",
   "epoxylang": "iamsatyanchal.github.io/epoxylang",
