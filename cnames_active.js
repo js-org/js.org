@@ -877,10 +877,10 @@ var cnames_active = {
   "discords": "botstudios.github.io/discords.js.org",
   "discordx": "discordx-ts.github.io/discordx",
   "discuss": "cname.vercel-dns.com", // noCF
+  "disfox": "disfoxjs.github.io/disfox-docs",
   "disgroupdev": "disgroup-development.github.io/disgroupdev.js",
   "disgrow": "sinkaroid.github.io/disgrow",
   "dismord": "dismord.github.io/website",
-  "disfox": "disfoxjs.github.io/disfox-docs",
   "display": "arguiot.github.io/DisplayJS",
   "distillery": "achannarasappa.github.io/distillery", // noCF? (don´t add this in a new PR)
   "distri": "flarp.github.io/Distri.js",
