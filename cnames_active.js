@@ -3048,6 +3048,7 @@ var cnames_active = {
   "silfr": "silfr.github.io/iterativecolor",
   "silkster": "silkster.github.io",
   "siluna": "pahund.github.io/siluna", // noCF? (don´t add this in a new PR)
+  "silversevanest": "yogeshwarchawla.github.io/dr-mohit-intake",
   "simba": "jonathanzero.github.io/simba",
   "simonhans": "simonhans.github.io",
   "simpldb": "hosting.gitbook.io", // noCF
