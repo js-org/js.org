@@ -770,6 +770,7 @@ var cnames_active = {
   "date": "matthewmueller.github.io/date", // noCF? (don´t add this in a new PR)
   "datenel": "astrian.github.io/datenel-doc",
   "dativejs": "dativejs.github.io",
+  "darkbot": "darkbotweb.github.io/DarkBot",
   "davet": "egecelikci.github.io/davet",
   "davfinder": "davfinder.pages.dev",
   "dawn": "dawnelixir.github.io/dawn.js.org",
@@ -3873,7 +3874,8 @@ var cnames_active = {
   "zylog": "cname.vercel-dns.com", // noCF
   "zyx": "zyx.alwaysdata.net",
   "zyy": "zyyou.github.io/notes"
-  "darkbot": "DarkBotWeb.github.io",
+  
+
   /*
    * please don't add your subdomain records down here!
    * insert them in alphabetical order to help reduce merge conflicts.
