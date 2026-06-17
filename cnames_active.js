@@ -330,7 +330,7 @@ var cnames_active = {
   "bandung": "zufrizalyordan.github.io/bandungjs",
   "bane": "kemosaf.github.io/bane",
   "baoshuo": "renbaoshuo.github.io/baoshuo.css",
-  "bar-portofolio": "cname.vercel-dns.com",
+  "bar-portofolio": "cname.vercel-dns.com", // noCF
   "bara": "barajs.github.io/bara",
   "barba": "barbajs.github.io/barba",
   "barbagrigia": "barbagrigia.github.io",
