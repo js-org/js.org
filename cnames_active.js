@@ -1156,6 +1156,7 @@ var cnames_active = {
   "feature-u": "kevinast.github.io/feature-u",
   "feeble": "feeblejs.github.io/feeble",
   "fela": "cname.vercel-dns.com", // noCF
+  "feria-jaguar": "hays05.github.io/feria-jaguar",
   "festercluck": "festercluck.github.io", // noCF? (don´t add this in a new PR)
   "fetch-json": "center-key.github.io/fetch-json",
   "fetch-the-parrot": "fetch-the-parrot.netlify.app",
