@@ -1213,6 +1213,7 @@ var cnames_active = {
   "food": "russellsteadman.github.io/foodweb",
   "foolhtml": "itsayush1704.github.io/foolhtml",
   "forceify": "dalisoft.github.io/Forceify",
+  "foresight": "cname.vercel-dns.com", // noCF
   "form": "the94air.github.io/form",
   "formast": "tencent-cdc.github.io/formast",
   "formpath": "formpath.github.io",
