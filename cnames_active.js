@@ -2643,6 +2643,7 @@ var cnames_active = {
   "pwa-cookbook": "sylvainpolletvillard.github.io/pwa-cookbook",
   "pwa-workshop": "sylvainpolletvillard.github.io/pwa-workshop",
   "py-like": "ruben-arushanyan.github.io/py-like",
+  "pytml": "nodex-ar.github.io/Pytml",
   "qbit": "fudan-mse.github.io/qbit",
   "qs": "kirjs.github.io/qs.js", // noCF? (don´t add this in a new PR)
   "quacky": "quacky-bot.github.io",
