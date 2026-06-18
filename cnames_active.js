@@ -985,6 +985,7 @@ var cnames_active = {
   "e-query": "mjkhonline.github.io/e-query",
   "ea": "janit.github.io/ea",
   "eagleeye": "webkrafters.github.io/eagleeye",
+  "eagler": "overlinedev.github.io/eaglercraft-launcher"
   "eahmed234": "eahmed234.github.io",
   "ease": "chisel.github.io/ease",
   "easiermongo": "grook8958.github.io/easiermongo-docs",
