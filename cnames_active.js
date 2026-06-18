@@ -3584,6 +3584,7 @@ var cnames_active = {
   "v4f": "v4f.netlify.app",
   "vac": "mlinquan.github.io/vue-awesome-countdown",
   "valence-native": "valence-native.github.io/valence-native",
+  "validare": "validarejs.github.io/validare-docs",
   "validarium": "lundegaard.github.io/validarium",
   "validation-br": "cname.vercel-dns.com", // noCF
   "validator": "ppoffice.github.io/validator.js", // noCF? (don´t add this in a new PR)
