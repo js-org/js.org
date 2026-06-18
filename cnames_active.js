@@ -2086,6 +2086,7 @@ var cnames_active = {
   "mina": "centuryuna.github.io/mina",
   "mindyourtime": "michaloslav.github.io/Mind-Your-Time",
   "mine": "minenode.github.io",
+  "mimrubaiyat": "hassanrubaiyat.github.io/love",
   "minehutsupport": "baibeebambi.github.io/minehutsupport",
   "minerva-ui": "cname.vercel-dns.com", // noCF
   "minesweeper": "derflatulator.github.io/minesweeper",
