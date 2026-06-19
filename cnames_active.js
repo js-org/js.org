@@ -3437,6 +3437,7 @@ var cnames_active = {
   "tree-cli": "yangshun.github.io/tree-node-cli",
   "treebark": "danmarshall.github.io/treebark",
   "trestle": "whiskeedev.github.io/trestle",
+  "trevyn": "trevyns.github.io",
   "triangle": "aktomik.github.io/triangleOS",
   "trier": "creimers.github.io/trier",
   "trilogy": "trilogy.netlify.app", // noCF
