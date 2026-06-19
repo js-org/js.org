@@ -1407,7 +1407,7 @@ var cnames_active = {
   "gyre": "wridder.github.io/GyreJS", // noCF? (don´t add this in a new PR)
   "gyx": "yourtion.github.io/gyx.js.org",
   "h": "makenowjust.github.io/h.js",
-  "h3": "h3rald.github.io/h3",
+  "h3": "h3rald.srht.site", // noCF
   "h7ml": "h7ml.github.io/web",
   "ha-store": "fed135.github.io/ha-store",
   "habra": "jarvis394.github.io/habra",
@@ -2535,7 +2535,7 @@ var cnames_active = {
   "pivottable": "nicolaskruchten.github.io/pivottable",
   "pixelanimator": "grough.github.io/pixel-animator",
   "pixelart": "meriadec.github.io/PixelartJS", // noCF? (don´t add this in a new PR)
-  "pixiv": "cname.vercel-dns.com", // noCF
+  "pixiv": "pixiv.js.org.pages.dnsoe5.com", // noCF
   "pixpact": "legendsayantan.github.io/pixpact",
   "pizzle": "pizzlejs.github.io",
   "plain-blog": "weareoutman.github.io/plain-blog",
