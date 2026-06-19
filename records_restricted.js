@@ -259,15 +259,15 @@ var cnames_restricted = [
 ]
 
 /*
- **** RETURNED SUBDOMAINS
+ **** RETIRED SUBDOMAINS
  * ****************************
  *
- * The following subdomains were previously active but have been returned
- * by their owners. They are restricted to prevent domain squatting.
+ * The following subdomains were previously active but have been retired
+ * They are restricted to prevent domain squatting.
  *
  */
 
-var cnames_returned = [
-    "popper" // formerly fezvrasta.github.io/popper.js — project moved to dedicated domain
+var cnames_retired = [
+    "popper" // #627
 ]
 
