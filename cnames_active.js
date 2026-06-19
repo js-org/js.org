@@ -29,6 +29,11 @@
  *              Before you start a request for your personal fork of "react" or "vue" you should read
  *              the section "naming conflicts" in the wiki!
  *
+
+// mcq.js.org
+"mcq": "chaitanya64108.github.io/mcq",
+
+
  * NOTICE:      Please follow the format set by everyone else in this file. Entries should use double quotes,
  *              with space between the colon (after the key) and the value and should always be in alphabetical
  *              order. Each line apart from the very last entry should have a comma after it to ensure this file
@@ -1949,7 +1954,12 @@ var cnames_active = {
   "maclary": "maclary.github.io/maclary",
   "macosnotif": "mattipv4.github.io/macOSNotifJS",
   "mad": "madindx.github.io/mad",
-  "madankumar": "jmadankumar.github.io",
+    "mcq": "chaitanya64108.github.io/mcq",
+  
+
+
+  
+"madankumar": "jmadankumar.github.io",
   "madebyzen": "mzaini30.github.io/madebyzen",
   "madewithdativejs": "madewithdativejs.github.io",
   "magickwand": "mmomtchev.github.io/magickwand.js",
