@@ -257,3 +257,17 @@ var cnames_restricted = [
     "www(1/2/3/42)",
     "xml"
 ]
+
+/*
+ **** RETURNED SUBDOMAINS
+ * ****************************
+ *
+ * The following subdomains were previously active but have been returned
+ * by their owners. They are restricted to prevent domain squatting.
+ *
+ */
+
+var cnames_returned = [
+    "popper" // formerly fezvrasta.github.io/popper.js — project moved to dedicated domain
+]
+
