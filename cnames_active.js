@@ -604,6 +604,7 @@ var cnames_active = {
   "codemirror-languageservice": "codemirror-languageservice.netlify.app",
   "codetwix": "nolan639.github.io/Codetwix",
   "codetype": "vedantkawade3.github.io/codeType",
+  "codev2e": "notmrq0x.github.io",
   "codewing": "nicesapien.github.io/codewing",
   "codinsky": "izhaki.github.io/codinsky",
   "coffea": "caffeinery.github.io/coffea",
