@@ -1414,6 +1414,7 @@ var cnames_active = {
   "hackkit": "cname.vercel-dns.com", // noCF
   "hacktm": "hacktm.netlify.app",
   "hahuutin": "hahuutin.github.io",
+  "harissfx": "harissfx.github.io/portfolioku",
   "hale": "haleshaw.github.io/hale",
   "halil": "hibrahimsafak.github.io", // noCF? (don´t add this in a new PR)
   "haloapi": "derflatulator.github.io/haloapi.js", // noCF? (don´t add this in a new PR)
