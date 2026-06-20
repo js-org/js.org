@@ -3176,6 +3176,7 @@ var cnames_active = {
   "spud": "nikop100.github.io/spud",
   "spx": "spxjs.netlify.app",
   "spyter": "cname.vercel-dns.com", // noCF
+  "sp-modding": "cname.vercel-dns.com",
   "sql": "sql-js.github.io/sql.js",
   "sql2struct": "ymlair.github.io/sql2struct",
   "sqlboot": "cname.vercel-dns.com", // noCF
