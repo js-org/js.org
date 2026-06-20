@@ -3774,7 +3774,7 @@ var cnames_active = {
   "woodsman": "haximilian.github.io/woodsman",
   "wooyun": "jiji262.github.io/wooyun_articles",
   "woq": "nicamoq.github.io/WoqHentai",
-  "wordfire": "ianaccy.github.io/word-fire",
+  "wordfire": "ianlabz.github.io/word-fire",
   "wordywordy": "swerweij.github.io/wordywordy",
   "workbee": "workbee.pages.dev",
   "workers": "worker-tools.github.io/workers.js.org",
