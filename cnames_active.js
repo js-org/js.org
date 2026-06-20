@@ -1414,7 +1414,6 @@ var cnames_active = {
   "hackkit": "cname.vercel-dns.com", // noCF
   "hacktm": "hacktm.netlify.app",
   "hahuutin": "hahuutin.github.io",
-  "harissfx": "harissfx.github.io/portfolioku",
   "hale": "haleshaw.github.io/hale",
   "halil": "hibrahimsafak.github.io", // noCF? (don´t add this in a new PR)
   "haloapi": "derflatulator.github.io/haloapi.js", // noCF? (don´t add this in a new PR)
@@ -1426,6 +1425,7 @@ var cnames_active = {
   "hapi-sol": "yonjah.github.io/hapi-sol",
   "hapin": "ha-pin.github.io",
   "happy": "e24.github.io/happy", // noCF? (don´t add this in a new PR)
+  "harissfx": "harissfx.github.io/portfolioku",
   "harry": "harry-yep.github.io",
   "hashchat": "hashchat-js.netlify.app",
   "hashfs": "defucc.github.io/hashfs",
