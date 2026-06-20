@@ -2238,6 +2238,7 @@ var cnames_active = {
   "nave": "naveteam.github.io/nave",
   "nb-scraper": "chakszzz.github.io/NB-Scraper",
   "nbabot": "eliotchignell.github.io/NBABot",
+  "nbsquote": "usvsurendra.github.io",
   "ncub8": "ncub8.github.io", // noCF? (don´t add this in a new PR)
   "neaps": "neaps.github.io",
   "nearley": "kach.github.io/nearley",
