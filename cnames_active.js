@@ -231,8 +231,8 @@ var cnames_active = {
   "archipelago": "thephar.github.io/archipelago.js",
   "arcn": "alexakasanjeev.github.io/arcn",
   "arctic": "pilcrowonpaper.github.io/arctic",
+  "are": "cname.vercel-dns.com", // noCF  
   "areasolver": "areacalculator.github.io/areasolver",
-  "are": "cname.vercel-dns.com", // noCF
   "arga": "cname.vercel-dns.com", // noCF
   "argaghulamahmad": "argaghulamahmad.github.io",
   "argo": "albertosantini.github.io/argo", // noCF? (don´t add this in a new PR)
