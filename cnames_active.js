@@ -3779,7 +3779,6 @@ var cnames_active = {
   "workbee": "workbee.pages.dev",
   "workers": "worker-tools.github.io/workers.js.org",
   "worksnake": "worksnake.github.io",
-  "wordfire": "ianaccyy.github.io",
   "wq": "wqjs.alwaysdata.net",
   "writebar": "alexander-shvets.github.io/writebar",
   "ws-debug": "yshenze.github.io/ws-debug", // noCF
