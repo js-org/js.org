@@ -231,6 +231,7 @@ var cnames_active = {
   "archipelago": "thephar.github.io/archipelago.js",
   "arcn": "alexakasanjeev.github.io/arcn",
   "arctic": "pilcrowonpaper.github.io/arctic",
+  "areasolver": "areacalculator.github.io/areasolver",
   "are": "cname.vercel-dns.com", // noCF
   "arga": "cname.vercel-dns.com", // noCF
   "argaghulamahmad": "argaghulamahmad.github.io",
