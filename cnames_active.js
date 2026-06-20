@@ -2842,6 +2842,7 @@ var cnames_active = {
   "resume": "xaoxuu.github.io/resume.js.org",
   "resume-builder": "blopa.github.io/Resume-Builder",
   "resumebuilder": "resumebuilder-dracu.netlify.app",
+  "resumin": "resume-bc7b1.web.app",
   "retalk": "cname-china.vercel-dns.com", // noCF
   "rete": "retejs.github.io",
   "reto": "awmleer.github.io/reto",
