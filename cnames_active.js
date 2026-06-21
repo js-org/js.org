@@ -2334,6 +2334,7 @@ var cnames_active = {
   "notion-cms": "cname.vercel-dns.com", // noCF
   "nougat": "nougatlang.github.io",
   "novasheets": "novasheets.netlify.app",
+  "nova": "novajsorg.netlify.app",
   "now": "leodog896.github.io/jsnow",
   "noypi": "noypi.alwaysdata.net",
   "npkill": "voidcosmos.github.io/npkill-web",
@@ -2693,7 +2694,6 @@ var cnames_active = {
   "rax0-6": "raxjs.github.io/website-rax-v0.6",
   "raylen": "ausername-1.github.io/raylen.js",
   "rayo": "getrayo.github.io/rayo.js",
-  "razin": "razinr.netlify.app",
   "rclone": "sntran.github.io/rclone.js",
   "rdf": "rdfjs.github.io", // noCF
   "rdpmovy": "rdp-studio.github.io/rdpmovy.js",
