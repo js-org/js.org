@@ -2681,7 +2681,6 @@ var cnames_active = {
   "rahulbussa": "rahulbussa.github.io",
   "ralmaz": "ralmaz.github.io",
   "ralphi": "yonjah.github.io/ralphi",
-  "razin": "razinr.netlify.app",
   "random-item": "ultirequiem.github.io/random_item",
   "random-machine": "officialpiyush.github.io/random-machine",
   "randomer": "kzacharski.github.io/randomer",
@@ -2694,6 +2693,7 @@ var cnames_active = {
   "rax0-6": "raxjs.github.io/website-rax-v0.6",
   "raylen": "ausername-1.github.io/raylen.js",
   "rayo": "getrayo.github.io/rayo.js",
+  "razin": "razinr.netlify.app",
   "rclone": "sntran.github.io/rclone.js",
   "rdf": "rdfjs.github.io", // noCF
   "rdpmovy": "rdp-studio.github.io/rdpmovy.js",
