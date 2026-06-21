@@ -3797,6 +3797,7 @@ var cnames_active = {
   "xhemj": "xhemj.now.sh", // noCF
   "xhy": "xhy.github.io",
   "xi102": "xi102.github.io",
+  "xlsanal": "xlsanal.github.io/js",
   "xiangqiz": "xiangqiz.github.io/Hello",
   "xiangyue": "fzxx.github.io/XiangYue",
   "xiaolan": "mcxiaolan.github.io",
