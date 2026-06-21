@@ -2041,6 +2041,7 @@ var cnames_active = {
   "medium": "factmaven.github.io/medium.js",
   "meed": "pinjasaur.github.io/meed",
   "mega": "qgustavor.github.io/megajs-docs",
+  "mehmetos": "mehmetos.github.io",
   "megdb": "megalithoffical.github.io",
   "meiosis": "foxdonut.github.io/meiosis", // noCF? (don´t add this in a new PR)
   "melies-hugo": "cristinafsanz.github.io/melies-hugo",
@@ -2053,7 +2054,7 @@ var cnames_active = {
   "menu": "cohenerickson.github.io/menu",
   "meow": "meow-js.github.io",
   "mercury": "henryqw.github.io/mercury",
-  "merkletree": "miguelmota.github.io/merkletreejs",
+  "merkletree": "Miguelmota.github.io/merkletreejs",
   "merkur": "mjancarik.github.io/merkur",
   "mern": "iammohaiminul.github.io/MERNjs",
   "mert": "mert574.github.io",
