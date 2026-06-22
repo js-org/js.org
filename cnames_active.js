@@ -2529,8 +2529,8 @@ var cnames_active = {
   "pinipig": "jmdisuanco.github.io/pinipig",
   "pino-nest": "yamcodes.github.io/pino-nestjs",
   "pinyin": "hotoo.github.io/pinyin",
-  "pipes": "pipesjs.github.io", // noCF? (don´t add this in a new PR)
   "pip-install": "pip-install.vercel.app",
+  "pipes": "pipesjs.github.io", // noCF? (don´t add this in a new PR)
   "pivot": "wnda.github.io/pivot",
   "pivotgrid": "iskandr1.github.io/Pivot",
   "pivottable": "nicolaskruchten.github.io/pivottable",
