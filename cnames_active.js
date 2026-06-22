@@ -88,6 +88,7 @@ var cnames_active = {
   "accordion": "awps.github.io/Accordion.JS",
   "acebooks": "mohamed0group.github.io/acebooks",
   "acegroup": "mohamed0group.github.io/acegroup",
+  "js-org": "brickbuild-site.github.io/js-org",
   "acho": "achojs.github.io/acho",
   "acidmod": "acidmod.github.io",
   "acker": "acker-technologies.github.io/ackerjs",
