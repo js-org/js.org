@@ -104,7 +104,7 @@ var cnames_active = {
   "adil": "adilzeshan.github.io/adil",
   "aditya": "aditya81070.github.io",
   "adnanbabakan": "adnanbabakan.github.io",
-  "adnanemektani": "adnanemektani.vercel.app",
+  "adnanemektani": "cname.vercel-dns.com", // noCF
   "adon988": "adon988.github.io",
   "adv": "advjs.github.io",
   "advancedrpc": "advancedrpc.github.io",
