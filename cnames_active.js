@@ -231,7 +231,7 @@ var cnames_active = {
   "archipelago": "thephar.github.io/archipelago.js",
   "arcn": "alexakasanjeev.github.io/arcn",
   "arctic": "pilcrowonpaper.github.io/arctic",
-  "are": "cname.vercel-dns.com", // noCF  
+  "are": "cname.vercel-dns.com", // noCF
   "areasolver": "areacalculator.github.io/areasolver",
   "arga": "cname.vercel-dns.com", // noCF
   "argaghulamahmad": "argaghulamahmad.github.io",
@@ -3877,8 +3877,7 @@ var cnames_active = {
   "zykj": "cname.vercel-dns.com", // noCF
   "zylog": "cname.vercel-dns.com", // noCF
   "zyx": "zyx.alwaysdata.net",
-  "zyy": "zyyou.github.io/notes",
-  "areasolver": "areacalculator.github.io/areasolver"
+  "zyy": "zyyou.github.io/notes"
   /*
    * please don't add your subdomain records down here!
    * insert them in alphabetical order to help reduce merge conflicts.
