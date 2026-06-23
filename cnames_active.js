@@ -3096,6 +3096,7 @@ var cnames_active = {
   "slides": "deadcoder0904.github.io/slides-official-website",
   "slidey": "thegreatrazz.github.io/slidey",
   "slim": "eavichay.github.io/slim.js",
+  "silverarch": "https://iyed-one-st.github.io/silverarch-repo/",
   "slimetype": "slimewell.github.io/slimetype",
   "slinky": "alizahid.github.io/slinky",
   "slyde": "tygo-van-den-hurk.github.io/Slyde",
