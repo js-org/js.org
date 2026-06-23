@@ -3877,6 +3877,7 @@ var cnames_active = {
   "zykj": "cname.vercel-dns.com", // noCF
   "zylog": "cname.vercel-dns.com", // noCF
   "zyx": "zyx.alwaysdata.net",
+  "mini-jscript": "webdevchaos987.github.io",
   "zyy": "zyyou.github.io/notes"
   /*
    * please don't add your subdomain records down here!
