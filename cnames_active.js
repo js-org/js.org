@@ -3049,7 +3049,7 @@ var cnames_active = {
   "signalz": "hosting.gitbook.io", // noCF
   "silfr": "silfr.github.io/iterativecolor",
   "silkster": "silkster.github.io",
-  "silverarch": "https://iyed-one-st.github.io/silverarch-repo/",
+  "silverarch": "iyed-one-st.github.io/silverarch-repo",
   "siluna": "pahund.github.io/siluna", // noCF? (don´t add this in a new PR)
   "simba": "jonathanzero.github.io/simba",
   "simonhans": "simonhans.github.io",
