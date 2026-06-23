@@ -3697,7 +3697,7 @@ var cnames_active = {
   "vulkava": "hosting.gitbook.io", // noCF
   "vxt": "noah227.github.io/vxt-docs",
   "vxv": "vxv.netlify.app",
-    "w0xrld": "w0xrld.vercel.app",
+  "w0xrld": "w0xrld.vercel.app", // noCF
   "w2d": "bananahackers.github.io/w2d", // noCF
   "w4ctech": "w4ctech.github.io",
   "w4j1e": "w4j1e.github.io",
