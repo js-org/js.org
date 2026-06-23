@@ -998,6 +998,7 @@ var cnames_active = {
   "easyht": "yellowface233.github.io/easyht-website",
   "easypass": "cgluwxh.github.io/easypass",
   "eatery-nod-w": "kevinast.github.io/eatery-nod-w",
+  "eazyworld": "eazyworld.vercel.app",
   "ebay-wrapper": "tradebuddyhq.github.io/ebay-wrapper.js.org",
   "ebnsina": "ebnsina.github.io/js.ebnsina.me",
   "echo": "licshee.github.io/echo.js",
@@ -2494,7 +2495,6 @@ var cnames_active = {
   "penpow": "penpow.github.io",
   "pentris": "justinjc.github.io/pentris2", // noCF? (don´t add this in a new PR)
   "pereira": "pereirajs.github.io/pagina",
-  "periplum": "periplum.github.io/periplum.js.org",
   "permissions": "danielnewell.github.io/permissions",
   "persian-tools": "persian-tools.github.io/persian-tools",
   "personalkanban": "nishantpainter.github.io/personal-kanban",
