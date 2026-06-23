@@ -1,0 +1,115 @@
+name: Normalize Title
+
+on:
+  workflow_run:
+    workflows:
+      - Validate
+    types:
+      - completed
+
+permissions: {}
+
+jobs:
+  rename:
+    # Only run for PR-triggered validation runs
+    if: github.event.workflow_run.event == 'pull_request'
+
+    name: Rename PR
+    runs-on: ubuntu-latest
+
+    permissions:
+      pull-requests: write
+      contents: read
+      actions: read
+
+    steps:
+      - name: Rename PR if valid
+        uses: actions/github-script@v9
+        with:
+          script: |
+            const { owner, repo } = context.repo;
+
+            // Find associated PR (fork-safe)
+            const pr = await github.rest.pulls.list({
+              owner,
+              repo,
+              state: "open",
+              head: `${context.payload.workflow_run.head_repository.owner.login}:${context.payload.workflow_run.head_branch}`,
+              sort: "updated",
+              direction: "desc",
+              per_page: 100,
+            }).then(r => r.data[0]);
+
+            if (!pr) throw new Error("Could not find associated PR");
+
+            if (pr.user.login === "dependabot[bot]") return;
+
+            // Get workflow run + checks
+            const workflowRun = await github.rest.actions.getWorkflowRun({
+              owner,
+              repo,
+              run_id: context.payload.workflow_run.id,
+            });
+
+            const checks = await github.rest.checks.listForSuite({
+              owner,
+              repo,
+              check_suite_id: workflowRun.data.check_suite_id,
+            });
+
+            const cnamesCheck = checks.data.check_runs.find(
+              c => c.name === "cnames_active.js"
+            );
+
+            const descriptionCheck = checks.data.check_runs.find(
+              c => c.name === "PR description"
+            );
+
+            if (!cnamesCheck || !descriptionCheck) return;
+
+            // MUST be fully successful
+            if (
+              cnamesCheck.conclusion !== "success" ||
+              descriptionCheck.conclusion !== "success"
+            ) {
+              return;
+            }
+
+            // Compare changes to cnames_active.js
+            const comparison = await github.rest.repos.compareCommits({
+              owner,
+              repo,
+              base: pr.base.sha,
+              head: pr.head.sha,
+            });
+
+            const file = comparison.data.files.find(
+              f => f.filename === "cnames_active.js"
+            );
+
+            if (!file?.patch) return;
+
+            const keys = new Set();
+
+            for (const line of file.patch.split("\n")) {
+              if (!line.startsWith("+")) continue;
+
+              const match = line.match(/^\+\s*"([^"]+)"\s*:/);
+              if (match) keys.add(match[1]);
+            }
+
+            // Only rename if exactly one subdomain was added
+            if (keys.size !== 1) return;
+
+            const [subdomain] = [...keys];
+            const expectedTitle = `${subdomain}.js.org`;
+
+            if (pr.title.trim() === expectedTitle) return;
+
+            // Rename PR
+            await github.rest.pulls.update({
+              owner,
+              repo,
+              pull_number: pr.number,
+              title: expectedTitle,
+            });
