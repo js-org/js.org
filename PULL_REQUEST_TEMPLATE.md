@@ -21,8 +21,8 @@ You must explain why your website content, not the code, is specifically relevan
 
 -->
 
-- [ ] There is reasonable content on the page (see: [No Content](https://github.com/js-org/js.org/wiki/No-Content))
-- [ ] I have read and accepted the [Terms and Conditions](http://js.org/terms.html)
-- The site content can be seen at <link>
+- [x] There is reasonable content on the page (see: https://areacalculator.github.io/areasolver)
+- [x] I have read and accepted the [Terms and Conditions](http://js.org/terms.html)
+- The site content can be seen at https://areacalculator.github.io/areasolver
 
-> The site content is ... and is relevant to JavaScript developers specifically because ...
+> The site content is an utility tools used for calculations of area of a land by Triangulation methods. The tools not only helps to calculate area of land but also converts the result in different units. It is built entirely with HTML, CSS, and JavaScript — no frameworks or libraries. It is relevant to the JavaScript community because it demonstrates a real-world static site built with JS including and all the calculations are done using JavaScript.
