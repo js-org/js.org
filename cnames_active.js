@@ -1803,6 +1803,7 @@ var cnames_active = {
   "lanye": "lanye.github.io",
   "larastrator": "the94air.github.io/larastrator",
   "lass": "lassjs.github.io/lass",
+  "latency": "nxrtwee.github.io",
   "latex": "michael-brade.github.io/LaTeX.js",
   "latte": "tehsenaus.github.io/latte-js",
   "laubstein": "laubstein.github.io", // noCF? (don´t add this in a new PR)
