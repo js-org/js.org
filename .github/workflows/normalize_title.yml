@@ -29,6 +29,11 @@ jobs:
           script: |
             const { owner, repo } = context.repo;
 
+            // ignore bot-triggered runs (prevents loops)
+            if (context.payload.workflow_run.actor?.login === "github-actions[bot]") {
+              return;
+            }
+
             // Find associated PR (fork-safe)
             const pr = await github.rest.pulls.list({
               owner,
@@ -61,17 +66,10 @@ jobs:
               c => c.name === "cnames_active.js"
             );
 
-            const descriptionCheck = checks.data.check_runs.find(
-              c => c.name === "PR description"
-            );
+            if (!cnamesCheck) return;
 
-            if (!cnamesCheck || !descriptionCheck) return;
-
-            // MUST be fully successful
-            if (
-              cnamesCheck.conclusion !== "success" ||
-              descriptionCheck.conclusion !== "success"
-            ) {
+            // MUST be successful
+            if (cnamesCheck.conclusion !== "success") {
               return;
             }
 
