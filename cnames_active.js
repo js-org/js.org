@@ -998,7 +998,6 @@ var cnames_active = {
   "easyht": "yellowface233.github.io/easyht-website",
   "easypass": "cgluwxh.github.io/easypass",
   "eatery-nod-w": "kevinast.github.io/eatery-nod-w",
-  "w0xrld": "w0xrld.vercel.app",
   "ebay-wrapper": "tradebuddyhq.github.io/ebay-wrapper.js.org",
   "ebnsina": "ebnsina.github.io/js.ebnsina.me",
   "echo": "licshee.github.io/echo.js",
@@ -3698,6 +3697,7 @@ var cnames_active = {
   "vulkava": "hosting.gitbook.io", // noCF
   "vxt": "noah227.github.io/vxt-docs",
   "vxv": "vxv.netlify.app",
+    "w0xrld": "w0xrld.vercel.app",
   "w2d": "bananahackers.github.io/w2d", // noCF
   "w4ctech": "w4ctech.github.io",
   "w4j1e": "w4j1e.github.io",
