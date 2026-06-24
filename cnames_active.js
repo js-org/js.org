@@ -2089,6 +2089,7 @@ var cnames_active = {
   "minehutsupport": "baibeebambi.github.io/minehutsupport",
   "minerva-ui": "cname.vercel-dns.com", // noCF
   "minesweeper": "derflatulator.github.io/minesweeper",
+  "mini-jscript": "webdevchaos987.github.io",
   "mingyi": "liangmingyi.github.io", // noCF? (don´t add this in a new PR)
   "minich": "anventech.github.io/minich-docs",
   "minidrone": "mechazawa.github.io/minidrone-js",
