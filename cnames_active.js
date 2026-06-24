@@ -257,9 +257,7 @@ var cnames_active = {
   "assistant": "coolmlgplayer-js.github.io",
   "ast": "kindy.github.io/ast",
   "astral": "espinielli.github.io/astraljs", // noCF? (don´t add this in a new PR)
-     "astralauncher": "://vercel-dns.com",
-
-
+  "astralauncher": "cname.vercel-dns.com",
   "astro": "withastro.github.io",
   "astro-pure": "cname.vercel-dns.com", // noCF
   "astro-reactive": "astro-reactive.netlify.app",
