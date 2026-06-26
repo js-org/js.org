@@ -3399,6 +3399,7 @@ var cnames_active = {
   "tiden": "tidenjs.netlify.app",
   "tidy": "tidy-js.github.io",
   "tik": "nascjoao.github.io/tikjs",
+  "tile": "cname.vercel-dns.com", // noCF
   "timeout": "anshuman-verma.github.io/setTimeout",
   "timer": "timerjsorg.netlify.app",
   "timerizer": "callumacrae.github.io/timerizerJS", // noCF? (don´t add this in a new PR)
