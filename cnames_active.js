@@ -2957,6 +2957,7 @@ var cnames_active = {
   "schema-render": "barrior.github.io/schema-render",
   "schematex": "cname.vercel-dns.com", // noCF
   "schemy": "aeberdinelli.github.io/schemy",
+  "scope": "geeheon.github.io/scope",
   "scopes": "kelleyvanevert.github.io/scopes",
   "scramb": "jastinxyz.github.io/scramb",
   "scramble": "ignatiusmb.github.io/scramble",
