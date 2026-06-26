@@ -3794,7 +3794,7 @@ var cnames_active = {
   "x": "nikhiljohn10.github.io/x.js",
   "x.gametime": "parking-master.github.io/Gametime.js-X", // noCF
   "xatom": "xatomteam.github.io/docs",
-  "xchart": "cname.vercel-dns.com",
+  "xchart": "cname.vercel-dns.com", // noCF
   "xdtoast": "mininxd.github.io/xdtoast",
   "xen": "hosting.gitbook.com",
   "xendb": "notmarx.github.io/Xen.db",
