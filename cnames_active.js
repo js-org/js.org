@@ -2893,6 +2893,7 @@ var cnames_active = {
   "routescape": "axtk.github.io/routescape",
   "routex": "routex.netlify.app",
   "rovel": "rovelstars.github.io",
+    "rotexworkforce": "adminrotex-ai.github.io/rotex-workforce-desktop",
   "rp": "rpocklin.github.io", // noCF? (don´t add this in a new PR)
   "rplayer": "davland7.github.io/rplayer",
   "rsa": "cname.vercel-dns.com", // noCF
