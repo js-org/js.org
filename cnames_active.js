@@ -2348,6 +2348,7 @@ var cnames_active = {
   "nsp": "hanul.github.io/NSP", // noCF? (don´t add this in a new PR)
   "nsptiles": "imthenachoman.github.io/nSPTiles", // noCF? (don´t add this in a new PR)
   "nsw-coronavirus": "maxgherman.github.io/nsw-coronavirus",
+  "nyhdaning":"nyhxiaoning.github.io/demo",
   "nugu": "vietcode.github.io/nugu",
   "null": "false.netlify.app",
   "nullscript": "nullscript-lang.github.io/docs",
