@@ -3112,6 +3112,7 @@ var cnames_active = {
   "snake": "pakastin.github.io/snake",
   "snaplabs": "cname.vercel-dns.com", // noCF
   "snapshot": "vishnupsatish.github.io/snapshot",
+  "snapchatstorage": "abdelrahmann2007.github.io",
   "snekfetch": "devsnek.github.io/snekfetch",
   "snip": "ashy-sea-0a4231910.5.azurestaticapps.net", // noCF
   "snipify": "cname.vercel-dns.com", // noCF
