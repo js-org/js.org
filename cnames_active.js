@@ -2273,6 +2273,7 @@ var cnames_active = {
   "nextkit-fetcher": "ultirequiem.github.io/nextkit-fetcher",
   "nextqr": "cname.vercel-dns.com", // noCF
   "nexus": "nexusdi.github.io/core",
+  "nexyecoworld": "kimmikimmikimmi.github.io/nexyworld",
   "nflow": "nflow-js.github.io", // noCF? (don´t add this in a new PR)
   "nfui": "no-frills-ui.netlify.app",
   "nfwyst": "nfwyst.github.io",
