@@ -201,8 +201,8 @@ var cnames_active = {
   "animo": "thrivingkings.github.io/animo",
   "animorph": "claudiobmgrtnr.github.io/animorph",
   "ankareport": "ankareport.github.io",
-  "ankit-parashar": "cname.vercel-dns.com", // noCF
   "ankit": "ankit-chaubey.github.io/ankit",
+  "ankit-parashar": "cname.vercel-dns.com", // noCF
   "anna": "anna-wro.github.io/anna",
   "annotate": "taitems.github.io/web-pdf-annotation", // noCF? (don´t add this in a new PR)
   "annoyingmouse": "annoyingmouse.github.io", // noCF? (don´t add this in a new PR)
