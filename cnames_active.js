@@ -1129,6 +1129,7 @@ var cnames_active = {
   "exvex": "cname.vercel-dns.com", // noCF
   "eye": "arguiot.github.io/EyeJS",
   "ezoradom": "4614s.github.io/ezoradom-the-functions",
+  "ephemea": "ephemea.github.io",
   "f1": "marinofranz.github.io/f1.ts",
   "faah": "cname.vercel-dns.com", // noCF
   "facepalm": "santiagogil.github.io/facepalm",
@@ -3885,8 +3886,7 @@ var cnames_active = {
   "zykj": "cname.vercel-dns.com", // noCF
   "zylog": "cname.vercel-dns.com", // noCF
   "zyx": "zyx.alwaysdata.net",
-  "zyy": "zyyou.github.io/notes",
-  "ephemea": "ephemea.github.io/archival"
+  "zyy": "zyyou.github.io/notes"
   /*
    * please don't add your subdomain records down here!
    * insert them in alphabetical order to help reduce merge conflicts.
