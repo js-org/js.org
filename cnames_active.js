@@ -2430,6 +2430,7 @@ var cnames_active = {
   "oxi": "cname.vercel-dns.com", // noCF
   "oxycors": "cname.vercel-dns.com", // noCF
   "oz": "openzagreb.github.io",
+  "pingvn": "custom.pages.dev",
   "p2p": "nuzulul.github.io/p2p.js",
   "p2psc": "kognise.github.io/p2psc",
   "p3terx": "p3terx.github.io/P3TERX",
@@ -2610,7 +2611,7 @@ var cnames_active = {
   "projects-tracker": "iamdevlinph.github.io/projects-tracker",
   "promethium": "promethiumjs.github.io/docs", // noCF
   "promptshield": "promptshield-io.github.io/promptshield",
-  "pronouns": "cname.vercel-dns.com", // noCF
+    "pronouns": "cname.vercel-dns.com", // noCF
   "propresenter": "thewilloftheshadow.github.io/propresenter",
   "proteic": "proteus-h2020.github.io/proteic",
   "proto-message-helper": "rexskz.github.io/proto-message-helper",
