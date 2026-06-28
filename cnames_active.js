@@ -1475,7 +1475,7 @@ var cnames_active = {
   "hois": "hoisw.github.io",
   "holidaycss": "evgenyorekhov.github.io/holiday.css",
   "holo": "holo-js-org.github.io/www",
-  "hono": "https://kenjiew.github.io/hono-redirect/"
+  "hono": "kenjiew.github.io/hono-redirect/"
   "hooked-on-redux": "harryhope.github.io/hooked-on-redux",
   "hooks": "teneplaysofficial.github.io/hooks",
   "hookstate": "hookstate.netlify.app", // noCF
