@@ -606,7 +606,7 @@ var cnames_active = {
   "codetype": "vedantkawade3.github.io/codeType",
   "codewing": "nicesapien.github.io/codewing",
   "codinsky": "izhaki.github.io/codinsky",
-  "coding-terminal": "ritwanristanto.github.io/Coding-Terminal",
+  "coding-terminal": "ritwanristanto.github.io",
   "coffea": "caffeinery.github.io/coffea",
   "coir": "channg.github.io/coir",
   "coldemo": "coldemo.github.io",
