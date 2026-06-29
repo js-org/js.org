@@ -601,13 +601,13 @@ var cnames_active = {
   "code-tour": "code-tour.netlify.app",
   "codeberry": "cname.vercel-dns.com", // noCF
   "codebooky": "hiteshsubnani0128.github.io/codebooky",
-  "codemade": "codemade.github.io", // noCF? (don´t add this in a new PR)
+  "codemade": "codemade.github.io", 
+  "coding-terminal": "ritwanristanto.github.io/coding-terminal"
   "codemirror-languageservice": "codemirror-languageservice.netlify.app",
   "codetwix": "nolan639.github.io/Codetwix",
   "codetype": "vedantkawade3.github.io/codeType",
   "codewing": "nicesapien.github.io/codewing",
   "codinsky": "izhaki.github.io/codinsky",
-  "coding-terminal": "ritwanristanto.github.io/coding-terminal",
   "coffea": "caffeinery.github.io/coffea",
   "coir": "channg.github.io/coir",
   "coldemo": "coldemo.github.io",
