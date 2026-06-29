@@ -2919,6 +2919,7 @@ var cnames_active = {
   "rva": "fanyer.github.io/rva",
   "ryaneldon": "ry-e.github.io",
   "saaskit": "cname.vercel-dns.com", // noCF
+  "sabrina": "allanepi-sdc.github.io/sabrina",
   "sacgencode": "sacgencode.github.io",
   "saeed": "mrsaeeddev.github.io",
   "safe": "hiren2001.github.io/SafeJS",
