@@ -65,10 +65,10 @@ jobs:
             const failures = [];
 
             // 1. Check both checkboxes
-            const reasonableContent = /^[ \t]*-[ \t]+\[x\].*?There is reasonable content on the page/im.test(body);
+            const reasonableContent = /^[ \t]*-[ \t]+\[x].*?There is reasonable content on the page/im.test(body);
             if (!reasonableContent) failures.push("Reasonable content checkbox is not checked.");
 
-            const termsAndConditions = /^[ \t]*-[ \t]+\[x\].*?I have read and accepted the \[Terms and Conditions\]/im.test(body);
+            const termsAndConditions = /^[ \t]*-[ \t]+\[x].*?I have read and accepted the \[Terms and Conditions\]/im.test(body);
             if (!termsAndConditions) failures.push("Terms and conditions checkbox is not checked.");
 
             // 2. URL must be on the exact "The site content can be seen at ..." line
