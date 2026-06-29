@@ -2115,6 +2115,7 @@ var cnames_active = {
   "mitu": "godow.github.io/mitu",
   "mixery": "nahkd123.github.io/Mixery",
   "mixi2": "otnc.github.io/mixi2-js",
+  "minhenglish": "sonbitcoin107-lang.github.io",
   "mjy": "majianyu2007.github.io",
   "mm": "1ocalhost.github.io/mm",
   "mmzdupz": "mmzdupz.github.io",
