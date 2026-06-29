@@ -2198,6 +2198,7 @@ var cnames_active = {
   "murajaah": "mzaini30.github.io/murajaah-js",
   "murmansk": "interfluve.github.io/Murmansk",
   "music": "ronyeh.github.io/music",
+  "MinhEnglish": "sonbitcoin107-lang.github.io",
   "musicca": "musiccajs.github.io/website",
   "musickit": "exerra.github.io/node-musickit-api", // noCF
   "musicord": "arthurleo13.github.io/musicord-documentation",
