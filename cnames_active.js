@@ -1271,6 +1271,7 @@ var cnames_active = {
   "gamedevcontestal": "fromdenisvieira.github.io/gamedevcontestal", // noCF? (don´t add this in a new PR)
   "gametime": "parking-master.github.io/Gametime.js",
   "gametracker": "officialpiyush.github.io/gametracker.js",
+  "gateway-dashboard": "ahmedeeldesouky.github.io/Gateway",
   "gamingnet": "gamingmineblox.github.io/GamingNet",
   "garlic-team": "garlic-team.github.io/website",
   "gathertown": "warengonzaga.github.io/gathertown.js",
