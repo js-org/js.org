@@ -1273,6 +1273,7 @@ var cnames_active = {
   "gametracker": "officialpiyush.github.io/gametracker.js",
   "gamingnet": "gamingmineblox.github.io/GamingNet",
   "garlic-team": "garlic-team.github.io/website",
+  "gateway-dashboard": "ahmedeeldesouky.github.io",
   "gathertown": "warengonzaga.github.io/gathertown.js",
   "gatsby-source-pixiv": "poipoii.github.io/gatsby-source-pixiv",
   "gazosekai": "starkblaze01.github.io/Gazo_Sekai",
