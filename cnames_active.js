@@ -227,6 +227,7 @@ var cnames_active = {
   "apr": "ramitos.github.io/apr",
   "aprende-react": "ptcc.github.io/aprende-react",
   "aptrinh": "aptrinh.github.io",
+  "arakanartarea": "arakanartarea.github.io/ArakanArtArea",
   "arc": "diegohaz.github.io/arc",
   "archipelago": "thephar.github.io/archipelago.js",
   "arcn": "alexakasanjeev.github.io/arcn",
