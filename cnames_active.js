@@ -601,12 +601,12 @@ var cnames_active = {
   "code-tour": "code-tour.netlify.app",
   "codeberry": "cname.vercel-dns.com", // noCF
   "codebooky": "hiteshsubnani0128.github.io/codebooky",
-  "coding-terminal": "ritwanristanto.github.io/coding-terminal",
   "codemade": "codemade.github.io",
   "codemirror-languageservice": "codemirror-languageservice.netlify.app",
   "codetwix": "nolan639.github.io/Codetwix",
   "codetype": "vedantkawade3.github.io/codeType",
   "codewing": "nicesapien.github.io/codewing",
+  "coding-terminal": "ritwanristanto.github.io/coding-terminal",
   "codinsky": "izhaki.github.io/codinsky",
   "coffea": "caffeinery.github.io/coffea",
   "coir": "channg.github.io/coir",
