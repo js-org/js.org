@@ -1948,6 +1948,7 @@ var cnames_active = {
   "m01i0ng": "m01i0ng.github.io",
   "m8bot": "mapreiff.github.io/m8-bot-site",
   "ma124": "ma124.netlify.app",
+  "marmaragamesofficial": "bro635756-spec.github.io/Marmara-Games-Official",
   "macaron": "macaron-css.github.io/macaron",
   "machinelearning": "marink.github.io/machinelearning",
   "maclary": "maclary.github.io/maclary",
