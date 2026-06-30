@@ -1796,6 +1796,7 @@ var cnames_active = {
   "labs": "cname.vercel-dns.com", // noCF
   "labui": "ztl-uwu.github.io/Lab-Design-Guide",
   "lad": "ladjs.github.io/lad",
+  "localharvest": "cname.vercel-dns.com",
   "lambda": "lambdajs.github.io", // noCF? (don´t add this in a new PR)
   "lan": "careteenl.github.io/lan",
   "lance": "lancepioch.com",
