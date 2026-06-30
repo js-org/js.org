@@ -1998,6 +1998,7 @@ var cnames_active = {
   "markmapu": "markmap-universe.github.io",
   "markmsmith": "markmsmith.github.io",
   "markvis": "geekplux.github.io/markvis",
+  "marmaragamesofficial": "bro635756-spec.github.io/Marmara-Games-Official",
   "markvis-editor": "geekplux.github.io/markvis-editor",
   "markxmind": "jinzcdev.github.io/markxmind",
   "mars": "marswong.github.io/blog",
