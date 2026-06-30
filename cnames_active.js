@@ -1979,6 +1979,7 @@ var cnames_active = {
   "mappa": "cvalenzuela.github.io/Mappa",
   "mapsrc": "indus.github.io/mapsrc",
   "maquette": "afassoftware.github.io/maquette",
+  "marmaragamesofficial": "bro635756-spec.github.io/Marmara-Games-Official",
   "marathilipi": "yuyutsu.github.io/marathilipi",
   "marble": "jsguy.github.io/marble",
   "marcelo": "marcelooggero.github.io/bootstrap",
