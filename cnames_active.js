@@ -1134,6 +1134,7 @@ var cnames_active = {
   "faah": "cname.vercel-dns.com", // noCF
   "facepalm": "santiagogil.github.io/facepalm",
   "facreative": "facreative.github.io",
+  "fahadshaikhstudio": "fahadshaikhstudio.netlify.app",
   "fairy": "fairymeee.github.io",
   "fakeyou": "leunamcrack.github.io/fakeyou.js",
   "fakeyouapi": "ftk789.github.io/FakeYouAPI.js",
