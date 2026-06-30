@@ -250,6 +250,7 @@ var cnames_active = {
   "artificial": "fabiosmuu.github.io/artificial",
   "artitalk": "artitalkjs.github.io/docs",
   "asdivyansh": "asdivyansh.github.io",
+  "aspectly": "jeanisahakyan.github.io/aspectly",
   "ass": "weizhenye.github.io/ASS",
   "ass-editor": "jeff-tian.github.io/ass",
   "assay": "assay-ai.github.io/assay",
@@ -877,7 +878,7 @@ var cnames_active = {
   "discords": "botstudios.github.io/discords.js.org",
   "discordx": "discordx-ts.github.io/discordx",
   "discuss": "cname.vercel-dns.com", // noCF
-  "disfox": "disfoxjs.github.io/disfox-docs",
+  "disfox": "cname.vercel-dns.com", // noCF
   "disgroupdev": "disgroup-development.github.io/disgroupdev.js",
   "disgrow": "sinkaroid.github.io/disgrow",
   "dismord": "dismord.github.io/website",
@@ -941,6 +942,7 @@ var cnames_active = {
   "dope": "fouad.github.io/dope", // noCF? (don´t add this in a new PR)
   "dot-microservices": "dot-microservices.github.io/dot",
   "dotlink": "aarondoran.github.io/Node-URL-shortener",
+  "dotnify": "dotnify.netlify.app",
   "doz": "dozjs.github.io/website",
   "dplayer": "diygod.github.io/DPlayer", // noCF
   "dpm": "xyligan-gp.github.io/discord-player-music",
@@ -1770,6 +1772,7 @@ var cnames_active = {
   "koolclash": "sukkaw.github.io/Koolshare-Clash",
   "koot": "cmux.github.io/koot",
   "koreanseal": "cname.vercel-dns.com", // noCF
+  "koshi": "koshi-kvl.pages.dev", // noCF
   "kotori": "biyuehu.github.io/kotori-bot",
   "koutla-swiss": "leny.github.io/koutla-swiss",
   "kowalski": "k0walslk1.github.io",
@@ -2330,6 +2333,7 @@ var cnames_active = {
   "notebook": "wugenqiang.github.io/NoteBook",
   "noted": "carter-slade.github.io/Noted-", // noCF? (don´t add this in a new PR)
   "notepad": "amitmerchant1990.github.io/notepad",
+  "notes": "notesjs.pages.dev",
   "nothing": "cbtak.github.io/nothing",
   "notibar": "duyetdev.github.io/notibar.js",
   "notion-cms": "cname.vercel-dns.com", // noCF
@@ -2430,6 +2434,7 @@ var cnames_active = {
   "oxi": "cname.vercel-dns.com", // noCF
   "oxycors": "cname.vercel-dns.com", // noCF
   "oz": "openzagreb.github.io",
+  "p2p": "nuzulul.github.io/p2p.js",
   "p2psc": "kognise.github.io/p2psc",
   "p3terx": "p3terx.github.io/P3TERX",
   "p7e4": "p7e4.github.io",
@@ -2495,6 +2500,7 @@ var cnames_active = {
   "penpow": "penpow.github.io",
   "pentris": "justinjc.github.io/pentris2", // noCF? (don´t add this in a new PR)
   "pereira": "pereirajs.github.io/pagina",
+  "periplum": "periplum.github.io/periplum.js.org",
   "permissions": "danielnewell.github.io/permissions",
   "persian-tools": "persian-tools.github.io/persian-tools",
   "personalkanban": "nishantpainter.github.io/personal-kanban",
@@ -2632,6 +2638,7 @@ var cnames_active = {
   "publish-subscribe": "r37r0m0d3l.github.io/publish_subscribe",
   "published": "fiverr.github.io/published",
   "puebi": "puebi.netlify.app", // noCF
+  "pulse": "pulsejs.netlify.app",
   "pulsy": "ngdream.github.io/pulsyjs",
   "pulumi-pretty": "maddijoyce.github.io/pulumi-pretty",
   "puppet": "anandchowdhary.github.io/puppet",
@@ -3046,6 +3053,7 @@ var cnames_active = {
   "sights": "sfxrescue.github.io/sights",
   "sign-poc": "imcotton.github.io/sign-poc", // noCF
   "signaldb": "maxnowack.github.io/signaldb", // noCF
+  "signalingserver": "nuzulul.github.io/signalingserver.js",
   "signalz": "hosting.gitbook.io", // noCF
   "silfr": "silfr.github.io/iterativecolor",
   "silkster": "silkster.github.io",
@@ -3396,6 +3404,7 @@ var cnames_active = {
   "tiden": "tidenjs.netlify.app",
   "tidy": "tidy-js.github.io",
   "tik": "nascjoao.github.io/tikjs",
+  "tile": "cname.vercel-dns.com", // noCF
   "timeout": "anshuman-verma.github.io/setTimeout",
   "timer": "timerjsorg.netlify.app",
   "timerizer": "callumacrae.github.io/timerizerJS", // noCF? (don´t add this in a new PR)
@@ -3591,6 +3600,7 @@ var cnames_active = {
   "validator": "ppoffice.github.io/validator.js", // noCF? (don´t add this in a new PR)
   "valine": "xcss.github.io/valine",
   "valirator": "massive-angular.github.io/valirator",
+  "valitype": "fontebasso.github.io/valitype",
   "valobot": "misly16.github.io/ValoBotsite",
   "value-enhancer": "crimx.github.io/value-enhancer",
   "vanessa": "vanessa219.github.io/vanessa",
@@ -3736,6 +3746,7 @@ var cnames_active = {
   "webpack-stats": "v-webpack.netlify.app",
   "webpeer": "nuzulul.github.io/webpeerjs",
   "websheet": "pierreavn.github.io/websheetjs",
+  "webview": "webviewjs.github.io/webview",
   "wechatpay": "thenorthmemory.github.io/wechatpay.js.org",
   "wechaty": "wechaty-js-org.pages.dev",
   "wedgetail": "wedgetail.netlify.app",
