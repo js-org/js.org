@@ -2839,6 +2839,7 @@ var cnames_active = {
   "reqsrv": "axtk.github.io/reqsrv",
   "request": "request.gitbooks.io", // noCF? (don´t add this in a new PR)
   "resafe": "ofabiodev.github.io/resafe",
+  "researchtopicgenerator": "aditisugarcane.github.io/researchtopicgenerator",
   "reselect": "reselect-docs.netlify.app",
   "reshape": "reshape.netlify.app",
   "reshift": "hasharray.github.io/reshift.js",
