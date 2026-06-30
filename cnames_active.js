@@ -134,7 +134,7 @@ var cnames_active = {
   "aiml": "jesobreira.github.io/aimljs",
   "air": "openwebstudio.github.io/Air-Docs",
   "airesearch": "vtempest.github.io/ai-research-agent",
-  "aira": "blindrusheroffical-wq.github.io"
+  "aira": "blindrusheroffical-wq.github.io/airanode.jswhatsappbot/"
   "airtable-plus": "victorhahn.github.io/airtable-plus",
   "ais": "yunyoujun.github.io/ais.js",
   "aitt": "aittssal.github.io/aitt",
