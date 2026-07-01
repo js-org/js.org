@@ -1632,6 +1632,7 @@ var cnames_active = {
   "jds": "alimanman.github.io/jds",
   "jds25": "alimanman.github.io/jds25",
   "je": "cname-china.vercel-dns.com", // noCF
+  "jelajahlusi": "revalino-f.github.io",
   "jelly": "hosting.gitbook.io", // noCF
   "jen": "oopsio.github.io/Jen.js",
   "jena": "javascript-in-jena.github.io", // noCF
