@@ -1408,7 +1408,7 @@ var cnames_active = {
   "gyps": "huijari.github.io/Gyps",
   "gyre": "wridder.github.io/GyreJS", // noCF? (don´t add this in a new PR)
   "gyx": "yourtion.github.io/gyx.js.org",
-  "gemini": "cname.vercel-dns.com", // noCF (dont add this in new PR)
+  "gemini": "cname.vercel-dns.com", // noCF
   "h": "makenowjust.github.io/h.js",
   "h3": "h3rald.srht.site", // noCF
   "h7ml": "h7ml.github.io/web",
