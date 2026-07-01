@@ -1,4 +1,4 @@
-name: Comment
+name: Rename + Comment
 
 on:
   workflow_run:
@@ -23,7 +23,7 @@ jobs:
       pull-requests: write
 
     steps:
-      - name: Generate comment
+      - name: Generate comment + rename PR if needed
         uses: actions/github-script@3a2844b7e9c422d3c10d287c895573f7108da1b3 # v9.0.0
         with:
           script: |
@@ -37,9 +37,10 @@ jobs:
               direction: "desc",
               per_page: 100,
             }).then(r => r.data[0]);
+
             if (!pr) throw new Error("Could not find associated PR for workflow run");
 
-            // Skip Dependabot PRs as they skip PR description validation
+            // Skip Dependabot PRs as they skip validation
             if (pr.user.login === "dependabot[bot]") return;
 
             // Locate the validation checks for the workflow run
@@ -55,15 +56,21 @@ jobs:
               check_suite_id: workflowRun.data.check_suite_id,
             });
 
-            const cnamesCheck = checks.data.check_runs.find(check => check.name === "cnames_active.js");
+            const cnamesCheck = checks.data.check_runs.find(
+              check => check.name === "cnames_active.js"
+            );
             if (!cnamesCheck) throw new Error("Could not find cnames_active.js check run");
 
-            const descriptionCheck = checks.data.check_runs.find(check => check.name === "PR description");
+            const descriptionCheck = checks.data.check_runs.find(
+              check => check.name === "PR description"
+            );
             if (!descriptionCheck) throw new Error("Could not find PR description check run");
-            
+
             const messages = [];
-            
-            // 1. cnames_active.js validation result, linking to the files changed tab for annotations
+
+            // ----------------------------------------------------
+            // 1. cnames_active.js validation result
+            // ----------------------------------------------------
             if (cnamesCheck.conclusion === "failure") {
               messages.push(
                 "**❌ `cnames_active.js` validation failed due to being incorrectly formatted.**",
@@ -72,14 +79,19 @@ jobs:
               );
             }
 
-            // 2. PR description validation result, linking to the raw PR template file for reference
+            // ----------------------------------------------------
+            // 2. PR description validation result
+            // ----------------------------------------------------
             if (descriptionCheck.conclusion === "failure") {
               const annotations = await github.rest.checks.listAnnotations({
                 owner: context.repo.owner,
                 repo: context.repo.repo,
                 check_run_id: descriptionCheck.id,
               });
-              if (!annotations.data[0]) throw new Error("Could not find annotations for PR description check run");
+
+              if (!annotations.data[0]) {
+                throw new Error("Could not find annotations for PR description check run");
+              }
 
               messages.push(
                 "**❌ PR description validation failed due to being incorrectly formatted.**",
@@ -90,6 +102,9 @@ jobs:
               );
             }
 
+            // ----------------------------------------------------
+            // 3. Final validation message
+            // ----------------------------------------------------
             if (messages.length) {
               messages.push(
                 "**⚠️ You must resolve these issues before your JS.org subdomain request can be accepted.**",
@@ -99,23 +114,77 @@ jobs:
               messages.push("✅ All validations passed! Please wait for the JS.org maintainers to process your subdomain request.");
             }
 
-            // Create, or update, a comment on the PR with the validation results
+            // ----------------------------------------------------
+            // 4. PR RENAMING (independent of description check)
+            // ----------------------------------------------------
+            if (cnamesCheck.conclusion === "success") {
+              const comparison = await github.rest.repos.compareCommits({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                base: pr.base.sha,
+                head: pr.head.sha,
+              });
+
+              const file = comparison.data.files.find(
+                f => f.filename === "cnames_active.js"
+              );
+
+              if (file?.patch) {
+                const keys = new Set();
+
+                for (const line of file.patch.split("\n")) {
+                  if (!line.startsWith("+")) continue;
+
+                  const match = line.match(/^\+\s*"([^"]+)"\s*:/);
+                  if (match) keys.add(match[1]);
+                }
+
+                if (keys.size === 1) {
+                  const [subdomain] = [...keys];
+                  const expectedTitle = `${subdomain}.js.org`;
+
+                  if (pr.title.trim() !== expectedTitle) {
+                    await github.rest.pulls.update({
+                      owner: context.repo.owner,
+                      repo: context.repo.repo,
+                      pull_number: pr.number,
+                      title: expectedTitle,
+                    });
+                  }
+                }
+              }
+            }
+
+            // ----------------------------------------------------
+            // 5. Create or update comment
+            // ----------------------------------------------------
+            const body = `<!-- jsorg-validation -->\n\n${messages.join("\n")}`;
+
             const existingComment = await github.rest.issues.listComments({
               owner: context.repo.owner,
               repo: context.repo.repo,
               issue_number: pr.number,
-            }).then(r => r.data.find(c => c.user.login === "github-actions[bot]" && c.body.startsWith("<!-- jsorg-validation -->\n\n")));
+            }).then(r =>
+              r.data.find(c =>
+                c.user.login === "github-actions[bot]" &&
+                c.body.startsWith("<!-- jsorg-validation -->")
+              )
+            );
 
-            await existingComment
-              ? github.rest.issues.updateComment({
-                owner: context.repo.owner,
-                repo: context.repo.repo,
-                comment_id: existingComment.id,
-                body: `<!-- jsorg-validation -->\n\n${messages.join("\n")}`,
-              })
-              : github.rest.issues.createComment({
+            if (existingComment) {
+              if (existingComment.body !== body) {
+                await github.rest.issues.updateComment({
+                  owner: context.repo.owner,
+                  repo: context.repo.repo,
+                  comment_id: existingComment.id,
+                  body,
+                });
+              }
+            } else {
+              await github.rest.issues.createComment({
                 owner: context.repo.owner,
                 repo: context.repo.repo,
                 issue_number: pr.number,
-                body: `<!-- jsorg-validation -->\n\n${messages.join("\n")}`,
+                body,
               });
+            }
