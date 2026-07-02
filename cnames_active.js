@@ -1283,7 +1283,7 @@ var cnames_active = {
   "gdal3": "bugra9.github.io/gdal3.js",
   "gdi": "katehra-brc.github.io/gdi.js.org",
   "geekr": "ruanyl.github.io/geekr", // noCF? (don´t add this in a new PR)
-  "gemini": "cname.vercel-dns.com", // noCF
+  "osystudio": "cname.vercel-dns.com", // noCF
   "gemstone": "pierreavn.github.io/gemstone",
   "genanki": "krmanik.github.io/genanki-js",
   "generate-license-file": "tobyandtoby.github.io/generate-license-file",
