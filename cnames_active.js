@@ -877,6 +877,7 @@ var cnames_active = {
   "discordlib": "hosting.gitbook.com",
   "discords": "botstudios.github.io/discords.js.org",
   "discordx": "discordx-ts.github.io/discordx",
+  "discordserver": "luciferrrr98.github.io/Discord-Server-LoveCafe",
   "discuss": "cname.vercel-dns.com", // noCF
   "disfox": "cname.vercel-dns.com", // noCF
   "disgroupdev": "disgroup-development.github.io/disgroupdev.js",
