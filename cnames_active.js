@@ -250,6 +250,7 @@ var cnames_active = {
   "artificial": "fabiosmuu.github.io/artificial",
   "artitalk": "artitalkjs.github.io/docs",
   "asdivyansh": "asdivyansh.github.io",
+  "aspectly": "jeanisahakyan.github.io/aspectly",
   "ass": "weizhenye.github.io/ASS",
   "ass-editor": "jeff-tian.github.io/ass",
   "assay": "assay-ai.github.io/assay",
@@ -1580,6 +1581,7 @@ var cnames_active = {
   "invoicing": "vahe.github.io/InvoicingJs",
   "iot": "product-engineer.github.io/iot.js.org", // noCF
   "ip-address": "beaugunderson.github.io/ip-address", // noCF? (don´t add this in a new PR)
+  "ipaddress": "nuzulul.github.io/ipaddress.js",
   "ipang": "ipang-dwi.github.io/ipang",
   "ipc": "alperr.github.io/ipc",
   "ipe": "ipe.netlify.app",
@@ -3029,6 +3031,7 @@ var cnames_active = {
   "shell": "adaltas.github.io/node-shell",
   "sheweny": "sheweny.github.io/framework",
   "shex": "shexjs.github.io/shex.js",
+  "shieldx": "cname.vercel-dns.com", // noCF
   "shift": "shift-wasm.pages.dev",
   "shikwasa": "jessuni.github.io/shikwasa",
   "shilong": "echoheim.github.io/shilong",
@@ -3221,6 +3224,7 @@ var cnames_active = {
   "starterdocs": "vtempest.github.io/Serverless-DOCS-Stack",
   "starterpk": "starterpk.github.io",
   "startup": "startup-js.github.io/startup",
+  "startxkit": "cname.vercel-dns.com", // noCF
   "state-machine-cat": "sverweij.github.io/state-machine-cat",
   "staticinstance": "staticinstance.github.io", // noCF? (don´t add this in a new PR)
   "statisfy": "yarn-development.github.io/statisfynpm",
