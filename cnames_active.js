@@ -1918,6 +1918,7 @@ var cnames_active = {
   "longlast": "benchristel.github.io/longlast",
   "loog": "israelroldan.github.io/loog",
   "lookup": "lookup-js-org.pages.dev",
+  "loopy": "kmjnnhyk.github.io/loopy",
   "lostyle": "rtsao.github.io/lostyle",
   "lottiefy": "pd4d10.github.io/lottiefy",
   "loxt": "loxt.netlify.app",
