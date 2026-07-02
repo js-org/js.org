@@ -3031,6 +3031,7 @@ var cnames_active = {
   "shell": "adaltas.github.io/node-shell",
   "sheweny": "sheweny.github.io/framework",
   "shex": "shexjs.github.io/shex.js",
+  "shieldx": "cname.vercel-dns.com", // noCF
   "shift": "shift-wasm.pages.dev",
   "shikwasa": "jessuni.github.io/shikwasa",
   "shilong": "echoheim.github.io/shilong",
@@ -3223,6 +3224,7 @@ var cnames_active = {
   "starterdocs": "vtempest.github.io/Serverless-DOCS-Stack",
   "starterpk": "starterpk.github.io",
   "startup": "startup-js.github.io/startup",
+  "startxkit": "cname.vercel-dns.com", // noCF
   "state-machine-cat": "sverweij.github.io/state-machine-cat",
   "staticinstance": "staticinstance.github.io", // noCF? (don´t add this in a new PR)
   "statisfy": "yarn-development.github.io/statisfynpm",
