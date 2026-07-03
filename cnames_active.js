@@ -2154,6 +2154,7 @@ var cnames_active = {
   "mohamad": "imohamad.github.io",
   "mohi": "mohijalili.github.io",
   "mohitgupta": "mohitgupta8888.github.io/mohitgupta",
+  "mojikakushi": "mojikakushi.netlify.app",
   "mojiscript": "joelnet.github.io/MojiScript",
   "mokunshao": "mokunshao.github.io",
   "mol": "eigenmethod.github.io/mol", // noCF
