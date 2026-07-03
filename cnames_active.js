@@ -3897,3 +3897,4 @@ var cnames_active = {
    * <3
    */
 }
+"lumadeco": "Lavish170.github.io/luma-deco",
