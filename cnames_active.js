@@ -2418,6 +2418,7 @@ var cnames_active = {
   "orbiton": "orbitonjs.github.io",
   "order-ai": "orderai.onrender.com", // noCF
   "orga": "orgapp.github.io/orgajs",
+  "onethingdaily": "shaunlobo123.github.io" //Add onethingdaily launch page
   "origami": "origami-cms.github.io/cms",
   "orkhon": "emircesur.github.io/orkhon",
   "os-gui": "1j01.github.io/os-gui",
