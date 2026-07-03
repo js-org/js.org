@@ -1933,6 +1933,7 @@ var cnames_active = {
   "lukemetoki": "luke2m.github.io",
   "lume.shiraha": "importantimport.github.io/lume_theme_shiraha", // noCF
   "lumi": "furioustsunami.github.io/lumijs",
+  "lumina": "lumina-api-ky2v.onrender.com",
   "lumpia": "lumpiajs.netlify.app",
   "lunisolar": "waterbeside.github.io/lunisolar-docs",
   "lunox": "kodepandai.github.io/lunox",
