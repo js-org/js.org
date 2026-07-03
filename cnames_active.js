@@ -1797,7 +1797,7 @@ var cnames_active = {
   "labui": "ztl-uwu.github.io/Lab-Design-Guide",
   "lad": "ladjs.github.io/lad",
   "lambda": "lambdajs.github.io", // noCF? (don´t add this in a new PR)
-  "lumadeco": "Lavish170.github.io/luma-deco",
+  "lumadeco": "lavish170.github.io/luma-deco",
   "lan": "careteenl.github.io/lan",
   "lance": "lancepioch.com",
   "landrielportafolio": "arielandriel30.github.io/landrielportafolio",
