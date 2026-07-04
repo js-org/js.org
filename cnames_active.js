@@ -649,6 +649,7 @@ var cnames_active = {
   "contex": "donnellan0007.github.io/ContextJS",
   "context": "theinternetfolks.github.io/context",
   "contextify": "abemedia.github.io/jquery-contextify", // noCF? (don´t add this in a new PR)
+  "conventional-changelog": "conventional-changelog.github.io/conventional-changelog",
   "convert": "convertjs.netlify.app",
   "cookiebox": "metaa.gitlab.io",
   "cookiecord": "cookiecord.github.io/cookiecord",
