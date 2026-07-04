@@ -347,6 +347,7 @@ var cnames_active = {
   "bb": "bbtalkjs.github.io",
   "bbn": "jammer99.github.io/bbn",
   "bc": "mazko.github.io/bc.js",
+  "bca": "cname.vercel-dns.com", // noCF
   "bci": "pwstegman.github.io/bcijs",
   "bcklib": "zyyou.github.io/npm-modules",
   "bd": "cyberghxst.github.io/bdjs-guide",
