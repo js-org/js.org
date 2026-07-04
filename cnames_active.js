@@ -2112,6 +2112,7 @@ var cnames_active = {
   "mis101bird": "mis101bird.github.io", // noCF? (don´t add this in a new PR)
   "mission-control": "capevace.github.io/mission-control",
   "miteshtagadiya": "miteshtagadiya.github.io/miteshtagadiya",
+  "mithic": "andykswong.github.io/mithic",
   "mithril": "mithriljs.github.io/docs",
   "mithril-by-examples": "tbreuss.github.io/mithril-by-examples",
   "mithril-ja": "shibukawa.github.io/mithril-ja", // noCF? (don´t add this in a new PR)
