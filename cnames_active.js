@@ -244,6 +244,7 @@ var cnames_active = {
   "arkenv": "cname.vercel-dns.com", // noCF
   "aroma": "aaveshdev.github.io/aroma.js-website",
   "arshad": "arshadmhabib.github.io",
+  "arshikhan": "arshikhan.vercel.app",
   "artalk": "artalk-demo.qwqaq.com", // noCF
   "artery": "arteryjs.github.io/gh-pages", // noCF? (don´t add this in a new PR)
   "arthurmbandeira": "arthurmbandeira.github.io",
