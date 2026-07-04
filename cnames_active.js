@@ -894,6 +894,7 @@ var cnames_active = {
   "div": "div-js.github.io/div.js.org",
   "divifier": "eaaasun.github.io/divifier",
   "diya": "diya-8ra.pages.dev", // noCF
+  "divyaraj": "divyaraj-portfolio.vercel.app",
   "djs-addon": "hosting.gitbook.io", // noCF
   "djs-application-commands": "hosting.gitbook.io",
   "djs-tickets": "pgamerx.github.io/djs-tickets",
