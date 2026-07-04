@@ -3740,6 +3740,7 @@ var cnames_active = {
   "webassembly": "xtuc.github.io/webassemblyjs",
   "webconnect": "nuzulul.github.io/webConnect.js",
   "webfetch": "c1tizen.github.io/webfetch",
+  "webfont": "itgalaxy.github.io",
   "webmc": "michaljaz.github.io/webmc",
   "webminer": "web-miner.github.io",
   "webos": "dynamiccode1.github.io/webos",
