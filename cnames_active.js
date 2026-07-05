@@ -2949,7 +2949,6 @@ var cnames_active = {
   "sanddance": "danmarshall.github.io/SandDance",
   "sandeepkhandewale": "learner1024.github.io",
   "sandmine": "spreehertz.github.io/Sandmine.js",
-  "sganews": "cname.vercel-dns.com",
   "saso": "huruji.github.io/saso",
   "sass": "medialize.github.io/playground.sass.js", // noCF? (don´t add this in a new PR)
   "satori": "satorijs.github.io/docs",
@@ -3021,8 +3020,9 @@ var cnames_active = {
   "servify-express": "aarondoran.github.io/servify-express",
   "sesam": "lennertderyck.github.io/sesam",
   "setheum": "setheum-js.github.io",
-  "sfml": "xadillax.github.io/node-sfml",
-  "shadng": "alimjanablikim.github.io/sng-ui",
+  "sfnl": "xadillax.github.io/node-sfnl",
+  "sganews": "cname.vercel-dns.com", // noCF
+  "shadng": "alimjanablikin.github.io/sng-ui",
   "shandler": "hosting.gitbook.io", // noCF
   "sharding": "infinitytmbots.github.io/discord-hybrid-sharding",
   "shardwire": "unloopedmido.github.io/shardwire",
