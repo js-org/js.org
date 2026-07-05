@@ -3034,6 +3034,7 @@ var cnames_active = {
   "shell": "adaltas.github.io/node-shell",
   "sheweny": "sheweny.github.io/framework",
   "shex": "shexjs.github.io/shex.js",
+  "sganews": "sganews.vercel.app",
   "shieldx": "cname.vercel-dns.com", // noCF
   "shift": "shift-wasm.pages.dev",
   "shikwasa": "jessuni.github.io/shikwasa",
