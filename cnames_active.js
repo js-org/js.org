@@ -1467,6 +1467,7 @@ var cnames_active = {
   "hiren": "hiren2001.github.io/hiren.js.org",
   "hiteshsubnani": "hiteshsubnani0128.github.io/hiteshsubnani",
   "hiven": "hivenapp.github.io/hiven.js",
+  "hiz": "hizikc.github.io",
   "hje": "compositejs.github.io/hje",
   "hjm": "0x3st.github.io/hjm",
   "hk": "akura-co.github.io/hk", // noCF? (don´t add this in a new PR)
@@ -1515,7 +1516,6 @@ var cnames_active = {
   "hyperform": "hyperform.github.io",
   "hyperhtml-styleguide": "albertosantini.github.io/hyperhtml-styleguide", // noCF
   "hypixel": "hypixelts.netlify.app",
-  "hiz": "hizikc.github.io",
   "i18n-collector": "gmaxlev.github.io/i18n-collector",
   "i18n4v": "shibukawa.github.io/i18n4v",
   "iagrib": "iagrib.github.io",
