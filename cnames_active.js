@@ -1935,6 +1935,7 @@ var cnames_active = {
   "lukemetoki": "luke2m.github.io",
   "lume.shiraha": "importantimport.github.io/lume_theme_shiraha", // noCF
   "lumi": "furioustsunami.github.io/lumijs",
+  "lumiworld": "k3234.github.io/Lumiword",
   "lumpia": "lumpiajs.netlify.app",
   "lunisolar": "waterbeside.github.io/lunisolar-docs",
   "lunox": "kodepandai.github.io/lunox",
