@@ -522,6 +522,7 @@ var cnames_active = {
   "cats": "whoisjorge.github.io/not-cat-gifs",
   "cavojmidi": "cavojmidi.netlify.app",
   "cbm": "cbmjs.github.io/cbm-website",
+  "cyberchef": "tunguyen35.github.io",
   "cdc-bot": "cdc-bot-js-npm.github.io/website",
   "cdi": "kiprox.github.io/Candro-Drive-Index",
   "cdll": "cdll.github.io",
