@@ -2871,6 +2871,7 @@ var cnames_active = {
   "ribbons": "tsparticles.github.io/ribbons",
   "rickdesantis": "rickdesantis.github.io",
   "riffy": "cname.vercel-dns.com", // noCF
+  "rifaldo": "cname.vercel-dns.com", // noCF
   "riiickyy": "riiickyy.github.io",
   "riklewis": "riklewis.github.io",
   "rimmel": "rimmel-js-org.pages.dev",
