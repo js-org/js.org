@@ -3409,6 +3409,7 @@ var cnames_active = {
   "thundercats": "thundercatsjs.github.io/thundercats", // noCF? (don´t add this in a new PR)
   "tictactoe": "jeff-tian.github.io/tic-tac-toe-ai",
   "tiden": "tidenjs.netlify.app",
+  "tidewatch": "tidewatchi.vercel.app",
   "tidy": "tidy-js.github.io",
   "tik": "nascjoao.github.io/tikjs",
   "tile": "cname.vercel-dns.com", // noCF
