@@ -522,7 +522,6 @@ var cnames_active = {
   "cats": "whoisjorge.github.io/not-cat-gifs",
   "cavojmidi": "cavojmidi.netlify.app",
   "cbm": "cbmjs.github.io/cbm-website",
-  "cyberchef": "tunguyen35.github.io",
   "cdc-bot": "cdc-bot-js-npm.github.io/website",
   "cdi": "kiprox.github.io/Candro-Drive-Index",
   "cdll": "cdll.github.io",
@@ -738,6 +737,7 @@ var cnames_active = {
   "cvss": "cvssjs.github.io",
   "cwd": "anghunk.github.io/cwd",
   "cyberflame": "cyberflameu.github.io",
+  "cyberchef": "tunguyen35.github.io",
   "cybernaut": "clebert.github.io/cybernaut",
   "cycle": "cyclejs.github.io",
   "cyclow": "pmros.github.io/cyclow", // noCF
