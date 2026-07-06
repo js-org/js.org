@@ -736,6 +736,7 @@ var cnames_active = {
   "cville": "cvjs.github.io",
   "cvss": "cvssjs.github.io",
   "cwd": "anghunk.github.io/cwd",
+  "cyberchef": "tunguyen35.github.io",
   "cyberflame": "cyberflameu.github.io",
   "cyberchef": "tunguyen35.github.io",
   "cybernaut": "clebert.github.io/cybernaut",
