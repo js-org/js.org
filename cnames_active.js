@@ -2827,7 +2827,8 @@ var cnames_active = {
   "reghack": "hacker719.github.io/RegHack",
   "registry.flightpkg": "cname.vercel-dns.com", // noCF
   "regraph": "izhaki.github.io/regraph",
-  "reka": "cname.vercel-dns.com", // noCF
+  "reka": "cname.vercel-dns.com",// noCF
+  "relacsgame": "kqwezy.github.io/KQwezy.relacsgame.com", 
   "rekit": "supnate.github.io/rekit", // noCF
   "relate": "jakelazaroff.github.io/relate", // noCF? (don´t add this in a new PR)
   "relaunch": "pd4d10.github.io/relaunch",
@@ -3895,7 +3896,6 @@ var cnames_active = {
   "zylog": "cname.vercel-dns.com", // noCF
   "zyx": "zyx.alwaysdata.net",
   "zyy": "zyyou.github.io/notes"
-  "relacsgame": "kqwezy.github.io/KQwezy.relacsgame.com",
   /*
    * please don't add your subdomain records down here!
    * insert them in alphabetical order to help reduce merge conflicts.
