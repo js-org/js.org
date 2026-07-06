@@ -2996,7 +2996,6 @@ var cnames_active = {
   "securitool": "replikantek.github.io/security-toolbox",
   "security-list": "lissy93.github.io/personal-security-checklist",
   "sed": "42ua.github.io/sed",
-  "seudominio": "lojaebrechopingodegente.github.io/familiabet",
   "see-more-demo": "wangdabaoqq.github.io/vuepress",
   "seemple": "finom.github.io/seemple.js.org",
   "seesaw": "cajogos.github.io/seesaw",
