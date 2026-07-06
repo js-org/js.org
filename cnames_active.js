@@ -3003,6 +3003,7 @@ var cnames_active = {
   "seia": "importantimport.github.io/seia",
   "select_io": "selaromi.github.io/select_io", // noCF? (don´t add this in a new PR)
   "selectable-grid": "pisyukaev.github.io/selectable-grid",
+  "familiabet": "lojaebrechopingodegente.github.io/familiabet",
   "selectors": "selectors.github.io/selectors.js",
   "selectre": "alexeyraspopov.github.io/selectre",
   "selectric": "lcdsantos.github.io/jQuery-Selectric", // noCF? (don´t add this in a new PR)
