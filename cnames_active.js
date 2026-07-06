@@ -738,7 +738,6 @@ var cnames_active = {
   "cwd": "anghunk.github.io/cwd",
   "cyberchef": "tunguyen35.github.io",
   "cyberflame": "cyberflameu.github.io",
-  "cyberchef": "tunguyen35.github.io",
   "cybernaut": "clebert.github.io/cybernaut",
   "cycle": "cyclejs.github.io",
   "cyclow": "pmros.github.io/cyclow", // noCF
