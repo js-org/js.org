@@ -1878,6 +1878,7 @@ var cnames_active = {
   "ling": "wangziling.github.io",
   "linghucong": "jiji262.github.io",
   "link-styler": "sheikhoo.github.io/link-styler",
+  "linked-markdown": "wazootech.github.io/linked-markdown-ts",
   "linkify": "hypercontext.github.io/linkifyjs",
   "linksharer": "linksharer.github.io/linksharer.js.org",
   "lion": "ing-bank.github.io/lion",
@@ -3798,6 +3799,7 @@ var cnames_active = {
   "workbee": "workbee.pages.dev",
   "workers": "worker-tools.github.io/workers.js.org",
   "worksnake": "worksnake.github.io",
+  "worma": "alovajs.github.io/devtools",
   "wq": "wqjs.alwaysdata.net",
   "writebar": "alexander-shvets.github.io/writebar",
   "ws-debug": "yshenze.github.io/ws-debug", // noCF
