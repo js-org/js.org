@@ -3645,6 +3645,7 @@ var cnames_active = {
   "vico": "bohdantkachenko.github.io/vico", // noCF? (don´t add this in a new PR)
   "vidclip": "cname.vercel-dns.com", // noCF
   "video-react": "video-react.github.io",
+  "vietstudy": "https://viet-study-minhphuc-devs-projects.vercel.app", // noCF
   "vigour": "mokunshao.github.io/vigour",
   "villain": "btzr-io.github.io/Villain",
   "vinimdocarmo": "vinimdocarmo.github.io", // noCF? (don´t add this in a new PR)
@@ -3664,7 +3665,6 @@ var cnames_active = {
   "viteshell": "henryhale.github.io/viteshell",
   "vitestory": "melishev.github.io/vitestory",
   "vitiate": "mjkoo.github.io/vitiate",
-  "vietstudy": "cname.vercel-dns.com",
   "vk-x": "vk-x.github.io",
   "vlite": "vlitejs.github.io",
   "vlr": "vlrjs.github.io/website",
