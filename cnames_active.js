@@ -834,6 +834,7 @@ var cnames_active = {
   "did": "ceramicnetwork.github.io/js-did",
   "diddle": "jylescoad-ward.github.io/diddle.js",
   "diffract": "ameyms.github.io/diffract", // noCF? (don´t add this in a new PR)
+  "dignity": "jose-compu.github.io/dignity.js",
   "dime": "anut-py.github.io/dime",
   "dinesh": "dineshondev.github.io/dinesh", // noCF? (don´t add this in a new PR)
   "dinosaur": "path08.github.io/Dinosaur",
@@ -2818,6 +2819,7 @@ var cnames_active = {
   "redux-webpack-boilerplate": "cchamberlain.github.io/redux-webpack-boilerplate", // noCF? (don´t add this in a new PR)
   "reduxible": "pitzcarraldo.github.io/reduxible", // noCF? (don´t add this in a new PR)
   "ree": "reejs.netlify.app",
+  "reef": "somalip.github.io/Reef",
   "reflex": "flexsurfer.github.io/reflex-website",
   "reforms": "empla.github.io/reforms-docs",
   "refract": "hosting.gitbook.com",
