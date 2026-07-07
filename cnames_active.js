@@ -3664,7 +3664,7 @@ var cnames_active = {
   "viteshell": "henryhale.github.io/viteshell",
   "vitestory": "melishev.github.io/vitestory",
   "vitiate": "mjkoo.github.io/vitiate",
-  "vietstudy": "viet-study-minhphuc-devs-projects.vercel.app",
+  "vietstudy": "cname.vercel-dns.com",
   "vk-x": "vk-x.github.io",
   "vlite": "vlitejs.github.io",
   "vlr": "vlrjs.github.io/website",
