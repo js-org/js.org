@@ -2779,6 +2779,7 @@ var cnames_active = {
   "reask": "mcsh.github.io/reask",
   "reassign": "hasharray.github.io/reassign.js",
   "rebatov": "rebatov.github.io",
+  "rebecca": "cname.vercel-dns.com", // noCF
   "rebem": "rebem.github.io", // noCF? (don´t add this in a new PR)
   "reciple": "cname.vercel-dns.com", // noCF
   "recover": "luisvallejomohl.github.io/Recover.js",
