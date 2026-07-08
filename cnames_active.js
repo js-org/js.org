@@ -2030,6 +2030,7 @@ var cnames_active = {
   "mca": "lem0nb.github.io/Minecraft_Auto_Builder",
   "mcd": "n9gc.github.io/mcdjs",
   "mcfly": "mcfly-js.netlify.app",
+  "mcpkit": "sraveshnandan.github.io/mcpkit",
   "mctrl": "cname.vercel-dns.com", // noCF,
   "mcul": "russellsteadman.github.io/mcul",
   "md": "cname-china.vercel-dns.com", // noCF
