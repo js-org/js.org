@@ -3073,6 +3073,7 @@ var cnames_active = {
   "simpldb": "hosting.gitbook.io", // noCF
   "simple": "lescinskiscom.github.io/simple-js",
   "simple-pip": "frogweezer.github.io/simple-pip",
+  "simple-release": "trigensoftware.github.io/simple-release",
   "simplecounter": "tomkiernan120.github.io/simplecounter",
   "simplecrypto": "danang-id.github.io/simple-crypto-js",
   "simplelightbox": "andreknieriem.github.io/simplelightbox",
