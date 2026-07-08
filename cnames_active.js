@@ -2282,8 +2282,8 @@ var cnames_active = {
   "next-qrcode": "next-qrcode.github.io",
   "next-redux-cookie-wrapper": "bjoluc.github.io/next-redux-cookie-wrapper",
   "next-share": "next-share.github.io",
-  "nextspatial": "nextspatial.workers.dev",
   "next.awesome-vue": "awesome-vue.netlify.app", // noCF
+  "nextspatial": "nextspatial.workers.dev",
   "nextkit-fetcher": "ultirequiem.github.io/nextkit-fetcher",
   "nextqr": "cname.vercel-dns.com", // noCF
   "nexus": "nexusdi.github.io/core",
