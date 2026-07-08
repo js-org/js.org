@@ -1272,8 +1272,8 @@ var cnames_active = {
   "gaman": "gamanjs.github.io",
   "game-tracker": "cname.vercel-dns.com", // noCF
   "gamedevcontestal": "fromdenisvieira.github.io/gamedevcontestal", // noCF? (don´t add this in a new PR)
-  "gametime": "parking-master.github.io/Gametime.js",
   "gamequiz": "quiz-of-gamers.lovable.app",
+  "gametime": "parking-master.github.io/Gametime.js",
   "gametracker": "officialpiyush.github.io/gametracker.js",
   "gamingnet": "gamingmineblox.github.io/GamingNet",
   "garlic-team": "garlic-team.github.io/website",
