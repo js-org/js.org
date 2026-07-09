@@ -3031,7 +3031,6 @@ var cnames_active = {
   "shandler": "hosting.gitbook.io", // noCF
   "sharding": "infinitytmbots.github.io/discord-hybrid-sharding",
   "shardwire": "unloopedmido.github.io/shardwire",
-  "share": "jeff-tian.github.io/weshare",
   "sharec": "lamartire.github.io/sharec",
   "shareon": "shareon.kytta.codeberg.page", // noCF
   "sharingan": "techmonowar.github.io/sharingan",
