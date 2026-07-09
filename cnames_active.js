@@ -1373,6 +1373,7 @@ var cnames_active = {
   "gregory": "f3z0.github.io",
   "grep": "42ua.github.io/grep",
   "greylock": "datamart.github.io/Greylock",
+  "gridcraft": "rohan-shridhar.github.io/gridcraft",
   "gridiron": "noderaider.github.io/gridiron",
   "gridl": "klattiation.github.io/gridl",
   "griffel": "microsoft.github.io/griffel",
