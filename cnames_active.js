@@ -2949,6 +2949,7 @@ var cnames_active = {
   "samlify": "tngan.github.io/samlify",
   "samply": "yury-shevchenko.github.io/samply",
   "samplyr": "arze1.github.io/samplyr-site",
+  "shane-blog": "shane00413-wq.github.io",
   "sampoder": "sampoder.github.io",
   "san": "baidu.github.io/san",
   "sanctuary": "sanctuary-js.github.io/sanctuary-site",
