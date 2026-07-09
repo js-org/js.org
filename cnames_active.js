@@ -2652,7 +2652,7 @@ var cnames_active = {
   "pulumi-pretty": "maddijoyce.github.io/pulumi-pretty",
   "puppet": "anandchowdhary.github.io/puppet",
   "pure": "fengzilong.github.io/pure",
-  "pure-photos-ai": "grupoclip.github.io/pure-photos-ai",
+  "pure-photos-ai": "grupoclip.github.io/pure-photos-ai-web",
   "purplet": "purpletjs.netlify.app",
   "pushoo": "imaegoo.github.io/pushoo",
   "pusu": "xliudaxia.github.io/pusu-ui",
