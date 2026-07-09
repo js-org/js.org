@@ -2396,7 +2396,7 @@ var cnames_active = {
   "oib": "andreicek.github.io/oib.js",
   "oiyo": "oiyo.pages.dev",
   "oktay": "98oktay.github.io/oktaybaskus",
-  "olagair": "johnsonishizaki.github.io/OlagAir",
+  "olagair": "https://benevolent-alpaca-3f95e4.netlify.app",
   "olaindex": "wangningkai.github.io/OLAINDEX",
   "olon": "olonjs.io",
   "olova": "cname.vercel-dns.com", // noCF
