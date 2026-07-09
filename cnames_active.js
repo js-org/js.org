@@ -1010,6 +1010,7 @@ var cnames_active = {
   "ecstar": "ecstar-js.github.io/Ecstar",
   "ed2k": "sunnyli.github.io/ed2k.js",
   "ef": "classicoldsong.github.io/ef.js.org",
+  "effect-graphql": "egriff38.github.io/effect-graphql",
   "effectful": "awto.github.io/effectfuljs",
   "effects": "effectsjs.github.io/effectsjs",
   "eggsy": "eggsywashere.github.io",
@@ -1109,6 +1110,7 @@ var cnames_active = {
   "event-storage": "albe.github.io/node-event-storage",
   "eventstore": "adrai.github.io/node-eventstore", // noCF? (don´t add this in a new PR)
   "everything": "ajays97.github.io/Everything.js",
+  "evikit": "evikit.oops.wtf", // noCF
   "evolutionland": "evolutionlandorg.github.io/js-sdk",
   "evolutions": "anshumanv.github.io/evolutions-webapp",
   "ewa": "lyfeyaj.github.io/ewa",
@@ -2031,6 +2033,7 @@ var cnames_active = {
   "mca": "lem0nb.github.io/Minecraft_Auto_Builder",
   "mcd": "n9gc.github.io/mcdjs",
   "mcfly": "mcfly-js.netlify.app",
+  "mcpkit": "sraveshnandan.github.io/mcpkit",
   "mctrl": "cname.vercel-dns.com", // noCF,
   "mcul": "russellsteadman.github.io/mcul",
   "md": "cname-china.vercel-dns.com", // noCF
@@ -3072,6 +3075,7 @@ var cnames_active = {
   "simpldb": "hosting.gitbook.io", // noCF
   "simple": "lescinskiscom.github.io/simple-js",
   "simple-pip": "frogweezer.github.io/simple-pip",
+  "simple-release": "trigensoftware.github.io/simple-release",
   "simplecounter": "tomkiernan120.github.io/simplecounter",
   "simplecrypto": "danang-id.github.io/simple-crypto-js",
   "simplelightbox": "andreknieriem.github.io/simplelightbox",
@@ -3375,6 +3379,7 @@ var cnames_active = {
   "template-pro": "template-pro.github.io",
   "templates.linksharer": "linksharer.github.io/Templates", // noCF
   "temporal-fns": "rhnorskov.github.io/temporal-fns",
+  "tenrai": "cname.vercel-dns.com", // noCF
   "tenvoy": "togatech.github.io/tEnvoy",
   "tequila": "tequila-js.github.io",
   "term-web": "zhw2590582.github.io/term-web",
