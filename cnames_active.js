@@ -311,6 +311,7 @@ var cnames_active = {
   "azura": "hosting.discloud.app", // noCF
   "azurajs-scalar": "d3veduardo.github.io/azurajs-scalar",
   "azurapi": "azurapi.github.io/azurapi-js",
+  
   "bachors": "bachors.github.io",
   "backlog": "backlog-js.github.io/backlog.js.org", // noCF? (don´t add this in a new PR)
   "backolon": "r47onfire.github.io/backolon",
@@ -2444,6 +2445,7 @@ var cnames_active = {
   "oxi": "cname.vercel-dns.com", // noCF
   "oxycors": "cname.vercel-dns.com", // noCF
   "oz": "openzagreb.github.io",
+  "protech": "https://protechredirect.vercel.app/", // noCF
   "p2p": "nuzulul.github.io/p2p.js",
   "p2psc": "kognise.github.io/p2psc",
   "p3terx": "p3terx.github.io/P3TERX",
