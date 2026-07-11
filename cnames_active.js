@@ -1356,6 +1356,7 @@ var cnames_active = {
   "goodshare": "koddr.github.io/goodshare.js",
   "gosling": "gosling-lang.github.io/gosling.js",
   "gost-cli": "minecraftpublisher.github.io/gost-cli",
+  "gorizont": "antone777.github.io/bing-wallpapers",
   "gotanda": "gotandajs.github.io",
   "govind": "emgk.github.io",
   "gr": "cname.vercel-dns.com", // noCF
