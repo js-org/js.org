@@ -1,0 +1,10 @@
+{
+  "description": "QUIRK \u2014 AI toolkit for content creators. Script Studio + Idea Engine + Thumbnail Tester.",
+  "owner": {
+    "username": "arjundroid12",
+    "email": "arjunvashishtha2004@gmail.com"
+  },
+  "record": {
+    "CNAME": "quirk-ten.vercel.app"
+  }
+}
