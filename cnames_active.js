@@ -1339,7 +1339,7 @@ var cnames_active = {
   "glitterbot": "glitterbot.netlify.app", // noCF
   "glize": "datamart.github.io/Glize",
   "globalart": "globalartinc.github.io/ecosystem",
-  "globalprofit"
+  "globalprofit":
   "global-profit.vercel.app",
   "globx": "aminadav.github.io/globx",
   "gloria": "gloriajs.github.io",
