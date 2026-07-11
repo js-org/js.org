@@ -1355,6 +1355,7 @@ var cnames_active = {
   "good": "amirhossein693.github.io/good",
   "goodshare": "koddr.github.io/goodshare.js",
   "gosling": "gosling-lang.github.io/gosling.js",
+  "gorizont": "antone777.github.io/bing-wallpapers",
   "gost-cli": "minecraftpublisher.github.io/gost-cli",
   "gotanda": "gotandajs.github.io",
   "govind": "emgk.github.io",
