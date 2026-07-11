@@ -1347,19 +1347,7 @@ var cnames_active = {
   "gnatale": "giosooul.github.io/gnatale.github.io",
   "go": "northwoodssoftware.github.io/go.js.org",
   "god": "godow.github.io",
-  "godown": "cname.vercel-dns.com", // noCF
-  "goji": "airbnb.github.io/goji-js",
-  "gol": "goljs.github.io/GoL",
-  "gondel": "namics.github.io/gondel",
-  "goober": "cristianbote.github.io/goober",
-  "good": "amirhossein693.github.io/good",
-  "goodshare": "koddr.github.io/goodshare.js",
-  "gosling": "gosling-lang.github.io/gosling.js",
-  "gost-cli": "minecraftpublisher.github.io/gost-cli",
-  "gotanda": "gotandajs.github.io",
-  "govind": "emgk.github.io",
-  "gr": "cname.vercel-dns.com", // noCF
-  "grab": "cname.vercel-dns.com", // noCF
+  "gorizont": "antone777.github.io/bing-wallpapers/",
   "gracile": "gracile.netlify.app",
   "graffle": "jasonkuhrt.github.io/graphql-request",
   "gram": "gram-js.github.io/docs",
