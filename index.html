@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Vai su Snode</title>
+
+<style>
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:system-ui,sans-serif;
+}
+
+body{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    min-height:100vh;
+    background:linear-gradient(135deg,#4f46e5,#06b6d4);
+    color:#fff;
+}
+
+.card{
+    width:380px;
+    max-width:90%;
+    background:rgba(255,255,255,.12);
+    backdrop-filter:blur(16px);
+    border:1px solid rgba(255,255,255,.2);
+    border-radius:20px;
+    padding:35px;
+    text-align:center;
+    box-shadow:0 20px 40px rgba(0,0,0,.2);
+}
+
+.logo{
+    width:90px;
+    height:90px;
+    margin:0 auto 20px;
+    border-radius:50%;
+    background:#fff;
+    color:#4f46e5;
+    display:grid;
+    place-items:center;
+    font-size:40px;
+    font-weight:bold;
+}
+
+h1{
+    margin-bottom:10px;
+}
+
+p{
+    opacity:.9;
+    margin-bottom:30px;
+    line-height:1.5;
+}
+
+.btn{
+    display:inline-block;
+    padding:14px 28px;
+    border-radius:999px;
+    background:#fff;
+    color:#4f46e5;
+    text-decoration:none;
+    font-weight:bold;
+    transition:.25s;
+}
+
+.btn:hover{
+    transform:translateY(-3px) scale(1.03);
+    box-shadow:0 12px 25px rgba(0,0,0,.2);
+}
+</style>
+</head>
+<body>
+
+<div class="card">
+    <div class="logo">S</div>
+
+    <h1>Snode</h1>
+
+    <p>
+      Un runtime JavaScript scritto in Python check ricrea l'esperienza di Node.js
+    </p>
+
+    <a class="btn" href="https://snodeproject.github.io">
+        🚀 Vai a Snode
+    </a>
+</div>
+
+</body>
+</html>
