@@ -1491,6 +1491,7 @@ var cnames_active = {
   "hours": "cname.vercel-dns.com", // noCF
   "how-to-mithril": "stephanhoyer.github.io/how-to-mithril",
   "hox": "umijs.github.io/hox",
+  "horizon": "aceyash-dev.github.io/Horizon.AI",
   "hrishi": "hrishi045.github.io",
   "hscroll-slider": "evgeniymukhamedjanov.github.io/hscroll-slider",
   "hsiaoyi0504": "hsiaoyi0504.github.io",
