@@ -2911,7 +2911,6 @@ var cnames_active = {
   "rovel": "rovelstars.github.io",
   "rp": "rpocklin.github.io", // noCF? (don´t add this in a new PR)
   "rpbuilder": "cname.vercel-dns.com", // noCF
-
   "rplayer": "davland7.github.io/rplayer",
   "rsa": "cname.vercel-dns.com", // noCF
   "rsshub": "diygod.github.io/RSSHub",
