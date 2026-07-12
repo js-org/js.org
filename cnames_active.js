@@ -1390,6 +1390,7 @@ var cnames_active = {
   "gtfs": "gtfs-js.github.io/gtfs.js.org",
   "gtk": "hwittenborn.github.io/gtk-js",
   "guard-sdk": "apvarun.github.io/guard-sdk",
+  "guessthealbum": "cname.vercel-dns.com",
   "guida": "cname.vercel-dns.com", // noCF
   "guide.guildedbot": "cname.vercel-dns.com", // noCF
   "guide.guildedts": "cname.vercel-dns.com", // noCF
