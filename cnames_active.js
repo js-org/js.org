@@ -637,6 +637,7 @@ var cnames_active = {
   "comptime": "feathers-studio.github.io/comptime.ts", // noCF
   "computed": "krmax44.github.io/rollup-plugin-computed",
   "concursos": "mteyss.github.io/concursos", // noCF? (don´t add this in a new PR)
+  "condense": "condense.pages.dev",
   "conductor": "hosting.gitbook.com",
   "confetti": "tsparticles.github.io/confetti",
   "conflict": "conflictjs.github.io/site",
