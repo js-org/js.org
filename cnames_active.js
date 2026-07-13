@@ -637,6 +637,7 @@ var cnames_active = {
   "comptime": "feathers-studio.github.io/comptime.ts", // noCF
   "computed": "krmax44.github.io/rollup-plugin-computed",
   "concursos": "mteyss.github.io/concursos", // noCF? (don´t add this in a new PR)
+  "condense": "condense.pages.dev",
   "conductor": "hosting.gitbook.com",
   "confetti": "tsparticles.github.io/confetti",
   "conflict": "conflictjs.github.io/site",
@@ -1009,6 +1010,7 @@ var cnames_active = {
   "eco": "quick-eco.netlify.app",
   "ecstar": "ecstar-js.github.io/Ecstar",
   "ed2k": "sunnyli.github.io/ed2k.js",
+  "edge-aura": "cname.vercel-dns.com", // noCF
   "ef": "classicoldsong.github.io/ef.js.org",
   "effect-graphql": "egriff38.github.io/effect-graphql",
   "effectful": "awto.github.io/effectfuljs",
@@ -1440,7 +1442,6 @@ var cnames_active = {
   "hasura-om": "mrspartak.github.io/hasura-om",
   "hawiah": "cname.vercel-dns.com", // noCF
   "hay": "hayjs.github.io/hay.js.org",
-  "hayao": "hellojanpacan.github.io/hayao.js.org",
   "hbase": "adaltas.github.io/node-hbase-docs",
   "hcs": "kimcore.github.io/hcs.js", // noCF
   "heartseekers": "rajington.github.io/heartseekers", // noCF? (don´t add this in a new PR)
@@ -2212,7 +2213,7 @@ var cnames_active = {
   "murmansk": "interfluve.github.io/Murmansk",
   "music": "ronyeh.github.io/music",
   "musicca": "musiccajs.github.io/website",
-  "musickit": "exerra.github.io/node-musickit-api", // noCF
+  "musickit": "exerra.github.io/node-musickit-api-docs", // noCF
   "musicord": "arthurleo13.github.io/musicord-documentation",
   "mutable": "mutable-tools.github.io/MutableJS",
   "mutative": "unadlib.github.io/mutative",
