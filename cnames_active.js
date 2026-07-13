@@ -212,6 +212,7 @@ var cnames_active = {
   "antropodigital": "antropodigital.github.io/CirculodeEstudio",
   "antwar": "antwarjs.github.io/antwar",
   "anukul": "anukul.github.io",
+  "anytoany": "anytoany.kumarprem22855.workers.dev",
   "aoi": "aoijs.github.io/website",
   "aom": "scarych.github.io/aom",
   "aomex": "aomex.github.io",
