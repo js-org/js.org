@@ -3135,7 +3135,7 @@ var cnames_active = {
   "snip": "ashy-sea-0a4231910.5.azurestaticapps.net", // noCF
   "snipify": "cname.vercel-dns.com", // noCF
   "snippet": "jmas.github.io/gist",
-  "snode":"snodeproject.github.io/snode.js.org", 
+  "snode": "snodeproject.github.io/snode.js.org",
   "snow": "cname.vercel-dns.com", // noCF
   "snowbox": "yuxizhe.github.io/snowbox",
   "snowflake": "theinternetfolks.github.io/snowflake",
