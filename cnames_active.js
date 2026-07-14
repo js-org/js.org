@@ -2330,7 +2330,8 @@ var cnames_active = {
   "nodelink": "nodelink-docs.netlify.app",
   "nodeppt": "ksky521.github.io/nodeppt",
   "noderize": "cretezy.github.io/noderize",
-  "noflux": "hosting.gitbook.io", // noCF
+  "noflux": "hosting.gitbook.io", // noCF,
+  "norum": "cmbostudio-cloud.github.io",
   "nomic": "basicer.github.io/nomic.js-ui",
   "nomini": "nonnorm.github.io/nomini",
   "noo": "uyouthe.github.io/noo",
