@@ -1170,6 +1170,7 @@ var cnames_active = {
   "fetch-json": "center-key.github.io/fetch-json",
   "fetch-the-parrot": "fetch-the-parrot.netlify.app",
   "fff": "importantimport.github.io/fff",
+  "fhir-questionnaire-builder": "sergeymosyakov.github.io/fhir-questionnaire-builder",
   "fidel": "fidelxyz.github.io",
   "fikri": "ikrydev.github.io/fikri.js.org",
   "file-extension": "ultirequiem.github.io/file-extension",
