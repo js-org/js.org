@@ -957,7 +957,7 @@ var cnames_active = {
   "drago": "samolo-h3ll0.github.io/dragojs",
   "dragonizedpizza": "dragonizedpizza.github.io/ImageEditor",
   "dragonman225": "dragonman225.github.io",
-  "drapp": "drapp-gold.vercel.app",
+  "drapp": "cname.vercel-dns.com", // noCF
   "draw": "skillzzjesse.github.io/draw",
   "drawie": "cname.vercel-dns.com", // noCF
   "dream": "joeleeofficial.github.io/dream",
