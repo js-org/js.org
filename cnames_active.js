@@ -1380,8 +1380,8 @@ var cnames_active = {
   "gridl": "klattiation.github.io/gridl",
   "griffel": "microsoft.github.io/griffel",
   "groundstate": "axtk.github.io/groundstate",
-  "groupme": "groupme-js.github.io/website",
   "groundup-society": "thebaddestbusseyxo.github.io",
+  "groupme": "groupme-js.github.io/website",
   "growfield": "fivefifteen.github.io/growfield",
   "grpcity": "cname.vercel-dns.com", // noCF
   "grtblog": "grtsinry43.github.io/grtblog",
