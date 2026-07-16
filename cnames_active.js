@@ -909,7 +909,6 @@ var cnames_active = {
   "dlite": "hosting.gitbook.com",
   "dls-docs": "shadowplay1.github.io/dls-docs",
   "dmitry": "dmitry-zaets.github.io",
-  "drapp": "cname.vercel-dns.com",
   "dna": "dna-engine.github.io/dna-engine",
   "dnd-layout": "fpsqdb.github.io/dnd-layout",
   "doars": "doars.github.io/doars",
@@ -958,6 +957,7 @@ var cnames_active = {
   "drago": "samolo-h3ll0.github.io/dragojs",
   "dragonizedpizza": "dragonizedpizza.github.io/ImageEditor",
   "dragonman225": "dragonman225.github.io",
+  "drapp": "drapp-gold.vercel.app",
   "draw": "skillzzjesse.github.io/draw",
   "drawie": "cname.vercel-dns.com", // noCF
   "dream": "joeleeofficial.github.io/dream",
