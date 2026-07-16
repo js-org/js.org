@@ -44,6 +44,7 @@ var cnames_active = {
   "101": "7anshuai.github.io/js101", // noCF? (don´t add this in a new PR)
   "131": "netrvin.github.io",
   "140513": "140513.github.io",
+  "1api": "yourtion.github.io/one-api",
   "1auth": "1auth.pages.dev",
   "1c": "oknosoft.github.io/1c",
   "1diaboliko84": "1diaboliko84.github.io",
@@ -636,6 +637,7 @@ var cnames_active = {
   "comptime": "feathers-studio.github.io/comptime.ts", // noCF
   "computed": "krmax44.github.io/rollup-plugin-computed",
   "concursos": "mteyss.github.io/concursos", // noCF? (don´t add this in a new PR)
+  "condense": "condense.pages.dev",
   "conductor": "hosting.gitbook.com",
   "confetti": "tsparticles.github.io/confetti",
   "conflict": "conflictjs.github.io/site",
@@ -1008,7 +1010,9 @@ var cnames_active = {
   "eco": "quick-eco.netlify.app",
   "ecstar": "ecstar-js.github.io/Ecstar",
   "ed2k": "sunnyli.github.io/ed2k.js",
+  "edge-aura": "cname.vercel-dns.com", // noCF
   "ef": "classicoldsong.github.io/ef.js.org",
+  "effect-graphql": "egriff38.github.io/effect-graphql",
   "effectful": "awto.github.io/effectfuljs",
   "effects": "effectsjs.github.io/effectsjs",
   "eggsy": "eggsywashere.github.io",
@@ -1438,7 +1442,6 @@ var cnames_active = {
   "hasura-om": "mrspartak.github.io/hasura-om",
   "hawiah": "cname.vercel-dns.com", // noCF
   "hay": "hayjs.github.io/hay.js.org",
-  "hayao": "hellojanpacan.github.io/hayao.js.org",
   "hbase": "adaltas.github.io/node-hbase-docs",
   "hcs": "kimcore.github.io/hcs.js", // noCF
   "heartseekers": "rajington.github.io/heartseekers", // noCF? (don´t add this in a new PR)
@@ -1711,6 +1714,7 @@ var cnames_active = {
   "jwjawa": "cmdjwj.github.io",
   "jwt-autorefresh": "cchamberlain.github.io/jwt-autorefresh", // noCF? (don´t add this in a new PR)
   "jwtonline": "boneyt92.github.io/jwtonline",
+  "jz": "dy.github.io/jz",
   "kafka": "tulios.github.io/kafkajs",
   "kaguwo": "kaguwos-portfolio.netlify.app",
   "kahoot": "na-west1.surge.sh",
@@ -2209,7 +2213,7 @@ var cnames_active = {
   "murmansk": "interfluve.github.io/Murmansk",
   "music": "ronyeh.github.io/music",
   "musicca": "musiccajs.github.io/website",
-  "musickit": "exerra.github.io/node-musickit-api", // noCF
+  "musickit": "exerra.github.io/node-musickit-api-docs", // noCF
   "musicord": "arthurleo13.github.io/musicord-documentation",
   "mutable": "mutable-tools.github.io/MutableJS",
   "mutative": "unadlib.github.io/mutative",
@@ -3132,6 +3136,7 @@ var cnames_active = {
   "snip": "ashy-sea-0a4231910.5.azurestaticapps.net", // noCF
   "snipify": "cname.vercel-dns.com", // noCF
   "snippet": "jmas.github.io/gist",
+  "snode": "snodeproject.github.io/snode.js.org",
   "snow": "cname.vercel-dns.com", // noCF
   "snowbox": "yuxizhe.github.io/snowbox",
   "snowflake": "theinternetfolks.github.io/snowflake",
@@ -3251,6 +3256,7 @@ var cnames_active = {
   "steven": "stpeng.github.io",
   "sticksy": "kovart.github.io/sticksy",
   "stino": "stinobe.github.io/Stino",
+  "stoatly": "stoatlyjs.github.io/website",
   "stockings": "kgroat.github.io/stockings",
   "stoneyallen": "stoneyallen.github.io",
   "stonk": "anujsharma141.github.io/stonk",
@@ -3377,6 +3383,7 @@ var cnames_active = {
   "template-pro": "template-pro.github.io",
   "templates.linksharer": "linksharer.github.io/Templates", // noCF
   "temporal-fns": "rhnorskov.github.io/temporal-fns",
+  "tenrai": "cname.vercel-dns.com", // noCF
   "tenvoy": "togatech.github.io/tEnvoy",
   "tequila": "tequila-js.github.io",
   "term-web": "zhw2590582.github.io/term-web",
