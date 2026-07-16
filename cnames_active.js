@@ -2068,6 +2068,7 @@ var cnames_active = {
   "menu": "cohenerickson.github.io/menu",
   "meow": "meow-js.github.io",
   "mercury": "henryqw.github.io/mercury",
+  "mericserdar": "merics3bucket.s3-website-eu-west-1.amazonaws.com",
   "merkletree": "miguelmota.github.io/merkletreejs",
   "merkur": "mjancarik.github.io/merkur",
   "mern": "iammohaiminul.github.io/MERNjs",
