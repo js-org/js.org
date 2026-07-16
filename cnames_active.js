@@ -918,7 +918,6 @@ var cnames_active = {
   "docs.light": "hosting.gitbook.com", // noCF
   "docs.modmail": "botstudios.github.io/modmail.js-docs", // noCF
   "docs.mosaic": "hosting.gitbook.io", // noCF
-  "docs.webpack": "cname.mintlify-dns.com", // noCF
   "docsify": "docsifyjs.github.io/docsify",
   "docsify-es": "sidval.github.io/docsify-es",
   "docsify-ru": "truepatch.github.io/docsify-ru",
@@ -3760,7 +3759,7 @@ var cnames_active = {
   "webmc": "michaljaz.github.io/webmc",
   "webminer": "web-miner.github.io",
   "webos": "dynamiccode1.github.io/webos",
-  "webpack": "webpack.github.io/webpack.js.org",
+  "webpack": "cname.vercel-dns.com",
   "webpack-config-plugins": "namics.github.io/webpack-config-plugins",
   "webpack-inspect": "alexmost.github.io/webpack-inspect",
   "webpack-stats": "v-webpack.netlify.app",
