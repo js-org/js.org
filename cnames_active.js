@@ -2422,6 +2422,7 @@ var cnames_active = {
   "openkey": "microlinkhq.github.io/openkey",
   "opennext": "opennextjs.github.io/docs",
   "openrecord": "philwaldmann.github.io/openrecord",
+  "openswmm6": "joaquinalvarado-py.github.io/OpenSWMM6-3D"
   "opentrivia-guide": "turtlepaw.github.io/trivia-docs",
   "opentype": "nodebox.github.io/opentype.js",
   "opk": "cname.vercel-dns.com", // noCF
