@@ -554,10 +554,11 @@ var cnames_active = {
   "choo": "choo-js.github.io",
   "chordthing": "ifons42.github.io/chordthing",
   "chris": "christopher-hayes.github.io/chris",
+  "chrisfrank": "chrisfrank.github.io",
   "chrismendis": "chrismendis.github.io", // noCF? (don´t add this in a new PR)
   "christo": "christoga.github.io/js-org", // noCF? (don´t add this in a new PR)
   "christopher": "marekkobida.github.io/christopher",
-  "chrisfrank": "chrisfrank.github.io",
+
   "chronos": "espinielli.github.io/chronos", // noCF? (don´t add this in a new PR)
   "chronosis": "jack-weilage.github.io/chronosis",
   "citation": "citation-js.github.io/site",
