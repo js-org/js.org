@@ -587,6 +587,7 @@ var cnames_active = {
   "clockwork": "clockworkdev.github.io/ClockworkWebsite",
   "cluster-eventdispatcher": "chickendevlab.github.io/cluster-eventdispatcher",
   "clusterize": "nexts.github.io/Clusterize.js",
+  "clutchle": "rushanmehta.github.io",
   "cmbhackjs2013": "cmbjs.github.io/cmbHackjs2013",
   "cml": "didi.github.io/chameleon",
   "cn.history": "doodlewind.github.io/jshistory-cn", // noCF
