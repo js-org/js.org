@@ -1888,6 +1888,7 @@ var cnames_active = {
   "linkify": "hypercontext.github.io/linkifyjs",
   "linksharer": "linksharer.github.io/linksharer.js.org",
   "lion": "ing-bank.github.io/lion",
+  "lions": "jdlions.github.io",
   "lips": "jcubic.github.io/lips",
   "lipsum": "llxlr.github.io/lipsum.js",
   "liquid-ajax-cart": "evgeniymukhamedjanov.github.io/liquid-ajax-cart",
