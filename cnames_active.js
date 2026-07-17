@@ -1,3 +1,9 @@
 var cnames_active = {
-    "christfran": "christfran.github.io"
+    "a": "a.github.io",
+    "aaron": "aaron.github.io",
+    "abhi": "abhi.github.io",
+    // ... all other existing entries ...
+    "christfrank": "christfrank.github.io",
+    // ... rest of entries ...
+    "zyy": "zyy.github.io"
 }
