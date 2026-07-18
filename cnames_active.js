@@ -1,7 +1,7 @@
 /*
  ***** ACTIVE SUBDOMAINS
  * ***********************
- *
+ *"plyback": "Sherilyn234.github.io/my-js-tools",
  * for the moment the following subdomains are active
  * file a pull request to add your own GitHub Page
  *
