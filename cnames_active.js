@@ -628,7 +628,6 @@ var cnames_active = {
   "commandkit": "cname.vercel-dns.com", // noCF
   "commerce": "commerce-js.github.io/commerce.js",
   "commitlint": "conventional-changelog.github.io/commitlint",
-  "plyback": "Sherilyn234.github.io/my-js-tools",
   "common-utils": "common-utils.netlify.app",
   "common-utils-pkg": "iamdevlinph.github.io/common-utils-pkg",
   "compactr": "compactr.github.io",
