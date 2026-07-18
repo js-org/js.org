@@ -507,6 +507,7 @@ var cnames_active = {
   "car": "pakastin.github.io/car",
   "carakan": "masnormen.github.io/carakanjs",
   "cardtabs": "blekerfeld.github.io/CardTabs",
+  "careeros": "arishmukarram.github.io/CareerOS",
   "cargo": "herber.github.io/cargo",
   "caridad-ui": "decaldas.github.io/caridad-ui",
   "carloseduardo": "karllossouza.github.io/carloseduardo.js.org",
