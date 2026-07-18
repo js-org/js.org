@@ -1736,7 +1736,7 @@ var cnames_active = {
   "kelvinho": "kelvin2go.github.io", // noCF? (don´t add this in a new PR)
   "kewitz": "kewitz.github.io",
   "key": "bernzrdo.github.io/key",
-  "keydash": "react-js-sigma-ten.vercel.app",
+  "keydash": "react-js-sigma-ten.vercel.app", // noCF
   "keyframe-refiner": "keyframe-refiner.github.io/keyframe-refiner",
   "keypress": "rumkin.github.io/keypress.js.org",
   "keystone": "keystone-ssg.netlify.app",
