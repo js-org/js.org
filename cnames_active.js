@@ -245,6 +245,7 @@ var cnames_active = {
   "arithmy": "arithmy.netlify.app",
   "arkenv": "cname.vercel-dns.com", // noCF
   "aroma": "aaveshdev.github.io/aroma.js-website",
+  "arrendaqui": "cname.vercel-dns.com"
   "arshad": "arshadmhabib.github.io",
   "artalk": "artalk-demo.qwqaq.com", // noCF
   "artery": "arteryjs.github.io/gh-pages", // noCF? (don´t add this in a new PR)
