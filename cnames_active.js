@@ -139,6 +139,7 @@ var cnames_active = {
   "airtable-plus": "victorhahn.github.io/airtable-plus",
   "ais": "yunyoujun.github.io/ais.js",
   "aitt": "aittssal.github.io/aitt",
+  "aitools": "makejone2026.github.io/ai-tools-hub",
   "ajaxable": "artf.github.io/ajaxable",
   "ajinkya": "steelx.github.io/ajinkyaxjs",
   "ajv": "epoberezkin.github.io/ajv",
