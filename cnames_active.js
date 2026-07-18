@@ -1,7 +1,7 @@
 /*
  ***** ACTIVE SUBDOMAINS
  * ***********************
- *"plyback": "Sherilyn234.github.io/my-js-tools",
+ *
  * for the moment the following subdomains are active
  * file a pull request to add your own GitHub Page
  *
@@ -39,6 +39,7 @@
 
 var cnames_active = {
   "": "js-org.github.io",
+  "plyback": "Sherilyn234.github.io/my-js-tools",
   "01mz": "01mz.github.io",
   "100dayz": "deadcoder0904.github.io/100dayz",
   "101": "7anshuai.github.io/js101", // noCF? (don´t add this in a new PR)
