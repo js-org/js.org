@@ -2178,6 +2178,7 @@ var cnames_active = {
   "mongez": "hassanzohdy.github.io/mongez-docs",
   "monkberry": "monkberry.github.io",
   "mono": "mono-js.github.io/mono",
+  "mosbuild": "kpoly099.github.io/mosbuild",
   "monocle": "cname.vercel-dns.com", // noCF
   "monopay": "alitnk.github.io/monopay",
   "montage": "montagejs.github.io",
