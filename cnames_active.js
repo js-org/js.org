@@ -3869,6 +3869,7 @@ var cnames_active = {
   "youtube-lite": "9oelm.github.io/youtube-lite",
   "yt-dislikes-viewer": "pgamerx.github.io/yt-dislikes-viewer",
   "yt-quota-manager": "arnav-kr.github.io/yt-quota-manager",
+  "ytz-arrivals": "mustafasyed13.github.io/billy-bishop-arrivals",
   "yu": "yuxizhe.github.io/yu",
   "yuko": "notmarx.github.io/Yuko-Website",
   "yunite": "discify.github.io/yunite.js",
