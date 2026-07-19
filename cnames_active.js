@@ -1935,6 +1935,7 @@ var cnames_active = {
   "lrclib": "igorwastaken.github.io/lrclib-api",
   "lribeiro": "lmribeiro.github.io",
   "ls": "links-js.github.io",
+  "lt": "leoleecn007.github.io",
   "lua2js": "xiangnanscu.github.io/lua2js", // noCF
   "lucia": "lucia.netlify.app",
   "luciascript": "luciascript.netlify.app",
