@@ -3232,7 +3232,7 @@ var cnames_active = {
   "standard-resource": "hosting.gitbook.com", // noCF
   "standard-tool": "finom.github.io/standard-tool",
   "stapp": "tinkoffcreditsystems.github.io/stapp",
-  "stardust-store": "stardustofficial.github.io/Stardust-store",
+  "starduststore": "stardustofficial.github.io/Stardust-store",
   "starfield": "annikav9.github.io/starfield.js",
   "starify-discord": "dastormer.github.io/starify-discord",
   "starratio": "starratio.github.io/star-ratio", // noCF
