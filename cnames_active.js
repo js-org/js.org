@@ -3060,6 +3060,7 @@ var cnames_active = {
   "shovel": "bikeshaving.github.io/shovel",
   "shrimple": "shrimplejs.github.io",
   "shuffle": "vestride.github.io/Shuffle",
+  "stardust-store": "stardustofficial.github.io/Stardust-store",
   "shuwan9": "shuwan9.github.io",
   "sidebearing-trim": "peksi.github.io/sidebearing-trim",
   "sidekick": "cname.vercel-dns.com", // noCF
