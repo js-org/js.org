@@ -131,6 +131,7 @@ var cnames_active = {
   "ahooks-v2": "ahooks-v2.surge.sh",
   "aider": "tjz101.github.io/aider-js-pages",
   "aiga": "cname.vercel-dns.com", // noCF
+  "aigcs": "docs-17t.pages.dev",
   "ailcr": "cname.vercel-dns.com", // noCF
   "aiml": "jesobreira.github.io/aimljs",
   "air": "openwebstudio.github.io/Air-Docs",
@@ -919,7 +920,6 @@ var cnames_active = {
   "docs.light": "hosting.gitbook.com", // noCF
   "docs.modmail": "botstudios.github.io/modmail.js-docs", // noCF
   "docs.mosaic": "hosting.gitbook.io", // noCF
-  "docs.webpack": "cname.mintlify-dns.com", // noCF
   "docsify": "docsifyjs.github.io/docsify",
   "docsify-es": "sidval.github.io/docsify-es",
   "docsify-ru": "truepatch.github.io/docsify-ru",
@@ -1531,7 +1531,7 @@ var cnames_active = {
   "id": "andae.github.io/id",
   "id.single-spa": "single-spa.github.io/id.single-spa.js.org", // noCF
   "id3": "jeff-tian.github.io/id3",
-  "identicraft": "cname.vercel-dns.com", // noCF
+  "identicraft": "itsshiroharu.github.io",
   "idettman": "idettman.github.io",
   "idmp": "ha0z1.github.io/idmp",
   "ienumerable": "mbasso.github.io/ienumerable",
@@ -2866,6 +2866,7 @@ var cnames_active = {
   "resumebuilder": "resumebuilder-dracu.netlify.app",
   "retalk": "cname-china.vercel-dns.com", // noCF
   "rete": "retejs.github.io",
+  "reticulum": "reticulum.statichost.page", // noCF
   "reto": "awmleer.github.io/reto",
   "retos": "cname.vercel-dns.com", // noCF
   "retro-sound": "learosema.github.io/retro-sound",
@@ -3640,6 +3641,7 @@ var cnames_active = {
   "vbuild": "egoist.github.io/vbuild",
   "vdcs": "hopae-official.github.io/Verifiable-Digital-Credentials",
   "ve-table": "xiguaxigua.github.io/ve-table",
+  "vectorless": "vectorless-js.pages.dev",
   "vega": "cname.vercel-dns.com", // noCF
   "velite": "zce.github.io/velite",
   "velt": "veltjs.github.io",
@@ -3761,7 +3763,7 @@ var cnames_active = {
   "webmc": "michaljaz.github.io/webmc",
   "webminer": "web-miner.github.io",
   "webos": "dynamiccode1.github.io/webos",
-  "webpack": "webpack.github.io/webpack.js.org",
+  "webpack": "cname.vercel-dns.com", // noCF
   "webpack-config-plugins": "namics.github.io/webpack-config-plugins",
   "webpack-inspect": "alexmost.github.io/webpack-inspect",
   "webpack-stats": "v-webpack.netlify.app",
