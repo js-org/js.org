@@ -38,7 +38,6 @@
  */
 
 var cnames_active = {
-  "iconly": "rajpolu.github.io"
   "": "js-org.github.io",
   "01mz": "01mz.github.io",
   "100dayz": "deadcoder0904.github.io/100dayz",
@@ -1534,6 +1533,7 @@ var cnames_active = {
   "identicraft": "itsshiroharu.github.io",
   "idettman": "idettman.github.io",
   "idmp": "ha0z1.github.io/idmp",
+  "iconly": "rajpolu.github.io",
   "ienumerable": "mbasso.github.io/ienumerable",
   "iffe": "iffe-team.github.io",
   "iflow": "unadlib.github.io/iflow",
