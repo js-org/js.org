@@ -1930,6 +1930,7 @@ var cnames_active = {
   "lookup": "lookup-js-org.pages.dev",
   "loopy": "kmjnnhyk.github.io/loopy",
   "lostyle": "rtsao.github.io/lostyle",
+  "lottie": "sanyok12345.github.io/lottie.js",
   "lottiefy": "pd4d10.github.io/lottiefy",
   "loxt": "loxt.netlify.app",
   "lps": "mauris.github.io/lps.js.org",
