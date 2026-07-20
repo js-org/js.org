@@ -1749,6 +1749,7 @@ var cnames_active = {
   "kimera": "ultirequiem.github.io/kimera",
   "kindavishal": "kindavishal.netlify.app",
   "kiranremmarasu": "kiranremmarasu.github.io/kiranremmarasu",
+  "kirilog": "cname.vercel-dns.com", // noCF
   "kiss": "sisyphuszheng.github.io/kiss",
   "kite": "kite-js.github.io/kite",
   "kiwidocs": "arguiot.github.io/KiwiDocs",
