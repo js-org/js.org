@@ -1788,6 +1788,7 @@ var cnames_active = {
   "kowalski": "k0walslk1.github.io",
   "kra": "kra-framework.github.io/kra-suite", // noCF
   "krds": "krds-community.github.io/krds-react",
+  "krdscn-ui": "krdscn-ui.github.io/ui",
   "kremling": "canopytax.github.io/kremling.js.org",
   "krida": "elvisdsz.github.io/krida",
   "kshitij": "kshitij98.github.io",
