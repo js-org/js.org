@@ -2335,6 +2335,7 @@ var cnames_active = {
   "nodeppt": "ksky521.github.io/nodeppt",
   "noderize": "cretezy.github.io/noderize",
   "noflux": "hosting.gitbook.io", // noCF
+  "nol-license": "https://nol-license.js.org",
   "nomic": "basicer.github.io/nomic.js-ui",
   "nomini": "nonnorm.github.io/nomini",
   "noo": "uyouthe.github.io/noo",
