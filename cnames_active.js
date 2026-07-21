@@ -3506,7 +3506,7 @@ var cnames_active = {
   "turboprisma": "cname.vercel-dns.com", // noCF
   "tusk": "cname.vercel-dns.com", // noCF
   "tvsphere": "sulemanringem.github.io/TVSphere",
-  "tw-themes": "kevinast.github.io/noCF
+  "tw-themes": "kevinast.github.io/noCF",
   "twallpaper": "crashmax-dev.github.io/twallpaper",
   "twcopy": "the94air.github.io/twcopy",
   "tweed": "tweedjs.github.io",
