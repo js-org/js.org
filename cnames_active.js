@@ -3458,6 +3458,7 @@ var cnames_active = {
   "toonkit": "manojgowda89.github.io/toonkit",
   "topbot": "resign05.github.io/TobWebsite",
   "topgg": "topgg-node-sdk-docs.netlify.app",
+  "torch": "cname.vercel-dns.com", // noCF
   "tori": "boostcode.github.io/torijs",
   "torlondev": "torlondev.github.io",
   "torpedo": "divysrivastava.github.io/torpedo.js",
