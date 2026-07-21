@@ -2180,6 +2180,7 @@ var cnames_active = {
   "monaco-yaml": "monaco-yaml.netlify.app",
   "mongez": "hassanzohdy.github.io/mongez-docs",
   "monkberry": "monkberry.github.io",
+  "monkeytiles": "nit-sorus.github.io/monkeytiles",
   "mono": "mono-js.github.io/mono",
   "monocle": "cname.vercel-dns.com", // noCF
   "monopay": "alitnk.github.io/monopay",
