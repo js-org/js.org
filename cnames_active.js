@@ -3775,6 +3775,7 @@ var cnames_active = {
   "wechatpay": "thenorthmemory.github.io/wechatpay.js.org",
   "wechaty": "wechaty-js-org.pages.dev",
   "wedgetail": "wedgetail.netlify.app",
+  "weektodo": "weektodo-fbd68c.gitlab.io",
   "weekly": "xdimh.github.io/weekly",
   "welcome": "edapm.github.io/welcomejs",
   "welson": "gnh1201.github.io/welsonjs",
