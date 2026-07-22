@@ -129,6 +129,7 @@ var cnames_active = {
   "ahnotification": "ahmadhayyan.github.io/ahnotification.js",
   "ahooks": "ahooks.surge.sh",
   "ahooks-v2": "ahooks-v2.surge.sh",
+  "aia": "venerfruet.github.io/aia",
   "aider": "tjz101.github.io/aider-js-pages",
   "aiga": "cname.vercel-dns.com", // noCF
   "aigcs": "docs-17t.pages.dev",
