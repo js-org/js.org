@@ -2439,6 +2439,7 @@ var cnames_active = {
   "oscillator": "lukehorvat.github.io/super-oscillator",
   "oslo": "pilcrowonpaper.github.io/oslo",
   "osom": "kikobeats.github.io/osom",
+  "ossintel": "cname.vercel-dns.com", // noCF
   "ot": "otjs-docs.github.io",
   "otimizacao": "jmmccota.github.io/Otimizacao",
   "otp": "60-min-code.github.io/gen-totp",
