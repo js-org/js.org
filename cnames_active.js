@@ -1,4 +1,4 @@
-/*
+"aikol": "cname.vercel-dns.com",/*
  ***** ACTIVE SUBDOMAINS
  * ***********************
  *
