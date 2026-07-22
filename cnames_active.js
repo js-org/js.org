@@ -1,4 +1,4 @@
-"aikol": "cname.vercel-dns.com",/*
+
  ***** ACTIVE SUBDOMAINS
  * ***********************
  *
@@ -133,6 +133,7 @@ var cnames_active = {
   "aiga": "cname.vercel-dns.com", // noCF
   "aigcs": "docs-17t.pages.dev",
   "ailcr": "cname.vercel-dns.com", // noCF
+  "aikol": "cname.vercel-dns.com",
   "aiml": "jesobreira.github.io/aimljs",
   "air": "openwebstudio.github.io/Air-Docs",
   "airesearch": "vtempest.github.io/ai-research-agent",
