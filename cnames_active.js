@@ -3167,6 +3167,7 @@ var cnames_active = {
   "sonny": "sonnylazuardi.github.io", // noCF? (don´t add this in a new PR)
   "sop": "kuboschek.github.io/sop",
   "soukai": "noeldemartin.github.io/soukai",
+  "soul-matrix": "cname.vercel-dns.com",
   "soundcloud-scraper": "soundcloud-scraper.netlify.app",
   "soundpad": "mcpe-pc.github.io/soundpad.js",
   "sourcemod": "infinixius.github.io/sourcemod.js",
