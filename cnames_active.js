@@ -3037,8 +3037,8 @@ var cnames_active = {
   "sfml": "xadillax.github.io/node-sfml",
   "shadng": "alimjanablikim.github.io/sng-ui",
   "shandler": "hosting.gitbook.io", // noCF
-  "shardix": "euandrelucas.github.io/shardix",
   "sharding": "infinitytmbots.github.io/discord-hybrid-sharding",
+  "shardix": "euandrelucas.github.io/shardix",
   "shardwire": "unloopedmido.github.io/shardwire",
   "share": "jeff-tian.github.io/weshare",
   "sharec": "lamartire.github.io/sharec",
