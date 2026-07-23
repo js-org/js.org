@@ -1563,6 +1563,7 @@ var cnames_active = {
   "infinite-tree": "cheton.github.io/infinite-tree",
   "infoooze": "devxprite.github.io/infoooze",
   "ingot": "ingotjs.github.io",
+  "ing_suarez": "Rau232s.github.io",
   "inig": "inig.github.io",
   "initial-wu": "initial-wu.github.io",
   "injectify": "injectify.github.io/docs",
