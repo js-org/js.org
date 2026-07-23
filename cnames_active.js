@@ -2963,7 +2963,7 @@ var cnames_active = {
   "sanddance": "danmarshall.github.io/SandDance",
   "sandeepkhandewale": "learner1024.github.io",
   "sandmine": "spreehertz.github.io/Sandmine.js",
-  "sarvshreshthcoachingclasses": "cname.vercel-dns.com",
+  "sarvshreshthcoachingclasses": "cname.vercel-dns.com", // noCF
   "saso": "huruji.github.io/saso",
   "sass": "medialize.github.io/playground.sass.js", // noCF? (don´t add this in a new PR)
   "satori": "satorijs.github.io/docs",
