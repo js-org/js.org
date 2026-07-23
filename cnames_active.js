@@ -1562,8 +1562,8 @@ var cnames_active = {
   "inference": "cname.vercel-dns.com", // noCF
   "infinite-tree": "cheton.github.io/infinite-tree",
   "infoooze": "devxprite.github.io/infoooze",
+  "ing_suarez": "rau232s.github.io",
   "ingot": "ingotjs.github.io",
-  "ing_suarez": "Rau232s.github.io",
   "inig": "inig.github.io",
   "initial-wu": "initial-wu.github.io",
   "injectify": "injectify.github.io/docs",
