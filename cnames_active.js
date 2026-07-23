@@ -785,7 +785,7 @@ var cnames_active = {
   "daysfromnow": "pedrokost.github.io/daysfromnow", // noCF? (don´t add this in a new PR)
   "dbar": "dbarjs.github.io",
   "dbash": "oocydo.github.io/dbash",
-  "dashkit": "cname.vercel-dns.com",
+  "dashkit": "cname.vercel-dns.com", // noCF
   "dbd": "dbdjs.github.io/website",
   "dbo": "z3ta.github.io/dbo", // noCF? (don´t add this in a new PR)
   "dbothook": "dbots-pkg.github.io/dbothook-website",
