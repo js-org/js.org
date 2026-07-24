@@ -1761,6 +1761,7 @@ var cnames_active = {
   "kloner": "fivefifteen.github.io/kloner",
   "kmeans": "jeff-tian.github.io/k-means",
   "knc": "chaituknag.github.io",
+  "knf": "officialkrunalkumar.github.io/Karuna-Nidhi-Foundation",
   "ko": "ko25july.github.io/ko.js.org",
   "ko.mobx": "cname.vercel-dns.com", // noCF
   "ko.redux": "deminoth.github.io/redux", // noCF
@@ -1790,6 +1791,7 @@ var cnames_active = {
   "krds": "krds-community.github.io/krds-react",
   "krdscn-ui": "krdscn-ui.github.io/ui",
   "kremling": "canopytax.github.io/kremling.js.org",
+  "krunalkumar": "officialkrunalkumar.github.io/Krunalkumar",
   "krida": "elvisdsz.github.io/krida",
   "kshitij": "kshitij98.github.io",
   "kst": "lucaelin.github.io/KST", // noCF
