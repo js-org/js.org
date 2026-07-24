@@ -1997,12 +1997,12 @@ var cnames_active = {
   "marcelo": "marcelooggero.github.io/bootstrap",
   "mareact": "ipudu.github.io/mareact",
   "mariateresazamoragomez": "josecarloszamoragomez.github.io/Maria-Teresa-Zamora-G-mez",
-  "maridreycupcakes": "danyflores.github.io/MariDrey-CupCakes",
-  "marie": "marie-js.github.io/MARIE.js",
-  "mark": "henry-luo.github.io/mark",
-  "markbox": "markbox.netlify.app",
-  "markdown-html": "pj-568.github.io/MARKDOWN.HTML",
-  "markdown-notepad": "jz222.github.io/markdown-notepad",
+  "mrinjamul": "mrinjamul.github.io/mrinjamul.js.org",
+    "mrduck": "kooklook213-arch.github.io",
+    "mrm": "mrmjs.netlify.app",
+    "mrn": "binggg.github.io/mrn", // noCF? (don´t add this in a new PR)
+    "mrpluto": "mrwanashraf",
+    "mrwanashraf": "mrwanashraf.github.io",
   "markdownify": "amitmerchant1990.github.io/electron-markdownify",
   "marked": "cname.vercel-dns.com", // noCF
   "markit": "saurabhiam.github.io/markit",
