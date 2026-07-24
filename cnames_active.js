@@ -1790,8 +1790,8 @@ var cnames_active = {
   "krds": "krds-community.github.io/krds-react",
   "krdscn-ui": "krdscn-ui.github.io/ui",
   "kremling": "canopytax.github.io/kremling.js.org",
-  "krunalkumar": "officialkrunalkumar.github.io/Krunalkumar",
   "krida": "elvisdsz.github.io/krida",
+  "krunalkumar": "officialkrunalkumar.github.io/Krunalkumar",
   "kshitij": "kshitij98.github.io",
   "kst": "lucaelin.github.io/KST", // noCF
   "ktm": "developers-nepal.github.io/ktmjs",
