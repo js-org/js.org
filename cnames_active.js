@@ -2079,6 +2079,7 @@ var cnames_active = {
   "meshesha": "meshesha.github.io",
   "metadata": "oknosoft.github.io/metadata.js",
   "metapulse": "noyjoyluckclub.github.io/metapulse",
+  "mesopota": "lblisseAbstractArt.github.io/Meiso-potage-flash-collection",
   "metascraper": "microlinkhq.github.io/metascraper",
   "meth": "meth-meth-method.github.io/meth",
   "metho": "jonrandy.github.io/metho",
