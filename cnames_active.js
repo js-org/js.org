@@ -2197,12 +2197,12 @@ var cnames_active = {
   "mp3tag": "eidoriantan.github.io/mp3tag.js",
   "mpe": "weareroli.github.io/mpejs", // noCF? (don´t add this in a new PR)
   "mpe": "weareroli.github.io/mpejs", // noCF? (don´t add this in a new PR)
-  "mrduck": "kooklook213-arch.github.io",
   "mrinjamul": "mrinjamul.github.io/mrinjamul.js.org",
-  "mrinjamul": "mrinjamul.github.io/mrinjamul.js.org",
-  "mrm": "mrmjs.netlify.app",
-  "mrn": "binggg.github.io/mrn", // noCF? (don´t add this in a new PR)
-  "mrpluto": "mrpluto.github.io",
+    "mrduck": "kooklook213-arch.github.io",
+    "mrm": "mrmjs.netlify.app",
+    "mrn": "binggg.github.io/mrn", // noCF? (don´t add this in a new PR)
+    "mrpluto": "mrwanashraf",
+    "mrwanashraf": "mrwanashraf.github.io",
   "mrwanashraf": "mrwanashraf.github.io",
   "mscgen": "sverweij.github.io/mscgen_js",
   "msemoji": "zdalez.github.io/msemoji",
