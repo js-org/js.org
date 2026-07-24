@@ -108,6 +108,7 @@ var cnames_active = {
   "adon988": "adon988.github.io",
   "adv": "advjs.github.io",
   "advancedrpc": "advancedrpc.github.io",
+  "aelnetwork": "ael-network.onrender.com", // noCF
   "aerogel": "noeldemartin.github.io/aerogel",
   "aesthetic": "esthetic-docs.netlify.app",
   "affiliate": "russellsteadman.github.io/affiliate",
