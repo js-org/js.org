@@ -2080,6 +2080,7 @@ var cnames_active = {
   "metadata": "oknosoft.github.io/metadata.js",
   "metapulse": "noyjoyluckclub.github.io/metapulse",
   "metascraper": "microlinkhq.github.io/metascraper",
+  "mesopota": "lblisseAbstractArt.github.io/Meiso-potage-flash-collection",
   "meth": "meth-meth-method.github.io/meth",
   "metho": "jonrandy.github.io/metho",
   "metools": "yimogit.github.io/metools-plugin",
