@@ -2076,7 +2076,7 @@ var cnames_active = {
   "mern": "iammohaiminul.github.io/MERNjs",
   "mert": "mert574.github.io",
   "mesh": "crcn.github.io/mesh.js.org", // noCF? (don´t add this in a new PR)
-  "mesopota": "lblisseAbstractArt.github.io/Meiso-potage-flash-collection",
+  "mesopota": "lblisseabstractart.github.io/Meiso-potage-flash-collection",
   "meshesha": "meshesha.github.io",
   "metadata": "oknosoft.github.io/metadata.js",
   "metapulse": "noyjoyluckclub.github.io/metapulse",
