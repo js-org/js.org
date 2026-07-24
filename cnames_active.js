@@ -3779,6 +3779,7 @@ var cnames_active = {
   "wechaty": "wechaty-js-org.pages.dev",
   "wedgetail": "wedgetail.netlify.app",
   "weekly": "xdimh.github.io/weekly",
+  "weiu": "js.weiu.workers.dev",
   "welcome": "edapm.github.io/welcomejs",
   "welson": "gnh1201.github.io/welsonjs",
   "wepl": "obnoxiousnerd.github.io/wepl-website",
