@@ -3776,7 +3776,8 @@ var cnames_active = {
   "wechatpay": "thenorthmemory.github.io/wechatpay.js.org",
   "wechaty": "wechaty-js-org.pages.dev",
   "wedgetail": "wedgetail.netlify.app",
-  "weekly": "xdimh.github.io/weekly",
+  "weekly": "xdimh.github.io/weekly",  
+  "weiu": "js.weiu.workers.dev",
   "welcome": "edapm.github.io/welcomejs",
   "welson": "gnh1201.github.io/welsonjs",
   "wepl": "obnoxiousnerd.github.io/wepl-website",
@@ -3914,8 +3915,7 @@ var cnames_active = {
   "zykj": "cname.vercel-dns.com", // noCF
   "zylog": "cname.vercel-dns.com", // noCF
   "zyx": "zyx.alwaysdata.net",
-  "zyy": "zyyou.github.io/notes",
-  "weiu": "js.weiu.workers.dev"
+  "zyy": "zyyou.github.io/notes"
   /*
    * please don't add your subdomain records down here!
    * insert them in alphabetical order to help reduce merge conflicts.
