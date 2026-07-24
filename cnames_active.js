@@ -752,7 +752,6 @@ var cnames_active = {
   "d4": "joelburget.github.io/d4",
   "daily.tmr": "tmr-daily.netlify.app", // noCF
   "daisy": "warengonzaga.github.io/daisy.js",
-  "deoit": "deoit.vercel.app",
   "daksh0225": "daksh0225.github.io",
   "damo": "damodharanj.github.io",
   "damon233": "whatdamon.github.io",
@@ -811,6 +810,7 @@ var cnames_active = {
   "denisvieira": "denisvieira05.github.io",
   "deno-algorithm": "hylerrix.github.io/deno-algorithm",
   "deno-tutorial": "hylerrix.github.io/deno-tutorial",
+  "deoit": "deoit.vercel.app",
   "deox": "deox.netlify.app",
   "deportes": "andreapins.github.io/Deportes-Gacetis",
   "deputy": "ry4nolson.github.io/Deputy", // noCF? (don´t add this in a new PR)
