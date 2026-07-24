@@ -447,6 +447,7 @@ var cnames_active = {
   "browserless": "microlinkhq.github.io/browserless",
   "brum": "romantic-noyce-67d6ee.netlify.app",
   "bs": "cname.vercel-dns.com", // noCF
+  "bseeportal": "cname.vercel-dns.com", // noCF
   "bt": "mldonkey.github.io/bt",
   "bud": "roots-bud.netlify.app",
   "bui": "kjantzer.github.io/bui",
