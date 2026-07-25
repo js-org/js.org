@@ -110,6 +110,7 @@ var cnames_active = {
   "advancedrpc": "advancedrpc.github.io",
   "aerogel": "noeldemartin.github.io/aerogel",
   "aesthetic": "esthetic-docs.netlify.app",
+  "aeoncorex": "aeoncorex.pages.dev",
   "affiliate": "russellsteadman.github.io/affiliate",
   "affinityhub": "s1m0np1.github.io/affinity-script-installer",
   "afilters": "dmytrohoi.github.io/afilters.js",
