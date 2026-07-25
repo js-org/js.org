@@ -3641,8 +3641,8 @@ var cnames_active = {
   "vanya": "cname.vercel-dns.com", // noCF
   "vapory": "vaporyjs.github.io",
   "various": "variousjs.github.io/website",
-  "vasu-birthday": "cname.vercel-dns.com", // noCF,
   "varvara": "marcmarine.github.io/varvara",
+  "vasu-birthday": "cname.vercel-dns.com", // noCF,
   "vayne": "vaynejs.github.io",
   "vbuild": "egoist.github.io/vbuild",
   "vdcs": "hopae-official.github.io/Verifiable-Digital-Credentials",
