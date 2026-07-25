@@ -136,7 +136,7 @@ var cnames_active = {
   "aiml": "jesobreira.github.io/aimljs",
   "air": "openwebstudio.github.io/Air-Docs",
   "airesearch": "vtempest.github.io/ai-research-agent",
-  "airtable-plus": "victorhahn.github.io/airtable-plus",
+  "airtable-plus": "ctorhahn.github.io/airtable-plus",
   "ais": "yunyoujun.github.io/ais.js",
   "aitt": "aittssal.github.io/aitt",
   "ajaxable": "artf.github.io/ajaxable",
@@ -3659,7 +3659,6 @@ var cnames_active = {
   "veza": "kyranet.github.io/veza",
   "vfm": "meshesha.github.io/VisualFormMaker.github.io",
   "viav": "brandondyer64.github.io/viav",
-  "vithai": "vithai.caolevithai.workers.dev",
   "vicis": "r37r0m0d3l.github.io/vicis",
   "vico": "bohdantkachenko.github.io/vico", // noCF? (don´t add this in a new PR)
   "vidclip": "cname.vercel-dns.com", // noCF
@@ -3682,6 +3681,7 @@ var cnames_active = {
   "vitery": "viteryjs.github.io/vitery",
   "viteshell": "henryhale.github.io/viteshell",
   "vitestory": "melishev.github.io/vitestory",
+  "vithai": "vithai.caolevithai.workers.dev",
   "vitiate": "mjkoo.github.io/vitiate",
   "vk-x": "vk-x.github.io",
   "vlite": "vlitejs.github.io",
