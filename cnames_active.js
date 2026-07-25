@@ -3625,7 +3625,6 @@ var cnames_active = {
   "validation-br": "cname.vercel-dns.com", // noCF
   "validator": "ppoffice.github.io/validator.js", // noCF? (don´t add this in a new PR)
   "valine": "xcss.github.io/valine",
-	"vasu-birthday": "vasu-birthday-surprise.vercel.app", // noCF
   "valirator": "massive-angular.github.io/valirator",
   "valitype": "fontebasso.github.io/valitype",
   "valobot": "misly16.github.io/ValoBotsite",
@@ -3642,6 +3641,7 @@ var cnames_active = {
   "vanya": "cname.vercel-dns.com", // noCF
   "vapory": "vaporyjs.github.io",
   "various": "variousjs.github.io/website",
+  "vasu-birthday": "cname.vercel-dns.com", // noCF,
   "varvara": "marcmarine.github.io/varvara",
   "vayne": "vaynejs.github.io",
   "vbuild": "egoist.github.io/vbuild",
