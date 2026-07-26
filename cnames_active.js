@@ -3680,6 +3680,7 @@ var cnames_active = {
   "visual": "idescat.github.io/visual",
   "visualize-it": "kevinast.github.io/visualize-it",
   "visualized-execution": "codaisseur.github.io/visualized-execution",
+  "visualtechstudio": "ab-black.github.io/visualtech-studio",
   "visualnovel": "selcher.github.io/visualnoveljs", // noCF? (don´t add this in a new PR)
   "vite-plugin-readable-classnames": "teplostanski.github.io/vite-plugin-readable-classnames",
   "vitedge": "vitedge.netlify.app",
