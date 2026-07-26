@@ -3891,6 +3891,7 @@ var cnames_active = {
   "zaimu": "zaimu.netlify.app", // noCF
   "zaporizhzhia": "zaporizhzhiajs.github.io",
   "zare": "ismailbinmujeeb.github.io/zare",
+  "zazeza": "bihefa33-project.github.io/zazeza67",
   "zed": "paul-browne.github.io/Zed-framework",
   "zen": "tomelam.github.io/zen",
   "zeno": "zeno-security.github.io/zeno",
