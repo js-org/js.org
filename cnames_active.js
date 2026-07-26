@@ -1706,6 +1706,7 @@ var cnames_active = {
   "jsx2html": "maddouri.github.io/jsx2html",
   "jsxcad": "jsxcad.github.io",
   "juancarlosqr": "juancarlosqr.github.io", // noCF? (don´t add this in a new PR)
+  "julearning": "b29d57d4ccd9ca23.vercel-dns-017.com", // noCF
   "julianflancheros": "julianflancheros.github.io/Prueba",
   "july": "onlyjuly.github.io",
   "juno-106": "stevengoldberg.github.io/juno-106", // noCF? (don´t add this in a new PR)
