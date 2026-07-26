@@ -3923,7 +3923,6 @@ var cnames_active = {
   "zyy": "zyyou.github.io/notes",
   "adityadwipra.js.org": "adityadwipra.github.io/website-profile"
 
-  
   /*
    * please don't add your subdomain records down here!
    * insert them in alphabetical order to help reduce merge conflicts.
