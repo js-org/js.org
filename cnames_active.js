@@ -1754,6 +1754,7 @@ var cnames_active = {
   "kiss": "sisyphuszheng.github.io/kiss",
   "kite": "kite-js.github.io/kite",
   "kiwidocs": "arguiot.github.io/KiwiDocs",
+  "kinged": "dohnuht.github.io/kinged",
   "kkapi": "cname.vercel-dns.com", // noCF
   "kkna": "importantimport.github.io/kkna",
   "klasa": "dirigeants.github.io/klasa-website",
