@@ -3469,6 +3469,7 @@ var cnames_active = {
   "torpedo": "divysrivastava.github.io/torpedo.js",
   "trace": "andreasmadsen.github.io/trace",
   "trackymouse": "1j01.github.io/tracky-mouse",
+  "trading-toolkit": "trading-toolkit-web.pages.dev",
   "trakas": "trakas.github.io",
   "translate": "xuanzhi33.github.io/translate.js",
   "transposer": "francesco-dipi.github.io/transposer",
