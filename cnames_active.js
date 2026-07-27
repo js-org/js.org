@@ -3282,6 +3282,7 @@ var cnames_active = {
   "stress": "julindra.github.io/stress.js",
   "structure": "hosting.gitbook.io", // noCF
   "strudel": "strudeljs.netlify.app",
+  "strudelblock": "strudelcode.github.io/StrudelBlock-IDE",
   "strygwyr": "sinkaroid.github.io/strygwyr",
   "stuck": "linuxenko.github.io/unstuck-webpack",
   "studios": "botstudios.github.io/Studios",
