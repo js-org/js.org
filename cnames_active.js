@@ -1523,6 +1523,7 @@ var cnames_active = {
   "hyperform": "hyperform.github.io",
   "hyperhtml-styleguide": "albertosantini.github.io/hyperhtml-styleguide", // noCF
   "hypixel": "hypixelts.netlify.app",
+  "hyx": "heyuxuanyydsmy.github.io",
   "i18n-collector": "gmaxlev.github.io/i18n-collector",
   "i18n4v": "shibukawa.github.io/i18n4v",
   "iagrib": "iagrib.github.io",
