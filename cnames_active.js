@@ -1528,7 +1528,7 @@ var cnames_active = {
   "icecast": "jucrouzet.github.io/icecast.js",
   "ices": "icesjs.github.io/ices",
   "icones": "icones.netlify.app",
-  "iconode": "cname.vercel-dns.com",
+  "iconode": "cname.vercel-dns.com", // noCF
   "id": "andae.github.io/id",
   "id.single-spa": "single-spa.github.io/id.single-spa.js.org", // noCF
   "id3": "jeff-tian.github.io/id3",
