@@ -810,6 +810,7 @@ var cnames_active = {
   "denisvieira": "denisvieira05.github.io",
   "deno-algorithm": "hylerrix.github.io/deno-algorithm",
   "deno-tutorial": "hylerrix.github.io/deno-tutorial",
+  "deoit": "cname.vercel-dns.com", // noCF
   "deox": "deox.netlify.app",
   "deportes": "andreapins.github.io/Deportes-Gacetis",
   "deputy": "ry4nolson.github.io/Deputy", // noCF? (don´t add this in a new PR)
@@ -1401,6 +1402,7 @@ var cnames_active = {
   "guildedbot": "guilded-bot-npm.github.io/Guilded-Bot-Docs",
   "guildedts": "cname.vercel-dns.com", // noCF
   "guildeno": "guildeno.github.io/guildeno",
+  "guildgate": "kavtuai.github.io/guildgate-docs",
   "guilds": "guildsjs.github.io/guilds.js",
   "guilherme": "guilhermedelemos.github.io/guilherme",
   "guillotine": "matiasgagliano.github.io/guillotine", // noCF? (don´t add this in a new PR)
@@ -2268,6 +2270,7 @@ var cnames_active = {
   "nemo": "paypal.github.io/nemo", // noCF? (don´t add this in a new PR)
   "neo4": "janpeter.github.io/neo4js",
   "neox": "neoxn3il.netlify.app",
+  "nera": "seebaermichi.github.io/nera-website",
   "nestcord": "globalartinc.github.io/nestcord",
   "nested-error": "ultirequiem.github.io/nested_error",
   "nestjs-toolkit": "globalartinc.github.io/nestjs-toolkit",
@@ -2516,6 +2519,7 @@ var cnames_active = {
   "penn-sdk": "pennlabs.github.io/penn-sdk-node", // noCF? (don´t add this in a new PR)
   "penpow": "penpow.github.io",
   "pentris": "justinjc.github.io/pentris2", // noCF? (don´t add this in a new PR)
+  "perceptible": "anubhavsrivastava.github.io/perceptible",
   "pereira": "pereirajs.github.io/pagina",
   "periplum": "periplum.github.io/periplum.js.org",
   "permissions": "danielnewell.github.io/permissions",
@@ -3039,6 +3043,7 @@ var cnames_active = {
   "shadng": "alimjanablikim.github.io/sng-ui",
   "shandler": "hosting.gitbook.io", // noCF
   "sharding": "infinitytmbots.github.io/discord-hybrid-sharding",
+  "shardix": "euandrelucas.github.io/shardix",
   "shardwire": "unloopedmido.github.io/shardwire",
   "share": "jeff-tian.github.io/weshare",
   "sharec": "lamartire.github.io/sharec",
@@ -3469,6 +3474,7 @@ var cnames_active = {
   "trakas": "trakas.github.io",
   "translate": "xuanzhi33.github.io/translate.js",
   "transposer": "francesco-dipi.github.io/transposer",
+  "trayce": "dmstoykov.github.io/trayce",
   "tree-cli": "yangshun.github.io/tree-node-cli",
   "treebark": "danmarshall.github.io/treebark",
   "trestle": "whiskeedev.github.io/trestle",
@@ -3773,7 +3779,7 @@ var cnames_active = {
   "webpack-stats": "v-webpack.netlify.app",
   "webpeer": "nuzulul.github.io/webpeerjs",
   "websheet": "pierreavn.github.io/websheetjs",
-  "webview": "webviewjs.github.io/webview",
+  "webview": "cname.mintlify.builders",
   "wechatpay": "thenorthmemory.github.io/wechatpay.js.org",
   "wechaty": "wechaty-js-org.pages.dev",
   "wedgetail": "wedgetail.netlify.app",
