@@ -1164,6 +1164,7 @@ var cnames_active = {
   "favium": "cname.vercel-dns.com", // noCF
   "fcanvas": "fcanvas.github.io/docs",
   "fcbosque": "cronopio.github.io/fcbosque", // noCF? (don´t add this in a new PR)
+  "fccardsclash": "fccardsclash.netlify.app",
   "fe": "xcss.github.io/FE",
   "feature-u": "kevinast.github.io/feature-u",
   "feeble": "feeblejs.github.io/feeble",
