@@ -3919,6 +3919,7 @@ var cnames_active = {
   "zyh": "zyh-chopper.github.io/zyh",
   "zykj": "cname.vercel-dns.com", // noCF
   "zylog": "cname.vercel-dns.com", // noCF
+  "fccardsclash": "fccardsclash.netlify.app",
   "zyx": "zyx.alwaysdata.net",
   "zyy": "zyyou.github.io/notes"
   /*
