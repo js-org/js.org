@@ -1017,7 +1017,6 @@ var cnames_active = {
   "effect-graphql": "egriff38.github.io/effect-graphql",
   "effectful": "awto.github.io/effectfuljs",
   "effects": "effectsjs.github.io/effectsjs",
-  "eggsy": "eggsywashere.github.io",
   "ehsan": "ehsanfox.github.io",
   "eight": "cnzc.github.io/eight",
   "eiphop": "eiphop.netlify.app",
