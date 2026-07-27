@@ -3113,7 +3113,7 @@ var cnames_active = {
   "sketch": "keiww.github.io/sketch",
   "skiff": "priyanshu-1622.github.io/skiff-website",
   "skillsync": "adityasugandhi.github.io/skillsync-mcp",
-  "skiyee": "netlify-cname.xingpingcn.top", // noCF
+  "skiyee": "skiyee.pages.dev",
   "skratch": "websyncs.github.io/skratch",
   "sksamim": "esksamim.github.io/sksamim",
   "skyle": "skylejs.github.io/skyle",
