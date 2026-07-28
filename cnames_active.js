@@ -1017,7 +1017,6 @@ var cnames_active = {
   "effect-graphql": "egriff38.github.io/effect-graphql",
   "effectful": "awto.github.io/effectfuljs",
   "effects": "effectsjs.github.io/effectsjs",
-  "eggsy": "eggsywashere.github.io",
   "ehsan": "ehsanfox.github.io",
   "eight": "cnzc.github.io/eight",
   "eiphop": "eiphop.netlify.app",
@@ -1192,6 +1191,7 @@ var cnames_active = {
   "first-accord": "sticknologic.github.io/First-Accord",
   "fish": "cdaringe.github.io/fish",
   "five": "jackdcrawford.github.io/five",
+  "flagcloth": "cname.vercel-dns.com", // noCF
   "flamecord": "flamexode.github.io/flamecord",
   "flap": "slurmulon.github.io/flap",
   "flare": "nsaunders.github.io/flare",
@@ -3115,7 +3115,7 @@ var cnames_active = {
   "sketch": "keiww.github.io/sketch",
   "skiff": "priyanshu-1622.github.io/skiff-website",
   "skillsync": "adityasugandhi.github.io/skillsync-mcp",
-  "skiyee": "netlify-cname.xingpingcn.top", // noCF
+  "skiyee": "skiyee.pages.dev",
   "skratch": "websyncs.github.io/skratch",
   "sksamim": "esksamim.github.io/sksamim",
   "skyle": "skylejs.github.io/skyle",
