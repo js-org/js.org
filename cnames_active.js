@@ -1106,6 +1106,7 @@ var cnames_active = {
   "eta": "alias.zeit.co", // noCF
   "eth": "eth-js.github.io/eth-dev-tools",
   "ethavatar": "filips123.github.io/EthAvatar.JS",
+  "etude": "onurcelep.github.io/etude",
   "euc": "wnda.github.io/euc",
   "euclid": "anandthakker.github.io/euclid", // noCF? (don´t add this in a new PR)
   "eva": "eva-engine.github.io",
