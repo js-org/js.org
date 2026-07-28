@@ -1446,6 +1446,7 @@ var cnames_active = {
   "hawiah": "cname.vercel-dns.com", // noCF
   "hay": "hayjs.github.io/hay.js.org",
   "hbase": "adaltas.github.io/node-hbase-docs",
+  "healersub": "yongiiljimae-svg.github.io",
   "hcs": "kimcore.github.io/hcs.js", // noCF
   "heartseekers": "rajington.github.io/heartseekers", // noCF? (don´t add this in a new PR)
   "heax": "coderosh.github.io/heaxjs", // noCF
