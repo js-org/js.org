@@ -1865,6 +1865,7 @@ var cnames_active = {
   "level": "xv700.github.io/level",
   "lf": "lf112.github.io",
   "lgs": "lgsturkiye.github.io/lgs",
+  "luyende": "ducphamle04-ui.github.io/luyendethi",
   "li": "mattsimmons1.github.io/li",
   "libcord": "tovade.github.io/libcord",
   "libcurl": "libcurl.pages.dev",
