@@ -2185,7 +2185,7 @@ var cnames_active = {
   "monkberry": "monkberry.github.io",
   "mono": "mono-js.github.io/mono",
   "monocle": "cname.vercel-dns.com", // noCF
-  "monoic": "cname.vercel-dns.com", //noCF
+  "monoic": "cname.vercel-dns.com", // noCF
   "monopay": "alitnk.github.io/monopay",
   "montage": "montagejs.github.io",
   "moonlightdb": "ff8204bc04-hosting.gitbook.io", // noCF
