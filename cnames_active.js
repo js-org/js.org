@@ -2969,7 +2969,7 @@ var cnames_active = {
   "sanddance": "danmarshall.github.io/SandDance",
   "sandeepkhandewale": "learner1024.github.io",
   "sandmine": "spreehertz.github.io/Sandmine.js",
-  "sarphite-game-studios": "Biosgamer0409/sarphite-game-studios",
+  "sarphite-game-studios": "biosgamer0409.github.io/sarphite-game-studios",
   "saso": "huruji.github.io/saso",
   "sass": "medialize.github.io/playground.sass.js", // noCF? (don´t add this in a new PR)
   "satori": "satorijs.github.io/docs",
