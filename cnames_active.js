@@ -3589,6 +3589,7 @@ var cnames_active = {
   "upset": "upsetjs.github.io",
   "uptime": "intelligo-systems.github.io/uptime.js",
   "urmom": "urmomjs.github.io/urmom.js",
+  "usb-mvd": "alinafoloverska.github.io",
   "use-bootstrap": "use-bootstrap.github.io",
   "use-bootstrap-dialog": "use-bootstrap.github.io/use-bootstrap-dialog",
   "use-bootstrap-select": "use-bootstrap.github.io/use-bootstrap-select",
