@@ -354,6 +354,7 @@ var cnames_active = {
   "bcklib": "zyyou.github.io/npm-modules",
   "bd": "cyberghxst.github.io/bdjs-guide",
   "be": "davidep87.github.io/bejs.github.io",
+  "ben": "0708090.github.io",
   "beaga": "beagajs.github.io/beaga",
   "beamwind": "kenoxa.github.io/beamwind",
   "bear": "bearplan.github.io/VitePress.BearPlan",
