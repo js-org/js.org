@@ -1915,6 +1915,7 @@ var cnames_active = {
   "livemarkup": "forhadkhan.github.io/livemarkup",
   "livenotif": "siffreinsg.github.io/livenotif",
   "livevalidate": "thedhanawada.github.io/LiveValidateJS",
+  "lizard": "demenigeco.github.io/lizard.js.org",
   "lizzy": "stoyan.github.io/Lizzy.js",
   "llama-ui": "promptpasture.github.io/llama.ui",
   "lmadactyl": "hosting.gitbook.io", // noCF
@@ -2013,6 +2014,7 @@ var cnames_active = {
   "markmap": "gera2ld.github.io/markmap-lib",
   "markmapu": "markmap-universe.github.io",
   "markmsmith": "markmsmith.github.io",
+  "markupshift": "malopestorres.github.io/markupshift",
   "markvis": "geekplux.github.io/markvis",
   "markvis-editor": "geekplux.github.io/markvis-editor",
   "markxmind": "jinzcdev.github.io/markxmind",
