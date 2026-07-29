@@ -2013,6 +2013,7 @@ var cnames_active = {
   "markmap": "gera2ld.github.io/markmap-lib",
   "markmapu": "markmap-universe.github.io",
   "markmsmith": "markmsmith.github.io",
+  "markupshift": "malopestorres.github.io/markupshift",
   "markvis": "geekplux.github.io/markvis",
   "markvis-editor": "geekplux.github.io/markvis-editor",
   "markxmind": "jinzcdev.github.io/markxmind",
