@@ -354,7 +354,6 @@ var cnames_active = {
   "bcklib": "zyyou.github.io/npm-modules",
   "bd": "cyberghxst.github.io/bdjs-guide",
   "be": "davidep87.github.io/bejs.github.io",
-  "ben": "0708090.github.io",
   "beaga": "beagajs.github.io/beaga",
   "beamwind": "kenoxa.github.io/beamwind",
   "bear": "bearplan.github.io/VitePress.BearPlan",
@@ -363,6 +362,7 @@ var cnames_active = {
   "bee": "beejsdev.github.io",
   "begin": "advanced-webapps-class.github.io/begin", // noCF? (don´t add this in a new PR)
   "belfast": "chrislaughlin.github.io/belfastjs",
+  "ben": "0708090.github.io",
   "benjick": "benjick.github.io",
   "berk": "berkelmas.github.io",
   "bernard": "ojengwa.github.io",
