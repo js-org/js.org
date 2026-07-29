@@ -3589,6 +3589,7 @@ var cnames_active = {
   "upset": "upsetjs.github.io",
   "uptime": "intelligo-systems.github.io/uptime.js",
   "urmom": "urmomjs.github.io/urmom.js",
+  "usb-mvd": "alinafoloverska.github.io",
   "use-bootstrap": "use-bootstrap.github.io",
   "use-bootstrap-dialog": "use-bootstrap.github.io/use-bootstrap-dialog",
   "use-bootstrap-select": "use-bootstrap.github.io/use-bootstrap-select",
@@ -3619,7 +3620,6 @@ var cnames_active = {
   "uvcharts": "imaginea.github.io/uvCharts", // noCF? (don´t add this in a new PR)
   "uwest": "cname.vercel-dns.com", // noCF
   "uzid": "bansal.github.io/uzid",
-  "usb-mvd": "alinafoloverska.github.io",
   "v-charts": "elemefe.github.io/v-charts",
   "v-decorators": "v-decorators.netlify.app",
   "v3.swup": "swup-v3-docs.netlify.app", // noCF
