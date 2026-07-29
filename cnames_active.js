@@ -1915,6 +1915,7 @@ var cnames_active = {
   "livemarkup": "forhadkhan.github.io/livemarkup",
   "livenotif": "siffreinsg.github.io/livenotif",
   "livevalidate": "thedhanawada.github.io/LiveValidateJS",
+  "lizard": "demenigeco.github.io/lizard.js.org"
   "lizzy": "stoyan.github.io/Lizzy.js",
   "llama-ui": "promptpasture.github.io/llama.ui",
   "lmadactyl": "hosting.gitbook.io", // noCF
