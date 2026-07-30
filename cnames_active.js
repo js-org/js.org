@@ -1110,6 +1110,7 @@ var cnames_active = {
   "euclid": "anandthakker.github.io/euclid", // noCF? (don´t add this in a new PR)
   "eva": "eva-engine.github.io",
   "eval": "jshawl.github.io/eval", // noCF? (don´t add this in a new PR)
+    "evalonwinners": "trueboys1000-dotcom.github.io",
   "event-storage": "albe.github.io/node-event-storage",
   "eventstore": "adrai.github.io/node-eventstore", // noCF? (don´t add this in a new PR)
   "everything": "ajays97.github.io/Everything.js",
