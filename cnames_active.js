@@ -1529,6 +1529,7 @@ var cnames_active = {
   "iamsurajdc": "iamsurajdc.github.io",
   "icecast": "jucrouzet.github.io/icecast.js",
   "ices": "icesjs.github.io/ices",
+  "ichatai-website": "muhammadsufyanzafar.github.io/ichatai-website",
   "icones": "icones.netlify.app",
   "iconode": "cname.vercel-dns.com", // noCF
   "id": "andae.github.io/id",
