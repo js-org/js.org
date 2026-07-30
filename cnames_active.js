@@ -1881,6 +1881,7 @@ var cnames_active = {
   "likebeta": "likebeta.github.io/likebeta.js.org",
   "lim": "lim.netlify.app",
   "limitrr": "eddiejibson.github.io/limitrr",
+  "lineazk": "lineazk.github.com",
   "linemapper": "noobishsvk.github.io/LineMapper",
   "lineup": "lineupjs.github.io",
   "lineup-lite": "lineup-lite.netlify.app",
