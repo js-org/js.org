@@ -3930,4 +3930,6 @@ var cnames_active = {
    * insert them in alphabetical order to help reduce merge conflicts.
    * <3
    */
-}
+
+  "ziploot": "ziploot.vercel.app",
+};
