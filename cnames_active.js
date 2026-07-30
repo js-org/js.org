@@ -2984,6 +2984,7 @@ var cnames_active = {
   "scadies": "kysolva.github.io/scadies", // noCF
   "scafix": "cname.vercel-dns.com", // noCF
   "scancell": "russellsteadman.github.io/scancell",
+  "scarlet": "namnu5858.github.io",
   "scene": "daybrush.github.io/scenejs-page",
   "schema": "hosting.gitbook.com",
   "schema-render": "barrior.github.io/schema-render",
