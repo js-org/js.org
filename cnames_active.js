@@ -473,7 +473,7 @@ var cnames_active = {
   "bytemd": "bytemd.netlify.app",
   "c": "cocobear.github.io",
   "c-3po": "ttag-org.github.io/c-3po",
-  "code-forge-coding": "code-forge-coding.netlify.app",
+  "code-forge": "code-forge-coding.netlify.app",
   "c-installer": "llenax.github.io/c-installer",
   "c1200": "c1200.github.io",
   "cable": "whatgoodisaroad.github.io/cablejs", // noCF? (don´t add this in a new PR)
