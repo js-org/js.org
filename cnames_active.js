@@ -3186,6 +3186,7 @@ var cnames_active = {
   "spacebot": "spacebot2.github.io",
   "spark": "hammerheadstudios.github.io/SparkCode",
   "spark-handler": "cname.vercel-dns.com", // noCF
+    "sparkdrift": "wenxiuen130719.github.io/sparkdrift",
   "sparkle-ripple": "yuyake-litrain.github.io/sparkle-ripple-web",
   "spax": "crossjs.github.io/spax-site",
   "spectragram": "adrianengine.github.io/jquery-spectragram", // noCF? (don´t add this in a new PR)
