@@ -1301,6 +1301,7 @@ var cnames_active = {
   "genpasswd": "exos.github.io/genpasswd", // noCF? (don´t add this in a new PR)
   "geolocation-promise": "js-pugilist.github.io/geolocation-promise",
   "geonet": "carolinaisslaying.github.io/geonet",
+  "geop-application": "chirpy1230.github.io/up-geop-portal",
   "george": "georgeyue.github.io/george",
   "geotargeting": "sntran.github.io/geotargeting",
   "geppetto": "matthijsgroen.github.io/geppetto",
