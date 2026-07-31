@@ -3819,6 +3819,7 @@ var cnames_active = {
   "wk": "alperr.github.io/wk",
   "wolvesville": "wolvesvillejs.github.io/website",
   "wonderest": "wonderest.github.io",
+  "wolwes": "portfolio-six-mauve-31.vercel.app",
   "wonderfulcv": "wonderfulcv.netlify.app",
   "woodsman": "haximilian.github.io/woodsman",
   "wooyun": "jiji262.github.io/wooyun_articles",
