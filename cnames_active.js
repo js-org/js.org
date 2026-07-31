@@ -478,6 +478,7 @@ var cnames_active = {
   "cable": "whatgoodisaroad.github.io/cablejs", // noCF? (don´t add this in a new PR)
   "cachi": "eddiejibson.github.io/cachi",
   "cacophony": "ctoth.github.io/cacophony",
+  "cadenceanimator": "alycoulibal2-sketch.github.io/Cadence-Animator",
   "caffeine": "ccrraaiigg.github.io/caffeine",
   "caicai": "qianxunclub.github.io/CaiCai",
   "caissa": "agentx-cgn.github.io/caissa",
