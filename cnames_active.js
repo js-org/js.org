@@ -752,6 +752,7 @@ var cnames_active = {
   "d4": "joelburget.github.io/d4",
   "daily.tmr": "tmr-daily.netlify.app", // noCF
   "daisy": "warengonzaga.github.io/daisy.js",
+  "daknorvi": "daknorvi.onrender.com",
   "daksh0225": "daksh0225.github.io",
   "damo": "damodharanj.github.io",
   "damon233": "whatdamon.github.io",
