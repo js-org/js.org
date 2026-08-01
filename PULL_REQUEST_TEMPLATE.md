@@ -1,4 +1,14 @@
-<!--
+## Your subdomain
+animehub
+
+## Project URL
+https://aditya99gaming.github.io/Anime-Hub/
+
+## Project description
+AnimeHub is an open-source website built with HTML, CSS, and JavaScript. It demonstrates modern web development techniques and is hosted on GitHub Pages.
+
+## Why do you want a js.org domain?
+To provide a shorter, easier-to-remember URL for this open-source project.<!--
 
 Thanks for creating a pull request to request a new subdomain from JS.ORG
 
