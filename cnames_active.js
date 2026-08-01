@@ -580,6 +580,7 @@ var cnames_active = {
   "clearlyelevated": "clearlyelevated.github.io",
   "clerc": "apex-loadbalancer.netlify.app",
   "clevercord": "theanidox.github.io/Clevercord",
+  "clickai": "prashant100500.github.io/clickai",
   "clickforhelp": "clickforhelp.netlify.app",
   "clickhouse": "depyronick.github.io/clickhouse-client",
   "clientworker": "chenyfan.github.io/ClientWorker",
