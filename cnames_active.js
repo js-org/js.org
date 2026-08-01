@@ -3366,6 +3366,7 @@ var cnames_active = {
   "talk": "zonayedpca.github.io/talk.js",
   "talker": "secondstreet.github.io/talker.js", // noCF? (don´t add this in a new PR)
   "tama": "etk.gitlab.io",
+  "tamim": "tamim-social.onrender.com",
   "tampered-console": "hosting.gitbook.io", // noCF
   "tanmay": "tan-mayhem.github.io/tanmay",
   "tanok": "brabadu.github.io/tanok",
