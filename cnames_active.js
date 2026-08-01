@@ -2555,6 +2555,7 @@ var cnames_active = {
   "pidoc": "smapiot.github.io/pidoc",
   "pig-game": "dhanushp.github.io/pig-game",
   "pigeon-maps": "pigeon-maps.netlify.app",
+  "pi": "t66koni3.up.railway.app",
   "piii": "piiijs.github.io/piii.js.org",
   "pika": "xiaopika.github.io/pika.js.org",
   "piling": "flekschas.github.io/piling.js",
