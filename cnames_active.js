@@ -643,6 +643,7 @@ var cnames_active = {
   "conductor": "hosting.gitbook.com",
   "confetti": "tsparticles.github.io/confetti",
   "conflict": "conflictjs.github.io/site",
+  "conflux": "maybeizen.github.io/conflux",
   "conglo": "schwarzkopfb.github.io/conglo",
   "connect.stacks": "cname.vercel-dns.com", // noCF
   "consent": "datamart.github.io/Consent",
@@ -2422,6 +2423,7 @@ var cnames_active = {
   "ongaku": "anshuman-verma.github.io/ongaku",
   "onii": "oniijs.github.io/onii",
   "onlang": "rajatasusual.github.io/on-lang",
+  "oofp": "oofp.pages.dev",
   "oox": "lipingruan.github.io/oox",
   "opcommands": "02550ce547-hosting.gitbook.io", // noCF
   "opds": "kartoffelchipss.github.io/opds-ts",
