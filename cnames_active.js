@@ -2548,6 +2548,7 @@ var cnames_active = {
   "phpjs": "binarykorra.github.io/phpJS",
   "phx": "phxjs.github.io",
   "physics-demos": "lachlandk.github.io/physics-demos",
+  "pi": "t66koni3.up.railway.app",
   "piano": "ronyeh.github.io/piano",
   "picard": "picardjs.github.io",
   "picsim": "mazko.github.io/picsim.js",
