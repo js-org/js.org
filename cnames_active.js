@@ -600,6 +600,7 @@ var cnames_active = {
   "cnc": "cncjs.github.io/cncjs.org",
   "cndrew": "codemaster233.github.io",
   "cobalt-kit": "bernzrdo.github.io/cobalt-kit",
+  "cockpit": "noluyorabi.github.io/cockpit-claude",
   "cocy": "krmax44.github.io/cocy",
   "code-tour": "code-tour.netlify.app",
   "codeberry": "cname.vercel-dns.com", // noCF
