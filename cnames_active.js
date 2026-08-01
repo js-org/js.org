@@ -1329,6 +1329,7 @@ var cnames_active = {
   "gitcrate": "gitcrate.github.io",
   "gitdown": "gc.github.io/gitdown",
   "githubtouch": "github-touch.github.io",
+  "ghoutodstudio": "ghoutodstudio.github.io",
   "gitinit": "silly-shirley-8e44e3.netlify.app",
   "gitme": "gitme.netlify.app",
   "gitmoji": "jeff-tian.github.io/gitmoji",
