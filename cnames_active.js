@@ -643,6 +643,7 @@ var cnames_active = {
   "conductor": "hosting.gitbook.com",
   "confetti": "tsparticles.github.io/confetti",
   "conflict": "conflictjs.github.io/site",
+  "conflux": "maybeizen.github.io/conflux",
   "conglo": "schwarzkopfb.github.io/conglo",
   "connect.stacks": "cname.vercel-dns.com", // noCF
   "consent": "datamart.github.io/Consent",
