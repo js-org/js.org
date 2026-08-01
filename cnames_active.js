@@ -3741,6 +3741,7 @@ var cnames_active = {
   "vuelidate": "vuelidate.netlify.app",
   "vuelog": "myst729.github.io/Vuelog",
   "vuepress-theme-cool": "friendlyuser.github.io/vuepress-theme-cool",
+  "vuhub": "cname.vercel-dns.com",
   "vuikit": "vuikit.netlify.app",
   "vulkava": "hosting.gitbook.io", // noCF
   "vxt": "noah227.github.io/vxt-docs",
