@@ -200,7 +200,7 @@ var cnames_active = {
   "anime": "meguminsama.github.io/anime",
   "animecursor": "shuninyu.github.io/anime-cursor",
   "animegan": "tonylianlong.github.io/AnimeGAN.js",
-  "animehub": "https://aditya99gaming.github.io/Anime-Hub/",
+  "animehub": "aditya99gaming.github.io/Anime-Hub",
   "animo": "thrivingkings.github.io/animo",
   "animorph": "claudiobmgrtnr.github.io/animorph",
   "ankareport": "ankareport.github.io",
