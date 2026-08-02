@@ -1474,6 +1474,7 @@ var cnames_active = {
   "hindenburg": "skeldjs.github.io/Hindenburg",
   "hippy": "zoomchan-cxj.github.io/Hippy",
   "hiren": "hiren2001.github.io/hiren.js.org",
+  "hirepilot": "atharvbidri500-beep.github.io/final",
   "hiteshsubnani": "hiteshsubnani0128.github.io/hiteshsubnani",
   "hiven": "hivenapp.github.io/hiven.js",
   "hje": "compositejs.github.io/hje",
