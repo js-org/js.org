@@ -1797,6 +1797,7 @@ var cnames_active = {
   "kremling": "canopytax.github.io/kremling.js.org",
   "krida": "elvisdsz.github.io/krida",
   "kshitij": "kshitij98.github.io",
+  "krypt": "cname.vercel-dns.com", // noCF
   "kst": "lucaelin.github.io/KST", // noCF
   "ktm": "developers-nepal.github.io/ktmjs",
   "kucos": "kucosjs.github.io",
