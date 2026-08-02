@@ -23,6 +23,7 @@ var cnames_restricted = [
     "account(s)",
     "ad(s)",
     "admin(s)",
+    "ai",
     "answer(s)",
     "api(s)",
     "app(s)",
@@ -256,3 +257,17 @@ var cnames_restricted = [
     "www(1/2/3/42)",
     "xml"
 ]
+
+/*
+ **** RETIRED SUBDOMAINS
+ * ****************************
+ *
+ * The following subdomains were previously active but have been retired
+ * They are restricted to prevent domain squatting.
+ *
+ */
+
+var cnames_retired = [
+    "popper" // #627
+]
+

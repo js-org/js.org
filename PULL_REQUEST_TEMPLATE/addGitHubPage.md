@@ -1,3 +1,0 @@
-- [x] I have read and accepted the [Terms and Conditions](http://js.org/terms.html)
-- [x] There is reasonable content on the page
-- [x] I have added a CNAME file to my repo: ***[insert URL here]***
