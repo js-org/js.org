@@ -2587,6 +2587,7 @@ var cnames_active = {
   "plumier": "plumier.github.io",
   "pnpm": "pnpm.github.io",
   "pod": "mileallen.github.io/pod",
+  "poe2craft": "yacinebedd.github.io/PoE-Craft",
   "poegems": "max-arias.github.io/poeGems", // noCF? (don´t add this in a new PR)
   "pogo": "aaronduino.github.io/pogo",
   "pogtopia": "alexander9673.github.io/Pogtopia",
