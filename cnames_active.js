@@ -30,7 +30,7 @@
  *              the section "naming conflicts" in the wiki!
  *
  * NOTICE:      Please follow the format set by everyone else in this file. Entries should use double quotes,
- *              with space between the colon (after the key) and the value and should always be in alphabetical
+ *              with space between the colon (ater the key) and the value and should always be in alphabetical
  *              order. Each line apart from the very last entry should have a comma after it to ensure this file
  *              is valid syntax.
  *
@@ -1142,6 +1142,7 @@ var cnames_active = {
   "ezoradom": "4614s.github.io/ezoradom-the-functions",
   "f1": "marinofranz.github.io/f1.ts",
   "faah": "cname.vercel-dns.com", // noCF
+  "faceboard": "moazsror.github.io/FACEBOARD",
   "facepalm": "santiagogil.github.io/facepalm",
   "facreative": "facreative.github.io",
   "fairy": "fairymeee.github.io",
