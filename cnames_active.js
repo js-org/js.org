@@ -917,6 +917,7 @@ var cnames_active = {
   "dnd-layout": "fpsqdb.github.io/dnd-layout",
   "doars": "doars.github.io/doars",
   "docile": "russellsteadman.github.io/docile",
+  "doclang": "mohamed-shahal.github.io/DocLang",
   "docs.astro-reactive": "astro-reactive-docs.netlify.app", // noCF
   "docs.guildedts": "guildedts.github.io/docs", // noCF
   "docs.light": "hosting.gitbook.com", // noCF
@@ -3113,6 +3114,7 @@ var cnames_active = {
   "single-spa": "single-spa.github.io/single-spa.js.org",
   "sirkit": "seckwei.github.io/SirKit_CircuitSim", // noCF? (don´t add this in a new PR)
   "sissi": "sissijs.github.io/sissi",
+  "sitelo": "paul-browne.github.io/sitelo",
   "sizle": "christoga.github.io/sizle", // noCF? (don´t add this in a new PR)
   "sjpm": "toggledtech.github.io/SJPM",
   "sjy": "cname.vercel-dns.com", // noCF
@@ -3252,6 +3254,7 @@ var cnames_active = {
   "starfield": "annikav9.github.io/starfield.js",
   "starify-discord": "dastormer.github.io/starify-discord",
   "starratio": "starratio.github.io/star-ratio", // noCF
+  "stars-components": "stars-components-3et.netlify.app",
   "start": "deepsweet.github.io/start",
   "starterdocs": "vtempest.github.io/Serverless-DOCS-Stack",
   "starterpk": "starterpk.github.io",
@@ -3653,7 +3656,7 @@ var cnames_active = {
   "vanya": "cname.vercel-dns.com", // noCF
   "vapory": "vaporyjs.github.io",
   "various": "variousjs.github.io/website",
-  "varvara": "marcmarine.github.io/varvara",
+  "varvara": "marcmarine.github.io/varvara-js", // noCF
   "vayne": "vaynejs.github.io",
   "vbuild": "egoist.github.io/vbuild",
   "vdcs": "hopae-official.github.io/Verifiable-Digital-Credentials",
