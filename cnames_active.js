@@ -2243,6 +2243,7 @@ var cnames_active = {
   "mzaini30": "mzaini30.github.io",
   "mzplayer": "prince3661.github.io/Mzplayer",
   "n": "cyb.github.io/n",
+  "n0launcher": "https://panadorado.github.io/n0launcher-blog"
   "nabin": "nabin6246.github.io",
   "nacl-check": "magnusmarx.github.io/NaCL",
   "naja": "naja-js.github.io/naja",
