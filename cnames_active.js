@@ -1321,8 +1321,8 @@ var cnames_active = {
   "giant-piano": "moroshko.github.io/giant-piano", // noCF? (don´t add this in a new PR)
   "gil": "imskeptical.github.io/gil.js",
   "gioyeimg": "gioye.github.io/gioyeimg",
-  "girls": "girls-js.github.io",
   "glaxiblade": "glax106.github.io/Glaxiblade",
+  "girls": "girls-js.github.io",
   "girlscript": "girlscriptjaipur.github.io",
   "git-as-card": "cname.vercel-dns.com", // noCF
   "git-terminal": "jcubic.github.io/git",
