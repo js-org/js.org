@@ -3555,6 +3555,7 @@ var cnames_active = {
   "udnisap": "udnisap.github.io",
   "ui": "caracal7.github.io/ui.js",
   "ui-pack": "ui-pack.netlify.app",
+  "uklad": "ukladjs.github.io/website",
   "ulka": "ulkajs.github.io", // noCF
   "ulog": "download.github.io/ulog",
   "ultcombo": "ultcombo.github.io",
