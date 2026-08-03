@@ -2243,7 +2243,7 @@ var cnames_active = {
   "myurl": "marvnet.github.io/myurl",
   "mzaini30": "mzaini30.github.io",
   "mzplayer": "prince3661.github.io/Mzplayer",
-  "n": "cyb.github.io/n",
+  "n": "nexvault": "anderc18.github.io/NexVault",
   "nabin": "nabin6246.github.io",
   "nacl-check": "magnusmarx.github.io/NaCL",
   "naja": "naja-js.github.io/naja",
