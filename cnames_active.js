@@ -1322,6 +1322,7 @@ var cnames_active = {
   "gil": "imskeptical.github.io/gil.js",
   "gioyeimg": "gioye.github.io/gioyeimg",
   "girls": "girls-js.github.io",
+  "glaxiblade": "glax106.github.io/Glaxiblade",
   "girlscript": "girlscriptjaipur.github.io",
   "git-as-card": "cname.vercel-dns.com", // noCF
   "git-terminal": "jcubic.github.io/git",
