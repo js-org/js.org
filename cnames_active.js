@@ -2434,6 +2434,7 @@ var cnames_active = {
   "openauth": "openauthjs.github.io/openauth",
   "opencc": "opencc-wasm.pages.dev",
   "openkey": "microlinkhq.github.io/openkey",
+  "openmat": "dhve.github.io/openmat",
   "opennext": "opennextjs.github.io/docs",
   "openrecord": "philwaldmann.github.io/openrecord",
   "opentrivia-guide": "turtlepaw.github.io/trivia-docs",
