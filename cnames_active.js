@@ -832,6 +832,7 @@ var cnames_active = {
   "devsession": "lukasbach.github.io/devsession",
   "dgelong": "alexeyraspopov.github.io/dgelong", // noCF? (don´t add this in a new PR)
   "dgs-docs": "shadowplay1.github.io/discord-giveaways-super",
+  "dhasanudhasan": "dhasanudhasan.vercel.app",
   "dhimasanb": "dhimasanb.github.io",
   "dhruvdutt": "dhruvdutt.github.io",
   "diabolo": "cname.vercel-dns.com", // noCF
