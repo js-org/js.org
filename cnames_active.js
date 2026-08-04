@@ -2362,8 +2362,8 @@ var cnames_active = {
   "notes": "notesjs.pages.dev",
   "nothing": "cbtak.github.io/nothing",
   "notibar": "duyetdev.github.io/notibar.js",
-  "notionpad": "csmansoor.github.io/Portfolio",
   "notion-cms": "cname.vercel-dns.com", // noCF
+  "notionpad": "csmansoor.github.io/Portfolio",
   "nougat": "nougatlang.github.io",
   "novasheets": "novasheets.netlify.app",
   "now": "leodog896.github.io/jsnow",
