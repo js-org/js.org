@@ -3675,6 +3675,7 @@ var cnames_active = {
   "veza": "kyranet.github.io/veza",
   "vfm": "meshesha.github.io/VisualFormMaker.github.io",
   "viav": "brandondyer64.github.io/viav",
+  "vibe-coding-news": "almubarmij.github.io/Vibe-Coding-News",
   "vicis": "r37r0m0d3l.github.io/vicis",
   "vico": "bohdantkachenko.github.io/vico", // noCF? (don´t add this in a new PR)
   "vidclip": "cname.vercel-dns.com", // noCF
