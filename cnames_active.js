@@ -2312,6 +2312,7 @@ var cnames_active = {
   "ng-dux": "mister-what.github.io/ngDux",
   "ng-eagleeye": "webkrafters.github.io/ng-eagleeye",
   "ng-monaco-editor": "alauda.github.io/ng-monaco-editor",
+  "ng-signal-query": "ali7040.github.io/ng-signal-query-site",
   "ng-wig": "stevermeister.github.io/ngWig", // noCF? (don´t add this in a new PR)
   "ngbook": "ngbook.github.io",
   "ngirc": "ngirc.github.io/ng-irc", // noCF
