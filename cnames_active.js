@@ -1964,6 +1964,7 @@ var cnames_active = {
   "lychee": "cookiengineer.github.io/lycheeJS-website",
   "lynx-html": "yourtion.github.io/lynx-html-renderer",
   "lyra": "amansahil.github.io/lyra.js.org",
+  "lyrix": "lyrixjs.github.io/lyrix",
   "lyz": "lihawhaw.github.io/lyzjs",
   "lzbible": "edwinyosorahardjo.github.io/lzbible",
   "m01i0ng": "m01i0ng.github.io",
