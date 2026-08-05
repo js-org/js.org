@@ -1574,6 +1574,7 @@ var cnames_active = {
   "injectify": "injectify.github.io/docs",
   "ink": "colossalchicken.github.io/ink.js",
   "inko": "inko.netlify.app",
+  "inkpad": "inkpad-js.github.io/inkpad",
   "inline-style-prefixer": "rofrischmann.github.io/inline-style-prefixer",
   "innova": "innova-fll.github.io",
   "inscriptum": "sumbad.github.io/inscriptum",
