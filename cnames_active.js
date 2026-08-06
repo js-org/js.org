@@ -3845,6 +3845,7 @@ var cnames_active = {
   "wysc": "coffeebank.github.io/wysc-vue",
   "wysi": "mdbassit.github.io/Wysi",
   "wz": "wangzhen-chn.github.io/wz",
+  "winprovodnik": "winprovodnik.github.io",
   "x": "nikhiljohn10.github.io/x.js",
   "x.gametime": "parking-master.github.io/Gametime.js-X", // noCF
   "xatom": "xatomteam.github.io/docs",
