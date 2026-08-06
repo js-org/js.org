@@ -3713,6 +3713,7 @@ var cnames_active = {
   "vorpal": "dthree.github.io/vorpal", // noCF? (don´t add this in a new PR)
   "vortex": "puntillol59.github.io/vortex",
   "voxelcss": "jhwohlgemuth.github.io/voxelcss",
+  "vpt": "sep2.github.io/vite-plugin-taro",
   "vscode-apielements": "xvincentx.github.io/vscode-apielements",
   "vssue": "vssue.netlify.app",
   "vuapix": "rwaness.github.io/vuapix",
@@ -3748,7 +3749,6 @@ var cnames_active = {
   "vuepress-theme-cool": "friendlyuser.github.io/vuepress-theme-cool",
   "vuikit": "vuikit.netlify.app",
   "vulkava": "hosting.gitbook.io", // noCF
-  "vpt": "sep2.github.io/vite-plugin-taro",
   "vxt": "noah227.github.io/vxt-docs",
   "vxv": "vxv.netlify.app",
   "w2d": "bananahackers.github.io/w2d",
