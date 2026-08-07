@@ -1979,7 +1979,10 @@ var cnames_active = {
   "madankumar": "jmadankumar.github.io",
   "madebyzen": "mzaini30.github.io/madebyzen",
   "madewithdativejs": "madewithdativejs.github.io",
-  "magickwand": "mmomtchev.github.io/magickwand.js",
+  "magickwand": "mmomtchev.github.io/
+  
+
+magickwand.js",
   "magidoc": "magidoc-org.github.io/magidoc",
   "magnet": "magnetjs.github.io/Magnet", // noCF? (don´t add this in a new PR)
   "mahmoud": "mahmoud-sagharjoughi.github.io/mahmoud",
@@ -2065,8 +2068,9 @@ var cnames_active = {
   "media": "tobiasthaden.github.io/media.js",
   "media-style-palette": "rikakomoe.github.io/Media-Style-Palette",
   "mediainfo": "buzz.github.io/mediainfo.js",
-  "medicus": "arthurfiorette.github.io/medicus",
+    "medicus": "arthurfiorette.github.io/medicus",
   "medit": "echosoar.github.io/medit",
+  "medicsim": "medicsim.vercel.app",
   "medium": "factmaven.github.io/medium.js",
   "meed": "pinjasaur.github.io/meed",
   "mega": "qgustavor.github.io/megajs-docs",
