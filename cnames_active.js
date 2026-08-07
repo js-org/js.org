@@ -2067,7 +2067,7 @@ var cnames_active = {
   "mediainfo": "buzz.github.io/mediainfo.js",
   "medicus": "arthurfiorette.github.io/medicus",
   "medit": "echosoar.github.io/medit",
-  "medicsim": "medicsim.vercel.app",
+  "medicsim": "cname.vercel-dns.com", // noCF
   "medium": "factmaven.github.io/medium.js",
   "meed": "pinjasaur.github.io/meed",
   "mega": "qgustavor.github.io/megajs-docs",
@@ -3936,10 +3936,10 @@ var cnames_active = {
   "zykj": "cname.vercel-dns.com", // noCF
   "zylog": "cname.vercel-dns.com", // noCF
   "zyx": "zyx.alwaysdata.net",
-  "zyy": "zyyou.github.io/notes",
+  "zyy": "zyyou.github.io/notes"
   /*
    * please don't add your subdomain records down here!
    * insert them in alphabetical order to help reduce merge conflicts.
    * <3
    */
-};
+}
