@@ -3630,6 +3630,7 @@ var cnames_active = {
   "uwest": "cname.vercel-dns.com", // noCF
   "uzid": "bansal.github.io/uzid",
   "v-charts": "elemefe.github.io/v-charts",
+  "vastro": "charles833.github.io/my-portfolio-website",
   "v-decorators": "v-decorators.netlify.app",
   "v3.swup": "swup-v3-docs.netlify.app", // noCF
   "v4.webpack": "webpack.github.io/v4.webpack.js.org", // noCF
