@@ -158,6 +158,7 @@ var cnames_active = {
   "alex": "alecs297.github.io",
   "alexanderalvarez": "alexanderalvarez9.github.io",
   "alfred": "amilajack.github.io/alfred",
+  "alfredpanakkal": "alfredpanakkal.github.io/Alfred.panakkal",
   "algebra": "nicolewhite.github.io/algebra.js", // noCF? (don´t add this in a new PR)
   "algoviz": "algo-vizz.web.app", // noCF
   "ali": "alibouhrouche.netlify.app",
