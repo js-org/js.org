@@ -2067,6 +2067,7 @@ var cnames_active = {
   "mediainfo": "buzz.github.io/mediainfo.js",
   "medicus": "arthurfiorette.github.io/medicus",
   "medit": "echosoar.github.io/medit",
+  "medicsim": "cname.vercel-dns.com", // noCF
   "medium": "factmaven.github.io/medium.js",
   "meed": "pinjasaur.github.io/meed",
   "mega": "qgustavor.github.io/megajs-docs",
