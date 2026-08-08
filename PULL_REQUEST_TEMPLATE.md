@@ -21,8 +21,7 @@ You must explain why your website content, not the code, is specifically relevan
 
 -->
 
-- [ ] There is reasonable content on the page (see: [No Content](https://github.com/js-org/js.org/wiki/No-Content))
-- [ ] I have read and accepted the [Terms and Conditions](http://js.org/terms.html)
-- The site content can be seen at <link>
-
-> The site content is ... and is relevant to JavaScript developers specifically because ...
+- [x] There is reasonable content on the page (see: [No Content](https://github.com/js-org/js.org/wiki/No-Content))
+- [x] I have read and accepted the [Terms and Conditions](http://js.org/terms.html)
+- The site content can be seen at https://mohammed-d-1427.github.io/Tic-Tac-Toe/
+> The site content is a Tic Tac Toe game built with HTML, CSS and JavaScript, and is relevant to JavaScript developers specifically because it demonstrates interactive DOM manipulation and game logic implementation using vanilla JavaScript.
