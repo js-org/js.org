@@ -1962,6 +1962,7 @@ var cnames_active = {
   "lvp": "luzhenqian.github.io/lvp.js",
   "lwjerri": "lwjerri.github.io",
   "lx": "blleng.github.io/lx-test",
+  "lyap": "lyapjs.github.io",
   "lychee": "cookiengineer.github.io/lycheeJS-website",
   "lynx-html": "yourtion.github.io/lynx-html-renderer",
   "lyra": "amansahil.github.io/lyra.js.org",
