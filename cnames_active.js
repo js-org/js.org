@@ -154,6 +154,7 @@ var cnames_active = {
   "alastor": "aidenybai.github.io/alastor",
   "ale": "alecefe.github.io",
   "alertbox": "simple-alertbox.github.io/alertbox",
+  "tic-tac-toe": "mohammed-d-1427.github.io/Tic-Tac-Toe",
   "alertism": "assassinaguilar.github.io/Alertism",
   "alex": "alecs297.github.io",
   "alexanderalvarez": "alexanderalvarez9.github.io",
