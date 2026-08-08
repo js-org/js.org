@@ -560,7 +560,7 @@ var cnames_active = {
   "chrismendis": "chrismendis.github.io", // noCF? (don´t add this in a new PR)
   "christo": "christoga.github.io/js-org", // noCF? (don´t add this in a new PR)
   "christopher": "marekkobida.github.io/christopher",
-  "chromaticc": "chromaticc.vercel.app",
+  "chromaticc": "cname.vercel-dns.com", // noCF
   "chronos": "espinielli.github.io/chronos", // noCF? (don´t add this in a new PR)
   "chronosis": "jack-weilage.github.io/chronosis",
   "citation": "citation-js.github.io/site",
