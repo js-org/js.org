@@ -1717,6 +1717,7 @@ var cnames_active = {
   "juno-106": "stevengoldberg.github.io/juno-106", // noCF? (don´t add this in a new PR)
   "just": "js-just.github.io", // noCF
   "justin-schroeder": "justin-schroeder.github.io",
+  'justinsskillz': 'jjskids.github.io/justinsskillz', // or jjskids.github.io
   "juzgados": "mteyss.github.io/juzgados",
   "jwc": "jwcjs.github.io/docs",
   "jwjawa": "cmdjwj.github.io",
