@@ -421,6 +421,10 @@ var cnames_active = {
   "boowindcss": "nawazishali.github.io/BoowindCSS", // noCF
   "botgram": "botgram.github.io/botgram",
   "bottender": "yoctol.github.io/bottender",
+    "404": "licshee.github.io/404",
+  "5tactiq": "5tactiq.vercel.app",
+  "766": "766.github.io",
+
   "bottlecap": "rwbeast.github.io/bottlecap",
   "boundless": "enigma-io.github.io/boundless",
   "box": "capacitorset.github.io/box-js", // noCF
