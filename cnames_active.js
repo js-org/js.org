@@ -56,6 +56,7 @@ var cnames_active = {
   "360": "360daili.github.io/360daili",
   "3d-go": "3d-go.netlify.app",
   "404": "licshee.github.io/404",
+  "5tactiq": "cname.vercel-dns.com", // noCF
   "766": "766.github.io",
   "7anshuai": "7anshuai.github.io", // noCF? (don´t add this in a new PR)
   "8085sim": "ahmedazhar05.github.io/8085sim",
@@ -421,10 +422,6 @@ var cnames_active = {
   "boowindcss": "nawazishali.github.io/BoowindCSS", // noCF
   "botgram": "botgram.github.io/botgram",
   "bottender": "yoctol.github.io/bottender",
-    "404": "licshee.github.io/404",
-  "5tactiq": "5tactiq.vercel.app",
-  "766": "766.github.io",
-
   "bottlecap": "rwbeast.github.io/bottlecap",
   "boundless": "enigma-io.github.io/boundless",
   "box": "capacitorset.github.io/box-js", // noCF
