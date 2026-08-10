@@ -704,6 +704,7 @@ var cnames_active = {
   "crawlx": "wind2sing.github.io/crawlx",
   "crawlyx": "theritikchoure.github.io/crawlyx",
   "crax": "craxjs.github.io",
+  "crazytools": "cname.vercel-dns.com", // noCF
   "crcalc": "lll69.github.io/crcalc.js",
   "creamcrop": "creamcropdev.github.io",
   "create-coffee-app": "legolovergo.github.io/create-coffee-app",
