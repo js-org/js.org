@@ -2199,7 +2199,8 @@ var cnames_active = {
   "montage": "montagejs.github.io",
   "moonlightdb": "ff8204bc04-hosting.gitbook.io", // noCF
   "moonlink": "apex-loadbalancer.netlify.app", // noCF
-  "moose": "mustpax.github.io/moose",
+"moose": "mustpax.github.io/moose",
+  "morax": "moraxx.ai.studio",
   "moro": "omidfi.github.io/moro",
   "morocco": "moroccojs.github.io",
   "morse": "the-silver-project.github.io/morse",
