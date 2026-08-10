@@ -1,5 +1,5 @@
 /*
- ***** ACTIVE SUBDOMAINS
+ ****** ACTIVE SUBDOMAINS
  * ***********************
  *
  * for the moment the following subdomains are active
