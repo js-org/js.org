@@ -1,4 +1,4 @@
-/*
+"qiymet": "yusifnazaov.github.io/my-site",/*
  ***** ACTIVE SUBDOMAINS
  * ***********************
  *
