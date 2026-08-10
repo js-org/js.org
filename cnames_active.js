@@ -1968,6 +1968,7 @@ var cnames_active = {
   "lyra": "amansahil.github.io/lyra.js.org",
   "lyrix": "lyrixjs.github.io/lyrix",
   "lyz": "lihawhaw.github.io/lyzjs",
+  "linux": "asanalidev-linuxjs.onrender.com"
   "lzbible": "edwinyosorahardjo.github.io/lzbible",
   "m01i0ng": "m01i0ng.github.io",
   "m8bot": "mapreiff.github.io/m8-bot-site",
