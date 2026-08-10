@@ -587,6 +587,7 @@ var cnames_active = {
   "clipx": "cname.vercel-dns.com", // noCF
   "clock": "mirmousaviii.github.io/clock",
   "clockwork": "clockworkdev.github.io/ClockworkWebsite",
+  "clp-lowcarbonbattle": "ronaldli616.github.io/IVE_DiningCompetitionEvent_MiniGame_Frontend",
   "cluster-eventdispatcher": "chickendevlab.github.io/cluster-eventdispatcher",
   "clusterize": "nexts.github.io/Clusterize.js",
   "cmbhackjs2013": "cmbjs.github.io/cmbHackjs2013",
