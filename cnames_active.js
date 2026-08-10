@@ -267,6 +267,7 @@ var cnames_active = {
   "astx-redux-util": "kevinast.github.io/astx-redux-util",
   "async-af": "asyncaf.github.io/AsyncAF",
   "async-selector-kit": "humflelump.github.io/async-selector-kit",
+  "asanalidev-linux": "asanalidev-linuxjs.onrender.com", // noCF
   "atavic": "atavic.github.io",
   "atenas": "atenasjs.netlify.app",
   "athena": "athena-js.github.io/athena",
