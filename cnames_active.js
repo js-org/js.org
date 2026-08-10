@@ -3130,6 +3130,7 @@ var cnames_active = {
   "skratch": "websyncs.github.io/skratch",
   "sksamim": "esksamim.github.io/sksamim",
   "skyle": "skylejs.github.io/skyle",
+  "skyofrealms": "skyofrealms.netlify.app",
   "skyscript": "cname.vercel-dns.com", // noCF
   "skyware": "skyware-js.github.io/web", // noCF
   "slang": "ramadis.github.io/slang", // noCF? (don´t add this in a new PR)
