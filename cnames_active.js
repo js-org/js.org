@@ -506,6 +506,7 @@ var cnames_active = {
   "capsule": "capsule-js-org.github.io/capsule",
   "captcha-canvas": "shashank3736.github.io/captcha-canvas",
   "car": "pakastin.github.io/car",
+  "carbonic": "EstusADDICT-streamflex.github.io/carbonic",
   "carakan": "masnormen.github.io/carakanjs",
   "cards": "ttam.github.io/cards",
   "cardtabs": "blekerfeld.github.io/CardTabs",
