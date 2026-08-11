@@ -2614,6 +2614,7 @@ var cnames_active = {
   "portafolioalejandrarobles": "alerobles3.github.io/portafolioalejandrarobles",
   "portafolioluis": "luisself2020.github.io/portafolioluis",
   "portafoliorufino": "rufino-hdez.github.io/portafolio",
+  "portail-wfm-cnx": "lera-quelin.github.io",
   "portainer-update": "flweber.github.io/portainer-stack-updater",
   "porter": "ahopkins.github.io/porterjs", // noCF? (don´t add this in a new PR)
   "portfolito": "sleelin.github.io/portfolito",
@@ -3937,8 +3938,7 @@ var cnames_active = {
   "zykj": "cname.vercel-dns.com", // noCF
   "zylog": "cname.vercel-dns.com", // noCF
   "zyx": "zyx.alwaysdata.net",
-  "zyy": "zyyou.github.io/notes",
-  "portail-wfm-cnx": "lera-quelin.github.io"
+  "zyy": "zyyou.github.io/notes"
   /*
    * please don't add your subdomain records down here!
    * insert them in alphabetical order to help reduce merge conflicts.
