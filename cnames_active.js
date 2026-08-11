@@ -1061,8 +1061,8 @@ var cnames_active = {
   "emojipanel": "danbovey.github.io/EmojiPanel",
   "emotify": "aryanbaburajan.github.io/Emotify",
   "empathy": "the94air.github.io/empathy-docs",
-  "emyapps": "Bahadir-Yuksel.github.io",
   "emulisp": "grahack.github.io/EmuLisp", // noCF? (don´t add this in a new PR)
+  "emyapps": "Bahadir-Yuksel.github.io",
   "emz": "emzjs.github.io",
   "enclave": "eanplatter.github.io/enclave", // noCF? (don´t add this in a new PR)
   "encrypt-rsa": "miladezzat.github.io/encrypt-rsa",
