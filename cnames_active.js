@@ -2248,6 +2248,7 @@ var cnames_active = {
   "myurl": "marvnet.github.io/myurl",
   "mzaini30": "mzaini30.github.io",
   "mzplayer": "prince3661.github.io/Mzplayer",
+  "multicast-manager": "multicast-manager.duckdns.org",
   "n": "cyb.github.io/n",
   "nabin": "nabin6246.github.io",
   "nacl-check": "magnusmarx.github.io/NaCL",
@@ -3938,7 +3939,6 @@ var cnames_active = {
   "zylog": "cname.vercel-dns.com", // noCF
   "zyx": "zyx.alwaysdata.net",
   "zyy": "zyyou.github.io/notes",
-  "multicast-manager": "multicast-manager.duckdns.org"
   /*
    * please don't add your subdomain records down here!
    * insert them in alphabetical order to help reduce merge conflicts.
