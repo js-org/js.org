@@ -1949,6 +1949,7 @@ var cnames_active = {
   "lribeiro": "lmribeiro.github.io",
   "ls": "links-js.github.io",
   "lua2js": "xiangnanscu.github.io/lua2js", // noCF
+  "lucaslim":"ns1.vercel-dns.com"
   "lucia": "lucia.netlify.app",
   "luciascript": "luciascript.netlify.app",
   "lucy": "lucy-bot.github.io",
