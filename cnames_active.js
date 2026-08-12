@@ -3670,8 +3670,8 @@ var cnames_active = {
   "vectorless": "vectorless-js.pages.dev",
   "vega": "cname.vercel-dns.com", // noCF
   "velite": "zce.github.io/velite",
-  "velt": "veltjs.github.io",
   "veloryz": "veloryzj2.netlify.app",
+  "velt": "veltjs.github.io",
   "vendywira": "vendywira.github.io",
   "vento": "ventojs.github.io/vento",
   "verify-bitcoin-message": "mothepro.github.io/verify-bitcoin-message",
