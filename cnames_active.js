@@ -2589,6 +2589,7 @@ var cnames_active = {
   "player": "player.netlify.app",
   "playjs": "hunghg255.github.io/playjs",
   "pliers": "pliersjs.github.io", // noCF? (don´t add this in a new PR)
+  "playground-capital-tech-ai-swe-quant-blog": "playground-capital-tech-ai-swe-quant-blog.onrender.com",
   "plotyxd": "plotyxd.github.io",
   "plumier": "plumier.github.io",
   "pnpm": "pnpm.github.io",
