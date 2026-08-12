@@ -3007,6 +3007,7 @@ var cnames_active = {
   "scroller-motion": "scroller-motion.netlify.app",
   "scrollery": "scrollery.netlify.app",
   "scrollmirror": "scrollmirror.netlify.app",
+  "scrollstack": "devgauravjatt.github.io/scrollstackjs",
   "scrollyvideo": "dkaoster.github.io/scrolly-video",
   "scsaver": "hamalt.github.io/scsaver",
   "sd-design": "liunnn1994.github.io",
