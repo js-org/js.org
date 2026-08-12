@@ -2167,6 +2167,7 @@ var cnames_active = {
   "modbot": "modbotjs.github.io",
   "moddy": "cutiecat6778.github.io/moddy",
   "model": "xiangnanscu.github.io/model", // noCF
+  "modern-date-picker": "iamashishk.github.io/modern-date-picker/",
   "modjool": "cname.vercel-dns.com", // noCF
   "modmail": "botstudios.github.io/modmail.js",
   "modofun": "modofunjs.github.io/modofun",
