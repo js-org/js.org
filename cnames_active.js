@@ -2989,6 +2989,7 @@ var cnames_active = {
   "saykit": "cname.vercel-dns.com", // noCF
   "sazerac": "sazeracjs.github.io/sazerac-site",
   "sb": "santiaguf.github.io",
+  "sbs": "sbsbyte.github.io/sbs",
   "sc136": "sc136.github.io/sc-136",
   "scadies": "kysolva.github.io/scadies", // noCF
   "scafix": "cname.vercel-dns.com", // noCF
