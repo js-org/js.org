@@ -1275,7 +1275,7 @@ var cnames_active = {
   "fusilli": "anthemaker.github.io/Fusilli.js",
   "fvuar": "fvuarjs.netlify.app",
   "fw": "fjs.alwaysdata.net",
-  "fwm": "cname.vercel-dns.com",
+  "fwm": "cname.vercel-dns.com", // noCF
   "fy": "fyjs.netlify.app",
   "fyi": "tobihrbr.github.io/fyi",
   "g": "nodebox.github.io/g.js",
