@@ -2918,6 +2918,7 @@ var cnames_active = {
   "roadmafia": "roadmafia.github.io",
   "roam": "roam-cn.github.io",
   "robo-wizard": "hipsterbrown.github.io/robo-wizard",
+  "rsoftwares": "rocogamer14.github.io/Rsoftwares-ventas-y-servivios",
   "rock": "w3core.github.io/RockJS",
   "rocket": "kevinofneu.github.io/rocket",
   "rocketact": "jdf2e.github.io/rocketact",
