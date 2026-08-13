@@ -2868,7 +2868,7 @@ var cnames_active = {
   "remote-faces": "dai-shi.github.io/remote-faces",
   "rengular": "chigix.github.io/rengular",
   "repackage": "cchamberlain.github.io/repackage", // noCF? (don´t add this in a new PR)
-  "repeater": "repeaterjs.github.io/repeater",
+  "repeater": "bikeshaving.github.io/repeater",
   "repl": "snowflyt.github.io/repl",
   "replay": "edbentley.github.io/replay",
   "reqoal": "aldhosutra.github.io/reqoal",
@@ -3008,6 +3008,7 @@ var cnames_active = {
   "scroller-motion": "scroller-motion.netlify.app",
   "scrollery": "scrollery.netlify.app",
   "scrollmirror": "scrollmirror.netlify.app",
+  "scrollstack": "devgauravjatt.github.io/scrollstackjs",
   "scrollyvideo": "dkaoster.github.io/scrolly-video",
   "scsaver": "hamalt.github.io/scsaver",
   "sd-design": "liunnn1994.github.io",
