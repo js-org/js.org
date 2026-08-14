@@ -1422,8 +1422,12 @@ var cnames_active = {
   "guvercin": "guvercinjs.github.io",
   "gyps": "huijari.github.io/Gyps",
   "gyre": "wridder.github.io/GyreJS", // noCF? (don´t add this in a new PR)
-  "gyx": "yourtion.github.io/gyx.js.org",
-  "h": "makenowjust.github.io/h.js",
+ "gyx": "yourtion.github.io/gyx.js.org",
+    "gitpages": "...",
+  "glitch": "...",       ← أضف بعده مباشرة
+  "goo": "...",
+  "glitchq": "glitchqq.github.io",
+"h": "makenowjust.github.io/h.js",
   "h3": "h3rald.srht.site", // noCF
   "h7ml": "h7ml.github.io/web",
   "ha-store": "fed135.github.io/ha-store",
