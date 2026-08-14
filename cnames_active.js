@@ -275,7 +275,7 @@ var cnames_active = {
   "atombundles": "lirantal.github.io/atombundles",
   "atomicreact": "atomicreact.github.io/AtomicReact",
   "atos": "cname.vercel-dns.com", // noCF
-  "attaluri": "attaluri.github.io"
+  "attaluri": "attaluri.github.io",
   "atx": "aktarytech.github.io/atx",
   "audio-transcriber": "shriansh2002.github.io/gemini-audio-transcriber-site",
   "aui": "alauda.github.io/alauda-ui",
