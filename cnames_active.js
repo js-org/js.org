@@ -2426,6 +2426,7 @@ var cnames_active = {
   "omg": "pengjiyuan.github.io/omg",
   "omid": "omidnikrah.github.io/omid",
   "omnistorage": "x-labs-myid.github.io/omnistorage",
+  "omnitools": "omnitools-hub.vercel.app",
   "omniutils": "cname.vercel-dns.com", // noCF
   "ongaku": "anshuman-verma.github.io/ongaku",
   "onii": "oniijs.github.io/onii",
