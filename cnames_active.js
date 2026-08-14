@@ -2878,7 +2878,8 @@ var cnames_active = {
   "reshape": "reshape.netlify.app",
   "reshift": "hasharray.github.io/reshift.js",
   "rest-client": "foxifyjs.github.io/rest-client",
-  "restjs": "daviesgeek.github.io/restjs", // noCF? (don´t add this in a new PR)
+  "restjs": "daviesgeek.github.io/restjs",// noCF? (don´t add this in a new PR)
+  "restaro": "cname.vercel-dns.com",
   "restore-scroll": "restore-scroll.netlify.app",
   "reststops": "thomasbrueggemann.github.io/reststops",
   "resume": "xaoxuu.github.io/resume.js.org",
