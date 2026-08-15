@@ -486,6 +486,7 @@ var cnames_active = {
   "calcium": "courageous-bublanina-6857c1.netlify.app",
   "calcy": "odevlord.github.io/Calcy", // noCF? (don´t add this in a new PR)
   "calisto": "cname.vercel-dns.com", // noCF
+  "calub":"imightexist.github.io/calub",
   "camelcase": "ultirequiem.github.io/camelcase",
   "campfire": "xyzshantaram.github.io/campfire",
   "candy": "candy02058912.github.io/portfolio",
