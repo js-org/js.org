@@ -415,6 +415,7 @@ var cnames_active = {
   "bonzibuddy": "fardindadev.github.io/bonzibuddy",
   "bookmarklets": "zelnickb.github.io/bookmarklets",
   "bool": "booljs.github.io",
+  "boopa": "boopa-max.github.io/Boopa-Profile",
   "booru": "atlasthebot.github.io/booru",
   "bootstrap-confirmation": "mistic100.github.io/Bootstrap-Confirmation", // noCF? (don´t add this in a new PR)
   "bootstrap-validate": "pascalebeier.github.io/bootstrap-validate",
