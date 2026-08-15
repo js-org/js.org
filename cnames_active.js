@@ -514,6 +514,7 @@ var cnames_active = {
   "caridad-ui": "decaldas.github.io/caridad-ui",
   "carloseduardo": "karllossouza.github.io/carloseduardo.js.org",
   "carmi": "wix-incubator.github.io/carmi",
+  "carol": "kamaurehabiah-coder.github.io/carol-portfolio",
   "carrier": "theritikchoure.github.io/carrierjs",
   "carrot": "kemosaf.github.io/carrot",
   "cart": "cname.vercel-dns.com", // noCF
