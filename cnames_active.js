@@ -389,6 +389,7 @@ var cnames_active = {
   "biu": "aprilorange.github.io/biu", // noCF? (don´t add this in a new PR)
   "bkk": "rayriffy.github.io/bkk",
   "blazeb2": "blazeb2.github.io",
+  "blazing-cms": "blazing-cms.github.io",
   "blego": "mattstypa.github.io/blego.js.org",
   "blessmyrains": "dusterthefirst.github.io/blessmyrains",
   "bliss": "beyondcodebootcamp.github.io/bliss",
@@ -2618,6 +2619,7 @@ var cnames_active = {
   "portafoliorufino": "rufino-hdez.github.io/portafolio",
   "portainer-update": "flweber.github.io/portainer-stack-updater",
   "porter": "ahopkins.github.io/porterjs", // noCF? (don´t add this in a new PR)
+  "portfoliable": "portfoliablejs.github.io/portfoliable",
   "portfolito": "sleelin.github.io/portfolito",
   "portpilot": "portpilot.pages.dev",
   "poru": "cname.vercel-dns.com", // noCF
