@@ -1690,6 +1690,7 @@ var cnames_active = {
   "jsdec": "liulihaocai.github.io/JSDec",
   "jsfe": "jsfe.netlify.app",
   "jslabs": "cname.vercel-dns.com", // noCF
+  "jsmql": "flash-oss.github.io/jsmql",
   "jsnippet": "jesseeisen.github.io/snippets", // noCF
   "jsoboro": "jsoboro.github.io",
   "json-diff-kit": "rexskz.github.io/json-diff-kit",
