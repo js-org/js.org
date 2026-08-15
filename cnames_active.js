@@ -2226,6 +2226,7 @@ var cnames_active = {
   "muc": "jsmuc.github.io",
   "muiplayer": "muiplayer.github.io",
   "mujin": "mujin669.github.io",
+  "mulisa02": "MULISA02.github.io",
   "multiple": "nexts.github.io/Multiple.js",
   "multiversus": "cname.vercel-dns.com", // noCF
   "murajaah": "mzaini30.github.io/murajaah-js",
