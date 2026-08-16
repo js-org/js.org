@@ -1667,6 +1667,7 @@ var cnames_active = {
   "joelmathew": "rec0il99.github.io/joelmathew",
   "jogja": "jogjajs.github.io", // noCF
   "john": "jozhn.github.io",
+  "join365": "join365web.github.io/join365",
   "jokes": "jeff-tian.github.io/jokes",
   "jomb": "mrtampan.github.io/jomb-music",
   "jonathangt": "jonathangt.github.io/portafolio",
