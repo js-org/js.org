@@ -3222,6 +3222,7 @@ var cnames_active = {
   "spotify": "backtrackapp.github.io/spotify.js",
   "spotify-api": "spotifyapidocs.netlify.app",
   "spotistats": "spotistats-app.netlify.app",
+  "sprae": "dy.github.io/sprae",
   "spread": "spreadjs.github.io",
   "spreadsheet": "chiefofgxbxl.github.io/Spreadsheet.js",
   "spring": "hosting.gitbook.com",
