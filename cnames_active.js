@@ -1657,6 +1657,7 @@ var cnames_active = {
   "jetflow": "jetflowjs.pages.dev",
   "jets": "nexts.github.io/Jets.js",
   "jetup": "aldhosutra.github.io/jetup",
+  "jifeng": "yangchengen-hub.github.io/jifeng",
   "jimple": "fjorgemota.github.io/jimple",
   "jinada": "redsplit.github.io/jinada",
   "jjlc": "k-yak.github.io/JJLC", // noCF? (don´t add this in a new PR)
