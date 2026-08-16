@@ -2983,11 +2983,11 @@ var cnames_active = {
   "sanddance": "danmarshall.github.io/SandDance",
   "sandeepkhandewale": "learner1024.github.io",
   "sandmine": "spreehertz.github.io/Sandmine.js",
-  "satyamark": "cname.vercel-dns.com", // noCF
   "saso": "huruji.github.io/saso",
   "sass": "medialize.github.io/playground.sass.js", // noCF? (don´t add this in a new PR)
   "satori": "satorijs.github.io/docs",
   "saturon": "cname.vercel-dns.com", // noCF
+  "satyamark": "cname.vercel-dns.com", // noCF
   "saulosantiago": "saulosilva.github.io", // noCF? (don´t add this in a new PR)
   "sawyer": "sqwwy.github.io/sawyer.js.org",
   "saykit": "cname.vercel-dns.com", // noCF
@@ -3943,7 +3943,7 @@ var cnames_active = {
   "zykj": "cname.vercel-dns.com", // noCF
   "zylog": "cname.vercel-dns.com", // noCF
   "zyx": "zyx.alwaysdata.net",
-  "zyy": "zyyou.github.io/notes"
+  "zyy": "zyyou.github.io/notes",
   /*
    * please don't add your subdomain records down here!
    * insert them in alphabetical order to help reduce merge conflicts.
