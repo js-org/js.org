@@ -1851,6 +1851,7 @@ var cnames_active = {
   "leap-year": "ultirequiem.github.io/leap-year",
   "learn": "in-tech-gration.github.io/LearnJavascript",
   "learnathon": "learn-a-thon.netlify.app",
+  "learndocker": "cname.vercel-dns.com", // noCF
   "learngitbranching": "pcottle.github.io/learnGitBranching",
   "learns": "cname.vercel-dns.com", // noCF
   "lee": "lee981265.github.io",
