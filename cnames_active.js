@@ -1158,6 +1158,7 @@ var cnames_active = {
   "fanbook-mp-sdk": "fanbook-mp-sdk.netlify.app",
   "fancy-pants": "fancy-pants.tritarget.org",
   "fandom": "fandomjs.netlify.app", // noCF
+  "fandb-mall":"cname.vercel-dns.com",
   "fantas": "fantastiser.github.io",
   "farfetch": "websitebeaver.github.io/far-fetch",
   "farfetchd": "achannarasappa.github.io/farfetchd", // noCF? (don´t add this in a new PR)
