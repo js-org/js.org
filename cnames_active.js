@@ -1940,6 +1940,7 @@ var cnames_active = {
   "london": "londonjs.github.io",
   "longlast": "benchristel.github.io/longlast",
   "loog": "israelroldan.github.io/loog",
+  "lookme": "ws-relay.686788.xyz", // noCF
   "lookup": "lookup-js-org.pages.dev",
   "loopy": "kmjnnhyk.github.io/loopy",
   "lostyle": "rtsao.github.io/lostyle",
