@@ -183,6 +183,7 @@ var cnames_active = {
   "amaribot": "amaribot.github.io/amaribot.js",
   "amine": "am-77.github.io/amine",
   "amorphous": "ariabuckles.github.io/amorphous",
+  "logicaspxg": "andredrk.github.io/LogicasPXG",
   "ampn": "ampn.github.io",
   "amrit": "amritsrivastava.github.io",
   "analytics": "analyticsjs.github.io/web-analytics",
