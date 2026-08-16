@@ -2932,6 +2932,7 @@ var cnames_active = {
   "room": "atercerosb.github.io/roomHomepage",
   "rose": "discord-rose.github.io/discord-rose",
   "rosmaro": "lukaszmakuch.github.io/rosmaro",
+  "rosary-amharic": "yeabalex.github.io/Amharic-Rosary",
   "rossini": "stoyan.github.io/rossini",
   "router5": "hosting.gitbook.com",
   "routescape": "axtk.github.io/routescape",
