@@ -2933,7 +2933,7 @@ var cnames_active = {
   "rose": "discord-rose.github.io/discord-rose",
   "rosmaro": "lukaszmakuch.github.io/rosmaro",
   "rossini": "stoyan.github.io/rossini",
-  "rotaractswoyambhu": "cname.vercel-dns.com",
+  "rotaractswoyambhu": "cname.vercel-dns.com", // noCF
   "router5": "hosting.gitbook.com",
   "routescape": "axtk.github.io/routescape",
   "routex": "routex.netlify.app",
