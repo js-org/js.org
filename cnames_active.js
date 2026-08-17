@@ -3847,6 +3847,7 @@ var cnames_active = {
   "workers": "worker-tools.github.io/workers.js.org",
   "worksnake": "worksnake.github.io",
   "worma": "alovajs.github.io/devtools",
+  "wp-react": "farahmandm.github.io/wp-react",
   "wq": "wqjs.alwaysdata.net",
   "writebar": "alexander-shvets.github.io/writebar",
   "ws-debug": "yshenze.github.io/ws-debug", // noCF
