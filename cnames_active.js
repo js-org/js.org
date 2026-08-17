@@ -2578,6 +2578,7 @@ var cnames_active = {
   "pivottable": "nicolaskruchten.github.io/pivottable",
   "pixelanimator": "grough.github.io/pixel-animator",
   "pixelart": "meriadec.github.io/PixelartJS", // noCF? (don´t add this in a new PR)
+  "pixelrun": "jimm144.github.io/pixel-run",
   "pixiv": "pixiv.js.org.pages.dnsoe5.com", // noCF
   "pixpact": "legendsayantan.github.io/pixpact",
   "pizzle": "pizzlejs.github.io",
