@@ -2987,6 +2987,7 @@ var cnames_active = {
   "sass": "medialize.github.io/playground.sass.js", // noCF? (don´t add this in a new PR)
   "satori": "satorijs.github.io/docs",
   "saturon": "cname.vercel-dns.com", // noCF
+  "satyamark": "cname.vercel-dns.com", // noCF
   "saulosantiago": "saulosilva.github.io", // noCF? (don´t add this in a new PR)
   "sawyer": "sqwwy.github.io/sawyer.js.org",
   "saykit": "cname.vercel-dns.com", // noCF
@@ -3847,6 +3848,7 @@ var cnames_active = {
   "workers": "worker-tools.github.io/workers.js.org",
   "worksnake": "worksnake.github.io",
   "worma": "alovajs.github.io/devtools",
+  "wp-react": "farahmandm.github.io/wp-react",
   "wq": "wqjs.alwaysdata.net",
   "writebar": "alexander-shvets.github.io/writebar",
   "ws-debug": "yshenze.github.io/ws-debug", // noCF
