@@ -130,6 +130,7 @@ var cnames_active = {
   "ahooks": "ahooks.surge.sh",
   "ahooks-v2": "ahooks-v2.surge.sh",
   "aider": "tjz101.github.io/aider-js-pages",
+  "aia": "aiax.pages.dev",
   "aiga": "cname.vercel-dns.com", // noCF
   "aigcs": "docs-17t.pages.dev",
   "ailcr": "cname.vercel-dns.com", // noCF
