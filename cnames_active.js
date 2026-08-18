@@ -3006,6 +3006,7 @@ var cnames_active = {
   "scramb": "jastinxyz.github.io/scramb",
   "scramble": "ignatiusmb.github.io/scramble",
   "scratch": "scratch-js.github.io",
+  "screenfast": "berkehazar.github.io/ScreenFast",
   "screentocodesandbox": "ckgrafico.github.io/ScreenshotToCodeSandbox",
   "scriptex": "scriptex.github.io",
   "scroller-motion": "scroller-motion.netlify.app",
