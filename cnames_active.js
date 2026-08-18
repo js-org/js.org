@@ -3043,7 +3043,7 @@ var cnames_active = {
   "semantic-api": "semantic-api.github.io/docs",
   "semo": "semojs.github.io/semo",
   "senil": "mrfarhad.github.io/senilwebsite",
-  "seosee": "seosee.github.io",
+  "seosee": "ilyoukhinsndjjddj.github.io",
   "seoul": "seouljs.github.io/seoul.js.org",
   "sequel": "sequeljs.github.io",
   "sequelize-guard": "cname.vercel-dns.com", // noCF
