@@ -364,6 +364,7 @@ var cnames_active = {
   "belfast": "chrislaughlin.github.io/belfastjs",
   "benjick": "benjick.github.io",
   "berk": "berkelmas.github.io",
+  "berkehazar": "berkehazar.github.io",
   "bernard": "ojengwa.github.io",
   "berzan": "newbytee.github.io/berzan",
   "besafe": "ma124.github.io/BeSafe",
