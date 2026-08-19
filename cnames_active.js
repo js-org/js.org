@@ -1697,6 +1697,7 @@ var cnames_active = {
   "json-diff-kit": "rexskz.github.io/json-diff-kit",
   "json-e": "json-e.github.io/json-e",
   "json-format": "cname.vercel-dns.com", // noCF
+  "json-forge": "thesajidalam.github.io/json-forge",
   "json-formatter": "arnav-kr.github.io/json-formatter",
   "json-schema-faker": "json-schema-faker.github.io/website-jsf",
   "json-to-plain-text": "sumithemmadi.github.io/json-to-plain-text",
