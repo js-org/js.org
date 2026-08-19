@@ -1429,8 +1429,8 @@ var cnames_active = {
   "h7ml": "h7ml.github.io/web",
   "ha-store": "fed135.github.io/ha-store",
   "habra": "jarvis394.github.io/habra",
-  "hackkit": "cname.vercel-dns.com", // noCF
   "hackergf": "cname.vercel-dns.com", // noCF
+  "hackkit": "cname.vercel-dns.com", // noCF
   "hacktm": "hacktm.netlify.app",
   "hahuutin": "hahuutin.github.io",
   "hale": "haleshaw.github.io/hale",
