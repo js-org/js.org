@@ -3405,8 +3405,8 @@ var cnames_active = {
   "tech-human-id": "abhisekp.github.io/tech-human-id",
   "techthinker": "tech-thinker.github.io",
   "techxuexi": "techxuexi.netlify.app",
-  "techzeros": "techzeros.vercel.app",
   "techy": "hosting.gitbook.com",
+  "techzeros": "techzeros.vercel.app",
   "tejas": "harshsinghdev.github.io/tejas",
   "telaviv": "dustin-h.github.io/telaviv", // noCF? (don´t add this in a new PR)
   "telegraf": "telegraf.github.io/telegraf", // noCF? (don´t add this in a new PR)
