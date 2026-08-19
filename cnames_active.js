@@ -3781,6 +3781,7 @@ var cnames_active = {
   "watchfs": "prateekkumarweb.github.io/watchfs",
   "waterfall": "waterblock79.github.io/waterfall",
   "watermark": "fredy.github.io/watermark",
+  "watr": "dy.github.io/watr",
   "wc": "bryansha.github.io/wc",
   "wcfactory": "elmsln.github.io/wcfactory.js.org",
   "wdd": "wangduanduan.github.io",
