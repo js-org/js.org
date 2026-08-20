@@ -1956,6 +1956,7 @@ var cnames_active = {
   "luciascript": "luciascript.netlify.app",
   "lucy": "lucy-bot.github.io",
   "lukemetoki": "luke2m.github.io",
+  "lumatrix": "everydaydrama8364-netizen.github.io",
   "lume.shiraha": "importantimport.github.io/lume_theme_shiraha", // noCF
   "lumi": "furioustsunami.github.io/lumijs",
   "lumpia": "lumpiajs.netlify.app",
