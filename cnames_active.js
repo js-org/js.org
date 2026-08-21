@@ -2970,6 +2970,7 @@ var cnames_active = {
   "sai": "hackers4peace.github.io/sai-js",
   "saigon": "saigonjs.github.io",
   "sailesh": "saileshkasaju.github.io/crud-react-redux-mongo",
+  "sajilo-alert": "sajilo-alert.vercel.app",
   "sakiv": "sakiv.github.io",
   "salary": "whz11.github.io/salarytools",
   "salvacam": "salvacam.github.io",
