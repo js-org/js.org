@@ -50,6 +50,7 @@ var cnames_active = {
   "1c": "oknosoft.github.io/1c",
   "1diaboliko84": "1diaboliko84.github.io",
   "1ib": "1ib.github.io",
+  "1state": "1state.pages.dev",
   "21cm": "21cm.github.io",
   "23chemistrycamp": "nchuchemistry.github.io/23chemistrycamp",
   "2tube": "you2php.github.io/you2php",
@@ -1499,6 +1500,7 @@ var cnames_active = {
   "hookstate": "hookstate.netlify.app", // noCF
   "hooloo": "hooloo.github.io", // noCF? (don´t add this in a new PR)
   "hoshii": "reinhello.github.io/hoshii-docs",
+  "hoshimi": "cname.vercel-dns.com", // noCF
   "houp": "houpjs.github.io/houp-docs",
   "hours": "cname.vercel-dns.com", // noCF
   "how-to-mithril": "stephanhoyer.github.io/how-to-mithril",
