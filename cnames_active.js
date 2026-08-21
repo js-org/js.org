@@ -3602,7 +3602,7 @@ var cnames_active = {
   "unreal": "sprayxe.github.io/unreal.js.org",
   "unsafe": "unsafely.github.io/unsafe.js",
   "unuse": "un-ts.github.io/unuse",
-  "uoeazerbaijan": "://vercel-dns.com",
+  "uoeazerbaijan": "cname.vercel-dns.com",
   "up": "codefeathers.github.io/up",
   "updates.flightpkg": "cname.vercel-dns.com", // noCF
   "updevs-db": "up-devs.github.io/db-docs",
