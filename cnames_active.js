@@ -1500,6 +1500,7 @@ var cnames_active = {
   "hookstate": "hookstate.netlify.app", // noCF
   "hooloo": "hooloo.github.io", // noCF? (don´t add this in a new PR)
   "hoshii": "reinhello.github.io/hoshii-docs",
+  "hoshimi": "cname.vercel-dns.com", // noCF
   "houp": "houpjs.github.io/houp-docs",
   "hours": "cname.vercel-dns.com", // noCF
   "how-to-mithril": "stephanhoyer.github.io/how-to-mithril",
@@ -2953,6 +2954,7 @@ var cnames_active = {
   "rub": "rubo-21.github.io",
   "rubidium": "love-kogasa.github.io/Rubidium-NodeLoader",
   "ruhuman": "ruhuman.github.io", // noCF? (don´t add this in a new PR)
+  "runcode": "code-hemu.github.io/runcodejs",
   "runtimex": "minecraftpublisher.github.io/RuntimeX",
   "runty": "nderscore.github.io/runty",
   "russell": "russellsteadman.github.io/russelljs",
@@ -2970,6 +2972,7 @@ var cnames_active = {
   "sai": "hackers4peace.github.io/sai-js",
   "saigon": "saigonjs.github.io",
   "sailesh": "saileshkasaju.github.io/crud-react-redux-mongo",
+  "sajilo-alert": "cname.vercel-dns.com", // noCF
   "sakiv": "sakiv.github.io",
   "salary": "whz11.github.io/salarytools",
   "salvacam": "salvacam.github.io",
