@@ -2954,6 +2954,7 @@ var cnames_active = {
   "rub": "rubo-21.github.io",
   "rubidium": "love-kogasa.github.io/Rubidium-NodeLoader",
   "ruhuman": "ruhuman.github.io", // noCF? (don´t add this in a new PR)
+  "runcode": "code-hemu.github.io/runcodejs",
   "runtimex": "minecraftpublisher.github.io/RuntimeX",
   "runty": "nderscore.github.io/runty",
   "russell": "russellsteadman.github.io/russelljs",
