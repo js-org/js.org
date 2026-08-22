@@ -3374,6 +3374,7 @@ var cnames_active = {
   "synth": "lukehorvat.github.io/synth-mood",
   "syr": "dmikey.github.io/syr",
   "system-monitoring": "miladezzat.github.io/system-monitoring",
+  "stawwkrzesku": "gminazbuczyn.github.io/stawwkrzesku",
   "t": "l-js.mydevapp.tfuture.eu.org", // noCF
   "t8": "t8js.github.io",
   "tab": "gdmcc.github.io/tab",
