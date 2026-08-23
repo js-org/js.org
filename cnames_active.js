@@ -3230,6 +3230,7 @@ var cnames_active = {
   "spotistats": "spotistats-app.netlify.app",
   "sprae": "dy.github.io/sprae",
   "spread": "spreadjs.github.io",
+  "spreaddebate": "wowneutral.github.io/spread",
   "spreadsheet": "chiefofgxbxl.github.io/Spreadsheet.js",
   "spring": "hosting.gitbook.com",
   "spritesheet": "arcadiogarcia.github.io/Spritesheet.js", // noCF? (don´t add this in a new PR)
