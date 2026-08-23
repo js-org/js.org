@@ -3938,6 +3938,7 @@ var cnames_active = {
   "zhangnew": "zhangnew.github.io",
   "zhaomenghuan": "zhaomenghuan.github.io",
   "zhd": "zhdmitry.github.io",
+  "zhgpt": "zhgpt.github.io",
   "zhin": "zhin.pages.dev",
   "zignis": "zhike-team.github.io/zignis",
   "zigzag": "cname.vercel-dns.com", // noCF
