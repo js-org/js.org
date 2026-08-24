@@ -1784,7 +1784,7 @@ var cnames_active = {
   "kodadot": "kodadot.github.io",
   "kody": "thomasbrueggemann.github.io/kody",
   "kencarter": "mtrm8.github.io/KENCARTER,
-    kofiloop": "norech.github.io/KofiLoop",
+  "kofiloop": "norech.github.io/KofiLoop",
   "koin": "muditjuneja.github.io/koin",
   "koishi": "koishijs.github.io",
   "kokkoro": "kokkorojs.github.io",
