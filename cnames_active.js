@@ -92,6 +92,7 @@ var cnames_active = {
   "acebooks": "mohamed0group.github.io/acebooks",
   "acegroup": "mohamed0group.github.io/acegroup",
   "acho": "achojs.github.io/acho",
+  "logsofnetworking": "amagarmohmed.github.io/your-repo-name",
   "acidmod": "acidmod.github.io",
   "acker": "acker-technologies.github.io/ackerjs",
   "acm": "drew233.github.io/calander",
