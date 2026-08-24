@@ -3137,6 +3137,7 @@ var cnames_active = {
   "skeptical-coder": "rbpinheiro.github.io/skeptical-coder",
   "sketch": "keiww.github.io/sketch",
   "skiff": "priyanshu-1622.github.io/skiff-website",
+  "skills": "sohailkhan0525.github.io/skills",
   "skillsync": "adityasugandhi.github.io/skillsync-mcp",
   "skiyee": "skiyee.pages.dev",
   "skratch": "websyncs.github.io/skratch",
