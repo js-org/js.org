@@ -1156,7 +1156,6 @@ var cnames_active = {
   "fakeyouapi": "ftk789.github.io/FakeYouAPI.js",
   "fakeyouts": "jack3898.github.io/fakeyou.ts",
   "fallr": "faisalman.github.io/fallr-js",
-  "firmaexpresspro": "ftvmati2026.github.io/FirmaExpress-Pro",
   "fan": "garychamberlain.github.io/fan",
   "fanbook-api-sdk": "fanbook-api-node-sdk.netlify.app",
   "fanbook-mp-sdk": "fanbook-mp-sdk.netlify.app",
@@ -1198,6 +1197,7 @@ var cnames_active = {
   "firenze": "fahad19.github.io/firenze", // noCF? (don´t add this in a new PR)
   "fireorm": "wovalle.github.io/fireorm",
   "fireworks": "crashmax-dev.github.io/fireworks-js",
+  "firmaexpresspro": "ftvmati2026.github.io/FirmaExpress-Pro",
   "first-accord": "sticknologic.github.io/First-Accord",
   "fish": "cdaringe.github.io/fish",
   "five": "jackdcrawford.github.io/five",
