@@ -2981,6 +2981,7 @@ var cnames_active = {
   "samathgen": "sadykhzadeh.github.io/samathgen",
   "samengine": "cname.vercel-dns.com", // noCF
   "samlify": "tngan.github.io/samlify",
+  "samplefuelreceipt": "shantanu1258.github.io/samplefuelreceipt",
   "samply": "yury-shevchenko.github.io/samply",
   "samplyr": "arze1.github.io/samplyr-site",
   "sampoder": "sampoder.github.io",
