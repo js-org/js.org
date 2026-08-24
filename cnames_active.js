@@ -1749,7 +1749,7 @@ var cnames_active = {
   "kavo": "kavo-labs.github.io/kavo",
   "kawaii": "moemoesoft.github.io/kawaii", // noCF
   "kcak11": "kcak11.github.io/js-org-web",
-  "kelvinho": "kelvin2go.github.io", // noCF? (don´t add this in a new PR)
+  "kencarter": "mtrm8.github.io/kencarter",
   "kewitz": "kewitz.github.io",
   "key": "bernzrdo.github.io/key",
   "keyframe-refiner": "keyframe-refiner.github.io/keyframe-refiner",
@@ -1782,7 +1782,6 @@ var cnames_active = {
   "koa-rest-api-boilerplate": "posquit0.github.io/koa-rest-api-boilerplate",
   "kobra": "johnsylvain.github.io/kobra",
   "kodadot": "kodadot.github.io",
-  "kencarter": "mtrm8.github.io/kencarter",
   "kody": "thomasbrueggemann.github.io/kody",
   "kofiloop": "norech.github.io/KofiLoop",
   "koin": "muditjuneja.github.io/koin",
