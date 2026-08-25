@@ -121,6 +121,7 @@ var cnames_active = {
   "agenda-tech-brasil-site": "abacatinhos.github.io/agenda-tech-brasil-site",
   "agentify": "agentify-js-org.github.io/pages",
   "agentnpm": "meetping.github.io/agentnpm",
+  "agentx": "sohailkhan0525.github.io/agentx-docs",
   "agilecards": "otaklapka.github.io/agilecards",
   "agma": "uwynell.github.io/agma.js",
   "agrawalnaman": "agrawalnaman.github.io",
