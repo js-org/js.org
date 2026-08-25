@@ -3502,6 +3502,7 @@ var cnames_active = {
   "trackymouse": "1j01.github.io/tracky-mouse",
   "trakas": "trakas.github.io",
   "translate": "xuanzhi33.github.io/translate.js",
+  "transliterate-any-to-any": "siffash.github.io/transliterate-any-to-any",
   "transposer": "francesco-dipi.github.io/transposer",
   "trayce": "dmstoykov.github.io/trayce",
   "tree-cli": "yangshun.github.io/tree-node-cli",
