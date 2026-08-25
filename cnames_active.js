@@ -812,6 +812,7 @@ var cnames_active = {
   "demo.linksharer": "linksharer.github.io/LinkSharer", // noCF
   "demo.upptime": "upptime.github.io/upptime", // noCF
   "democracy": "invisible-college.github.io/democracy",
+  "demonslayerdle": "demonslayerdle.netlify.app",
   "denalon": "denalon.github.io",
   "denepo": "denepo.github.io",
   "denisvieira": "denisvieira05.github.io",
