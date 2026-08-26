@@ -3829,6 +3829,7 @@ var cnames_active = {
   "which-node": "tobysmith568.github.io/which-node-js",
   "whistle": "whistle-lang.github.io/website",
   "whiteboard": "yhozen.github.io/whiteboard",
+  "whoislookup": "whois-lookup.ahmedali2026.workers.dev",
   "whoasked": "mathdebate09.github.io/who-asked",
   "wi": "rstee.serv00.net",
   "wice": "yulioaj290.github.io/wice.js",
@@ -3869,7 +3870,6 @@ var cnames_active = {
   "wysc": "coffeebank.github.io/wysc-vue",
   "wysi": "mdbassit.github.io/Wysi",
   "wz": "wangzhen-chn.github.io/wz",
-  "whoislookup": "whois-lookup.ahmedali2026.workers.dev",
   "x": "nikhiljohn10.github.io/x.js",
   "x.gametime": "parking-master.github.io/Gametime.js-X", // noCF
   "xatom": "xatomteam.github.io/docs",
