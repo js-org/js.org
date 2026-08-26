@@ -2934,7 +2934,6 @@ var cnames_active = {
   "rocketact": "jdf2e.github.io/rocketact",
   "rockjins": "rockjins.github.io",
   "roghib": "hosting.gitbook.com",
-  "rohan": "cname.vercel-dns.com", // noCF
   "romanager": "imacodr.github.io/romanager",
   "romcal": "romcal.github.io",
   "room": "atercerosb.github.io/roomHomepage",
