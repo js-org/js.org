@@ -16,8 +16,7 @@ var ns_active = {
   "engine262": ["ns1.he.net", "ns2.he.net", "ns3.he.net", "ns4.he.net", "ns5.he.net"],
   "lolifamily": ["glen.ns.cloudflare.com", "melany.ns.cloudflare.com"],
   "mermaid": ["dns1.p04.nsone.net", "dns2.p04.nsone.net", "dns3.p04.nsone.net", "dns4.p04.nsone.net"],
-  "ruby": ["alexis.ns.cloudflare.com", "connie.ns.cloudflare.com"],
-    "whoislookup": ["kaiser.ns.cloudflare.com", "serenity.ns.cloudflare.com"]
+  "ruby": ["alexis.ns.cloudflare.com", "connie.ns.cloudflare.com"]
 }
 
 /*
