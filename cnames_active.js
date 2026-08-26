@@ -3055,6 +3055,7 @@ var cnames_active = {
   "seoul": "seouljs.github.io/seoul.js.org",
   "sequel": "sequeljs.github.io",
   "sequelize-guard": "cname.vercel-dns.com", // noCF
+  "sequence": "glitch2006.github.io/sequence",
   "sequential": "lorenzoongithub.github.io/sequential",
   "serginator": "serginator.github.io", // noCF? (don´t add this in a new PR)
   "serializer": "haircvt.github.io/serializerjs", // noCF? (don´t add this in a new PR)
