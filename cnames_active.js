@@ -1438,6 +1438,7 @@ var cnames_active = {
   "hahuutin": "hahuutin.github.io",
   "hale": "haleshaw.github.io/hale",
   "halil": "hibrahimsafak.github.io", // noCF? (don´t add this in a new PR)
+  "halloween": "rogulia.github.io/halloween.js",
   "haloapi": "derflatulator.github.io/haloapi.js", // noCF? (don´t add this in a new PR)
   "hamburger-menu": "center-key.github.io/hamburger-menu",
   "hamed": "phpniki.github.io/hamed",
@@ -2886,6 +2887,7 @@ var cnames_active = {
   "reselect": "reselect-docs.netlify.app",
   "reshape": "reshape.netlify.app",
   "reshift": "hasharray.github.io/reshift.js",
+  "resilix": "lintdeveloper.github.io/resilix",
   "rest-client": "foxifyjs.github.io/rest-client",
   "restjs": "daviesgeek.github.io/restjs", // noCF? (don´t add this in a new PR)
   "restore-scroll": "restore-scroll.netlify.app",
