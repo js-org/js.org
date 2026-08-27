@@ -1999,6 +1999,7 @@ var cnames_active = {
   "maker": "microsoft.github.io/maker.js",
   "makes": "makesjs.github.io",
   "mali": "malijs.github.io",
+  "mamicikle": "cname.vercel-dns.com",
   "mangascrape": "tzurs11.github.io/MangaScrape",
   "manic": "manicjs.github.io",
   "mansiart": "mansiart.github.io/mansiart",
