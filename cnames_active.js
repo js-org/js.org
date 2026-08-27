@@ -758,7 +758,7 @@ var cnames_active = {
   "cyris": "icyris.github.io",
   "d-patterns": "alias.zeit.co", // noCF
   "d4": "joelburget.github.io/d4",
-  "daggerfall": "lattymoy.github.io/project-dagger",
+  "daggerfall": "lattymoy.github.io/daggerfall-js-source",
   "daily.tmr": "tmr-daily.netlify.app", // noCF
   "daisy": "warengonzaga.github.io/daisy.js",
   "daksh0225": "daksh0225.github.io",
