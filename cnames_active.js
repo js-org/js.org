@@ -339,7 +339,7 @@ var cnames_active = {
   "bane": "kemosaf.github.io/bane",
   "baoshuo": "renbaoshuo.github.io/baoshuo.css",
   "bara": "barajs.github.io/bara",
-  "barka": "mybarka.vercel.app",
+  "barka": "cname.vercel-dns.com", // noCF,
   "barba": "barbajs.github.io/barba",
   "barbagrigia": "barbagrigia.github.io",
   "bard-ai": "evanzhoudev.github.io/bard-ai",
