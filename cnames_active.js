@@ -2233,6 +2233,7 @@ var cnames_active = {
   "muiplayer": "muiplayer.github.io",
   "mujin": "mujin669.github.io",
   "multiple": "nexts.github.io/Multiple.js",
+  "multinotepad": "cullm001.github.io/multinotepad",
   "multiversus": "cname.vercel-dns.com", // noCF
   "murajaah": "mzaini30.github.io/murajaah-js",
   "murmansk": "interfluve.github.io/Murmansk",
