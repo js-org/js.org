@@ -897,6 +897,7 @@ var cnames_active = {
   "disfox": "cname.vercel-dns.com", // noCF
   "disgroupdev": "disgroup-development.github.io/disgroupdev.js",
   "disgrow": "sinkaroid.github.io/disgrow",
+  "dishubminahasa": "eomeson-creator.github.io/portal-dishubmin-antikorupsi",
   "dismord": "dismord.github.io/website",
   "display": "arguiot.github.io/DisplayJS",
   "distillery": "achannarasappa.github.io/distillery", // noCF? (don´t add this in a new PR)
