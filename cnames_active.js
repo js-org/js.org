@@ -2337,6 +2337,7 @@ var cnames_active = {
   "nikmartin": "nikmartin.github.io",
   "nima": "nimaw.github.io",
   "ninh": "reeganexe.github.io/ninh",
+  "ninjago-media": "lurkingmonarch.github.io",
   "nintenbot": "nintenzone.github.io/NintenBot",
   "niplayer": "niyuancheng.github.io/NiPlayerDocs",
   "nite": "manvalls.github.io/nite",
