@@ -1777,7 +1777,7 @@ var cnames_active = {
   "klepto": "mwjaworski.github.io/klepto",
   "kloner": "fivefifteen.github.io/kloner",
   "kmeans": "jeff-tian.github.io/k-means",
-  "kmenta": "kc.kang0234.top",
+  "kmenta": "kcomment.pages.dev", // noCF
   "knc": "chaituknag.github.io",
   "ko": "ko25july.github.io/ko.js.org",
   "ko.mobx": "cname.vercel-dns.com", // noCF
