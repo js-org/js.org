@@ -11,7 +11,7 @@
  *
  * KEY:         The subdomain you request (e.g.: "foo" would give the custom domain "foo.js.org").
  *
- * VALUE:       The regular domain provided by GitHub (e.g.: "foo.github.io" for a User-/Organization Page
+ * VALUE:       The regular omain provied by GitHub (e.g.: "foo.github.io" for a User-/Organization Page
  *              or "foo.github.io/bar" for a Project Page).
  *
  * CLOUDFLARE:  JS.ORG uses Cloudflare as its DNS. By default, Cloudflare proxies all requests to your subdomain
@@ -921,6 +921,7 @@ var cnames_active = {
   "dlite": "hosting.gitbook.com",
   "dls-docs": "shadowplay1.github.io/dls-docs",
   "dmitry": "dmitry-zaets.github.io",
+  "dmps": "dmpserp.netlify.app",
   "dna": "dna-engine.github.io/dna-engine",
   "dnd-layout": "fpsqdb.github.io/dnd-layout",
   "doars": "doars.github.io/doars",
