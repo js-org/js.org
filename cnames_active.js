@@ -2858,6 +2858,7 @@ var cnames_active = {
   "rmodal": "zewish.github.io/rmodal.js",
   "rn-material": "cname.vercel-dns.com", // noCF
   "roadmafia": "roadmafia.github.io",
+  "roadmaps": "lazycoder-git.github.io/JS-Hosting",
   "roam": "roam-cn.github.io",
   "robo-wizard": "hipsterbrown.github.io/robo-wizard",
   "rock": "w3core.github.io/RockJS",
