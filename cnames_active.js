@@ -2247,6 +2247,7 @@ var cnames_active = {
   "newbyte": "newbytee.github.io/newbyte",
   "newcar": "newcar-docs.netlify.app",
   "newton": "caracal7.github.io/newton.js",
+  "nex-client": "nex-client.pages.dev",
   "nexbase-core": "petrunov.github.io/nexbase-core",
   "next": "zeit.github.io/next-site",
   "next-admin": "cname.vercel-dns.com", // noCF
