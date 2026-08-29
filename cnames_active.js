@@ -1281,8 +1281,7 @@ var cnames_active = {
   "fvuar": "fvuarjs.netlify.app",
   "fw": "fjs.alwaysdata.net",
   "fy": "fyjs.netlify.app",
-  "fyi": "tobihrbr.github.io/fyi",
-  "g": "nodebox.github.io/g.js",
+  "fyi": "tobihrbr.github.io/fyi"
   "g-point": "bdvela.github.io/g-point",
   "gaiman": "jcubic.github.io/gaiman",
   "gal": "galmail.github.io", // noCF? (don´t add this in a new PR)
@@ -1304,6 +1303,7 @@ var cnames_active = {
   "geekr": "ruanyl.github.io/geekr", // noCF? (don´t add this in a new PR)
   "gemstone": "pierreavn.github.io/gemstone",
   "genanki": "krmanik.github.io/genanki-js",
+  "genbase": "cname.vercel-dns.com",
   "generate-license-file": "tobyandtoby.github.io/generate-license-file",
   "genius-lyrics": "zyrouge.github.io/genius-lyrics",
   "genoacms": "genoacms.github.io/docs",
