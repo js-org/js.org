@@ -1572,6 +1572,7 @@ var cnames_active = {
   "importree": "alexgrozav.github.io/importree",
   "impress": "impress.github.io/impress.js",
   "imrc-datetime-picker": "smrsan76.github.io/imrc-datetime-picker",
+  "imtucreations': 'javines200-source.github.io',
   "imvu": "imvujs.pages.dev", // noCF
   "indie": "indie-org.github.io/indie",
   "inference": "cname.vercel-dns.com", // noCF
