@@ -2392,6 +2392,7 @@ var cnames_active = {
   "opentype": "nodebox.github.io/opentype.js",
   "opk": "cname.vercel-dns.com", // noCF
   "opmongo": "sanikava.github.io/OpMongo",
+  "optimizeglb": "cname.vercel-dns.com", // noCF
   "orbiton": "orbitonjs.github.io",
   "order-ai": "orderai.onrender.com", // noCF
   "orga": "orgapp.github.io/orgajs",
