@@ -381,6 +381,7 @@ var cnames_active = {
   "bigbro": "cname.vercel-dns.com", // noCF
   "biggames": "jacobhumston.github.io/biggames.js",
   "bijou": "explosion-scratch.github.io/bijou.js",
+  "bimtex": "bimtex.pages.dev",
   "bin": "sujalgoel.github.io/impostor-bin",
   "bind-action-dispatchers": "cchamberlain.github.io/bind-action-dispatchers", // noCF? (don´t add this in a new PR)
   "bingo": "thewilloftheshadow.github.io/bingo.js",
@@ -2977,6 +2978,7 @@ var cnames_active = {
   "sai": "hackers4peace.github.io/sai-js",
   "saigon": "saigonjs.github.io",
   "sailesh": "saileshkasaju.github.io/crud-react-redux-mongo",
+  "sajid": "thesajidalam.github.io/sajid-js",
   "sajilo-alert": "cname.vercel-dns.com", // noCF
   "sakiv": "sakiv.github.io",
   "salary": "whz11.github.io/salarytools",
