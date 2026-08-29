@@ -105,6 +105,7 @@ var cnames_active = {
   "adaptui": "cname.vercel-dns.com", // noCF
   "aderemi": "aderemi.github.io",
   "adil": "adilzeshan.github.io/adil",
+  "ai-image-studio": "manushkarukshan-source.github.io/AI-Image-Studio",
   "aditya": "aditya81070.github.io",
   "adjskit": "devs-des1re.github.io/adjskit",
   "adnanbabakan": "adnanbabakan.github.io",
