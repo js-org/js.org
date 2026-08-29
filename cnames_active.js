@@ -186,6 +186,7 @@ var cnames_active = {
   "amaple": "amjs-team.github.io/amaple",
   "amaribot": "amaribot.github.io/amaribot.js",
   "amine": "am-77.github.io/amine",
+  "animebsclub": "badsha786sekh-786.github.io/Anime-",
   "amorphous": "ariabuckles.github.io/amorphous",
   "ampn": "ampn.github.io",
   "amrit": "amritsrivastava.github.io",
