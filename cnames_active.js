@@ -132,6 +132,7 @@ var cnames_active = {
   "agrume": "cname.vercel-dns.com", // noCF
   "ahmad": "aruzikulov.github.io/ahmad",
   "ahnotification": "ahmadhayyan.github.io/ahnotification.js",
+  "ai-image-studio": "manushkarukshan-source.github.io/AI-Image-Studio",
   "ahooks": "ahooks.surge.sh",
   "ahooks-v2": "ahooks-v2.surge.sh",
   "aider": "tjz101.github.io/aider-js-pages",
