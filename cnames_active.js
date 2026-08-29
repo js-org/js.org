@@ -1,4 +1,4 @@
-/*
+"craken-pro": "crakenprotrading.vercel.app",/*
  ***** ACTIVE SUBDOMAINS
  * ***********************
  *
