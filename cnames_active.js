@@ -135,6 +135,7 @@ var cnames_active = {
   "ahooks-v2": "ahooks-v2.surge.sh",
   "aider": "tjz101.github.io/aider-js-pages",
   "aiga": "cname.vercel-dns.com", // noCF
+  "ai-image-studio": "manushkarukshan-source.github.io/AI-Image-Studio",
   "aigcs": "docs-17t.pages.dev",
   "ailcr": "cname.vercel-dns.com", // noCF
   "aiml": "jesobreira.github.io/aimljs",
