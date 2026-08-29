@@ -44,6 +44,7 @@ var cnames_active = {
   "101": "7anshuai.github.io/js101", // noCF? (don´t add this in a new PR)
   "131": "netrvin.github.io",
   "140513": "140513.github.io",
+  "animebsclub": "badsha786sekh-786.github.io/Anime-",
   "145storage": "54145a.github.io/145Storage2",
   "1api": "yourtion.github.io/one-api",
   "1auth": "1auth.pages.dev",
