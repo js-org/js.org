@@ -2648,6 +2648,7 @@ var cnames_active = {
   "prettylog": "moosecoop.github.io/PrettyLog",
   "printx": "x-ext.netlify.app",
   "pristine": "sha256.github.io/Pristine", // noCF
+  "prodcheck": "farzamhabibi.github.io/pre-production-checklist",
   "producify": "jesobreira.github.io/producify",
   "producthunt-trending": "xiaomingplus.github.io/producthunt-trending",
   "profanity-finder": "gautamkrishnar.github.io/profanity-finder.js",
