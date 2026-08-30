@@ -295,6 +295,7 @@ var cnames_active = {
   "awesome-web-react": "dataformsjs.github.io/awesome-web-react",
   "awesomefeed": "arojunior.github.io/awesome-feed",
   "awesomehub": "awesomehub.netlify.app",
+  "awesome-ai-tools": "awesome-ai-tools-suite.vercel.app",
   "awk": "42ua.github.io/awk",
   "awoo": "awoojs.github.io/website",
   "axii": "ariesate.github.io/axii-site",
