@@ -3719,7 +3719,6 @@ var cnames_active = {
   "webconnect": "nuzulul.github.io/webConnect.js",
   "webfetch": "c1tizen.github.io/webfetch",
   "webfont": "cname.vercel-dns.com", // noCF
-  "webmc": "michaljaz.github.io/webmc",
   "webminer": "web-miner.github.io",
   "webos": "dynamiccode1.github.io/webos",
   "webpack": "cname.vercel-dns.com", // noCF
