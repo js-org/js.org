@@ -1914,6 +1914,7 @@ var cnames_active = {
   "lukemetoki": "luke2m.github.io",
   "lume.shiraha": "importantimport.github.io/lume_theme_shiraha", // noCF
   "lumpia": "lumpiajs.netlify.app",
+  "lunibee": "ekretos.github.io/lunibee",
   "lunisolar": "waterbeside.github.io/lunisolar-docs",
   "lunox": "kodepandai.github.io/lunox",
   "luzc": "lucianing.github.io/notes",
@@ -3719,7 +3720,6 @@ var cnames_active = {
   "webconnect": "nuzulul.github.io/webConnect.js",
   "webfetch": "c1tizen.github.io/webfetch",
   "webfont": "cname.vercel-dns.com", // noCF
-  "webmc": "michaljaz.github.io/webmc",
   "webminer": "web-miner.github.io",
   "webos": "dynamiccode1.github.io/webos",
   "webpack": "cname.vercel-dns.com", // noCF

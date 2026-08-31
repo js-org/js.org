@@ -1,3 +1,12 @@
+# ⏸️ Temporary pause on new subdomain requests 😴
+
+JS.ORG is temporarily not accepting new subdomain requests until mid-September 2026.
+
+As a result, the PR section for new subdomain requests is currently disabled. Please do not submit new requests during this period.
+
+We expect to resume accepting requests around mid-September. Thank you for your patience and understanding!
+
+
 [![JS.ORG](https://img.shields.io/badge/js.org-+-FFE70B.svg?style=flat-square)](http://js.org)
 [![PRs](https://img.shields.io/github/issues-pr-closed-raw/js-org/js.org.svg?style=flat-square&colorB=FFE70B&label=pull%20requests)](https://github.com/js-org/js.org/pulls?q=is%3Apr+is%3Aclosed+label%3Aadd)
 [![Contributors](https://img.shields.io/github/contributors-anon/js-org/js.org?color=FFE70B&style=flat-square)](https://github.com/js-org/js.org/graphs/contributors)
