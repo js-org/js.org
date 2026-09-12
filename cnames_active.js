@@ -148,6 +148,7 @@ var cnames_active = {
   "akash": "hish.github.io/akashjs",
   "akhyar": "akhyar.pages.dev",
   "aksara": "sajenid.github.io/aksara.js",
+  "akshit.ahuja": "ahuja101992.github.io/akshit.ahuja", // noCF
   "aksharamukha": "paramsiddharth.github.io/aksharamukha.js",
   "akte": "akte.netlify.app",
   "alasql": "alasql.github.io", // noCF? (don´t add this in a new PR)
