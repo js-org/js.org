@@ -3380,6 +3380,7 @@ var cnames_active = {
   "threads": "andywer.github.io/threads.js",
   "threebody": "cnzc.github.io/threebody",
   "ths": "ths-fe.github.io",
+  "thursday-arts": "cname.vercel-dns.com",
   "thundercats": "thundercatsjs.github.io/thundercats", // noCF? (don´t add this in a new PR)
   "tictactoe": "jeff-tian.github.io/tic-tac-toe-ai",
   "tiden": "tidenjs.netlify.app",
