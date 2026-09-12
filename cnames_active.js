@@ -1358,11 +1358,11 @@ var cnames_active = {
   "groundstate": "axtk.github.io/groundstate",
   "groupme": "groupme-js.github.io/website",
   "growfield": "fivefifteen.github.io/growfield",
-  "grvffws": "grvofcgarena-tw.github.io/GRV-panel-site",
   "grpcity": "cname.vercel-dns.com", // noCF
   "grtblog": "grtsinry43.github.io/grtblog",
   "grub": "grubburg.github.io/blog",
   "grumpy": "aidenybai.github.io/grumpy",
+  "grvffws": "grvofcgarena-tw.github.io/GRV-panel-site",
   "gterminal": "gterminal-project.github.io",
   "gtfs": "gtfs-js.github.io/gtfs.js.org",
   "gtk": "hwittenborn.github.io/gtk-js",
