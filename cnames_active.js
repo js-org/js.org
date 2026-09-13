@@ -2592,6 +2592,7 @@ var cnames_active = {
   "profanity-finder": "gautamkrishnar.github.io/profanity-finder.js",
   "profile": "treboryx.github.io/Profile",
   "profilie": "profilie.github.io",
+  "profitleak": "eroonone-boop.github.io/profitleak-ai",
   "program-builder": "program-builder.netlify.app",
   "progressbars": "josephabbey.github.io/progressbars",
   "promethium": "promethiumjs.github.io/docs", // noCF
