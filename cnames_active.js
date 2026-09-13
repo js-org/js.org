@@ -213,6 +213,7 @@ var cnames_active = {
   "antwar": "antwarjs.github.io/antwar",
   "anukul": "anukul.github.io",
   "aoi": "aoijs.github.io/website",
+  "aol-io": "aol-io.github.io/page",
   "aom": "scarych.github.io/aom",
   "aomex": "aomex.github.io",
   "api.just": "js-just.github.io/raw-api", // noCF
