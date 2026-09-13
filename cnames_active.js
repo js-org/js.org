@@ -1693,8 +1693,8 @@ var cnames_active = {
   "kaguwo": "kaguwos-portfolio.netlify.app",
   "kahoot": "na-west1.surge.sh",
   "kainy": "kainy.github.io/js.org",
-  "kaizenreply": "cname.vercel-dns.com", // noCF
   "kairusds": "kairusds.github.io",
+  "kaizenreply": "cname.vercel-dns.com", // noCF
   "kaleidopixel": "fzxx.github.io/KaleidoPixel",
   "kali": "kali65536.github.io",
   "kalm": "fed135.github.io/kalm.github.io", // noCF? (don´t add this in a new PR)
