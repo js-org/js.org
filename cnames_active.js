@@ -453,6 +453,7 @@ var cnames_active = {
   "bunyan-pmx": "cchamberlain.github.io/bunyan-pmx", // noCF? (don´t add this in a new PR)
   "bunyan-serializer": "cchamberlain.github.io/bunyan-serializer", // noCF? (don´t add this in a new PR)
   "burst": "hugeen.github.io/burst", // noCF? (don´t add this in a new PR)
+  "businesslog": "businesslog.pages.dev",
   "bustime": "agarzola.github.io/bustime", // noCF? (don´t add this in a new PR)
   "butterfly": "cname.vercel-dns.com", // noCF
   "buttermilk": "buttermilk.netlify.app",
