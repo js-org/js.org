@@ -1693,7 +1693,7 @@ var cnames_active = {
   "kaguwo": "kaguwos-portfolio.netlify.app",
   "kahoot": "na-west1.surge.sh",
   "kainy": "kainy.github.io/js.org",
-  "kaizenreply": "kaizenreply.vercel.app",
+  "kaizenreply": "cname.vercel-dns.com", // noCF
   "kairusds": "kairusds.github.io",
   "kaleidopixel": "fzxx.github.io/KaleidoPixel",
   "kali": "kali65536.github.io",
