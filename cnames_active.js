@@ -1162,6 +1162,7 @@ var cnames_active = {
   "finance": "financejs.github.io/finance.js",
   "financial": "financialjsorg.netlify.app",
   "finder": "applait.github.io/finderjs", // noCF? (don´t add this in a new PR)
+  "finengine": "gmrafi.github.io/FinEngine",
   "fini": "janovekj.github.io/fini",
   "fire-hydrant": "cchamberlain.github.io/fire-hydrant", // noCF? (don´t add this in a new PR)
   "fireblast": "thefireblast.github.io",
