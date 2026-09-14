@@ -207,6 +207,7 @@ var cnames_active = {
   "annotate": "taitems.github.io/web-pdf-annotation", // noCF? (don´t add this in a new PR)
   "annoyingmouse": "annoyingmouse.github.io", // noCF? (don´t add this in a new PR)
   "anonymizace": "buggy1111.github.io/czech-nlp-toolkit",
+  "anipixwallpaper": "nobelfamily537-dev.github.io/anipixwallpaper", // noCF
   "antalya": "jsantalya.github.io",
   "antdocs": "cname-china.vercel-dns.com", // noCF
   "antropodigital": "antropodigital.github.io/CirculodeEstudio",
