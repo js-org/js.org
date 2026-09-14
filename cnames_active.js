@@ -1069,6 +1069,7 @@ var cnames_active = {
   "erest": "yourtion.github.io/node-erest",
   "erikng": "eriknguyen.github.io",
   "erine": "cyberghxst.github.io/erine-docs",
+  "ermak-x": "eAI-by-Ermak.github.io",
   "ero": "mst-2.github.io/ero",
   "erpeel": "fikriks.github.io/erpeel",
   "error-handler-e2": "miladezzat.github.io/error-handler-e2",
