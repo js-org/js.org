@@ -547,10 +547,10 @@ var cnames_active = {
   "chordthing": "ifons42.github.io/chordthing",
   "chris": "christopher-hayes.github.io/chris",
   "chrismendis": "chrismendis.github.io", // noCF? (don´t add this in a new PR)
+  "chromashift": "cname.vercel-dns.com", // noCF
   "christopher": "marekkobida.github.io/christopher",
   "chronos": "espinielli.github.io/chronos", // noCF? (don´t add this in a new PR)
   "chronosis": "jack-weilage.github.io/chronosis",
-  "chromashift": "cname.vercel-dns.com", // noCF
   "citation": "citation-js.github.io/site",
   "citeapa": "natsuozawa.github.io/citeapa",
   "city": "city.github.io",
