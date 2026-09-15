@@ -2677,6 +2677,7 @@ var cnames_active = {
   "rangeslider": "andreruffert.github.io/rangeslider.js", // noCF? (don´t add this in a new PR)
   "ranmess": "ultirequiem.github.io/ranmess",
   "rasti": "8tentaculos.github.io/rasti",
+  "razortown": "p01--razor-town--zynzxj4wfx54.code.run.", // noCF
   "rate-limiter-api": "abhisekp.github.io/rate-limiter-api",
   "ravelloh": "ravello-h.github.io",
   "rax": "alibaba.github.io/rax",
