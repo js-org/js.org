@@ -3091,6 +3091,7 @@ var cnames_active = {
   "slinky": "alizahid.github.io/slinky",
   "slyde": "tygo-van-den-hurk.github.io/Slyde",
   "smartquotes": "kellym.github.io/smartquotes.js",
+  "smarttools": "smarttools-nepal.pages.dev",
   "smiley": "smiley422.github.io",
   "smoke": "hxgf.github.io/smoke",
   "smooscroll": "shuninyu.github.io/SmooScroll",
