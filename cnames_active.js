@@ -1413,6 +1413,7 @@ var cnames_active = {
   "hapi-sol": "yonjah.github.io/hapi-sol",
   "hapin": "ha-pin.github.io",
   "happy": "e24.github.io/happy", // noCF? (don´t add this in a new PR)
+  "hardwood": "theloyaltrojan.github.io/hardwood",
   "harry": "harry-yep.github.io",
   "hashchat": "hashchat-js.netlify.app",
   "hashfs": "defucc.github.io/hashfs",
