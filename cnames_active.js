@@ -1163,6 +1163,7 @@ var cnames_active = {
   "finance": "financejs.github.io/finance.js",
   "financial": "financialjsorg.netlify.app",
   "finder": "applait.github.io/finderjs", // noCF? (don´t add this in a new PR)
+  "finengine": "gmrafi.github.io/FinEngine",
   "fini": "janovekj.github.io/fini",
   "fire-hydrant": "cchamberlain.github.io/fire-hydrant", // noCF? (don´t add this in a new PR)
   "fireblast": "thefireblast.github.io",
@@ -1205,6 +1206,7 @@ var cnames_active = {
   "foolhtml": "itsayush1704.github.io/foolhtml",
   "forceify": "dalisoft.github.io/Forceify",
   "form": "the94air.github.io/form",
+  "form-nodes": "gastonmesseri.github.io/form-nodes",
   "formast": "tencent-cdc.github.io/formast",
   "formpath": "formpath.github.io",
   "formred": "zewish.github.io/formred",
@@ -3175,6 +3177,7 @@ var cnames_active = {
   "squircle": "cname.vercel-dns.com", // noCF
   "squirrelly": "squirrellyjs.netlify.app", // noCF
   "sr": "samrobbins85.github.io",
+  "srcset": "trigensoftware.github.io/srcset",
   "sri": "jackub.github.io/subresource-integrity-fallback",
   "sri-maker": "rohit-chouhan.github.io/sri-maker",
   "sri-shasum": "imcotton.github.io/sri", // noCF
