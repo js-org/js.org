@@ -2040,6 +2040,7 @@ var cnames_active = {
   "melies-hugo": "cristinafsanz.github.io/melies-hugo",
   "melody": "trivago.github.io/melody-web",
   "membean": "redyetidev.github.io/membean",
+  "melodianetwork": "https://networkmelodia-ops.github.io/melodianetwork/",
   "memer-api": "cname.vercel-dns.com", // noCF
   "memoz": "60-min-code.github.io/memoz",
   "mengd": "cname.vercel-dns.com", // noCF
