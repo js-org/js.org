@@ -2505,6 +2505,7 @@ var cnames_active = {
   "photo-sphere-viewer": "photo-sphere-viewer.netlify.app",
   "phpjs": "binarykorra.github.io/phpJS",
   "phx": "phxjs.github.io",
+  "physarum": "albertlujan.github.io/physarum",
   "physics-demos": "lachlandk.github.io/physics-demos",
   "piano": "ronyeh.github.io/piano",
   "picard": "picardjs.github.io",
