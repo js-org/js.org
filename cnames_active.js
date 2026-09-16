@@ -307,6 +307,7 @@ var cnames_active = {
   "azura": "hosting.discloud.app", // noCF
   "azurajs-scalar": "d3veduardo.github.io/azurajs-scalar",
   "azurapi": "azurapi.github.io/azurapi-js",
+  "banghans": "ainnefasarome.github.io/bio-link",
   "backlog": "backlog-js.github.io/backlog.js.org", // noCF? (don´t add this in a new PR)
   "backolon": "r47onfire.github.io/backolon",
   "backstage": "backstagejs.github.io/backstage",
