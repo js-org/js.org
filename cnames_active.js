@@ -2974,6 +2974,7 @@ var cnames_active = {
   "secrethitler": "finncowbell.github.io/DetectiveDictator",
   "secsb": "secsb.github.io",
   "secure-event-emitter": "ruben-arushanyan.github.io/secure-event-emitter",
+  "securepass": "summitkummar.github.io/SecurePass",
   "securitool": "replikantek.github.io/security-toolbox",
   "security-list": "lissy93.github.io/personal-security-checklist",
   "sed": "42ua.github.io/sed",
