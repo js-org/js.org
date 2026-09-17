@@ -3572,9 +3572,7 @@ var cnames_active = {
   "utscrooms": "sunakujira1.github.io/UTSCRooms",
   "uuid": "rumkin.github.io/uuid",
   "uvcharts": "imaginea.github.io/uvCharts", // noCF? (don´t add this in a new PR)
-  "uwest": "cname.vercel-dns.com", // noCF
-  "uzid": "bansal.github.io/uzid",
-  "vibe": "mdnazratuzzamanzayeem.github.io/vibe/",
+  "uwest": "cname.vercel-dns.com", // noC
   "v-charts": "elemefe.github.io/v-charts",
   "v-decorators": "v-decorators.netlify.app",
   "v3.swup": "swup-v3-docs.netlify.app", // noCF
@@ -3623,6 +3621,7 @@ var cnames_active = {
   "veza": "kyranet.github.io/veza",
   "vfm": "meshesha.github.io/VisualFormMaker.github.io",
   "viav": "brandondyer64.github.io/viav",
+  "vibe": "mdnazratuzzamanzayeem.github.io/vibe",
   "vicis": "r37r0m0d3l.github.io/vicis",
   "vico": "bohdantkachenko.github.io/vico", // noCF? (don´t add this in a new PR)
   "vidclip": "cname.vercel-dns.com", // noCF
