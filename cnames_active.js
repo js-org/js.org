@@ -3574,6 +3574,7 @@ var cnames_active = {
   "uvcharts": "imaginea.github.io/uvCharts", // noCF? (don´t add this in a new PR)
   "uwest": "cname.vercel-dns.com", // noCF
   "uzid": "bansal.github.io/uzid",
+  "vibe": "mdnazratuzzamanzayeem.github.io/vibe/",
   "v-charts": "elemefe.github.io/v-charts",
   "v-decorators": "v-decorators.netlify.app",
   "v3.swup": "swup-v3-docs.netlify.app", // noCF
