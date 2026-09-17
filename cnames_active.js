@@ -179,7 +179,7 @@ var cnames_active = {
   "alveron": "cname.vercel-dns.com", // noCF
   "alyreza": "alyreza.github.io",
   "alys": "rmjordas.github.io/alys",
-  "aludesign":"jasonesquivel.github.io"
+  "aludesign": "jasonesquivel.github.io",
   "aman": "plug-n-play.github.io/aman",
   "amaple": "amjs-team.github.io/amaple",
   "amaribot": "amaribot.github.io/amaribot.js",
