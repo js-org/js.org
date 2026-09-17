@@ -103,6 +103,7 @@ var cnames_active = {
   "aderemi": "aderemi.github.io",
   "adil": "adilzeshan.github.io/adil",
   "aditya": "aditya81070.github.io",
+  "advisory": "equipe-web.github.io/L-A-Advisory",
   "adjskit": "devs-des1re.github.io/adjskit",
   "adnanbabakan": "adnanbabakan.github.io",
   "adon988": "adon988.github.io",
@@ -1780,7 +1781,6 @@ var cnames_active = {
   "labs": "cname.vercel-dns.com", // noCF
   "labui": "ztl-uwu.github.io/Lab-Design-Guide",
   "lad": "ladjs.github.io/lad",
-  "advisory": "equipe-web.github.io/L-A-Advisory",
   "lambda": "lambdajs.github.io", // noCF? (don´t add this in a new PR)
   "lan": "careteenl.github.io/lan",
   "landrielportafolio": "arielandriel30.github.io/landrielportafolio",
