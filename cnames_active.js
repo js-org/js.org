@@ -1315,7 +1315,7 @@ var cnames_active = {
   "givify": "cname.vercel-dns.com", // noCF
   "gka": "gkajs.github.io/gka",
   "glaze": "kripod.github.io/glaze",
-  "glax-ai": "glax106.github.io/Glax-AI",
+  "glax-ai": "glax106.github.io/Glax-AI"
   "glicko2": "animafps.github.io/glicko2.ts",
   "glicol": "glicol-js.netlify.app",
   "glitchapi": "cname.vercel-dns.com", // noCF
