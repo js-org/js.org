@@ -3015,6 +3015,7 @@ var cnames_active = {
   "sheweny": "sheweny.github.io/framework",
   "shex": "shexjs.github.io/shex.js",
   "shieldx": "cname.vercel-dns.com", // noCF
+  "shield-access": "yurivernek-hub.github.io"
   "shift": "shift-wasm.pages.dev",
   "shikwasa": "jessuni.github.io/shikwasa",
   "shilong": "echoheim.github.io/shilong",
