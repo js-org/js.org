@@ -3601,8 +3601,8 @@ var cnames_active = {
   "vant-react-native": "youngjuning.github.io/vant-react-native",
   "vanya": "cname.vercel-dns.com", // noCF
   "vapory": "vaporyjs.github.io",
-  "various": "variousjs.github.io/website",
   "variant-visualizer": "cname.vercel-dns.com", // noCF
+  "various": "variousjs.github.io/website",
   "varvara": "marcmarine.github.io/varvara-js", // noCF
   "vayne": "vaynejs.github.io",
   "vbuild": "egoist.github.io/vbuild",
