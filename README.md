@@ -13,7 +13,7 @@
 >
 > **Websites must be *directly* related to the JavaScript ecosystem/community (such as NPM packages / JS tools, not personal pages / portfolios)**
 >
-> - Websites that merely use JavaScript or a JavaScript framework, without otherwise being related to the JavaScript ecosystem, are not eligible.
+> - Websites that merely use JavaScript, without otherwise being related to the ecosystem, are not eligible.
 > - No placeholder pages. Websites must contain substantive content relevant to their purpose.
 > - No automatic redirects away from the **js.org** domain. Redirects must require user interaction.
 > - No unrelated content. Websites must stay focused on their intended topic or purpose.
