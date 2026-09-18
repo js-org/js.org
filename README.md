@@ -1,17 +1,24 @@
-# ⏸️ Temporary pause on new subdomain requests 😴
-
-JS.ORG is temporarily not accepting new subdomain requests until mid-September 2026.
-
-As a result, the PR section for new subdomain requests is currently disabled. Please do not submit new requests during this period.
-
-We expect to resume accepting requests around mid-September. Thank you for your patience and understanding!
-
-
 [![JS.ORG](https://img.shields.io/badge/js.org-+-FFE70B.svg?style=flat-square)](http://js.org)
 [![PRs](https://img.shields.io/github/issues-pr-closed-raw/js-org/js.org.svg?style=flat-square&colorB=FFE70B&label=pull%20requests)](https://github.com/js-org/js.org/pulls?q=is%3Apr+is%3Aclosed+label%3Aadd)
 [![Contributors](https://img.shields.io/github/contributors-anon/js-org/js.org?color=FFE70B&style=flat-square)](https://github.com/js-org/js.org/graphs/contributors)
 [![Activity](https://img.shields.io/github/commit-activity/m/js-org/js.org?color=FFE70B&style=flat-square)](https://github.com/js-org/js.org/pulse/monthly)
 [![Donate](https://img.shields.io/badge/Donate-for_registrar_fees-1F87FF.svg?style=flat-square&logo=open-collective&logoColor=fff)](https://opencollective.com/js-org)
+
+---
+
+## Content Requirements
+
+> [!IMPORTANT]
+> Please be aware that there are some rules that apply to website content hosted on JS.ORG subdomains:
+>
+> **Websites must be *directly* related to the JavaScript ecosystem/community (such as NPM packages / JS tools, not personal pages / portfolios)**
+>
+> - Websites that merely use JavaScript, without otherwise being related to the ecosystem, are not eligible.
+> - No placeholder pages. Websites must contain substantive content relevant to their purpose.
+> - No automatic redirects away from the **js.org** domain. Redirects must require user interaction.
+> - No unrelated content. Websites must stay focused on their intended topic or purpose.
+>
+> _Additionally, please be aware of our full [Terms and Conditions](https://js.org/terms.html) for the JS.ORG service._
 
 ---
 
@@ -60,21 +67,6 @@ Follow your hosting provider's instructions for adding a custom domain to your s
 ### Step 4
 
 As above with adding a subdomain to a GitHub Pages site, the final step is to make a pull request in this GitHub repository that adds your subdomain to the [subdomains list](https://github.com/js-org/js.org/blob/master/cnames_active.js) of existing JS.ORG domains.
-
----
-
-## Content Requirements
-
-> [!IMPORTANT]
-> Please be aware that there are some rules that apply to website content hosted on JS.ORG subdomains:
->
-> **Websites must be *directly* related to the JavaScript ecosystem/community (such as NPM packages / JS tools, not personal pages / portfolios)**
-> 
-> - No placeholder pages. Websites must contain substantive content relevant to their purpose.
-> - No automatic redirects away from the **js.org** domain. Redirects must require user interaction.
-> - No unrelated content. Websites must stay focused on their intended topic or purpose.
->
-> _Additionally, please be aware of our full [Terms and Conditions](https://js.org/terms.html) for the JS.ORG service._
 
 ---
 

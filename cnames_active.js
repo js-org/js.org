@@ -149,6 +149,7 @@ var cnames_active = {
   "akhyar": "akhyar.pages.dev",
   "aksara": "sajenid.github.io/aksara.js",
   "aksharamukha": "paramsiddharth.github.io/aksharamukha.js",
+  "akshit.ahuja": "ahuja101992.github.io/akshit.ahuja", // noCF
   "akte": "akte.netlify.app",
   "alasql": "alasql.github.io", // noCF? (don´t add this in a new PR)
   "alastor": "aidenybai.github.io/alastor",
@@ -380,6 +381,7 @@ var cnames_active = {
   "biscord": "vinzerr.github.io/biscord-website",
   "biu": "aprilorange.github.io/biu", // noCF? (don´t add this in a new PR)
   "bkk": "rayriffy.github.io/bkk",
+  "blackbird": "blackbird-js.github.io/website",
   "blazeb2": "blazeb2.github.io",
   "blazing-cms": "blazing-cms.github.io",
   "blego": "mattstypa.github.io/blego.js.org",
@@ -774,6 +776,7 @@ var cnames_active = {
   "dbots": "dbots-pkg.github.io/dbots-website",
   "dbotsgg": "valredstone.github.io/dbots.gg",
   "ddnet": "sans3108.github.io/DDNet",
+  "decant": "covai-labs.github.io/decant",
   "decimalsystem": "uellenberg.github.io/DecimalSystem",
   "deck-of-cards": "pakastin.github.io/deck-of-cards",
   "declarativ": "fennifith.github.io/declarativ", // noCF
@@ -1160,6 +1163,7 @@ var cnames_active = {
   "finance": "financejs.github.io/finance.js",
   "financial": "financialjsorg.netlify.app",
   "finder": "applait.github.io/finderjs", // noCF? (don´t add this in a new PR)
+  "finengine": "gmrafi.github.io/FinEngine",
   "fini": "janovekj.github.io/fini",
   "fire-hydrant": "cchamberlain.github.io/fire-hydrant", // noCF? (don´t add this in a new PR)
   "fireblast": "thefireblast.github.io",
@@ -1202,6 +1206,7 @@ var cnames_active = {
   "foolhtml": "itsayush1704.github.io/foolhtml",
   "forceify": "dalisoft.github.io/Forceify",
   "form": "the94air.github.io/form",
+  "form-nodes": "gastonmesseri.github.io/form-nodes",
   "formast": "tencent-cdc.github.io/formast",
   "formpath": "formpath.github.io",
   "formred": "zewish.github.io/formred",
@@ -2500,6 +2505,7 @@ var cnames_active = {
   "photo-sphere-viewer": "photo-sphere-viewer.netlify.app",
   "phpjs": "binarykorra.github.io/phpJS",
   "phx": "phxjs.github.io",
+  "physarum": "albertlujan.github.io/physarum",
   "physics-demos": "lachlandk.github.io/physics-demos",
   "piano": "ronyeh.github.io/piano",
   "picard": "picardjs.github.io",
@@ -2633,6 +2639,7 @@ var cnames_active = {
   "py-like": "ruben-arushanyan.github.io/py-like",
   "pytml": "nodex-ar.github.io/Pytml",
   "qbit": "fudan-mse.github.io/qbit",
+  "qredential": "george-veras.github.io/qredential",
   "qs": "kirjs.github.io/qs.js", // noCF? (don´t add this in a new PR)
   "quacky": "quacky-bot.github.io",
   "quanta": "solarbrowser.github.io/w4q",
@@ -3172,6 +3179,7 @@ var cnames_active = {
   "squircle": "cname.vercel-dns.com", // noCF
   "squirrelly": "squirrellyjs.netlify.app", // noCF
   "sr": "samrobbins85.github.io",
+  "srcset": "trigensoftware.github.io/srcset",
   "sri": "jackub.github.io/subresource-integrity-fallback",
   "sri-maker": "rohit-chouhan.github.io/sri-maker",
   "sri-shasum": "imcotton.github.io/sri", // noCF
