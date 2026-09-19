@@ -105,7 +105,6 @@ var cnames_active = {
   "aditya": "aditya81070.github.io",
   "adjskit": "devs-des1re.github.io/adjskit",
   "adnanbabakan": "adnanbabakan.github.io",
-  "ainuj": "cname.vercel-dns.com", // noCF
   "adon988": "adon988.github.io",
   "adv": "advjs.github.io",
   "advancedrpc": "advancedrpc.github.io",
@@ -135,6 +134,7 @@ var cnames_active = {
   "aigcs": "docs-17t.pages.dev",
   "ailcr": "cname.vercel-dns.com", // noCF
   "aiml": "jesobreira.github.io/aimljs",
+  "ainuj": "cname.vercel-dns.com",
   "air": "openwebstudio.github.io/Air-Docs",
   "airesearch": "vtempest.github.io/ai-research-agent",
   "airtable-plus": "victorhahn.github.io/airtable-plus",
