@@ -474,6 +474,7 @@ var cnames_active = {
   "caffeine": "ccrraaiigg.github.io/caffeine",
   "caissa": "agentx-cgn.github.io/caissa",
   "caizhiyuannn": "caizhiyuannn.github.io",
+  "calchub": "calchub-9k8.pages.dev",
   "calcium": "courageous-bublanina-6857c1.netlify.app",
   "calcy": "odevlord.github.io/Calcy", // noCF? (don´t add this in a new PR)
   "camelcase": "ultirequiem.github.io/camelcase",
