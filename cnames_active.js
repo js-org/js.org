@@ -776,6 +776,7 @@ var cnames_active = {
   "dbots": "dbots-pkg.github.io/dbots-website",
   "dbotsgg": "valredstone.github.io/dbots.gg",
   "ddnet": "sans3108.github.io/DDNet",
+  "ddx": "debuggerxdfr2026-web.github.io",
   "decant": "covai-labs.github.io/decant",
   "decimalsystem": "uellenberg.github.io/DecimalSystem",
   "deck-of-cards": "pakastin.github.io/deck-of-cards",
