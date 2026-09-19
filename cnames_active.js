@@ -3236,6 +3236,7 @@ var cnames_active = {
   "storybook": "apex-loadbalancer.netlify.app", // noCF
   "storybooker": "guptasiddhant.github.io/storybooker",
   "storybooks": "storybooks.github.io",
+  "storyshelf": "guptasiddhant.github.io/StoryShelf",
   "stpcloud": "stoeaves.github.io/StpCloud",
   "str": "manelet.github.io/str",
   "stratic": "straticjs.github.io",
