@@ -2052,6 +2052,7 @@ var cnames_active = {
   "merkur": "mjancarik.github.io/merkur",
   "mern": "iammohaiminul.github.io/MERNjs",
   "mesh": "crcn.github.io/mesh.js.org", // noCF? (don´t add this in a new PR)
+  "meshcorejs": "meshcorejs.github.io/meshcore.js",
   "meshesha": "meshesha.github.io",
   "metadata": "oknosoft.github.io/metadata.js",
   "metapulse": "noyjoyluckclub.github.io/metapulse",
@@ -3877,7 +3878,7 @@ var cnames_active = {
   "zykj": "cname.vercel-dns.com", // noCF
   "zylog": "cname.vercel-dns.com", // noCF
   "zyx": "zyx.alwaysdata.net",
-  "zyy": "zyyou.github.io/notes"
+  "zyy": "zyyou.github.io/notes",
   /*
    * please don't add your subdomain records down here!
    * insert them in alphabetical order to help reduce merge conflicts.
