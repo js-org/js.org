@@ -2889,6 +2889,7 @@ var cnames_active = {
   "rsshub": "diygod.github.io/RSSHub",
   "rsshub-reader": "sevenoutman.github.io/RSSHub-Reader",
   "rt": "rohantinna.github.io/rt",
+  "rtss": "rtss.onrender.com",
   "ru.react": "js-rus.github.io/react-ru", // noCF
   "ru.react-redux": "mskkote.github.io/react-redux-ru", // noCF
   "ru.redux-saga": "hosting.gitbook.com", // noCF
