@@ -3043,6 +3043,7 @@ var cnames_active = {
   "signaldb": "maxnowack.github.io/signaldb", // noCF
   "signalingserver": "nuzulul.github.io/signalingserver.js",
   "signalz": "hosting.gitbook.io", // noCF
+  "signoz-open-dashboard": "signoz-open-dashboard-website.pages.dev",
   "silfr": "silfr.github.io/iterativecolor",
   "silkster": "silkster.github.io",
   "siluna": "pahund.github.io/siluna", // noCF? (don´t add this in a new PR)
