@@ -1536,6 +1536,7 @@ var cnames_active = {
   "impress": "impress.github.io/impress.js",
   "imrc-datetime-picker": "smrsan76.github.io/imrc-datetime-picker",
   "imvu": "imvujs.pages.dev", // noCF
+  "ind": "indstoredev.github.io",
   "indie": "indie-org.github.io/indie",
   "inference": "cname.vercel-dns.com", // noCF
   "infinite-tree": "cheton.github.io/infinite-tree",
