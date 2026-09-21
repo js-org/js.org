@@ -2956,6 +2956,7 @@ var cnames_active = {
   "scramble": "ignatiusmb.github.io/scramble",
   "scratch": "scratch-js.github.io",
   "screentocodesandbox": "ckgrafico.github.io/ScreenshotToCodeSandbox",
+  "scribblejs": "arkaneelroy.github.io/ScribbleJS",
   "scriptex": "scriptex.github.io",
   "scroller-motion": "scroller-motion.netlify.app",
   "scrollery": "scrollery.netlify.app",
@@ -3310,7 +3311,6 @@ var cnames_active = {
   "synth": "lukehorvat.github.io/synth-mood",
   "syr": "dmikey.github.io/syr",
   "system-monitoring": "miladezzat.github.io/system-monitoring",
-  "scribblejs": "arkaneelroy.github.io/ScribbleJS",
   "t": "l-js.mydevapp.tfuture.eu.org", // noCF
   "tab": "gdmcc.github.io/tab",
   "tabs": "mehrizi.github.io/tabs",
