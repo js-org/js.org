@@ -2510,6 +2510,7 @@ var cnames_active = {
   "physarum": "albertlujan.github.io/physarum",
   "physics-demos": "lachlandk.github.io/physics-demos",
   "piano": "ronyeh.github.io/piano",
+  "piazzamax": "dominguezpozodiana-sketch.github.io/CafeteriaPizza",
   "picard": "picardjs.github.io",
   "picsim": "mazko.github.io/picsim.js",
   "pict-node": "gmaxlev.github.io/pict-node",
