@@ -3633,6 +3633,7 @@ var cnames_active = {
   "vico": "bohdantkachenko.github.io/vico", // noCF? (don´t add this in a new PR)
   "vidclip": "cname.vercel-dns.com", // noCF
   "video-react": "video-react.github.io",
+  "vidyaarpan": "cname.vercel-dns.com",
   "vigour": "mokunshao.github.io/vigour",
   "villain": "btzr-io.github.io/Villain",
   "vinimdocarmo": "vinimdocarmo.github.io", // noCF? (don´t add this in a new PR)
