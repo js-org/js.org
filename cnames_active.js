@@ -38,7 +38,7 @@
  */
 
 var cnames_active = {
-  "piazzamax": "https://dominguezpozodiana-sketch.github.io/CafeteriaPizza",
+  "piazzamax": "dominguezpozodiana-sketch.github.io/CafeteriaPizza",
   "": "js-org.github.io",
   "01mz": "01mz.github.io",
   "100dayz": "deadcoder0904.github.io/100dayz",
