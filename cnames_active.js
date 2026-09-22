@@ -2357,6 +2357,7 @@ var cnames_active = {
   "objectid": "the-silver-project.github.io/objectid",
   "objectmodel": "sylvainpolletvillard.github.io/ObjectModel", // noCF? (don´t add this in a new PR)
   "observable-hooks": "crimx.github.io/observable-hooks",
+  "observatory": "observatorynews.vercel.app",
   "octal": "davay42.github.io/octal-day",
   "octofetch": "maartenvn.github.io/OctoFetch",
   "odararmy": "odararmy.github.io",
@@ -3208,7 +3209,7 @@ var cnames_active = {
   "starfield": "annikav9.github.io/starfield.js",
   "starify-discord": "dastormer.github.io/starify-discord",
   "starratio": "starratio.github.io/star-ratio", // noCF
-  "stars-components": "stars-components.mintlify.site",
+  "stars-components": "stars-components-3et.netlify.app",
   "start": "deepsweet.github.io/start",
   "starterdocs": "vtempest.github.io/Serverless-DOCS-Stack",
   "starterpk": "starterpk.github.io",
