@@ -3723,6 +3723,7 @@ var cnames_active = {
   "wc": "bryansha.github.io/wc",
   "wcfactory": "elmsln.github.io/wcfactory.js.org",
   "wdd": "wangduanduan.github.io",
+  "weapp": "weappjs.github.io/weapp.dev",
   "weather": "phanendraguptha.github.io/weather",
   "weaver": "maxkfranz.github.io/weaver", // noCF? (don´t add this in a new PR)
   "web-sandbox": "web-sandbox-js.github.io/web-sandbox-website",
