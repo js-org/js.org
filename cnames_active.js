@@ -1002,6 +1002,7 @@ var cnames_active = {
   "ed2k": "sunnyli.github.io/ed2k.js",
   "edge-aura": "cname.vercel-dns.com", // noCF
   "ef": "classicoldsong.github.io/ef.js.org",
+  "efeslive24": "free-online-tools-5bg.pages.dev",
   "effect-graphql": "egriff38.github.io/effect-graphql",
   "effectful": "awto.github.io/effectfuljs",
   "effects": "effectsjs.github.io/effectsjs",
