@@ -2357,7 +2357,7 @@ var cnames_active = {
   "objectid": "the-silver-project.github.io/objectid",
   "objectmodel": "sylvainpolletvillard.github.io/ObjectModel", // noCF? (don´t add this in a new PR)
   "observable-hooks": "crimx.github.io/observable-hooks",
-  "observatory": "observatorynews.vercel.app",
+  "observatory": "cname.vercel-dns.com", // noCF
   "octal": "davay42.github.io/octal-day",
   "octofetch": "maartenvn.github.io/OctoFetch",
   "odararmy": "odararmy.github.io",
