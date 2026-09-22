@@ -369,6 +369,7 @@ var cnames_active = {
   "bigbro": "cname.vercel-dns.com", // noCF
   "biggames": "jacobhumston.github.io/biggames.js",
   "bijou": "explosion-scratch.github.io/bijou.js",
+  "bila": "xulytiengviet.github.io/bilascript",
   "bimtex": "bimtex.pages.dev",
   "bin": "sujalgoel.github.io/impostor-bin",
   "bind-action-dispatchers": "cchamberlain.github.io/bind-action-dispatchers", // noCF? (don´t add this in a new PR)
@@ -2956,6 +2957,7 @@ var cnames_active = {
   "scramble": "ignatiusmb.github.io/scramble",
   "scratch": "scratch-js.github.io",
   "screentocodesandbox": "ckgrafico.github.io/ScreenshotToCodeSandbox",
+  "scribble": "arkaneelroy.github.io/ScribbleJS",
   "scriptex": "scriptex.github.io",
   "scroller-motion": "scroller-motion.netlify.app",
   "scrollery": "scrollery.netlify.app",
@@ -3043,6 +3045,7 @@ var cnames_active = {
   "signaldb": "maxnowack.github.io/signaldb", // noCF
   "signalingserver": "nuzulul.github.io/signalingserver.js",
   "signalz": "hosting.gitbook.io", // noCF
+  "signoz-open-dashboard": "signoz-open-dashboard-website.pages.dev",
   "silfr": "silfr.github.io/iterativecolor",
   "silkster": "silkster.github.io",
   "siluna": "pahund.github.io/siluna", // noCF? (don´t add this in a new PR)
