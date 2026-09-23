@@ -427,6 +427,7 @@ var cnames_active = {
   "brandi": "cname.vercel-dns.com", // noCF
   "brandifyjs": "greybax.github.io/brandifyjs",
   "brandonmerritt": "brandonmerritt.github.io", // noCF? (don´t add this in a new PR)
+  "brandstudio": "brand-studio-c7e.pages.dev",
   "brasil": "javascriptbrasil.github.io",
   "brawley": "brawlie.github.io/brawley",
   "brawlstats": "brawlstatsjs.netlify.app",
@@ -2991,6 +2992,7 @@ var cnames_active = {
   "selectre": "alexeyraspopov.github.io/selectre",
   "selectric": "lcdsantos.github.io/jQuery-Selectric", // noCF? (don´t add this in a new PR)
   "semantic-api": "semantic-api.github.io/docs",
+  "semantic-assert": "mondaychen.github.io/semantic-assert",
   "semo": "semojs.github.io/semo",
   "senil": "mrfarhad.github.io/senilwebsite",
   "seoul": "seouljs.github.io/seoul.js.org",
@@ -3208,7 +3210,7 @@ var cnames_active = {
   "starfield": "annikav9.github.io/starfield.js",
   "starify-discord": "dastormer.github.io/starify-discord",
   "starratio": "starratio.github.io/star-ratio", // noCF
-  "stars-components": "stars-components-3et.netlify.app",
+  "stars-components": "stars-components.mintlify.site",
   "start": "deepsweet.github.io/start",
   "starterdocs": "vtempest.github.io/Serverless-DOCS-Stack",
   "starterpk": "starterpk.github.io",
