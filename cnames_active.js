@@ -1270,6 +1270,7 @@ var cnames_active = {
   "gazosekai": "starkblaze01.github.io/Gazo_Sekai",
   "gba": "frogweezer.github.io/gba.js.org",
   "gcommands": "garlic-team.github.io/GCommands",
+  "gcai": "hoopslimbo.github.io/gcai-website",
   "gcse": "abemedia.github.io/jquery-gcse",
   "gdal3": "bugra9.github.io/gdal3.js",
   "gdi": "katehra-brc.github.io/gdi.js.org",
