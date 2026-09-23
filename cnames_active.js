@@ -27,81 +27,81 @@
  *              repository. Exceptions are possible for the sake of clarity (e.g. if your project has the
  *              name "foojs" you can request "foo").
  *              Before you start a request for your personal fork of "react" or "vue" you should read
- *              the section "naming conflicts" in the wiki!
+ * a seção "conflitos de nomenclatura" no wiki!
  *
- * NOTICE:      Please follow the format set by everyone else in this file. Entries should use double quotes,
- *              with space between the colon (after the key) and the value and should always be in alphabetical
- *              order. Each line apart from the very last entry should have a comma after it to ensure this file
- *              is valid syntax.
+ * AVISO: Siga o formato definido por todos os outros neste arquivo. As entradas devem usar aspas duplas,
+ * com espaço entre os dois pontos (após a chave) e o valor e deve estar sempre em ordem alfabética
+ * ordem. Cada linha, exceto a última entrada, deve ter uma vírgula depois dela para garantir este arquivo
+ * é sintaxe válida.
  *
- *              BECAUSE OF THE RISK OF ABUSE, I'M NOT ACCEPTING REQUESTS FOR PAGES WITHOUT REASONABLE CONTENT!
+ * DEVIDO AO RISCO DE ABUSO, NÃO ACEITO SOLICITAÇÕES DE PÁGINAS SEM CONTEÚDO RAZOÁVEL!
  */
 
-var cnames_active = {
+var cnames_ativo = {
   "": "js-org.github.io",
   "01mz": "01mz.github.io",
-  "100dayz": "deadcoder0904.github.io/100dayz",
-  "101": "7anshuai.github.io/js101", // noCF? (don´t add this in a new PR)
+  "100 dias": "deadcoder0904.github.io/100dayz",
+  "101": "7anshuai.github.io/js101", // noCF? (não adicione isso em um novo PR)
   "131": "netrvin.github.io",
   "140513": "140513.github.io",
-  "145storage": "54145a.github.io/145Storage2",
+  "145armazenamento": "54145a.github.io/145Armazenamento2",
   "1api": "yourtion.github.io/one-api",
   "1auth": "1auth.pages.dev",
   "1c": "oknosoft.github.io/1c",
   "1diaboliko84": "1diaboliko84.github.io",
   "1ib": "1ib.github.io",
-  "1state": "1state.pages.dev",
+  "1 estado": "1state.pages.dev",
   "21cm": "21cm.github.io",
-  "23chemistrycamp": "nchuchemistry.github.io/23chemistrycamp",
-  "2tube": "you2php.github.io/you2php",
+  "23acampamento de química": "nchuchemistry.github.io/23chemistrycamp",
+  "2tubos": "you2php.github.io/you2php",
   "30dayjavascript": "30dayjavascript.netlify.app",
   "360": "360daili.github.io/360daili",
   "3d-go": "3d-go.netlify.app",
   "404": "licshee.github.io/404",
   "766": "766.github.io",
-  "7anshuai": "7anshuai.github.io", // noCF? (don´t add this in a new PR)
+  "7anshuai": "7anshuai.github.io", // noCF? (não adicione isso em um novo PR)
   "8085sim": "ahmedazhar05.github.io/8085sim",
   "98": "1j01.github.io/98",
   "98plus": "cherrim98.github.io",
   "9932": "dannyzhan.github.io",
-  "a-western-story": "hotsaucefiretruck.github.io/A-Western-Story",
-  "a11y-live": "kvnq-poza.github.io/a11y-live",
+  "uma história ocidental": "hotsaucefiretruck.github.io/A-Western-Story",
+  "a11y-ao vivo": "kvnq-poza.github.io/a11y-live",
   "a11yslider": "mmahandev.github.io/a11y-slider",
   "a2ui-sdk": "easyops-cn.github.io/a2ui-sdk",
   "a6smile": "a6smile.github.io",
   "aalaap": "aalaap.github.io",
-  "aaron": "57aaron.github.io",
+  "Aarão": "57aaron.github.io",
   "ab64": "un-ts.github.io/ab64",
   "abbw": "abbw.github.io",
   "abbyz": "abbyzhoum.github.io",
   "abdalla": "the94air.github.io/abdalla",
   "abelacostaportafolio": "asaa19971a.github.io/AbelAcostaAcostaPortafolio",
-  "abhishek": "rpidanny.github.io/personal-collage",
+  "abhishek": "rpidanny.github.io/colagem pessoal",
   "abhishekmittal": "abhishek-mittal.github.io/abhishekmittal",
   "abi": "abi-js.github.io",
   "abialbon": "abialbon.github.io",
   "abra": "abracadabra-demo.pages.dev",
   "abracadabra": "doc-cgg.pages.dev",
-  "aby": "icoldplayer.github.io/aby",
+  "por favor": "icoldplayer.github.io/aby",
   "ac": "alauda.github.io/alauda-chart",
-  "accent": "sripkunda.github.io/accent",
-  "accessibility": "guilhermedelemos.github.io/accessibility",
-  "accordion": "awps.github.io/Accordion.JS",
+  "sotaque": "sripkunda.github.io/accent",
+  "acessibilidade": "guilhermedelemos.github.io/acessibilidade",
+  "acordeão": "awps.github.io/Accordion.JS",
   "acebooks": "mohamed0group.github.io/acebooks",
-  "acegroup": "mohamed0group.github.io/acegroup",
+  "acegrupo": "mohamed0group.github.io/acegroup",
   "acho": "achojs.github.io/acho",
   "acidmod": "acidmod.github.io",
   "acm": "drew233.github.io/calander",
   "acme": "makepost.github.io/acme-commander",
-  "action-u": "kevinast.github.io/action-u",
-  "actions-creator": "ruben-arushanyan.github.io/actions-creator",
-  "active-resource": "nicklandgrebe.github.io/activeresource.js",
+  "ação-u": "kevinast.github.io/action-u",
+  "criador de ações": "ruben-arushanyan.github.io/actions-creator",
+  "recurso ativo": "nicklandgrebe.github.io/activeresource.js",
   "acyort": "acyortjs.github.io/site",
   "ada": "ada-js.netlify.app",
-  "adamant": "datamart.github.io/Adamant",
-  "adaptui": "cname.vercel-dns.com", // noCF
+  "inflexível": "datamart.github.io/Adamant",
+  "adaptui": "cname.vercel-dns.com", // nãoCF
   "aderemi": "aderemi.github.io",
-  "adil": "adilzeshan.github.io/adil",
+  "adílio": "adilzeshan.github.io/adil",
   "aditya": "aditya81070.github.io",
   "adjskit": "devs-des1re.github.io/adjskit",
   "adnanbabakan": "adnanbabakan.github.io",
@@ -109,30 +109,30 @@ var cnames_active = {
   "adv": "advjs.github.io",
   "advancedrpc": "advancedrpc.github.io",
   "aerogel": "noeldemartin.github.io/aerogel",
-  "aesthetic": "esthetic-docs.netlify.app",
-  "affiliate": "russellsteadman.github.io/affiliate",
-  "affinityhub": "s1m0np1.github.io/affinity-script-installer",
-  "afilters": "dmytrohoi.github.io/afilters.js",
-  "afterwind": "eedrxs.github.io/afterwind",
+  "estética": "esthetic-docs.netlify.app",
+  "afiliado": "russellsteadman.github.io/afiliado",
+  "centro de afinidade": "s1m0np1.github.io/instalador de script de afinidade",
+  "afiltros": "dmytrohoi.github.io/afilters.js",
+  "pós-vento": "eedrxs.github.io/afterwind",
   "agahi": "teneplaysofficial.github.io/agahi",
-  "agenda-tech-brasil-site": "abacatinhos.github.io/agenda-tech-brasil-site",
-  "agentify": "agentify-js-org.github.io/pages",
+  "agenda-tecnologia-brasil-site": "abacatinhos.github.io/agenda-tech-brasil-site",
+  "agentificar": "agentify-js-org.github.io/pages",
   "agentnpm": "meetping.github.io/agentnpm",
-  "agentx": "sohailkhan0525.github.io/agentx-docs",
-  "agilecards": "otaklapka.github.io/agilecards",
+  "agentex": "sohailkhan0525.github.io/agentx-docs",
+  "cartões ágeis": "otaklapka.github.io/agilecards",
   "agma": "uwynell.github.io/agma.js",
   "agrawalnaman": "agrawalnaman.github.io",
   "agrawalrohit": "rohit0803.github.io/agrawal.github.io",
   "agros": "agrosjs.github.io",
-  "agrume": "cname.vercel-dns.com", // noCF
+  "agrume": "cname.vercel-dns.com", // nãoCF
   "ahmad": "aruzikulov.github.io/ahmad",
-  "ahnotification": "ahmadhayyan.github.io/ahnotification.js",
-  "ahooks": "ahooks.surge.sh",
+  "ahnotificação": "ahmadhayyan.github.io/ahnotification.js",
+  "ganchos": "ahooks.surge.sh",
   "ahooks-v2": "ahooks-v2.surge.sh",
-  "aider": "tjz101.github.io/aider-js-pages",
-  "aiga": "cname.vercel-dns.com", // noCF
+  "ajudante": "tjz101.github.io/aider-js-pages",
+  "áiga": "cname.vercel-dns.com", // nãoCF
   "aigcs": "docs-17t.pages.dev",
-  "ailcr": "cname.vercel-dns.com", // noCF
+  "ailcr": "cname.vercel-dns.com", // nãoCF
   "aiml": "jesobreira.github.io/aimljs",
   "air": "openwebstudio.github.io/Air-Docs",
   "airesearch": "vtempest.github.io/ai-research-agent",
@@ -3046,179 +3046,180 @@ var cnames_active = {
   "signaldb": "maxnowack.github.io/signaldb", // noCF
   "signalingserver": "nuzulul.github.io/signalingserver.js",
   "signalz": "hosting.gitbook.io", // noCF
-  "signoz-open-dashboard": "signoz-open-dashboard-website.pages.dev",
+  "signoz-abrir-painel": "signoz-open-dashboard-website.pages.dev",
   "silfr": "silfr.github.io/iterativecolor",
-  "silkster": "silkster.github.io",
-  "siluna": "pahund.github.io/siluna", // noCF? (don´t add this in a new PR)
+  "seda": "silkster.github.io",
+  "siluna": "pahund.github.io/siluna", // noCF? (não adicione isso em um novo PR)
   "simba": "jonathanzero.github.io/simba",
   "simonhans": "simonhans.github.io",
-  "simpldb": "hosting.gitbook.io", // noCF
-  "simple": "lescinskiscom.github.io/simple-js",
+  "simpldb": "hospedagem.gitbook.io", // nãoCF
+  "simples": "lescinskiscom.github.io/simple-js",
   "simple-pip": "frogweezer.github.io/simple-pip",
-  "simple-release": "trigensoftware.github.io/simple-release",
-  "simplecounter": "tomkiernan120.github.io/simplecounter",
-  "simplecrypto": "danang-id.github.io/simple-crypto-js",
-  "simplelightbox": "andreknieriem.github.io/simplelightbox",
-  "simpler-state": "arnelenero.github.io/simpler-state",
+  "libertação simples": "trigensoftware.github.io/simple-release",
+  "contador simples": "tomkiernan120.github.io/simplecounter",
+  "criptografia simples": "danang-id.github.io/simple-crypto-js",
+  "caixa de luz simples": "andreknieriem.github.io/simplelightbox",
+  "estado mais simples": "arnelenero.github.io/estado mais simples",
   "simples": "micnic.github.io/simples",
-  "simplesnake": "aktindo.github.io/Simple_Snake_Game",
-  "simplestate": "nlcgits.github.io/simplestate",
-  "simply": "fehmi.github.io/simply",
-  "simplyd": "simplyd.netlify.app",
+  "cobra simples": "aktindo.github.io/Simple_Snake_Game",
+  "estado simples": "nlcgits.github.io/simplestate",
+  "simplesmente": "fehmi.github.io/simplesmente",
+  "simplificado": "simplyd.netlify.app",
   "simplyeco": "xx-mohit-xx.github.io/Simply-eco",
-  "simplyxp": "abadima.github.io/simplyxp",
-  "simulacra": "daliwali.github.io/simulacra",
+  "simplesmente exp": "abadima.github.io/simplyxp",
+  "simulacros": "daliwali.github.io/simulacra",
   "sina": "sinabakh.github.io/sina",
-  "singapore": "singaporejs.github.io",
-  "single-spa": "single-spa.github.io/single-spa.js.org",
-  "sirkit": "seckwei.github.io/SirKit_CircuitSim", // noCF? (don´t add this in a new PR)
+  "cingapura": "singaporejs.github.io",
+  "spa único": "single-spa.github.io/single-spa.js.org",
+  "sirkit": "seckwei.github.io/SirKit_CircuitSim", // noCF? (não adicione isso em um novo PR)
   "sissi": "sissijs.github.io/sissi",
   "sitelo": "paul-browne.github.io/sitelo",
   "sjpm": "toggledtech.github.io/SJPM",
-  "sjy": "cname.vercel-dns.com", // noCF
+  "sjy": "cname.vercel-dns.com", // nãoCF
   "skeld": "skeldjs.github.io/SkeldJS",
-  "skeptical-coder": "rbpinheiro.github.io/skeptical-coder",
-  "sketch": "keiww.github.io/sketch",
-  "skiff": "priyanshu-1622.github.io/skiff-website",
-  "skillsync": "adityasugandhi.github.io/skillsync-mcp",
+  "codificador cético": "rbpinheiro.github.io/skeptical-coder",
+  "esboço": "keiww.github.io/esboço",
+  "esquife": "priyanshu-1622.github.io/skiff-website",
+  "sincronização de habilidades": "adityasugandhi.github.io/skillsync-mcp",
   "skiyee": "skiyee.pages.dev",
-  "skratch": "websyncs.github.io/skratch",
+  "arranhar": "websyncs.github.io/skratch",
   "sksamim": "esksamim.github.io/sksamim",
   "skyle": "skylejs.github.io/skyle",
-  "skyware": "skyware-js.github.io/web", // noCF
-  "slang": "ramadis.github.io/slang", // noCF? (don´t add this in a new PR)
+  "skyware": "skyware-js.github.io/web", // nãoCF
+  "gíria": "ramadis.github.io/gíria", // noCF? (não adicione isso em um novo PR)
   "slapshot": "dvhsh.github.io/slapshot.ts",
-  "slash-create": "snazzah.github.io/slash-create-website",
-  "slate": "iamshouvikmitra.github.io/slate",
+  "criar barra": "snazzah.github.io/slash-create-website",
+  "ardósia": "iamshouvikmitra.github.io/slate",
   "slidemenu": "alexkratky.github.io/SlideMenu.js",
-  "slideout": "mango.github.io/slideout",
-  "slider": "nikiforov-org.github.io/slider",
+  "deslizamento": "mango.github.io/slideout",
+  "controle deslizante": "nikiforov-org.github.io/slider",
   "slides": "deadcoder0904.github.io/slides-official-website",
-  "slidey": "thegreatrazz.github.io/slidey",
-  "slim": "eavichay.github.io/slim.js",
-  "slinky": "alizahid.github.io/slinky",
+  "deslizante": "thegreatrazz.github.io/slidey",
+  "magro": "eavichay.github.io/slim.js",
+  "escorregadio": "alizahid.github.io/slinky",
   "slyde": "tygo-van-den-hurk.github.io/Slyde",
-  "smartquotes": "kellym.github.io/smartquotes.js",
-  "smiley": "smiley422.github.io",
-  "smoke": "hxgf.github.io/smoke",
+  "citações inteligentes": "kellym.github.io/smartquotes.js",
+  "sorridente": "smiley422.github.io",
+  "fumaça": "hxgf.github.io/fumaça",
   "smooscroll": "shuninyu.github.io/SmooScroll",
-  "smoove": "abemedia.github.io/jquery-smoove",
-  "snail-ide": "snail-ide.github.io",
-  "snake": "pakastin.github.io/snake",
-  "snaplabs": "cname.vercel-dns.com", // noCF
-  "snekfetch": "devsnek.github.io/snekfetch",
-  "snip": "ashy-sea-0a4231910.5.azurestaticapps.net", // noCF
-  "snipify": "cname.vercel-dns.com", // noCF
-  "snippet": "jmas.github.io/gist",
-  "snode": "snodeproject.github.io/snode.js.org",
-  "snow": "cname.vercel-dns.com", // noCF
-  "snowbox": "yuxizhe.github.io/snowbox",
-  "snowflake": "theinternetfolks.github.io/snowflake",
-  "snowflake-api": "udit2303.github.io/snowflake-api-docs",
-  "snowstorm": "explodingcamera.github.io/snowstorm",
-  "sociably": "machinat.github.io/sociably",
-  "social-likes": "sapegin.github.io/social-likes", // noCF? (don´t add this in a new PR)
-  "social-likes-next": "sapegin.github.io/social-likes-next", // noCF? (don´t add this in a new PR)
-  "soda": "yieldray.github.io/soda",
-  "solace": "cname.vercel-dns.com", // noCF
+  "suavizar": "abemedia.github.io/jquery-smoove",
+  "ide de caracol": "snail-ide.github.io",
+  "cobra": "pakastin.github.io/cobra",
+  "placas de proteção": "cname.vercel-dns.com", // nãoCF
+  "busca furtiva": "devsnek.github.io/snekfetch",
+  "recorte": "ashy-sea-0a4231910.5.azurestaticapps.net", // nãoCF
+  "snipificar": "cname.vercel-dns.com", // nãoCF
+  "trecho": "jmas.github.io/gist",
+  "não": "snodeproject.github.io/snode.js.org",
+  "neve": "cname.vercel-dns.com", // nãoCF
+  "caixa de neve": "yuxizhe.github.io/snowbox",
+  "floco de neve": "theinternetfolks.github.io/floco de neve",
+  "api-floco-de-neve": "udit2303.github.io/snowflake-api-docs",
+  "tempestade de neve": "explodingcamera.github.io/tempestade de neve",
+  "sociavelmente": "machinat.github.io/sociavelmente",
+  "gostos sociais": "sapegin.github.io/social-likes", // noCF? (não adicione isso em um novo PR)
+  "social-likes-next": "sapegin.github.io/social-likes-next", // noCF? (não adicione isso em um novo PR)
+  "refrigerante": "yieldray.github.io/soda",
+  "consolo": "cname.vercel-dns.com", // nãoCF
   "solara": "getsolarajs.github.io/solara-docs",
-  "solder": "mcrocks999.github.io/solder.js",
-  "solid-file-upload": "swappea.github.io/solid-file-upload",
-  "solitude": "solitude-docs.netlify.app",
+  "Solda": "mcrocks999.github.io/solder.js",
+  "upload de arquivo sólido": "swappea.github.io/solid-file-upload",
+  "solidão": "solitude-docs.netlify.app",
   "soloalert": "arnav-kr.github.io/soloalert",
   "solome": "solome.github.io",
   "solu": "soiu.github.io/solu",
-  "somerandomcat": "hosting.gitbook.io", // noCF
+  "somerandomcat": "hospedagem.gitbook.io", // nãoCF
   "sonicware": "easyontop.github.io/Sonicware.js",
   "soniq": "fullstack-build.github.io/soniq",
-  "sonnet": "sonnetjs.github.io",
-  "sonny": "sonnylazuardi.github.io", // noCF? (don´t add this in a new PR)
-  "sop": "kuboschek.github.io/sop",
+  "soneto": "sonnetjs.github.io",
+  "filho": "sonnylazuardi.github.io", // noCF? (não adicione isso em um novo PR)
+  "soprar": "kuboschek.github.io/sop",
   "soukai": "noeldemartin.github.io/soukai",
-  "soundcloud-scraper": "soundcloud-scraper.netlify.app",
-  "soundpad": "mcpe-pc.github.io/soundpad.js",
-  "sourcemod": "infinixius.github.io/sourcemod.js",
-  "southwest": "southwest-js.github.io",
+  "raspador de nuvem sonora": "soundcloud-scraper.netlify.app",
+  "painel de som": "mcpe-pc.github.io/soundpad.js",
+  "modificação de origem": "infinixius.github.io/sourcemod.js",
+  "sudeste": "southwest-js.github.io",
   "spa": "sucom.github.io/SPA.js",
   "spaas": "pakastin.github.io/spaas",
-  "space": "pschroen.github.io/space.js",
-  "spacebot": "spacebot2.github.io",
-  "spark": "hammerheadstudios.github.io/SparkCode",
-  "spark-handler": "cname.vercel-dns.com", // noCF
-  "sparkle-ripple": "yuyake-litrain.github.io/sparkle-ripple-web",
+  "espaço": "pschroen.github.io/space.js",
+  "robô espacial": "spacebot2.github.io",
+  "faísca": "hammerheadstudios.github.io/SparkCode",
+  "manipulador de faíscas": "cname.vercel-dns.com", // nãoCF
+  "brilho-ondulação": "yuyake-litrain.github.io/sparkle-ripple-web",
   "spax": "crossjs.github.io/spax-site",
-  "spectragram": "adrianengine.github.io/jquery-spectragram", // noCF? (don´t add this in a new PR)
-  "speedybot": "valgaze.github.io/speedybot",
+  "espectragrama": "adrianengine.github.io/jquery-spectragram", // noCF? (não adicione isso em um novo PR)
+  "bot rápido": "valgaze.github.io/speedybot",
   "speroxu": "speroxu.github.io",
-  "spicydevs": "spicydevs.github.io",
-  "spider": "spider-scraper.netlify.app",
-  "spike": "spike.netlify.app",
-  "spin": "fgnass.github.io/spin.js", // noCF? (don´t add this in a new PR)
+  "devs picantes": "spicydevs.github.io",
+  "aranha": "raspador de aranhas.netlify.app",
+  "espinho": "spike.netlify.app",
+  "girar": "fgnass.github.io/spin.js", // noCF? (não adicione isso em um novo PR)
   "spinonsubmit": "thedhanawada.github.io/SpinOnSubmitJS",
-  "spirare": "waldenn.github.io/spirare", // noCF? (don´t add this in a new PR)
-  "spiritual": "spiritual-js.github.io", // noCF? (don´t add this in a new PR)
-  "splayer": "catsouta.github.io/splayer-js",
-  "splendid": "splendid-cms.github.io/website",
-  "split": "nathancahill.github.io/split",
-  "split-ease": "split-ease.netlify.app", // noCF
-  "splitscript": "03870fca2b-hosting.gitbook.io", // noCF
-  "splitting": "shshaw.github.io/Splitting",
+  "spirandelli": "spirandelliag.github.io",
+  "espirare": "waldenn.github.io/spirare", // noCF? (não adicione isso em um novo PR)
+  "espiritual": "spiritual-js.github.io", // noCF? (não adicione isso em um novo PR)
+  "jogador": "catsouta.github.io/splayer-js",
+  "esplêndido": "splendid-cms.github.io/site",
+  "dividir": "nathancahill.github.io/split",
+  "facilidade de divisão": "split-ease.netlify.app", // nãoCF
+  "escrito dividido": "03870fca2b-hosting.gitbook.io", // nãoCF
+  "divisão": "shshaw.github.io/Divisão",
   "spotify": "backtrackapp.github.io/spotify.js",
   "spotify-api": "spotifyapidocs.netlify.app",
   "spotistats": "spotistats-app.netlify.app",
   "sprae": "dy.github.io/sprae",
-  "spread": "spreadjs.github.io",
-  "spreadsheet": "chiefofgxbxl.github.io/Spreadsheet.js",
-  "spring": "hosting.gitbook.com",
-  "spritesheet": "arcadiogarcia.github.io/Spritesheet.js", // noCF? (don´t add this in a new PR)
-  "spritewerk": "bildepunkt.github.io/spritewerk", // noCF? (don´t add this in a new PR)
-  "spud": "nikop100.github.io/spud",
+  "espalhar": "spreadjs.github.io",
+  "planilha": "chiefofgxbxl.github.io/Spreadsheet.js",
+  "primavera": "hospedagem.gitbook.com",
+  "folha de sprites": "arcadiogarcia.github.io/Spritesheet.js", // noCF? (não adicione isso em um novo PR)
+  "spritewerk": "bildepunkt.github.io/spritewerk", // noCF? (não adicione isso em um novo PR)
+  "batata": "nikop100.github.io/spud",
   "spx": "spxjs.netlify.app",
-  "spyter": "cname.vercel-dns.com", // noCF
+  "espião": "cname.vercel-dns.com", // nãoCF
   "sql": "sql-js.github.io/sql.js",
   "sql2struct": "ymlair.github.io/sql2struct",
-  "sqlboot": "cname.vercel-dns.com", // noCF
-  "sqlchart": "sqlchart.github.io/sqlchart",
-  "squeak": "bertfreudenberg.github.io/SqueakJS",
-  "squid": "squidjs.github.io/squid",
-  "squircle": "cname.vercel-dns.com", // noCF
-  "squirrelly": "squirrellyjs.netlify.app", // noCF
+  "sqlboot": "cname.vercel-dns.com", // nãoCF
+  "gráfico de SQL": "sqlchart.github.io/sqlchart",
+  "guincho": "bertfreudenberg.github.io/SqueakJS",
+  "lula": "squidjs.github.io/squid",
+  "esquilo": "cname.vercel-dns.com", // nãoCF
+  "esquilo": "squirrellyjs.netlify.app", // nãoCF
   "sr": "samrobbins85.github.io",
   "srcset": "trigensoftware.github.io/srcset",
   "sri": "jackub.github.io/subresource-integrity-fallback",
-  "sri-maker": "rohit-chouhan.github.io/sri-maker",
-  "sri-shasum": "imcotton.github.io/sri", // noCF
+  "fabricante de sri": "rohit-chouhan.github.io/sri-maker",
+  "sri-shasum": "imcotton.github.io/sri", // nãoCF
   "ss": "netnr-ss.pages.dev",
-  "sse": "dt-is-not-available.github.io/sse",
+  "sse": "dt-não-está-disponível.github.io/sse",
   "st": "lizs365.github.io/st",
   "st-collab": "stoppedwummpython.github.io/st-collab",
   "staark": "doars.github.io/staark",
-  "staart": "staart.netlify.app",
-  "stable-fn": "ultirequiem.github.io/stable-fn",
-  "stabs": "wnda.github.io/stabs",
-  "stack-picker": "memiux.github.io/stack-picker",
-  "stack-styled": "stack-styled.netlify.app",
-  "stacks": "cname.vercel-dns.com", // noCF
+  "estrela": "staart.netlify.app",
+  "fn estável": "ultirequiem.github.io/stable-fn",
+  "facadas": "wnda.github.io/stabs",
+  "coletor de pilhas": "memiux.github.io/stack-picker",
+  "estilo pilha": "stack-styled.netlify.app",
+  "pilhas": "cname.vercel-dns.com", // nãoCF
   "stahlstadt": "dist1.storyblok.com",
-  "stampit": "hosting.gitbook.com", // noCF
-  "stamps": "ronald-baars.github.io/stamps",
-  "stampy": "stampylongr.github.io",
-  "standard-resource": "hosting.gitbook.com", // noCF
-  "standard-tool": "finom.github.io/standard-tool",
-  "stapp": "tinkoffcreditsystems.github.io/stapp",
-  "starfield": "annikav9.github.io/starfield.js",
-  "starify-discord": "dastormer.github.io/starify-discord",
-  "starratio": "starratio.github.io/star-ratio", // noCF
-  "stars-components": "stars-components.mintlify.site",
-  "start": "deepsweet.github.io/start",
-  "starterdocs": "vtempest.github.io/Serverless-DOCS-Stack",
+  "carimbo": "hospedagem.gitbook.com", // nãoCF
+  "selos": "ronald-baars.github.io/selos",
+  "carimbado": "stampylongr.github.io",
+  "recurso padrão": "hospedagem.gitbook.com", // nãoCF
+  "ferramento padrão": "finom.github.io/ferramento padrão",
+  "tapa": "tinkoffcreditsystems.github.io/stapp",
+  "campo estelar": "annikav9.github.io/starfield.js",
+  "starificar-discórdia": "dastormer.github.io/starify-discord",
+  "proposição de estrelas": "starratio.github.io/star-ratio", // nãoCF
+  "componentes estelares": "componentes estelares.mintlify.site",
+  "começar": "deepsweet.github.io/start",
+  "documentos iniciais": "vtempest.github.io/Serverless-DOCS-Stack",
   "starterpk": "starterpk.github.io",
-  "startup": "startup-js.github.io/startup",
-  "startxkit": "cname.vercel-dns.com", // noCF
-  "state-machine-cat": "sverweij.github.io/state-machine-cat",
-  "staticinstance": "staticinstance.github.io", // noCF? (don´t add this in a new PR)
-  "statisfy": "yarn-development.github.io/statisfynpm",
-  "stats": "js-org.github.io/stats.js.org",
+  "início": "startup-js.github.io/startup",
+  "startxkit": "cname.vercel-dns.com", // nãoCF
+  "gato-maquina-de-estado": "sverweij.github.io/state-machine-cat",
+  "instância estática": "staticinstance.github.io", // noCF? (não adicione isso em um novo PR)
+  "satisfazer": "yarn-development.github.io/statisfynpm",
+  "estatísticas": "js-org.github.io/stats.js.org",
   "statsmonit": "cabrata.github.io/StatsMonit",
   "status": "mattipv4.github.io/status-codes",
   "status-hx": "status-hx-js-org.dns.huangxin.org", // noCF
