@@ -3155,6 +3155,7 @@ var cnames_active = {
   "spike": "spike.netlify.app",
   "spin": "fgnass.github.io/spin.js", // noCF? (don´t add this in a new PR)
   "spinonsubmit": "thedhanawada.github.io/SpinOnSubmitJS",
+  "spirandelli": "spirandelliag.github.io",
   "spirare": "waldenn.github.io/spirare", // noCF? (don´t add this in a new PR)
   "spiritual": "spiritual-js.github.io", // noCF? (don´t add this in a new PR)
   "splayer": "catsouta.github.io/splayer-js",
