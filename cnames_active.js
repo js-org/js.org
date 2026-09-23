@@ -401,6 +401,7 @@ var cnames_active = {
   "blurple": "blurplejs.github.io/docs",
   "bo": "lfb.github.io/bojs",
   "boats": "discordboats.github.io",
+  "bobojonov": "cname.vercel-dns.com",
   "bodybuilder": "danpaz.github.io/bodybuilder", // noCF? (don´t add this in a new PR)
   "boger": "boger.netlify.app",
   "boilerplates": "ckgrafico.github.io/frontend-boilerplates",
@@ -408,6 +409,7 @@ var cnames_active = {
   "boldom": "marcisbee.github.io/boldom",
   "bombsweeper": "pakastin.github.io/bombsweeper",
   "bonzibuddy": "fardindadev.github.io/bonzibuddy",
+  "bobojonov": "cname.vercel-dns.com",
   "bookmarklets": "zelnickb.github.io/bookmarklets",
   "bool": "booljs.github.io",
   "booru": "atlasthebot.github.io/booru",
