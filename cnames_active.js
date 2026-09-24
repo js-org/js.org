@@ -1190,6 +1190,7 @@ var cnames_active = {
   "flor": "florplayer.github.io",
   "flowchart": "adrai.github.io/flowchart.js", // noCF? (don´t add this in a new PR)
   "flowcraft": "gorango.github.io/flowcraft",
+  "flower": "flower-js-org.github.io/runtime",
   "flowjv": "pkishorez.github.io/flowjv",
   "flowout": "falkz.github.io/flowout.js",
   "flowpainter": "sirajchokshi.github.io/FlowPainter",
