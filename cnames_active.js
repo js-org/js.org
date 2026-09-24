@@ -970,6 +970,7 @@ var cnames_active = {
   "dunedin": "dunedinjs.github.io",
   "duosoptimos": "duosoptimos.github.io/duosptimos",
   "duration": "imranbarbhuiya.github.io/duration",
+  "duto": "dut0.pages.dev",
   "dv-scalebar": "indus.github.io/dv-scalebar",
   "dva-plus": "anyesu.github.io/dva-plus",
   "dvan": "dvan.netlify.app",
