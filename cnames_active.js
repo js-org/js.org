@@ -39,6 +39,7 @@
 
 var cnames_active = {
   "": "js-org.github.io",
+  "mgstore": "https://github.com/DcSerrano148/mgs-store-catalogo",
   "01mz": "01mz.github.io",
   "100dayz": "deadcoder0904.github.io/100dayz",
   "101": "7anshuai.github.io/js101", // noCF? (don´t add this in a new PR)
