@@ -1427,6 +1427,7 @@ var cnames_active = {
   "hay": "hayjs.github.io/hay.js.org",
   "hbase": "adaltas.github.io/node-hbase-docs",
   "hcs": "kimcore.github.io/hcs.js", // noCF
+  "head": "head-js.github.io",
   "heartseekers": "rajington.github.io/heartseekers", // noCF? (don´t add this in a new PR)
   "heax": "coderosh.github.io/heaxjs", // noCF
   "hegel": "jsmonk.github.io/hegel",
@@ -3726,6 +3727,7 @@ var cnames_active = {
   "wc": "bryansha.github.io/wc",
   "wcfactory": "elmsln.github.io/wcfactory.js.org",
   "wdd": "wangduanduan.github.io",
+  "weapp": "weappjs.github.io/weapp.dev",
   "weather": "phanendraguptha.github.io/weather",
   "weaver": "maxkfranz.github.io/weaver", // noCF? (don´t add this in a new PR)
   "web-sandbox": "web-sandbox-js.github.io/web-sandbox-website",
