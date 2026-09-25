@@ -1913,6 +1913,7 @@ var cnames_active = {
   "lottie": "sanyok12345.github.io/lottie.js",
   "lottiefy": "pd4d10.github.io/lottiefy",
   "loxt": "loxt.netlify.app",
+  "lpk": "yahyagarsselewi.github.io/lpk/",
   "lps": "mauris.github.io/lps.js.org",
   "lrclib": "igorwastaken.github.io/lrclib-api",
   "lribeiro": "lmribeiro.github.io",
