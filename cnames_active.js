@@ -2449,6 +2449,7 @@ var cnames_active = {
   "panda": "theaarushgupta.github.io/panda",
   "pangkeyd": "pangkeyd.github.io",
   "pantarei": "pantareijs.github.io/pantarei.js.org",
+  "pante": "nheoshikuyanhemo.github.io/Pante",
   "panza": "panza-org.github.io/panza-docs", // noCF
   "papanasi": "witty-plant-07a086e03.1.azurestaticapps.net", // noCF
   "paperclip": "crcn.github.io/paperclip.js.org", // noCF? (don´t add this in a new PR)
