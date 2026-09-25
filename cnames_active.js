@@ -3221,6 +3221,7 @@ var cnames_active = {
   "startup": "startup-js.github.io/startup",
   "startxkit": "cname.vercel-dns.com", // noCF
   "state-machine-cat": "sverweij.github.io/state-machine-cat",
+  "stateglyph": "cname.vercel-dns.com", // noCF
   "staticinstance": "staticinstance.github.io", // noCF? (don´t add this in a new PR)
   "statisfy": "yarn-development.github.io/statisfynpm",
   "stats": "js-org.github.io/stats.js.org",
