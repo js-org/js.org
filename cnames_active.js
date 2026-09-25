@@ -192,7 +192,7 @@ var cnames_active = {
   "angular-cn": "ng-docs.github.io/angular-cn.js.org",
   "angular-jsf": "json-schema-faker.github.io/angular-jsf", // noCF? (don´t add this in a new PR)
   "angular-mfe": "rx-ts.github.io/angular-mfe",
-  "angular-redux": "angular-redux-docs.netlify.app", // noCF
+  "angular-redux": "angular-redux-docs.netlify.app",
   "angularstompdk": "davinkevin.github.io/AngularStompDK", // noCF? (don´t add this in a new PR)
   "ani-client": "cname.vercel-dns.com", // noCF
   "anilist": "instellate.github.io/anilist.js",
@@ -2733,7 +2733,7 @@ var cnames_active = {
   "react-papaparse": "react-papaparse.github.io",
   "react-pivottable": "plotly.github.io/react-pivottable",
   "react-querybuilder": "react-querybuilder.github.io",
-  "react-redux": "react-redux-docs.netlify.app", // noCF
+  "react-redux": "react-redux-docs.netlify.app",
   "react-responsive-carousel": "leandrowd.github.io/react-responsive-carousel", // noCF? (don´t add this in a new PR)
   "react-server-forms": "cname.vercel-dns.com", // noCF
   "react-showroom": "react-showroom.netlify.app",
@@ -2774,7 +2774,7 @@ var cnames_active = {
   "redline": "abduvokhid.github.io/redline",
   "redom": "redom.github.io/redom-docs",
   "reduce": "reducejs.github.io", // noCF? (don´t add this in a new PR)
-  "redux": "redux-docs.netlify.app", // noCF
+  "redux": "redux-docs.netlify.app",
   "redux-actions": "hosting.gitbook.com", // noCF
   "redux-agent": "bard.github.io/redux-agent",
   "redux-aggregate": "redux-aggregate.netlify.app",
@@ -3692,7 +3692,7 @@ var cnames_active = {
   "vue-multiselect": "shentao.github.io/vue-multiselect",
   "vue-pick": "syazwanz.github.io/vue-pick",
   "vue-polkadot": "vue-polkadot.github.io",
-  "vue-redux": "vue-redux-docs.netlify.app", // noCF
+  "vue-redux": "vue-redux-docs.netlify.app",
   "vue-roast": "kronicker.github.io/vue-roast",
   "vue-route-timeline": "disjfa.github.io/vue-route-timeline",
   "vue-showdown": "vue-showdown.netlify.app",
