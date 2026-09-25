@@ -427,6 +427,7 @@ var cnames_active = {
   "brandi": "cname.vercel-dns.com", // noCF
   "brandifyjs": "greybax.github.io/brandifyjs",
   "brandonmerritt": "brandonmerritt.github.io", // noCF? (don´t add this in a new PR)
+  "brandstudio": "brand-studio-c7e.pages.dev",
   "brasil": "javascriptbrasil.github.io",
   "brawley": "brawlie.github.io/brawley",
   "brawlstats": "brawlstatsjs.netlify.app",
@@ -969,6 +970,7 @@ var cnames_active = {
   "dunedin": "dunedinjs.github.io",
   "duosoptimos": "duosoptimos.github.io/duosptimos",
   "duration": "imranbarbhuiya.github.io/duration",
+  "duto": "dut0.pages.dev",
   "dv-scalebar": "indus.github.io/dv-scalebar",
   "dva-plus": "anyesu.github.io/dva-plus",
   "dvan": "dvan.netlify.app",
@@ -1189,6 +1191,7 @@ var cnames_active = {
   "flor": "florplayer.github.io",
   "flowchart": "adrai.github.io/flowchart.js", // noCF? (don´t add this in a new PR)
   "flowcraft": "gorango.github.io/flowcraft",
+  "flower": "flower-js-org.github.io/runtime",
   "flowjv": "pkishorez.github.io/flowjv",
   "flowout": "falkz.github.io/flowout.js",
   "flowpainter": "sirajchokshi.github.io/FlowPainter",
@@ -1425,6 +1428,7 @@ var cnames_active = {
   "hay": "hayjs.github.io/hay.js.org",
   "hbase": "adaltas.github.io/node-hbase-docs",
   "hcs": "kimcore.github.io/hcs.js", // noCF
+  "head": "head-js.github.io",
   "heartseekers": "rajington.github.io/heartseekers", // noCF? (don´t add this in a new PR)
   "heax": "coderosh.github.io/heaxjs", // noCF
   "hegel": "jsmonk.github.io/hegel",
@@ -3724,6 +3728,7 @@ var cnames_active = {
   "wc": "bryansha.github.io/wc",
   "wcfactory": "elmsln.github.io/wcfactory.js.org",
   "wdd": "wangduanduan.github.io",
+  "weapp": "weappjs.github.io/weapp.dev",
   "weather": "phanendraguptha.github.io/weather",
   "weaver": "maxkfranz.github.io/weaver", // noCF? (don´t add this in a new PR)
   "web-sandbox": "web-sandbox-js.github.io/web-sandbox-website",
