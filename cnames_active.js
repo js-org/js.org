@@ -100,8 +100,8 @@ var cnames_active = {
   "ada": "ada-js.netlify.app",
   "adamant": "datamart.github.io/Adamant",
   "adaptui": "cname.vercel-dns.com", // noCF
-  "aderemi": "aderemi.github.io",
   "adegadobahia": "rafaelsil1.github.io/adegadobahia-landing-page",
+  "aderemi": "aderemi.github.io",
   "adil": "adilzeshan.github.io/adil",
   "aditya": "aditya81070.github.io",
   "adjskit": "devs-des1re.github.io/adjskit",
