@@ -65,6 +65,7 @@ var cnames_active = {
   "98plus": "cherrim98.github.io",
   "9932": "dannyzhan.github.io",
   "a-western-story": "hotsaucefiretruck.github.io/A-Western-Story",
+  "adegadobahia": "rafaelsil1.github.io/adegadobahia-landing-page",
   "a11y-live": "kvnq-poza.github.io/a11y-live",
   "a11yslider": "mmahandev.github.io/a11y-slider",
   "a2ui-sdk": "easyops-cn.github.io/a2ui-sdk",
