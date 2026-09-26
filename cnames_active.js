@@ -1175,6 +1175,7 @@ var cnames_active = {
   "fireworks": "crashmax-dev.github.io/fireworks-js",
   "first-accord": "sticknologic.github.io/First-Accord",
   "fish": "cdaringe.github.io/fish",
+  "fishingoffline": "finnsebconnor-sketch.github.io",
   "five": "jackdcrawford.github.io/five",
   "flagcloth": "cname.vercel-dns.com", // noCF
   "flamecord": "flamexode.github.io/flamecord",
