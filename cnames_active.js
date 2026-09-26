@@ -3724,6 +3724,7 @@ var cnames_active = {
   "watch": "ducin.github.io/watchjs.org", // noCF? (don´t add this in a new PR)
   "watchfs": "prateekkumarweb.github.io/watchfs",
   "waterfall": "waterblock79.github.io/waterfall",
+  "waterfall-of-the-soul": "gorgeousruth.github.io/waterfall-of-the-soul",
   "watermark": "fredy.github.io/watermark",
   "watr": "dy.github.io/watr",
   "wc": "bryansha.github.io/wc",
