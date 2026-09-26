@@ -2215,6 +2215,7 @@ var cnames_active = {
   "mzaini30": "mzaini30.github.io",
   "mzplayer": "prince3661.github.io/Mzplayer",
   "n": "cyb.github.io/n",
+  "nabd": "cname.vercel-dns.com",
   "nacl-check": "magnusmarx.github.io/NaCL",
   "naja": "naja-js.github.io/naja",
   "namaste": "namaste-duniya.github.io/js",
