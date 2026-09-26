@@ -3464,6 +3464,7 @@ var cnames_active = {
   "trung": "thientrung.github.io",
   "try-catch-finally": "c24w.github.io/try-catch-finally.js",
   "trygit": "trygit.netlify.app",
+  "techfix": "techfixsolution-in.github.io/techfix-website",
   "ts-creator": "ts-creator.netlify.app",
   "ts-dax": "lukecarr.github.io/ts-dax",
   "ts-module-browser": "iam-medvedev.github.io/ts-module-browser",
