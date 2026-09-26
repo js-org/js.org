@@ -2927,7 +2927,6 @@ var cnames_active = {
   "salary": "whz11.github.io/salarytools",
   "salvacam": "salvacam.github.io",
   "salvattore": "rnmp.github.io/salvattore",
-  "sqezx3d": "sqezx3d.github.io",
   "sam": "jdubray.github.io/sam", // noCF? (don´t add this in a new PR)
   "samathgen": "sadykhzadeh.github.io/samathgen",
   "samengine": "cname.vercel-dns.com", // noCF
@@ -3181,6 +3180,7 @@ var cnames_active = {
   "spud": "nikop100.github.io/spud",
   "spx": "spxjs.netlify.app",
   "spyter": "cname.vercel-dns.com", // noCF
+  "sqezx3d": "sqezx3d.github.io",
   "sql": "sql-js.github.io/sql.js",
   "sql2struct": "ymlair.github.io/sql2struct",
   "sqlboot": "cname.vercel-dns.com", // noCF
