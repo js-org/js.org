@@ -1726,6 +1726,7 @@ var cnames_active = {
   "keyvify": "zyrouge.github.io/Keyvify",
   "kfg": "drysius.github.io/kfg",
   "kickstack": "cname.vercel-dns.com", // noCF
+  "killx": "cname.vercel-dns.com", // noCF
   "kilobyte": "kilobytehq.github.io/open-js",
   "kilvin": "rofrischmann.github.io/kilvin",
   "kimera": "ultirequiem.github.io/kimera",
