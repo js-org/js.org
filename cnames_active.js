@@ -1726,6 +1726,7 @@ var cnames_active = {
   "keyvify": "zyrouge.github.io/Keyvify",
   "kfg": "drysius.github.io/kfg",
   "kickstack": "cname.vercel-dns.com", // noCF
+  "killx": "cname.vercel-dns.com", // noCF
   "kilobyte": "kilobytehq.github.io/open-js",
   "kilvin": "rofrischmann.github.io/kilvin",
   "kimera": "ultirequiem.github.io/kimera",
@@ -3734,6 +3735,7 @@ var cnames_active = {
   "weather": "phanendraguptha.github.io/weather",
   "weaver": "maxkfranz.github.io/weaver", // noCF? (don´t add this in a new PR)
   "web-sandbox": "web-sandbox-js.github.io/web-sandbox-website",
+  "web-share-polyfill": "tomchen.github.io/web-share-polyfill",
   "web-widget": "web-widget.github.io",
   "web.quizlet": "redyetidev.github.io/Quizlet.JS-Web", // noCF
   "web230": "paylesworth.github.io/web230",
