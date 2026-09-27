@@ -1524,6 +1524,7 @@ var cnames_active = {
   "iflow": "unadlib.github.io/iflow",
   "ignite": "ignitejscl.github.io",
   "iiimix": "iiimix.github.io/iiimixjsorg",
+  "iiitbhopal": "https://iiitbhopal.vercel.app/",
   "iio": "iioinc.github.io/iio.js", // noCF? (don´t add this in a new PR)
   "illustrator": "illustratorjs.netlify.app",
   "imagecapture": "googlechrome.github.io/imagecapture-polyfill",
