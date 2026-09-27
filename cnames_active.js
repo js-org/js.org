@@ -1275,6 +1275,7 @@ var cnames_active = {
   "gcse": "abemedia.github.io/jquery-gcse",
   "gdal3": "bugra9.github.io/gdal3.js",
   "gdi": "katehra-brc.github.io/gdi.js.org",
+  "gdlite": "anyelo888ra-ux.github.io/gd-lite-web-opensorce",
   "geekr": "ruanyl.github.io/geekr", // noCF? (don´t add this in a new PR)
   "gemstone": "pierreavn.github.io/gemstone",
   "genanki": "krmanik.github.io/genanki-js",
