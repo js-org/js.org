@@ -3466,6 +3466,7 @@ var cnames_active = {
   "truecaller": "sumithemmadi.github.io/truecallerjs",
   "truncate": "remanufacturing.github.io/react-truncate",
   "trung": "thientrung.github.io",
+  "trust-graph": "cname.vercel-dns.com", // noCF
   "try-catch-finally": "c24w.github.io/try-catch-finally.js",
   "trygit": "trygit.netlify.app",
   "ts-creator": "ts-creator.netlify.app",
