@@ -2667,6 +2667,7 @@ var cnames_active = {
   "quickshadow": "cname.vercel-dns.com", // noCF
   "quillstack": "quillstack.pages.dev",
   "quincy": "quincyx.github.io",
+  "quitx": "cname.vercel-dns.com", // noCF
   "quiz-app": "odevlord.github.io/Quiz-App", // noCF? (don´t add this in a new PR)
   "quizizz": "zaida04.github.io/Quizizz.js",
   "quizmaster": "mechtester.github.io/quizmaster",
@@ -2765,6 +2766,7 @@ var cnames_active = {
   "realt": "vnkitaev.github.io/realt",
   "reask": "mcsh.github.io/reask",
   "reassign": "hasharray.github.io/reassign.js",
+  "rebase": "js-rebase.github.io/rebase",
   "rebatov": "rebatov.github.io",
   "rebem": "rebem.github.io", // noCF? (don´t add this in a new PR)
   "reciple": "cname.vercel-dns.com", // noCF
