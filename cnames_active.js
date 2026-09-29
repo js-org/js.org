@@ -3200,6 +3200,7 @@ var cnames_active = {
   "ss": "netnr-ss.pages.dev",
   "ssdiskdb": "manojgowdain.github.io/ssdiskdb",
   "sse": "dt-is-not-available.github.io/sse",
+  "ssnom-qc": "smis-soleil.github.io/sSNOM-QC-JS",
   "st": "lizs365.github.io/st",
   "st-collab": "stoppedwummpython.github.io/st-collab",
   "staark": "doars.github.io/staark",
