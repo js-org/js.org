@@ -3050,6 +3050,7 @@ var cnames_active = {
   "sidekick": "cname.vercel-dns.com", // noCF
   "sidekik": "inf3cti0n95.github.io/sidekik",
   "sidewind": "sidewind.pages.dev",
+  "siftclient": "vellxyrigs.github.io/sift-client-dev",
   "sights": "sfxrescue.github.io/sights",
   "sign-poc": "imcotton.github.io/sign-poc", // noCF
   "signaldb": "maxnowack.github.io/signaldb", // noCF
