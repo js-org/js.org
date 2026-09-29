@@ -2425,6 +2425,7 @@ var cnames_active = {
   "overtone": "biologyscience.github.io/overtone",
   "overtrack": "aidant.github.io/overtrack.js",
   "ovo": "ovojs.github.io/OvO",
+  "oxfordkollam": "theoxfordkollam.vercel.app",
   "oxi": "cname.vercel-dns.com", // noCF
   "oz": "openzagreb.github.io",
   "p2p": "nuzulul.github.io/p2p.js",
