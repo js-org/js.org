@@ -192,7 +192,7 @@ var cnames_active = {
   "angular-cn": "ng-docs.github.io/angular-cn.js.org",
   "angular-jsf": "json-schema-faker.github.io/angular-jsf", // noCF? (don´t add this in a new PR)
   "angular-mfe": "rx-ts.github.io/angular-mfe",
-  "angular-redux": "angular-redux-docs.netlify.app", // noCF
+  "angular-redux": "angular-redux-docs.netlify.app",
   "angularstompdk": "davinkevin.github.io/AngularStompDK", // noCF? (don´t add this in a new PR)
   "ani-client": "cname.vercel-dns.com", // noCF
   "anilist": "instellate.github.io/anilist.js",
@@ -970,6 +970,7 @@ var cnames_active = {
   "dunedin": "dunedinjs.github.io",
   "duosoptimos": "duosoptimos.github.io/duosptimos",
   "duration": "imranbarbhuiya.github.io/duration",
+  "duto": "dut0.pages.dev",
   "dv-scalebar": "indus.github.io/dv-scalebar",
   "dva-plus": "anyesu.github.io/dva-plus",
   "dvan": "dvan.netlify.app",
@@ -1190,6 +1191,7 @@ var cnames_active = {
   "flor": "florplayer.github.io",
   "flowchart": "adrai.github.io/flowchart.js", // noCF? (don´t add this in a new PR)
   "flowcraft": "gorango.github.io/flowcraft",
+  "flower": "flower-js-org.github.io/runtime",
   "flowjv": "pkishorez.github.io/flowjv",
   "flowout": "falkz.github.io/flowout.js",
   "flowpainter": "sirajchokshi.github.io/FlowPainter",
@@ -1426,6 +1428,7 @@ var cnames_active = {
   "hay": "hayjs.github.io/hay.js.org",
   "hbase": "adaltas.github.io/node-hbase-docs",
   "hcs": "kimcore.github.io/hcs.js", // noCF
+  "head": "head-js.github.io",
   "heartseekers": "rajington.github.io/heartseekers", // noCF? (don´t add this in a new PR)
   "heax": "coderosh.github.io/heaxjs", // noCF
   "hegel": "jsmonk.github.io/hegel",
@@ -1724,6 +1727,7 @@ var cnames_active = {
   "keyvify": "zyrouge.github.io/Keyvify",
   "kfg": "drysius.github.io/kfg",
   "kickstack": "cname.vercel-dns.com", // noCF
+  "killx": "cname.vercel-dns.com", // noCF
   "kilobyte": "kilobytehq.github.io/open-js",
   "kilvin": "rofrischmann.github.io/kilvin",
   "kimera": "ultirequiem.github.io/kimera",
@@ -2340,6 +2344,7 @@ var cnames_active = {
   "nsptiles": "imthenachoman.github.io/nSPTiles", // noCF? (don´t add this in a new PR)
   "nsw-coronavirus": "maxgherman.github.io/nsw-coronavirus",
   "nugu": "vietcode.github.io/nugu",
+  "nukecache": "cname.vercel-dns.com", // noCF
   "null": "false.netlify.app",
   "nullscript": "nullscript-lang.github.io/docs",
   "num2words": "mcnagynorbi.github.io/num2words",
@@ -2663,6 +2668,7 @@ var cnames_active = {
   "quickshadow": "cname.vercel-dns.com", // noCF
   "quillstack": "quillstack.pages.dev",
   "quincy": "quincyx.github.io",
+  "quitx": "cname.vercel-dns.com", // noCF
   "quiz-app": "odevlord.github.io/Quiz-App", // noCF? (don´t add this in a new PR)
   "quizizz": "zaida04.github.io/Quizizz.js",
   "quizmaster": "mechtester.github.io/quizmaster",
@@ -2730,7 +2736,7 @@ var cnames_active = {
   "react-papaparse": "react-papaparse.github.io",
   "react-pivottable": "plotly.github.io/react-pivottable",
   "react-querybuilder": "react-querybuilder.github.io",
-  "react-redux": "react-redux-docs.netlify.app", // noCF
+  "react-redux": "react-redux-docs.netlify.app",
   "react-responsive-carousel": "leandrowd.github.io/react-responsive-carousel", // noCF? (don´t add this in a new PR)
   "react-server-forms": "cname.vercel-dns.com", // noCF
   "react-showroom": "react-showroom.netlify.app",
@@ -2761,6 +2767,7 @@ var cnames_active = {
   "realt": "vnkitaev.github.io/realt",
   "reask": "mcsh.github.io/reask",
   "reassign": "hasharray.github.io/reassign.js",
+  "rebase": "js-rebase.github.io/rebase",
   "rebatov": "rebatov.github.io",
   "rebem": "rebem.github.io", // noCF? (don´t add this in a new PR)
   "reciple": "cname.vercel-dns.com", // noCF
@@ -2771,7 +2778,7 @@ var cnames_active = {
   "redline": "abduvokhid.github.io/redline",
   "redom": "redom.github.io/redom-docs",
   "reduce": "reducejs.github.io", // noCF? (don´t add this in a new PR)
-  "redux": "redux-docs.netlify.app", // noCF
+  "redux": "redux-docs.netlify.app",
   "redux-actions": "hosting.gitbook.com", // noCF
   "redux-agent": "bard.github.io/redux-agent",
   "redux-aggregate": "redux-aggregate.netlify.app",
@@ -2852,6 +2859,7 @@ var cnames_active = {
   "rexs": "uellenberg.github.io/REXS",
   "reyes": "michaelbreyes.github.io/reyes",
   "rgbstrip": "xrealneon.github.io/RGBStrip",
+  "rhythm": "rhythmjs.github.io",
   "ribbons": "tsparticles.github.io/ribbons",
   "rickdesantis": "rickdesantis.github.io",
   "riffy": "cname.vercel-dns.com", // noCF
@@ -3191,6 +3199,7 @@ var cnames_active = {
   "sri-maker": "rohit-chouhan.github.io/sri-maker",
   "sri-shasum": "imcotton.github.io/sri", // noCF
   "ss": "netnr-ss.pages.dev",
+  "ssdiskdb": "manojgowdain.github.io/ssdiskdb",
   "sse": "dt-is-not-available.github.io/sse",
   "st": "lizs365.github.io/st",
   "st-collab": "stoppedwummpython.github.io/st-collab",
@@ -3218,6 +3227,7 @@ var cnames_active = {
   "startup": "startup-js.github.io/startup",
   "startxkit": "cname.vercel-dns.com", // noCF
   "state-machine-cat": "sverweij.github.io/state-machine-cat",
+  "stateglyph": "cname.vercel-dns.com", // noCF
   "staticinstance": "staticinstance.github.io", // noCF? (don´t add this in a new PR)
   "statisfy": "yarn-development.github.io/statisfynpm",
   "stats": "js-org.github.io/stats.js.org",
@@ -3315,6 +3325,7 @@ var cnames_active = {
   "synergies": "lukasbach.github.io/synergies",
   "synth": "lukehorvat.github.io/synth-mood",
   "syr": "dmikey.github.io/syr",
+  "sys1grep": "uehaj.github.io/sys1grep",
   "system-monitoring": "miladezzat.github.io/system-monitoring",
   "t": "l-js.mydevapp.tfuture.eu.org", // noCF
   "tab": "gdmcc.github.io/tab",
@@ -3459,6 +3470,7 @@ var cnames_active = {
   "truecaller": "sumithemmadi.github.io/truecallerjs",
   "truncate": "remanufacturing.github.io/react-truncate",
   "trung": "thientrung.github.io",
+  "trust-graph": "cname.vercel-dns.com", // noCF
   "try-catch-finally": "c24w.github.io/try-catch-finally.js",
   "trygit": "trygit.netlify.app",
   "ts-creator": "ts-creator.netlify.app",
@@ -3689,7 +3701,7 @@ var cnames_active = {
   "vue-multiselect": "shentao.github.io/vue-multiselect",
   "vue-pick": "syazwanz.github.io/vue-pick",
   "vue-polkadot": "vue-polkadot.github.io",
-  "vue-redux": "vue-redux-docs.netlify.app", // noCF
+  "vue-redux": "vue-redux-docs.netlify.app",
   "vue-roast": "kronicker.github.io/vue-roast",
   "vue-route-timeline": "disjfa.github.io/vue-route-timeline",
   "vue-showdown": "vue-showdown.netlify.app",
@@ -3726,9 +3738,11 @@ var cnames_active = {
   "wc": "bryansha.github.io/wc",
   "wcfactory": "elmsln.github.io/wcfactory.js.org",
   "wdd": "wangduanduan.github.io",
+  "weapp": "weappjs.github.io/weapp.dev",
   "weather": "phanendraguptha.github.io/weather",
   "weaver": "maxkfranz.github.io/weaver", // noCF? (don´t add this in a new PR)
   "web-sandbox": "web-sandbox-js.github.io/web-sandbox-website",
+  "web-share-polyfill": "tomchen.github.io/web-share-polyfill",
   "web-widget": "web-widget.github.io",
   "web.quizlet": "redyetidev.github.io/Quizlet.JS-Web", // noCF
   "web230": "paylesworth.github.io/web230",
