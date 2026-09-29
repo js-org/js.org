@@ -3197,6 +3197,7 @@ var cnames_active = {
   "sri-maker": "rohit-chouhan.github.io/sri-maker",
   "sri-shasum": "imcotton.github.io/sri", // noCF
   "ss": "netnr-ss.pages.dev",
+  "ssdiskdb":"manojgowdain.github.io/ssdiskdb",
   "sse": "dt-is-not-available.github.io/sse",
   "st": "lizs365.github.io/st",
   "st-collab": "stoppedwummpython.github.io/st-collab",
@@ -3303,7 +3304,6 @@ var cnames_active = {
   "svg-crowbar": "cy6erskunk.github.io/svg-crowbar",
   "svg-skeleton": "yyued.github.io/SVG-Skeleton",
   "sw-yx": "sw-yx.github.io",
-  "ssdiskdb":"manojgowdain.github.io/ssdiskdb",
   "swarpc": "gwennlbh.github.io/swarpc",
   "swearoo": "codeswithjames.github.io/swearoo",
   "sweetalert": "t4t5.github.io/sweetalert",
