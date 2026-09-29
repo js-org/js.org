@@ -6,6 +6,22 @@
 
 ---
 
+## Content Requirements
+
+> [!IMPORTANT]
+> Please be aware that there are some rules that apply to website content hosted on JS.ORG subdomains:
+>
+> **Websites must be *directly* related to the JavaScript ecosystem/community (such as NPM packages / JS tools, not personal pages / portfolios)**
+>
+> - Websites that merely use JavaScript, without otherwise being related to the ecosystem, are not eligible.
+> - No placeholder pages. Websites must contain substantive content relevant to their purpose.
+> - No automatic redirects away from the **js.org** domain. Redirects must require user interaction.
+> - No unrelated content. Websites must stay focused on their intended topic or purpose.
+>
+> _Additionally, please be aware of our full [Terms and Conditions](https://js.org/terms.html) for the JS.ORG service._
+
+---
+
 ## GitHub Pages
 
 To get a short and sleek subdomain for your own GitHub Pages site from JS.ORG follow these 4 steps:
@@ -51,21 +67,6 @@ Follow your hosting provider's instructions for adding a custom domain to your s
 ### Step 4
 
 As above with adding a subdomain to a GitHub Pages site, the final step is to make a pull request in this GitHub repository that adds your subdomain to the [subdomains list](https://github.com/js-org/js.org/blob/master/cnames_active.js) of existing JS.ORG domains.
-
----
-
-## Content Requirements
-
-> [!IMPORTANT]
-> Please be aware that there are some rules that apply to website content hosted on JS.ORG subdomains:
->
-> **Websites must be *directly* related to the JavaScript ecosystem/community (such as NPM packages / JS tools, not personal pages / portfolios)**
-> 
-> - No placeholder pages. Websites must contain substantive content relevant to their purpose.
-> - No automatic redirects away from the **js.org** domain. Redirects must require user interaction.
-> - No unrelated content. Websites must stay focused on their intended topic or purpose.
->
-> _Additionally, please be aware of our full [Terms and Conditions](https://js.org/terms.html) for the JS.ORG service._
 
 ---
 
