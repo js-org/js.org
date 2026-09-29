@@ -1463,6 +1463,7 @@ var cnames_active = {
   "hlr": "jiwonme.github.io/hlr-svg",
   "hltvbot": "nescabir.github.io/HLTVBot",
   "hmsscioly": "scioly.netlify.app",
+  "hnrconsulting": "hnrconsulting.github.io/wpa",
   "hnxml": "modern-school.github.io/hnxml",
   "hoa": "thehoa.github.io",
   "hoast": "hoast.github.io/hoast",
