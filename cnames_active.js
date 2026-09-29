@@ -899,6 +899,7 @@ var cnames_active = {
   "djzhao": "djzhao627.github.io",
   "dlite": "hosting.gitbook.com",
   "dls-docs": "shadowplay1.github.io/dls-docs",
+  "dmas-grader-a1": "satyrfrost.github.io/mssql-a1-grader",
   "dmitry": "dmitry-zaets.github.io",
   "dna": "dna-engine.github.io/dna-engine",
   "dnd-layout": "fpsqdb.github.io/dnd-layout",
