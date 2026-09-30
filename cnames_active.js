@@ -2497,6 +2497,7 @@ var cnames_active = {
   "pereira": "pereirajs.github.io/pagina",
   "periplum": "periplum.github.io/periplum.js.org",
   "permissions": "danielnewell.github.io/permissions",
+  "parousia": "https://parousia-project.github.io/website/",
   "persian-tools": "persian-tools.github.io/persian-tools",
   "personalkanban": "nishantpainter.github.io/personal-kanban",
   "perspective": "leopoldthecoder.github.io/Perspective",
