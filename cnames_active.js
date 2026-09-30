@@ -268,6 +268,7 @@ var cnames_active = {
   "atenas": "atenasjs.netlify.app",
   "athena": "athena-js.github.io/athena",
   "athome": "simon300000.github.io/athome",
+  "athyx-network": "daniil-athyx.github.io/Athyx-Network",
   "atom": "atom-js-org.github.io/website",
   "atombundles": "lirantal.github.io/atombundles",
   "atomicreact": "atomicreact.github.io/AtomicReact",
