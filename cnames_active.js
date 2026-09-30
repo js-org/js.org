@@ -2460,8 +2460,8 @@ var cnames_active = {
   "parametric-svg": "parametric-svg.github.io", // noCF? (don´t add this in a new PR)
   "parkrun": "prouser123.github.io/parkrun.js",
   "parley": "tomas-wrobel.github.io/parley",
-  "parrot": "pengudevelopment.github.io/parrot.js",
   "parousia": "parousia-project.github.io/website",
+  "parrot": "pengudevelopment.github.io/parrot.js",
   "parse5": "inikulin.github.io/parse5",
   "particles": "tsparticles.github.io/website",
   "party": "yiliansource.github.io/party-js",
