@@ -3336,6 +3336,7 @@ var cnames_active = {
   "tailwindtocss": "tailwindtocss.netlify.app",
   "taka": "cname.vercel-dns.com", // noCF
   "takeout": "takeout-bysourfruit.github.io",
+  "talhadev": "talha50819.github.io/Talha",
   "talk": "zonayedpca.github.io/talk.js",
   "talker": "secondstreet.github.io/talker.js", // noCF? (don´t add this in a new PR)
   "tama": "etk.gitlab.io",
