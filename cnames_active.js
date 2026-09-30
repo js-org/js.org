@@ -1799,6 +1799,7 @@ var cnames_active = {
   "lass": "lassjs.github.io/lass",
   "latex": "michael-brade.github.io/LaTeX.js",
   "latte": "tehsenaus.github.io/latte-js",
+  "lattice": "knsravan.github.io/lattice",
   "laubstein": "laubstein.github.io", // noCF? (don´t add this in a new PR)
   "laue": "qingwei-li.github.io/laue",
   "lavaclient": "lavaclient.github.io",
