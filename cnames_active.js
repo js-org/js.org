@@ -815,6 +815,7 @@ var cnames_active = {
   "developerfolio": "saadpasta.github.io/developerFolio",
   "devfolio": "anilseervi.github.io/DevFolio",
   "device": "vpodk.github.io/device",
+  "devilsdoor": "khalidabdullahh.github.io/DevilsDoor",
   "devlunch": "superzackx.github.io/DevLunch",
   "devsession": "lukasbach.github.io/devsession",
   "dgelong": "alexeyraspopov.github.io/dgelong", // noCF? (don´t add this in a new PR)
