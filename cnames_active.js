@@ -3652,7 +3652,18 @@ var cnames_active = {
   "villain": "btzr-io.github.io/Villain",
   "vinimdocarmo": "vinimdocarmo.github.io", // noCF? (don´t add this in a new PR)
   "vino": "uikoo9.github.io/vino.js",
+  "vinton": "vinton.github.io/website",io",
+  "viav": "brandondyer64.github.io/viav",
+  "vicis": "r37r0m0d3l.github.io/vicis",
+  "vico": "bohdantkachenko.github.io/vico", // noCF? (don´t add this in a new PR)
+  "vidclip": "cname.vercel-dns.com", // noCF
+  "video-react": "video-react.github.io",
+  "vigour": "mokunshao.github.io/vigour",
+  "villain": "btzr-io.github.io/Villain",
+  "vinimdocarmo": "vinimdocarmo.github.io", // noCF? (don´t add this in a new PR)
+  "vino": "uikoo9.github.io/vino.js",
   "vinton": "vinton.github.io/website",
+  "vinilsai": "vinilsai.github.io"
   "viperhtml": "viperhtml.github.io",
   "virtual-clock": "dvdgiessen.github.io/virtual-clock",
   "virtual-keyboard": "virtual-keyboard-javascript.github.io",
