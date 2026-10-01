@@ -3854,6 +3854,7 @@ var cnames_active = {
   "ymlair": "ymlair.github.io/TimestampHumanDemo",
   "yolog": "jitesoft.github.io/yolog",
   "youtim": "mortonfox.github.io/YouTim", // noCF? (don´t add this in a new PR)
+  "youtube": "extract-youtube-docs.vtempest.workers.dev",
   "youtube-box": "lucasmonteverde.github.io/youtube-box", // noCF? (don´t add this in a new PR)
   "youtube-ext": "zyrouge.github.io/youtube-ext",
   "youtube-lite": "9oelm.github.io/youtube-lite",
