@@ -3653,6 +3653,7 @@ var cnames_active = {
   "vinimdocarmo": "vinimdocarmo.github.io", // noCF? (don´t add this in a new PR)
   "vino": "uikoo9.github.io/vino.js",
   "vinton": "vinton.github.io/website",
+  "vinilsai": "vinils-ai.github.io/vinisai",
   "viperhtml": "viperhtml.github.io",
   "virtual-clock": "dvdgiessen.github.io/virtual-clock",
   "virtual-keyboard": "virtual-keyboard-javascript.github.io",
