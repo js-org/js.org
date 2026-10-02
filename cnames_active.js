@@ -1367,6 +1367,7 @@ var cnames_active = {
   "groupme": "groupme-js.github.io/website",
   "growfield": "fivefifteen.github.io/growfield",
   "grpcity": "cname.vercel-dns.com", // noCF
+  "grpgosra": "abdou0550203003-sudo.github.io",
   "grtblog": "grtsinry43.github.io/grtblog",
   "grub": "grubburg.github.io/blog",
   "grumpy": "aidenybai.github.io/grumpy",
