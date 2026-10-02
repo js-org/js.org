@@ -3766,6 +3766,7 @@ var cnames_active = {
   "welcome": "edapm.github.io/welcomejs",
   "welson": "gnh1201.github.io/welsonjs",
   "wepl": "obnoxiousnerd.github.io/wepl-website",
+  "wetternavi": "prisseugen1-art.github.io",
   "wfplayer": "zhw2590582.github.io/WFPlayer",
   "wglt": "codyebberson.github.io/wglt",
   "whadido": "jokester.github.io/whadido",
