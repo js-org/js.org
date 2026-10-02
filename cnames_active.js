@@ -3360,6 +3360,7 @@ var cnames_active = {
   "tead": "teadjs.github.io",
   "teamspeak": "teamspeakjs.github.io/teamspeak.js.org",
   "tech-human-id": "abhisekp.github.io/tech-human-id",
+  "techfixsolution": "khansrk721-commits.github.io/techfixsolution",
   "techthinker": "tech-thinker.github.io",
   "techxuexi": "techxuexi.netlify.app",
   "techy": "hosting.gitbook.com",
