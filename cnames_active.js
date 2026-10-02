@@ -1352,6 +1352,7 @@ var cnames_active = {
   "grambulate": "kapios010.github.io/grambulate.js",
   "gramps": "gramps-graphql.github.io/gramps",
   "graph": "cname.vercel-dns.com", // noCF
+  "graphen": "pavanad.github.io/graphen",
   "graphene": "graphene-react.netlify.app",
   "graphgame": "uellenberg.github.io/Graphgame",
   "graphics2d": "keyten.github.io/Graphics2D", // noCF? (don´t add this in a new PR)
