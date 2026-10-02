@@ -146,17 +146,15 @@ var cnames_active = {
   "akar": "mahabubx7.github.io/akar",
   "akase": "cedmax.github.io/akase", // noCF? (don´t add this in a new PR)
   "akash": "hish.github.io/akashjs",
-  "akhyar": "akhyar.pages.dev",
-  "aksara": "sajenid.github.io/aksara.js",
-  "aksharamukha": "paramsiddharth.github.io/aksharamukha.js",
-  "akshit.ahuja": "ahuja101992.github.io/akshit.ahuja", // noCF
-  "akte": "akte.netlify.app",
+  "inves": "indoinves.github.io/inves.js",
   "alasql": "alasql.github.io", // noCF? (don´t add this in a new PR)
   "alastor": "aidenybai.github.io/alastor",
   "ale": "alecefe.github.io",
+  "indoinves": "indoinves.github.io",
   "alertbox": "simple-alertbox.github.io/alertbox",
   "alertism": "assassinaguilar.github.io/Alertism",
   "alex": "alecs297.github.io",
+  "inves": "indoinves.github.io",
   "alexanderalvarez": "alexanderalvarez9.github.io",
   "alfred": "amilajack.github.io/alfred",
   "algebra": "nicolewhite.github.io/algebra.js", // noCF? (don´t add this in a new PR)
