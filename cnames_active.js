@@ -1,4 +1,4 @@
-Bh68/*
+/*
  ***** ACTIVE SUBDOMAINS
  * ***********************
  *
@@ -1121,6 +1121,7 @@ var cnames_active = {
   "extension-sprint": "extension-sprint.github.io/home",
   "extenso": "theuves.github.io/extenso.js.org",
   "extraction": "rse.github.io/extraction", // noCF? (don´t add this in a new PR)
+  "extractyoutube": "extract-youtube-docs.vtempest.workers.dev",
   "exvex": "cname.vercel-dns.com", // noCF
   "eye": "arguiot.github.io/EyeJS",
   "ezoradom": "4614s.github.io/ezoradom-the-functions",
@@ -3854,7 +3855,6 @@ var cnames_active = {
   "ymlair": "ymlair.github.io/TimestampHumanDemo",
   "yolog": "jitesoft.github.io/yolog",
   "youtim": "mortonfox.github.io/YouTim", // noCF? (don´t add this in a new PR)
-  "youtubex": "extract-youtube-docs.vtempest.workers.dev",
   "youtube-box": "lucasmonteverde.github.io/youtube-box", // noCF? (don´t add this in a new PR)
   "youtube-ext": "zyrouge.github.io/youtube-ext",
   "youtube-lite": "9oelm.github.io/youtube-lite",
