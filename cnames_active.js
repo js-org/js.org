@@ -20,7 +20,7 @@
  *              Just add '// noCF' in the line of your requested subdomain to give us a hint.
  *              (all the lines marked with '// noCF?' are from a time when a requester had to explicitly opt-in;
  *              see: https://github.com/js-org/js.org/issues/554)
- *
+ *  
  * IMPORTANT:   To authorize yourself as the owner of the GitHub Page you must have added a valid CNAME file
  *              (with the requested domain, e.g.: "foo.js.org") to your repository.
  *              The requested subdomain must match either your GitHub username or the name of your project
