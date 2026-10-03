@@ -3650,7 +3650,7 @@ var cnames_active = {
   "video-react": "video-react.github.io",
   "vigour": "mokunshao.github.io/vigour",
   "villain": "btzr-io.github.io/Villain",
-  "vinilsstore": "vinilsofficial.github.io",
+  "vinilsstore": "vinilsofficial.github.io/vinilsstore",
   "vinimdocarmo": "vinimdocarmo.github.io", // noCF? (don´t add this in a new PR)
   "vino": "uikoo9.github.io/vino.js",
   "vinton": "vinton.github.io/website",
