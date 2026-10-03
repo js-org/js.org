@@ -2400,6 +2400,7 @@ var cnames_active = {
   "open-next": "serverless-stack.github.io/open-next",
   "openauth": "openauthjs.github.io/openauth",
   "opencc": "opencc-wasm.pages.dev",
+  "opengrasp": "markosankovic.github.io/opengrasp",
   "openkey": "microlinkhq.github.io/openkey",
   "opennext": "opennextjs.github.io/docs",
   "openrecord": "philwaldmann.github.io/openrecord",
