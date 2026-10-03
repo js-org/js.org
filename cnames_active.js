@@ -778,6 +778,7 @@ var cnames_active = {
   "dbots": "dbots-pkg.github.io/dbots-website",
   "dbotsgg": "valredstone.github.io/dbots.gg",
   "ddnet": "sans3108.github.io/DDNet",
+  "ddx":"stradieee.github.io/ddx",
   "decant": "covai-labs.github.io/decant",
   "decimalsystem": "uellenberg.github.io/DecimalSystem",
   "deck-of-cards": "pakastin.github.io/deck-of-cards",
@@ -1127,6 +1128,7 @@ var cnames_active = {
   "ezoradom": "4614s.github.io/ezoradom-the-functions",
   "f1": "marinofranz.github.io/f1.ts",
   "faah": "cname.vercel-dns.com", // noCF
+  "faceany.app" : "stradieee.github.io/face_analyser",
   "facepalm": "santiagogil.github.io/facepalm",
   "facreative": "facreative.github.io",
   "fairy": "fairymeee.github.io",
