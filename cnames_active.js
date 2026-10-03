@@ -2966,6 +2966,7 @@ var cnames_active = {
   "scopes": "kelleyvanevert.github.io/scopes",
   "scramb": "jastinxyz.github.io/scramb",
   "scramble": "ignatiusmb.github.io/scramble",
+  "scrape-pro": "alejandrocimentada.github.io/Scrape-Pro",
   "scratch": "scratch-js.github.io",
   "screentocodesandbox": "ckgrafico.github.io/ScreenshotToCodeSandbox",
   "scribble": "arkaneelroy.github.io/ScribbleJS",
