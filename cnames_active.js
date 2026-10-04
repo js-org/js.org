@@ -770,6 +770,7 @@ var cnames_active = {
   "day": "dayjs.github.io/website",
   "daybreak": "mokunshao.github.io/daybreak",
   "daysfromnow": "pedrokost.github.io/daysfromnow", // noCF? (don´t add this in a new PR)
+  "dayssincelastframework": "cname.vercel-dns.com", // noCF
   "dbar": "dbarjs.github.io",
   "dbash": "oocydo.github.io/dbash",
   "dbd": "dbdjs.github.io/website",
