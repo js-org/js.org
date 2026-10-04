@@ -71,3 +71,16 @@ As above with adding a subdomain to a GitHub Pages site, the final step is to ma
 ---
 
 Thanks to **[Cloudflare](https://www.cloudflare.com)** for their awesome DNS service that makes this service possible. While JS.ORG is using their free plan - to a shameless extent - they helped us more than once with some flexible solutions and extended quotas. Many thanks!
+
+---
+
+## Timeline
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/lll69/js-org-stats/refs/heads/stat/domains.svg" alt="Subdomain Timeline" width="47%">
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/lll69/js-org-stats/refs/heads/stat/prs.svg" alt="Pull Request Timeline" width="47%">
+</div>
+
+Third-party source & generator: [lll69/js-org-stats](https://github.com/lll69/js-org-stats)
+
