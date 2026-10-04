@@ -2632,8 +2632,7 @@ var cnames_active = {
   "pubg": "ickerio.github.io/pubg.js",
   "publish-subscribe": "r37r0m0d3l.github.io/publish_subscribe",
   "published": "fiverr.github.io/published",
-  "puebi": "puebi.netlify.app", // noCF
-  "pulaksaha": "pulaksaha143.github.io",
+  "puebi": "puebi.netlify.app", // noC
   "pulse": "pulsejs.netlify.app",
   "pulsy": "ngdream.github.io/pulsyjs",
   "pulumi-pretty": "maddijoyce.github.io/pulumi-pretty",
