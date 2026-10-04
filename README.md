@@ -76,16 +76,11 @@ Thanks to **[Cloudflare](https://www.cloudflare.com)** for their awesome DNS ser
 
 ## Timeline
 
-<table>
-  <tr>
-    <td width="50%">
-      <img src="https://raw.githubusercontent.com/lll69/js-org-stats/refs/heads/stat/domains.svg" alt="Subdomain Timeline" width="100%">
-    </td>
-    <td width="50%">
-      <img src="https://raw.githubusercontent.com/lll69/js-org-stats/refs/heads/stat/prs.svg" alt="Pull Request Timeline" width="100%">
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/lll69/js-org-stats/refs/heads/stat/domains.svg" alt="Subdomain Timeline" width="47%">
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/lll69/js-org-stats/refs/heads/stat/prs.svg" alt="Pull Request Timeline" width="47%">
+</div>
 
 Third-party source & generator: [lll69/js-org-stats](https://github.com/lll69/js-org-stats)
 
