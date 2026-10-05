@@ -2548,6 +2548,7 @@ var cnames_active = {
   "plasticchairclub": "username260104.github.io",
   "platz": "fylipp.github.io/platz.js",
   "play.akash": "hish.github.io/akashjs-playground", // noCF
+  "play-music": "ytm-dlapi-one.vercel.app",
   "player": "player.netlify.app",
   "playjs": "hunghg255.github.io/playjs",
   "pliers": "pliersjs.github.io", // noCF? (don´t add this in a new PR)
