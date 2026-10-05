@@ -3669,7 +3669,7 @@ var cnames_active = {
   "viteshell": "henryhale.github.io/viteshell",
   "vitestory": "melishev.github.io/vitestory",
   "vitiate": "mjkoo.github.io/vitiate",
-  "vik": "VikDevarStudio.github.io/Portfolio", //VIKESH
+  "vik": "VikDevarStudio.github.io/Portfolio",
   "vk-x": "vk-x.github.io",
   "vlite": "vlitejs.github.io",
   "vlr": "vlrjs.github.io/website",
