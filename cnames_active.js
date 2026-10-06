@@ -1341,6 +1341,7 @@ var cnames_active = {
   "goober": "cristianbote.github.io/goober",
   "good": "amirhossein693.github.io/good",
   "goodshare": "koddr.github.io/goodshare.js",
+  "goexploretoday": "goexploretoday.github.io",
   "gosling": "gosling-lang.github.io/gosling.js",
   "gost-cli": "minecraftpublisher.github.io/gost-cli",
   "gotanda": "gotandajs.github.io",
