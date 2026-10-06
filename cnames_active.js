@@ -3018,7 +3018,7 @@ var cnames_active = {
   "servify-express": "aarondoran.github.io/servify-express",
   "sesam": "lennertderyck.github.io/sesam",
   "setheum": "setheum-js.github.io",
-    "setsail": "waffiman.github.io/Admirality-NtM-Scraper",
+  "setsail": "waffiman.github.io/Admirality-NtM-Scraper",
   "sfml": "xadillax.github.io/node-sfml",
   "shadng": "alimjanablikim.github.io/sng-ui",
   "shandler": "hosting.gitbook.io", // noCF
