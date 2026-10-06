@@ -841,6 +841,7 @@ var cnames_active = {
   "dgs-docs": "shadowplay1.github.io/discord-giveaways-super",
   "dhimasanb": "dhimasanb.github.io",
   "dhruvdutt": "dhruvdutt.github.io",
+  "vega": "tofturkhishmilitaryarmy.github.io/vega-site",
   "diabolo": "cname.vercel-dns.com", // noCF
   "diamond": "diamondpkg.github.io/website",
   "dicey": "basicer.github.io/dicey",
