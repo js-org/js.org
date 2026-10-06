@@ -335,6 +335,7 @@ var cnames_active = {
   "base64": "licshee.github.io/base64",
   "baseline": "iam-medvedev.github.io/baseline-widget",
   "bash": "bashjs.github.io",
+  "basirulakhlak": "basirulakhlakborno.github.io",
   "bassdrum": "malte-wessel.github.io/bassdrum",
   "bathtiles": "laurenyoo.github.io/website-bathtiles.js", // noCF
   "battle-city": "shinima.github.io/battle-city",
