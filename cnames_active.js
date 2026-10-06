@@ -2595,7 +2595,7 @@ var cnames_active = {
   "precision": "jaiko86.github.io/precisionjs-home",
   "presence": "yomorun.github.io/presence.js.org",
   "presenter": "brianyu28.github.io/presenter-docs",
-  "preset": "awesome-starter.github.io/website",
+  "preset": "preset-cli.github.io/create-preset",
   "pretty-print-json": "center-key.github.io/pretty-print-json",
   "prettylog": "moosecoop.github.io/PrettyLog",
   "printx": "x-ext.netlify.app",
