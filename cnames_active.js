@@ -2925,6 +2925,7 @@ var cnames_active = {
   "sahilister": "sahilister.github.io/portfolio",
   "sai": "hackers4peace.github.io/sai-js",
   "saigon": "saigonjs.github.io",
+  "sniptok": "demox2025.github.io/my-shorts-app",
   "sailesh": "saileshkasaju.github.io/crud-react-redux-mongo",
   "sajid": "thesajidalam.github.io/sajid-js",
   "sajilo-alert": "cname.vercel-dns.com", // noCF
