@@ -2925,7 +2925,6 @@ var cnames_active = {
   "sahilister": "sahilister.github.io/portfolio",
   "sai": "hackers4peace.github.io/sai-js",
   "saigon": "saigonjs.github.io",
-  "sniptok": "demox2025.github.io/my-shorts-app",
   "sailesh": "saileshkasaju.github.io/crud-react-redux-mongo",
   "sajid": "thesajidalam.github.io/sajid-js",
   "sajilo-alert": "cname.vercel-dns.com", // noCF
@@ -3129,6 +3128,7 @@ var cnames_active = {
   "snowflake": "theinternetfolks.github.io/snowflake",
   "snowflake-api": "udit2303.github.io/snowflake-api-docs",
   "snowstorm": "explodingcamera.github.io/snowstorm",
+  "sniptok": "demox2025.github.io/my-shorts-app",
   "sociably": "machinat.github.io/sociably",
   "social-likes": "sapegin.github.io/social-likes", // noCF? (don´t add this in a new PR)
   "social-likes-next": "sapegin.github.io/social-likes-next", // noCF? (don´t add this in a new PR)
