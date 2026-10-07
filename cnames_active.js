@@ -833,6 +833,7 @@ var cnames_active = {
   "dime": "anut-py.github.io/dime",
   "dinesh": "dineshondev.github.io/dinesh", // noCF? (don´t add this in a new PR)
   "dinosaur": "path08.github.io/Dinosaur",
+  "dipfs": "tyzpkaw-cpu.github.io/dipfs",
   "dipole": "zheksoon.github.io/dipole",
   "dirham": "pooyagolchian.github.io/dirham",
   "discm": "cname.vercel-dns.com", // noCF
@@ -1281,7 +1282,7 @@ var cnames_active = {
   "genanki": "krmanik.github.io/genanki-js",
   "generate-license-file": "tobyandtoby.github.io/generate-license-file",
   "genius-lyrics": "zyrouge.github.io/genius-lyrics",
-  "genoacms": "genoacms.github.io/docs",
+  "genoacms": "genoacms.github.io/genoacms",
   "genpass": "bnnanet.github.io/genpass.js",
   "genpasswd": "exos.github.io/genpasswd", // noCF? (don´t add this in a new PR)
   "geolocation-promise": "js-pugilist.github.io/geolocation-promise",
@@ -2595,7 +2596,7 @@ var cnames_active = {
   "precision": "jaiko86.github.io/precisionjs-home",
   "presence": "yomorun.github.io/presence.js.org",
   "presenter": "brianyu28.github.io/presenter-docs",
-  "preset": "awesome-starter.github.io/website",
+  "preset": "preset-cli.github.io/create-preset",
   "pretty-print-json": "center-key.github.io/pretty-print-json",
   "prettylog": "moosecoop.github.io/PrettyLog",
   "printx": "x-ext.netlify.app",
@@ -2966,6 +2967,7 @@ var cnames_active = {
   "scopes": "kelleyvanevert.github.io/scopes",
   "scramb": "jastinxyz.github.io/scramb",
   "scramble": "ignatiusmb.github.io/scramble",
+  "scrape-pro": "alejandrocimentada.github.io/Scrape-Pro",
   "scratch": "scratch-js.github.io",
   "screentocodesandbox": "ckgrafico.github.io/ScreenshotToCodeSandbox",
   "scribble": "arkaneelroy.github.io/ScribbleJS",
@@ -3436,6 +3438,7 @@ var cnames_active = {
   "tnt": "tntjs-docs.netlify.app",
   "toad": "wnda.github.io/toad",
   "toast-queue": "andreruffert.github.io/toast-queue",
+  "toastcraft": "anantduhan.github.io/toastcraft",
   "tom": "cname.vercel-dns.com", // noCF
   "tom-select": "orchidjs.github.io/tom-select",
   "tooling": "slikts.github.io/tooling",
@@ -3631,7 +3634,6 @@ var cnames_active = {
   "vdcs": "hopae-official.github.io/Verifiable-Digital-Credentials",
   "ve-table": "xiguaxigua.github.io/ve-table",
   "vectorless": "vectorless-js.pages.dev",
-  "vega": "cname.vercel-dns.com", // noCF
   "velite": "zce.github.io/velite",
   "velt": "veltjs.github.io",
   "vendywira": "vendywira.github.io",
@@ -3759,7 +3761,7 @@ var cnames_active = {
   "webpack-stats": "v-webpack.netlify.app",
   "webpeer": "nuzulul.github.io/webpeerjs",
   "websheet": "pierreavn.github.io/websheetjs",
-  "webview": "cname.mintlify.builders",
+  "webview": "cname.vercel-dns.com", // noCF
   "wechatpay": "thenorthmemory.github.io/wechatpay.js.org",
   "wechaty": "wechaty-js-org.pages.dev",
   "wedgetail": "wedgetail.netlify.app",
@@ -3847,6 +3849,7 @@ var cnames_active = {
   "yan": "yvesyc.github.io/yan-js-org",
   "yana": "lukasbach.github.io/yana-homepage",
   "yargs": "yargs.github.io", // noCF? (don´t add this in a new PR)
+  "yatta": "cname.vercel-dns.com", // noCF
   "yay-machine": "maurice.github.io/yay-machine",
   "ydb": "ydb-platform.github.io/ydb-js-sdk",
   "yennj12": "yennanliu.github.io",
