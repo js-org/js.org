@@ -2531,6 +2531,7 @@ var cnames_active = {
   "pinf": "pinf.github.io", // noCF? (don´t add this in a new PR)
   "pinipig": "jmdisuanco.github.io/pinipig",
   "pino-nest": "yamcodes.github.io/pino-nestjs",
+  "pinstore": "burakdevv.github.io/PinStore",
   "pinyin": "hotoo.github.io/pinyin",
   "pipes": "pipesjs.github.io", // noCF? (don´t add this in a new PR)
   "pivot": "wnda.github.io/pivot",
