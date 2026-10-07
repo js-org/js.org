@@ -2596,7 +2596,7 @@ var cnames_active = {
   "precision": "jaiko86.github.io/precisionjs-home",
   "presence": "yomorun.github.io/presence.js.org",
   "presenter": "brianyu28.github.io/presenter-docs",
-  "preset": "awesome-starter.github.io/website",
+  "preset": "preset-cli.github.io/create-preset",
   "pretty-print-json": "center-key.github.io/pretty-print-json",
   "prettylog": "moosecoop.github.io/PrettyLog",
   "printx": "x-ext.netlify.app",
@@ -3438,6 +3438,7 @@ var cnames_active = {
   "tnt": "tntjs-docs.netlify.app",
   "toad": "wnda.github.io/toad",
   "toast-queue": "andreruffert.github.io/toast-queue",
+  "toastcraft": "anantduhan.github.io/toastcraft",
   "tom": "cname.vercel-dns.com", // noCF
   "tom-select": "orchidjs.github.io/tom-select",
   "tooling": "slikts.github.io/tooling",
