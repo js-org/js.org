@@ -498,6 +498,7 @@ var cnames_active = {
   "capsid": "capsidjs.github.io/capsid",
   "capsule": "capsule-js-org.github.io/capsule",
   "captcha-canvas": "shashank3736.github.io/captcha-canvas",
+  "capture-pro": "alejandrocimentada.github.io/Capture-Pro",
   "car": "pakastin.github.io/car",
   "carakan": "masnormen.github.io/carakanjs",
   "cards": "ttam.github.io/cards",
