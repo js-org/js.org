@@ -3723,6 +3723,7 @@ var cnames_active = {
   "w4ctech": "w4ctech.github.io",
   "w4j1e": "w4j1e.github.io",
   "wahtson": "wahtson.github.io",
+  'worvex': 'shyranova.github.io/worvex',
   "waline": "walinejs.github.io",
   "wallace": "wallace-js.github.io",
   "wangdabao-doc": "wangdabaoqq.github.io/documents",
