@@ -1336,6 +1336,7 @@ var cnames_active = {
   "go": "northwoodssoftware.github.io/go.js.org",
   "god": "godow.github.io",
   "godown": "cname.vercel-dns.com", // noCF
+  "goexploretoday": "goexploretoday.github.io",
   "goji": "airbnb.github.io/goji-js",
   "gol": "goljs.github.io/GoL",
   "gondel": "namics.github.io/gondel",
