@@ -1332,6 +1332,7 @@ var cnames_active = {
   "glyph": "zyrouge.github.io/glyph.css",
   "gmxcss": "cname.vercel-dns.com", // noCF
   "gnatale": "giosooul.github.io/gnatale.github.io",
+  "goexploretoday": "goexploretoday.github.io",
   "go": "northwoodssoftware.github.io/go.js.org",
   "god": "godow.github.io",
   "godown": "cname.vercel-dns.com", // noCF
