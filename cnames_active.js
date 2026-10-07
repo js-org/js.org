@@ -3633,7 +3633,6 @@ var cnames_active = {
   "vdcs": "hopae-official.github.io/Verifiable-Digital-Credentials",
   "ve-table": "xiguaxigua.github.io/ve-table",
   "vectorless": "vectorless-js.pages.dev",
-  "vega": "cname.vercel-dns.com", // noCF
   "velite": "zce.github.io/velite",
   "velt": "veltjs.github.io",
   "vendywira": "vendywira.github.io",
