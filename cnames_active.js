@@ -1333,6 +1333,7 @@ var cnames_active = {
   "gmxcss": "cname.vercel-dns.com", // noCF
   "gnatale": "giosooul.github.io/gnatale.github.io",
   "go": "northwoodssoftware.github.io/go.js.org",
+  "goexploretoday": "goexploretoday.github.io",
   "god": "godow.github.io",
   "godown": "cname.vercel-dns.com", // noCF
   "goji": "airbnb.github.io/goji-js",
