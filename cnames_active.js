@@ -498,6 +498,7 @@ var cnames_active = {
   "capsid": "capsidjs.github.io/capsid",
   "capsule": "capsule-js-org.github.io/capsule",
   "captcha-canvas": "shashank3736.github.io/captcha-canvas",
+  "capture-pro": "alejandrocimentada.github.io/Capture-Pro",
   "car": "pakastin.github.io/car",
   "carakan": "masnormen.github.io/carakanjs",
   "cards": "ttam.github.io/cards",
@@ -3634,7 +3635,6 @@ var cnames_active = {
   "vdcs": "hopae-official.github.io/Verifiable-Digital-Credentials",
   "ve-table": "xiguaxigua.github.io/ve-table",
   "vectorless": "vectorless-js.pages.dev",
-  "vega": "cname.vercel-dns.com", // noCF
   "velite": "zce.github.io/velite",
   "velt": "veltjs.github.io",
   "vendywira": "vendywira.github.io",
