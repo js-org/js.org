@@ -1567,6 +1567,7 @@ var cnames_active = {
   "integro": "jpsilva.github.io/integro",
   "intelligo": "intelligo.netlify.app",
   "inter": "interjs.github.io",
+  "internetradio": "cname.vercel-dns.com", // noCF
   "internetmarke": "schaechinger.github.io/internetmarke",
   "interview": "fengzilong.github.io/interview-101",
   "invent": "isaiahpatton.github.io/InventJS",
