@@ -1141,6 +1141,7 @@ var cnames_active = {
   "fantas": "fantastiser.github.io",
   "farfetch": "websitebeaver.github.io/far-fetch",
   "farfetchd": "achannarasappa.github.io/farfetchd", // noCF? (don´t add this in a new PR)
+  "farsiui": "cname.vercel-dns.com", // noCF
   "farzad": "wikiweb.github.io/farzad",
   "fast-ease": "caracal7.github.io/fast-ease",
   "fasteer": "fasteerjs.github.io",
