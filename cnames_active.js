@@ -2857,6 +2857,7 @@ var cnames_active = {
   "reviewbuku": "mzaini30.github.io/reviewbuku",
   "revise": "bikeshaving.github.io/revise",
   "revolt": "revoltchat.github.io/revolt.js",
+  "rewake": "codizelabs.github.io/agent-rewake",
   "rexs": "uellenberg.github.io/REXS",
   "reyes": "michaelbreyes.github.io/reyes",
   "rgbstrip": "xrealneon.github.io/RGBStrip",
