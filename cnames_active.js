@@ -1455,6 +1455,7 @@ var cnames_active = {
   "hilo": "erikroyall.github.io/hilo", // noCF? (don´t add this in a new PR)
   "hilo3d": "hiloteam.github.io/Hilo3d",
   "hindenburg": "skeldjs.github.io/Hindenburg",
+  "hintbeam": "cypherrathq.github.io/hintbeam",
   "hippy": "zoomchan-cxj.github.io/Hippy",
   "hiren": "hiren2001.github.io/hiren.js.org",
   "hiteshsubnani": "hiteshsubnani0128.github.io/hiteshsubnani",
