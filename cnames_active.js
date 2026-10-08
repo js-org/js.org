@@ -1144,6 +1144,7 @@ var cnames_active = {
   "farzad": "wikiweb.github.io/farzad",
   "fast-ease": "caracal7.github.io/fast-ease",
   "fasteer": "fasteerjs.github.io",
+  "farsiui": "cname.vercel-dns.com", // noCF
   "faux": "fauxos.github.io",
   "favicon": "kaerez.github.io/favicon",
   "favium": "cname.vercel-dns.com", // noCF
