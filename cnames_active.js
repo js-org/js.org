@@ -1414,6 +1414,7 @@ var cnames_active = {
   "haloapi": "derflatulator.github.io/haloapi.js", // noCF? (don´t add this in a new PR)
   "hamburger-menu": "center-key.github.io/hamburger-menu",
   "hamed": "phpniki.github.io/hamed",
+  "hammad": "hammad-naeem1.github.io/fieldnotes",
   "han": "han-js.hanlu.im", // noCF
   "hana": "romantic-kare-c84899.netlify.app",
   "hanan": "hanandito.github.io/teddypicker",
