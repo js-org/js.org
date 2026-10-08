@@ -1056,7 +1056,7 @@ var cnames_active = {
   "encrypt-rsa": "miladezzat.github.io/encrypt-rsa",
   "endersquid": "endersquidjs.github.io",
   "endpoint-imposter": "lukaszmakuch.github.io/endpoint-imposter",
-  "endpoints": "endpoints-demo.vercel.app",
+  "endpoints": "endpoints-demo.vercel.app", // noCF
   "energy": "energychain.github.io/energy",
   "englishell": "tzador.github.io/englishell",
   "enn": "loganpaxton.github.io/enn",
@@ -1651,7 +1651,6 @@ var cnames_active = {
   "jonny": "shirajuki.github.io/jonny",
   "jonnynl": "shirajuki.github.io/jonnynl",
   "jonstonchan": "jonstonchan.gitlab.io", // noCF
-  "joodi": "joodi.vercel.app",
   "jose-qs": "jose-qs.github.io/Portafolio",
   "josecarloszamoragomezcv": "josecarloszamoragomez.github.io/CV",
   "josecarloszamoragomezportfolio": "josecarloszamoragomez.github.io/Portfolio",
@@ -2136,7 +2135,7 @@ var cnames_active = {
   "mock-extended": "tobysmith568.github.io/mock-extended",
   "mock-middleware": "luobotang.github.io/mock-middleware",
   "mock-to-openapi": "ozzyczech.github.io/mock-to-openapi",
-  "mockdata": "mockdata-demo.vercel.app",
+  "mockdata": "mockdata-demo.vercel.app", // noCF
   "mockjs-lite": "52cik.github.io/mockjs-lite", // noCF
   "mockyeah": "mockyeah.netlify.app",
   "modbot": "modbotjs.github.io",
