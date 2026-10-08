@@ -1056,7 +1056,7 @@ var cnames_active = {
   "encrypt-rsa": "miladezzat.github.io/encrypt-rsa",
   "endersquid": "endersquidjs.github.io",
   "endpoint-imposter": "lukaszmakuch.github.io/endpoint-imposter",
-  "endpoints": "endpoints-demo.vercel.app", // noCF
+  "endpoints": "cname.vercel-dns.com", // noCF
   "energy": "energychain.github.io/energy",
   "englishell": "tzador.github.io/englishell",
   "enn": "loganpaxton.github.io/enn",
@@ -2135,7 +2135,7 @@ var cnames_active = {
   "mock-extended": "tobysmith568.github.io/mock-extended",
   "mock-middleware": "luobotang.github.io/mock-middleware",
   "mock-to-openapi": "ozzyczech.github.io/mock-to-openapi",
-  "mockdata": "mockdata-demo.vercel.app", // noCF
+  "mockdata": "cname.vercel-dns.com", // noCF
   "mockjs-lite": "52cik.github.io/mockjs-lite", // noCF
   "mockyeah": "mockyeah.netlify.app",
   "modbot": "modbotjs.github.io",
