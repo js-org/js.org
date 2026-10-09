@@ -1422,7 +1422,7 @@ var cnames_active = {
   "hapin": "ha-pin.github.io",
   "happy": "e24.github.io/happy", // noCF? (don´t add this in a new PR)
   "harry": "harry-yep.github.io",
-  "harshpr": "cname.vercel-dns.com",
+  "harshpr": "cname.vercel-dns.com", // noCF
   "hashchat": "hashchat-js.netlify.app",
   "hashfs": "defucc.github.io/hashfs",
   "hashjump": "fivefifteen.github.io/hashjump",
