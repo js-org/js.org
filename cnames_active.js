@@ -273,6 +273,7 @@ var cnames_active = {
   "atomicreact": "atomicreact.github.io/AtomicReact",
   "atos": "cname.vercel-dns.com", // noCF
   "atx": "aktarytech.github.io/atx",
+  "audio": "audiojs.github.io/audio",
   "audio-transcriber": "shriansh2002.github.io/gemini-audio-transcriber-site",
   "aui": "alauda.github.io/alauda-ui",
   "aunt": "79e.github.io/aunt",
@@ -3453,6 +3454,7 @@ var cnames_active = {
   "tori": "boostcode.github.io/torijs",
   "torlondev": "torlondev.github.io",
   "torpedo": "divysrivastava.github.io/torpedo.js",
+  "tra": "openinsightdev.github.io/trajs",
   "trace": "andreasmadsen.github.io/trace",
   "trackymouse": "1j01.github.io/tracky-mouse",
   "trakas": "trakas.github.io",
