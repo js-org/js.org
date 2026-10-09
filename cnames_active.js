@@ -2030,6 +2030,7 @@ var cnames_active = {
   "md5": "cname-china.vercel-dns.com", // noCF
   "mdbf-css": "more-beautiful-div-framework.github.io",
   "mdcdev": "galleniz.github.io/mdcdev.js",
+  "mdify": "api.vexellab.com", // noCF
   "mdjs": "xtnmoe.github.io/MdJs",
   "mdld": "davay42.github.io/mdld-parse",
   "mdsvr": "satoshiman.github.io/mdsvr",
