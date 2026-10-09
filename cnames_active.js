@@ -1673,6 +1673,7 @@ var cnames_active = {
   "json-format": "cname.vercel-dns.com", // noCF
   "json-formatter": "arnav-kr.github.io/json-formatter",
   "json-schema-faker": "json-schema-faker.github.io/website-jsf",
+  "json2": "cname.vercel-dns.com",
   "json-to-plain-text": "sumithemmadi.github.io/json-to-plain-text",
   "json2ts": "sagar-json2ts.netlify.app",
   "jsonapi": "ethanresnick.github.io/json-api",
