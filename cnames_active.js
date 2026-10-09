@@ -3453,6 +3453,7 @@ var cnames_active = {
   "tori": "boostcode.github.io/torijs",
   "torlondev": "torlondev.github.io",
   "torpedo": "divysrivastava.github.io/torpedo.js",
+  "tra": "openinsightdev.github.io/trajs",
   "trace": "andreasmadsen.github.io/trace",
   "trackymouse": "1j01.github.io/tracky-mouse",
   "trakas": "trakas.github.io",
