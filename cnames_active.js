@@ -273,6 +273,7 @@ var cnames_active = {
   "atomicreact": "atomicreact.github.io/AtomicReact",
   "atos": "cname.vercel-dns.com", // noCF
   "atx": "aktarytech.github.io/atx",
+  "audio": "audiojs.github.io/audio",
   "audio-transcriber": "shriansh2002.github.io/gemini-audio-transcriber-site",
   "aui": "alauda.github.io/alauda-ui",
   "aunt": "79e.github.io/aunt",
@@ -1456,6 +1457,7 @@ var cnames_active = {
   "hilo": "erikroyall.github.io/hilo", // noCF? (don´t add this in a new PR)
   "hilo3d": "hiloteam.github.io/Hilo3d",
   "hindenburg": "skeldjs.github.io/Hindenburg",
+  "hintbeam": "cypherrathq.github.io/hintbeam",
   "hippy": "zoomchan-cxj.github.io/Hippy",
   "hiren": "hiren2001.github.io/hiren.js.org",
   "hiteshsubnani": "hiteshsubnani0128.github.io/hiteshsubnani",
@@ -3453,6 +3455,7 @@ var cnames_active = {
   "tori": "boostcode.github.io/torijs",
   "torlondev": "torlondev.github.io",
   "torpedo": "divysrivastava.github.io/torpedo.js",
+  "tra": "openinsightdev.github.io/trajs",
   "trace": "andreasmadsen.github.io/trace",
   "trackymouse": "1j01.github.io/tracky-mouse",
   "trakas": "trakas.github.io",
