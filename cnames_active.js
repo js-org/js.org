@@ -303,7 +303,7 @@ var cnames_active = {
   "axios-cache-interceptor": "arthurfiorette.github.io/axios-cache-interceptor",
   "axios-cache-lite": "nom-nom-hub.github.io/axios-cache-lite",
   "axon": "caracal7.github.io/axon.js",
-  "azii": "702bfa54428ea58d.vercel-dns-017.com",
+  "azii": "aziicloud.vercel.app",
   "aziz": "iaziz786.netlify.app",
   "azlyrics-ext": "zyrouge.github.io/azlyrics-ext",
   "azura": "hosting.discloud.app", // noCF
