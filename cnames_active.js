@@ -102,7 +102,6 @@ var cnames_active = {
   "adaptui": "cname.vercel-dns.com", // noCF
   "aderemi": "aderemi.github.io",
   "adil": "adilzeshan.github.io/adil",
-  "azii": "cname.vercel-dns.com", // noCF
   "aditya": "aditya81070.github.io",
   "adjskit": "devs-des1re.github.io/adjskit",
   "adnanbabakan": "adnanbabakan.github.io",
@@ -303,8 +302,8 @@ var cnames_active = {
   "axios-cache-interceptor": "arthurfiorette.github.io/axios-cache-interceptor",
   "axios-cache-lite": "nom-nom-hub.github.io/axios-cache-lite",
   "axon": "caracal7.github.io/axon.js",
+  "azii": "702bfa54428ea58d.vercel-dns-017.com",
   "aziz": "iaziz786.netlify.app",
-  "azii": "cname.vercel-dns.com", // noCF
   "azlyrics-ext": "zyrouge.github.io/azlyrics-ext",
   "azura": "hosting.discloud.app", // noCF
   "azurajs-scalar": "d3veduardo.github.io/azurajs-scalar",
