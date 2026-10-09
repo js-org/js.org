@@ -3217,7 +3217,7 @@ var cnames_active = {
   "stacks": "cname.vercel-dns.com", // noCF
   "stahlstadt": "dist1.storyblok.com",
   "stampit": "hosting.gitbook.com", // noCF
-  "stamps": "ronald-baars.github.io/stamps",
+  "stamps": "cname.vercel-dns.com", // noCF
   "stampy": "stampylongr.github.io",
   "standard-resource": "hosting.gitbook.com", // noCF
   "standard-tool": "finom.github.io/standard-tool",
