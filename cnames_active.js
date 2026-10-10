@@ -3498,7 +3498,7 @@ var cnames_active = {
   "tu-scraper": "cname.vercel-dns.com", // noCF
   "tui-nuxt": "hosting.gitbook.com", // noCF
   "tulsa": "thatguysam.github.io/tulsa.js",
-  "tunel": "cname.vercel-dns.com",
+  "tunel": "cname.vercel-dns.com", // noCF
   "turbine": "tschoffelen.github.io/turbine",
   "turbo": "turbo.github.io",
   "turboforge": "turboforge-dev.github.io/turboforge",
