@@ -86,7 +86,7 @@ var cnames_active = {
   "ac": "alauda.github.io/alauda-chart",
   "accent": "sripkunda.github.io/accent",
   "accessibility": "guilhermedelemos.github.io/accessibility",
-  "accordion": "awps.github.io/Accordion.JS",
+  "accindia": "accindia.github.io/acc","accordion": "awps.github.io/Accordion.JS",
   "acebooks": "mohamed0group.github.io/acebooks",
   "acegroup": "mohamed0group.github.io/acegroup",
   "acho": "achojs.github.io/acho",
