@@ -732,6 +732,7 @@ var cnames_active = {
   "cyberflame": "cyberflameu.github.io",
   "cybernaut": "clebert.github.io/cybernaut",
   "cycle": "cyclejs.github.io",
+  "cyclic-next": "abhisekp.github.io/cyclic-next",
   "cyclow": "pmros.github.io/cyclow", // noCF
   "cyliim": "cyliim.github.io",
   "cypresscameroon": "cypress-cameroon.github.io",
