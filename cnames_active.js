@@ -2943,6 +2943,7 @@ var cnames_active = {
   "samplyr": "arze1.github.io/samplyr-site",
   "sampoder": "sampoder.github.io",
   "san": "baidu.github.io/san",
+  "sanidev": "sani48-code.github.io/SaniForge",
   "sanctuary": "sanctuary-js.github.io/sanctuary-site",
   "sanddance": "danmarshall.github.io/SandDance",
   "sandeepkhandewale": "learner1024.github.io",
