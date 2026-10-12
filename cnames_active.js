@@ -3272,6 +3272,7 @@ var cnames_active = {
   "strygwyr": "sinkaroid.github.io/strygwyr",
   "stuck": "linuxenko.github.io/unstuck-webpack",
   "studios": "botstudios.github.io/Studios",
+  "study": "studyportal-78tv.onrender.com",
   "style": "dhilipsiva.github.io/style.js", // noCF? (don´t add this in a new PR)
   "styled-css-grid": "styled-css-grid.netlify.app",
   "stylis": "thysultan.github.io/stylis.js",
