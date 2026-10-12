@@ -2703,6 +2703,7 @@ var cnames_active = {
   "rax0-6": "raxjs.github.io/website-rax-v0.6",
   "raylen": "ausername-1.github.io/raylen.js",
   "rayo": "getrayo.github.io/rayo.js",
+  "razahaider": "rootsiemen.github.io", // noCF
   "rclone": "sntran.github.io/rclone.js",
   "rdf": "rdfjs.github.io", // noCF
   "react-alert-box": "noumanqamar450.github.io/react-alert-box",
