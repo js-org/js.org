@@ -732,6 +732,8 @@ var cnames_active = {
   "cyberflame": "cyberflameu.github.io",
   "cybernaut": "clebert.github.io/cybernaut",
   "cycle": "cyclejs.github.io",
+  "cyclic-next": "abhisekp.github.io/cyclic-next",
+  "cyclic-prev": "abhisekp.github.io/cyclic-prev",
   "cyclow": "pmros.github.io/cyclow", // noCF
   "cyliim": "cyliim.github.io",
   "cypresscameroon": "cypress-cameroon.github.io",
@@ -1596,6 +1598,7 @@ var cnames_active = {
   "isbot": "omrilotan.github.io/isbot",
   "iscaptive": "marvnet.github.io/iscaptive",
   "ishan": "ishanthukral.github.io/ishan.js", // noCF? (don´t add this in a new PR)
+  "ishiki": "yeswearebot.github.io/ishiki",
   "isic": "isic.github.io/isic-docs",
   "isimon": "nsleep.github.io",
   "islisp": "ta2gch.github.io/islisp.js.org",
@@ -2860,6 +2863,7 @@ var cnames_active = {
   "reviewbuku": "mzaini30.github.io/reviewbuku",
   "revise": "bikeshaving.github.io/revise",
   "revolt": "revoltchat.github.io/revolt.js",
+  "rewake": "codizelabs.github.io/agent-rewake",
   "rexs": "uellenberg.github.io/REXS",
   "reyes": "michaelbreyes.github.io/reyes",
   "rgbstrip": "xrealneon.github.io/RGBStrip",
