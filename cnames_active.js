@@ -3146,6 +3146,7 @@ var cnames_active = {
   "solome": "solome.github.io",
   "solu": "soiu.github.io/solu",
   "somerandomcat": "hosting.gitbook.io", // noCF
+  "som": "somnathmahato-com.pages.dev"
   "sonicware": "easyontop.github.io/Sonicware.js",
   "soniq": "fullstack-build.github.io/soniq",
   "sonnet": "sonnetjs.github.io",
