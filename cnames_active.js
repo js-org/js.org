@@ -3787,7 +3787,7 @@ var cnames_active = {
   "whoasked": "mathdebate09.github.io/who-asked",
   "wi": "rstee.serv00.net",
   "wice": "yulioaj290.github.io/wice.js",
-  "wick": "olympus-mons26.github.io/wick/",
+  "wick": "olympus-mons26.github.io/wick",
   "wifidrop": "nuzulul.github.io/wifidrop",
   "wii": "andrewplus.github.io/Wii.JS",
   "wiki": "wiki-js-org.netlify.app", // noCF
