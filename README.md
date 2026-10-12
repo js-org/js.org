@@ -20,6 +20,8 @@
 >
 > _Additionally, please be aware of our full [Terms and Conditions](https://js.org/terms.html) for the JS.ORG service._
 
+> **Note on Email Security:** Subdomain owners are strongly advised to configure appropriate DNS records (such as SPF and DMARC policies) to prevent email spoofing and protect domain integrity.
+
 ---
 
 ## GitHub Pages
