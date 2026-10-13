@@ -502,6 +502,7 @@ var cnames_active = {
   "captcha-canvas": "shashank3736.github.io/captcha-canvas",
   "capture-pro": "alejandrocimentada.github.io/Capture-Pro",
   "car": "pakastin.github.io/car",
+  "cark": "yorulmazgulcihan06-alt.github.io",
   "carakan": "masnormen.github.io/carakanjs",
   "cards": "ttam.github.io/cards",
   "cardtabs": "blekerfeld.github.io/CardTabs",
