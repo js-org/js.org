@@ -2217,6 +2217,7 @@ var cnames_active = {
   "mwap": "jacob-ebey.github.io/mwap",
   "mx-space": "mx-space.github.io/docs", // noCF
   "my-app": "osidecrotchets.github.io/my-app",
+  "my-js-project": "rahrus7777.github.io/my-js-project",
   "my-server": "nirrius.github.io/my-server",
   "mylas": "raouldeheer.github.io/Mylas",
   "mysketch": "dipanshkhandelwal.github.io/MySketch",
