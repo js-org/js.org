@@ -2620,6 +2620,7 @@ var cnames_active = {
   "propresenter": "thewilloftheshadow.github.io/propresenter",
   "proteic": "proteus-h2020.github.io/proteic",
   "proto-message-helper": "rexskz.github.io/proto-message-helper",
+  "protomateslabs": "slyvarun.github.io/protomates",
   "proton": "jonathanzzero.github.io/proton",
   "proton-native": "kusti8.github.io/proton-native",
   "protonio": "aktilacengiz.github.io/protonio",
