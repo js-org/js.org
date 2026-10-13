@@ -3106,7 +3106,7 @@ var cnames_active = {
   "skratch": "websyncs.github.io/skratch",
   "sksamim": "esksamim.github.io/sksamim",
   "skyle": "skylejs.github.io/skyle",
-  "skylife": "chocochoc0.github.io/skylife
+  "skylife": "chocochoc0.github.io/skylife",
   "skyware": "skyware-js.github.io/web", // noCF
   "slang": "ramadis.github.io/slang", // noCF? (don´t add this in a new PR)
   "slapshot": "dvhsh.github.io/slapshot.ts",
