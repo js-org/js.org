@@ -2654,6 +2654,7 @@ var cnames_active = {
   "pwa-cookbook": "sylvainpolletvillard.github.io/pwa-cookbook",
   "pwa-workshop": "sylvainpolletvillard.github.io/pwa-workshop",
   "py-like": "ruben-arushanyan.github.io/py-like",
+  "pyscanner": "m1gs1129.github.io/PyScanner",
   "pytml": "nodex-ar.github.io/Pytml",
   "qbit": "fudan-mse.github.io/qbit",
   "qredential": "george-veras.github.io/qredential",
