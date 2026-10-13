@@ -3815,6 +3815,7 @@ var cnames_active = {
   "workbee": "workbee.pages.dev",
   "workers": "worker-tools.github.io/workers.js.org",
   "worksnake": "worksnake.github.io",
+  "workspace": "amagairei.github.io/WorkSpace",
   "worma": "alovajs.github.io/devtools",
   "wp-react": "farahmandm.github.io/wp-react",
   "wq": "wqjs.alwaysdata.net",
