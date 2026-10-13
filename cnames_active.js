@@ -1873,6 +1873,7 @@ var cnames_active = {
   "lineupengine": "lineupjs.github.io/lineupengine.js.org",
   "ling": "wangziling.github.io",
   "linghucong": "jiji262.github.io",
+  "lingotrace": "elogoldwinner-sys.github.io/lingotrace",
   "link-styler": "sheikhoo.github.io/link-styler",
   "linked-markdown": "wazootech.github.io/linked-markdown-ts",
   "linkify": "hypercontext.github.io/linkifyjs",
