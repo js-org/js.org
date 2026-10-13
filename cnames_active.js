@@ -341,6 +341,7 @@ var cnames_active = {
   "battle-city": "shinima.github.io/battle-city",
   "battlerite": "dragory.github.io/battlerite.js",
   "bb": "bbtalkjs.github.io",
+  "bblock": "somebottle.github.io/BBlock",
   "bbn": "jammer99.github.io/bbn",
   "bc": "mazko.github.io/bc.js",
   "bci": "pwstegman.github.io/bcijs",
