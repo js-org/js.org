@@ -1748,6 +1748,7 @@ var cnames_active = {
   "klasa": "dirigeants.github.io/klasa-website",
   "klayr-did": "aldhosutra.github.io/klayr-did",
   "klepto": "mwjaworski.github.io/klepto",
+  "keksgpt": "rigogogo.github.io/keksgpt",
   "kloner": "fivefifteen.github.io/kloner",
   "kmeans": "jeff-tian.github.io/k-means",
   "knc": "chaituknag.github.io",
