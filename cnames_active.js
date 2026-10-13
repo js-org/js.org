@@ -783,7 +783,6 @@ var cnames_active = {
   "dbots": "dbots-pkg.github.io/dbots-website",
   "dbotsgg": "valredstone.github.io/dbots.gg",
   "ddnet": "sans3108.github.io/DDNet",
-  "debuggedpro-markdown-viewer": "debuggedpro.github.io/markdown-viewer",
   "decant": "covai-labs.github.io/decant",
   "decimalsystem": "uellenberg.github.io/DecimalSystem",
   "deck-of-cards": "pakastin.github.io/deck-of-cards",
@@ -1995,6 +1994,7 @@ var cnames_active = {
   "markdown-html": "pj-568.github.io/MARKDOWN.HTML",
   "markdown-notepad": "jz222.github.io/markdown-notepad",
   "markdownify": "amitmerchant1990.github.io/electron-markdownify",
+  "markdownviewer": "debuggedpro.github.io/markdown-viewer",
   "marked": "cname.vercel-dns.com", // noCF
   "markit": "saurabhiam.github.io/markit",
   "markliu": "markliuyuxiang.github.io",
