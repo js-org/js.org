@@ -2165,6 +2165,7 @@ var cnames_active = {
   "molti": "moltijs.github.io/molti",
   "mom": "momjs.github.io/mom",
   "momentum": "wemakeweb.github.io/momentum", // noCF? (don´t add this in a new PR)
+  "momo": "petertuananh.github.io",
   "monaco-tailwindcss": "monaco-tailwindcss.netlify.app",
   "monaco-unified": "monaco-unified.netlify.app",
   "monaco-yaml": "monaco-yaml.netlify.app",
@@ -2436,8 +2437,7 @@ var cnames_active = {
   "ovo": "ovojs.github.io/OvO",
   "oxi": "cname.vercel-dns.com", // noCF
   "oz": "openzagreb.github.io",
-  "momo": "petertuananh.github.io",
-  "p2p": "nuzulul.github.io/p2p.js",
+`  "p2p": "nuzulul.github.io/p2p.js",
   "p2psc": "kognise.github.io/p2psc",
   "p3terx": "p3terx.github.io/P3TERX",
   "p7e4": "p7e4.github.io",
