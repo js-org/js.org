@@ -717,6 +717,7 @@ var cnames_active = {
   "ctxline": "mithunwijayasiri.github.io/ctxline-claude",
   "cubing": "the-silver-project.github.io/cubing",
   "cucumber-mink": "adezandee.github.io/cucumber-mink", // noCF? (don´t add this in a new PR)
+  "cue": "cname.vercel-dns.com", // noCF
   "cungudafa": "cungudafa.github.io",
   "curd": "yourtion.github.io/SimpleCURD",
   "curi": "pshrmn.github.io/curi",
