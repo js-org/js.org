@@ -184,6 +184,7 @@ var cnames_active = {
   "amaribot": "amaribot.github.io/amaribot.js",
   "amine": "am-77.github.io/amine",
   "amorphous": "ariabuckles.github.io/amorphous",
+  "ampline": "cname.vercel-dns.com", // noCF
   "ampn": "ampn.github.io",
   "amrit": "amritsrivastava.github.io",
   "analytics": "analyticsjs.github.io/web-analytics",
