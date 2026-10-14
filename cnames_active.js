@@ -3910,6 +3910,7 @@ var cnames_active = {
   "zodiac": "indus.github.io/Zodiac", // noCF? (don´t add this in a new PR)
   "zodiacsigns": "dipanshkhandelwal.github.io/my-zodiac-sign",
   "zombie": "assaf.github.io/zombie", // noCF? (don´t add this in a new PR)
+  "zenit-webstudio": "zenit-webstudio.netlify.app,
   "zoo": "ivankra.github.io/javascript-zoo",
   "zova": "cabloy.github.io/zova",
   "zyh": "zyh-chopper.github.io/zyh",
