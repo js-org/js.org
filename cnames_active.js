@@ -1010,6 +1010,7 @@ var cnames_active = {
   "ecstar": "ecstar-js.github.io/Ecstar",
   "ed2k": "sunnyli.github.io/ed2k.js",
   "edge-aura": "cname.vercel-dns.com", // noCF
+  "esignverify": "b9c6b1c2a16af985.vercel-dns-017.com", 
   "ef": "classicoldsong.github.io/ef.js.org",
   "effect-graphql": "egriff38.github.io/effect-graphql",
   "effectful": "awto.github.io/effectfuljs",
