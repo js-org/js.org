@@ -2303,7 +2303,7 @@ var cnames_active = {
   "niplayer": "niyuancheng.github.io/NiPlayerDocs",
   "nite": "manvalls.github.io/nite",
   "nitrate": "ranjithrd.github.io/nitrate",
-  "nmresources": "juliodrojas.github.io/New-Mexico-Resources",
+  "nmresources": "nmresources.pages.dev",
   "nnmap": "marzavec.github.io/nnmap.js",
   "no-pry": "zenyanle.github.io/node-unblocker",
   "noblox": "noblox.github.io/noblox.js",
