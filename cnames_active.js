@@ -1911,6 +1911,7 @@ var cnames_active = {
   "loginlock-portfolio": "chucky22mendoza.github.io/loginlock",
   "logo": "js-org.github.io/logo",
   "loh": "codingstudios.github.io/loh",
+  "lok": "chuyiyue.github.io/lok",
   "loki": "oblador.github.io/loki",
   "lol": "xcss.github.io/lol",
   "loli": "tkzcm.github.io/loli",
