@@ -2438,7 +2438,7 @@ var cnames_active = {
   "ovo": "ovojs.github.io/OvO",
   "oxi": "cname.vercel-dns.com", // noCF
   "oz": "openzagreb.github.io",
-`  "p2p": "nuzulul.github.io/p2p.js",
+  "p2p": "nuzulul.github.io/p2p.js",
   "p2psc": "kognise.github.io/p2psc",
   "p3terx": "p3terx.github.io/P3TERX",
   "p7e4": "p7e4.github.io",
