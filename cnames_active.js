@@ -910,7 +910,7 @@ var cnames_active = {
   "dna": "dna-engine.github.io/dna-engine",
   "dnd-layout": "fpsqdb.github.io/dnd-layout",
   "doars": "doars.github.io/doars",
-  "doc2pdf": "nitinkanish.github.io/doc2pdf",
+  "doc2pdfs": "nitinkanish.github.io/doc2pdf",
   "docile": "russellsteadman.github.io/docile",
   "doclang": "mohamed-shahal.github.io/DocLang",
   "docs.astro-reactive": "astro-reactive-docs.netlify.app", // noCF
