@@ -1535,6 +1535,7 @@ var cnames_active = {
   "iio": "iioinc.github.io/iio.js", // noCF? (don´t add this in a new PR)
   "illustrator": "illustratorjs.netlify.app",
   "imagecapture": "googlechrome.github.io/imagecapture-polyfill",
+  "imageconvertor": "sheshankdebugged.github.io/image-convertor",
   "imagin": "ilrc.github.io/imagin",
   "imagine": "karimayachi.github.io/imagine",
   "imask": "unmanner.github.io/imaskjs",
