@@ -3654,6 +3654,7 @@ var cnames_active = {
   "vesium": "vesiumjs.github.io",
   "vesselize": "vesselize.github.io/docs",
   "vest": "vestjs.netlify.app",
+  "vetai": "dr-mahdjoubi.github.io/VetAI",
   "veza": "kyranet.github.io/veza",
   "vfm": "meshesha.github.io/VisualFormMaker.github.io",
   "viav": "brandondyer64.github.io/viav",
