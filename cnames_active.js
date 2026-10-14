@@ -1771,6 +1771,7 @@ var cnames_active = {
   "konsumer": "konsumer.github.io", // noCF? (don´t add this in a new PR)
   "koolclash": "sukkaw.github.io/Koolshare-Clash",
   "koot": "cmux.github.io/koot",
+  "koru": "wux4an.github.io/koru",
   "koshi": "koshi-kvl.pages.dev", // noCF
   "kotori": "biyuehu.github.io/kotori-bot",
   "koutla-swiss": "leny.github.io/koutla-swiss",
@@ -3873,6 +3874,7 @@ var cnames_active = {
   "youtube-box": "lucasmonteverde.github.io/youtube-box", // noCF? (don´t add this in a new PR)
   "youtube-ext": "zyrouge.github.io/youtube-ext",
   "youtube-lite": "9oelm.github.io/youtube-lite",
+  "yozora": "theabmmohi.github.io/yozora.docs",
   "yt-dislikes-viewer": "pgamerx.github.io/yt-dislikes-viewer",
   "yt-quota-manager": "arnav-kr.github.io/yt-quota-manager",
   "yu": "yuxizhe.github.io/yu",
