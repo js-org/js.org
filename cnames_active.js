@@ -1301,6 +1301,7 @@ var cnames_active = {
   "germanov": "germanov-dev.github.io",
   "get": "get-js-org.dns.huangxin.org", // noCF
   "getdot": "enderandfiredev.github.io/getdot",
+  "getjobs": "loks666.github.io",
   "getlink": "ilovecode1.github.io/linkjs", // noCF? (don´t add this in a new PR)
   "gettic": "darking053official.github.io/gettic",
   "ghapi": "haydennyyy.github.io/node-ghapi",
