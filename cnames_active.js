@@ -3127,7 +3127,7 @@ var cnames_active = {
   "smooscroll": "shuninyu.github.io/SmooScroll",
   "smoove": "abemedia.github.io/jquery-smoove",
   "snail-ide": "snail-ide.github.io",
-  "snake": "pakastin.github.io/snake",
+  "snapfix": "kishanpalsuthar935-hash.github.io",
   "snaplabs": "cname.vercel-dns.com", // noCF
   "snekfetch": "devsnek.github.io/snekfetch",
   "snip": "ashy-sea-0a4231910.5.azurestaticapps.net", // noCF
