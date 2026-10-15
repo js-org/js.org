@@ -555,6 +555,7 @@ var cnames_active = {
   "christopher": "marekkobida.github.io/christopher",
   "chronos": "espinielli.github.io/chronos", // noCF? (don´t add this in a new PR)
   "chronosis": "jack-weilage.github.io/chronosis",
+  "circlecode": "axphia.github.io/CircleCode",
   "citation": "citation-js.github.io/site",
   "citeapa": "natsuozawa.github.io/citeapa",
   "city": "city.github.io",
@@ -1380,6 +1381,7 @@ var cnames_active = {
   "gtfs": "gtfs-js.github.io/gtfs.js.org",
   "gtk": "hwittenborn.github.io/gtk-js",
   "guard-sdk": "apvarun.github.io/guard-sdk",
+  "guchho": "guchho.github.io/guchho.js.org",
   "guida": "cname.vercel-dns.com", // noCF
   "guide.guildedbot": "cname.vercel-dns.com", // noCF
   "guild": "guild-js.github.io/guild.js",
@@ -1770,6 +1772,7 @@ var cnames_active = {
   "konsumer": "konsumer.github.io", // noCF? (don´t add this in a new PR)
   "koolclash": "sukkaw.github.io/Koolshare-Clash",
   "koot": "cmux.github.io/koot",
+  "koru": "wux4an.github.io/koru",
   "koshi": "koshi-kvl.pages.dev", // noCF
   "kotori": "biyuehu.github.io/kotori-bot",
   "koutla-swiss": "leny.github.io/koutla-swiss",
@@ -2164,6 +2167,7 @@ var cnames_active = {
   "molti": "moltijs.github.io/molti",
   "mom": "momjs.github.io/mom",
   "momentum": "wemakeweb.github.io/momentum", // noCF? (don´t add this in a new PR)
+  "momo": "petertuananh.github.io",
   "monaco-tailwindcss": "monaco-tailwindcss.netlify.app",
   "monaco-unified": "monaco-unified.netlify.app",
   "monaco-yaml": "monaco-yaml.netlify.app",
@@ -2345,7 +2349,7 @@ var cnames_active = {
   "npm-card": "ultirequiem.github.io/create-npm-card",
   "npmdocs": "cname.vercel-dns.com", // noCF
   "npmer": "rumkin.github.io/npm-watch",
-  "npmgraph": "cname.vercel-dns.com", // noCF
+  "npmgraph": "npmgraph.github.io/npmgraph",
   "npwa": "cname.vercel-dns.com", // noCF
   "nrgy": "mnasyrov.github.io/nrgy",
   "nsptiles": "imthenachoman.github.io/nSPTiles", // noCF? (don´t add this in a new PR)
@@ -3871,6 +3875,7 @@ var cnames_active = {
   "youtube-box": "lucasmonteverde.github.io/youtube-box", // noCF? (don´t add this in a new PR)
   "youtube-ext": "zyrouge.github.io/youtube-ext",
   "youtube-lite": "9oelm.github.io/youtube-lite",
+  "yozora": "theabmmohi.github.io/yozora.docs",
   "yt-dislikes-viewer": "pgamerx.github.io/yt-dislikes-viewer",
   "yt-quota-manager": "arnav-kr.github.io/yt-quota-manager",
   "yu": "yuxizhe.github.io/yu",
