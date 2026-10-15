@@ -555,6 +555,7 @@ var cnames_active = {
   "christopher": "marekkobida.github.io/christopher",
   "chronos": "espinielli.github.io/chronos", // noCF? (don´t add this in a new PR)
   "chronosis": "jack-weilage.github.io/chronosis",
+  "circlecode": "axphia.github.io/CircleCode",
   "citation": "citation-js.github.io/site",
   "citeapa": "natsuozawa.github.io/citeapa",
   "city": "city.github.io",
@@ -1381,6 +1382,7 @@ var cnames_active = {
   "gtfs": "gtfs-js.github.io/gtfs.js.org",
   "gtk": "hwittenborn.github.io/gtk-js",
   "guard-sdk": "apvarun.github.io/guard-sdk",
+  "guchho": "guchho.github.io/guchho.js.org",
   "guida": "cname.vercel-dns.com", // noCF
   "guide.guildedbot": "cname.vercel-dns.com", // noCF
   "guild": "guild-js.github.io/guild.js",
