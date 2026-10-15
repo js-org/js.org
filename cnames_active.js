@@ -1381,6 +1381,7 @@ var cnames_active = {
   "gtfs": "gtfs-js.github.io/gtfs.js.org",
   "gtk": "hwittenborn.github.io/gtk-js",
   "guard-sdk": "apvarun.github.io/guard-sdk",
+  "guchho": "guchho.github.io/guchho.js.org",
   "guida": "cname.vercel-dns.com", // noCF
   "guide.guildedbot": "cname.vercel-dns.com", // noCF
   "guild": "guild-js.github.io/guild.js",
