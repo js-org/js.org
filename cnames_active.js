@@ -2657,6 +2657,7 @@ var cnames_active = {
   "pwa-workshop": "sylvainpolletvillard.github.io/pwa-workshop",
   "py-like": "ruben-arushanyan.github.io/py-like",
   "pytml": "nodex-ar.github.io/Pytml",
+  "pyblocks": "uppity-king.github.io",
   "qbit": "fudan-mse.github.io/qbit",
   "qredential": "george-veras.github.io/qredential",
   "qs": "kirjs.github.io/qs.js", // noCF? (don´t add this in a new PR)
