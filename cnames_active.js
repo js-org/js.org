@@ -2310,7 +2310,7 @@ var cnames_active = {
   "no-pry": "zenyanle.github.io/node-unblocker",
   "noblox": "noblox.github.io/noblox.js",
   "nod": "diegohaz.github.io/nod",
-  "nodals": "LucianoSainz.github.io/nodals",
+  "nodals": "lucianosainz.github.io/nodals",
   "node": "nodejs.github.io/node.js.org",
   "node-atlas": "haeresis.github.io/NodeAtlas",
   "node-file-router": "cname.vercel-dns.com", // noCF
