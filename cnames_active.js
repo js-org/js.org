@@ -836,6 +836,7 @@ var cnames_active = {
   "diddle": "jylescoad-ward.github.io/diddle.js",
   "diffract": "ameyms.github.io/diffract", // noCF? (don´t add this in a new PR)
   "digest": "cname.vercel-dns.com", // noCF,
+  "digitpdf": "digitpdf.pages.dev",
   "dignity": "jose-compu.github.io/dignity.js",
   "dime": "anut-py.github.io/dime",
   "dinesh": "dineshondev.github.io/dinesh", // noCF? (don´t add this in a new PR)
