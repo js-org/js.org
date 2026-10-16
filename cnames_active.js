@@ -2202,6 +2202,7 @@ var cnames_active = {
   "mtproto-core": "alik0211.github.io/mtproto-core-website",
   "mubaidr": "mubaidr.github.io",
   "muc": "jsmuc.github.io",
+  "muhammad": "masudalamih.github.io/muhammad",
   "muiplayer": "muiplayer.github.io",
   "mujin": "mujin669.github.io",
   "multiple": "nexts.github.io/Multiple.js",
