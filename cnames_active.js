@@ -3919,7 +3919,9 @@ var cnames_active = {
   "zylog": "cname.vercel-dns.com", // noCF
   "zyx": "zyx.alwaysdata.net",
   "zyy": "zyyou.github.io/notes"
+ "4pcteam": "hsg2-alt.github.io/4pcteam-website",
   /*
+
    * please don't add your subdomain records down here!
    * insert them in alphabetical order to help reduce merge conflicts.
    * <3
