@@ -2839,6 +2839,7 @@ var cnames_active = {
   "remark": "remarkjs.github.io/remark",
   "remote-faces": "dai-shi.github.io/remote-faces",
   "rengular": "chigix.github.io/rengular",
+  "renying": "amfi-disable.github.io/RenYing",
   "repackage": "cchamberlain.github.io/repackage", // noCF? (don´t add this in a new PR)
   "repeater": "bikeshaving.github.io/repeater",
   "repl": "snowflyt.github.io/repl",
