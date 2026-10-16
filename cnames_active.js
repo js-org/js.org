@@ -3887,7 +3887,7 @@ var cnames_active = {
   "yuuka": "yuukajs.github.io/docs",
   "yuye": "cyea.github.io",
   "yvm": "tophat.github.io/yvm",
-  "ykdos": "https://ykteam-ykdos.onrender.com",
+  "ykdos": "ykteam-ykdos.onrender.com",
   "zaporizhzhia": "zaporizhzhiajs.github.io",
   "zare": "ismailbinmujeeb.github.io/zare",
   "zed": "paul-browne.github.io/Zed-framework",
