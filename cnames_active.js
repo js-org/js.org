@@ -3787,6 +3787,7 @@ var cnames_active = {
   "webpack-config-plugins": "namics.github.io/webpack-config-plugins",
   "webpack-inspect": "alexmost.github.io/webpack-inspect",
   "webpack-stats": "v-webpack.netlify.app",
+  "webpad": "web-pad.github.io",
   "webpeer": "nuzulul.github.io/webpeerjs",
   "websheet": "pierreavn.github.io/websheetjs",
   "webview": "cname.vercel-dns.com", // noCF
