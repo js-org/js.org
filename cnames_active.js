@@ -1763,7 +1763,7 @@ var cnames_active = {
   "kofiloop": "norech.github.io/KofiLoop",
   "koin": "muditjuneja.github.io/koin",
   "koishi": "koishijs.github.io",
-  "kokkoro": "kokkorojs.github.io",
+  "kokkoro": "kokkorojs.github.io/kokkoro",
   "kokoro": "cool2645.github.io/kokoro",
   "kokoro-player": "cool2645.github.io/kokoro-player",
   "komada": "dirigeants.github.io/komada",
