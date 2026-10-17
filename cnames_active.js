@@ -2258,6 +2258,7 @@ var cnames_active = {
   "needle": "fenwei-dev.github.io/needle.js",
   "nefter": "nefter.github.io",
   "nemo": "paypal.github.io/nemo", // noCF? (don´t add this in a new PR)
+  "nev-portfolio": "://vercel-dns.com",
   "neo4": "janpeter.github.io/neo4js",
   "neox": "neoxn3il.netlify.app",
   "nera": "seebaermichi.github.io/nera-website",
