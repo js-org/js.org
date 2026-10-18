@@ -2035,6 +2035,7 @@ var cnames_active = {
   "mcd": "n9gc.github.io/mcdjs",
   "mcfly": "mcfly-js.netlify.app",
   "mcpkit": "sraveshnandan.github.io/mcpkit",
+  "mcsb": "kittennhlperson78.github.io",
   "mctrl": "cname.vercel-dns.com", // noCF,
   "mcul": "russellsteadman.github.io/mcul",
   "md": "cname-china.vercel-dns.com", // noCF
