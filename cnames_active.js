@@ -2503,6 +2503,7 @@ var cnames_active = {
   "pegasusdb": "tatsumaki-coderr.github.io/pegasus.db",
   "pegboard": "mplewis.github.io/pegboard",
   "pekanbaru": "pekanbarujs.github.io",
+  "pelorus": "shipking-ai.github.io/pelorus",
   "pencil": "pencil-js.github.io/website",
   "penguins": "luisvallejomohl.github.io/Penguins.js",
   "penn-sdk": "pennlabs.github.io/penn-sdk-node", // noCF? (don´t add this in a new PR)
