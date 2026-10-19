@@ -1168,6 +1168,7 @@ var cnames_active = {
   "file-extension": "ultirequiem.github.io/file-extension",
   "filebokz": "fivefifteen.github.io/filebokz",
   "filejack": "cname.vercel-dns.com", // noCF
+  "fitnesspro": "mohammad009999-prog.github.io/fitnessproweb",
   "filer": "filerjs.github.io/filer",
   "fill100": "matteobruni.github.io/fill100",
   "filter": "mg98.github.io/filter.js",
