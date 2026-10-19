@@ -729,6 +729,7 @@ var cnames_active = {
   "custardui": "custardui.github.io",
   "custom-captcha": "mcnagynorbi.github.io/custom-captcha",
   "customary": "customaryjs.github.io",
+  "cv-builder": "mayankmalviya64.github.io/cv-builder",
   "cville": "cvjs.github.io",
   "cvss": "cvssjs.github.io",
   "cwd": "anghunk.github.io/cwd",
