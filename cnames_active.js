@@ -39,7 +39,6 @@
 
 var cnames_active = {
   "": "js-org.github.io",
-  "gx": "gajarbotolx-coder.github.io/GX-Web/",
   "01mz": "01mz.github.io",
   "100dayz": "deadcoder0904.github.io/100dayz",
   "101": "7anshuai.github.io/js101", // noCF? (don´t add this in a new PR)
@@ -1405,6 +1404,7 @@ var cnames_active = {
   "guppy": "daniel3735928559.github.io/guppy",
   "gustwind": "gustwind.netlify.app",
   "guvercin": "guvercinjs.github.io",
+  "gxdev": "gajarbotolx-coder.github.io/GX-Web",
   "gyps": "huijari.github.io/Gyps",
   "gyre": "wridder.github.io/GyreJS", // noCF? (don´t add this in a new PR)
   "gyx": "yourtion.github.io/gyx.js.org",
