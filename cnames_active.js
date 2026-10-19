@@ -495,6 +495,7 @@ var cnames_active = {
   "canvasui": "canvasui.github.io/docs",
   "canvg": "canvg.github.io/canvg",
   "canvo": "canvojs.github.io",
+  "cine-nav": "matviukuzmenko-cloud.github.io",
   "cap": "cap-js.github.io/docs",
   "capital": "capitaljs.github.io/capitaljs",
   "capjs": "tiagorangel1.github.io/cap",
