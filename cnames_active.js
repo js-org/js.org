@@ -2240,6 +2240,7 @@ var cnames_active = {
   "nano-kit": "trigensoftware.github.io/nano_kit",
   "nano-queries": "vitonsky.github.io/nano-queries",
   "nanoexpress": "hosting.gitbook.com",
+  "nanoviews": "trigensoftware.github.io/nanoviews",
   "nanoweb": "tbo.github.io/nanoweb",
   "naseem": "naseemali925.github.io/about-me",
   "nashi": "cname.vercel-dns.com", // noCF
