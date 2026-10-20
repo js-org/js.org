@@ -825,6 +825,7 @@ var cnames_active = {
   "device": "vpodk.github.io/device",
   "devlunch": "superzackx.github.io/DevLunch",
   "devsession": "lukasbach.github.io/devsession",
+  "df-script": "cname.vercel-dns.com", // noCF
   "dgelong": "alexeyraspopov.github.io/dgelong", // noCF? (don´t add this in a new PR)
   "dgs-docs": "shadowplay1.github.io/discord-giveaways-super",
   "dhimasanb": "dhimasanb.github.io",
@@ -2240,6 +2241,7 @@ var cnames_active = {
   "nano-kit": "trigensoftware.github.io/nano_kit",
   "nano-queries": "vitonsky.github.io/nano-queries",
   "nanoexpress": "hosting.gitbook.com",
+  "nanoviews": "trigensoftware.github.io/nanoviews",
   "nanoweb": "tbo.github.io/nanoweb",
   "naseem": "naseemali925.github.io/about-me",
   "nashi": "cname.vercel-dns.com", // noCF
