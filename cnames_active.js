@@ -198,6 +198,7 @@ var cnames_active = {
   "ani-client": "cname.vercel-dns.com", // noCF
   "anilist": "instellate.github.io/anilist.js",
   "anime": "meguminsama.github.io/anime",
+  "anime-prompt-kit": "diaozxin007.github.io/anime-prompt-kit",
   "animecursor": "shuninyu.github.io/anime-cursor",
   "animegan": "tonylianlong.github.io/AnimeGAN.js",
   "animo": "thrivingkings.github.io/animo",
