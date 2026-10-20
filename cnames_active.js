@@ -41,7 +41,7 @@ var cnames_active = {
   "": "js-org.github.io",
   "01mz": "01mz.github.io",
   "100dayz": "deadcoder0904.github.io/100dayz",
-  "101": "7anshuai.github.io/js101", // noCF? (don´t add this in a new PR)
+  "101": "7anshuai.github.io/js101",
   "131": "netrvin.github.io",
   "140513": "140513.github.io",
   "145storage": "54145a.github.io/145Storage2",
@@ -59,7 +59,7 @@ var cnames_active = {
   "3d-go": "3d-go.netlify.app",
   "404": "licshee.github.io/404",
   "766": "766.github.io",
-  "7anshuai": "7anshuai.github.io", // noCF? (don´t add this in a new PR)
+  "7anshuai": "7anshuai.github.io",
   "8085sim": "ahmedazhar05.github.io/8085sim",
   "98": "1j01.github.io/98",
   "98plus": "cherrim98.github.io",
@@ -99,7 +99,7 @@ var cnames_active = {
   "acyort": "acyortjs.github.io/site",
   "ada": "ada-js.netlify.app",
   "adamant": "datamart.github.io/Adamant",
-  "adaptui": "cname.vercel-dns.com", // noCF
+  "adaptui": "cname.vercel-dns.com",
   "aderemi": "aderemi.github.io",
   "adil": "adilzeshan.github.io/adil",
   "aditya": "aditya81070.github.io",
@@ -124,15 +124,15 @@ var cnames_active = {
   "agrawalnaman": "agrawalnaman.github.io",
   "agrawalrohit": "rohit0803.github.io/agrawal.github.io",
   "agros": "agrosjs.github.io",
-  "agrume": "cname.vercel-dns.com", // noCF
+  "agrume": "cname.vercel-dns.com",
   "ahmad": "aruzikulov.github.io/ahmad",
   "ahnotification": "ahmadhayyan.github.io/ahnotification.js",
   "ahooks": "ahooks.surge.sh",
   "ahooks-v2": "ahooks-v2.surge.sh",
   "aider": "tjz101.github.io/aider-js-pages",
-  "aiga": "cname.vercel-dns.com", // noCF
+  "aiga": "cname.vercel-dns.com",
   "aigcs": "docs-17t.pages.dev",
-  "ailcr": "cname.vercel-dns.com", // noCF
+  "ailcr": "cname.vercel-dns.com",
   "aiml": "jesobreira.github.io/aimljs",
   "air": "openwebstudio.github.io/Air-Docs",
   "airesearch": "vtempest.github.io/ai-research-agent",
@@ -144,14 +144,14 @@ var cnames_active = {
   "ajv": "epoberezkin.github.io/ajv",
   "akala": "npenin.github.io/akala",
   "akar": "mahabubx7.github.io/akar",
-  "akase": "cedmax.github.io/akase", // noCF? (don´t add this in a new PR)
+  "akase": "cedmax.github.io/akase",
   "akash": "hish.github.io/akashjs",
   "akhyar": "akhyar.pages.dev",
   "aksara": "sajenid.github.io/aksara.js",
   "aksharamukha": "paramsiddharth.github.io/aksharamukha.js",
-  "akshit.ahuja": "ahuja101992.github.io/akshit.ahuja", // noCF
+  "akshit.ahuja": "ahuja101992.github.io/akshit.ahuja",
   "akte": "akte.netlify.app",
-  "alasql": "alasql.github.io", // noCF? (don´t add this in a new PR)
+  "alasql": "alasql.github.io",
   "alastor": "aidenybai.github.io/alastor",
   "ale": "alecefe.github.io",
   "alertbox": "simple-alertbox.github.io/alertbox",
@@ -159,7 +159,38 @@ var cnames_active = {
   "alex": "alecs297.github.io",
   "alexanderalvarez": "alexanderalvarez9.github.io",
   "alfred": "amilajack.github.io/alfred",
-  "algebra": "nicolewhite.github.io/algebra.js", // noCF? (don´t add this in a new PR)
-  "algoviz": "algo-vizz.web.app", // noCF
+  "algebra": "nicolewhite.github.io/algebra.js",
+  "algoviz": "algo-vizz.web.app",
   "ali": "alibouhrouche.netlify.app",
-  "ali-react-table": "alibaba.github.io/ali-react
+  "ali-react-table": "alibaba.github.io/ali-react-table",
+  "alien": "pschroen.github.io/alien.js",
+  "aligos": "aligos.github.io",
+  "alipay": "thenorthmemory.github.io/alipay.js.org",
+  "all": "learnsomuch.github.io/all.js",
+  "all-contributors": "all-contributors-js-org.netlify.app",
+  "almeida": "almeidx.github.io",
+  "almin": "almin.github.io",
+  "alova": "alovajs.github.io",
+  "alpha-coders": "biologyscience.github.io/alpha-coders",
+  "alphabetify": "davidpomerenke.github.io/alphabetify",
+  "alpine-ajax": "imacrayon.github.io/alpine-ajax",
+  "alt": "goatslacker.github.io/alt",
+  "altrugenix": "altrugenix.github.io",
+  "alveron": "cname.vercel-dns.com",
+  "alyreza": "alyreza.github.io",
+  "alys": "rmjordas.github.io/alys",
+  "aman": "plug-n-play.github.io/aman",
+  "amaple": "amjs-team.github.io/amaple",
+  "amaribot": "amaribot.github.io/amaribot.js",
+  "am-utils": "anasmohammedabdelmoneam-rgb.github.io",
+  "amine": "am-77.github.io/amine",
+  "amorphous": "ariabuckles.github.io/amorphous",
+  "ampline": "cname.vercel-dns.com",
+  "ampn": "ampn.github.io",
+  "amrit": "amritsrivastava.github.io",
+  "zzzz": "zzzz.github.io"
+};
+
+/*
+ * END OF ACTIVE SUBDOMAINS
+ */
