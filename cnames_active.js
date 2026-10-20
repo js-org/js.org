@@ -1334,6 +1334,7 @@ var cnames_active = {
   "glitchy-scratch": "glitchy-scratch.github.io",
   "glize": "datamart.github.io/Glize",
   "globalart": "globalartinc.github.io/ecosystem",
+  "webtools": "ivan155off.github.io/WebTools-Utility",
   "globx": "aminadav.github.io/globx",
   "gloria": "gloriajs.github.io",
   "glottologist": "arguiot.github.io/Glottologist",
