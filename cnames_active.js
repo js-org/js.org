@@ -825,6 +825,7 @@ var cnames_active = {
   "device": "vpodk.github.io/device",
   "devlunch": "superzackx.github.io/DevLunch",
   "devsession": "lukasbach.github.io/devsession",
+  "df-script": "cname.vercel-dns.com", // noCF
   "dgelong": "alexeyraspopov.github.io/dgelong", // noCF? (don´t add this in a new PR)
   "dgs-docs": "shadowplay1.github.io/discord-giveaways-super",
   "dhimasanb": "dhimasanb.github.io",
@@ -1128,6 +1129,7 @@ var cnames_active = {
   "extension": "cname.mintlify-dns.com", // noCF
   "extension-sprint": "extension-sprint.github.io/home",
   "extenso": "theuves.github.io/extenso.js.org",
+  "extract": "cname.vercel-dns.com", // noCF
   "extraction": "rse.github.io/extraction", // noCF? (don´t add this in a new PR)
   "exvex": "cname.vercel-dns.com", // noCF
   "eye": "arguiot.github.io/EyeJS",
@@ -2240,6 +2242,7 @@ var cnames_active = {
   "nano-kit": "trigensoftware.github.io/nano_kit",
   "nano-queries": "vitonsky.github.io/nano-queries",
   "nanoexpress": "hosting.gitbook.com",
+  "nanoviews": "trigensoftware.github.io/nanoviews",
   "nanoweb": "tbo.github.io/nanoweb",
   "naseem": "naseemali925.github.io/about-me",
   "nashi": "cname.vercel-dns.com", // noCF
@@ -3850,6 +3853,7 @@ var cnames_active = {
   "xiaolan": "mcxiaolan.github.io",
   "xism": "biologyscience.github.io/XInputSerialMapper",
   "xiyueta": "313801120.github.io/xiyueta",
+  "xph": "sijad.github.io/xph",
   "xprmntl": "xprmntl.github.io", // noCF? (don´t add this in a new PR)
   "xs-dev": "hipsterbrown.github.io/xs-dev",
   "xsai": "moeru-ai.github.io/xsai",
