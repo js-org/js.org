@@ -3929,4 +3929,8 @@ var cnames_active = {
    * insert them in alphabetical order to help reduce merge conflicts.
    * <3
    */
+  'harshit': 'harshitpratap1113-glitch.github.io/harshit-live-test',
+  'tokenshield': 'harshitpratap1113-glitch.github.io',
+  'voxai': 'voxai-platform.vercel.app',
 }
+  'harshit-test': 'voxai-platform.vercel.app',
