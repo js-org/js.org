@@ -1,1 +1,1 @@
-"funtrygames": "://vercel-dns.com",
+"funtrygames": "cname.vercel-dns.com",
