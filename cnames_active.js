@@ -2413,6 +2413,7 @@ var cnames_active = {
   "oofp": "oofp.pages.dev",
   "oox": "lipingruan.github.io/oox",
   "opcommands": "02550ce547-hosting.gitbook.io", // noCF
+  "opdle": "slasher-zip.github.io/OnePieceDLE",
   "opds": "kartoffelchipss.github.io/opds-ts",
   "open-api": "harys722.github.io/open-api",
   "open-ask-ai": "easyops-cn.github.io/open-ask-ai",
