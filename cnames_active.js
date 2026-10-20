@@ -2708,6 +2708,7 @@ var cnames_active = {
   "ranmess": "ultirequiem.github.io/ranmess",
   "rasti": "8tentaculos.github.io/rasti",
   "rate-limiter-api": "abhisekp.github.io/rate-limiter-api",
+  "ratica": "piscilus.github.io/ratica",
   "ravelloh": "ravello-h.github.io",
   "rax": "alibaba.github.io/rax",
   "rax0-6": "raxjs.github.io/website-rax-v0.6",
