@@ -1129,6 +1129,7 @@ var cnames_active = {
   "extension": "cname.mintlify-dns.com", // noCF
   "extension-sprint": "extension-sprint.github.io/home",
   "extenso": "theuves.github.io/extenso.js.org",
+  "extract": "cname.vercel-dns.com", // noCF
   "extraction": "rse.github.io/extraction", // noCF? (don´t add this in a new PR)
   "exvex": "cname.vercel-dns.com", // noCF
   "eye": "arguiot.github.io/EyeJS",
