@@ -1129,6 +1129,7 @@ var cnames_active = {
   "extension": "cname.mintlify-dns.com", // noCF
   "extension-sprint": "extension-sprint.github.io/home",
   "extenso": "theuves.github.io/extenso.js.org",
+  "extract": "cname.vercel-dns.com", // noCF
   "extraction": "rse.github.io/extraction", // noCF? (don´t add this in a new PR)
   "exvex": "cname.vercel-dns.com", // noCF
   "eye": "arguiot.github.io/EyeJS",
@@ -1218,6 +1219,7 @@ var cnames_active = {
   "food": "russellsteadman.github.io/foodweb",
   "foolhtml": "itsayush1704.github.io/foolhtml",
   "forceify": "dalisoft.github.io/Forceify",
+  "forge": "varadthedeveloper.github.io/forge",
   "form": "the94air.github.io/form",
   "form-nodes": "gastonmesseri.github.io/form-nodes",
   "formast": "tencent-cdc.github.io/formast",
@@ -2039,6 +2041,7 @@ var cnames_active = {
   "mctrl": "cname.vercel-dns.com", // noCF,
   "mcul": "russellsteadman.github.io/mcul",
   "md": "cname-china.vercel-dns.com", // noCF
+  "md2docx": "cname.vercel-dns.com", // noCF
   "md5": "cname-china.vercel-dns.com", // noCF
   "mdbf-css": "more-beautiful-div-framework.github.io",
   "mdcdev": "galleniz.github.io/mdcdev.js",
@@ -3852,6 +3855,7 @@ var cnames_active = {
   "xiaolan": "mcxiaolan.github.io",
   "xism": "biologyscience.github.io/XInputSerialMapper",
   "xiyueta": "313801120.github.io/xiyueta",
+  "xph": "sijad.github.io/xph",
   "xprmntl": "xprmntl.github.io", // noCF? (don´t add this in a new PR)
   "xs-dev": "hipsterbrown.github.io/xs-dev",
   "xsai": "moeru-ai.github.io/xsai",
