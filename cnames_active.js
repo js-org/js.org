@@ -2672,6 +2672,7 @@ var cnames_active = {
   "qredential": "george-veras.github.io/qredential",
   "qs": "kirjs.github.io/qs.js", // noCF? (don´t add this in a new PR)
   "quacky": "quacky-bot.github.io",
+  "quaderndocent": "mrodr734.github.io/quaderndocent",
   "quanta": "solarbrowser.github.io/w4q",
   "quantlib": "quantlibjs.github.io",
   "quantum": "militia21.github.io/quantum",
@@ -3930,6 +3931,7 @@ var cnames_active = {
   "zylog": "cname.vercel-dns.com", // noCF
   "zyx": "zyx.alwaysdata.net",
   "zyy": "zyyou.github.io/notes"
+  
   /*
    * please don't add your subdomain records down here!
    * insert them in alphabetical order to help reduce merge conflicts.
