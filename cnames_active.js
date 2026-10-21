@@ -278,8 +278,8 @@ var cnames_active = {
   "audio-transcriber": "shriansh2002.github.io/gemini-audio-transcriber-site",
   "aui": "alauda.github.io/alauda-ui",
   "aunt": "79e.github.io/aunt",
-  "autarky": "pranshuchittora.github.io/autarky",
   "aura-store": "cname.vercel-dns.com", // noCF
+  "autarky": "pranshuchittora.github.io/autarky",
   "auth": "cname.vercel-dns.com", // noCF
   "auto-immutable": "webkrafters.github.io/auto-immutable",
   "auto-task-doc": "cname.vercel-dns.com", // noCF
