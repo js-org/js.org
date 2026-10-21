@@ -3655,6 +3655,7 @@ var cnames_active = {
   "varvara": "marcmarine.github.io/varvara-js", // noCF
   "vayne": "vaynejs.github.io",
   "vbuild": "egoist.github.io/vbuild",
+  "vchat": "vchat-type.netlify.app",
   "vdcs": "hopae-official.github.io/Verifiable-Digital-Credentials",
   "ve-table": "xiguaxigua.github.io/ve-table",
   "vectorless": "vectorless-js.pages.dev",
