@@ -279,6 +279,7 @@ var cnames_active = {
   "aui": "alauda.github.io/alauda-ui",
   "aunt": "79e.github.io/aunt",
   "autarky": "pranshuchittora.github.io/autarky",
+  "aura-store": "cname.vercel-dns.com", // noCF
   "auth": "cname.vercel-dns.com", // noCF
   "auto-immutable": "webkrafters.github.io/auto-immutable",
   "auto-task-doc": "cname.vercel-dns.com", // noCF
