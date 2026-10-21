@@ -1939,6 +1939,7 @@ var cnames_active = {
   "lucy": "lucy-bot.github.io",
   "lukemetoki": "luke2m.github.io",
   "lume.shiraha": "importantimport.github.io/lume_theme_shiraha", // noCF
+  "luminous": "luk6785.github.io/luminous-templates", // noCF
   "lumpia": "lumpiajs.netlify.app",
   "lunibee": "ekretos.github.io/lunibee",
   "lunisolar": "waterbeside.github.io/lunisolar-docs",
