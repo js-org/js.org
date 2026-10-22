@@ -2861,6 +2861,7 @@ var cnames_active = {
   "reshape": "reshape.netlify.app",
   "reshift": "hasharray.github.io/reshift.js",
   "resilix": "lintdeveloper.github.io/resilix",
+  "restay": "restayflow.vercel.app",
   "rest-client": "foxifyjs.github.io/rest-client",
   "restjs": "daviesgeek.github.io/restjs", // noCF? (don´t add this in a new PR)
   "restore-scroll": "restore-scroll.netlify.app",
