@@ -1951,6 +1951,7 @@ var cnames_active = {
   "lx": "blleng.github.io/lx-test",
   "lyap": "lyapjs.github.io",
   "lychee": "cookiengineer.github.io/lycheeJS-website",
+  "lyn0x": "lyn0x-dev.github.io/lyn0x",
   "lynx-html": "yourtion.github.io/lynx-html-renderer",
   "lyra": "amansahil.github.io/lyra.js.org",
   "lyrix": "lyrixjs.github.io/lyrix",
