@@ -1856,6 +1856,7 @@ var cnames_active = {
   "lete": "cname.vercel-dns.com", // noCF
   "lev": "lev-savranskiy.github.io",
   "level": "xv700.github.io/level",
+  "lexdays": "dogood-studio.github.io/legal-deadline-calculator", // noCF
   "lf": "lf112.github.io",
   "lgs": "lgsturkiye.github.io/lgs",
   "li": "mattsimmons1.github.io/li",
