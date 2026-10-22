@@ -2229,6 +2229,7 @@ var cnames_active = {
   "my-app": "osidecrotchets.github.io/my-app",
   "my-server": "nirrius.github.io/my-server",
   "mylas": "raouldeheer.github.io/Mylas",
+  "myogazetesi": "cname.vercel-dns.com", // noCF
   "mysketch": "dipanshkhandelwal.github.io/MySketch",
   "mythbusters": "cname.vercel-dns.com", // noCF
   "myurl": "marvnet.github.io/myurl",
