@@ -374,7 +374,6 @@ var cnames_active = {
   "biggames": "jacobhumston.github.io/biggames.js",
   "bijou": "explosion-scratch.github.io/bijou.js",
   "bila": "xulytiengviet.github.io/bilascript",
-  "bimtex": "bimtex.pages.dev",
   "bin": "sujalgoel.github.io/impostor-bin",
   "bind-action-dispatchers": "cchamberlain.github.io/bind-action-dispatchers", // noCF? (don´t add this in a new PR)
   "bingo": "thewilloftheshadow.github.io/bingo.js",
@@ -1856,6 +1855,7 @@ var cnames_active = {
   "lete": "cname.vercel-dns.com", // noCF
   "lev": "lev-savranskiy.github.io",
   "level": "xv700.github.io/level",
+  "lexdays": "dogood-studio.github.io/legal-deadline-calculator", // noCF
   "lf": "lf112.github.io",
   "lgs": "lgsturkiye.github.io/lgs",
   "li": "mattsimmons1.github.io/li",
