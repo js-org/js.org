@@ -1406,6 +1406,7 @@ var cnames_active = {
   "gun-avatar": "defucc.github.io/gun-avatar", // noCF
   "gun-vue": "defucc.github.io/gun-vue", // noCF
   "guppy": "daniel3735928559.github.io/guppy",
+  "gurpreet": "gurpreet102.github.io",
   "gustwind": "gustwind.netlify.app",
   "guvercin": "guvercinjs.github.io",
   "gyps": "huijari.github.io/Gyps",
