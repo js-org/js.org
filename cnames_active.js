@@ -2862,7 +2862,7 @@ var cnames_active = {
   "reshift": "hasharray.github.io/reshift.js",
   "resilix": "lintdeveloper.github.io/resilix",
   "rest-client": "foxifyjs.github.io/rest-client",
-  "restay": "cname.vercel-dns.com",
+  "restay": "cname.vercel-dns.com", //noCF
   "restjs": "daviesgeek.github.io/restjs", // noCF? (don´t add this in a new PR)
   "restore-scroll": "restore-scroll.netlify.app",
   "resume": "xaoxuu.github.io/resume.js.org",
