@@ -1246,6 +1246,7 @@ var cnames_active = {
   "freegpt": "ashishagarwal2023.github.io/freegpt.js.org",
   "freemarker": "ijse.github.io/freemarker.js", // noCF? (don´t add this in a new PR)
   "freezer": "pakastin.github.io/freezer",
+  "frikibixbox": "EWNEC.github.io/frikibixbox",
   "frint": "frintjs.github.io/frint.js.org",
   "fritzbox": "lesander.github.io/fritzbox.js",
   "frontik": "fluxtech-me.github.io/frontik",
