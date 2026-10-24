@@ -448,6 +448,7 @@ var cnames_active = {
   "bs": "cname.vercel-dns.com", // noCF
   "bt": "mldonkey.github.io/bt",
   "bud": "roots-bud.netlify.app",
+  "bubble-time-pos": "ahana1019.github.io/bubble-time-pos-",
   "bui": "kjantzer.github.io/bui",
   "bullwinkle": "bullwinkle.github.io",
   "bun": "the94air.github.io/bun",
