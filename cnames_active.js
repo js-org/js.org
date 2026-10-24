@@ -3899,6 +3899,7 @@ var cnames_active = {
   "yuuka": "yuukajs.github.io/docs",
   "yuye": "cyea.github.io",
   "yvm": "tophat.github.io/yvm",
+  "zakat-mal": "codesbykhairannoor.github.io/zakat-mal",
   "zaporizhzhia": "zaporizhzhiajs.github.io",
   "zare": "ismailbinmujeeb.github.io/zare",
   "zed": "paul-browne.github.io/Zed-framework",
@@ -3931,7 +3932,7 @@ var cnames_active = {
   "zylog": "cname.vercel-dns.com", // noCF
   "zyx": "zyx.alwaysdata.net",
   "zyy": "zyyou.github.io/notes"
-  "zakat-mal": "codesbykhairannoor.github.io/zakat-mal",
+ 
 
   /*
    * please don't add your subdomain records down here!
