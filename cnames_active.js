@@ -2669,6 +2669,7 @@ var cnames_active = {
   "py-like": "ruben-arushanyan.github.io/py-like",
   "pytml": "nodex-ar.github.io/Pytml",
   "qbit": "fudan-mse.github.io/qbit",
+  "qr-drop": "universe-coder.github.io/qr-drop",
   "qredential": "george-veras.github.io/qredential",
   "qs": "kirjs.github.io/qs.js", // noCF? (don´t add this in a new PR)
   "quacky": "quacky-bot.github.io",
