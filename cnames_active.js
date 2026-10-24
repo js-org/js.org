@@ -3155,6 +3155,7 @@ var cnames_active = {
   "social-likes": "sapegin.github.io/social-likes", // noCF? (don´t add this in a new PR)
   "social-likes-next": "sapegin.github.io/social-likes-next", // noCF? (don´t add this in a new PR)
   "soda": "yieldray.github.io/soda",
+  "sol": "marcocyl04-ux.github.io/sol-beta",
   "solace": "cname.vercel-dns.com", // noCF
   "solara": "getsolarajs.github.io/solara-docs",
   "solder": "mcrocks999.github.io/solder.js",
