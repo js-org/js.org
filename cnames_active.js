@@ -3830,6 +3830,7 @@ var cnames_active = {
   "wordywordy": "sverweij.github.io/wordywordy",
   "workbee": "workbee.pages.dev",
   "workers": "worker-tools.github.io/workers.js.org",
+  "advanced-calculator": "void556.github.io/calculator",
   "worksnake": "worksnake.github.io",
   "worma": "alovajs.github.io/devtools",
   "wp-react": "farahmandm.github.io/wp-react",
