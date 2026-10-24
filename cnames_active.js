@@ -107,6 +107,7 @@ var cnames_active = {
   "adnanbabakan": "adnanbabakan.github.io",
   "adon988": "adon988.github.io",
   "adv": "advjs.github.io",
+  "advanced-calculator": "void556.github.io/calculator",
   "advancedrpc": "advancedrpc.github.io",
   "aerogel": "noeldemartin.github.io/aerogel",
   "aesthetic": "esthetic-docs.netlify.app",
