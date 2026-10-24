@@ -106,6 +106,7 @@ var cnames_active = {
   "adjskit": "devs-des1re.github.io/adjskit",
   "adnanbabakan": "adnanbabakan.github.io",
   "adon988": "adon988.github.io",
+  "advanced-calculator": "void556.github.io/calculator",
   "adv": "advjs.github.io",
   "advancedrpc": "advancedrpc.github.io",
   "aerogel": "noeldemartin.github.io/aerogel",
