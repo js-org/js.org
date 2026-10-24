@@ -380,6 +380,7 @@ var cnames_active = {
   "bingsu": "bingsu-js.gitlab.io",
   "bingus": "bingusjs.github.io",
   "bini": "binidu01.github.io/bini",
+  "biohyn": "biokyn.github.io"
   "bip39-recast": "imcotton.github.io/at-key-bip39-recast", // noCF
   "birb": "birbjs.github.io/Documentation",
   "biscord": "vinzerr.github.io/biscord-website",
