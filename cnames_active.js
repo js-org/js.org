@@ -457,7 +457,7 @@ var cnames_active = {
   "bunyan-fork": "cchamberlain.github.io/bunyan-fork", // noCF? (don´t add this in a new PR)
   "bunyan-pmx": "cchamberlain.github.io/bunyan-pmx", // noCF? (don´t add this in a new PR)
   "bunyan-serializer": "cchamberlain.github.io/bunyan-serializer", // noCF? (don´t add this in a new PR)
-  "buro-agri": "ashfaqminhaz.github.io/buro-agri", // My site is an e-commerce platform for agricultural products, showcasing organic fruits and vegetables to the JavaScript developers community
+  "buro-agri": "ashfaqminhaz.github.io/buro-agri", 
   "burst": "hugeen.github.io/burst", // noCF? (don´t add this in a new PR)
   "bustime": "agarzola.github.io/bustime", // noCF? (don´t add this in a new PR)
   "butterfly": "cname.vercel-dns.com", // noCF
