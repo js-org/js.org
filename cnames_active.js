@@ -3478,7 +3478,7 @@ var cnames_active = {
   "tori": "boostcode.github.io/torijs",
   "torlondev": "torlondev.github.io",
   "torpedo": "divysrivastava.github.io/torpedo.js",
-  "tra": "openinsightdev.github.io/trajs",
+  "tra": "trajs-ai.github.io/trajs",
   "trace": "andreasmadsen.github.io/trace",
   "trackymouse": "1j01.github.io/tracky-mouse",
   "trakas": "trakas.github.io",
@@ -3878,6 +3878,7 @@ var cnames_active = {
   "yamdbf": "zajrik.github.io/yamdbf",
   "yan": "yvesyc.github.io/yan-js-org",
   "yana": "lukasbach.github.io/yana-homepage",
+  "yapin": "yapin-js.github.io/yapinjs",
   "yargs": "yargs.github.io", // noCF? (don´t add this in a new PR)
   "yatta": "cname.vercel-dns.com", // noCF
   "yay-machine": "maurice.github.io/yay-machine",
