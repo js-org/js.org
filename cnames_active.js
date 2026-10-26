@@ -1439,7 +1439,7 @@ var cnames_active = {
   "hasura-om": "mrspartak.github.io/hasura-om",
   "hawiah": "cname.vercel-dns.com", // noCF
   "hay": "hayjs.github.io/hay.js.org",
-  "hayek": "anases.github.io/hayek"
+  "hayek": "anases.github.io/hayek",
   "hbase": "adaltas.github.io/node-hbase-docs",
   "hcs": "kimcore.github.io/hcs.js", // noCF
   "head": "head-js.github.io",
