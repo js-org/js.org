@@ -380,7 +380,6 @@ var cnames_active = {
   "bingsu": "bingsu-js.gitlab.io",
   "bingus": "bingusjs.github.io",
   "bini": "binidu01.github.io/bini",
-  "biokyn": "biokyn.github.io",
   "bip39-recast": "imcotton.github.io/at-key-bip39-recast", // noCF
   "birb": "birbjs.github.io/Documentation",
   "biscord": "vinzerr.github.io/biscord-website",
@@ -1710,6 +1709,7 @@ var cnames_active = {
   "justin-schroeder": "justin-schroeder.github.io",
   "juzgados": "mteyss.github.io/juzgados",
   "jwc": "jwcjs.github.io/docs",
+  "jwjawa": "cmdjwj.github.io",
   "jwt-autorefresh": "cchamberlain.github.io/jwt-autorefresh", // noCF? (don´t add this in a new PR)
   "jwtonline": "boneyt92.github.io/jwtonline",
   "jz": "dy.github.io/jz",
@@ -3477,7 +3477,7 @@ var cnames_active = {
   "tori": "boostcode.github.io/torijs",
   "torlondev": "torlondev.github.io",
   "torpedo": "divysrivastava.github.io/torpedo.js",
-  "tra": "trajs-ai.github.io/trajs",
+  "tra": "openinsightdev.github.io/trajs",
   "trace": "andreasmadsen.github.io/trace",
   "trackymouse": "1j01.github.io/tracky-mouse",
   "trakas": "trakas.github.io",
@@ -3877,7 +3877,6 @@ var cnames_active = {
   "yamdbf": "zajrik.github.io/yamdbf",
   "yan": "yvesyc.github.io/yan-js-org",
   "yana": "lukasbach.github.io/yana-homepage",
-  "yapin": "yapin-js.github.io/yapinjs",
   "yargs": "yargs.github.io", // noCF? (don´t add this in a new PR)
   "yatta": "cname.vercel-dns.com", // noCF
   "yay-machine": "maurice.github.io/yay-machine",
@@ -3941,3 +3940,4 @@ var cnames_active = {
    * <3
    */
 }
+  "aktmediaproductions": "aktmediaofficial.github.io/aktmediaproductions",
