@@ -2468,6 +2468,7 @@ var cnames_active = {
   "pagination": "superraytin.github.io/paginationjs-site", // noCF
   "pagination-djs": "imranbarbhuiya.github.io/pagination.djs",
   "paint": "christianliebel.github.io/paint",
+  "paintet": "karamalsopeh.is-a.bot",
   "pairings": "davebc.github.io/pairings",
   "palette": "pakastin.github.io/palette",
   "pam": "pambot.netlify.app",
@@ -3942,4 +3943,3 @@ var cnames_active = {
    * <3
    */
 }
-"paintet": "karamalsopeh-netizen.github.io/paintet",
