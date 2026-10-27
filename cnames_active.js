@@ -3789,6 +3789,7 @@ var cnames_active = {
   "webpack-stats": "v-webpack.netlify.app",
   "webpeer": "nuzulul.github.io/webpeerjs",
   "websheet": "pierreavn.github.io/websheetjs",
+  "webtionary": "oblivious-code.github.io/Word-Webtionary.io",
   "webview": "cname.vercel-dns.com", // noCF
   "wechatpay": "thenorthmemory.github.io/wechatpay.js.org",
   "wechaty": "wechaty-js-org.pages.dev",
