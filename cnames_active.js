@@ -2585,6 +2585,7 @@ var cnames_active = {
   "poke": "gregjw.github.io/poke",
   "polen": "the-guild-org.github.io/polen",
   "polished": "styled-components.github.io/polished",
+  "politimap": "coprivacy.github.io/politimap",
   "polix": "polix.netlify.app",
   "polkadot": "polkadot-js.github.io",
   "polona": "huxinfeng.github.io/polona",
