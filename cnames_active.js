@@ -3726,6 +3726,7 @@ var cnames_active = {
   "vue-diagrams": "gwenaelp.github.io/vue-diagrams",
   "vue-eagleeye": "webkrafters.github.io/vue-eagleeye",
   "vue-goodshare": "koddr.github.io/vue-goodshare",
+  "vue-llm": "dadashi44.github.io/vue-llm",
   "vue-magnifier": "websitebeaver.github.io/vue-magnifier",
   "vue-mdc": "na-west1.surge.sh",
   "vue-minesweeper": "disjfa.github.io/vue-minesweeper",
