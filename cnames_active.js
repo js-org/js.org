@@ -2052,7 +2052,7 @@ var cnames_active = {
   "mdsvr": "satoshiman.github.io/mdsvr",
   "mdxe": "cname.vercel-dns.com", // noCF
   "mechan": "dusterthefirst.github.io/mechan.js",
-  "medal-clips": "stirring-gelato-c92e64.netlify.app",
+  "medal": "stirring-gelato-c92e64.netlify.app",
   "medan": "medan-js.github.io", // noCF
   "media": "tobiasthaden.github.io/media.js",
   "media-style-palette": "rikakomoe.github.io/Media-Style-Palette",
