@@ -2279,6 +2279,7 @@ var cnames_active = {
   "newcar": "newcar-docs.netlify.app",
   "newton": "caracal7.github.io/newton.js",
   "nexbase-core": "petrunov.github.io/nexbase-core",
+  "nexfep": "nexfteam.github.io/Nexfep",
   "next": "zeit.github.io/next-site",
   "next-admin": "cname.vercel-dns.com", // noCF
   "next-auth": "alias.zeit.co", // noCF
@@ -2313,6 +2314,7 @@ var cnames_active = {
   "nima": "nimaw.github.io",
   "ninh": "reeganexe.github.io/ninh",
   "nintenbot": "nintenzone.github.io/NintenBot",
+  "niobe": "simmo.github.io/niobe",
   "niplayer": "niyuancheng.github.io/NiPlayerDocs",
   "nite": "manvalls.github.io/nite",
   "nitrate": "ranjithrd.github.io/nitrate",
