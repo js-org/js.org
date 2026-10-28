@@ -3062,6 +3062,7 @@ var cnames_active = {
   "shex": "shexjs.github.io/shex.js",
   "shieldx": "cname.vercel-dns.com", // noCF
   "shift": "shift-wasm.pages.dev",
+  "shift-tracker": "multipros.github.io/shift-tracker",
   "shikwasa": "jessuni.github.io/shikwasa",
   "shilong": "echoheim.github.io/shilong",
   "shine": "shinenelson.github.io/shine.js.org",
