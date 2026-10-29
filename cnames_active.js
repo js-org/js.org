@@ -744,7 +744,6 @@ var cnames_active = {
   "cyrena": "cyrenajs.github.io/cyrena",
   "cyris": "icyris.github.io",
   "d-patterns": "alias.zeit.co", // noCF
-  "donut": "donut-6cps.onrender.com",
   "d4": "joelburget.github.io/d4",
   "daily.tmr": "tmr-daily.netlify.app", // noCF
   "daisy": "warengonzaga.github.io/daisy.js",
@@ -935,6 +934,7 @@ var cnames_active = {
   "dogstack": "dogstack.gitbooks.io", // noCF
   "dokdo": "wonderlandpark.github.io/dokdo",
   "dolan": "cname.vercel-dns.com", // noCF
+  "donut": "donut-6cps.onrender.com",
   "dollar": "defims.github.io/dollar",
   "dolphin": "uyouthe.github.io/dolphin",
   "domainr": "cname.vercel-dns.com", // noCF
