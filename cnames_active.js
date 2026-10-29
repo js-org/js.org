@@ -2238,6 +2238,7 @@ var cnames_active = {
   "mzplayer": "prince3661.github.io/Mzplayer",
   "n": "cyb.github.io/n",
   "nacl-check": "magnusmarx.github.io/NaCL",
+  "naizo": "nickosh.github.io/naizo",
   "naja": "naja-js.github.io/naja",
   "namaste": "namaste-duniya.github.io/js",
   "namelessman": "namelessman.github.io",
