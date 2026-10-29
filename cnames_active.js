@@ -1479,6 +1479,7 @@ var cnames_active = {
   "hmsscioly": "scioly.netlify.app",
   "hnxml": "modern-school.github.io/hnxml",
   "hoa": "thehoa.github.io",
+  "hoangphuc": "pluns18.github.io/hoangphuc",
   "hoast": "hoast.github.io/hoast",
   "hois": "hoisw.github.io",
   "holidaycss": "evgenyorekhov.github.io/holiday.css",
