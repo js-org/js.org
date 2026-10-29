@@ -934,7 +934,6 @@ var cnames_active = {
   "dogstack": "dogstack.gitbooks.io", // noCF
   "dokdo": "wonderlandpark.github.io/dokdo",
   "dolan": "cname.vercel-dns.com", // noCF
-  "donut": "donut-6cps.onrender.com",
   "dollar": "defims.github.io/dollar",
   "dolphin": "uyouthe.github.io/dolphin",
   "domainr": "cname.vercel-dns.com", // noCF
@@ -945,6 +944,7 @@ var cnames_active = {
   "domx": "linttrapmedia.github.io/domx",
   "domxy": "domxy.github.io/domxy",
   "donavon": "donavon.github.io", // noCF? (don´t add this in a new PR)
+  "donut": "donut-6cps.onrender.com",
   "doom": "alauda.github.io/doom",
   "dope": "fouad.github.io/dope", // noCF? (don´t add this in a new PR)
   "dot-microservices": "dot-microservices.github.io/dot",
