@@ -2315,6 +2315,7 @@ var cnames_active = {
   "nima": "nimaw.github.io",
   "ninh": "reeganexe.github.io/ninh",
   "nintenbot": "nintenzone.github.io/NintenBot",
+  "niobe": "simmo.github.io/niobe",
   "niplayer": "niyuancheng.github.io/NiPlayerDocs",
   "nite": "manvalls.github.io/nite",
   "nitrate": "ranjithrd.github.io/nitrate",
@@ -2699,6 +2700,7 @@ var cnames_active = {
   "quizmaster": "mechtester.github.io/quizmaster",
   "quotobot": "team-gigabyte.github.io/quotobot",
   "r": "r-js.github.io",
+  "raccourci": "fieu.github.io/raccourci",
   "ractive": "ractivejs.github.io",
   "rad": "rapid-application-development-js.github.io/RAD.JS", // noCF? (don´t add this in a new PR)
   "radashi": "radashi-org.github.io",
@@ -3728,6 +3730,7 @@ var cnames_active = {
   "vue-diagrams": "gwenaelp.github.io/vue-diagrams",
   "vue-eagleeye": "webkrafters.github.io/vue-eagleeye",
   "vue-goodshare": "koddr.github.io/vue-goodshare",
+  "vue-llm": "dadashi44.github.io/vue-llm",
   "vue-magnifier": "websitebeaver.github.io/vue-magnifier",
   "vue-mdc": "na-west1.surge.sh",
   "vue-minesweeper": "disjfa.github.io/vue-minesweeper",
