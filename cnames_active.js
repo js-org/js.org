@@ -1024,7 +1024,7 @@ var cnames_active = {
   "eiyuu": "sinkaroid.github.io/eiyuu",
   "ejir": "ejir.github.io",
   "ekscss": "maxmilton.github.io/ekscss",
-  "ekatmoz88": "cname.vercel-dns.com",
+      "ekatmoz88": "cname.vercel-dns.com",
   "elastic-builder": "sudo-suhas.github.io/elastic-builder",
   "elasticmagic": "kindritskyimax.github.io/elasticmagic-js",
   "electron-react-boilerplate": "electron-react-boilerplate.github.io/site",
