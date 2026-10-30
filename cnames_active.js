@@ -80,6 +80,7 @@ var cnames_active = {
   "abhishekmittal": "abhishek-mittal.github.io/abhishekmittal",
   "abi": "abi-js.github.io",
   "abialbon": "abialbon.github.io",
+  "about": "about-blank-dd5.github.io",
   "abra": "abracadabra-demo.pages.dev",
   "abracadabra": "doc-cgg.pages.dev",
   "aby": "icoldplayer.github.io/aby",
