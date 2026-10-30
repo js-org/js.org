@@ -743,9 +743,10 @@ var cnames_active = {
   "cypresscameroon": "cypress-cameroon.github.io",
   "cyrena": "cyrenajs.github.io/cyrena",
   "cyris": "icyris.github.io",
-  "d-patterns": "alias.zeit.co", // noCF
+  "d-patterns": "alias.zeit.co", 
   "d4": "joelburget.github.io/d4",
   "daily.tmr": "tmr-daily.netlify.app", // noCF
+  "digitalexplorer": "ahmedkhaledabdulhafeez-svg.github.io/digitalexplorercenter",
   "daisy": "warengonzaga.github.io/daisy.js",
   "daksh0225": "daksh0225.github.io",
   "damo": "damodharanj.github.io",
