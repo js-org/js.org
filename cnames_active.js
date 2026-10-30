@@ -3745,6 +3745,7 @@ var cnames_active = {
   "vue-svg-loader": "vue-svg-loader.netlify.app",
   "vue-tiny-validate": "vue-tiny-validate.netlify.app",
   "vue-treeselect": "riophae.github.io/vue-treeselect",
+  "vue-why-render": "dadashi44.github.io/vue-why-render",
   "vuejsindy": "vuejsindy.github.io",
   "vuelidate": "vuelidate.netlify.app",
   "vuelog": "myst729.github.io/Vuelog",
