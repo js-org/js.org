@@ -2102,11 +2102,11 @@ var cnames_active = {
   "milesgitgud": "milesgitgud.github.io/homepage",
   "militia": "militia21.github.io/militia",
   "million": "cname.vercel-dns.com", // noCF
-  	"mimeo": "mimeojs.github.io",
-	"mimic": "500tech.github.io/mimic",
-	"mina": "centuryuna.github.io/mina",
-	"minasshop": "tanstack-start-ts.minasshop.workers.dev",
-  "minesweeper": "derflatulator.github.io/minesweeper",
+  "mimeo": "mimeojs.github.io",
+  "mimic": "500tech.github.io/mimic",
+  "mina": "centuryuna.github.io/mina",
+  "minasshop": "tanstack-start-ts.minasshop.workers.dev",
+  "mindyourtime": "michaloslav.github.io/Mind-Your-Time",
   "mingyi": "liangmingyi.github.io", // noCF? (don´t add this in a new PR)
   "minich": "anventech.github.io/minich-docs",
   "minidrone": "mechazawa.github.io/minidrone-js",
