@@ -1216,6 +1216,7 @@ var cnames_active = {
   "fnbr": "fnbrjs.github.io/docs",
   "foca": "foca-js.github.io/foca",
   "focusoverlay": "mmahandev.github.io/FocusOverlay",
+  "focusly": "daviixs.github.io/foucusly",
   "fontdragr": "ryanseddon.github.io/font-dragr",
   "food": "russellsteadman.github.io/foodweb",
   "foolhtml": "itsayush1704.github.io/foolhtml",
