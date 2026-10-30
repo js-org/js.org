@@ -2566,6 +2566,7 @@ var cnames_active = {
   "pixelart": "meriadec.github.io/PixelartJS", // noCF? (don´t add this in a new PR)
   "pixiv": "pixiv.js.org.pages.dnsoe5.com", // noCF
   "pixpact": "legendsayantan.github.io/pixpact",
+  "pixtale": "cname.vercel-dns.com", // noCF
   "pizzle": "pizzlejs.github.io",
   "plain-blog": "weareoutman.github.io/plain-blog",
   "plait": "wildlyinaccurate.github.io/plait",
@@ -3940,8 +3941,7 @@ var cnames_active = {
   "zykj": "cname.vercel-dns.com", // noCF
   "zylog": "cname.vercel-dns.com", // noCF
   "zyx": "zyx.alwaysdata.net",
-  "zyy": "zyyou.github.io/notes",
-  "pixtale": "pixtale.vercel.app"
+  "zyy": "zyyou.github.io/notes"
   /*
    * please don't add your subdomain records down here!
    * insert them in alphabetical order to help reduce merge conflicts.
