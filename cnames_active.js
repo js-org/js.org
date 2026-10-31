@@ -2253,6 +2253,7 @@ var cnames_active = {
   "naseem": "naseemali925.github.io/about-me",
   "nashi": "cname.vercel-dns.com", // noCF
   "nastya-piu": "nastya-piu.github.io",
+  "nsccomputers": "hnsc482.github.io/nsccomputers",
   "nativeflow": "nativeflowteam.github.io/documentation",
   "nativemodels": "prefinem.github.io/nativemodels",
   "naughtychecker": "gautamkrishnar.github.io/naughtychecker.js",
@@ -2384,7 +2385,6 @@ var cnames_active = {
   "nyax": "springnyan.github.io/nyax",
   "nyc": "nycjsorg.github.io/nyc",
   "nyr": "suriyaakudoisc.github.io/NYR",
-  "nsccomputers": "hnsc482.github.io/nsccomputers",
   "oak": "donn.github.io/Oak.js",
   "obfuscate": "complifyjs.pages.dev",
   "object-gui": "matteobruni.github.io/object-gui",
