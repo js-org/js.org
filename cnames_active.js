@@ -170,6 +170,7 @@ var cnames_active = {
   "all-contributors": "all-contributors-js-org.netlify.app",
   "almeida": "almeidx.github.io",
   "almin": "almin.github.io",
+  "alopal-ai": "lord-999999.github.io",
   "alova": "alovajs.github.io",
   "alpha-coders": "biologyscience.github.io/alpha-coders",
   "alphabetify": "davidpomerenke.github.io/alphabetify",
