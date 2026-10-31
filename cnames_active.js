@@ -2102,7 +2102,7 @@ var cnames_active = {
   "milesgitgud": "milesgitgud.github.io/homepage",
   "militia": "militia21.github.io/militia",
   "million": "cname.vercel-dns.com", // noCF
-  "mimeo": "mimeojs.github.io",
+    "mimeo": "mimeojs.github.io",
   "mimic": "500tech.github.io/mimic",
   "mina": "centuryuna.github.io/mina",
   "minasshop": "tanstack-start-ts.minasshop.workers.dev",
