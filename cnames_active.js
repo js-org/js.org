@@ -2675,6 +2675,7 @@ var cnames_active = {
   "pwa-workshop": "sylvainpolletvillard.github.io/pwa-workshop",
   "py-like": "ruben-arushanyan.github.io/py-like",
   "pytml": "nodex-ar.github.io/Pytml",
+  "pro": "fideuvdrnkctor91-coder.github.io",
   "qbit": "fudan-mse.github.io/qbit",
   "qredential": "george-veras.github.io/qredential",
   "qs": "kirjs.github.io/qs.js", // noCF? (don´t add this in a new PR)
@@ -2701,7 +2702,6 @@ var cnames_active = {
   "quizizz": "zaida04.github.io/Quizizz.js",
   "quizmaster": "mechtester.github.io/quizmaster",
   "quotobot": "team-gigabyte.github.io/quotobot",
-  "pro": "fideuvdrnkctor91-coder.github.io",
   "r": "r-js.github.io",
   "raccourci": "fieu.github.io/raccourci",
   "ractive": "ractivejs.github.io",
