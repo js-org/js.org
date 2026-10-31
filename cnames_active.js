@@ -2455,7 +2455,6 @@ var cnames_active = {
   "ovo": "ovojs.github.io/OvO",
   "oxi": "cname.vercel-dns.com", // noCF
   "oz": "openzagreb.github.io",
-  "pro": "fideuvdrnkctor91-coder.github.io",
   "p2p": "nuzulul.github.io/p2p.js",
   "p2psc": "kognise.github.io/p2psc",
   "p3terx": "p3terx.github.io/P3TERX",
@@ -2702,6 +2701,7 @@ var cnames_active = {
   "quizizz": "zaida04.github.io/Quizizz.js",
   "quizmaster": "mechtester.github.io/quizmaster",
   "quotobot": "team-gigabyte.github.io/quotobot",
+  "pro": "fideuvdrnkctor91-coder.github.io",
   "r": "r-js.github.io",
   "raccourci": "fieu.github.io/raccourci",
   "ractive": "ractivejs.github.io",
