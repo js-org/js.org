@@ -3885,7 +3885,7 @@ var cnames_active = {
   "yamdbf": "zajrik.github.io/yamdbf",
   "yan": "yvesyc.github.io/yan-js-org",
   "yana": "lukasbach.github.io/yana-homepage",
-  "yaoyao": "yaoyaoisreal.github.io",
+  "yaoyaoisreal": "yaoyaoisreal189.github.io",
   "yapin": "yapin-js.github.io/yapinjs",
   "yargs": "yargs.github.io", // noCF? (don´t add this in a new PR)
   "yatta": "cname.vercel-dns.com", // noCF
