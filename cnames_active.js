@@ -3186,6 +3186,7 @@ var cnames_active = {
   "spaas": "pakastin.github.io/spaas",
   "space": "pschroen.github.io/space.js",
   "spacebot": "spacebot2.github.io",
+  "spacejunk": "yf52vmhvs5-coder.github.io/spacejunk",
   "spark": "hammerheadstudios.github.io/SparkCode",
   "spark-handler": "cname.vercel-dns.com", // noCF
   "sparkle-ripple": "yuyake-litrain.github.io/sparkle-ripple-web",
