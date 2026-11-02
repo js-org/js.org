@@ -3163,6 +3163,7 @@ var cnames_active = {
   "social-likes": "sapegin.github.io/social-likes", // noCF? (don´t add this in a new PR)
   "social-likes-next": "sapegin.github.io/social-likes-next", // noCF? (don´t add this in a new PR)
   "soda": "yieldray.github.io/soda",
+  "software-setup": "cname.vercel-dns.com", // noCF
   "solace": "cname.vercel-dns.com", // noCF
   "solara": "getsolarajs.github.io/solara-docs",
   "solder": "mcrocks999.github.io/solder.js",
@@ -3361,7 +3362,6 @@ var cnames_active = {
   "syr": "dmikey.github.io/syr",
   "sys1grep": "uehaj.github.io/sys1grep",
   "system-monitoring": "miladezzat.github.io/system-monitoring",
-  "software-setup": "software-setup.vercel.app",
   "t": "l-js.mydevapp.tfuture.eu.org", // noCF
   "tab": "gdmcc.github.io/tab",
   "tabs": "mehrizi.github.io/tabs",
