@@ -671,6 +671,7 @@ var cnames_active = {
   "coreutils": "ultirequiem.github.io/coreutils",
   "cork": "davej.github.io/CorkJS",
   "corki": "dvtate.github.io/corki",
+  "cormi": "cormijs.github.io/cormi",
   "corona": "soroushchehresa.github.io/awesome-coronavirus",
   "corps": "copay.github.io",
   "cosmos": "cosmos-xyz.github.io/cosmos",
