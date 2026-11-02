@@ -918,6 +918,7 @@ var cnames_active = {
   "doclang": "mohamed-shahal.github.io/DocLang",
   "docs.astro-reactive": "astro-reactive-docs.netlify.app", // noCF
   "docs.guildedts": "guildedts.github.io/docs", // noCF
+  "docstudiopro": "alldocument-reader.pages.dev",
   "docs.light": "hosting.gitbook.com", // noCF
   "docs.modmail": "botstudios.github.io/modmail.js-docs", // noCF
   "docs.mosaic": "hosting.gitbook.io", // noCF
