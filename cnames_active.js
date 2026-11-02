@@ -1142,13 +1142,13 @@ var cnames_active = {
   "fairy": "fairymeee.github.io",
   "fakeyouapi": "ftk789.github.io/FakeYouAPI.js",
   "fakeyouts": "jack3898.github.io/fakeyou.ts",
+  "falheim": "cname.vercel-dns.com", // noCF
   "fallr": "faisalman.github.io/fallr-js",
   "fanbook-api-sdk": "fanbook-api-node-sdk.netlify.app",
   "fanbook-mp-sdk": "fanbook-mp-sdk.netlify.app",
   "fancy-pants": "fancy-pants.tritarget.org",
   "fandom": "fandomjs.netlify.app", // noCF
   "fantas": "fantastiser.github.io",
-  "falheim": "cname.vercel-dns.com", // noCF
   "farfetch": "websitebeaver.github.io/far-fetch",
   "farfetchd": "achannarasappa.github.io/farfetchd", // noCF? (don´t add this in a new PR)
   "farzad": "wikiweb.github.io/farzad",
