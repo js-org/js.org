@@ -482,6 +482,7 @@ var cnames_active = {
   "caizhiyuannn": "caizhiyuannn.github.io",
   "calcium": "courageous-bublanina-6857c1.netlify.app",
   "calcy": "odevlord.github.io/Calcy", // noCF? (don´t add this in a new PR)
+  "calendarfactory": "damiandream.github.io/calendarfactory",
   "camelcase": "ultirequiem.github.io/camelcase",
   "campfire": "xyzshantaram.github.io/campfire",
   "candy": "candy02058912.github.io/portfolio",
