@@ -1701,6 +1701,7 @@ var cnames_active = {
   "jsonui": "yourtion.github.io/vue-json-ui-editor",
   "jsonuri": "aligay.github.io/jsonuri",
   "jsp": "hiren2001.github.io/jsp",
+  "jsplayground": "javascript-playground-app.netlify.app",
   "jspt": "levkris.github.io/jspt",
   "jssc": "justdevw.github.io/JSSC", // noCF
   "jstyle": "lxhom.github.io/jstyle", // noCF
