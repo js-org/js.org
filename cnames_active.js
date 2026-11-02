@@ -1701,6 +1701,7 @@ var cnames_active = {
   "jsonui": "yourtion.github.io/vue-json-ui-editor",
   "jsonuri": "aligay.github.io/jsonuri",
   "jsp": "hiren2001.github.io/jsp",
+  "jsplayground": "javascript-playground-app.netlify.app",  
   "jspt": "levkris.github.io/jspt",
   "jssc": "justdevw.github.io/JSSC", // noCF
   "jstyle": "lxhom.github.io/jstyle", // noCF
@@ -2579,7 +2580,6 @@ var cnames_active = {
   "platz": "fylipp.github.io/platz.js",
   "play.akash": "hish.github.io/akashjs-playground", // noCF
   "player": "player.netlify.app",
-  "jsplayground": "javascript-playground-app.netlify.app",
   "playjs": "hunghg255.github.io/playjs",
   "pliers": "pliersjs.github.io", // noCF? (don´t add this in a new PR)
   "plotyxd": "plotyxd.github.io",
