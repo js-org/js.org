@@ -82,6 +82,7 @@ var cnames_active = {
   "abialbon": "abialbon.github.io",
   "abra": "abracadabra-demo.pages.dev",
   "abracadabra": "doc-cgg.pages.dev",
+  "abusive": "kikobeats.github.io/abusive",
   "aby": "icoldplayer.github.io/aby",
   "ac": "alauda.github.io/alauda-chart",
   "accent": "sripkunda.github.io/accent",
@@ -671,6 +672,7 @@ var cnames_active = {
   "coreutils": "ultirequiem.github.io/coreutils",
   "cork": "davej.github.io/CorkJS",
   "corki": "dvtate.github.io/corki",
+  "cormi": "cormijs.github.io/cormi",
   "corona": "soroushchehresa.github.io/awesome-coronavirus",
   "corps": "copay.github.io",
   "cosmos": "cosmos-xyz.github.io/cosmos",
@@ -3120,6 +3122,7 @@ var cnames_active = {
   "sitelo": "paul-browne.github.io/sitelo",
   "sjpm": "toggledtech.github.io/SJPM",
   "sjy": "cname.vercel-dns.com", // noCF
+  "skein": "skein-js.github.io/skein-js",
   "skeld": "skeldjs.github.io/SkeldJS",
   "skeptical-coder": "rbpinheiro.github.io/skeptical-coder",
   "sketch": "keiww.github.io/sketch",
