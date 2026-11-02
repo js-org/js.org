@@ -3119,6 +3119,7 @@ var cnames_active = {
   "sitelo": "paul-browne.github.io/sitelo",
   "sjpm": "toggledtech.github.io/SJPM",
   "sjy": "cname.vercel-dns.com", // noCF
+  "skein": "skein-js.github.io/skein-js",
   "skeld": "skeldjs.github.io/SkeldJS",
   "skeptical-coder": "rbpinheiro.github.io/skeptical-coder",
   "sketch": "keiww.github.io/sketch",
