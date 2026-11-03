@@ -1867,6 +1867,7 @@ var cnames_active = {
   "li": "mattsimmons1.github.io/li",
   "libcord": "tovade.github.io/libcord",
   "libcurl": "libcurl.pages.dev",
+  "liberaui": "gioelevalori.github.io/liberaui",
   "libh": "ihasq.github.io/libh",
   "libphonenumbers": "libphonenumbers.github.io",
   "license-cop": "tobysmith568.github.io/license-cop",
