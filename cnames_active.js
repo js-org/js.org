@@ -3145,6 +3145,7 @@ var cnames_active = {
   "slim": "eavichay.github.io/slim.js",
   "slinky": "alizahid.github.io/slinky",
   "slyde": "tygo-van-den-hurk.github.io/Slyde",
+  "smartbanner-tsx": "madiyar.github.io/smartbanner-tsx",
   "smartquotes": "kellym.github.io/smartquotes.js",
   "smiley": "smiley422.github.io",
   "smoke": "hxgf.github.io/smoke",
