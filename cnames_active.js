@@ -3121,6 +3121,7 @@ var cnames_active = {
   "sirkit": "seckwei.github.io/SirKit_CircuitSim", // noCF? (don´t add this in a new PR)
   "sissi": "sissijs.github.io/sissi",
   "sitelo": "paul-browne.github.io/sitelo",
+  "sixthmath": "choihun1000.github.io",
   "sjpm": "toggledtech.github.io/SJPM",
   "sjy": "cname.vercel-dns.com", // noCF
   "skein": "skein-js.github.io/skein-js",
