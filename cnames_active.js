@@ -2998,6 +2998,7 @@ var cnames_active = {
   "schematex": "cname.vercel-dns.com", // noCF
   "schemy": "aeberdinelli.github.io/schemy",
   "schiva": "jesus-seijas-sp.github.io/schiva",
+  "scholarboard": "brianonchwari.github.io",
   "scopes": "kelleyvanevert.github.io/scopes",
   "scramb": "jastinxyz.github.io/scramb",
   "scramble": "ignatiusmb.github.io/scramble",
