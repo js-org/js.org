@@ -1360,7 +1360,6 @@ var cnames_active = {
   "govind": "emgk.github.io",
   "gr": "cname.vercel-dns.com", // noCF
   "grab": "cname.vercel-dns.com", // noCF
-  "grandtheft2browser": "Textton.github.io/gta2-browser",
   "gracile": "gracile.netlify.app",
   "graffle": "jasonkuhrt.github.io/graphql-request",
   "gram": "gram-js.github.io/docs",
