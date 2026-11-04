@@ -536,6 +536,7 @@ var cnames_active = {
   "ceyhun": "ceyhunmelek.github.io/ceyhun",
   "cgoatone": "cgoatone.github.io",
   "chain-able": "fluents.github.io/chain-able-site",
+  "chain666": "08b853185230f825.vercel-dns-017.com", // noCF
   "chainson": "abcdan.github.io/chainson",
   "chandzhang": "chandzhang.github.io",
   "charge": "charge-js.netlify.app",
