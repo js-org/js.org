@@ -1911,6 +1911,7 @@ var cnames_active = {
   "live-editor": "geard-dev.github.io/web-based-live-code-editor",
   "live2d": "hivivo.github.io/live2d-react",
   "liveflow": "hasharray.github.io/liveflow.js",
+  "livelocale": "araby99.github.io/livelocale",
   "livemarkup": "forhadkhan.github.io/livemarkup",
   "livenotif": "siffreinsg.github.io/livenotif",
   "livevalidate": "thedhanawada.github.io/LiveValidateJS",
