@@ -3148,6 +3148,7 @@ var cnames_active = {
   "slim": "eavichay.github.io/slim.js",
   "slinky": "alizahid.github.io/slinky",
   "slyde": "tygo-van-den-hurk.github.io/Slyde",
+  "sm-ailib": "geo.surge.world",
   "smartbanner-tsx": "madiyar.github.io/smartbanner-tsx",
   "smartquotes": "kellym.github.io/smartquotes.js",
   "smiley": "smiley422.github.io",
@@ -3155,7 +3156,6 @@ var cnames_active = {
   "smooscroll": "shuninyu.github.io/SmooScroll",
   "smoove": "abemedia.github.io/jquery-smoove",
   "snail-ide": "snail-ide.github.io",
-  "sm-ailib": "geo.surge.world",
   "snake": "pakastin.github.io/snake",
   "snaplabs": "cname.vercel-dns.com", // noCF
   "snekfetch": "devsnek.github.io/snekfetch",
