@@ -2313,6 +2313,7 @@ var cnames_active = {
   "ngn": "nodengn.github.io/NGN", // noCF? (don´t add this in a new PR)
   "ngspice": "42ua.github.io/ngspice.js",
   "ni": "js-ni.github.io/ni",
+  "nibm-schedule": "https://dharshikan-1407.github.io/NIBM-LIVE-SCHEDULE--MAKEOVER-/",
   "nic": "nic.github.io",
   "nice": "gcsboss.github.io/nice",
   "nicetix": "indus.github.io/nicetix",
@@ -2389,7 +2390,6 @@ var cnames_active = {
   "nyax": "springnyan.github.io/nyax",
   "nyc": "nycjsorg.github.io/nyc",
   "nyr": "suriyaakudoisc.github.io/NYR",
-  "nibmschedule": "https://dharshikan-1407.github.io/NIBM-LIVE-SCHEDULE--MAKEOVER-/",
   "oak": "donn.github.io/Oak.js",
   "obfuscate": "complifyjs.pages.dev",
   "object-gui": "matteobruni.github.io/object-gui",
