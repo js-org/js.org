@@ -3154,8 +3154,8 @@ var cnames_active = {
   "smoke": "hxgf.github.io/smoke",
   "smooscroll": "shuninyu.github.io/SmooScroll",
   "smoove": "abemedia.github.io/jquery-smoove",
-  "sm-ailib": "geo.surge.world",
   "snail-ide": "snail-ide.github.io",
+  "sm-ailib": "geo.surge.world",
   "snake": "pakastin.github.io/snake",
   "snaplabs": "cname.vercel-dns.com", // noCF
   "snekfetch": "devsnek.github.io/snekfetch",
