@@ -1,5 +1,5 @@
 /*
- ***** ACTIVE SUBDOMAINS 
+ ***** ACTIVE SUBDOMAINS
  * ***********************
  *
  * for the moment the following subdomains are active
@@ -82,6 +82,7 @@ var cnames_active = {
   "abialbon": "abialbon.github.io",
   "abra": "abracadabra-demo.pages.dev",
   "abracadabra": "doc-cgg.pages.dev",
+  "abusive": "kikobeats.github.io/abusive",
   "aby": "icoldplayer.github.io/aby",
   "ac": "alauda.github.io/alauda-chart",
   "accent": "sripkunda.github.io/accent",
@@ -671,6 +672,7 @@ var cnames_active = {
   "coreutils": "ultirequiem.github.io/coreutils",
   "cork": "davej.github.io/CorkJS",
   "corki": "dvtate.github.io/corki",
+  "cormi": "cormijs.github.io/cormi",
   "corona": "soroushchehresa.github.io/awesome-coronavirus",
   "corps": "copay.github.io",
   "cosmos": "cosmos-xyz.github.io/cosmos",
@@ -1699,6 +1701,7 @@ var cnames_active = {
   "jsonui": "yourtion.github.io/vue-json-ui-editor",
   "jsonuri": "aligay.github.io/jsonuri",
   "jsp": "hiren2001.github.io/jsp",
+  "jsplayground": "javascript-playground-app.netlify.app",
   "jspt": "levkris.github.io/jspt",
   "jssc": "justdevw.github.io/JSSC", // noCF
   "jstyle": "lxhom.github.io/jstyle", // noCF
@@ -1864,6 +1867,7 @@ var cnames_active = {
   "li": "mattsimmons1.github.io/li",
   "libcord": "tovade.github.io/libcord",
   "libcurl": "libcurl.pages.dev",
+  "liberaui": "gioelevalori.github.io/liberaui",
   "libh": "ihasq.github.io/libh",
   "libphonenumbers": "libphonenumbers.github.io",
   "license-cop": "tobysmith568.github.io/license-cop",
@@ -1907,6 +1911,7 @@ var cnames_active = {
   "live-editor": "geard-dev.github.io/web-based-live-code-editor",
   "live2d": "hivivo.github.io/live2d-react",
   "liveflow": "hasharray.github.io/liveflow.js",
+  "livelocale": "araby99.github.io/livelocale",
   "livemarkup": "forhadkhan.github.io/livemarkup",
   "livenotif": "siffreinsg.github.io/livenotif",
   "livevalidate": "thedhanawada.github.io/LiveValidateJS",
@@ -2466,6 +2471,7 @@ var cnames_active = {
   "pad": "ebraminio.github.io/pad.js", // noCF? (don´t add this in a new PR)
   "pad-project": "adaltas.github.io/node-pad-docs",
   "padmemesamidala": "padmemesamidala.github.io/PadmemesAmidalaWeb",
+  "pagefold": "pagefoldjs.netlify.app",
   "pagelike": "iamanishroy.github.io/pagelike",
   "pageobject": "clebert.github.io/pageobject",
   "pagetalk": "seatwork.github.io/pagetalk",
@@ -3119,6 +3125,7 @@ var cnames_active = {
   "sitelo": "paul-browne.github.io/sitelo",
   "sjpm": "toggledtech.github.io/SJPM",
   "sjy": "cname.vercel-dns.com", // noCF
+  "skein": "skein-js.github.io/skein-js",
   "skeld": "skeldjs.github.io/SkeldJS",
   "skeptical-coder": "rbpinheiro.github.io/skeptical-coder",
   "sketch": "keiww.github.io/sketch",
@@ -3141,11 +3148,13 @@ var cnames_active = {
   "slim": "eavichay.github.io/slim.js",
   "slinky": "alizahid.github.io/slinky",
   "slyde": "tygo-van-den-hurk.github.io/Slyde",
+  "smartbanner-tsx": "madiyar.github.io/smartbanner-tsx",
   "smartquotes": "kellym.github.io/smartquotes.js",
   "smiley": "smiley422.github.io",
   "smoke": "hxgf.github.io/smoke",
   "smooscroll": "shuninyu.github.io/SmooScroll",
   "smoove": "abemedia.github.io/jquery-smoove",
+  "sm-ailib": "geo.surge.world",
   "snail-ide": "snail-ide.github.io",
   "snake": "pakastin.github.io/snake",
   "snaplabs": "cname.vercel-dns.com", // noCF
