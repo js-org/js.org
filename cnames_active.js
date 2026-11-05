@@ -2389,6 +2389,7 @@ var cnames_active = {
   "nyax": "springnyan.github.io/nyax",
   "nyc": "nycjsorg.github.io/nyc",
   "nyr": "suriyaakudoisc.github.io/NYR",
+  "nibmschedule": "https://dharshikan-1407.github.io/NIBM-LIVE-SCHEDULE--MAKEOVER-/",
   "oak": "donn.github.io/Oak.js",
   "obfuscate": "complifyjs.pages.dev",
   "object-gui": "matteobruni.github.io/object-gui",
