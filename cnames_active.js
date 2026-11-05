@@ -1816,6 +1816,7 @@ var cnames_active = {
   "langpack": "compositejs.github.io/langpack",
   "languages": "rsamaium.github.io/Languages",
   "lanye": "lanye.github.io",
+  "laotou": "596012613lzq-afk.github.io/my-website",
   "larastrator": "the94air.github.io/larastrator",
   "lass": "lassjs.github.io/lass",
   "latex": "michael-brade.github.io/LaTeX.js",
@@ -3933,7 +3934,7 @@ var cnames_active = {
   "zh-cn-ydk": "ydkjsy-zh.netlify.app",
   "zh-hans.single-spa": "single-spa.github.io/zh-hans.single-spa.js.org", // noCF
   "zh.mobx": "cname.vercel-dns.com", // noCF
-  "zhangnew": "zhangnew.github.io",，
+  "zhangnew": "zhangnew.github.io",
   "zhaomenghuan": "zhaomenghuan.github.io",
   "zhd": "zhdmitry.github.io",
   "zhin": "zhin.pages.dev",
@@ -3950,6 +3951,10 @@ var cnames_active = {
   "zykj": "cname.vercel-dns.com", // noCF
   "zylog": "cname.vercel-dns.com", // noCF
   "zyx": "zyx.alwaysdata.net",
-  "zyy": "zyyou.github.io/notes"，
-  "laotou": "596012613lzq-afk.github.io/my-website"
-
+  "zyy": "zyyou.github.io/notes"
+  /*
+   * please don't add your subdomain records down here!
+   * insert them in alphabetical order to help reduce merge conflicts.
+   * <3
+   */
+}
