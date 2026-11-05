@@ -180,6 +180,7 @@ var cnames_restricted = [
     "permalink(s)",
     "piwik",
     "plain",
+    "playground",
     "pop3",
     "portal(s)",
     "professional(s)",
