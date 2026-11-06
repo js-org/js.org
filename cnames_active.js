@@ -3458,6 +3458,7 @@ var cnames_active = {
   "tile": "cname.vercel-dns.com", // noCF
   "timeout": "anshuman-verma.github.io/setTimeout",
   "timer": "timerjsorg.netlify.app",
+  "timer-pro": "qpalzm348.github.io/timer-pro",
   "timerizer": "callumacrae.github.io/timerizerJS", // noCF? (don´t add this in a new PR)
   "timesheet": "nishantpainter.github.io/timesheet",
   "timezones": "ultirequiem.github.io/timezones",
