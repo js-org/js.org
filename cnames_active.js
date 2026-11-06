@@ -3409,6 +3409,7 @@ var cnames_active = {
   "techy": "hosting.gitbook.com",
   "tejas": "harshsinghdev.github.io/tejas",
   "telaviv": "dustin-h.github.io/telaviv", // noCF? (don´t add this in a new PR)
+  "telay": "gitaiqaq.github.io/telay",
   "telegraf": "telegraf.github.io/telegraf", // noCF? (don´t add this in a new PR)
   "telegram": "yuvapoojary.github.io/telegram.js-website",
   "teletype": "keyvank.github.io/teletype.js",
