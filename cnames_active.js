@@ -791,6 +791,7 @@ var cnames_active = {
   "ddnet": "sans3108.github.io/DDNet",
   "decant": "covai-labs.github.io/decant",
   "decimalsystem": "uellenberg.github.io/DecimalSystem",
+  "decision-pane": "uehaj.github.io/decision-pane",
   "deck-of-cards": "pakastin.github.io/deck-of-cards",
   "declarativ": "fennifith.github.io/declarativ", // noCF
   "deep-mandelbrot": "munsocket.github.io/deep-mandelbrot",
