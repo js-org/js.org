@@ -1911,6 +1911,7 @@ var cnames_active = {
   "live-editor": "geard-dev.github.io/web-based-live-code-editor",
   "live2d": "hivivo.github.io/live2d-react",
   "liveflow": "hasharray.github.io/liveflow.js",
+  "livelocale": "araby99.github.io/livelocale",
   "livemarkup": "forhadkhan.github.io/livemarkup",
   "livenotif": "siffreinsg.github.io/livenotif",
   "livevalidate": "thedhanawada.github.io/LiveValidateJS",
@@ -2470,6 +2471,7 @@ var cnames_active = {
   "pad": "ebraminio.github.io/pad.js", // noCF? (don´t add this in a new PR)
   "pad-project": "adaltas.github.io/node-pad-docs",
   "padmemesamidala": "padmemesamidala.github.io/PadmemesAmidalaWeb",
+  "pagefold": "pagefoldjs.netlify.app",
   "pagelike": "iamanishroy.github.io/pagelike",
   "pageobject": "clebert.github.io/pageobject",
   "pagetalk": "seatwork.github.io/pagetalk",
@@ -3886,7 +3888,7 @@ var cnames_active = {
   "y2j": "ultirequiem.github.io/y2j",
   "y86": "quietshu.github.io/y86", // noCF? (don´t add this in a new PR)
   "yagolopez": "yagolopez.github.io",
-  "yak": "galaxuslabs.github.io/yak",
+  "yak": "cname.vercel-dns.com", // noCF
   "yaka": "cname.vercel-dns.com", // noCF
   "yake": "yakeing.github.io/HexoBlog",
   "yamdbf": "zajrik.github.io/yamdbf",
