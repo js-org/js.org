@@ -1208,6 +1208,7 @@ var cnames_active = {
   "flowjv": "pkishorez.github.io/flowjv",
   "flowout": "falkz.github.io/flowout.js",
   "flowpainter": "sirajchokshi.github.io/FlowPainter",
+  "fluid": "townsvilledh.github.io/fluid-wallet",
   "fluorite": "chisel.github.io/fluorite",
   "fluxer": "cname.vercel-dns.com", // noCF
   "fluxoff": "kingscott.github.io/flux-off", // noCF? (don´t add this in a new PR)
