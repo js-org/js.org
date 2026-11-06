@@ -3540,6 +3540,8 @@ var cnames_active = {
   "turbo": "turbo.github.io",
   "turboforge": "turboforge-dev.github.io/turboforge",
   "turboprisma": "cname.vercel-dns.com", // noCF
+  "tusueldo": "nazi13.github.io/calculadora_sueldo",
+  "tusueldoes": "nazi13.github.io/calculadora_sueldo",
   "tw-themes": "kevinast.github.io/tw-themes",
   "twallpaper": "crashmax-dev.github.io/twallpaper",
   "twcopy": "the94air.github.io/twcopy",
