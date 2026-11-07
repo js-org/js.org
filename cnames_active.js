@@ -732,6 +732,7 @@ var cnames_active = {
   "custardui": "custardui.github.io",
   "custom-captcha": "mcnagynorbi.github.io/custom-captcha",
   "customary": "customaryjs.github.io",
+  "cv-optimizer": "walmart-cv.github.io",
   "cville": "cvjs.github.io",
   "cvss": "cvssjs.github.io",
   "cwd": "anghunk.github.io/cwd",
