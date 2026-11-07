@@ -3888,7 +3888,6 @@ var cnames_active = {
   "y2j": "ultirequiem.github.io/y2j",
   "y86": "quietshu.github.io/y86", // noCF? (don´t add this in a new PR)
   "yagolopez": "yagolopez.github.io",
-  "yak": "cname.vercel-dns.com", // noCF
   "yaka": "cname.vercel-dns.com", // noCF
   "yake": "yakeing.github.io/HexoBlog",
   "yamdbf": "zajrik.github.io/yamdbf",
