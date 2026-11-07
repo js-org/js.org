@@ -2531,6 +2531,7 @@ var cnames_active = {
   "perceptible": "anubhavsrivastava.github.io/perceptible",
   "pereira": "pereirajs.github.io/pagina",
   "periplum": "periplum.github.io/periplum.js.org",
+  "perlindom": "perlindom.netlify.app",
   "permissions": "danielnewell.github.io/permissions",
   "persian-tools": "persian-tools.github.io/persian-tools",
   "personalkanban": "nishantpainter.github.io/personal-kanban",
@@ -3888,7 +3889,7 @@ var cnames_active = {
   "y2j": "ultirequiem.github.io/y2j",
   "y86": "quietshu.github.io/y86", // noCF? (don´t add this in a new PR)
   "yagolopez": "yagolopez.github.io",
-  "yak": "galaxuslabs.github.io/yak",
+  "yak": "cname.vercel-dns.com", // noCF
   "yaka": "cname.vercel-dns.com", // noCF
   "yake": "yakeing.github.io/HexoBlog",
   "yamdbf": "zajrik.github.io/yamdbf",
