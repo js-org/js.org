@@ -1042,7 +1042,7 @@ var cnames_active = {
   "elmo": "lap00zza.github.io/elmo",
   "elock": "yourtion.github.io/node-elock",
   "elode": "equneko.github.io/elode",
-  "elroi": "129.225.69.57",
+  "elroi": "pnrs.is-a.dev",
   "elytra": "jonahemorgan.github.io/elytra.js",
   "emage": "douglasjunior.github.io/emage",
   "email-templates": "niftylettuce.github.io/email-templates",
