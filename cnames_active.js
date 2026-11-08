@@ -275,6 +275,7 @@ var cnames_active = {
   "atombundles": "lirantal.github.io/atombundles",
   "atomicreact": "atomicreact.github.io/AtomicReact",
   "atos": "cname.vercel-dns.com", // noCF
+  "attentry": "aarv-1o.github.io/Attentry",
   "atx": "aktarytech.github.io/atx",
   "audio": "audiojs.github.io/audio",
   "audio-transcriber": "shriansh2002.github.io/gemini-audio-transcriber-site",
@@ -1042,6 +1043,7 @@ var cnames_active = {
   "elmo": "lap00zza.github.io/elmo",
   "elock": "yourtion.github.io/node-elock",
   "elode": "equneko.github.io/elode",
+  "eltrolyze": "venomstudios-dev.github.io/Eltrolyze",
   "elytra": "jonahemorgan.github.io/elytra.js",
   "emage": "douglasjunior.github.io/emage",
   "email-templates": "niftylettuce.github.io/email-templates",
@@ -1911,6 +1913,7 @@ var cnames_active = {
   "live-editor": "geard-dev.github.io/web-based-live-code-editor",
   "live2d": "hivivo.github.io/live2d-react",
   "liveflow": "hasharray.github.io/liveflow.js",
+  "livelocale": "araby99.github.io/livelocale",
   "livemarkup": "forhadkhan.github.io/livemarkup",
   "livenotif": "siffreinsg.github.io/livenotif",
   "livevalidate": "thedhanawada.github.io/LiveValidateJS",
@@ -2470,6 +2473,7 @@ var cnames_active = {
   "pad": "ebraminio.github.io/pad.js", // noCF? (don´t add this in a new PR)
   "pad-project": "adaltas.github.io/node-pad-docs",
   "padmemesamidala": "padmemesamidala.github.io/PadmemesAmidalaWeb",
+  "pagefold": "pagefoldjs.netlify.app",
   "pagelike": "iamanishroy.github.io/pagelike",
   "pageobject": "clebert.github.io/pageobject",
   "pagetalk": "seatwork.github.io/pagetalk",
@@ -2528,6 +2532,7 @@ var cnames_active = {
   "perceptible": "anubhavsrivastava.github.io/perceptible",
   "pereira": "pereirajs.github.io/pagina",
   "periplum": "periplum.github.io/periplum.js.org",
+  "perlindom": "perlindom.netlify.app",
   "permissions": "danielnewell.github.io/permissions",
   "persian-tools": "persian-tools.github.io/persian-tools",
   "personalkanban": "nishantpainter.github.io/personal-kanban",
@@ -3886,7 +3891,7 @@ var cnames_active = {
   "y2j": "ultirequiem.github.io/y2j",
   "y86": "quietshu.github.io/y86", // noCF? (don´t add this in a new PR)
   "yagolopez": "yagolopez.github.io",
-  "yak": "galaxuslabs.github.io/yak",
+  "yak": "cname.vercel-dns.com", // noCF
   "yaka": "cname.vercel-dns.com", // noCF
   "yake": "yakeing.github.io/HexoBlog",
   "yamdbf": "zajrik.github.io/yamdbf",
