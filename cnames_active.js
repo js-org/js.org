@@ -1809,6 +1809,7 @@ var cnames_active = {
   "labelauty": "fntneves.github.io/jquery-labelauty", // noCF? (don´t add this in a new PR)
   "labs": "cname.vercel-dns.com", // noCF
   "labui": "ztl-uwu.github.io/Lab-Design-Guide",
+  "labx-launcher": "venomstudios-dev.github.io/LabX-Launcher",
   "lad": "ladjs.github.io/lad",
   "lambda": "lambdajs.github.io", // noCF? (don´t add this in a new PR)
   "lan": "careteenl.github.io/lan",
