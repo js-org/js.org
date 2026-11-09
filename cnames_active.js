@@ -327,6 +327,7 @@ var cnames_active = {
   "banana": "smammadov409-gif.github.io/banana",
   "bananasplit": "diegoulloao.github.io/bananasplit-js",
   "bancho": "thepoon.github.io/bancho.js",
+  "bandalica": "jorgemaltrago.github.io/BandalicaWeb",
   "bandicoot": "canopytax.github.io/bandicoot.js.org",
   "bandung": "zufrizalyordan.github.io/bandungjs",
   "bane": "kemosaf.github.io/bane",
