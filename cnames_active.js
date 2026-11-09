@@ -508,7 +508,7 @@ var cnames_active = {
   "capture-pro": "alejandrocimentada.github.io/Capture-Pro",
   "car": "pakastin.github.io/car",
   "carakan": "masnormen.github.io/carakanjs",
-  "carbon-studio": "barcelospusch.github.io/carbon-studio-website",
+  "carbon-studio": "barcelospusch.github.io/carbon-studio-webpage",
   "cards": "ttam.github.io/cards",
   "cardtabs": "blekerfeld.github.io/CardTabs",
   "cargo": "herber.github.io/cargo",
