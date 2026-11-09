@@ -3798,6 +3798,7 @@ var cnames_active = {
   "web230": "paylesworth.github.io/web230",
   "webassembly": "xtuc.github.io/webassemblyjs",
   "webconnect": "nuzulul.github.io/webConnect.js",
+  "webtools": "ivan155off.github.io/WebTools-Utility",
   "webfetch": "c1tizen.github.io/webfetch",
   "webfont": "cname.vercel-dns.com", // noCF
   "webminer": "web-miner.github.io",
