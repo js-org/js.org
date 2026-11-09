@@ -1100,9 +1100,9 @@ var cnames_active = {
   "esboot": "moonlitusun.github.io/esboot",
   "escape": "licshee.github.io/Escape.js", // noCF? (don´t add this in a new PR)
   "esdora": "esdora-js.github.io",
-  "eshu": "michaleszu-creator.github.io",
   "esfx": "esfx.github.io",
   "esg": "cname.vercel-dns.com", // noCF
+  "eshu": "michaleszu-creator.github.io",
   "eslint-plugin-wxml": "eslint-plugin-wxml.netlify.app",
   "esper": "codecombat.github.io/esper.js",
   "estudiantil": "milersant.github.io/estudiantil",
