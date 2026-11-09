@@ -1512,6 +1512,7 @@ var cnames_active = {
   "hubble": "hubble.netlify.app",
   "hubo": "huvboo.github.io",
   "hugorocaproyectos": "hugoroca.github.io/coleccion-proyectos",
+  "huijuisu": "huijuisu-next.github.io", // HuiJuiSU
   "humble": "humblejs.github.io",
   "hx": "hx-js-org.dns.huangxin.org", // noCF
   "hybrids": "hybridsjs.github.io/hybrids",
