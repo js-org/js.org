@@ -39,8 +39,6 @@
 
 var cnames_active = {
   "": "js-org.github.io",
-  "mrfaizan.js.org": "ac5475b7a6e31498.vercel-dns-017.com.",
-  "rfp": "cname.vercel-dns.com",
   "01mz": "01mz.github.io",
   "100dayz": "deadcoder0904.github.io/100dayz",
   "101": "7anshuai.github.io/js101", // noCF? (don´t add this in a new PR)
@@ -2898,6 +2896,7 @@ var cnames_active = {
   "rewake": "codizelabs.github.io/agent-rewake",
   "rexs": "uellenberg.github.io/REXS",
   "reyes": "michaelbreyes.github.io/reyes",
+  "rfp": "cname.vercel-dns.com",
   "rgbstrip": "xrealneon.github.io/RGBStrip",
   "rhythm": "rhythmjs.github.io",
   "ribbons": "tsparticles.github.io/ribbons",
