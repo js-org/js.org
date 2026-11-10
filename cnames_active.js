@@ -3727,6 +3727,7 @@ var cnames_active = {
   "vona": "vonajs.github.io/vona",
   "vorpal": "dthree.github.io/vorpal", // noCF? (don´t add this in a new PR)
   "voxelcss": "jhwohlgemuth.github.io/voxelcss",
+  "vpal": "beningham.github.io",
   "vpt": "sep2.github.io/vite-plugin-taro",
   "vscode-apielements": "xvincentx.github.io/vscode-apielements",
   "vssue": "vssue.netlify.app",
