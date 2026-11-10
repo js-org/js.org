@@ -3385,7 +3385,6 @@ var cnames_active = {
   "talk": "zonayedpca.github.io/talk.js",
   "talker": "secondstreet.github.io/talker.js", // noCF? (don´t add this in a new PR)
   "tama": "etk.gitlab.io",
-  "taskora": "https://taskora90.github.io/task/",
   "tampered-console": "hosting.gitbook.io", // noCF
   "tandryx": "d38num53uhx947.cloudfront.net", // noCF
   "tanmay": "tan-mayhem.github.io/tanmay",
@@ -3394,6 +3393,7 @@ var cnames_active = {
   "tapi": "sinisimattia.github.io/tapi",
   "tara": "shakyatara.github.io",
   "tarant": "tarantx.github.io",
+  "taskora": "https://taskora90.github.io/task/",
   "tarikh": "cname.vercel-dns.com", // noCF
   "taro": "nervjs.github.io/taro-website",
   "tart": "tart.github.io/tartJS", // noCF? (don´t add this in a new PR)
