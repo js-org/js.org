@@ -1267,6 +1267,7 @@ var cnames_active = {
   "fudgel": "fidian.github.io/fudgel",
   "fugapedia": "fugapediajs.github.io/website",
   "fullscreen": "motyar.github.io/fullscreen",
+  "funblox": "mybot-rblx.github.io/FunBlox.js",
   "funbook": "egoist.github.io/funbook",
   "funcs": "funcs-package.github.io/docs",
   "fusilli": "anthemaker.github.io/Fusilli.js",
@@ -3443,6 +3444,7 @@ var cnames_active = {
   "thegrid": "antoniandre.github.io/grid",
   "thema": "themakit.github.io",
   "theme-next": "hexo-theme-next.netlify.app",
+  "thememenu": "cname.vercel-dns.com", // noCF
   "themoviedb": "chrisenytc.github.io/themoviedb", // noCF? (don´t add this in a new PR)
   "thenandnow": "devdavmen.github.io/then-and-now",
   "theorem": "arguiot.github.io/TheoremJS",
