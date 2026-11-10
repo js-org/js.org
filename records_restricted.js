@@ -225,6 +225,7 @@ var cnames_restricted = [
     "tech",
     "terminal",
     "test",
+    "theme(s)",
     "tip",
     "tool(s)",
     "topic(s)",
