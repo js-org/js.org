@@ -3443,6 +3443,7 @@ var cnames_active = {
   "thegrid": "antoniandre.github.io/grid",
   "thema": "themakit.github.io",
   "theme-next": "hexo-theme-next.netlify.app",
+  "thememenu": "cname.vercel-dns.com", // noCF
   "themoviedb": "chrisenytc.github.io/themoviedb", // noCF? (don´t add this in a new PR)
   "thenandnow": "devdavmen.github.io/then-and-now",
   "theorem": "arguiot.github.io/TheoremJS",
@@ -3762,6 +3763,7 @@ var cnames_active = {
   "vuejsindy": "vuejsindy.github.io",
   "vuelidate": "vuelidate.netlify.app",
   "vuelog": "myst729.github.io/Vuelog",
+  "vuemontreal": "cname.vercel-dns.com", // noCF
   "vuepress-theme-cool": "friendlyuser.github.io/vuepress-theme-cool",
   "vuikit": "vuikit.netlify.app",
   "vulkava": "hosting.gitbook.io", // noCF
