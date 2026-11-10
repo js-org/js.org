@@ -3171,6 +3171,7 @@ var cnames_active = {
   "snowflake": "theinternetfolks.github.io/snowflake",
   "snowflake-api": "udit2303.github.io/snowflake-api-docs",
   "snowstorm": "explodingcamera.github.io/snowstorm",
+  "sobatkomputer": "alfa-reza.github.io/sobat-komputer-website",
   "sociably": "machinat.github.io/sociably",
   "social-likes": "sapegin.github.io/social-likes", // noCF? (don´t add this in a new PR)
   "social-likes-next": "sapegin.github.io/social-likes-next", // noCF? (don´t add this in a new PR)
