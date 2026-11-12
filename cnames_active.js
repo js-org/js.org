@@ -577,6 +577,7 @@ var cnames_active = {
   "cleaners": "swansontec.github.io/cleaners",
   "clearlyelevated": "clearlyelevated.github.io",
   "clerc": "apex-loadbalancer.netlify.app",
+  "cleohr": "yousef-abas.github.io/hr-platform",
   "clickforhelp": "clickforhelp.netlify.app",
   "clickhouse": "depyronick.github.io/clickhouse-client",
   "clientworker": "chenyfan.github.io/ClientWorker",
@@ -3956,9 +3957,8 @@ var cnames_active = {
   "zyh": "zyh-chopper.github.io/zyh",
   "zykj": "cname.vercel-dns.com", // noCF
   "zylog": "cname.vercel-dns.com", // noCF
-   "zyx": "zyx.alwaysdata.net",
-  "zyy": "zyyou.github.io/notes",
-  "cleohr": "yousef-abas.github.io/hr-platform"
+    "zyx": "zyx.alwaysdata.net",
+  "zyy": "zyyou.github.io/notes"
 };
   /*
    * please don't add your subdomain records down here!
