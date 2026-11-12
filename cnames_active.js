@@ -1707,6 +1707,7 @@ var cnames_active = {
   "jsplayground": "javascript-playground-app.netlify.app",
   "jspt": "levkris.github.io/jspt",
   "jssc": "justdevw.github.io/JSSC", // noCF
+  "js-toolbox": "js-toolbox.pages.dev",
   "jstyle": "lxhom.github.io/jstyle", // noCF
   "jsu": "jsutils.pages.dev",
   "jsx2html": "maddouri.github.io/jsx2html",
