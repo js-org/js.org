@@ -576,8 +576,8 @@ var cnames_active = {
   "clause": "clausejs.github.io/clausejs",
   "cleaners": "swansontec.github.io/cleaners",
   "clearlyelevated": "clearlyelevated.github.io",
-  "clerc": "apex-loadbalancer.netlify.app",
   "cleohr": "yousef-abas.github.io/hr-platform",
+  "clerc": "apex-loadbalancer.netlify.app",
   "clickforhelp": "clickforhelp.netlify.app",
   "clickhouse": "depyronick.github.io/clickhouse-client",
   "clientworker": "chenyfan.github.io/ClientWorker",
@@ -3957,7 +3957,7 @@ var cnames_active = {
   "zyh": "zyh-chopper.github.io/zyh",
   "zykj": "cname.vercel-dns.com", // noCF
   "zylog": "cname.vercel-dns.com", // noCF
-    "zyx": "zyx.alwaysdata.net",
+  "zyx": "zyx.alwaysdata.net",
   "zyy": "zyyou.github.io/notes"
 };
   /*
