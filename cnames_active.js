@@ -3302,6 +3302,7 @@ var cnames_active = {
   "storyshelf": "guptasiddhant.github.io/StoryShelf",
   "stpcloud": "stoeaves.github.io/StpCloud",
   "str": "manelet.github.io/str",
+  "strafe": "cname.vercel-dns.com", // noCF
   "stratic": "straticjs.github.io",
   "stream-regex": "getjerry.github.io/stream-regex",
   "stress": "julindra.github.io/stress.js",
