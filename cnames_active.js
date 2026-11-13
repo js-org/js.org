@@ -3865,6 +3865,7 @@ var cnames_active = {
   "ws-debug": "yshenze.github.io/ws-debug", // noCF
   "wstool": "sy-records.github.io/wstool", // noCF
   "wugenqiang": "wugenqiang.github.io/wugenqiang.js.org",
+  "wutong": "alcindora.github.io/wutong",
   "www.next-auth": "cname.vercel-dns.com", // noCF
   "wynncraft": "frawolf.github.io/wynncraft.js",
   "wysc": "coffeebank.github.io/wysc-vue",
