@@ -1325,7 +1325,7 @@ var cnames_active = {
   "girlscript": "girlscriptjaipur.github.io",
   "git-as-card": "cname.vercel-dns.com", // noCF
   "git-terminal": "jcubic.github.io/git",
-  "git0": "vtempest.github.io/git0",
+  "git0": "cname.vercel-dns.com", // noCF`
   "gitbanner": "asheeeshh.github.io/gitbanner",
   "gitdown": "gc.github.io/gitdown",
   "githubtouch": "github-touch.github.io",
