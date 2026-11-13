@@ -3534,6 +3534,7 @@ var cnames_active = {
   "tsdi": "knisterpeter.github.io/tsdi",
   "tsemrtd": "li0ard.github.io/tsemrtd",
   "tslog": "fullstack-build.github.io/tslog",
+  "tsorm": "zhangguanghuicoder.github.io/tsorm",
   "tsubasa": "tsubasa.netlify.app",
   "tsx-browser-compiler": "rexskz.github.io/tsx-browser-compiler",
   "tt": "redyetidev.github.io/terminaltools",
