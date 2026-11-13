@@ -1,0 +1,507 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Pseudo — AI · An ultra-fast AI chat that runs in any browser</title>
+<meta name="description" content="Pseudo — AI is a local-first AI chat for the browser: true token-by-token streaming, an agent mode with server-side tools, three model modes, full Markdown rendering, and history that never leaves your device." />
+<meta name="theme-color" content="#0a100e" />
+<meta property="og:title" content="Pseudo — AI" />
+<meta property="og:description" content="Ultra-fast browser AI chat with true streaming, agent mode and local-first history." />
+<meta property="og:type" content="website" />
+<link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Cdefs%3E%3ClinearGradient id='bg' x1='0' y1='0' x2='1' y2='1'%3E%3Cstop offset='0' stop-color='%2312241c'/%3E%3Cstop offset='1' stop-color='%23070c0a'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='64' height='64' rx='14' fill='url(%23bg)'/%3E%3Cpath d='M17 21 L31 32 L17 43' fill='none' stroke='%237effb2' stroke-width='5.5' stroke-linecap='round' stroke-linejoin='round'/%3E%3Crect x='35' y='39.5' width='13' height='5.5' rx='2.75' fill='%237effb2'/%3E%3C/svg%3E" />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet" />
+<style>
+  :root {
+    --bg: #0a100e;
+    --bg-2: #0d1512;
+    --card: #101a16;
+    --card-2: #0e1714;
+    --fg: #e9f5ee;
+    --muted: #9db8ab;
+    --mint: #7effb2;
+    --mint-ink: #0a1810;
+    --mint-dim: rgba(126, 255, 178, 0.13);
+    --mint-line: rgba(126, 255, 178, 0.22);
+    --border: rgba(126, 255, 178, 0.14);
+    --glow: rgba(126, 255, 178, 0.16);
+    --code-bg: #0b120f;
+    --shadow: 0 20px 60px rgba(0, 0, 0, 0.45);
+    --radius: 14px;
+  }
+  @media (prefers-color-scheme: light) {
+    :root {
+      --bg: #f6faf7;
+      --bg-2: #eef5f0;
+      --card: #ffffff;
+      --card-2: #f2f8f4;
+      --fg: #16211c;
+      --muted: #5d7268;
+      --mint: #0e8a52;
+      --mint-ink: #f2fff8;
+      --mint-dim: rgba(14, 138, 82, 0.09);
+      --mint-line: rgba(14, 138, 82, 0.30);
+      --border: rgba(22, 60, 42, 0.14);
+      --glow: rgba(14, 138, 82, 0.12);
+      --code-bg: #0e1714;
+      --shadow: 0 16px 44px rgba(20, 60, 42, 0.12);
+    }
+  }
+  * { box-sizing: border-box; }
+  html { scroll-behavior: smooth; }
+  @media (prefers-reduced-motion: reduce) {
+    html { scroll-behavior: auto; }
+    *, *::before, *::after { animation: none !important; transition: none !important; }
+  }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--fg);
+    font-family: "Inter", -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.6;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+  }
+  .wrap { max-width: 1080px; margin: 0 auto; padding: 0 24px; }
+  h1, h2, h3, .display {
+    font-family: "Space Grotesk", "Inter", sans-serif;
+    letter-spacing: -0.015em;
+    line-height: 1.15;
+  }
+  code, pre, .mono { font-family: "JetBrains Mono", ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+  a { color: var(--mint); text-decoration: none; }
+  a:hover { text-decoration: underline; text-underline-offset: 3px; }
+
+  /* ── nav ── */
+  .nav {
+    position: sticky; top: 0; z-index: 50;
+    background: color-mix(in srgb, var(--bg) 82%, transparent);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    border-bottom: 1px solid var(--border);
+  }
+  .nav-inner { display: flex; align-items: center; gap: 20px; height: 62px; }
+  .brand { display: flex; align-items: center; gap: 10px; font-family: "Space Grotesk", sans-serif; font-weight: 700; font-size: 18px; color: var(--fg); }
+  .brand:hover { text-decoration: none; }
+  .brand svg { display: block; }
+  .brand .dash { color: var(--muted); font-weight: 500; }
+  .nav-links { margin-left: auto; display: flex; align-items: center; gap: 22px; }
+  .nav-links a { color: var(--muted); font-size: 14.5px; font-weight: 500; }
+  .nav-links a:hover { color: var(--fg); text-decoration: none; }
+  .btn {
+    display: inline-flex; align-items: center; gap: 8px;
+    padding: 9px 16px; border-radius: 999px;
+    font-size: 14.5px; font-weight: 600;
+    border: 1px solid var(--mint-line);
+    color: var(--fg); background: transparent;
+    transition: background .2s, transform .2s, border-color .2s;
+    white-space: nowrap;
+  }
+  .btn:hover { background: var(--mint-dim); border-color: var(--mint); text-decoration: none; }
+  .btn.solid { background: var(--mint); color: var(--mint-ink); border-color: var(--mint); }
+  .btn.solid:hover { transform: translateY(-1px); background: var(--mint); filter: brightness(1.05); }
+  @media (max-width: 760px) { .nav-links a.hide-m { display: none; } }
+
+  /* ── hero ── */
+  .hero { position: relative; padding: 84px 0 92px; overflow: hidden; }
+  .hero::before {
+    content: ""; position: absolute; inset: 0; pointer-events: none;
+    background:
+      radial-gradient(600px 320px at 78% 12%, var(--glow), transparent 70%),
+      radial-gradient(520px 300px at 8% 88%, var(--mint-dim), transparent 70%);
+  }
+  .hero-grid {
+    position: relative; display: grid; grid-template-columns: 1.05fr 0.95fr;
+    gap: 56px; align-items: center;
+  }
+  @media (max-width: 900px) { .hero-grid { grid-template-columns: 1fr; gap: 44px; } }
+  .kicker {
+    display: inline-flex; align-items: center; gap: 8px;
+    font-family: "JetBrains Mono", monospace; font-size: 12.5px; font-weight: 500;
+    color: var(--mint); background: var(--mint-dim);
+    border: 1px solid var(--mint-line); border-radius: 999px;
+    padding: 6px 14px; margin: 0 0 22px;
+  }
+  .kicker .dot { width: 6px; height: 6px; border-radius: 50%; background: var(--mint); box-shadow: 0 0 10px var(--mint); }
+  .hero h1 { font-size: clamp(38px, 5.2vw, 58px); margin: 0 0 20px; font-weight: 700; }
+  .hero h1 em { font-style: normal; color: var(--mint); }
+  .hero .lede { font-size: 18px; color: var(--muted); max-width: 34em; margin: 0 0 32px; }
+  .hero .lede strong { color: var(--fg); font-weight: 600; }
+  .cta-row { display: flex; flex-wrap: wrap; gap: 14px; align-items: center; }
+  .btn.big { padding: 13px 26px; font-size: 16px; border-radius: 12px; }
+  .meta-row { margin-top: 26px; display: flex; flex-wrap: wrap; gap: 10px 18px; color: var(--muted); font-size: 13.5px; font-family: "JetBrains Mono", monospace; }
+  .meta-row span { display: inline-flex; align-items: center; gap: 7px; }
+  .meta-row svg { color: var(--mint); }
+
+  /* ── hero chat mock ── */
+  .mock {
+    background: var(--card); border: 1px solid var(--border); border-radius: var(--radius);
+    box-shadow: var(--shadow); overflow: hidden;
+  }
+  .mock-bar { display: flex; align-items: center; gap: 8px; padding: 11px 16px; border-bottom: 1px solid var(--border); background: var(--card-2); }
+  .mock-bar .led { width: 10px; height: 10px; border-radius: 50%; background: var(--mint-line); }
+  .mock-bar .led.on { background: var(--mint); box-shadow: 0 0 8px var(--glow); }
+  .mock-bar .title { margin-left: 6px; font-size: 12.5px; color: var(--muted); font-family: "JetBrains Mono", monospace; }
+  .mock-bar .tag { margin-left: auto; font-size: 11px; padding: 3px 9px; border-radius: 999px; border: 1px solid var(--mint-line); color: var(--mint); font-family: "JetBrains Mono", monospace; }
+  .mock-body { padding: 22px 20px 26px; display: flex; flex-direction: column; gap: 16px; min-height: 292px; }
+  .bubble { max-width: 88%; padding: 11px 15px; border-radius: 13px; font-size: 14px; line-height: 1.55; }
+  .bubble.user { align-self: flex-end; background: var(--mint); color: var(--mint-ink); border-bottom-right-radius: 4px; font-weight: 500; }
+  .bubble.ai { align-self: flex-start; background: var(--card-2); border: 1px solid var(--border); border-bottom-left-radius: 4px; }
+  .bubble.ai .mono-line { display: block; background: var(--code-bg); color: var(--mint); font-family: "JetBrains Mono", monospace; font-size: 12.5px; padding: 7px 11px; border-radius: 8px; margin: 8px 0 4px; }
+  .chips { display: flex; flex-wrap: wrap; gap: 8px; }
+  .chip {
+    display: inline-flex; align-items: center; gap: 7px;
+    font-family: "JetBrains Mono", monospace; font-size: 11.5px;
+    color: var(--mint); background: var(--mint-dim);
+    border: 1px solid var(--mint-line); border-radius: 999px; padding: 5px 11px;
+  }
+  .chip svg { flex: none; }
+  .stream-caret { display: inline-block; width: 8px; height: 15px; margin-left: 3px; vertical-align: -2px; background: var(--mint); animation: blink 1s steps(1) infinite; border-radius: 1px; }
+  @keyframes blink { 50% { opacity: 0; } }
+  .b1, .b2, .b3 { opacity: 0; animation: rise .5s ease forwards; }
+  .b1 { animation-delay: .2s; } .b2 { animation-delay: .8s; } .b3 { animation-delay: 1.7s; }
+  @keyframes rise { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
+
+  /* ── sections ── */
+  section { padding: 72px 0; }
+  section.alt { background: var(--bg-2); border-top: 1px solid var(--border); border-bottom: 1px solid var(--border); }
+  .sec-head { max-width: 640px; margin: 0 auto 46px; text-align: center; }
+  .sec-head .eyebrow { font-family: "JetBrains Mono", monospace; font-size: 12.5px; letter-spacing: .12em; text-transform: uppercase; color: var(--mint); margin: 0 0 12px; }
+  .sec-head h2 { font-size: clamp(26px, 3.4vw, 36px); margin: 0 0 12px; }
+  .sec-head p { color: var(--muted); margin: 0; font-size: 16.5px; }
+
+  .grid3 { display: grid; grid-template-columns: repeat(3, 1fr); gap: 18px; }
+  @media (max-width: 900px) { .grid3 { grid-template-columns: 1fr; } }
+  .card {
+    background: var(--card); border: 1px solid var(--border); border-radius: var(--radius);
+    padding: 24px 22px; transition: border-color .2s, transform .2s;
+  }
+  .card:hover { border-color: var(--mint-line); transform: translateY(-2px); }
+  .card .ico {
+    width: 38px; height: 38px; border-radius: 10px; display: grid; place-items: center;
+    background: var(--mint-dim); border: 1px solid var(--mint-line); color: var(--mint); margin-bottom: 16px;
+  }
+  .card h3 { font-size: 17.5px; margin: 0 0 8px; }
+  .card p { margin: 0; color: var(--muted); font-size: 14.5px; }
+  .card p code { color: var(--mint); font-size: 12.5px; background: var(--mint-dim); padding: 1px 6px; border-radius: 6px; }
+
+  /* ── agent section ── */
+  .agent-grid { display: grid; grid-template-columns: 1.1fr 0.9fr; gap: 40px; align-items: start; }
+  @media (max-width: 900px) { .agent-grid { grid-template-columns: 1fr; } }
+  .steps { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 0; counter-reset: step; }
+  .steps li { counter-increment: step; position: relative; padding: 0 0 26px 58px; }
+  .steps li:last-child { padding-bottom: 0; }
+  .steps li::before {
+    content: counter(step, decimal-leading-zero);
+    position: absolute; left: 0; top: 0;
+    font-family: "JetBrains Mono", monospace; font-size: 13px; font-weight: 500;
+    color: var(--mint); background: var(--mint-dim); border: 1px solid var(--mint-line);
+    border-radius: 10px; padding: 5px 8px;
+  }
+  .steps li::after {
+    content: ""; position: absolute; left: 15px; top: 34px; bottom: 6px; width: 1px;
+    background: linear-gradient(var(--mint-line), transparent);
+  }
+  .steps li:last-child::after { display: none; }
+  .steps h3 { font-size: 16px; margin: 4px 0 6px; }
+  .steps p { margin: 0; color: var(--muted); font-size: 14.5px; }
+  .steps p code { color: var(--mint); font-size: 12.5px; background: var(--mint-dim); padding: 1px 6px; border-radius: 6px; }
+  .stats { display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; margin-top: 22px; }
+  .stat { background: var(--card); border: 1px solid var(--border); border-radius: 12px; padding: 14px 16px; text-align: center; }
+  .stat b { display: block; font-family: "Space Grotesk", sans-serif; font-size: 22px; color: var(--mint); }
+  .stat span { font-size: 12px; color: var(--muted); }
+
+  /* ── models ── */
+  .models { display: grid; grid-template-columns: repeat(3, 1fr); gap: 18px; }
+  @media (max-width: 900px) { .models { grid-template-columns: 1fr; } }
+  .model { background: var(--card); border: 1px solid var(--border); border-radius: var(--radius); padding: 22px; }
+  .model .tag { display: inline-block; font-family: "JetBrains Mono", monospace; font-size: 11px; letter-spacing: .08em; text-transform: uppercase; color: var(--mint); background: var(--mint-dim); border: 1px solid var(--mint-line); border-radius: 999px; padding: 4px 11px; margin-bottom: 14px; }
+  .model h3 { font-size: 19px; margin: 0 0 6px; }
+  .model .desc { color: var(--muted); font-size: 14px; margin: 0 0 16px; min-height: 44px; }
+  .model .env { font-family: "JetBrains Mono", monospace; font-size: 12px; color: var(--fg); background: var(--code-bg); border: 1px solid var(--border); border-radius: 8px; padding: 8px 12px; display: block; }
+  .model .env .k { color: var(--mint); }
+
+  /* ── deploy ── */
+  .deploy-grid { display: grid; grid-template-columns: 0.9fr 1.1fr; gap: 36px; align-items: center; }
+  @media (max-width: 900px) { .deploy-grid { grid-template-columns: 1fr; } }
+  .deploy-list { margin: 0; padding: 0; list-style: none; display: flex; flex-direction: column; gap: 14px; }
+  .deploy-list li { display: flex; gap: 14px; color: var(--muted); font-size: 15px; }
+  .deploy-list li b { color: var(--fg); font-weight: 600; }
+  .deploy-list .num { flex: none; width: 26px; height: 26px; border-radius: 8px; display: grid; place-items: center; background: var(--mint-dim); border: 1px solid var(--mint-line); color: var(--mint); font-family: "JetBrains Mono", monospace; font-size: 12px; margin-top: 1px; }
+  .codeblock { background: var(--code-bg); border: 1px solid var(--border); border-radius: 12px; overflow: hidden; }
+  .codeblock .cb-bar { display: flex; align-items: center; justify-content: space-between; padding: 9px 14px; border-bottom: 1px solid var(--border); font-family: "JetBrains Mono", monospace; font-size: 12px; color: var(--muted); }
+  .codeblock .cb-bar .copy { background: none; border: 1px solid var(--border); color: var(--muted); border-radius: 7px; padding: 3px 10px; font: inherit; cursor: pointer; }
+  .codeblock .cb-bar .copy:hover { color: var(--mint); border-color: var(--mint-line); }
+  .codeblock pre { margin: 0; padding: 16px 18px; font-size: 13px; line-height: 1.7; color: var(--fg); overflow-x: auto; }
+  .codeblock .c { color: #6f8a7d; } .codeblock .k { color: var(--mint); }
+
+  /* ── footer ── */
+  footer { border-top: 1px solid var(--border); padding: 34px 0 44px; background: var(--bg-2); }
+  .foot { display: flex; flex-wrap: wrap; gap: 16px; align-items: center; justify-content: space-between; color: var(--muted); font-size: 13.5px; }
+  .foot .jsorg { display: inline-flex; align-items: center; gap: 8px; }
+  .foot a { color: var(--fg); font-weight: 500; }
+
+  /* scroll reveal */
+  .reveal { opacity: 0; transform: translateY(14px); transition: opacity .55s ease, transform .55s ease; }
+  .reveal.in { opacity: 1; transform: none; }
+  @media (prefers-reduced-motion: reduce) { .reveal { opacity: 1; transform: none; } }
+</style>
+</head>
+<body>
+
+<nav class="nav">
+  <div class="wrap nav-inner">
+    <a class="brand" href="#top" aria-label="Pseudo — AI home">
+      <svg width="26" height="26" viewBox="0 0 64 64" aria-hidden="true">
+        <defs><linearGradient id="lbg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#12241c"/><stop offset="1" stop-color="#070c0a"/></linearGradient></defs>
+        <rect width="64" height="64" rx="14" fill="url(#lbg)"/>
+        <rect x="1" y="1" width="62" height="62" rx="13" fill="none" stroke="#7effb2" stroke-opacity="0.4" stroke-width="1.5"/>
+        <path d="M17 21 L31 32 L17 43" fill="none" stroke="#7effb2" stroke-width="5.5" stroke-linecap="round" stroke-linejoin="round"/>
+        <rect x="35" y="39.5" width="13" height="5.5" rx="2.75" fill="#7effb2"/>
+      </svg>
+      Pseudo <span class="dash">—</span> AI
+    </a>
+    <div class="nav-links">
+      <a class="hide-m" href="#features">Features</a>
+      <a class="hide-m" href="#agent">Agent mode</a>
+      <a class="hide-m" href="#models">Models</a>
+      <a class="hide-m" href="#deploy">Deploy</a>
+      <!-- Replace with your actual repository URL before publishing -->
+      <a class="btn solid" href="https://github.com/your-username/pseudo-ai" rel="noopener">View source</a>
+    </div>
+  </div>
+</nav>
+
+<header class="hero" id="top">
+  <div class="wrap hero-grid">
+    <div>
+      <p class="kicker"><span class="dot"></span> v3 · Next.js 16 · streaming chat</p>
+      <h1>An ultra-fast AI chat that runs <em>in any browser</em>.</h1>
+      <p class="lede">
+        Pseudo — AI pairs <strong>real token-by-token streaming</strong> with an
+        <strong>agent mode</strong> that can read pages, search Wikipedia and do the math —
+        while your history <strong>never leaves your device</strong>. No accounts, no tracking, no backend database.
+      </p>
+      <div class="cta-row">
+        <!-- Replace with your actual repository URL before publishing -->
+        <a class="btn solid big" href="https://github.com/your-username/pseudo-ai" rel="noopener">View on GitHub</a>
+        <!-- Replace with your live deployment URL before publishing -->
+        <a class="btn big" href="#features">See what it does</a>
+      </div>
+      <div class="meta-row">
+        <span><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"><path d="M13 2 3 14h7l-1 8 10-12h-7l1-8z"/></svg> SSE streaming</span>
+        <span><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="11" width="18" height="10" rx="2"/><path d="M7 11V7a5 5 0 0 1 10 0v4"/></svg> keys stay server-side</span>
+        <span><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3l8 4v5c0 5-3.5 8-8 9-4.5-1-8-4-8-9V7l8-4z"/></svg> validated + rate-limited</span>
+        <span><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M12 3a15 15 0 0 1 0 18M12 3a15 15 0 0 0 0 18M3 12h18"/></svg> light + dark themes</span>
+      </div>
+    </div>
+
+    <div class="mock" role="img" aria-label="A preview of the Pseudo — AI chat interface showing a user question, agent tool chips and a streaming markdown answer">
+      <div class="mock-bar">
+        <span class="led on"></span><span class="led"></span><span class="led"></span>
+        <span class="title">new chat · local</span>
+        <span class="tag">agent on</span>
+      </div>
+      <div class="mock-body">
+        <div class="bubble user b1">How tall is the Eiffel Tower — and how long would it take to walk to the top?</div>
+        <div class="b2"><div class="chips">
+          <span class="chip"><svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>wikipedia_search · Eiffel Tower</span>
+          <span class="chip"><svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><rect x="4" y="3" width="16" height="18" rx="2"/><path d="M8 7h8M8 11h3M13 11h3M8 15h3M13 15h3"/></svg>calculator · 1665 steps ÷ pace</span>
+        </div></div>
+        <div class="bubble ai b3">
+          The Eiffel Tower is <strong>330&nbsp;m</strong> tall. Its 1,665 steps take most visitors
+          <span class="mono-line">30–45 min at a steady pace 🚶</span>
+          The view is worth it.<span class="stream-caret"></span>
+        </div>
+      </div>
+    </div>
+  </div>
+</header>
+
+<section class="alt" id="features">
+  <div class="wrap">
+    <div class="sec-head reveal">
+      <p class="eyebrow">Features</p>
+      <h2>Small surface, serious engineering</h2>
+      <p>A ground-up overhaul of the original single-file prototype — every layer tightened, validated and streamed.</p>
+    </div>
+    <div class="grid3">
+      <div class="card reveal">
+        <div class="ico"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M13 2 3 14h7l-1 8 10-12h-7l1-8z"/></svg></div>
+        <h3>True token streaming</h3>
+        <p><code>/api/chat</code> pipes upstream SSE deltas straight to the browser — no fake cursor, no dump-at-the-end. Stop keeps the partial reply and saves it.</p>
+      </div>
+      <div class="card reveal">
+        <div class="ico"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round"><rect x="4" y="3" width="16" height="18" rx="2"/><path d="m8 9 3 3-3 3M13 15h3"/></svg></div>
+        <h3>Agent mode</h3>
+        <p>Flip a toggle and Pseudo can call <code>web_fetch</code>, <code>wikipedia_search</code>, <code>calculator</code> and <code>now</code> before it answers — with live tool chips in the UI.</p>
+      </div>
+      <div class="card reveal">
+        <div class="ico"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="4" width="20" height="13" rx="2"/><path d="M8 21h8M12 17v4"/></svg></div>
+        <h3>Three model modes</h3>
+        <p>Flax (fast), Scythe (creative) and Nova (GLM) behind one preset picker — availability is probed per deployment, with automatic fallback.</p>
+      </div>
+      <div class="card reveal">
+        <div class="ico"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round"><path d="M4 5h16M4 12h10M4 19h7"/><path d="m17 15 4 4m0-4-4 4"/></svg></div>
+        <h3>Full Markdown</h3>
+        <p>GFM tables, lists and links, plus syntax-highlighted code blocks with copy buttons — rendered safely, links forced <code>rel="noopener"</code>.</p>
+      </div>
+      <div class="card reveal">
+        <div class="ico"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3l8 4v5c0 5-3.5 8-8 9-4.5-1-8-4-8-9V7l8-4z"/><path d="m9 12 2 2 4-4"/></svg></div>
+        <h3>Local-first, private</h3>
+        <p>History lives in <code>localStorage</code> only — migrate from the old version automatically, export a backup from Settings, delete anytime.</p>
+      </div>
+      <div class="card reveal">
+        <div class="ico"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 11V7a5 5 0 0 1 10 0v4"/><rect x="3" y="11" width="18" height="10" rx="2"/><path d="M12 15v2"/></svg></div>
+        <h3>Security by default</h3>
+        <p>Persona locked server-side, Zod-validated input, per-IP rate limiting, SSRF-guarded fetching, and API keys that never reach the browser.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="agent">
+  <div class="wrap">
+    <div class="sec-head reveal">
+      <p class="eyebrow">Agent mode</p>
+      <h2>It doesn’t just answer — it looks things up</h2>
+      <p>Toggle <strong>agent</strong> in the composer and the server runs a model-agnostic tool loop, then streams the final answer token-by-token.</p>
+    </div>
+    <div class="agent-grid">
+      <ol class="steps reveal">
+        <li>
+          <h3>The model gets tool specs</h3>
+          <p>Each step calls the model with the tool definitions; any <code>tool_calls</code> come back for execution.</p>
+        </li>
+        <li>
+          <h3>Tools run server-side</h3>
+          <p>Every tool is time-boxed (10–14&nbsp;s) and its output capped (~3.5&nbsp;KB). <code>web_fetch</code> blocks private and internal hosts.</p>
+        </li>
+        <li>
+          <h3>Results loop back</h3>
+          <p>Outputs are fed to the model again, repeating until a final answer — or the budget runs out.</p>
+        </li>
+        <li>
+          <h3>The answer streams</h3>
+          <p>Tool calls appear as chips above the reply, persisted with the message; the final text streams live into the chat.</p>
+        </li>
+      </ol>
+      <div class="reveal">
+        <div class="mock" style="box-shadow:none">
+          <div class="mock-bar"><span class="led on"></span><span class="title">agent · tool loop</span><span class="tag">locked persona</span></div>
+          <div class="mock-body" style="min-height:0;gap:12px">
+            <span class="chip"><svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>web_search · v3 agent loop</span>
+            <span class="chip"><svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3a15 15 0 0 1 0 18M12 3a15 15 0 0 0 0 18"/></svg>web_fetch · example.com</span>
+            <span class="chip"><svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><rect x="4" y="3" width="16" height="18" rx="2"/><path d="M8 7h8M8 11h3M13 11h3M8 15h3M13 15h3"/></svg>wikipedia_search · Eiffel Tower</span>
+            <span class="chip"><svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><path d="M5 7h14M5 12h9M5 17h14M19 12v5"/></svg>calculator · 6 × 7</span>
+            <span class="chip"><svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.3" stroke-linecap="round"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 3"/></svg>now · server time</span>
+          </div>
+        </div>
+        <div class="stats">
+          <div class="stat"><b>6</b><span>model steps max</span></div>
+          <div class="stat"><b>48s</b><span>wall-clock budget</span></div>
+          <div class="stat"><b>5</b><span>built-in tools</span></div>
+        </div>
+        <p style="color:var(--muted);font-size:13.5px;margin:16px 0 0">
+          Add <code class="mono" style="color:var(--mint)">TAVILY_API_KEY</code> and the agent also gets general <strong style="color:var(--fg)">web_search</strong>. The persona and tool instructions stay locked on the server — the client can only switch the mode on or off.
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="alt" id="models">
+  <div class="wrap">
+    <div class="sec-head reveal">
+      <p class="eyebrow">Models</p>
+      <h2>One preset picker, three modes</h2>
+      <p><code class="mono" style="color:var(--mint);font-size:14px">GET /api/models</code> reports what each deployment can actually serve — the UI never offers a model that can’t run.</p>
+    </div>
+    <div class="models">
+      <div class="model reveal">
+        <span class="tag">Flax · fast</span>
+        <h3>Speed first</h3>
+        <p class="desc">Groq’s <span class="mono">llama-3.3-70b-versatile</span> for quick, snappy exchanges with true upstream streaming.</p>
+        <code class="env"><span class="k">GROQ_API_KEY</span>=gsk_…</code>
+      </div>
+      <div class="model reveal">
+        <span class="tag">Scythe · creative</span>
+        <h3>Richer writing</h3>
+        <p class="desc">Z.AI’s <span class="mono">glm-4.5-flash</span> for longer, more creative answers — same streaming pipeline.</p>
+        <code class="env"><span class="k">ZAI_API_KEY</span>=…</code>
+      </div>
+      <div class="model reveal">
+        <span class="tag">Nova · GLM</span>
+        <h3>Zero config</h3>
+        <p class="desc">Runs on the built-in Z.AI runtime wherever it’s provisioned — the app is never dead on arrival.</p>
+        <code class="env"><span class="k">built-in</span> · no key needed</code>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="deploy">
+  <div class="wrap deploy-grid">
+    <div class="reveal">
+      <div class="sec-head" style="text-align:left;margin:0 0 26px">
+        <p class="eyebrow">Self-host</p>
+        <h2 style="font-size:clamp(24px,3vw,32px)">Your keys, your deployment</h2>
+        <p style="font-size:15.5px">A standard Next.js app — clone, set one or two env vars, deploy. Keys are read server-side only.</p>
+      </div>
+      <ul class="deploy-list">
+        <li><span class="num">1</span><span><b>Clone and install</b> — <span class="mono">bun install</span>, <span class="mono">npm</span> or <span class="mono">pnpm</span> all work.</span></li>
+        <li><span class="num">2</span><span><b>Add provider keys</b> — Groq’s free tier alone unlocks Flax; Scythe needs one Z.AI key.</span></li>
+        <li><span class="num">3</span><span><b>Deploy</b> — push to Vercel, or run <span class="mono">bun run dev</span> locally at <span class="mono">localhost:3000</span>.</span></li>
+      </ul>
+    </div>
+    <div class="codeblock reveal">
+      <div class="cb-bar"><span>.env.local</span><button class="copy" type="button">copy</button></div>
+      <pre><span class="c"># pick either (or both) — availability is auto-detected</span>
+<span class="k">GROQ_API_KEY</span>=gsk_your_groq_key
+<span class="k">ZAI_API_KEY</span>=your_zai_key
+
+<span class="c"># optional — adds the web_search tool in agent mode</span>
+<span class="k">TAVILY_API_KEY</span>=tvly_your_tavily_key</pre>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <div class="wrap foot">
+    <span>© <span id="year">2026</span> Pseudo — AI · conversations never leave your browser</span>
+    <span class="jsorg">
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 2 2 7l10 5 10-5-10-5z"/><path d="m2 17 10 5 10-5M2 12l10 5 10-5"/></svg>
+      domain thanks to <a href="https://js.org" rel="noopener">js.org</a>
+    </span>
+    <!-- Replace with your actual repository URL before publishing -->
+    <a href="https://github.com/your-username/pseudo-ai" rel="noopener">Source on GitHub</a>
+  </div>
+</footer>
+
+<script>
+  document.getElementById('year').textContent = new Date().getFullYear();
+  var btn = document.querySelector('.codeblock .copy');
+  if (btn) btn.addEventListener('click', function () {
+    var txt = document.querySelector('.codeblock pre').innerText;
+    if (navigator.clipboard) navigator.clipboard.writeText(txt);
+    btn.textContent = 'copied';
+    setTimeout(function () { btn.textContent = 'copy'; }, 1200);
+  });
+  var reduced = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  var els = document.querySelectorAll('.reveal');
+  if (!('IntersectionObserver' in window) || reduced) {
+    els.forEach(function (e) { e.classList.add('in'); });
+  } else {
+    var io = new IntersectionObserver(function (entries) {
+      entries.forEach(function (en) {
+        if (en.isIntersecting) { en.target.classList.add('in'); io.unobserve(en.target); }
+      });
+    }, { threshold: 0.12 });
+    els.forEach(function (e) { io.observe(e); });
+  }
+</script>
+</body>
+</html>
