@@ -2664,7 +2664,7 @@ var cnames_active = {
   "pruf": "signalwerk.github.io/pruf",
   "pruthvisoni": "pruthvisooni.github.io",
   "ps": "spindlyskit.github.io/ps.js",
-  "pseudo-hack": "ba8376b09e8ed3f5.vercel-dns-017.com.",
+  "pseudo-hack": "ba8376b09e8ed3f5.vercel-dns-017.com",
   "pt-pt.single-spa": "single-spa.github.io/pt-pt.single-spa.js.org", // noCF
   "ptero": "pterojs.github.io/ptero.js-docs",
   "ptml": "axzr.github.io/ptml",
