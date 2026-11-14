@@ -1576,6 +1576,7 @@ var cnames_active = {
   "innova": "innova-fll.github.io",
   "inscriptum": "sumbad.github.io/inscriptum",
   "inset": "patlillis.github.io/inset.js",
+  "insighter-plus": "bdr-hk.github.io/insighter-plus",
   "insta": "androz2091.github.io/instajs-website",
   "instabousing": "jlbousing.github.io/instaBousing",
   "instacam": "xavierfoucrier.github.io/instacam",
