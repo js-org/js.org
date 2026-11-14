@@ -3014,6 +3014,7 @@ var cnames_active = {
   "scribble": "arkaneelroy.github.io/ScribbleJS",
   "scriptex": "scriptex.github.io",
   "scroller-motion": "scroller-motion.netlify.app",
+  "summ": "summclient.pages.dev",
   "scrollery": "scrollery.netlify.app",
   "scrollmirror": "scrollmirror.netlify.app",
   "scrollstack": "devgauravjatt.github.io/scrollstackjs",
