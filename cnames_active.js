@@ -45,6 +45,7 @@ var cnames_active = {
   "131": "netrvin.github.io",
   "140513": "140513.github.io",
   "145storage": "54145a.github.io/145Storage2",
+  "1688": "zhong-yue-tong-yi.pages.dev",
   "1api": "yourtion.github.io/one-api",
   "1auth": "1auth.pages.dev",
   "1c": "oknosoft.github.io/1c",
