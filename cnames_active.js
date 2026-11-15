@@ -3000,12 +3000,12 @@ var cnames_active = {
   "scafix": "cname.vercel-dns.com", // noCF
   "scancell": "russellsteadman.github.io/scancell",
   "scene": "daybrush.github.io/scenejs-page",
-  "scholarbridgenetwork": "brianonchwari.github.io/scholarbridgenetwork",
   "schema": "hosting.gitbook.com",
   "schema-render": "barrior.github.io/schema-render",
   "schematex": "cname.vercel-dns.com", // noCF
   "schemy": "aeberdinelli.github.io/schemy",
   "schiva": "jesus-seijas-sp.github.io/schiva",
+  "scholarbridgenetwork": "brianonchwari.github.io/scholarbridgenetwork"
   "scopes": "kelleyvanevert.github.io/scopes",
   "scramb": "jastinxyz.github.io/scramb",
   "scramble": "ignatiusmb.github.io/scramble",
