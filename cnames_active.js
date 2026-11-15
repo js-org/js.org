@@ -1748,6 +1748,7 @@ var cnames_active = {
   "keystone": "keystone-ssg.netlify.app",
   "keyvhq": "microlinkhq.github.io/keyvhq",
   "keyvify": "zyrouge.github.io/Keyvify",
+  "khelaghor": "saeedhassansiam8.github.io/khelaghor",
   "kfg": "drysius.github.io/kfg",
   "kickstack": "cname.vercel-dns.com", // noCF
   "killx": "cname.vercel-dns.com", // noCF
