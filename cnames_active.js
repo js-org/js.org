@@ -1659,6 +1659,7 @@ var cnames_active = {
   "jk": "joname1.github.io",
   "job": "izemil.github.io/job",
   "jobs": "alias.zeit.co", // noCF
+  "joblens": "cname.vercel-dns.com", // noCF
   "joe": "joeleeofficial.github.io/joe",
   "joelmathew": "rec0il99.github.io/joelmathew",
   "jogja": "jogjajs.github.io", // noCF
