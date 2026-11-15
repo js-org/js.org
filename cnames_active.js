@@ -3005,7 +3005,7 @@ var cnames_active = {
   "schematex": "cname.vercel-dns.com", // noCF
   "schemy": "aeberdinelli.github.io/schemy",
   "schiva": "jesus-seijas-sp.github.io/schiva",
-  "scholarbridgenetwork": "brianonchwari.github.io/scholarbridgenetwork"
+  "scholarbridgenetwork": "brianonchwari.github.io/scholarbridgenetwork,"
   "scopes": "kelleyvanevert.github.io/scopes",
   "scramb": "jastinxyz.github.io/scramb",
   "scramble": "ignatiusmb.github.io/scramble",
