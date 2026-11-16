@@ -85,7 +85,6 @@ var cnames_active = {
   "absenkseunri": "zidanlptp.github.io/absensi-piket-kse",
   "abusive": "kikobeats.github.io/abusive",
   "aby": "icoldplayer.github.io/aby",
-  "absenkseunri": "zidanlptp.github.io/absensi-piket-kse",
   "ac": "alauda.github.io/alauda-chart",
   "accent": "sripkunda.github.io/accent",
   "accessibility": "guilhermedelemos.github.io/accessibility",
