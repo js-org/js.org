@@ -2566,7 +2566,6 @@ var cnames_active = {
   "pigeon-maps": "pigeon-maps.netlify.app",
   "piii": "piiijs.github.io/piii.js.org",
   "pika": "xiaopika.github.io/pika.js.org",
-  "piket-kse": "zidanlptp.github.io/absensi-piket-kse",
   "piling": "flekschas.github.io/piling.js",
   "pineapple": "totaltechgeek.github.io/pineapple",
   "pinf": "pinf.github.io", // noCF? (don´t add this in a new PR)
@@ -2689,7 +2688,6 @@ var cnames_active = {
   "pwa-workshop": "sylvainpolletvillard.github.io/pwa-workshop",
   "py-like": "ruben-arushanyan.github.io/py-like",
   "pytml": "nodex-ar.github.io/Pytml",
-  "piket-kse": "zidanlptp.github.io/absensi-piket-kse",
   "qbit": "fudan-mse.github.io/qbit",
   "qredential": "george-veras.github.io/qredential",
   "qs": "kirjs.github.io/qs.js", // noCF? (don´t add this in a new PR)
