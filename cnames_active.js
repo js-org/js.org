@@ -84,6 +84,7 @@ var cnames_active = {
   "abracadabra": "doc-cgg.pages.dev",
   "abusive": "kikobeats.github.io/abusive",
   "aby": "icoldplayer.github.io/aby",
+  "absenkseunri": "zidanlptp.github.io/absensi-piket-kse",
   "ac": "alauda.github.io/alauda-chart",
   "accent": "sripkunda.github.io/accent",
   "accessibility": "guilhermedelemos.github.io/accessibility",
