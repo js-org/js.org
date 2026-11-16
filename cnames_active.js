@@ -1894,6 +1894,7 @@ var cnames_active = {
   "link-styler": "sheikhoo.github.io/link-styler",
   "linked-markdown": "wazootech.github.io/linked-markdown-ts",
   "linkify": "hypercontext.github.io/linkifyjs",
+  "linkpeek": "thegruber.github.io/linkpeek",
   "linksharer": "linksharer.github.io/linksharer.js.org",
   "lion": "ing-bank.github.io/lion",
   "lips": "jcubic.github.io/lips",
