@@ -6,6 +6,22 @@
 
 ---
 
+## Content Requirements
+
+> [!IMPORTANT]
+> Please be aware that there are some rules that apply to website content hosted on JS.ORG subdomains:
+>
+> **Websites must be *directly* related to the JavaScript ecosystem/community (such as NPM packages / JS tools, not personal pages / portfolios)**
+>
+> - Websites that merely use JavaScript, without otherwise being related to the ecosystem, are not eligible.
+> - No placeholder pages. Websites must contain substantive content relevant to their purpose.
+> - No automatic redirects away from the **js.org** domain. Redirects must require user interaction.
+> - No unrelated content. Websites must stay focused on their intended topic or purpose.
+>
+> _Additionally, please be aware of our full [Terms and Conditions](https://js.org/terms.html) for the JS.ORG service._
+
+---
+
 ## GitHub Pages
 
 To get a short and sleek subdomain for your own GitHub Pages site from JS.ORG follow these 4 steps:
@@ -54,19 +70,13 @@ As above with adding a subdomain to a GitHub Pages site, the final step is to ma
 
 ---
 
-## Content Requirements
-
-> [!IMPORTANT]
-> Please be aware that there are some rules that apply to website content hosted on JS.ORG subdomains:
->
-> **Websites must be *directly* related to the JavaScript ecosystem/community (such as NPM packages / JS tools, not personal pages / portfolios)**
-> 
-> - No placeholder pages. Websites must contain substantive content relevant to their purpose.
-> - No automatic redirects away from the **js.org** domain. Redirects must require user interaction.
-> - No unrelated content. Websites must stay focused on their intended topic or purpose.
->
-> _Additionally, please be aware of our full [Terms and Conditions](https://js.org/terms.html) for the JS.ORG service._
+Thanks to **[Cloudflare](https://www.cloudflare.com)** for their awesome DNS service that makes this service possible. While JS.ORG is using their free plan - to a shameless extent - they helped us more than once with some flexible solutions and extended quotas. Many thanks!
 
 ---
 
-Thanks to **[Cloudflare](https://www.cloudflare.com)** for their awesome DNS service that makes this service possible. While JS.ORG is using their free plan - to a shameless extent - they helped us more than once with some flexible solutions and extended quotas. Many thanks!
+## Timeline
+
+<img src="https://raw.githubusercontent.com/lll69/js-org-stats/refs/heads/stat/domains_and_prs.svg" alt="Timeline Chart">
+
+Third-party source & generator: [lll69/js-org-stats](https://github.com/lll69/js-org-stats)
+
