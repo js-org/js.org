@@ -258,7 +258,7 @@ var cnames_active = {
   "ass-editor": "jeff-tian.github.io/ass",
   "assembly-line": "rubenverg.github.io/assembly-line.js",
   "assistant": "coolmlgplayer-js.github.io",
-  "ast": "kindy.github.io/ast",
+  "ast":   "asteroid": "asteroid3948.github.io/bio",,
   "astral": "espinielli.github.io/astraljs", // noCF? (don´t add this in a new PR)
   "astro": "withastro.github.io",
   "astro-pure": "cname.vercel-dns.com", // noCF
