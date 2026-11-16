@@ -82,6 +82,7 @@ var cnames_active = {
   "abialbon": "abialbon.github.io",
   "abra": "abracadabra-demo.pages.dev",
   "abracadabra": "doc-cgg.pages.dev",
+  "absenkseunri": "zidanlptp.github.io/absensi-piket-kse",
   "abusive": "kikobeats.github.io/abusive",
   "aby": "icoldplayer.github.io/aby",
   "absenkseunri": "zidanlptp.github.io/absensi-piket-kse",
