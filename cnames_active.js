@@ -953,6 +953,7 @@ var cnames_active = {
   "dotlink": "aarondoran.github.io/Node-URL-shortener",
   "dotnify": "dotnify.netlify.app",
   "doz": "dozjs.github.io/website",
+  "dpdp-kit": "yogesh2902.github.io/dpdp-kit",
   "dplayer": "diygod.github.io/DPlayer", // noCF
   "dpm": "xyligan-gp.github.io/discord-player-music",
   "dprof": "andreasmadsen.github.io/dprof",
