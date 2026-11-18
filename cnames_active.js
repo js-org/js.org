@@ -2587,6 +2587,7 @@ var cnames_active = {
   "plan": "agauniyal.github.io/plan",
   "planisphere": "dai-shi.github.io/planisphere-site", // noCF? (don´t add this in a new PR)
   "planner": "openplannerteam.github.io/planner.js",
+  "planora": "zenushian.github.io/Planora",
   "plasticchairclub": "username260104.github.io",
   "platz": "fylipp.github.io/platz.js",
   "play.akash": "hish.github.io/akashjs-playground", // noCF
