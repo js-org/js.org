@@ -439,6 +439,7 @@ var cnames_active = {
   "brawlstats": "brawlstatsjs.netlify.app",
   "brazil": "braziljs.github.io/2025-conf",
   "brick-next": "easyops-cn.github.io/brick-next",
+  "brickbox": "https://prashaxt.github.io/brickbox.js.org",
   "bricklayer": "ademilter.github.io/bricklayer", // noCF? (don´t add this in a new PR)
   "bricks": "easyops-cn.github.io/bricks",
   "bright": "bright-js.github.io",
