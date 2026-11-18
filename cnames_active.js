@@ -2076,6 +2076,7 @@ var cnames_active = {
   "meed": "pinjasaur.github.io/meed",
   "mega": "qgustavor.github.io/megajs-docs",
   "megdb": "megalithoffical.github.io",
+  "megscriptvm": "rutgai.github.io/megscriptvm",
   "meiosis": "foxdonut.github.io/meiosis", // noCF? (don´t add this in a new PR)
   "melies-hugo": "cristinafsanz.github.io/melies-hugo",
   "melody": "trivago.github.io/melody-web",
