@@ -2207,6 +2207,7 @@ var cnames_active = {
   "morse": "the-silver-project.github.io/morse",
   "mosaic": "tilework.github.io/mosaic.js.org",
   "mostage": "mirmousaviii.github.io/mostage",
+  "motion": "nicktwtw.github.io/motion",
   "motion-live": "cname.vercel-dns.com", // noCF
   "mp3tag": "eidoriantan.github.io/mp3tag.js",
   "mpe": "weareroli.github.io/mpejs", // noCF? (don´t add this in a new PR)
