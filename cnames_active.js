@@ -439,6 +439,7 @@ var cnames_active = {
   "brawlstats": "brawlstatsjs.netlify.app",
   "brazil": "braziljs.github.io/2025-conf",
   "brick-next": "easyops-cn.github.io/brick-next",
+  "brickbox": "prashaxt.github.io/brickbox.js.org",
   "bricklayer": "ademilter.github.io/bricklayer", // noCF? (don´t add this in a new PR)
   "bricks": "easyops-cn.github.io/bricks",
   "bright": "bright-js.github.io",
@@ -953,6 +954,7 @@ var cnames_active = {
   "dotlink": "aarondoran.github.io/Node-URL-shortener",
   "dotnify": "dotnify.netlify.app",
   "doz": "dozjs.github.io/website",
+  "dpdp-kit": "yogesh2902.github.io/dpdp-kit",
   "dplayer": "diygod.github.io/DPlayer", // noCF
   "dpm": "xyligan-gp.github.io/discord-player-music",
   "dprof": "andreasmadsen.github.io/dprof",
