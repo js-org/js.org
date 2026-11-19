@@ -845,6 +845,7 @@ var cnames_active = {
   "dignity": "jose-compu.github.io/dignity.js",
   "dime": "anut-py.github.io/dime",
   "dinesh": "dineshondev.github.io/dinesh", // noCF? (don´t add this in a new PR)
+  "dinorush": "ardairmk55.github.io/DinoRush",
   "dinosaur": "path08.github.io/Dinosaur",
   "dipfs": "tyzpkaw-cpu.github.io/dipfs",
   "dipole": "zheksoon.github.io/dipole",
