@@ -949,6 +949,7 @@ var cnames_active = {
   "domxy": "domxy.github.io/domxy",
   "donavon": "donavon.github.io", // noCF? (don´t add this in a new PR)
   "doom": "alauda.github.io/doom",
+  "doom-online": "doom-online.netlify.app",
   "dope": "fouad.github.io/dope", // noCF? (don´t add this in a new PR)
   "dot-microservices": "dot-microservices.github.io/dot",
   "dotlink": "aarondoran.github.io/Node-URL-shortener",
