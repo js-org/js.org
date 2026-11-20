@@ -3581,6 +3581,7 @@ var cnames_active = {
   "typewriter": "nicesapien.github.io/typewriter.js",
   "tyshemo": "tangshuang.github.io/tyshemo",
   "tyvn": "milo123459.github.io/tyvn",
+  "ua-generator": "dropoutlab-dev.github.io/user-agents-generator",
   "uav": "unearth-inc.github.io/uav",
   "ubereats": "korobaka.github.io/ubereats.js",
   "udnisap": "udnisap.github.io",
