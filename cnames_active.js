@@ -439,6 +439,7 @@ var cnames_active = {
   "brawlstats": "brawlstatsjs.netlify.app",
   "brazil": "braziljs.github.io/2025-conf",
   "brick-next": "easyops-cn.github.io/brick-next",
+  "brickbox": "prashaxt.github.io/brickbox.js.org",
   "bricklayer": "ademilter.github.io/bricklayer", // noCF? (don´t add this in a new PR)
   "bricks": "easyops-cn.github.io/bricks",
   "bright": "bright-js.github.io",
@@ -953,6 +954,7 @@ var cnames_active = {
   "dotlink": "aarondoran.github.io/Node-URL-shortener",
   "dotnify": "dotnify.netlify.app",
   "doz": "dozjs.github.io/website",
+  "dpdp-kit": "yogesh2902.github.io/dpdp-kit",
   "dplayer": "diygod.github.io/DPlayer", // noCF
   "dpm": "xyligan-gp.github.io/discord-player-music",
   "dprof": "andreasmadsen.github.io/dprof",
@@ -2037,6 +2039,7 @@ var cnames_active = {
   "mate": "theinternetfolks.github.io/mate",
   "materialish": "jamesplease.github.io/materialish",
   "materialize-bootbox": "iqbalfn.github.io/materialize-bootbox",
+  "materna": "shaonkabir8.github.io/materna",
   "mathflow": "mathflowjs.github.io",
   "matreshka": "finom.github.io/matreshka",
   "matrix": "crashmax-dev.github.io/matrix-canvas",
@@ -2075,6 +2078,7 @@ var cnames_active = {
   "meed": "pinjasaur.github.io/meed",
   "mega": "qgustavor.github.io/megajs-docs",
   "megdb": "megalithoffical.github.io",
+  "megscriptvm": "rutgai.github.io/megscriptvm",
   "meiosis": "foxdonut.github.io/meiosis", // noCF? (don´t add this in a new PR)
   "melies-hugo": "cristinafsanz.github.io/melies-hugo",
   "melody": "trivago.github.io/melody-web",
