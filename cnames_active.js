@@ -3915,6 +3915,7 @@ var cnames_active = {
   "yapin": "yapin-js.github.io/yapinjs",
   "yargs": "yargs.github.io", // noCF? (don´t add this in a new PR)
   "yatta": "cname.vercel-dns.com", // noCF
+  "yatools": "cname.vercel-dns.com", // noCF  
   "yay-machine": "maurice.github.io/yay-machine",
   "ydb": "ydb-platform.github.io/ydb-js-sdk",
   "yennj12": "yennanliu.github.io",
