@@ -215,6 +215,7 @@ var cnames_active = {
   "antropodigital": "antropodigital.github.io/CirculodeEstudio",
   "antwar": "antwarjs.github.io/antwar",
   "anukul": "anukul.github.io",
+  "anypedia": "GOTFeSports.github.io/anypedia",
   "aoi": "aoijs.github.io/website",
   "aom": "aom-js.github.io/docs",
   "aomex": "aomex.github.io",
