@@ -3158,6 +3158,7 @@ var cnames_active = {
   "slidemenu": "alexkratky.github.io/SlideMenu.js",
   "slideout": "mango.github.io/slideout",
   "slider": "nikiforov-org.github.io/slider",
+  "sliderkit": "sliderkit.netlify.app",
   "slides": "deadcoder0904.github.io/slides-official-website",
   "slidey": "thegreatrazz.github.io/slidey",
   "slim": "eavichay.github.io/slim.js",
