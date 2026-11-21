@@ -2501,7 +2501,7 @@ var cnames_active = {
   "panza": "panza-org.github.io/panza-docs", // noCF
   "papanasi": "witty-plant-07a086e03.1.azurestaticapps.net", // noCF
   "paperclip": "crcn.github.io/paperclip.js.org", // noCF? (don´t add this in a new PR)
-  "paprika": "leonardo-moraes360.github.io/paprika"
+  "paprika": "leonardo-moraes360.github.io/paprika",
   "papyrus": "papyrusjs.netlify.app",
   "paraibajs": "cname.vercel-dns.com", // noCF
   "parallel": "parallel-js.github.io/parallel.js",
