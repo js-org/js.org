@@ -2616,6 +2616,7 @@ var cnames_active = {
   "polygon-clipping": "mfogel.github.io/polygon-clipping",
   "polythene": "arthurclemens.github.io/Polythene", // noCF? (don´t add this in a new PR)
   "pomidorus": "tatyshev.github.io/pomidorus",
+  "pomodoro-ultimate": "hugo-maurin-zh.github.io",
   "pong-zh": "xiaozhu2021.github.io/javascript-pong",
   "pools": "phederal.github.io/pools",
   "popcorn-api": "nirewen.github.io/popcorn-api",
