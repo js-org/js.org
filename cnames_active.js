@@ -581,6 +581,7 @@ var cnames_active = {
   "clickforhelp": "clickforhelp.netlify.app",
   "clickhouse": "depyronick.github.io/clickhouse-client",
   "clientworker": "chenyfan.github.io/ClientWorker",
+  "clikea": "clac1212.github.io/clikea",
   "clipx": "cname.vercel-dns.com", // noCF
   "clock": "mirmousaviii.github.io/clock",
   "clockwork": "clockworkdev.github.io/ClockworkWebsite",
