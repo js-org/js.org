@@ -1613,6 +1613,7 @@ var cnames_active = {
   "is": "arasatasaygin.github.io/is.js", // noCF? (don´t add this in a new PR)
   "is-number": "ultirequiem.github.io/is-number",
   "isadb": "renato425.github.io/isadb.github.io",
+  "isagent": "ilslaoaycd.github.io/isagent",
   "isbot": "omrilotan.github.io/isbot",
   "iscaptive": "marvnet.github.io/iscaptive",
   "ishan": "ishanthukral.github.io/ishan.js", // noCF? (don´t add this in a new PR)
