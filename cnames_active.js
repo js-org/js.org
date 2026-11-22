@@ -2138,6 +2138,7 @@ var cnames_active = {
   "minirouter": "milio48.github.io/minirouter.js",
   "minivaline": "minivaline.github.io",
   "miny": "pablopunk.github.io/miny",
+  "mir": "miroshkin.vercel.app", // noCF
   "mirage": "camwang.github.io/mirage",
   "mirror": "hmsjy2017.github.io/Google-Mirrors",
   "mirrors": "llxlr.github.io/mirrors",
