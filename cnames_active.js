@@ -2139,6 +2139,7 @@ var cnames_active = {
   "minivaline": "minivaline.github.io",
   "miny": "pablopunk.github.io/miny",
   "mirage": "camwang.github.io/mirage",
+  "mir": "miroshkin.vercel.app",
   "mirror": "hmsjy2017.github.io/Google-Mirrors",
   "mirrors": "llxlr.github.io/mirrors",
   "miru": "miru-project.github.io/docs",
