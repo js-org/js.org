@@ -3442,6 +3442,7 @@ var cnames_active = {
   "testframe": "testingrequired.github.io/testframe",
   "testio": "yavrumian.github.io/test.io",
   "tetr": "proximitynow19.github.io/TETR.JS",
+  "texglass": "klepo0.github.io/TeXglass",
   "text-encryption-tool": "tanvishgg.github.io/Text-Encryption-Tool",
   "text-to-handwriting": "ankit-chaubey.github.io/text-to-handwriting",
   "textarea": "collaborativetextarea.github.io/textarea", // noCF
