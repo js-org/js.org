@@ -2279,6 +2279,7 @@ var cnames_active = {
   "nbabot": "eliotchignell.github.io/NBABot",
   "ncub8": "ncub8.github.io", // noCF? (don´t add this in a new PR)
   "nearley": "kach.github.io/nearley",
+  "nebuluxe": "nicksnow242-ctrl.github.io/Nebuluxe",
   "necord": "necordjs.github.io/necord.org",
   "nectar": "cname.vercel-dns.com", // noCF
   "nector": "cname.vercel-dns.com", // noCF
