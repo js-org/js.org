@@ -1736,6 +1736,7 @@ var cnames_active = {
   "kali": "kali65536.github.io",
   "kalm": "fed135.github.io/kalm.github.io", // noCF? (don´t add this in a new PR)
   "kampala": "javascriptkampala.github.io/kampala",
+    "kanqka": "://vercel-dns.com", // noCF
   "kanji": "eidoriantan.github.io/kanji.js",
   "karateblobs": "karatewumpus.github.io/karateblobs",
   "karl": "focused-bassi-cc0eff.netlify.app",
