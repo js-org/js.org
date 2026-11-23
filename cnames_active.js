@@ -3317,6 +3317,7 @@ var cnames_active = {
   "stratic": "straticjs.github.io",
   "stream-regex": "getjerry.github.io/stream-regex",
   "stress": "julindra.github.io/stress.js",
+  "strova": "alphamiro9.github.io/strova",
   "structure": "hosting.gitbook.io", // noCF
   "strudel": "strudeljs.netlify.app",
   "strygwyr": "sinkaroid.github.io/strygwyr",
