@@ -1810,6 +1810,7 @@ var cnames_active = {
   "kun": "lmk97.github.io/kun-docs",
   "kunal": "kunalghosh02.github.io",
   "kunkun": "smallkunkun.github.io",
+  "kwiva": "kwiva-js.github.io/website",
   "kyoto": "kyotojs.github.io",
   "l2dwidget": "xiazeyu.github.io/live2d-widget.js-doc",
   "lab": "labjs.netlify.app",
