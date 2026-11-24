@@ -1511,6 +1511,7 @@ var cnames_active = {
   "html-webpack-plugin": "jantimon.github.io/html-webpack-plugin-repl",
   "htmljar": "syntacstudio.github.io/html-jar",
   "htony": "themetony.github.io/hugo-theme-tony",
+  "http-postgres": "http-postgres.github.io/http-postgres",
   "http4ts": "http4ts.github.io/http4ts",
   "httpfy": "devxprite.github.io/httpfy",
   "httpman": "httpman.github.io",
