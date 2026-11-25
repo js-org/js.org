@@ -2447,6 +2447,7 @@ var cnames_active = {
   "open-next": "serverless-stack.github.io/open-next",
   "openauth": "openauthjs.github.io/openauth",
   "opencc": "opencc-wasm.pages.dev",
+  "openhax": "said19605353gemini-cell.github.io/open-hax-modern",
   "openkey": "microlinkhq.github.io/openkey",
   "opennext": "opennextjs.github.io/docs",
   "openrecord": "philwaldmann.github.io/openrecord",
