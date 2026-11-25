@@ -427,6 +427,7 @@ var cnames_active = {
   "boundless": "enigma-io.github.io/boundless",
   "box": "capacitorset.github.io/box-js", // noCF
   "boxed": "lionking27.github.io/boxed",
+  "boywo": "jacquardo.github.io/BOYWO-Boost-Your-Work",
   "bozoloop": "valgaze.github.io/bozoloop",
   "bquery": "bquery.github.io/bQuery",
   "brain": "brainjs.github.io/brain.js.org",
