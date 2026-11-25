@@ -3510,6 +3510,7 @@ var cnames_active = {
   "topbot": "resign05.github.io/TobWebsite",
   "topgg": "topgg-node-sdk-docs.netlify.app",
   "tori": "boostcode.github.io/torijs",
+  "torino": "torinojs.github.io",
   "torlondev": "torlondev.github.io",
   "torpedo": "divysrivastava.github.io/torpedo.js",
   "tra": "trajs-ai.github.io/trajs",
