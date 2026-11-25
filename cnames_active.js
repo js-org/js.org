@@ -1274,6 +1274,7 @@ var cnames_active = {
   "funbook": "egoist.github.io/funbook",
   "funcs": "funcs-package.github.io/docs",
   "fusilli": "anthemaker.github.io/Fusilli.js",
+  "fusion": "laylarosales2016-arch.github.io/fusion",
   "fvuar": "fvuarjs.netlify.app",
   "fy": "fyjs.netlify.app",
   "fyi": "tobihrbr.github.io/fyi",
@@ -3975,7 +3976,6 @@ var cnames_active = {
   "zylog": "cname.vercel-dns.com", // noCF
   "zyx": "zyx.alwaysdata.net",
   "zyy": "zyyou.github.io/notes"
-  "fusion": "laylarosales2016-arch.github.io/fusion",
   /*
    * please don't add your subdomain records down here!
    * insert them in alphabetical order to help reduce merge conflicts.
