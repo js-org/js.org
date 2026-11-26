@@ -225,6 +225,7 @@ var cnames_active = {
   "aplayer": "diygod.github.io/APlayer",
   "aplayer-react": "cname.vercel-dns.com", // noCF
   "apod": "marcosflorencio.github.io/angular-apod", // noCF? (don´t add this in a new PR)
+  "appframework": "gmangrum.github.io/appframework",
   "applied": "omahajs.github.io/applied",
   "apprun": "yysun.github.io/apprun",
   "appsocket": "appsocket.netlify.app",
