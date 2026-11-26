@@ -1882,6 +1882,7 @@ var cnames_active = {
   "libh": "ihasq.github.io/libh",
   "libphonenumbers": "libphonenumbers.github.io",
   "license-cop": "tobysmith568.github.io/license-cop",
+  "licham": "zthanhluan.github.io/licham",
   "lifeisyoung": "lifeisyoung.github.io",
   "lift-html": "jlarky.github.io/lift-html",
   "light": "lightjs.netlify.app",
