@@ -303,6 +303,7 @@ var cnames_active = {
   "awesomehub": "awesomehub.netlify.app",
   "awk": "42ua.github.io/awk",
   "awoo": "awoojs.github.io/website",
+  "axast": "axmhub.github.io/axast",
   "axii": "ariesate.github.io/axii-site",
   "axios-cache-interceptor": "arthurfiorette.github.io/axios-cache-interceptor",
   "axios-cache-lite": "nom-nom-hub.github.io/axios-cache-lite",
