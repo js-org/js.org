@@ -114,6 +114,7 @@ var cnames_active = {
   "affiliate": "russellsteadman.github.io/affiliate",
   "affinityhub": "s1m0np1.github.io/affinity-script-installer",
   "afilters": "dmytrohoi.github.io/afilters.js",
+  "aftercode-official": "aftercode-official.github.io/Aftercode-share",
   "afterwind": "eedrxs.github.io/afterwind",
   "agahi": "teneplaysofficial.github.io/agahi",
   "agenda-tech-brasil-site": "abacatinhos.github.io/agenda-tech-brasil-site",
