@@ -3173,6 +3173,7 @@ var cnames_active = {
   "smooscroll": "shuninyu.github.io/SmooScroll",
   "smoove": "abemedia.github.io/jquery-smoove",
   "snail-ide": "snail-ide.github.io",
+  "Aftercode-official": "aftercode-official.github.io/Aftercode-share",
   "snake": "pakastin.github.io/snake",
   "snaplabs": "cname.vercel-dns.com", // noCF
   "snekfetch": "devsnek.github.io/snekfetch",
