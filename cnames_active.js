@@ -3739,9 +3739,9 @@ var cnames_active = {
   "vk-x": "vk-x.github.io",
   "vlite": "vlitejs.github.io",
   "vlr": "vlrjs.github.io/website",
+  "vn-trimeteo": "bakbackb.github.io/weather-dashboard",
   "vncz": "xvincentx.github.io/vncz",
   "vnpay": "cname.vercel-dns.com", // noCF
-  "vn-trimeteo": "bakbackb.github.io/weather-dashboard",
   "vocab": "battleofplassey.github.io/ministry-of-vocabulary",
   "volantis": "volantis-x.github.io/community",
   "volantis-x": "volantis-x.github.io",
